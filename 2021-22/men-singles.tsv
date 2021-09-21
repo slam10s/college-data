@@ -1,9 +1,9 @@
 ---
 tournaments: 15
-players: 346
-matches: 446
-completed: 403
-scheduled: 43
+players: 354
+matches: 461
+completed: 422
+scheduled: 39
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	ypm1k7		z6q4y8		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -155,25 +155,40 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24367	1	3	2	4	1	60xcvi		cz1x91		F		Brian King		Niko Papachrisanthou	82
 21-24367	1	3	2	3	1	60xcvi		7ndxxd		SF		Brian King		Isaiah Buse	Walkover
 21-24367	1	3	2	3	1	cz1x91		j3llpx		SF		Niko Papachrisanthou		Bryson Crowell	86
-21-39721	1	1	1	1		bixuv0		c26gic		128		Javier Ruiz Medina		Caden Moortgat	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		ljcz2l		0gma2y		128	22	Nicolas Herrera Cuesta		Johnny Mascagni	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		n7mjkp		tf9l1l		128		Marcos Zelver		Matteo Savio	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		3scqku		brevs5		128		Michael Blando		Roko Savin	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		cp5r5b		h5dfxv		128		Martin Simecek		Bo-Han Li	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		zq16rs		5dhrtn		128		Arthur Serafim		Sergi Mico Fenollar	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		ub670l		c8iy66		128		Francisco Gay		Arjun Kersten	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		ooqmyq		toqmyq		128		Jack Ninteman		Gustav Thielgaard	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		5jt9hh		77595t		128	30	Daniel Krulig		Morgan Donovan	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		hndxxd		wos24y		128		Daan Van Dijk		Joel Pierleoni	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		840qwi		8goq86		128		Wally Thayne		Guillermo Martin	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		9rgbyd		3m08w0		128	26	Patrick Kristensen		Zach Fuchs	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		6mhibw		b0xcvi		128		Thomas Navarro		Kyle Garner	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		9xstm7		5aase4		128		Mathias Gavelin		Justin Waldman	Tue @ 10:00 (ET)
-21-39721	1	1	1	1		uhipof		umhibw		128	31	Robert Baylon		Marcus Sulen	Tue @ 11:30 (ET)
-21-39721	1	1	1	1		51trhz		el4taj		128		Nejc Sitar		Georgio Samaha	Tue @ 11:30 (ET)
-21-39721	1	1	1	1		99gtyv		x5w5iz		128		Brigham Andrus		Andreas Kramer	Tue @ 11:30 (ET)
-21-39721	1	1	1	1		vll3pf		632v4t		128		Daniel Dillon		Bruno Casino	Tue @ 11:30 (ET)
-21-39721	1	1	1	1		c9x3dr		wigkg4		128		Zach Garner		Moritz Stoeger	Tue @ 11:30 (ET)
+21-39721	1	1	1	2		b69ujc		bixuv0		64	1	James Davis		Javier Ruiz Medina	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		ljcz2l		tf9l1l		64	22	Nicolas Herrera Cuesta		Matteo Savio	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		ijajwd		brevs5		64	9	Kyryll Kryvchun		Roko Savin	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		xnwnih		h5dfxv		64	20	Rafael AbdulSalam		Bo-Han Li	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		ck6yiu		5dhrtn		64	7	Simon Arca Costas		Sergi Mico Fenollar	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		iulu7o		ub670l		64	19	Facundo Tumosa		Francisco Gay	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		6q16rs		toqmyq		64	14	Louis Menard		Gustav Thielgaard	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		5jt9hh		wos24y		64	30	Daniel Krulig		Joel Pierleoni	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		bclc76		840qwi		64	4	Matt Summers		Wally Thayne	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		3m08w0		b0xcvi		64		Zach Fuchs		Kyle Garner	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		57595t		9xstm7		64	10	Mattia Ros		Mathias Gavelin	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		uhipof		el4taj		64	31	Robert Baylon		Georgio Samaha	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		r6sk4g		x5w5iz		64	8	Francisco Bastias		Andreas Kramer	Tue @ 14:30 (ET)
+21-39721	1	1	1	2		htpfl7		632v4t		64	17	Peter Sallay		Bruno Casino	Tue @ 16:00 (ET)
+21-39721	1	1	1	2		obpxlp		c9x3dr		64	11	Eban Straker-Meads		Zach Garner	Tue @ 16:00 (ET)
+21-39721	1	1	1	1	1	bixuv0		c26gic		128		Javier Ruiz Medina		Caden Moortgat	75 46 63
+21-39721	1	1	1	1	1	ljcz2l		0gma2y		128	22	Nicolas Herrera Cuesta		Johnny Mascagni	62 63
+21-39721	1	1	1	1	1	tf9l1l		n7mjkp		128		Matteo Savio		Marcos Zelver	62 36 63
+21-39721	1	1	1	1	1	brevs5		3scqku		128		Roko Savin		Michael Blando	63 62
+21-39721	1	1	1	1	1	h5dfxv		cp5r5b		128		Bo-Han Li		Martin Simecek	63 36 60
+21-39721	1	1	1	1	1	5dhrtn		zq16rs		128		Sergi Mico Fenollar		Arthur Serafim	64 62
+21-39721	1	1	1	1	1	ub670l		c8iy66		128		Francisco Gay		Arjun Kersten	62 62
+21-39721	1	1	1	1	1	toqmyq		ooqmyq		128		Gustav Thielgaard		Jack Ninteman	63 62
+21-39721	1	1	1	1	1	5jt9hh		77595t		128	30	Daniel Krulig		Morgan Donovan	61 61
+21-39721	1	1	1	1	1	wos24y		hndxxd		128		Joel Pierleoni		Daan Van Dijk	63 64
+21-39721	1	1	1	1	1	840qwi		8goq86		128		Wally Thayne		Guillermo Martin	36 61 63
+21-39721	1	1	1	1	1	3m08w0		9rgbyd		128	26	Zach Fuchs		Patrick Kristensen	75 61
+21-39721	1	1	1	1	1	b0xcvi		6mhibw		128		Kyle Garner		Thomas Navarro	63 63
+21-39721	1	1	1	1	1	9xstm7		5aase4		128		Mathias Gavelin		Justin Waldman	63 63
+21-39721	1	1	1	1	1	uhipof		umhibw		128	31	Robert Baylon		Marcus Sulen	62 62
+21-39721	1	1	1	1	1	el4taj		51trhz		128		Georgio Samaha		Nejc Sitar	62 64
+21-39721	1	1	1	1	1	x5w5iz		99gtyv		128		Andreas Kramer		Brigham Andrus	64 16 62
+21-39721	1	1	1	1	1	632v4t		vll3pf		128		Bruno Casino		Daniel Dillon	62 62
+21-39721	1	1	1	1	1	c9x3dr		wigkg4		128		Zach Garner		Moritz Stoeger	63 60
 21-39721	1	1	1	1		181ora		qd0her		128		Gijs Akkermans		Josh Pearce	Tue @ 11:30 (ET)
 21-39721	1	1	1	1		4q16rs		1q16rs		128		Luke Wolf		Alexander Groves	Tue @ 11:30 (ET)
 21-39721	1	1	1	1		ipm1k7		qjcz2l		128		Mario Duron	32	Matheus Leite	Tue @ 11:30 (ET)
