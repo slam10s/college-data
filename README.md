@@ -1,6 +1,6 @@
 # College Tennis Data
 
-This repository will be a public facing repository that will eventually contain all the data displayed at [SLAM.Tennis](https://www.slam.tennis/teams/rankings.asp) as well as a GitHub pages [prototype website](https://www.slam.tennis/teams/rankings.asp).
+This repository will be a public facing repository that will eventually contain all the data displayed at [SLAM.Tennis](https://www.slam.tennis/teams/rankings.asp) as well as a GitHub pages [prototype website](https://www.slam.tennis/teams/rankings.asp) that displays the data in ways that might eventually be incorporated into the SLAM.Tennis site over time.
 
 ### License
 
