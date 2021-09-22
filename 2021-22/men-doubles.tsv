@@ -1,9 +1,9 @@
 ---
 tournaments: 15
 players: 364
-matches: 212
-completed: 196
-scheduled: 16
+matches: 241
+completed: 233
+scheduled: 8
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	3	1	1	3	1	h9edsn	ojajwd	z6q4y8	s26gic	F		Fernandez/Bianchi		Fisicaro/Krolo	75
@@ -28,14 +28,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00238	3	2	2	1	1	ml2d4b	yvyj81	n26gic	zoqmyq	SF		Mathiason/Quaynor		Capone/Carvajalino	75
 21-00238	3	2	2	1	1	5b670l	rrevs5	at6p03	hl2d4b	SF		Gonzalez/Vecchia		Mckenzie/Chassaignac	76
 21-00238	3	2	3	1	1	3pm1k7	y7mjkp	y1a1wv	b4yaqa	F		Sell/Mayer		Mosvold/Dalisay	Walkover
-21-00238	3	3	1	3	1	n8iy66	4oqmyq	tvyj81	5hipof	R3		Breitenmoser/Lorenzo Brull		Fiorito/Frequelin	62
+21-00238	3	3	1	3	1	n8iy66	4oqmyq	tvyj81	5hipof	R3		Breitenmoser/Lorenz…		Fiorito/Frequelin	62
 21-00238	3	3	1	3	1	fzi7ox	rxqdgz	nk6yiu	tdy18j	R3		Watanabi/Shestakov		Fiala/Capone	62
-21-00238	3	3	1	2	1	uu24mk	lmysqs	n8iy66	4oqmyq	R2		Blair/Shearer		Breitenmoser/Lorenzo Brull	63
+21-00238	3	3	1	2	1	uu24mk	lmysqs	n8iy66	4oqmyq	R2		Blair/Shearer		Breitenmoser/Lorenz…	63
 21-00238	3	3	1	2	1	fzi7ox	rxqdgz	55upcr	ab670l	R2		Watanabi/Shestakov		Burton/Holden	63
 21-00238	3	3	1	1	1	uu24mk	lmysqs	tvyj81	5hipof	R1		Blair/Shearer		Fiorito/Frequelin	62
 21-00238	3	3	1	1	1	55upcr	ab670l	nk6yiu	tdy18j	R1		Burton/Holden		Fiala/Capone	62
 21-00238	3	3	2	1	1	uu24mk	lmysqs	fzi7ox	rxqdgz	F		Blair/Shearer		Watanabi/Shestakov	62
-21-00238	3	3	3	1	1	55upcr	ab670l	n8iy66	4oqmyq	F		Burton/Holden		Breitenmoser/Lorenzo Brull	63
+21-00238	3	3	3	1	1	55upcr	ab670l	n8iy66	4oqmyq	F		Burton/Holden		Breitenmoser/Lorenz…	63
 21-00238	3	3	4	1	1	tvyj81	5hipof	nk6yiu	tdy18j	F		Fiorito/Frequelin		Fiala/Capone	64
 21-22816	3	1	1	3	1	mulu7o	rulu7o	yatiz8	a2p63g	F		Constantino/Nokic		Elkin/Dekester	62
 21-22816	3	1	1	2	1	yatiz8	a2p63g	sbpxlp	8st0zq	SF		Elkin/Dekester		Brown/Walcher	Walkover
@@ -59,31 +59,43 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24367	3	1	1	4	1	7h1f9j	6ixuv0	ist0zq	of9l1l	F		Corser/Sanoja		Grumley/Shelepov	62
 21-24367	3	1	1	3	1	ist0zq	of9l1l	jf9l1l	0dhrtn	SF		Grumley/Shelepov		Adamek/Neff	63
 21-24367	3	1	1	3	1	7h1f9j	6ixuv0	01trhz	6o9cju	SF		Corser/Sanoja		Szeri/Nunez	62
-21-24367	3	1	1	2	1	jf9l1l	0dhrtn	orxld9	07595t	QF		Adamek/Neff		Mukkaladyil/Salamanca De Arcos	63
+21-24367	3	1	1	2	1	jf9l1l	0dhrtn	orxld9	07595t	QF		Adamek/Neff		Mukkaladyil/Salaman…	63
 21-24367	3	1	1	2	1	ist0zq	of9l1l	o9x3dr	cndxxd	QF		Grumley/Shelepov		Walker/Tsyrenov	61
 21-24367	3	1	1	2	1	7h1f9j	6ixuv0	0p5r5b	oll3pf	QF		Corser/Sanoja		Keiner/Rodriguez	61
 21-24367	3	1	1	2	1	01trhz	6o9cju	ctpfl7	i4h0be	QF		Szeri/Nunez		Schneider/Schorr	75
-21-24367	3	1	1	1	1	orxld9	07595t	pkpo3y	60xcvi	16		Mukkaladyil/Salamanca De Arcos		Cequea/King	75
+21-24367	3	1	1	1	1	orxld9	07595t	pkpo3y	60xcvi	16		Mukkaladyil/Salaman…		Cequea/King	75
 21-24367	3	1	1	1	1	7h1f9j	6ixuv0	169ujc	uq16rs	16		Corser/Sanoja		Cooke/Subert	63
-21-24367	3	1	1	1	1	ctpfl7	i4h0be	o3llpx	cz1x91	16		Schneider/Schorr		Harris/Papachrisanthou	63
-21-39721	2	1	1	2		b69ujc	bclc76	5dhrtn	ooqmyq	32	1	Davis/Summers		Mico Fenollar/Ninteman	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		q7ozqx	toqmyq	6ed6f4	umhibw	32	16	Sciglitano/Thielgaard		Schaefer/Sulen	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		r0g2gm	hwuyui	xnwnih	2zknu5	32	5	Cierny/Zarkovic		AbdulSalam/Prieto	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		wos24y	fk8eo2	t9x3dr	zq16rs	32	10	Pierleoni/Azkara		Buxman/Serafim	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		lv0ze9	qjcz2l	2t856b	xhk5un	32	3	Barnett/Leite		Ta/Blando	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		ub670l	ipm1k7	trxld9	n4h0be	32		Gay/Duron		Marouani/Sarap	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		obpxlp	iulu7o	c9x3dr	o1trhz	32	6	Straker-Meads/Tumosa		Garner/Ciszewski	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		htpfl7	5jt9hh	qd0her	kwwe0q	32	13	Sallay/Krulig		Pearce/Schreiner	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		n7mjkp	ny5ink	kqkwcw	ru4kss	32		Zelver/Buckland		Vereau/Jakovljevic	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		669ujc	632v4t	ljcz2l	57595t	32		Bascon/Casino	8	Herrera Cuesta/Ros	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		wigkg4	8goq86	ck6yiu	ndy18j	32		Stoeger/Martin	11	Arca Costas/Soskic	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		6revs5	ou24mk	r6sk4g	lpohqf	32		Minakata/Marquardt	4	Bastias/Caula	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		natiz8	hndxxd	840qwi	3m08w0	32		Panik/Van Dijk	14	Thayne/Fuchs	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		0gma2y	c8iy66	uulu7o	o7595t	32		Mascagni/Kersten	7	Sauer/Atherton	Wed @ 09:00 (ET)
-21-39721	2	1	1	2		h26gic	5gma2y	efsbmp	9rgbyd	32		Shaffrey/Pudney	9	Trhac/Kristensen	Wed @ 09:45 (ET)
-21-39721	2	1	1	2		25w5iz	8ac8kc	feww08	934ba1	32		Maggs/Pucalka	2	Capalbo/Busleiman	Wed @ 09:45 (ET)
-21-39721	2	1	1	1	1	5dhrtn	ooqmyq	dulu7o	1q16rs	64		Mico Fenollar/Ninteman		Buzonics/Groves	85
-21-39721	2	1	1	1	1	q7ozqx	toqmyq	4q16rs	b0xcvi	64	16	Sciglitano/Thielgaard		Wolf/Garner	86
+21-24367	3	1	1	1	1	ctpfl7	i4h0be	o3llpx	cz1x91	16		Schneider/Schorr		Harris/Papachrisant…	63
+21-39721	2	1	1	4		b69ujc	bclc76	r0g2gm	hwuyui	QF	1	Davis/Summers	5	Cierny/Zarkovic	Thu @ 09:00
+21-39721	2	1	1	4		lv0ze9	qjcz2l	obpxlp	iulu7o	QF	3	Barnett/Leite	6	Straker-Meads/Tumosa	Thu @ 09:00
+21-39721	2	1	1	4		n7mjkp	ny5ink	r6sk4g	lpohqf	QF		Zelver/Buckland	4	Bastias/Caula	Thu @ 09:00
+21-39721	2	1	1	4		natiz8	hndxxd	efsbmp	9rgbyd	QF		Panik/Van Dijk	9	Trhac/Kristensen	Thu @ 09:00
+21-39721	2	1	1	3	1	b69ujc	bclc76	q7ozqx	toqmyq	16	1	Davis/Summers	16	Sciglitano/Thielgaa…	81
+21-39721	2	1	1	3	1	r0g2gm	hwuyui	t9x3dr	zq16rs	16	5	Cierny/Zarkovic		Buxman/Serafim	85
+21-39721	2	1	1	3	1	lv0ze9	qjcz2l	ub670l	ipm1k7	16	3	Barnett/Leite		Gay/Duron	86
+21-39721	2	1	1	3	1	obpxlp	iulu7o	htpfl7	5jt9hh	16	6	Straker-Meads/Tumosa	13	Sallay/Krulig	87(7)
+21-39721	2	1	1	3	1	n7mjkp	ny5ink	ljcz2l	57595t	16		Zelver/Buckland	8	Herrera Cuesta/Ros	84
+21-39721	2	1	1	3	1	r6sk4g	lpohqf	wigkg4	8goq86	16		Bastias/Caula	4	Stoeger/Martin	86
+21-39721	2	1	1	3	1	natiz8	hndxxd	uulu7o	o7595t	16		Panik/Van Dijk	7	Sauer/Atherton	86
+21-39721	2	1	1	3	1	efsbmp	9rgbyd	feww08	934ba1	16	9	Trhac/Kristensen	2	Capalbo/Busleiman	85
+21-39721	2	1	1	2	1	b69ujc	bclc76	5dhrtn	ooqmyq	32	1	Davis/Summers		Mico Fenollar/Ninte…	82
+21-39721	2	1	1	2	1	q7ozqx	toqmyq	6ed6f4	umhibw	32	16	Sciglitano/Thielgaa…		Schaefer/Sulen	82
+21-39721	2	1	1	2	1	r0g2gm	hwuyui	xnwnih	2zknu5	32	5	Cierny/Zarkovic		AbdulSalam/Prieto	87(5)
+21-39721	2	1	1	2	1	t9x3dr	zq16rs	wos24y	fk8eo2	32	10	Buxman/Serafim		Pierleoni/Azkara	86
+21-39721	2	1	1	2	1	lv0ze9	qjcz2l	2t856b	xhk5un	32	3	Barnett/Leite		Ta/Blando	84
+21-39721	2	1	1	2	1	ub670l	ipm1k7	trxld9	n4h0be	32		Gay/Duron		Marouani/Sarap	84
+21-39721	2	1	1	2	1	obpxlp	iulu7o	c9x3dr	o1trhz	32	6	Straker-Meads/Tumosa		Garner/Ciszewski	84
+21-39721	2	1	1	2	1	htpfl7	5jt9hh	qd0her	kwwe0q	32	13	Sallay/Krulig		Pearce/Schreiner	86
+21-39721	2	1	1	2	1	n7mjkp	ny5ink	kqkwcw	ru4kss	32		Zelver/Buckland		Vereau/Jakovljevic	83
+21-39721	2	1	1	2	1	ljcz2l	57595t	669ujc	632v4t	32		Herrera Cuesta/Ros	8	Bascon/Casino	84
+21-39721	2	1	1	2	1	wigkg4	8goq86	ck6yiu	ndy18j	32		Stoeger/Martin	11	Arca Costas/Soskic	85
+21-39721	2	1	1	2	1	r6sk4g	lpohqf	6revs5	ou24mk	32		Bastias/Caula	4	Minakata/Marquardt	86
+21-39721	2	1	1	2	1	natiz8	hndxxd	840qwi	3m08w0	32		Panik/Van Dijk	14	Thayne/Fuchs	86
+21-39721	2	1	1	2	1	uulu7o	o7595t	0gma2y	c8iy66	32		Sauer/Atherton	7	Mascagni/Kersten	87(4)
+21-39721	2	1	1	2	1	efsbmp	9rgbyd	h26gic	5gma2y	32		Trhac/Kristensen	9	Shaffrey/Pudney	86
+21-39721	2	1	1	2	1	feww08	934ba1	25w5iz	8ac8kc	32		Capalbo/Busleiman	2	Maggs/Pucalka	85
+21-39721	2	1	1	1	1	5dhrtn	ooqmyq	dulu7o	1q16rs	64		Mico Fenollar/Ninte…		Buzonics/Groves	85
+21-39721	2	1	1	1	1	q7ozqx	toqmyq	4q16rs	b0xcvi	64	16	Sciglitano/Thielgaa…		Wolf/Garner	86
 21-39721	2	1	1	1	1	6ed6f4	umhibw	51trhz	idy18j	64		Schaefer/Sulen		Sitar/Nathan	82
 21-39721	2	1	1	1	1	xnwnih	2zknu5	99gtyv	wu4kss	64		AbdulSalam/Prieto		Andrus/Lin	87(2)
 21-39721	2	1	1	1	1	t9x3dr	zq16rs	ijajwd	0saaem	64		Buxman/Serafim		Kryvchun/Bott	87(5)
@@ -103,6 +115,23 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-39721	2	1	1	1	1	0gma2y	c8iy66	5vh9t5	tf9l1l	64		Mascagni/Kersten		Coutinho/Savio	82
 21-39721	2	1	1	1	1	h26gic	5gma2y	5aase4	zzi7ox	64		Shaffrey/Pudney		Waldman/Vroman	86
 21-39721	2	1	1	1	1	25w5iz	8ac8kc	3yo88o	bixuv0	64		Maggs/Pucalka		Acosta/Ruiz Medina	87(4)
+21-39721	2	2	1	3		dulu7o	1q16rs	ijajwd	0saaem	QF		Buzonics/Groves		Kryvchun/Bott	Thu @ 09:00
+21-39721	2	2	1	3		6q16rs	cp5r5b	vrxld9	181ora	QF		Menard/Simecek		Clarke/Akkermans	Thu @ 09:00
+21-39721	2	2	1	3		62p63g	vll3pf	u69ujc	6mhibw	QF		Ziomber/Dillon		Hambrook/Navarro	Thu @ 09:00
+21-39721	2	2	1	3		5vh9t5	tf9l1l	3yo88o	bixuv0	QF		Coutinho/Savio		Acosta/Ruiz Medina	Thu @ 09:00
+21-39721	2	2	1	2	1	dulu7o	1q16rs	51trhz	idy18j	16		Buzonics/Groves		Sitar/Nathan	83
+21-39721	2	2	1	2	1	ijajwd	0saaem	99gtyv	wu4kss	16		Kryvchun/Bott		Andrus/Lin	85
+21-39721	2	2	1	2	1	6q16rs	cp5r5b	zwdofm	zkpo3y	16		Menard/Simecek		Robbertse/Cankus	87(5)
+21-39721	2	2	1	2	1	vrxld9	181ora	c26gic	f8kece	16		Clarke/Akkermans		Moortgat/Haas	86
+21-39721	2	2	1	2	1	62p63g	vll3pf	ivyj81	uhipof	16		Ziomber/Dillon		Azuma/Baylon	86
+21-39721	2	2	1	2	1	u69ujc	6mhibw	h5dfxv	ng50n2	16		Hambrook/Navarro		Li/Lin	86
+21-39721	2	2	1	2	1	5vh9t5	tf9l1l	ceugu0	brevs5	16		Coutinho/Savio		Chavez/Savin	85
+21-39721	2	2	1	2	1	3yo88o	bixuv0	5aase4	zzi7ox	16		Acosta/Ruiz Medina		Waldman/Vroman	85
+21-39721	2	2	1	1	1	51trhz	idy18j	4q16rs	b0xcvi	32		Sitar/Nathan		Wolf/Garner	86
+21-39721	2	2	1	1	1	zwdofm	zkpo3y	9xstm7	3goq86	32		Robbertse/Cankus		Gavelin/Krenn	86
+21-39721	2	2	1	1	1	vrxld9	181ora	t3llpx	x5w5iz	32		Clarke/Akkermans		Fujita/Kramer	83
+21-39721	2	2	1	1	1	ivyj81	uhipof	i0xcvi	77595t	32		Azuma/Baylon		Steele/Donovan	84
+21-39721	2	2	1	1	1	ceugu0	brevs5	u5upcr	tll3pf	32		Chavez/Savin		Masala/Ramesh	85
 21-41355	2	1	1	4	1	fvh9t5	l69ujc	x4h0be	9q16rs	F	4	Karpinski/Koons	3	Fouzas/Gran	62
 21-41355	2	1	1	3	1	x4h0be	9q16rs	r5dfxv	981ora	SF		Fouzas/Gran	4	Theaker/Rogowski	64
 21-41355	2	1	1	3	1	fvh9t5	l69ujc	rh1f9j	xg50n2	SF	3	Karpinski/Koons	2	Lamas/Vargas	61
@@ -132,7 +161,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-76336	3	2	1	1	1	87595t	b9x3dr	oulu7o	tclc76	16	3	Brocanelli/Sion		Mulder/Schorg	62
 21-76336	3	2	1	1	1	8dhrtn	5st0zq	wll3pf	ubpxlp	16		Bindl/Springer		Bornemeier/Martin	62
 21-76336	3	2	1	1	1	wx9313	pz1x91	19x3dr	np5r5b	16		Arza/Heiss		DeLeo/Swaney	61
-21-76336	3	2	1	1	1	qg50n2	1f9l1l	oo9cju	5atiz8	16		Beke/Coy	2	Pacheco/Rodriguez Berdud	63
+21-76336	3	2	1	1	1	qg50n2	1f9l1l	oo9cju	5atiz8	16		Beke/Coy	2	Pacheco/Rodriguez B…	63
 21-79025	3	1	1	3	1	vl2d4b	x1a1wv	wqig6o	asaaem	F		Whittington/Liao		Roy/Haley	75
 21-79025	3	1	1	2	1	wqig6o	asaaem	ezi7ox	tc2mm2	SF		Roy/Haley		Reed/Barragan	60
 21-79025	3	1	1	2	1	vl2d4b	x1a1wv	pyms2g	3u24mk	SF		Whittington/Liao		Schechter/Johns	62
@@ -152,13 +181,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-79025	3	2	2	1	1	sdy18j	yoqmyq	9zi7ox	reugu0	SF		Fernandez/Ferree		Kimbell Cook/Huang	61
 21-79025	3	2	3	1	1	hk6yiu	zhipof	3ie4aw	126gic	F		Borovik/Burton		Koth/Urdaneta	Walkover
 21-79025	3	2	4	1	1	9zi7ox	reugu0	27mjkp	znu7c9	F		Kimbell Cook/Huang		Robertson/Barragan	Default
-21-79025	3	3	1	3	1	9b670l	9t6p03	45upcr	pgma2y	F		Hunter/Krimbill		Esteban Rodero/Tibbetts	64
+21-79025	3	3	1	3	1	9b670l	9t6p03	45upcr	pgma2y	F		Hunter/Krimbill		Esteban Rodero/Tibb…	64
 21-79025	3	3	1	2	1	9b670l	9t6p03	grevs5	bfqvgh	SF		Hunter/Krimbill		Faryniarz/Azcui	76(5)
-21-79025	3	3	1	2	1	45upcr	pgma2y	x7mjkp	jhipof	SF		Esteban Rodero/Tibbetts		Knoerr/Soler	63
+21-79025	3	3	1	2	1	45upcr	pgma2y	x7mjkp	jhipof	SF		Esteban Rodero/Tibb…		Knoerr/Soler	63
 21-79025	3	3	1	1	1	9b670l	9t6p03	agma2y	d6q4y8	QF		Hunter/Krimbill		Farley/Silva	61
 21-79025	3	3	1	1	1	grevs5	bfqvgh	ql2d4b	heugu0	QF		Faryniarz/Azcui		Rios/Carandang	60
 21-79025	3	3	1	1	1	x7mjkp	jhipof	yc2mm2	rwuyui	QF		Knoerr/Soler		Gates/Knight	62
-21-79025	3	3	1	1	1	45upcr	pgma2y	zb670l	yie4aw	QF		Esteban Rodero/Tibbetts		Cervantes/Gallinar	60
+21-79025	3	3	1	1	1	45upcr	pgma2y	zb670l	yie4aw	QF		Esteban Rodero/Tibb…		Cervantes/Gallinar	60
 21-79025	3	3	2	2	1	agma2y	d6q4y8	zb670l	yie4aw	F		Farley/Silva		Cervantes/Gallinar	62
 21-79025	3	3	2	1	1	agma2y	d6q4y8	ql2d4b	heugu0	SF		Farley/Silva		Rios/Carandang	61
 21-79025	3	3	2	1	1	zb670l	yie4aw	yc2mm2	rwuyui	SF		Cervantes/Gallinar		Gates/Knight	64
@@ -180,19 +209,19 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-79025	3	5	1	2	1	jnu7c9	psaaem	l9edsn	l32v4t	SF		Sargent/Solis		Lopez/Martinez	Default
 21-79025	3	5	1	1	1	mqig6o	tie4aw	fsaaem	enu7c9	QF		Garza/Alejandro		Marsh/Salinas	62
 21-79025	3	5	2	3	1	fsaaem	enu7c9	l9edsn	l32v4t	F		Marsh/Salinas		Lopez/Martinez	Walkover
-21-94373	2	1	1	4	1	cvh9t5	do9cju	i69ujc	03llpx	F		Rastrojo/Deli		Rodriguez Garceran/Sancho Arbizu	85
+21-94373	2	1	1	4	1	cvh9t5	do9cju	i69ujc	03llpx	F		Rastrojo/Deli		Rodriguez Garceran/…	85
 21-94373	2	1	1	3	1	cvh9t5	do9cju	6q16rs	cp5r5b	SF	1	Rastrojo/Deli		Menard/Simecek	86
-21-94373	2	1	1	3	1	i69ujc	03llpx	vll3pf	62p63g	SF		Rodriguez Garceran/Sancho Arbizu		Dillon/Ziomber	85
+21-94373	2	1	1	3	1	i69ujc	03llpx	vll3pf	62p63g	SF		Rodriguez Garceran/…		Dillon/Ziomber	85
 21-94373	2	1	1	2	1	6q16rs	cp5r5b	jz1x91	dixuv0	QF	1	Menard/Simecek		Delpino/Du	86
 21-94373	2	1	1	2	1	cvh9t5	do9cju	1q16rs	dulu7o	QF	4	Rastrojo/Deli		Groves/Buzonics	86
 21-94373	2	1	1	2	1	vll3pf	62p63g	vrxld9	181ora	QF		Dillon/Ziomber	3	Clarke/Akkermans	87(5)
-21-94373	2	1	1	2	1	i69ujc	03llpx	iulu7o	obpxlp	QF		Rodriguez Garceran/Sancho Arbizu	2	Tumosa/Straker-Meads	82
+21-94373	2	1	1	2	1	i69ujc	03llpx	iulu7o	obpxlp	QF		Rodriguez Garceran/…	2	Tumosa/Straker-Meads	82
 21-94373	2	1	1	1	1	jz1x91	dixuv0	i0xcvi	6kpo3y	16		Delpino/Du		Steele/Purne	87(6)
 21-94373	2	1	1	1	1	1q16rs	dulu7o	uy5ink	1wdofm	16	4	Groves/Buzonics		Popyrin/Dominguez	84
 21-94373	2	1	1	1	1	cvh9t5	do9cju	71trhz	c1trhz	16		Rastrojo/Deli		Larrea/Mere	85
 21-94373	2	1	1	1	1	vll3pf	62p63g	7jt9hh	pg50n2	16		Dillon/Ziomber		Barranquero/Chhabra	82
 21-94373	2	1	1	1	1	vrxld9	181ora	0rxld9	681ora	16		Clarke/Akkermans	3	Wand/Thomas	82
-21-94373	2	1	1	1	1	i69ujc	03llpx	otpfl7	ug50n2	16		Rodriguez Garceran/Sancho Arbizu		Lock/Vega	82
+21-94373	2	1	1	1	1	i69ujc	03llpx	otpfl7	ug50n2	16		Rodriguez Garceran/…		Lock/Vega	82
 21-94373	2	1	2	3	1	7jt9hh	pg50n2	uy5ink	1wdofm	F		Barranquero/Chhabra		Popyrin/Dominguez	Walkover
 21-94373	2	1	2	2	1	uy5ink	1wdofm	i0xcvi	6kpo3y	SF		Popyrin/Dominguez		Steele/Purne	83
 21-94373	2	1	2	2	1	7jt9hh	pg50n2	otpfl7	ug50n2	SF		Barranquero/Chhabra		Lock/Vega	85
@@ -205,13 +234,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-94373	2	1	5	2	1	71trhz	c1trhz	0rxld9	681ora	F		Larrea/Mere		Wand/Thomas	Walkover
 21-94373	2	1	6	1	1	i0xcvi	6kpo3y	otpfl7	ug50n2	F		Steele/Purne		Lock/Vega	84
 21-94373	2	1	7	1	1	iulu7o	obpxlp	jz1x91	dixuv0	F		Tumosa/Straker-Meads	2	Delpino/Du	83
-21-94373	2	2	1	3	1	0f9l1l	j5dfxv	vf9l1l	ust0zq	F		McDonald/Cano Sosa		Garcia-Ripoll Ore/Salsini	85
+21-94373	2	2	1	3	1	0f9l1l	j5dfxv	vf9l1l	ust0zq	F		McDonald/Cano Sosa		Garcia-Ripoll Ore/S…	85
 21-94373	2	2	1	2	1	0f9l1l	j5dfxv	6ed6f4	umhibw	SF		McDonald/Cano Sosa		Schaefer/Sulen	85
-21-94373	2	2	1	2	1	vf9l1l	ust0zq	p4h0be	77595t	SF		Garcia-Ripoll Ore/Salsini		Ford/Donovan	83
+21-94373	2	2	1	2	1	vf9l1l	ust0zq	p4h0be	77595t	SF		Garcia-Ripoll Ore/S…		Ford/Donovan	83
 21-94373	2	2	1	1	1	0f9l1l	j5dfxv	ondxxd	7dhrtn	QF		McDonald/Cano Sosa		Orellano/Dallmann	81
 21-94373	2	2	1	1	1	6ed6f4	umhibw	iclc76	09x3dr	QF		Schaefer/Sulen		Millet/Pries	81
 21-94373	2	2	1	1	1	p4h0be	77595t	patiz8	0x9313	QF		Ford/Donovan		Diaz/Synnott	84
-21-94373	2	2	1	1	1	vf9l1l	ust0zq	jtpfl7	12p63g	QF		Garcia-Ripoll Ore/Salsini		Flanagan/Crawford	83
+21-94373	2	2	1	1	1	vf9l1l	ust0zq	jtpfl7	12p63g	QF		Garcia-Ripoll Ore/S…		Flanagan/Crawford	83
 21-94373	2	2	2	2	1	iclc76	09x3dr	jtpfl7	12p63g	F		Millet/Pries		Flanagan/Crawford	83
 21-94373	2	2	2	1	1	iclc76	09x3dr	ondxxd	7dhrtn	SF		Millet/Pries		Orellano/Dallmann	87(5)
 21-94373	2	2	2	1	1	jtpfl7	12p63g	patiz8	0x9313	SF		Flanagan/Crawford		Diaz/Synnott	82

@@ -1,12 +1,12 @@
 ---
-tournaments: 115
+tournaments: 118
 withResults: 15
 completed: 48
 inProgress: 1
-scheduled: 66
-events: 242
+future: 69
+events: 248
 entrants: 2759
-results: 1773
+results: 1868
 ---
 week	code	players	events	results	starts	ends	divisions	gender	name	organization	url	orgid	level	timeZone	lastRegistration	lastUpdated	playersHash	resultsHash	published	cancelled	downloaded	id
 35	21-00238	108	4	220	2021-09-03	2021-09-04	DII,DIII,NAIA,JUCO	MW	Tyler Invite	Univ. Of Texas, Tyler (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfTexasTylerW/Tournaments/Overview/2BA0D609-FAB2-4A48-859D-61975908AE40											
@@ -60,7 +60,7 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 38	21-72007	   	2	   	2021-09-24	2021-09-26	DI                	W	2021 Cal Fall Invitational	Univ. Of California, Berkeley (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/2E9EA7B8-64A7-4FE7-8D8D-ED1A10E8D31D											
 38	21-92623	   	2	   	2021-09-24	2021-09-26	DI                	W	Bulldog Invitational	Yale University (W)	https://colleges.wearecollegetennis.com/competitions/YaleUniversityW/Tournaments/Overview/B0EA1FCD-5136-410D-8A03-B6DC9B64967D											
 38	21-84629	 31	2	   	2021-09-24	2021-09-26	DI                	M	Georgia State Panther Invite	Georgia State University (M)	https://colleges.wearecollegetennis.com/competitions/GeorgiaStateUniversityM/Tournaments/Overview/B537401C-4CA4-4C79-A319-9E137D884288											
-38	21-39721	113	2	 40	2021-09-21	2021-09-25	DI                	M	ITA Division I Men's Mountain Regional Championship	Brigham Young University (M)	https://colleges.wearecollegetennis.com/competitions/BrighamYoungUniversityM/Tournaments/Overview/0A12EB81-68AE-4020-9FA2-B2DB100CE962											
+38	21-39721	113	2	135	2021-09-21	2021-09-25	DI                	M	ITA Division I Men's Mountain Regional Championship	Brigham Young University (M)	https://colleges.wearecollegetennis.com/competitions/BrighamYoungUniversityM/Tournaments/Overview/0A12EB81-68AE-4020-9FA2-B2DB100CE962											
 38	21-20374	 85	2	   	2021-09-23	2021-09-27	DI                	M	ITA Division I Men's Ohio Valley Regional Championship	Univ. Of Tennessee, Knoxville (M)	https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeKnoxvilleM/Tournaments/Overview/E67E61FF-EAE8-48C4-A7F4-925524DBA1AC											
 38	21-30664	  7	2	   	2021-09-23	2021-09-27	DI                	W	ITA Division I Women's Midwest Regional Championship	University Of Illinois (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfIllinoisW/Tournaments/Overview/D364C7F9-D5B0-4D5F-854B-5805EE070BE4											
 38	21-03887	  7	2	   	2021-09-24	2021-09-25	DI                	W	Natchitoches Women's Care/Lady Demon Collegiate Invitational	Northwestern State Univ. (W)	https://colleges.wearecollegetennis.com/competitions/NorthwesternStateUnivW/Tournaments/Overview/8DB172DF-A5AF-4313-B281-4E6BF09C1F57											
@@ -90,6 +90,7 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 41	21-08423	   	2	   	2021-10-14	2021-10-17	DI                	M	ITA Division I Men's Atlantic Regional Championship	Liberty University (M)	https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580											
 41	21-34853	   	2	   	2021-10-14	2021-10-19	DI                	M	ITA Division I Men's Northeast Regional Championship	Univ. Of Pennsylvania (M)	https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4											
 41	21-05800	   	2	   	2021-10-13	2021-10-17	DI                	M	ITA Division I Men's Northwest Regional Championship	Saint Mary's College/CA (M)	https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E											
+41	21-10002	   	2	   	2021-10-13	2021-10-17	DI                	M	ITA Division I Men's Northwest Regional Championship	University Of Oregon (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A											
 41	21-67380	   	2	   	2021-10-14	2021-10-19	DI                	M	ITA Division I Men's Southern Regional Championship	Auburn University (M)	https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE											
 41	21-59010	  7	2	   	2021-10-13	2021-10-17	DI                	M	ITA Division I Men's Texas Regional Championship	Texas A&M University (M)	https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A											
 41	21-74915	   	2	   	2021-10-14	2021-10-17	DI                	W	ITA Division I Women's Mountain Regional Championship	Univ. Of Nevada, Las Vegas (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/8349E296-1156-4B75-8B7A-EB4125B5FBAD											
@@ -103,11 +104,13 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 42	21-69139	   	2	   	2021-10-22	2021-10-25	DI                	M	ITA Division I Men's Atlantic Super Regional Championship	Old Dominion University (M)	https://colleges.wearecollegetennis.com/competitions/OldDominionUniversityM/Tournaments/Overview/E9C8EB3D-E4DF-474A-A6B4-6B1FEA7BE33A											
 42	21-42333	   	2	   	2021-10-22	2021-10-25	DI                	M	ITA Division I Men's Carolina Regional Championship	Duke University (M)	https://colleges.wearecollegetennis.com/competitions/DukeUniversityM/Tournaments/Overview/3619E668-F531-4330-85DA-E1542DDFC2FD											
 42	21-50726	   	2	   	2021-10-21	2021-10-25	DI                	M	ITA Division I Men's Central Regional Championship	University Of Nebraska (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfNebraskaM/Tournaments/Overview/5C06D6C9-B27E-4C47-A3E5-6CFEE67B302C											
+42	21-68953	   	2	   	2021-10-21	2021-10-25	DI                	M	ITA Division I Men's Midwest Regional Championship	Michigan State University (M)	https://colleges.wearecollegetennis.com/competitions/MichiganStateUniversityM/Tournaments/Overview/EDF51444-0D05-4314-9A0B-AA5FCCB123E8											
 42	21-64957	   	2	   	2021-10-22	2021-10-25	DI                	M	ITA Division I Men's Northwest Super Regional Championship	University Of Washington (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonM/Tournaments/Overview/FCD50A53-E765-4641-A4EF-4F8678B573CA											
 42	21-64282	   	2	   	2021-10-21	2021-10-25	DI                	M	ITA Division I Men's Southeast Regional Championship	University of Florida (M)	https://colleges.wearecollegetennis.com/competitions/UniversityofFloridaM/Tournaments/Overview/9D4442EF-EDDA-4966-A2A7-B231F8F0E231											
 42	21-55204	   	2	   	2021-10-21	2021-10-25	DI                	M	ITA Division I Men's Southwest Regional Championship	Pepperdine University (M)	https://colleges.wearecollegetennis.com/competitions/PepperdineUniversityM/Tournaments/Overview/53D82E6B-0143-4273-B87C-40C39ABF05F0											
 42	21-49776	   	2	   	2021-10-22	2021-10-25	DI                	W	ITA Division I Women's Atlantic Regional Championship	University Of Virginia (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfVirginiaW/Tournaments/Overview/03D2591A-B4EA-40D0-84EE-FA366640953F											
 42	21-25213	   	2	   	2021-10-21	2021-10-25	DI                	W	ITA Division I Women's Central Regional Championship	University Of Iowa (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfIowaW/Tournaments/Overview/D14DFB81-5E2F-4C19-96BD-C7C8E01E527B											
+42	21-91007	   	2	   	2021-10-22	2021-10-26	DI                	W	ITA Division I Women's Midwest Regional Championship	Ohio State University (W)	https://colleges.wearecollegetennis.com/competitions/OhioStateUniversityW/Tournaments/Overview/6552AE44-FB48-4C1E-A09A-B67C23ED4FEA											
 42	21-52217	   	2	   	2021-10-22	2021-10-26	DI                	W	ITA Division I Women's Northwest Regional Championship	Stanford University (W)	https://colleges.wearecollegetennis.com/competitions/StanfordUniversityW/Tournaments/Overview/069089F9-1C02-43BD-82B5-B68774093F12											
 42	21-97599	   	2	   	2021-10-21	2021-10-25	DI                	W	ITA Division I Women's Ohio Valley Regional Championship	Middle Tennessee State University (W)	https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityW/Tournaments/Overview/34C6481F-30D0-4BCE-8E27-2B57D253FF5B											
 42	21-15310	  8	2	   	2021-10-21	2021-10-25	DI                	W	ITA Division I Women's Southwest Regional Championship	University Of San Diego (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfSanDiegoW/Tournaments/Overview/9B2A2826-DFA4-4AF2-9D87-2A1D153E1CC1											
