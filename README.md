@@ -1,6 +1,6 @@
 # College Tennis Data
 
-This repository will eventually contain all the data for information displayed at [SLAM.Tennis](https://www.slam.tennis/teams/rankings.asp) as well as the [SLAM.10s Sandbox](https://slam10s.github.io/playground/).
+This repository will eventually contain all the data for information displayed at [SLAM.Tennis](https://www.slam.tennis/teams/rankings.asp) as well as the SLAM.Tennis [Playground](https://slam10s.github.io/playground/).
 
 ### License
 
