@@ -1,9 +1,9 @@
 ---
 tournaments: 19
 players: 566
-matches: 362
-completed: 324
-scheduled: 38
+matches: 367
+completed: 336
+scheduled: 31
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	3	1	1	3	1	h9edsn	ojajwd	z6q4y8	s26gic	F		Fernandez/Bianchi		Fisicaro/Krolo	75
@@ -94,10 +94,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24367	3	1	1	1	1	orxld9	07595t	pkpo3y	60xcvi	16		Mukkaladyil/Salaman…		Cequea/King	75
 21-24367	3	1	1	1	1	7h1f9j	6ixuv0	169ujc	uq16rs	16		Corser/Sanoja		Cooke/Subert	63
 21-24367	3	1	1	1	1	ctpfl7	i4h0be	o3llpx	cz1x91	16		Schneider/Schorr		Harris/Papachrisant…	63
-21-39721	2	1	1	4		b69ujc	bclc76	xm08w0	hwuyui	QF	1	Davis/Summers	5	Cierny/Zarkovic	Thu @ 09:00
-21-39721	2	1	1	4		rhk5un	los24y	obpxlp	iulu7o	QF	3	Barnett/Leite	6	Straker-Meads/Tumosa	Thu @ 09:00
-21-39721	2	1	1	4		n7mjkp	ny5ink	xscqku	rb8n6t	QF		Zelver/Buckland	4	Bastias/Caula	Thu @ 09:00
-21-39721	2	1	1	4		natiz8	hndxxd	k1ch23	fd0her	QF		Panik/Van Dijk	9	Trhac/Kristensen	Thu @ 09:00
+21-39721	2	1	1	5		b69ujc	bclc76	obpxlp	iulu7o	SF	1	Davis/Summers	6	Straker-Meads/Tumosa	Fri @ 09:00
+21-39721	2	1	1	5		xscqku	rb8n6t	natiz8	hndxxd	SF	4	Bastias/Caula		Panik/Van Dijk	Fri @ 09:00
+21-39721	2	1	1	4	1	b69ujc	bclc76	xm08w0	hwuyui	QF	1	Davis/Summers	5	Cierny/Zarkovic	85
+21-39721	2	1	1	4	1	obpxlp	iulu7o	rhk5un	los24y	QF	6	Straker-Meads/Tumosa	3	Barnett/Leite	83
+21-39721	2	1	1	4	1	xscqku	rb8n6t	n7mjkp	ny5ink	QF	4	Bastias/Caula		Zelver/Buckland	85
+21-39721	2	1	1	4	1	natiz8	hndxxd	k1ch23	fd0her	QF		Panik/Van Dijk	9	Trhac/Kristensen	86
 21-39721	2	1	1	3	1	b69ujc	bclc76	wt856b	toqmyq	16	1	Davis/Summers	16	Sciglitano/Thielgaa…	81
 21-39721	2	1	1	3	1	xm08w0	hwuyui	t9x3dr	zq16rs	16	5	Cierny/Zarkovic		Buxman/Serafim	85
 21-39721	2	1	1	3	1	rhk5un	los24y	ub670l	ipm1k7	16	3	Barnett/Leite		Gay/Duron	86
@@ -143,10 +145,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-39721	2	1	1	1	1	0gma2y	c8iy66	5vh9t5	tf9l1l	64		Mascagni/Kersten		Coutinho/Savio	82
 21-39721	2	1	1	1	1	h26gic	5gma2y	5aase4	zzi7ox	64		Shaffrey/Pudney		Waldman/Vroman	86
 21-39721	2	1	1	1	1	xac8kc	ewwe0q	9k8eo2	bixuv0	64		Maggs/Pucalka		Acosta/Ruiz Medina	87(4)
+21-39721	2	2	1	5		dulu7o	1q16rs	62p63g	vll3pf	F		Buzonics/Groves		Ziomber/Dillon	Fri @ 10:00
+21-39721	2	2	1	4	1	dulu7o	1q16rs	6q16rs	cp5r5b	SF		Buzonics/Groves		Menard/Simecek	84
+21-39721	2	2	1	4	1	62p63g	vll3pf	9k8eo2	bixuv0	SF		Ziomber/Dillon		Acosta/Ruiz Medina	83
 21-39721	2	2	1	3	1	dulu7o	1q16rs	ijajwd	0saaem	QF		Buzonics/Groves		Kryvchun/Bott	Walkover
-21-39721	2	2	1	3		6q16rs	cp5r5b	vrxld9	181ora	QF		Menard/Simecek		Clarke/Akkermans	Thu @ 09:00
-21-39721	2	2	1	3		62p63g	vll3pf	ly5ink	8vh9t5	QF		Ziomber/Dillon		Hambrook/Navarro	Thu @ 09:00
-21-39721	2	2	1	3		5vh9t5	tf9l1l	9k8eo2	bixuv0	QF		Coutinho/Savio		Acosta/Ruiz Medina	Thu @ 09:00
+21-39721	2	2	1	3	1	6q16rs	cp5r5b	vrxld9	181ora	QF		Menard/Simecek		Clarke/Akkermans	Walkover
+21-39721	2	2	1	3	1	62p63g	vll3pf	ly5ink	8vh9t5	QF		Ziomber/Dillon		Hambrook/Navarro	81
+21-39721	2	2	1	3	1	9k8eo2	bixuv0	5vh9t5	tf9l1l	QF		Acosta/Ruiz Medina		Coutinho/Savio	83
 21-39721	2	2	1	2	1	dulu7o	1q16rs	51trhz	idy18j	16		Buzonics/Groves		Sitar/Nathan	83
 21-39721	2	2	1	2	1	ijajwd	0saaem	fv0ze9	rzknu5	16		Kryvchun/Bott		Andrus/Lin	85
 21-39721	2	2	1	2	1	6q16rs	cp5r5b	zwdofm	zkpo3y	16		Menard/Simecek		Robbertse/Cankus	87(5)
@@ -160,9 +165,9 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-39721	2	2	1	1	1	vrxld9	181ora	t3llpx	3rgbyd	32		Clarke/Akkermans		Fujita/Kramer	83
 21-39721	2	2	1	1	1	ivyj81	uhipof	i0xcvi	77595t	32		Azuma/Baylon		Steele/Donovan	84
 21-39721	2	2	1	1	1	ceugu0	brevs5	u5upcr	tll3pf	32		Chavez/Savin		Masala/Ramesh	85
-21-39721	2	3	1	1		t3llpx	3rgbyd	2ac8kc	l6sk4g	QF		Fujita/Kramer		Pierleoni/Azkara	Thu @ 09:00
-21-39721	2	3	1	1		eqkwcw	98kece	39gtyv	8l4taj	QF		Thayne/Fuchs		AbdulSalam/Prieto	Thu @ 09:00
-21-39721	2	3	1	1		zwdofm	zkpo3y	xac8kc	ewwe0q	QF		Robbertse/Cankus		Maggs/Pucalka	Thu @ 09:00
+21-39721	2	3	1	1	1	t3llpx	3rgbyd	2ac8kc	l6sk4g	QF		Fujita/Kramer		Pierleoni/Azkara	83
+21-39721	2	3	1	1	1	eqkwcw	98kece	39gtyv	8l4taj	QF		Thayne/Fuchs		AbdulSalam/Prieto	83
+21-39721	2	3	1	1	1	xac8kc	ewwe0q	zwdofm	zkpo3y	QF		Maggs/Pucalka		Robbertse/Cankus	82
 21-41355	2	1	1	4	1	rh1f9j	xst0zq	9q16rs	lclc76	F	3	Karpinski/Koons	4	Fouzas/Gran	62
 21-41355	2	1	1	3	1	9q16rs	lclc76	3rxld9	lulu7o	SF	4	Fouzas/Gran		Theaker/Rogowski	64
 21-41355	2	1	1	3	1	rh1f9j	xst0zq	33llpx	92p63g	SF	3	Karpinski/Koons	2	Lamas/Vargas	61

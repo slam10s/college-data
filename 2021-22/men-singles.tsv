@@ -1,9 +1,9 @@
 ---
 tournaments: 21
 players: 590
-matches: 833
-completed: 742
-scheduled: 91
+matches: 853
+completed: 785
+scheduled: 68
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	ypm1k7		z6q4y8		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -72,66 +72,86 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00238	1	7	2	1	1	ab670l		tvyj81		F		Sebastian Holden		Ugo Fiorito	60 75
 21-00238	1	7	3	1	1	uu24mk		ahipof		F		Peter Blair		Alberto Rodriguez	60 60
 21-00238	1	7	4	1	1	rl2d4b		4oqmyq		F		Mikaeel Woodman		Iker Lorenzo Brull	61 63
+21-20374	1	1	1	2		1t856b		ujcz2l		64	1	Gabriel Diallo		Emil Jankowski	Fri @ 09:00
+21-20374	1	1	1	2		5c42sa		5os24y		64	16	Rafael Tosetto		Jagger Saylor	Fri @ 09:00
+21-20374	1	1	1	2		e8kece		dfsbmp		64	9	Athell Bennett		Michael Dickson	Fri @ 09:00
+21-20374	1	1	1	2		740qwi		5ixuv0		64	16	Angel Diaz		Thiago Pernas	Fri @ 09:00
+21-20374	1	1	1	2		1hk5un		1zknu5		64		Matthew Fung		John Chin	Fri @ 09:00
+21-20374	1	1	1	2		ud0her		8rgbyd		64	9	Joubert Klopper		Gabriele Brancatelli	Fri @ 09:00
+21-20374	1	1	1	2		o28wok		ixstm7		64	16	Yusuf Khamis		Alvaro Huete	Fri @ 09:00
+21-20374	1	1	1	2		nxstm7		z1ch23		64	3	Francisco Rocha		Arthur Toledo	Fri @ 09:00
+21-20374	1	1	1	2		btpfl7		v6sk4g		64	16	Frazier Rengifo		Maxwell Freeman	Fri @ 09:00
+21-20374	1	1	1	2		cyo88o		uv0ze9		64	9	Shunsuke Mitsui		Julen Morgan	Fri @ 09:00
+21-20374	1	1	1	2		u1ch23		gst0zq		64	16	JJ Mercer		Pau Fanlo	Fri @ 09:00
+21-20374	1	1	1	2		drgbyd		0c42sa		64	5	Jeremie Casabon		Drew Michael	Fri @ 09:00
+21-20374	1	1	1	2		tk8eo2		hscqku		64	16	Carlos Vicente		Marco Pennelli	Fri @ 09:00
+21-20374	1	1	1	2		1nwnih		dl4taj		64	9	Chris Edge		Ian Cruz	Fri @ 09:00
+21-20374	1	1	1	2		pv0ze9		33llpx		64	16	Patrick Fletchall		Francisco Lamas	Fri @ 09:00
+21-20374	1	1	1	2		s9x3dr		jqkwcw		64		Juan Sebastian Zaba…	9	Etienne Donnet	Fri @ 09:00
+21-20374	1	1	1	2		7yo88o		atpfl7		64		Erik Eliasson	16	Pablo Alemany	Fri @ 10:00
+21-20374	1	1	1	2		56sk4g		5igkg4		64		Nathaniel Webster	9	Stijn Slump	Fri @ 10:00
+21-20374	1	1	1	2		wb8n6t		7m08w0		64		Trevor Ball	4	George Harwell	Fri @ 10:00
+21-20374	1	1	1	2		twwe0q		kpohqf		64		Macsen Sisam	5	Dimitri Badra	Fri @ 10:30
 21-20374	1	1	1	1	1	1t856b		yk8eo2		128	1	Gabriel Diallo		Abe Wojtalik	61 61
-21-20374	1	1	1	1		ujcz2l		ifsbmp		128		Emil Jankowski		Georgi Mavrodiev	Thu @ 09:00
+21-20374	1	1	1	1	1	ujcz2l		ifsbmp		128		Emil Jankowski		Georgi Mavrodiev	62 62
 21-20374	1	1	1	1	1	5c42sa		j28wok		128	16	Rafael Tosetto		Santiago Casamayor	61 61
-21-20374	1	1	1	1		5os24y		834ba1		128		Jagger Saylor		Oliver Andersson	Thu @ 09:00
-21-20374	1	1	1	1		e8kece		6zknu5		128	9	Athell Bennett		Danilo Kovacevic	Thu @ 09:00
-21-20374	1	1	1	1		dfsbmp		6hk5un		128		Michael Dickson		Ryan Mudre	Thu @ 09:00
-21-20374	1	1	1	1		740qwi		jk8eo2		128	16	Angel Diaz		Sam Fischer	Thu @ 09:00
-21-20374	1	1	1	1		irgbyd		5ixuv0		128		Grant Kelly		Thiago Pernas	Thu @ 09:00
-21-20374	1	1	1	1		rrxld9		1hk5un		128	5	David Stevenson		Matthew Fung	Thu @ 09:00
+21-20374	1	1	1	1	1	5os24y		834ba1		128		Jagger Saylor		Oliver Andersson	63 64
+21-20374	1	1	1	1	1	e8kece		6zknu5		128	9	Athell Bennett		Danilo Kovacevic	63 63
+21-20374	1	1	1	1	1	dfsbmp		6hk5un		128		Michael Dickson		Ryan Mudre	61 64
+21-20374	1	1	1	1	1	740qwi		jk8eo2		128	16	Angel Diaz		Sam Fischer	60 63
+21-20374	1	1	1	1	1	5ixuv0		irgbyd		128		Thiago Pernas		Grant Kelly	62 61
+21-20374	1	1	1	1	1	1hk5un		rrxld9		128		Matthew Fung	5	David Stevenson	36 63 64
 21-20374	1	1	1	1	1	1zknu5		upohqf		128		John Chin		Gabriel Nolasco	61 60
 21-20374	1	1	1	1		hyo88o		c40qwi		128	16	Siim Troost		Jacob Marshall	Thu @ 09:00
-21-20374	1	1	1	1		j8kece		vc42sa		128		Eli Herran		Oliver Dunne	Thu @ 09:00
-21-20374	1	1	1	1		ud0her		7goq86		128	9	Joubert Klopper		Ryan Cahill	Thu @ 09:00
+21-20374	1	1	1	1	1	j8kece		vc42sa		128		Eli Herran		Oliver Dunne	62 62
+21-20374	1	1	1	1	1	ud0her		7goq86		128	9	Joubert Klopper		Ryan Cahill	62 63
 21-20374	1	1	1	1	1	8rgbyd		50g2gm		128		Gabriele Brancatelli		Brandon Ponomarew	61 61
-21-20374	1	1	1	1		o28wok		nl4taj		128	16	Yusuf Khamis		Vikash Singh	Thu @ 09:00
-21-20374	1	1	1	1		2scqku		ixstm7		128		Chris Adams		Alvaro Huete	Thu @ 09:00
-21-20374	1	1	1	1		nxstm7		zv0ze9		128	3	Francisco Rocha		Luka Vukovic	Thu @ 09:00
-21-20374	1	1	1	1		z1ch23		8xstm7		128		Arthur Toledo		Blessing Benibo	Thu @ 09:00
-21-20374	1	1	1	1		btpfl7		n9gtyv		128	16	Frazier Rengifo		Pedro Uribe	Thu @ 10:00
-21-20374	1	1	1	1		ok8eo2		v6sk4g		128		David Mizrahi		Maxwell Freeman	Thu @ 10:00
-21-20374	1	1	1	1		cyo88o		s9gtyv		128	9	Shunsuke Mitsui		Brett Winters	Thu @ 10:00
-21-20374	1	1	1	1		uv0ze9		qu4kss		128		Julen Morgan		Tom Berry	Thu @ 10:00
-21-20374	1	1	1	1		u1ch23		o8kece		128	16	JJ Mercer		Kerim Hyatt	Thu @ 10:00
-21-20374	1	1	1	1		gst0zq		pjcz2l		128		Pau Fanlo		Ronit Hiryur	Thu @ 10:00
-21-20374	1	1	1	1		drgbyd		t28wok		128	5	Jeremie Casabon		Carlos Salas Tulla	Thu @ 10:30
-21-20374	1	1	1	1		jwwe0q		0c42sa		128		Anton Damberg		Drew Michael	Thu @ 10:30
-21-20374	1	1	1	1		tk8eo2		3jt9hh		128	16	Carlos Vicente		Harry Rock	Thu @ 10:30
-21-20374	1	1	1	1		hscqku		00g2gm		128		Marco Pennelli		Vince Orlando	Thu @ 10:30
-21-20374	1	1	1	1		1nwnih		hm08w0		128	9	Chris Edge		Connor Robb-Wilcox	Thu @ 10:30
-21-20374	1	1	1	1		dl4taj		owwe0q		128		Ian Cruz		Simon Labbe	Thu @ 10:30
-21-20374	1	1	1	1		pv0ze9		bt856b		128	16	Patrick Fletchall		Jonathan Sorbo	Thu @ 11:00
-21-20374	1	1	1	1		33llpx		0os24y		128		Francisco Lamas		Vincent Knott	Thu @ 11:00
-21-20374	1	1	1	1		hgoq86		il4taj		128		Michael Ross		Kaisei Kuroki	Thu @ 11:00
+21-20374	1	1	1	1	1	o28wok		nl4taj		128	16	Yusuf Khamis		Vikash Singh	62 64
+21-20374	1	1	1	1	1	ixstm7		2scqku		128		Alvaro Huete		Chris Adams	46 63 61
+21-20374	1	1	1	1	1	nxstm7		zv0ze9		128	3	Francisco Rocha		Luka Vukovic	36 76(6) 62
+21-20374	1	1	1	1	1	z1ch23		8xstm7		128		Arthur Toledo		Blessing Benibo	62 64
+21-20374	1	1	1	1	1	btpfl7		n9gtyv		128	16	Frazier Rengifo		Pedro Uribe	64 63
+21-20374	1	1	1	1	1	v6sk4g		ok8eo2		128		Maxwell Freeman		David Mizrahi	67(3) 75 75
+21-20374	1	1	1	1	1	cyo88o		s9gtyv		128	9	Shunsuke Mitsui		Brett Winters	61 62
+21-20374	1	1	1	1	1	uv0ze9		qu4kss		128		Julen Morgan		Tom Berry	26 63 61
+21-20374	1	1	1	1	1	u1ch23		o8kece		128	16	JJ Mercer		Kerim Hyatt	63 62
+21-20374	1	1	1	1	1	gst0zq		pjcz2l		128		Pau Fanlo		Ronit Hiryur	63 61
+21-20374	1	1	1	1	1	drgbyd		t28wok		128	5	Jeremie Casabon		Carlos Salas Tulla	62 61
+21-20374	1	1	1	1	1	0c42sa		jwwe0q		128		Drew Michael		Anton Damberg	61 63
+21-20374	1	1	1	1	1	tk8eo2		3jt9hh		128	16	Carlos Vicente		Harry Rock	16 63 62
+21-20374	1	1	1	1	1	hscqku		00g2gm		128		Marco Pennelli		Vince Orlando	62 46 63
+21-20374	1	1	1	1	1	1nwnih		hm08w0		128	9	Chris Edge		Connor Robb-Wilcox	63 63
+21-20374	1	1	1	1	1	dl4taj		owwe0q		128		Ian Cruz		Simon Labbe	64 60
+21-20374	1	1	1	1	1	pv0ze9		bt856b		128	16	Patrick Fletchall		Jonathan Sorbo	64 64
+21-20374	1	1	1	1	1	33llpx		0os24y		128		Francisco Lamas		Vincent Knott	63 61
+21-20374	1	1	1	1	1	hgoq86		il4taj		128		Michael Ross		Kaisei Kuroki	63 75
 21-20374	1	1	1	1		oeww08		06sk4g		128		Diego Nava	16	Pavel Motl	Thu @ 11:00
-21-20374	1	1	1	1		s9x3dr		1b8n6t		128		Juan Sebastian Zaba…		Will Harper	Thu @ 11:00
-21-20374	1	1	1	1		2m08w0		jqkwcw		128		Nishanth Basavareddy	9	Etienne Donnet	Thu @ 11:00
+21-20374	1	1	1	1	1	s9x3dr		1b8n6t		128		Juan Sebastian Zaba…		Will Harper	64 61
+21-20374	1	1	1	1	1	jqkwcw		2m08w0		128	9	Etienne Donnet		Nishanth Basavareddy	60 62
 21-20374	1	1	1	1		ah1f9j		t8kece		128		Sam Edgar		Andre Rodeia	Thu @ 11:30
-21-20374	1	1	1	1		d34ba1		7scqku		128		Conor Gannon	16	Piotr Galus	Thu @ 11:30
+21-20374	1	1	1	1	1	d34ba1		7scqku		128		Conor Gannon	16	Piotr Galus	60 76(4)
 21-20374	1	1	1	1		p7ozqx		cac8kc		128		Thibaut de Negri		Kamil Kozerski	Thu @ 11:30
-21-20374	1	1	1	1		e28wok		u7ozqx		128		Thomas Brennan	5	Joshua Lapadat	Thu @ 11:30
-21-20374	1	1	1	1		7yo88o		2goq86		128		Erik Eliasson		Tom Bolton	Thu @ 11:30
-21-20374	1	1	1	1		eeww08		atpfl7		128		Michael Andre	16	Pablo Alemany	Thu @ 11:30
-21-20374	1	1	1	1		zd0her		56sk4g		128		Jun Sasagawa		Nathaniel Webster	Thu @ 12:00
-21-20374	1	1	1	1		oqkwcw		5igkg4		128		Jordan McClure	9	Stijn Slump	Thu @ 12:00
+21-20374	1	1	1	1	1	u7ozqx		e28wok		128	5	Joshua Lapadat		Thomas Brennan	64 63
+21-20374	1	1	1	1	1	7yo88o		2goq86		128		Erik Eliasson		Tom Bolton	63 61
+21-20374	1	1	1	1	1	atpfl7		z7ozqx		128	16	Pablo Alemany		David Skrabut	62 60
+21-20374	1	1	1	1	1	56sk4g		zd0her		128		Nathaniel Webster		Jun Sasagawa	Walkover
+21-20374	1	1	1	1	1	5igkg4		oqkwcw		128	9	Stijn Slump		Jordan McClure	64 62
 21-20374	1	1	1	1		92p63g		n34ba1		128		Juan Jose Vargas		Jake Penny	Thu @ 12:00
-21-20374	1	1	1	1		7ac8kc		6t856b		128		Milledge Cossu	16	Tomas Luis	Thu @ 12:00
-21-20374	1	1	1	1		wb8n6t		nfsbmp		128		Trevor Ball		Charlie Temming	Thu @ 12:00
-21-20374	1	1	1	1		hac8kc		7m08w0		128		Parrish Simmons	4	George Harwell	Thu @ 12:00
+21-20374	1	1	1	1	1	6t856b		7ac8kc		128	16	Tomas Luis		Milledge Cossu	64 63
+21-20374	1	1	1	1	1	wb8n6t		nfsbmp		128		Trevor Ball		Charlie Temming	64 62
+21-20374	1	1	1	1	1	7m08w0		hac8kc		128	4	George Harwell		Parrish Simmons	62 64
 21-20374	1	1	1	1		6nwnih		zjcz2l		128		Borja Miralles		Jorge Rodriguez	Thu @ 12:30
 21-20374	1	1	1	1		ppohqf		3dhrtn		128		Peyton Gatti	16	Jeremy Taylor	Thu @ 12:30
 21-20374	1	1	1	1		p1ch23		i9gtyv		128		Tomasz Dudek		Taisei Miyamoto	Thu @ 12:30
 21-20374	1	1	1	1		h40qwi		cscqku		128		Kyle Tang	9	Francois Musitelli	Thu @ 12:30
 21-20374	1	1	1	1		teww08		w5w5iz		128		Eric Perkowski		Maksim Bogdanovich	Thu @ 12:30
 21-20374	1	1	1	1		tqkwcw		cm08w0		128		Ilya Tiraspolsky	16	Stepan Holis	Thu @ 12:30
-21-20374	1	1	1	1		twwe0q		bzknu5		128		Macsen Sisam		Frederic Schlossmann	Thu @ 13:00
-21-20374	1	1	1	1		v0g2gm		kpohqf		128		Elias Grubert	5	Dimitri Badra	Thu @ 13:00
+21-20374	1	1	1	1	1	twwe0q		bzknu5		128		Macsen Sisam		Frederic Schlossmann	61 62
+21-20374	1	1	1	1	1	kpohqf		v0g2gm		128	5	Dimitri Badra		Elias Grubert	Walkover
 21-20374	1	1	1	1		skpo3y		15w5iz		128		Oscar Cutting		Emilien Burnel	Thu @ 13:00
-21-20374	1	1	1	1		nrgbyd		5u4kss		128		Rohan Sachdev	16	Tomas Rodriguez	Thu @ 13:00
+21-20374	1	1	1	1	1	5u4kss		nrgbyd		128	16	Tomas Rodriguez		Rohan Sachdev	61 75
 21-20374	1	1	1	1		hatiz8		0u4kss		128		Hugo Lobo		Alex Jochim	Thu @ 13:00
-21-20374	1	1	1	1		cgoq86		d9gtyv		128		Michael Karr	9	Marcus Ferreira	Thu @ 13:00
+21-20374	1	1	1	1	1	d9gtyv		cgoq86		128	9	Marcus Ferreira		Michael Karr	62 61
 21-20374	1	1	1	1		jeww08		0igkg4		128		Gonzalo Garcia-Nieto		Alexandre LeBlanc	Thu @ 13:30
 21-20374	1	1	1	1		6b8n6t		dxstm7		128		Evzen Holis	16	Carson Haskins	Thu @ 13:30
 21-20374	1	1	1	1		zpohqf		i34ba1		128		Petar Petrovic		Cambell Nakayama	Thu @ 13:30
