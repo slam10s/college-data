@@ -1,9 +1,9 @@
 ---
 tournaments: 21
 players: 590
-matches: 817
-completed: 738
-scheduled: 79
+matches: 833
+completed: 742
+scheduled: 91
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	ypm1k7		z6q4y8		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -72,20 +72,20 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00238	1	7	2	1	1	ab670l		tvyj81		F		Sebastian Holden		Ugo Fiorito	60 75
 21-00238	1	7	3	1	1	uu24mk		ahipof		F		Peter Blair		Alberto Rodriguez	60 60
 21-00238	1	7	4	1	1	rl2d4b		4oqmyq		F		Mikaeel Woodman		Iker Lorenzo Brull	61 63
-21-20374	1	1	1	1		1t856b		yk8eo2		128	1	Gabriel Diallo		Abe Wojtalik	Fri @ 09:00
+21-20374	1	1	1	1	1	1t856b		yk8eo2		128	1	Gabriel Diallo		Abe Wojtalik	61 61
 21-20374	1	1	1	1		ujcz2l		ifsbmp		128		Emil Jankowski		Georgi Mavrodiev	Thu @ 09:00
-21-20374	1	1	1	1		5c42sa		j28wok		128	16	Rafael Tosetto		Santiago Casamayor	Thu @ 09:00
+21-20374	1	1	1	1	1	5c42sa		j28wok		128	16	Rafael Tosetto		Santiago Casamayor	61 61
 21-20374	1	1	1	1		5os24y		834ba1		128		Jagger Saylor		Oliver Andersson	Thu @ 09:00
 21-20374	1	1	1	1		e8kece		6zknu5		128	9	Athell Bennett		Danilo Kovacevic	Thu @ 09:00
 21-20374	1	1	1	1		dfsbmp		6hk5un		128		Michael Dickson		Ryan Mudre	Thu @ 09:00
 21-20374	1	1	1	1		740qwi		jk8eo2		128	16	Angel Diaz		Sam Fischer	Thu @ 09:00
 21-20374	1	1	1	1		irgbyd		5ixuv0		128		Grant Kelly		Thiago Pernas	Thu @ 09:00
 21-20374	1	1	1	1		rrxld9		1hk5un		128	5	David Stevenson		Matthew Fung	Thu @ 09:00
-21-20374	1	1	1	1		1zknu5		kjcz2l		128		John Chin		Mika Berghaus	Thu @ 09:00
+21-20374	1	1	1	1	1	1zknu5		upohqf		128		John Chin		Gabriel Nolasco	61 60
 21-20374	1	1	1	1		hyo88o		c40qwi		128	16	Siim Troost		Jacob Marshall	Thu @ 09:00
 21-20374	1	1	1	1		j8kece		vc42sa		128		Eli Herran		Oliver Dunne	Thu @ 09:00
 21-20374	1	1	1	1		ud0her		7goq86		128	9	Joubert Klopper		Ryan Cahill	Thu @ 09:00
-21-20374	1	1	1	1		8rgbyd		50g2gm		128		Gabriele Brancatelli		Brandon Ponomarew	Thu @ 09:00
+21-20374	1	1	1	1	1	8rgbyd		50g2gm		128		Gabriele Brancatelli		Brandon Ponomarew	61 61
 21-20374	1	1	1	1		o28wok		nl4taj		128	16	Yusuf Khamis		Vikash Singh	Thu @ 09:00
 21-20374	1	1	1	1		2scqku		ixstm7		128		Chris Adams		Alvaro Huete	Thu @ 09:00
 21-20374	1	1	1	1		nxstm7		zv0ze9		128	3	Francisco Rocha		Luka Vukovic	Thu @ 09:00
@@ -358,6 +358,22 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-39721	1	2	1	1	1	ng50n2		xac8kc		64		Chia Chieh Lin		Alexander Maggs	36 64 [8]
 21-39721	1	2	1	1	1	w3llpx		zkpo3y		64		Jordan Sauer		Umit Ege Cankus	64 76(8)
 21-39721	1	2	1	1	1	fz1x91		zwdofm		64		Jackson Atherton		Wikus Robbertse	75 76(5)
+21-39721	1	3	1	1		1q16rs		8l4taj		32		Alexander Groves		Nicolas Prieto	Thu @ 11:30
+21-39721	1	3	1	1		qigkg4		b0xcvi		32		Otto Schreiner		Kyle Garner	Thu @ 11:30
+21-39721	1	3	1	1		vrxld9		eqkwcw		32		Corey Clarke		Wally Thayne	Thu @ 11:30
+21-39721	1	3	1	1		5aase4		xac8kc		32		Justin Waldman		Alexander Maggs	Thu @ 11:30
+21-39721	1	3	1	1		vll3pf		3rgbyd		32		Daniel Dillon		Andreas Kramer	Thu @ 11:30
+21-39721	1	3	1	1		rb8n6t		k1ch23		32		Bruno Caula		Patrik Trhac	Thu @ 11:30
+21-39721	1	3	1	1		xgoq86		2ac8kc		32		Dominik Jakovljevic		Joel Pierleoni	Thu @ 11:30
+21-39721	1	3	1	1		qc42sa		iulu7o		32		Mateo Vereau		Facundo Tumosa	Thu @ 11:30
+21-39721	1	3	1	1		l6sk4g		4q16rs		32		Arda Azkara		Luke Wolf	Thu @ 13:00
+21-39721	1	3	1	1		77595t		bixuv0		32		Morgan Donovan		Javier Ruiz Medina	Thu @ 13:00
+21-39721	1	3	1	1		dulu7o		181ora		32		Dominik Buzonics		Gijs Akkermans	Thu @ 13:00
+21-39721	1	3	1	1		toqmyq		fd0her		32		Gustav Thielgaard		Patrick Kristensen	Thu @ 13:00
+21-39721	1	3	1	1		wt856b		zwdofm		32		Lawrence Sciglitano		Wikus Robbertse	Thu @ 13:00
+21-39721	1	3	1	1		k7ozqx		62p63g		32		Georgio Samaha		Maciej Ziomber	Thu @ 13:00
+21-39721	1	3	1	1		zkpo3y		fpohqf		32		Umit Ege Cankus		Geronimo Busleiman	Thu @ 13:00
+21-39721	1	3	1	1		r5w5iz		6ed6f4		32		Nicolas Herrera Cue…		Joachim Schaefer	Thu @ 13:00
 21-41355	1	1	1	3	1	fjt9hh		rbpxlp		SF	4	Bekhzod Rasamatov		Richard Trey Mallory	61 63
 21-41355	1	1	1	3	1	39x3dr		xy5ink		SF	3	Gabriel Hurtado		Oscar Hernandez	61 61
 21-41355	1	1	1	2	1	rbpxlp		lclc76		QF		Richard Trey Mallory		Erik Gran	64 63
