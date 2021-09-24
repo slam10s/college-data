@@ -1,9 +1,9 @@
 ---
-tournaments: 21
-players: 654
-matches: 918
+tournaments: 24
+players: 752
+matches: 1013
 completed: 918
-scheduled: 0
+scheduled: 95
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	2	1	1	3	1	hrevs5		5zi7ox		F		Mae Canete		Paula Cerda	63 62
@@ -125,147 +125,147 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-01963	1	1	1	1	1	catiz8		o2p63g		64		Nicole Frankel		Annie Dong	84
 21-01963	1	1	1	1	1	c4h0be		hmhibw		64		Irene Huang		Kristina Yu	85
 21-01963	1	1	1	1	1	owdofm		0ixuv0		64		Sasha Gaeth		Katelyn Hart	85
-21-14491	1	1	1	6	1	60g2gm		57ozqx		F	5	Isabella Dunlap	1	Anna Novikova	64 36 64
-21-14491	1	1	1	5	1	57ozqx		rnwnih		SF	1	Anna Novikova	4	Nefeli Zafeiri	64 63
-21-14491	1	1	1	5	1	60g2gm		dy5ink		SF	5	Isabella Dunlap	3	Diana Cabrera	62 57 [7]
-21-14491	1	1	1	4	1	57ozqx		mhk5un		QF	1	Anna Novikova	7	Sofiia Sharonova	62 63
-21-14491	1	1	1	4	1	rnwnih		mb8n6t		QF	4	Nefeli Zafeiri	7	Mariia Solnyshkina	16 75 [8]
-21-14491	1	1	1	4	1	dy5ink		ct856b		QF	3	Diana Cabrera	11	Estefania Hernandez	64 63
-21-14491	1	1	1	4	1	60g2gm		4k8eo2		QF	5	Isabella Dunlap	2	Ewa Samberger	63 63
-21-14491	1	1	1	3	1	57ozqx		jl4taj		16	1	Anna Novikova	10	Alma Abazi	75 75
-21-14491	1	1	1	3	1	mhk5un		o34ba1		16	7	Sofiia Sharonova	12	Sophie Daavettila	75 46 [7]
-21-14491	1	1	1	3	1	rnwnih		iac8kc		16	4	Nefeli Zafeiri		Vera Griva	62 46 [4]
-21-14491	1	1	1	3	1	mb8n6t		1ulu7o		16	7	Mariia Solnyshkina		Zuzanna Krygier	62 61
-21-14491	1	1	1	3	1	ct856b		b6sk4g		16	11	Estefania Hernandez	6	Kristina Lagoda	26 62 [8]
-21-14491	1	1	1	3	1	dy5ink		syo88o		16	3	Diana Cabrera	8	Anastasiya Salenko	61 61
-21-14491	1	1	1	3	1	60g2gm		1c42sa		16	5	Isabella Dunlap	14	Nicole Ballach	60 61
-21-14491	1	1	1	3	1	4k8eo2		pq16rs		16	2	Ewa Samberger	9	Paula Ballesteros	75 63
-21-14491	1	1	1	2	1	57ozqx		s40qwi		32	1	Anna Novikova		Jovana Vujanic	61 60
-21-14491	1	1	1	2	1	jl4taj		vp5r5b		32	10	Alma Abazi		Ghada Dirninger	62 46 [2]
-21-14491	1	1	1	2	1	mhk5un		sm08w0		32	7	Sofiia Sharonova		Sophia Spinazze	62 64
-21-14491	1	1	1	2	1	o34ba1		d40qwi		32	12	Sophie Daavettila		Laiying Alvarado	62 75
-21-14491	1	1	1	2	1	rnwnih		nm08w0		32	4	Nefeli Zafeiri		Sienna Lopez	61 62
-21-14491	1	1	1	2	1	iac8kc		t9gtyv		32		Vera Griva	15	Agata Klak	75 63
-21-14491	1	1	1	2	1	mb8n6t		zk8eo2		32	7	Mariia Solnyshkina		Moya Nadege Koua	61 62
-21-14491	1	1	1	2	1	1ulu7o		apohqf		32		Zuzanna Krygier	13	Casey Smith	16 55 Ret.
-21-14491	1	1	1	2	1	ct856b		0jcz2l		32	11	Estefania Hernandez		Camilla Fonseca	62 64
-21-14491	1	1	1	2	1	b6sk4g		dyo88o		32	6	Kristina Lagoda		Nicole Beidacki	63 75
-21-14491	1	1	1	2	1	syo88o		mt856b		32	8	Anastasiya Salenko		Elizaveta Velichko	75 60
-21-14491	1	1	1	2	1	dy5ink		z28wok		32	3	Diana Cabrera		Rachel McCorkle	61 62
-21-14491	1	1	1	2	1	1c42sa		zwwe0q		32	14	Nicole Ballach		Parker Nolan	63 63
-21-14491	1	1	1	2	1	60g2gm		5v0ze9		32	5	Isabella Dunlap		Clara Kuehnle	63 63
-21-14491	1	1	1	2	1	pq16rs		dscqku		32	9	Paula Ballesteros		Emma Charlton	46 64 [3]
-21-14491	1	1	1	2	1	4k8eo2		7nwnih		32	2	Ewa Samberger		Taylor Barrett	75 46 [4]
-21-14491	1	1	1	1	1	57ozqx		nyo88o		64	1	Anna Novikova		Oona Kintscher	61 63
-21-14491	1	1	1	1	1	s40qwi		vpohqf		64		Jovana Vujanic		Willemien Coetzee	60 62
-21-14491	1	1	1	1	1	jl4taj		5pohqf		64	10	Alma Abazi		Marija Leko	63 60
-21-14491	1	1	1	1	1	vp5r5b		iscqku		64		Ghada Dirninger		georgina cupper	61 61
-21-14491	1	1	1	1	1	mhk5un		bigkg4		64	7	Sofiia Sharonova		Lauren Opalewski	60 60
-21-14491	1	1	1	1	1	sm08w0		peww08		64		Sophia Spinazze		Viola Cipriani	62 61
-21-14491	1	1	1	1	1	o34ba1		hzknu5		64	12	Sophie Daavettila		Neha Mokhasi	60 64
-21-14491	1	1	1	1	1	d40qwi		pqkwcw		64		Laiying Alvarado		Milena Baigorria	61 60
-21-14491	1	1	1	1	1	rnwnih		7z1x91		64	4	Nefeli Zafeiri		Luciana Pereyra	75 60
-21-14491	1	1	1	1	1	nm08w0		gos24y		64		Sienna Lopez		Iryna Trystan	67(2) 76(5) [6]
-21-14491	1	1	1	1	1	t9gtyv		tl4taj		64	15	Agata Klak		Sara Neves	61 62
-21-14491	1	1	1	1	1	iac8kc		txstm7		64		Vera Griva		Canela Luna	61 63
-21-14491	1	1	1	1	1	mb8n6t		428wok		64	7	Mariia Solnyshkina		Abby Totten	60 60
-21-14491	1	1	1	1	1	zk8eo2		4eww08		64		Moya Nadege Koua		Sina Skjelstad	63 62
-21-14491	1	1	1	1	1	apohqf		im08w0		64	13	Casey Smith		Kseniia Eremina	76(4) 62
-21-14491	1	1	1	1	1	1ulu7o		51ch23		64		Zuzanna Krygier		Rafaela Platisota	Walkover
-21-14491	1	1	1	1	1	0jcz2l		pk8eo2		64		Camilla Fonseca		Franca Bucco Paolas…	75 61
-21-14491	1	1	1	1	1	ct856b		ht856b		64	11	Estefania Hernandez		emily orlove	64 61
-21-14491	1	1	1	1	1	dyo88o		f7ozqx		64		Nicole Beidacki		Morgan Waller	Walkover
-21-14491	1	1	1	1	1	b6sk4g		czknu5		64	6	Kristina Lagoda		Vasileia Griva	62 63
-21-14491	1	1	1	1	1	mt856b		iatiz8		64		Elizaveta Velichko		Elsa Pascual	60 63
-21-14491	1	1	1	1	1	syo88o		75dfxv		64	8	Anastasiya Salenko		Lidia Laskova	63 62
-21-14491	1	1	1	1	1	z28wok		sac8kc		64		Rachel McCorkle		Risako Umekuni	64 64
-21-14491	1	1	1	1	1	dy5ink		g6sk4g		64	3	Diana Cabrera		Piper Schrepferman	64 61
-21-14491	1	1	1	1	1	zwwe0q		ol4taj		64		Parker Nolan		Sarah Hackman	63 64
-21-14491	1	1	1	1	1	1c42sa		pwwe0q		64	14	Nicole Ballach		Claudia Adcock	62 61
-21-14491	1	1	1	1	1	5v0ze9		7hk5un		64		Clara Kuehnle		Isabella Carofano	62 62
-21-14491	1	1	1	1	1	60g2gm		4wwe0q		64	5	Isabella Dunlap		Shantala Uzcategui	61 62
-21-14491	1	1	1	1	1	dscqku		5d0her		64		Emma Charlton		Elizabeth McGivern	63 63
-21-14491	1	1	1	1	1	pq16rs		mnwnih		64	9	Paula Ballesteros		Lauren Rowe	61 60
-21-14491	1	1	1	1	1	7nwnih		ofsbmp		64		Taylor Barrett		Lauren Hollis	60 64
-21-14491	1	1	1	1	1	4k8eo2		6c42sa		64	2	Ewa Samberger		Gabriella Hudec	63 64
-21-14491	1	1	2	6	1	im08w0		iatiz8		F		Kseniia Eremina		Elsa Pascual	46 64 [8]
-21-14491	1	1	2	5	1	im08w0		pqkwcw		SF		Kseniia Eremina		Milena Baigorria	63 61
-21-14491	1	1	2	5	1	iatiz8		ol4taj		SF		Elsa Pascual		Sarah Hackman	Walkover
-21-14491	1	1	2	4	1	pqkwcw		iscqku		QF		Milena Baigorria		georgina cupper	46 62 [3]
-21-14491	1	1	2	4	1	im08w0		txstm7		QF		Kseniia Eremina		Canela Luna	Walkover
-21-14491	1	1	2	4	1	iatiz8		pk8eo2		QF		Elsa Pascual		Franca Bucco Paolas…	61 64
-21-14491	1	1	2	4	1	ol4taj		mnwnih		QF		Sarah Hackman		Lauren Rowe	63 63
-21-14491	1	1	2	3	1	iscqku		vpohqf		16		georgina cupper		Willemien Coetzee	60 61
-21-14491	1	1	2	3	1	pqkwcw		bigkg4		16		Milena Baigorria		Lauren Opalewski	Walkover
-21-14491	1	1	2	3	1	txstm7		gos24y		16		Canela Luna		Iryna Trystan	60 60
-21-14491	1	1	2	3	1	im08w0		4eww08		16		Kseniia Eremina		Sina Skjelstad	61 63
-21-14491	1	1	2	3	1	pk8eo2		czknu5		16		Franca Bucco Paolas…		Vasileia Griva	Walkover
-21-14491	1	1	2	3	1	iatiz8		g6sk4g		16		Elsa Pascual		Piper Schrepferman	Walkover
-21-14491	1	1	2	3	1	ol4taj		7hk5un		16		Sarah Hackman		Isabella Carofano	63 60
-21-14491	1	1	2	3	1	mnwnih		6c42sa		16		Lauren Rowe		Gabriella Hudec	63 Ret.
-21-14491	1	1	2	2	1	czknu5		dyo88o		32		Vasileia Griva		Nicole Beidacki	Walkover
-21-14491	1	1	2	1	1	vpohqf		nyo88o		32Q		Willemien Coetzee		Oona Kintscher	Walkover
-21-14491	1	1	2	1	1	iscqku		5pohqf		32Q		georgina cupper		Marija Leko	64 36 [6]
-21-14491	1	1	2	1	1	bigkg4		peww08		32Q		Lauren Opalewski		Viola Cipriani	63 75
-21-14491	1	1	2	1	1	pqkwcw		hzknu5		32Q		Milena Baigorria		Neha Mokhasi	Walkover
-21-14491	1	1	2	1	1	gos24y		7z1x91		32Q		Iryna Trystan		Luciana Pereyra	45 Ret.
-21-14491	1	1	2	1	1	txstm7		tl4taj		32Q		Canela Luna		Sara Neves	75 60
-21-14491	1	1	2	1	1	4eww08		428wok		32Q		Sina Skjelstad		Abby Totten	61 60
-21-14491	1	1	2	1	1	im08w0		51ch23		32Q		Kseniia Eremina		Rafaela Platisota	Walkover
-21-14491	1	1	2	1	1	pk8eo2		ht856b		32Q		Franca Bucco Paolas…		emily orlove	26 63 [9]
-21-14491	1	1	2	1	1	czknu5		f7ozqx		32Q		Vasileia Griva		Morgan Waller	Walkover
+21-14491	1	1	1	6	1	czknu5		mnwnih		F	5	Isabella Dunlap	1	Anna Novikova	64 36 64
+21-14491	1	1	1	5	1	mnwnih		xm08w0		SF	1	Anna Novikova	4	Nefeli Zafeiri	64 63
+21-14491	1	1	1	5	1	czknu5		dy5ink		SF	5	Isabella Dunlap	3	Diana Cabrera	62 57 [7]
+21-14491	1	1	1	4	1	mnwnih		sgoq86		QF	1	Anna Novikova	7	Sofiia Sharonova	62 63
+21-14491	1	1	1	4	1	xm08w0		sac8kc		QF	4	Nefeli Zafeiri	7	Mariia Solnyshkina	16 75 [8]
+21-14491	1	1	1	4	1	dy5ink		t9gtyv		QF	3	Diana Cabrera	11	Estefania Hernandez	64 63
+21-14491	1	1	1	4	1	czknu5		ajcz2l		QF	5	Isabella Dunlap	2	Ewa Samberger	63 63
+21-14491	1	1	1	3	1	mnwnih		pk8eo2		16	1	Anna Novikova	10	Alma Abazi	75 75
+21-14491	1	1	1	3	1	sgoq86		u28wok		16	7	Sofiia Sharonova	12	Sophie Daavettila	75 46 [7]
+21-14491	1	1	1	3	1	xm08w0		o9gtyv		16	4	Nefeli Zafeiri		Vera Griva	62 46 [4]
+21-14491	1	1	1	3	1	sac8kc		1ulu7o		16	7	Mariia Solnyshkina		Zuzanna Krygier	62 61
+21-14491	1	1	1	3	1	t9gtyv		h5w5iz		16	11	Estefania Hernandez	6	Kristina Lagoda	26 62 [8]
+21-14491	1	1	1	3	1	dy5ink		yxstm7		16	3	Diana Cabrera	8	Anastasiya Salenko	61 61
+21-14491	1	1	1	3	1	czknu5		iscqku		16	5	Isabella Dunlap	14	Nicole Ballach	60 61
+21-14491	1	1	1	3	1	ajcz2l		pq16rs		16	2	Ewa Samberger	9	Paula Ballesteros	75 63
+21-14491	1	1	1	2	1	mnwnih		9k8eo2		32	1	Anna Novikova		Jovana Vujanic	61 60
+21-14491	1	1	1	2	1	pk8eo2		vp5r5b		32	10	Alma Abazi		Ghada Dirninger	62 46 [2]
+21-14491	1	1	1	2	1	sgoq86		yl4taj		32	7	Sofiia Sharonova		Sophia Spinazze	62 64
+21-14491	1	1	1	2	1	u28wok		j34ba1		32	12	Sophie Daavettila		Laiying Alvarado	62 75
+21-14491	1	1	1	2	1	xm08w0		tl4taj		32	4	Nefeli Zafeiri		Sienna Lopez	61 62
+21-14491	1	1	1	2	1	o9gtyv		z8kece		32		Vera Griva	15	Agata Klak	75 63
+21-14491	1	1	1	2	1	sac8kc		5jcz2l		32	7	Mariia Solnyshkina		Moya Nadege Koua	61 62
+21-14491	1	1	1	2	1	1ulu7o		gos24y		32		Zuzanna Krygier	13	Casey Smith	16 55 Ret.
+21-14491	1	1	1	2	1	t9gtyv		6igkg4		32	11	Estefania Hernandez		Camilla Fonseca	62 64
+21-14491	1	1	1	2	1	h5w5iz		ueww08		32	6	Kristina Lagoda		Nicole Beidacki	63 75
+21-14491	1	1	1	2	1	yxstm7		39gtyv		32	8	Anastasiya Salenko		Elizaveta Velichko	75 60
+21-14491	1	1	1	2	1	dy5ink		51ch23		32	3	Diana Cabrera		Rachel McCorkle	61 62
+21-14491	1	1	1	2	1	iscqku		gc42sa		32	14	Nicole Ballach		Parker Nolan	63 63
+21-14491	1	1	1	2	1	czknu5		bu4kss		32	5	Isabella Dunlap		Clara Kuehnle	63 63
+21-14491	1	1	1	2	1	pq16rs		u8kece		32	9	Paula Ballesteros		Emma Charlton	46 64 [3]
+21-14491	1	1	1	2	1	ajcz2l		o34ba1		32	2	Ewa Samberger		Taylor Barrett	75 46 [4]
+21-14491	1	1	1	1	1	mnwnih		txstm7		64	1	Anna Novikova		Oona Kintscher	61 63
+21-14491	1	1	1	1	1	9k8eo2		c5w5iz		64		Jovana Vujanic		Willemien Coetzee	60 62
+21-14491	1	1	1	1	1	pk8eo2		bos24y		64	10	Alma Abazi		Marija Leko	63 60
+21-14491	1	1	1	1	1	vp5r5b		orgbyd		64		Ghada Dirninger		georgina cupper	61 61
+21-14491	1	1	1	1	1	sgoq86		syo88o		64	7	Sofiia Sharonova		Lauren Opalewski	60 60
+21-14491	1	1	1	1	1	yl4taj		6u4kss		64		Sophia Spinazze		Viola Cipriani	62 61
+21-14491	1	1	1	1	1	u28wok		yfsbmp		64	12	Sophie Daavettila		Neha Mokhasi	60 64
+21-14491	1	1	1	1	1	j34ba1		vpohqf		64		Laiying Alvarado		Milena Baigorria	61 60
+21-14491	1	1	1	1	1	xm08w0		7z1x91		64	4	Nefeli Zafeiri		Luciana Pereyra	75 60
+21-14491	1	1	1	1	1	tl4taj		x40qwi		64		Sienna Lopez		Iryna Trystan	67(2) 76(5) [6]
+21-14491	1	1	1	1	1	z8kece		a1ch23		64	15	Agata Klak		Sara Neves	61 62
+21-14491	1	1	1	1	1	o9gtyv		zwwe0q		64		Vera Griva		Canela Luna	61 63
+21-14491	1	1	1	1	1	sac8kc		ligkg4		64	7	Mariia Solnyshkina		Abby Totten	60 60
+21-14491	1	1	1	1	1	5jcz2l		ad0her		64		Moya Nadege Koua		Sina Skjelstad	63 62
+21-14491	1	1	1	1	1	gos24y		ol4taj		64	13	Casey Smith		Kseniia Eremina	76(4) 62
+21-14491	1	1	1	1	1	1ulu7o		mhk5un		64		Zuzanna Krygier		Rafaela Platisota	Walkover
+21-14491	1	1	1	1	1	6igkg4		60g2gm		64		Camilla Fonseca		Franca Bucco Paolas…	75 61
+21-14491	1	1	1	1	1	t9gtyv		y9gtyv		64	11	Estefania Hernandez		emily orlove	64 61
+21-14491	1	1	1	1	1	ueww08		l6sk4g		64		Nicole Beidacki		Morgan Waller	Walkover
+21-14491	1	1	1	1	1	h5w5iz		iyo88o		64	6	Kristina Lagoda		Vasileia Griva	62 63
+21-14491	1	1	1	1	1	39gtyv		iatiz8		64		Elizaveta Velichko		Elsa Pascual	60 63
+21-14491	1	1	1	1	1	yxstm7		75dfxv		64	8	Anastasiya Salenko		Lidia Laskova	63 62
+21-14491	1	1	1	1	1	51ch23		9qkwcw		64		Rachel McCorkle		Risako Umekuni	64 64
+21-14491	1	1	1	1	1	dy5ink		m5w5iz		64	3	Diana Cabrera		Piper Schrepferman	64 61
+21-14491	1	1	1	1	1	gc42sa		uk8eo2		64		Parker Nolan		Sarah Hackman	63 64
+21-14491	1	1	1	1	1	iscqku		vv0ze9		64	14	Nicole Ballach		Claudia Adcock	62 61
+21-14491	1	1	1	1	1	bu4kss		oxstm7		64		Clara Kuehnle		Isabella Carofano	62 62
+21-14491	1	1	1	1	1	czknu5		lc42sa		64	5	Isabella Dunlap		Shantala Uzcategui	61 62
+21-14491	1	1	1	1	1	u8kece		bc42sa		64		Emma Charlton		Elizabeth McGivern	63 63
+21-14491	1	1	1	1	1	pq16rs		sm08w0		64	9	Paula Ballesteros		Lauren Rowe	61 60
+21-14491	1	1	1	1	1	o34ba1		5v0ze9		64		Taylor Barrett		Lauren Hollis	60 64
+21-14491	1	1	1	1	1	ajcz2l		nscqku		64	2	Ewa Samberger		Gabriella Hudec	63 64
+21-14491	1	1	2	6	1	ol4taj		iatiz8		F		Kseniia Eremina		Elsa Pascual	46 64 [8]
+21-14491	1	1	2	5	1	ol4taj		vpohqf		SF		Kseniia Eremina		Milena Baigorria	63 61
+21-14491	1	1	2	5	1	iatiz8		uk8eo2		SF		Elsa Pascual		Sarah Hackman	Walkover
+21-14491	1	1	2	4	1	vpohqf		orgbyd		QF		Milena Baigorria		georgina cupper	46 62 [3]
+21-14491	1	1	2	4	1	ol4taj		zwwe0q		QF		Kseniia Eremina		Canela Luna	Walkover
+21-14491	1	1	2	4	1	iatiz8		60g2gm		QF		Elsa Pascual		Franca Bucco Paolas…	61 64
+21-14491	1	1	2	4	1	uk8eo2		sm08w0		QF		Sarah Hackman		Lauren Rowe	63 63
+21-14491	1	1	2	3	1	orgbyd		c5w5iz		16		georgina cupper		Willemien Coetzee	60 61
+21-14491	1	1	2	3	1	vpohqf		syo88o		16		Milena Baigorria		Lauren Opalewski	Walkover
+21-14491	1	1	2	3	1	zwwe0q		x40qwi		16		Canela Luna		Iryna Trystan	60 60
+21-14491	1	1	2	3	1	ol4taj		ad0her		16		Kseniia Eremina		Sina Skjelstad	61 63
+21-14491	1	1	2	3	1	60g2gm		iyo88o		16		Franca Bucco Paolas…		Vasileia Griva	Walkover
+21-14491	1	1	2	3	1	iatiz8		m5w5iz		16		Elsa Pascual		Piper Schrepferman	Walkover
+21-14491	1	1	2	3	1	uk8eo2		oxstm7		16		Sarah Hackman		Isabella Carofano	63 60
+21-14491	1	1	2	3	1	sm08w0		nscqku		16		Lauren Rowe		Gabriella Hudec	63 Ret.
+21-14491	1	1	2	2	1	iyo88o		ueww08		32		Vasileia Griva		Nicole Beidacki	Walkover
+21-14491	1	1	2	1	1	c5w5iz		txstm7		32Q		Willemien Coetzee		Oona Kintscher	Walkover
+21-14491	1	1	2	1	1	orgbyd		bos24y		32Q		georgina cupper		Marija Leko	64 36 [6]
+21-14491	1	1	2	1	1	syo88o		6u4kss		32Q		Lauren Opalewski		Viola Cipriani	63 75
+21-14491	1	1	2	1	1	vpohqf		yfsbmp		32Q		Milena Baigorria		Neha Mokhasi	Walkover
+21-14491	1	1	2	1	1	x40qwi		7z1x91		32Q		Iryna Trystan		Luciana Pereyra	45 Ret.
+21-14491	1	1	2	1	1	zwwe0q		a1ch23		32Q		Canela Luna		Sara Neves	75 60
+21-14491	1	1	2	1	1	ad0her		ligkg4		32Q		Sina Skjelstad		Abby Totten	61 60
+21-14491	1	1	2	1	1	ol4taj		mhk5un		32Q		Kseniia Eremina		Rafaela Platisota	Walkover
+21-14491	1	1	2	1	1	60g2gm		y9gtyv		32Q		Franca Bucco Paolas…		emily orlove	26 63 [9]
+21-14491	1	1	2	1	1	iyo88o		l6sk4g		32Q		Vasileia Griva		Morgan Waller	Walkover
 21-14491	1	1	2	1	1	iatiz8		75dfxv		32Q		Elsa Pascual		Lidia Laskova	21 Ret.
-21-14491	1	1	2	1	1	g6sk4g		sac8kc		32Q		Piper Schrepferman		Risako Umekuni	63 75
-21-14491	1	1	2	1	1	ol4taj		pwwe0q		32Q		Sarah Hackman		Claudia Adcock	64 63
-21-14491	1	1	2	1	1	7hk5un		4wwe0q		32Q		Isabella Carofano		Shantala Uzcategui	64 06 [8]
-21-14491	1	1	2	1	1	mnwnih		5d0her		32Q		Lauren Rowe		Elizabeth McGivern	75 61
-21-14491	1	1	2	1	1	6c42sa		ofsbmp		32Q		Gabriella Hudec		Lauren Hollis	61 64
-21-14491	1	2	1	5	1	vv0ze9		orgbyd		F	1	Lea Cakarevic		Alexa Gamborino	76(4) 62
-21-14491	1	2	1	4	1	vv0ze9		g0g2gm		SF	1	Lea Cakarevic	8	Claudia Sole	61 46 [6]
-21-14491	1	2	1	4	1	orgbyd		vvh9t5		SF		Alexa Gamborino		Lola Cincunegui	63 62
-21-14491	1	2	1	3	1	vv0ze9		yrgbyd		QF	1	Lea Cakarevic		Andrea Teofilovic	64 62
-21-14491	1	2	1	3	1	g0g2gm		ligkg4		QF	8	Claudia Sole	4	Madeleine Whip	64 32 Ret.
+21-14491	1	1	2	1	1	m5w5iz		9qkwcw		32Q		Piper Schrepferman		Risako Umekuni	63 75
+21-14491	1	1	2	1	1	uk8eo2		vv0ze9		32Q		Sarah Hackman		Claudia Adcock	64 63
+21-14491	1	1	2	1	1	oxstm7		lc42sa		32Q		Isabella Carofano		Shantala Uzcategui	64 06 [8]
+21-14491	1	1	2	1	1	sm08w0		bc42sa		32Q		Lauren Rowe		Elizabeth McGivern	75 61
+21-14491	1	1	2	1	1	nscqku		5v0ze9		32Q		Gabriella Hudec		Lauren Hollis	61 64
+21-14491	1	2	1	5	1	cb8n6t		uqkwcw		F	1	Lea Cakarevic		Alexa Gamborino	76(4) 62
+21-14491	1	2	1	4	1	cb8n6t		mzknu5		SF	1	Lea Cakarevic	8	Claudia Sole	61 46 [6]
+21-14491	1	2	1	4	1	uqkwcw		vvh9t5		SF		Alexa Gamborino		Lola Cincunegui	63 62
+21-14491	1	2	1	3	1	cb8n6t		f7ozqx		QF	1	Lea Cakarevic		Andrea Teofilovic	64 62
+21-14491	1	2	1	3	1	mzknu5		rhk5un		QF	8	Claudia Sole	4	Madeleine Whip	64 32 Ret.
 21-14491	1	2	1	3	1	vvh9t5		2bpxlp		QF		Lola Cincunegui		Madison Arquette	62 62
-21-14491	1	2	1	3	1	orgbyd		oxstm7		QF		Alexa Gamborino		Maria Fernanda De L…	36 63 [8]
-21-14491	1	2	1	2	1	vv0ze9		7bpxlp		16	1	Lea Cakarevic		Emily Hadler	62 64
-21-14491	1	2	1	2	1	yrgbyd		bc42sa		16		Andrea Teofilovic	5	Muskaan Ranjan	57 75 [4]
-21-14491	1	2	1	2	1	ligkg4		4qkwcw		16	4	Madeleine Whip		Joie Reisch	Walkover
-21-14491	1	2	1	2	1	g0g2gm		01ch23		16	8	Claudia Sole		Olivia Huang	62 46 [6]
-21-14491	1	2	1	2	1	2bpxlp		av0ze9		16		Madison Arquette		Isabella Sanchez	61 62
-21-14491	1	2	1	2	1	vvh9t5		9qkwcw		16		Lola Cincunegui		Kumiko Yamagachi	64 63
-21-14491	1	2	1	2	1	orgbyd		8mhibw		16		Alexa Gamborino		Laura Brito	63 76(1)
-21-14491	1	2	1	2	1	oxstm7		3fsbmp		16		Maria Fernanda De L…		Chiara Wolff	75 63
-21-14491	1	2	1	1	1	vv0ze9		ngoq86		32	1	Lea Cakarevic		Patricia Martin Gom…	60 63
-21-14491	1	2	1	1	1	7bpxlp		iyo88o		32		Emily Hadler		Nicole Johnson	63 64
-21-14491	1	2	1	1	1	bc42sa		x40qwi		32	5	Muskaan Ranjan		Madison Windham	76(3) 60
-21-14491	1	2	1	1	1	yrgbyd		16sk4g		32		Andrea Teofilovic		Marily Canellopolous	67(3) 63 [7]
-21-14491	1	2	1	1	1	ligkg4		v1ch23		32	4	Madeleine Whip		Sophia Baker	60 60
-21-14491	1	2	1	1	1	4qkwcw		pwdofm		32		Joie Reisch		Reagan Resor	61 64
-21-14491	1	2	1	1	1	g0g2gm		48kece		32	8	Claudia Sole		Samantha Stephenson	62 46 [6]
-21-14491	1	2	1	1	1	01ch23		1o9cju		32		Olivia Huang		Cristina Nieto Soto	64 61
-21-14491	1	2	1	1	1	av0ze9		nscqku		32		Isabella Sanchez		Irene Latorre Barre…	64 64
-21-14491	1	2	1	1	1	2bpxlp		b0g2gm		32		Madison Arquette	7	victoria lisson	75 76(3)
-21-14491	1	2	1	1	1	9qkwcw		uwwe0q		32		Kumiko Yamagachi		Sophia Hanover	64 64
-21-14491	1	2	1	1	1	vvh9t5		gigkg4		32		Lola Cincunegui	3	carolina velazquez	76(3) 62
-21-14491	1	2	1	1	1	orgbyd		z8kece		32		Alexa Gamborino		Danica Malan	61 61
-21-14491	1	2	1	1	1	8mhibw		t34ba1		32		Laura Brito	6	Brittany Lavenant	36 33 Ret.
-21-14491	1	2	1	1	1	3fsbmp		i40qwi		32		Chiara Wolff		Sage Hills	63 26 [6]
-21-14491	1	2	1	1	1	oxstm7		gc42sa		32		Maria Fernanda De L…	2	Courtney Rittel	63 63
-21-14491	1	2	2	5	1	i40qwi		iyo88o		F		Sage Hills		Nicole Johnson	60 76(1)
-21-14491	1	2	2	4	1	iyo88o		1o9cju		SF		Nicole Johnson		Cristina Nieto Soto	Walkover
-21-14491	1	2	2	4	1	i40qwi		gigkg4		SF		Sage Hills	3	carolina velazquez	Walkover
-21-14491	1	2	2	3	1	iyo88o		x40qwi		QF		Nicole Johnson		Madison Windham	Walkover
+21-14491	1	2	1	3	1	uqkwcw		uwwe0q		QF		Alexa Gamborino		Maria Fernanda De L…	36 63 [8]
+21-14491	1	2	1	2	1	cb8n6t		7bpxlp		16	1	Lea Cakarevic		Emily Hadler	62 64
+21-14491	1	2	1	2	1	f7ozqx		sscqku		16		Andrea Teofilovic	5	Muskaan Ranjan	57 75 [4]
+21-14491	1	2	1	2	1	rhk5un		apohqf		16	4	Madeleine Whip		Joie Reisch	Walkover
+21-14491	1	2	1	2	1	mzknu5		hhk5un		16	8	Claudia Sole		Olivia Huang	62 46 [6]
+21-14491	1	2	1	2	1	2bpxlp		gu4kss		16		Madison Arquette		Isabella Sanchez	61 62
+21-14491	1	2	1	2	1	vvh9t5		fpohqf		16		Lola Cincunegui		Kumiko Yamagachi	64 63
+21-14491	1	2	1	2	1	uqkwcw		8mhibw		16		Alexa Gamborino		Laura Brito	63 76(1)
+21-14491	1	2	1	2	1	uwwe0q		9eww08		16		Maria Fernanda De L…		Chiara Wolff	75 63
+21-14491	1	2	1	1	1	cb8n6t		tfsbmp		32	1	Lea Cakarevic		Patricia Martin Gom…	60 63
+21-14491	1	2	1	1	1	7bpxlp		zeww08		32		Emily Hadler		Nicole Johnson	63 64
+21-14491	1	2	1	1	1	sscqku		334ba1		32	5	Muskaan Ranjan		Madison Windham	76(3) 60
+21-14491	1	2	1	1	1	f7ozqx		im08w0		32		Andrea Teofilovic		Marily Canellopolous	67(3) 63 [7]
+21-14491	1	2	1	1	1	rhk5un		chk5un		32	4	Madeleine Whip		Sophia Baker	60 60
+21-14491	1	2	1	1	1	apohqf		pwdofm		32		Joie Reisch		Reagan Resor	61 64
+21-14491	1	2	1	1	1	mzknu5		a7ozqx		32	8	Claudia Sole		Samantha Stephenson	62 46 [6]
+21-14491	1	2	1	1	1	hhk5un		1o9cju		32		Olivia Huang		Cristina Nieto Soto	64 61
+21-14491	1	2	1	1	1	gu4kss		trgbyd		32		Isabella Sanchez		Irene Latorre Barre…	64 64
+21-14491	1	2	1	1	1	2bpxlp		hzknu5		32		Madison Arquette	7	victoria lisson	75 76(3)
+21-14491	1	2	1	1	1	fpohqf		0v0ze9		32		Kumiko Yamagachi		Sophia Hanover	64 64
+21-14491	1	2	1	1	1	vvh9t5		xyo88o		32		Lola Cincunegui	3	carolina velazquez	76(3) 62
+21-14491	1	2	1	1	1	uqkwcw		57ozqx		32		Alexa Gamborino		Danica Malan	61 61
+21-14491	1	2	1	1	1	8mhibw		z28wok		32		Laura Brito	6	Brittany Lavenant	36 33 Ret.
+21-14491	1	2	1	1	1	9eww08		zk8eo2		32		Chiara Wolff		Sage Hills	63 26 [6]
+21-14491	1	2	1	1	1	uwwe0q		mb8n6t		32		Maria Fernanda De L…	2	Courtney Rittel	63 63
+21-14491	1	2	2	5	1	zk8eo2		zeww08		F		Sage Hills		Nicole Johnson	60 76(1)
+21-14491	1	2	2	4	1	zeww08		1o9cju		SF		Nicole Johnson		Cristina Nieto Soto	Walkover
+21-14491	1	2	2	4	1	zk8eo2		xyo88o		SF		Sage Hills	3	carolina velazquez	Walkover
+21-14491	1	2	2	3	1	zeww08		334ba1		QF		Nicole Johnson		Madison Windham	Walkover
 21-14491	1	2	2	3	1	1o9cju		pwdofm		QF		Cristina Nieto Soto		Reagan Resor	64 63
-21-14491	1	2	2	3	1	gigkg4		b0g2gm		QF	3	carolina velazquez	7	victoria lisson	Walkover
-21-14491	1	2	2	3	1	i40qwi		z8kece		QF		Sage Hills		Danica Malan	62 61
-21-14491	1	2	2	1	1	iyo88o		ngoq86		16Q		Nicole Johnson		Patricia Martin Gom…	Walkover
-21-14491	1	2	2	1	1	x40qwi		16sk4g		16Q		Madison Windham		Marily Canellopolous	Walkover
-21-14491	1	2	2	1	1	pwdofm		v1ch23		16Q		Reagan Resor		Sophia Baker	61 60
-21-14491	1	2	2	1	1	1o9cju		48kece		16Q		Cristina Nieto Soto		Samantha Stephenson	45 Ret.
-21-14491	1	2	2	1	1	b0g2gm		nscqku		16Q	7	victoria lisson		Irene Latorre Barre…	63 62
-21-14491	1	2	2	1	1	gigkg4		uwwe0q		16Q	3	carolina velazquez		Sophia Hanover	63 46 [8]
-21-14491	1	2	2	1	1	z8kece		t34ba1		16Q		Danica Malan	6	Brittany Lavenant	Walkover
-21-14491	1	2	2	1	1	i40qwi		gc42sa		16Q		Sage Hills	2	Courtney Rittel	64 46 [4]
+21-14491	1	2	2	3	1	xyo88o		hzknu5		QF	3	carolina velazquez	7	victoria lisson	Walkover
+21-14491	1	2	2	3	1	zk8eo2		57ozqx		QF		Sage Hills		Danica Malan	62 61
+21-14491	1	2	2	1	1	zeww08		tfsbmp		16Q		Nicole Johnson		Patricia Martin Gom…	Walkover
+21-14491	1	2	2	1	1	334ba1		im08w0		16Q		Madison Windham		Marily Canellopolous	Walkover
+21-14491	1	2	2	1	1	pwdofm		chk5un		16Q		Reagan Resor		Sophia Baker	61 60
+21-14491	1	2	2	1	1	1o9cju		a7ozqx		16Q		Cristina Nieto Soto		Samantha Stephenson	45 Ret.
+21-14491	1	2	2	1	1	hzknu5		trgbyd		16Q	7	victoria lisson		Irene Latorre Barre…	63 62
+21-14491	1	2	2	1	1	xyo88o		0v0ze9		16Q	3	carolina velazquez		Sophia Hanover	63 46 [8]
+21-14491	1	2	2	1	1	57ozqx		z28wok		16Q		Danica Malan	6	Brittany Lavenant	Walkover
+21-14491	1	2	2	1	1	zk8eo2		mb8n6t		16Q		Sage Hills	2	Courtney Rittel	64 46 [4]
 21-22816	2	1	1	3	1	gjt9hh		xtpfl7		F		Camilla Ciaccia		Elena Gunfaus	Walkover
 21-22816	2	1	1	2	1	gjt9hh		93llpx		SF		Camilla Ciaccia		Chole Kosmrlj	61 61
 21-22816	2	1	1	2	1	xtpfl7		w69ujc		SF		Elena Gunfaus		Viktorija Veselinova	62 63
@@ -356,6 +356,38 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24367	2	5	1	1	1	imhibw		ig50n2		SF		Allison Kowalke		Kaylie Meyer	83
 21-24367	2	6	1	1	1	iy5ink		j9x3dr		SF		Andjela Vukcevic		Marta Calvo Larraz	80
 21-24367	2	6	1	1	1	ukpo3y		ch1f9j		SF		Rukshika Wijesooryia		Dina Dudic	84
+21-30664	1	1	1	2		cmhibw		pjt9hh		64	21	Tijana Zlatanovic		Madelyn Yergler	Fri @ 13:00
+21-30664	1	1	1	2		wscqku		lzknu5		64		Luisa Pelayo	26	Ayshe Can	Fri @ 14:30
+21-30664	1	1	1	2		fdhrtn		2l4taj		64		Penelope Abreu	19	Yashna Yellayi	Fri @ 14:30
+21-30664	1	1	1	2		qclc76		w40qwi		64		Katarina Dukic	14	Megan Heuser	Fri @ 15:30
+21-30664	1	1	1	1		v0xcvi		8eww08		128		Giulia Turconi		Isabelle Popma	Fri @ 10:00
+21-30664	1	1	1	1		wgoq86		rz1x91		128		Shalini Tallamraju		Susana Andres	Fri @ 10:00
+21-30664	1	1	1	1		kos24y		328wok		128		Reagan Welch		Katherine Bellia	Fri @ 10:00
+21-30664	1	1	1	1		7mhibw		xatiz8		128		Andie Weise		Lenka Antonijevic	Fri @ 10:00
+21-30664	1	1	1	1		8rxld9		qb8n6t		128		Emilija Kojcic		Anastasia Rakita	Fri @ 10:00
+21-30664	1	1	1	1		k1trhz		8qkwcw		128		Katarina Drazic		Shivani Ingle	Fri @ 10:00
+21-30664	1	1	1	1		7tpfl7		ed0her		128		Ioanna Tsadari		Prerna Vichare	Fri @ 10:00
+21-30664	1	1	1	1		k6sk4g		jkpo3y		128		Diana Lukyanova		Isabella Schoolcraft	Fri @ 10:00
+21-30664	1	1	1	1		2y5ink		dll3pf		128		Laura Fitzgerald		Lizi Morgoshia	Fri @ 10:00
+21-30664	1	1	1	1		qzknu5		qixuv0		128		Grace Whitney		Olivia Czerwonka	Fri @ 10:00
+21-30664	1	1	1	1		vdhrtn		8ll3pf		128		Hannah Neuman		Othilia Brodin	Fri @ 10:00
+21-30664	1	1	1	1		kjt9hh		fu4kss		128		Demi Jhaveri		Lina Ali	Fri @ 11:15
+21-30664	1	1	1	1		p81ora		2g50n2		128		Selina Karg		Yuliya Kizelbasheva	Fri @ 11:15
+21-30664	1	1	1	1		figkg4		jed6f4		128		Kida Ferrari		Amanda Tabanera	Fri @ 11:15
+21-30664	1	1	1	1		88kece		2fsbmp		128		Dani Schoenly		Dominika Hrabalova	Fri @ 11:15
+21-30664	1	1	1	1		2atiz8		97ozqx		128		Diana Borodina		Erika Dimitriev	Fri @ 10:00
+21-30664	1	1	1	1		pvh9t5		d4h0be		128		Sofiya Sedovich		Annika Vetter	Fri @ 10:00
+21-30664	1	1	1	1		lo9cju		wyo88o		128		Alexandra Abyasova		Julia Kuszynski	Fri @ 10:00
+21-30664	1	1	1	1		p1trhz		1ixuv0		128		Natalija Popovic		Lura Silveira	Fri @ 10:00
+21-30664	1	1	1	1		k7595t		e81ora		128		Claire Czerwonka		Elena Jankulovska	Fri @ 10:00
+21-30664	1	1	1	1		qulu7o		dmhibw		128		Marija Jovicic		Ines Iglesias	Fri @ 10:00
+21-30664	1	1	1	1		3wwe0q		vo9cju		128		Anca Craciun		Allison McConnell	Fri @ 11:15
+21-30664	1	1	1	1		e1ch23		fos24y		128		Ana Jover		Sabina Brichackova	Fri @ 11:15
+21-30664	1	1	1	1		zatiz8		xfsbmp		128		Christine Gouws		Vasavi Ganesan	Fri @ 11:15
+21-30664	1	1	1	1		89x3dr		wtpfl7		128		Calista Fuller		Tara Damnjanovic	Fri @ 11:30
+21-30664	1	1	1	1		10xcvi		8wwe0q		128		Florencia Fuentes		Dagmar Zdrubecka	Fri @ 11:30
+21-30664	1	1	1	1		k0g2gm		datiz8		128		Kiley Rabjohns		Maru Poppe	Fri @ 11:30
+21-30664	1	1	1	1		1ndxxd		kigkg4		128		Kristina Pukhaeva		Charlotte Gisclon	Fri @ 11:30
 21-31047	1	1	1	3	1	iz1x91		0ed6f4		F		Hana Kvapilova		Maryjoe Crisologo	60 75
 21-31047	1	1	1	2	1	iz1x91		b1trhz		SF		Hana Kvapilova		Allison Stewart	63 62
 21-31047	1	1	1	2	1	0ed6f4		02p63g		SF		Maryjoe Crisologo		Rishona Israel-Lewis	36 63 [8]
@@ -641,12 +673,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-47655	1	1	1	4	1	0mhibw		0ed6f4		F	4	Yue Lin Chen		Maryjoe Crisologo	06 63 [7]
 21-47655	1	1	1	3	1	0mhibw		ubpxlp		SF	4	Yue Lin Chen	1	Harsha Challa	64 76(4)
 21-47655	1	1	1	3	1	0ed6f4		u5dfxv		SF		Maryjoe Crisologo	3	Chloe Gavino	63 61
-21-47655	1	1	1	2	1	ubpxlp		bf9l1l		QF	1	Harsha Challa		Sanne Frederieke Sc…	46 63 [8]
+21-47655	1	1	1	2	1	ubpxlp		bf9l1l		QF	1	Harsha Challa		Sanne Frederieke Sc…	46 63 [8]
 21-47655	1	1	1	2	1	0mhibw		n7595t		QF	4	Yue Lin Chen		Kathleen Percegona	64 64
 21-47655	1	1	1	2	1	u5dfxv		uf9l1l		QF	3	Chloe Gavino		Ileana Mocciola	63 36 [4]
 21-47655	1	1	1	2	1	0ed6f4		oo9cju		QF		Maryjoe Crisologo	2	Hsuan Huang	64 64
 21-47655	1	1	1	1	1	ubpxlp		tixuv0		16	1	Harsha Challa		Vittoria Quadri	62 62
-21-47655	1	1	1	1	1	bf9l1l		ndhrtn		16		Sanne Frederieke Sc…		Veronika Lebisova	62 63
+21-47655	1	1	1	1	1	bf9l1l		ndhrtn		16		Sanne Frederieke Sc…		Veronika Lebisova	62 63
 21-47655	1	1	1	1	1	n7595t		b9x3dr		16		Kathleen Percegona		Julia Tozzi	63 64
 21-47655	1	1	1	1	1	0mhibw		5y5ink		16	4	Yue Lin Chen		Georgia Townsend	63 62
 21-47655	1	1	1	1	1	u5dfxv		ztpfl7		16	3	Chloe Gavino		Lina Sachica	63 63
@@ -660,7 +692,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-47655	1	1	2	1	1	b9x3dr		5y5ink		QF		Julia Tozzi		Georgia Townsend	61 26 [14]
 21-47655	1	1	2	1	1	ztpfl7		to9cju		QF		Lina Sachica		Livia Leite	60 61
 21-47655	1	1	2	1	1	ijt9hh		63llpx		QF		Linda Claire Elound…		Deondra Bacchus	63 60
-21-47655	1	1	3	1	1	bf9l1l		n7595t		SF		Sanne Frederieke Sc…		Kathleen Percegona	75 63
+21-47655	1	1	3	1	1	bf9l1l		n7595t		SF		Sanne Frederieke Sc…		Kathleen Percegona	75 63
 21-47655	1	1	3	1	1	oo9cju		uf9l1l		SF	2	Hsuan Huang		Ileana Mocciola	64 62
 21-47655	1	1	5	2	1	5y5ink		to9cju		F		Georgia Townsend		Livia Leite	64 62
 21-47655	1	1	5	1	1	5y5ink		tixuv0		SF		Georgia Townsend		Vittoria Quadri	76(7) 64
@@ -758,6 +790,69 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-48654	1	3	1	1	1	mclc76		z3llpx		64		Emma Vanderheyden		Ines Bachir el Bouh…	61 26 [5]
 21-48654	1	3	1	1	1	4f9l1l		h0xcvi		64		Liz Stefancic		Anne Lou Champion	16 62 [2]
 21-48654	1	3	1	1	1	bdhrtn		nbpxlp		64		Alisha Hussain		Gabrielle Clairotte	63 75
+21-50226	1	1	1	3		2c42sa		veww08		R3		Catherine Broerman		Vasiliki Karvouni	Sun @ 10:30
+21-50226	1	1	1	3		kfsbmp		p34ba1		R3		Habiba Aly		Andrea Jansson	Sun @ 10:30
+21-50226	1	1	1	2		kfsbmp		veww08		R2		Habiba Aly		Vasiliki Karvouni	Sat @ 11:30
+21-50226	1	1	1	2		2c42sa		p34ba1		R2		Catherine Broerman		Andrea Jansson	Sat @ 11:30
+21-50226	1	1	1	1		kfsbmp		2c42sa		R1		Habiba Aly		Catherine Broerman	Fri @ 11:30
+21-50226	1	1	1	1		veww08		p34ba1		R1		Vasiliki Karvouni		Andrea Jansson	Fri @ 11:30
+21-50226	1	2	1	3		11ch23		pxstm7		R3		Ines Stephani		Jana Lazarevic	Sun @ 10:30
+21-50226	1	2	1	3		jm08w0		jac8kc		R3		Frederikke Svarre L…		Maria Rizzolo	Sun @ 10:30
+21-50226	1	2	1	2		jm08w0		pxstm7		R2		Frederikke Svarre L…		Jana Lazarevic	Sat @ 11:30
+21-50226	1	2	1	2		11ch23		jac8kc		R2		Ines Stephani		Maria Rizzolo	Sat @ 11:30
+21-50226	1	2	1	1		jm08w0		11ch23		R1		Frederikke Svarre L…		Ines Stephani	Fri @ 11:30
+21-50226	1	2	1	1		pxstm7		jac8kc		R1		Jana Lazarevic		Maria Rizzolo	Fri @ 11:30
+21-50226	1	3	1	3		prgbyd		dt856b		R3		Kelsey Neville		Sonia Skobkareva	Sun @ 10:30
+21-50226	1	3	1	3		eyo88o		v28wok		R3		Anfisa Danilchenko		Allie Ochotorena	Sun @ 10:30
+21-50226	1	3	1	2		eyo88o		dt856b		R2		Anfisa Danilchenko		Sonia Skobkareva	Sat @ 11:30
+21-50226	1	3	1	2		prgbyd		v28wok		R2		Kelsey Neville		Allie Ochotorena	Sat @ 11:30
+21-50226	1	3	1	1		eyo88o		prgbyd		R1		Anfisa Danilchenko		Kelsey Neville	Fri @ 11:30
+21-50226	1	3	1	1		dt856b		v28wok		R1		Sonia Skobkareva		Allie Ochotorena	Fri @ 11:30
+21-50226	1	4	1	3		qeww08		7igkg4		R3		Rachel Hanford		Sapir Sela	Sun @ 10:30
+21-50226	1	4	1	3		1pohqf		pfsbmp		R3		Chie Kezuka		Adrianna Sosnowska	Sun @ 10:30
+21-50226	1	4	1	2		1pohqf		7igkg4		R2		Chie Kezuka		Sapir Sela	Sat @ 11:30
+21-50226	1	4	1	2		qeww08		pfsbmp		R2		Rachel Hanford		Adrianna Sosnowska	Sat @ 11:30
+21-50226	1	4	1	1		1pohqf		qeww08		R1		Chie Kezuka		Rachel Hanford	Fri @ 11:30
+21-50226	1	4	1	1		7igkg4		pfsbmp		R1		Sapir Sela		Adrianna Sosnowska	Fri @ 11:30
+21-50226	1	5	1	3		k9gtyv		jyo88o		R3		Emilee Duong		Daria Walczak	Sun @ 10:30
+21-50226	1	5	1	3		70g2gm		j40qwi		R3		Natalie Kmoskova		Jenna Sloan	Sun @ 10:30
+21-50226	1	5	1	2		70g2gm		jyo88o		R2		Natalie Kmoskova		Daria Walczak	Sat @ 11:30
+21-50226	1	5	1	2		k9gtyv		j40qwi		R2		Emilee Duong		Jenna Sloan	Sat @ 11:30
+21-50226	1	5	1	1		70g2gm		k9gtyv		R1		Natalie Kmoskova		Emilee Duong	Fri @ 11:30
+21-50226	1	5	1	1		jyo88o		j40qwi		R1		Daria Walczak		Jenna Sloan	Fri @ 11:30
+21-50226	1	6	1	3		k34ba1		vk8eo2		R3		Mille Haagensen		Nina Zdravkovic	Sun @ 10:30
+21-50226	1	6	1	3		wv0ze9		1d0her		R3		Ekin Ercetin		Kianna Oda	Sun @ 10:30
+21-50226	1	6	1	2		wv0ze9		vk8eo2		R2		Ekin Ercetin		Nina Zdravkovic	Sat @ 11:30
+21-50226	1	6	1	2		k34ba1		1d0her		R2		Mille Haagensen		Kianna Oda	Sat @ 11:30
+21-50226	1	6	1	1		wv0ze9		k34ba1		R1		Ekin Ercetin		Mille Haagensen	Fri @ 11:30
+21-50226	1	6	1	1		vk8eo2		1d0her		R1		Nina Zdravkovic		Kianna Oda	Fri @ 11:30
+21-50226	1	7	1	3		76sk4g		pl4taj		R3		Beata Havlickova		Dalila Said	Sun @ 10:30
+21-50226	1	7	1	3		vqkwcw		jgoq86		R3		Darinka Stepan		Vlada Medvedcova	Sun @ 10:30
+21-50226	1	7	1	2		vqkwcw		pl4taj		R2		Darinka Stepan		Dalila Said	Sat @ 11:30
+21-50226	1	7	1	2		76sk4g		jgoq86		R2		Beata Havlickova		Vlada Medvedcova	Sat @ 11:30
+21-50226	1	7	1	1		vqkwcw		76sk4g		R1		Darinka Stepan		Beata Havlickova	Fri @ 11:30
+21-50226	1	7	1	1		pl4taj		jgoq86		R1		Dalila Said		Vlada Medvedcova	Fri @ 11:30
+21-50226	1	8	1	3		7u4kss		qk8eo2		R3		Lucy Lu		Rebecca Ehn	Sun @ 10:30
+21-50226	1	8	1	3		p9gtyv		escqku		R3		Caroline Wernli		Berta Girbau	Sun @ 10:30
+21-50226	1	8	1	2		p9gtyv		qk8eo2		R2		Caroline Wernli		Rebecca Ehn	Sat @ 11:30
+21-50226	1	8	1	2		7u4kss		escqku		R2		Lucy Lu		Berta Girbau	Sat @ 11:30
+21-50226	1	8	1	1		p9gtyv		7u4kss		R1		Caroline Wernli		Lucy Lu	Fri @ 11:30
+21-50226	1	8	1	1		qk8eo2		escqku		R1		Rebecca Ehn		Berta Girbau	Fri @ 11:30
+21-50226	1	9	1	3		8nwnih		dhk5un		R3		Anna Marija Bukina		Nore Heinitz	Sun @ 10:30
+21-50226	1	9	1	3		17ozqx		v8kece		R3		Zeyneb Sarioglan		Jyun-Yi Lee	Sun @ 10:30
+21-50226	1	9	1	2		17ozqx		dhk5un		R2		Zeyneb Sarioglan		Nore Heinitz	Sat @ 11:30
+21-50226	1	9	1	2		8nwnih		v8kece		R2		Anna Marija Bukina		Jyun-Yi Lee	Sat @ 11:30
+21-50226	1	9	1	1		17ozqx		8nwnih		R1		Zeyneb Sarioglan		Anna Marija Bukina	Fri @ 11:30
+21-50226	1	9	1	1		dhk5un		v8kece		R1		Nore Heinitz		Jyun-Yi Lee	Fri @ 11:30
+21-50226	1	10	1	5		dnwnih		26sk4g		R5		Eesha Varma		Maria Frampton	Sun @ 10:30
+21-50226	1	10	1	5		jscqku		e40qwi		R5		Kendall Hunt		Yulia Almiron	Sun @ 10:30
+21-50226	1	10	1	5		8hk5un		dzknu5		R5		Yana Gaskell		Lucia Rizza	Sun @ 10:30
+21-50226	1	10	1	4		dnwnih		jscqku		R4		Eesha Varma		Kendall Hunt	Sat @ 11:30
+21-50226	1	10	1	4		8hk5un		e40qwi		R4		Yana Gaskell		Yulia Almiron	Sat @ 11:30
+21-50226	1	10	1	4		26sk4g		dzknu5		R4		Maria Frampton		Lucia Rizza	Sat @ 11:30
+21-50226	1	10	1	1		8hk5un		dnwnih		R1		Yana Gaskell		Eesha Varma	Fri @ 11:30
+21-50226	1	10	1	1		jscqku		26sk4g		R1		Kendall Hunt		Maria Frampton	Fri @ 11:30
+21-50226	1	10	1	1		e40qwi		dzknu5		R1		Yulia Almiron		Lucia Rizza	Fri @ 11:30
 21-66962	1	1	1	1	1	zst0zq		6wdofm		32		Jordan Schifano		Lorena Castellanos	60 62
 21-66962	1	1	1	1	1	5f9l1l		0ll3pf		32		Jill Lambrechts		Agatha Carbonell	63 62
 21-66962	1	1	1	1	1	h7595t		nixuv0		32		Amber Hochstatter		Ashley Jacobson	63 62
