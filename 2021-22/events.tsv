@@ -1,11 +1,11 @@
 ---
 tournaments: 118
 events: 242
-eventsWithDraws: 56
-eventsWithoutDraws: 186
-draws: 245
-brackets: 638
-results: 5032
+eventsWithDraws: 57
+eventsWithoutDraws: 185
+draws: 255
+brackets: 654
+results: 5170
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -94,7 +94,12 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-00709	2			W	Women's Open Doubles				
 21-01301	1			M	Men's Open				
 21-01963	1	1	1	W	Women's Open Singles	MIT Invitational Singles Draw	Main	64,32,16,QF,SF,F	63
+21-01963	1	2	1	W	Women's Open Singles	RR Consolation Singles Round 1	Main	16,QF,SF,F	15
+21-01963	1	3	1	W	Women's Open Singles	RR Consolation Singles Round 2	Main	16,QF,SF,F	15
+21-01963	1	4	1	W	Women's Open Singles	RR Consolation Singles Round 3	Main	QF,SF,F	7
 21-01963	2	1	1	W	Women's Open Doubles	Draw	Main	32,16,QF,SF,F	31
+21-01963	2	2	1	W	Women's Open Doubles	RR Consolation Doubles Round 1	Main	16,QF,SF,F	15
+21-01963	2	3	1	W	Women's Open Doubles	RR Consolation Doubles Round 2	Main	SF,F	3
 21-02376	1			M	Men's Open Singles				
 21-02376	2			W	Women's Open Singles				
 21-02376	3			M	Men's Open Doubles				
@@ -626,7 +631,17 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-69307	1	3	1	M	Men's Open Singles	Silver West Swap	Main	SF,F	3
 21-69307	1	4	1	M	Men's Open Singles	Extras Friday pm	Main	QF,SF,F	7
 21-69307	1	5	1	M	Men's Open Singles	Extras Saturday	Main	16,QF,SF,F	15
-21-69307	2			M	Men's Open Doubles				
+21-69307	1	6	1	M	Men's Open Singles	Extras Friday am	Main	F	1
+21-69307	2	1	1	M	Men's Open Doubles	Draw	East	32,16,QF,SF,F	31
+21-69307	2	1	2	M	Men's Open Doubles	Draw	West	16,QF,SF,F	15
+21-69307	2	1	3	M	Men's Open Doubles	Draw	North	QF,SF,F	7
+21-69307	2	1	4	M	Men's Open Doubles	Draw	Northeast	SF,F	3
+21-69307	2	1	5	M	Men's Open Doubles	Draw	South	QF,SF,F	7
+21-69307	2	1	6	M	Men's Open Doubles	Draw	Southwest	SF,F	3
+21-69307	2	1	7	M	Men's Open Doubles	Draw	Northwest	SF,F	3
+21-69307	2	1	8	M	Men's Open Doubles	Draw	Southeast	SF,F	3
+21-69307	2	2	1	M	Men's Open Doubles	Extras Saturday	Main	QF,SF,F	7
+21-69307	2	3	1	M	Men's Open Doubles	Extras Friday	Main	SF,F	3
 21-71023	1			W	Women's Open Singles				
 21-71023	2			W	Women's Open Doubles				
 21-72007	1			W	Women's Open Singles				
