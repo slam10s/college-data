@@ -1,9 +1,9 @@
 ---
 tournaments: 23
 players: 589
-matches: 462
-completed: 445
-scheduled: 17
+matches: 474
+completed: 471
+scheduled: 3
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	3	1	1	3	1	h9edsn	ojajwd	z6q4y8	s26gic	F		Fernandez/Bianchi		Fisicaro/Krolo	75
@@ -37,14 +37,20 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00238	3	3	2	1	1	uu24mk	lmysqs	fzi7ox	rxqdgz	F		Blair/Shearer		Watanabi/Shestakov	62
 21-00238	3	3	3	1	1	55upcr	ab670l	n8iy66	4oqmyq	F		Burton/Holden		Breitenmoser/Lorenz…	63
 21-00238	3	3	4	1	1	tvyj81	5hipof	nk6yiu	tdy18j	F		Fiorito/Frequelin		Fiala/Capone	64
-21-20374	2	1	1	3		rrxld9	skpo3y	hyo88o	3qkwcw	16	1	Stevenson/Cutting		Michael/Trimpe	Sat @ 11:30
-21-20374	2	1	1	3		91ch23	y28wok	50g2gm	ryo88o	16	5	Troost/Ross		Haskins/Vukovic	Sat @ 11:30
-21-20374	2	1	1	3		06sk4g	4pohqf	6t856b	bb8n6t	16		Fischer/Penny		de Negri/Herran	Sat @ 11:30
-21-20374	2	1	1	3		i9gtyv	4jcz2l	mgoq86	hscqku	16	5	Edge/Rocha	9	Rodriguez/Gatti	Sat @ 11:30
-21-20374	2	1	1	3		3dhrtn	gst0zq	nl4taj	jeww08	16		Taylor/Fanlo	5	Kovacevic/Adams	Sat @ 11:30
-21-20374	2	1	1	3		btpfl7	hatiz8	s9gtyv	m40qwi	16	9	Rengifo/Lobo	3	Motl/Slump	Sat @ 11:30
-21-20374	2	1	1	3		65w5iz	u1ch23	myo88o	lnwnih	16		Brennan/Dickson		Tosetto/Vicente	Sat @ 11:30
-21-20374	2	1	1	3		bnwnih	bt856b	zpohqf	cscqku	16	9	Mercer/Lapadat	2	Harwell/Freeman	Sat @ 11:30
+21-20374	2	1	1	5		rrxld9	skpo3y	mgoq86	hscqku	SF	1	Stevenson/Cutting	9	Rodriguez/Gatti	Sun @ 12:00
+21-20374	2	1	1	5		s9gtyv	m40qwi	bnwnih	bt856b	SF	3	Motl/Slump	9	Mercer/Lapadat	Sun @ 15:00
+21-20374	2	1	1	4	1	rrxld9	skpo3y	91ch23	y28wok	QF	1	Stevenson/Cutting	5	Troost/Ross	85
+21-20374	2	1	1	4	1	mgoq86	hscqku	6t856b	bb8n6t	QF	9	Rodriguez/Gatti		de Negri/Herran	81
+21-20374	2	1	1	4	1	s9gtyv	m40qwi	nl4taj	jeww08	QF	3	Motl/Slump	5	Kovacevic/Adams	86
+21-20374	2	1	1	4	1	bnwnih	bt856b	myo88o	lnwnih	QF	9	Mercer/Lapadat		Tosetto/Vicente	81
+21-20374	2	1	1	3	1	rrxld9	skpo3y	hyo88o	3qkwcw	16	1	Stevenson/Cutting		Michael/Trimpe	82
+21-20374	2	1	1	3	1	91ch23	y28wok	50g2gm	ryo88o	16	5	Troost/Ross		Haskins/Vukovic	85
+21-20374	2	1	1	3	1	6t856b	bb8n6t	06sk4g	4pohqf	16		de Negri/Herran		Fischer/Penny	85
+21-20374	2	1	1	3	1	mgoq86	hscqku	i9gtyv	4jcz2l	16	9	Rodriguez/Gatti	5	Edge/Rocha	85
+21-20374	2	1	1	3	1	nl4taj	jeww08	3dhrtn	gst0zq	16	5	Kovacevic/Adams		Taylor/Fanlo	85
+21-20374	2	1	1	3	1	s9gtyv	m40qwi	btpfl7	hatiz8	16	3	Motl/Slump	9	Rengifo/Lobo	Walkover
+21-20374	2	1	1	3	1	myo88o	lnwnih	65w5iz	u1ch23	16		Tosetto/Vicente		Brennan/Dickson	84
+21-20374	2	1	1	3	1	bnwnih	bt856b	zpohqf	cscqku	16	9	Mercer/Lapadat	2	Harwell/Freeman	82
 21-20374	2	1	1	2	1	rrxld9	skpo3y	ywwe0q	x9gtyv	32	1	Stevenson/Cutting		Simmons/Webster	80
 21-20374	2	1	1	2	1	hyo88o	3qkwcw	sxstm7	upohqf	32		Michael/Trimpe	9	Prata/Gannon	Walkover
 21-20374	2	1	1	2	1	91ch23	y28wok	zd0her	zv0ze9	32	5	Troost/Ross		Kelly/Miyamoto	83
@@ -89,14 +95,20 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-20374	2	1	1	1	1	5os24y	33llpx	dxstm7	ixstm7	64		Khamis/Lamas		Ball/Berry	82
 21-20374	2	1	1	1	1	bnwnih	bt856b	6nwnih	4d0her	64	9	Mercer/Lapadat		Dudek/Sachdev	83
 21-20374	2	1	1	1	1	3jt9hh	atpfl7	5c42sa	z7ozqx	64		Rock/Alemany		McClure/Kuroki	20 Ret.
-21-20374	2	1	2	3		tqkwcw	yk8eo2	sl4taj	0igkg4	16		Marshall/Mudre		Schlossmann/Damberg	Sat @ 15:00
-21-20374	2	1	2	3		o8kece	gt856b	il4taj	t8kece	16		Bogdanovich/Skrabut		Chin/Holis	Sat @ 15:00
-21-20374	2	1	2	3		5ixuv0	s9x3dr	zjcz2l	n9gtyv	16		Pernas/Zabala		Huete/Miralles	Sat @ 15:00
-21-20374	2	1	2	3		56sk4g	yqkwcw	a0g2gm	ok8eo2	16		Mizrahi/Tang		Perkowski/Eliasson	Sat @ 15:00
-21-20374	2	1	2	3		cac8kc	h40qwi	fc42sa	00g2gm	16	9	Chen/LeBlanc		Uribe/Garcia-Nieto	Sat @ 15:00
-21-20374	2	1	2	3		9v0ze9	a6sk4g	owwe0q	0u4kss	16		Winters/Nakayama		Cossu/Brancatelli	Sat @ 15:00
-21-20374	2	1	2	3		tk8eo2	oqkwcw	s34ba1	f6sk4g	16	9	Mitsui/Diaz		Orlando/Wojtalik	Sat @ 15:00
-21-20374	2	1	2	3		6nwnih	4d0her	5c42sa	z7ozqx	16		Dudek/Sachdev		McClure/Kuroki	Sat @ 15:00
+21-20374	2	1	2	5	1	tqkwcw	yk8eo2	zjcz2l	n9gtyv	SF		Marshall/Mudre		Huete/Miralles	Walkover
+21-20374	2	1	2	5		cac8kc	h40qwi	tk8eo2	oqkwcw	SF	9	Chen/LeBlanc	9	Mitsui/Diaz	Sun @ 12:00
+21-20374	2	1	2	4	1	tqkwcw	yk8eo2	o8kece	gt856b	QF		Marshall/Mudre		Bogdanovich/Skrabut	86
+21-20374	2	1	2	4	1	zjcz2l	n9gtyv	56sk4g	yqkwcw	QF		Huete/Miralles		Mizrahi/Tang	86
+21-20374	2	1	2	4	1	cac8kc	h40qwi	9v0ze9	a6sk4g	QF	9	Chen/LeBlanc		Winters/Nakayama	85
+21-20374	2	1	2	4	1	tk8eo2	oqkwcw	6nwnih	4d0her	QF	9	Mitsui/Diaz		Dudek/Sachdev	84
+21-20374	2	1	2	3	1	tqkwcw	yk8eo2	sl4taj	0igkg4	16		Marshall/Mudre		Schlossmann/Damberg	87(6)
+21-20374	2	1	2	3	1	o8kece	gt856b	il4taj	t8kece	16		Bogdanovich/Skrabut		Chin/Holis	83
+21-20374	2	1	2	3	1	zjcz2l	n9gtyv	5ixuv0	s9x3dr	16		Huete/Miralles		Pernas/Zabala	Walkover
+21-20374	2	1	2	3	1	56sk4g	yqkwcw	a0g2gm	ok8eo2	16		Mizrahi/Tang		Perkowski/Eliasson	Walkover
+21-20374	2	1	2	3	1	cac8kc	h40qwi	fc42sa	00g2gm	16	9	Chen/LeBlanc		Uribe/Garcia-Nieto	87(4)
+21-20374	2	1	2	3	1	9v0ze9	a6sk4g	owwe0q	0u4kss	16		Winters/Nakayama		Cossu/Brancatelli	Walkover
+21-20374	2	1	2	3	1	tk8eo2	oqkwcw	s34ba1	f6sk4g	16	9	Mitsui/Diaz		Orlando/Wojtalik	84
+21-20374	2	1	2	3	1	6nwnih	4d0her	5c42sa	z7ozqx	16		Dudek/Sachdev		McClure/Kuroki	Walkover
 21-20374	2	1	2	1	1	sl4taj	0igkg4	g5w5iz	mm08w0	32Q		Schlossmann/Damberg		Rodriguez/Ponomarew	84
 21-20374	2	1	2	1	1	o8kece	gt856b	cyo88o	teww08	32Q		Bogdanovich/Skrabut		Dunne/Harper	82
 21-20374	2	1	2	1	1	il4taj	t8kece	1b8n6t	92p63g	32Q		Chin/Holis		Badra/Vargas	Walkover
@@ -138,7 +150,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24367	3	1	1	1	1	orxld9	07595t	pkpo3y	60xcvi	16		Mukkaladyil/Salaman…		Cequea/King	75
 21-24367	3	1	1	1	1	7h1f9j	6ixuv0	169ujc	uq16rs	16		Corser/Sanoja		Cooke/Subert	63
 21-24367	3	1	1	1	1	ctpfl7	i4h0be	o3llpx	cz1x91	16		Schneider/Schorr		Harris/Papachrisant…	63
-21-39721	2	1	1	6		b69ujc	bclc76	natiz8	hndxxd	F	1	Davis/Summers		Panik/Van Dijk	Sat @ 11:00
+21-39721	2	1	1	6	1	b69ujc	bclc76	natiz8	hndxxd	F	1	Davis/Summers		Panik/Van Dijk	63 36 [3]
 21-39721	2	1	1	5	1	b69ujc	bclc76	obpxlp	iulu7o	SF	1	Davis/Summers	6	Straker-Meads/Tumosa	61 76(1)
 21-39721	2	1	1	5	1	natiz8	hndxxd	eeww08	8xstm7	SF		Panik/Van Dijk	4	Bastias/Caula	63 76(5)
 21-39721	2	1	1	4	1	b69ujc	bclc76	e8kece	hwuyui	QF	1	Davis/Summers	5	Cierny/Zarkovic	85

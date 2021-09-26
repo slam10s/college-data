@@ -1,9 +1,9 @@
 ---
-tournaments: 24
+tournaments: 25
 players: 652
-matches: 1090
-completed: 1064
-scheduled: 26
+matches: 1106
+completed: 1098
+scheduled: 8
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	ypm1k7		z6q4y8		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -141,14 +141,18 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-12886	2	7	1	2	1	pac8kc		j5w5iz		R2		Hassan Elalami		Per Astrom	61 60
 21-12886	2	7	1	1	1	dz1x91		jzknu5		R1		Charlie Levinson		Courage Crawford	64 62
 21-12886	2	8	1	1	1	71ch23		indxxd		F		Henrik Lindeman		Benito Vlassis	67(5) 76(5) [2]
-21-20374	1	1	1	4		ifsbmp		oqkwcw		16	1	Gabriel Diallo	16	Angel Diaz	Sat @ 09:00
-21-20374	1	1	1	4		i34ba1		bzknu5		16		Matthew Fung	9	Joubert Klopper	Sat @ 09:00
-21-20374	1	1	1	4		btpfl7		tk8eo2		16	16	Frazier Rengifo	9	Shunsuke Mitsui	Sat @ 09:00
-21-20374	1	1	1	4		ud0her		u7ozqx		16	5	Jeremie Casabon		Ian Cruz	Sat @ 09:00
-21-20374	1	1	1	4		ghk5un		bt856b		16		Diego Nava	5	Joshua Lapadat	Sat @ 09:00
-21-20374	1	1	1	4		m40qwi		zpohqf		16	9	Stijn Slump	4	George Harwell	Sat @ 09:00
-21-20374	1	1	1	4		4v0ze9		aigkg4		16	9	Francois Musitelli		Macsen Sisam	Sat @ 09:00
-21-20374	1	1	1	4		skpo3y		nxstm7		16		Oscar Cutting		Evzen Holis	Sat @ 09:30
+21-20374	1	1	1	5		ifsbmp		bzknu5		QF	1	Gabriel Diallo	9	Joubert Klopper	Sun @ 09:00
+21-20374	1	1	1	5		tk8eo2		ud0her		QF	9	Shunsuke Mitsui	5	Jeremie Casabon	Sun @ 09:00
+21-20374	1	1	1	5		bt856b		m40qwi		QF	5	Joshua Lapadat	9	Stijn Slump	Sun @ 09:00
+21-20374	1	1	1	5		4v0ze9		nxstm7		QF	9	Francois Musitelli		Evzen Holis	Sun @ 09:00
+21-20374	1	1	1	4	1	ifsbmp		oqkwcw		16	1	Gabriel Diallo	16	Angel Diaz	63 64
+21-20374	1	1	1	4	1	bzknu5		i34ba1		16	9	Joubert Klopper		Matthew Fung	76(3) 62
+21-20374	1	1	1	4	1	tk8eo2		btpfl7		16	9	Shunsuke Mitsui	16	Frazier Rengifo	64 62
+21-20374	1	1	1	4	1	ud0her		u7ozqx		16	5	Jeremie Casabon		Ian Cruz	63 76
+21-20374	1	1	1	4	1	bt856b		ghk5un		16	5	Joshua Lapadat		Diego Nava	62 63
+21-20374	1	1	1	4	1	m40qwi		zpohqf		16	9	Stijn Slump	4	George Harwell	64 61
+21-20374	1	1	1	4	1	4v0ze9		aigkg4		16	9	Francois Musitelli		Macsen Sisam	64 60
+21-20374	1	1	1	4	1	nxstm7		skpo3y		16		Evzen Holis		Oscar Cutting	36 64 63
 21-20374	1	1	1	3	1	ifsbmp		myo88o		32	1	Gabriel Diallo	16	Rafael Tosetto	63 64
 21-20374	1	1	1	3	1	oqkwcw		6b8n6t		32	16	Angel Diaz	9	Athell Bennett	60 60
 21-20374	1	1	1	3	1	i34ba1		91ch23		32		Matthew Fung	16	Siim Troost	76(3) 64
@@ -261,22 +265,34 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-20374	1	1	1	1	1	nxstm7		50g2gm		128		Evzen Holis	16	Carson Haskins	63 63
 21-20374	1	1	1	1	1	a6sk4g		gb8n6t		128		Cambell Nakayama		Petar Petrovic	62 62
 21-20374	1	1	1	1	1	6zknu5		sxstm7		128		Diego Castro	2	Martim Prata	64 75
-21-20374	1	1	2	3		z1ch23		ppohqf		32		Georgi Mavrodiev		Oliver Andersson	Sat @ 09:00
-21-20374	1	1	2	3		yk8eo2		06sk4g		32		Ryan Mudre		Sam Fischer	Sat @ 09:00
-21-20374	1	1	2	3		rrxld9		tqkwcw		32	5	David Stevenson		Jacob Marshall	Sat @ 10:00
-21-20374	1	1	2	3		o28wok		47ozqx		32		Ryan Cahill		Vikash Singh	Sat @ 09:00
-21-20374	1	1	2	3		ryo88o		56sk4g		32		Luka Vukovic		David Mizrahi	Sat @ 09:00
-21-20374	1	1	2	3		9v0ze9		5u4kss		32		Brett Winters		Kerim Hyatt	Sat @ 09:00
-21-20374	1	1	2	3		aos24y		s34ba1		32		Carlos Salas Tulla		Vince Orlando	Sat @ 09:00
-21-20374	1	1	2	3		y8kece		sfsbmp		32		Connor Robb-Wilcox		Jonathan Sorbo	Sat @ 09:00
-21-20374	1	1	2	3		s9gtyv		j8kece		32	16	Pavel Motl		Nishanth Basavareddy	Sat @ 09:00
-21-20374	1	1	2	3		ah1f9j		6t856b		32		Sam Edgar		Thibaut de Negri	Sat @ 09:00
-21-20374	1	1	2	3		gt856b		5c42sa		32		David Skrabut		Jordan McClure	Sat @ 09:00
-21-20374	1	1	2	3		4pohqf		41ch23		32		Jake Penny		Charlie Temming	Sat @ 09:00
-21-20374	1	1	2	3		n9gtyv		6nwnih		32		Borja Miralles		Tomasz Dudek	Sat @ 09:00
-21-20374	1	1	2	3		t8kece		sl4taj		32	16	Stepan Holis		Frederic Schlossmann	Sat @ 09:00
-21-20374	1	1	2	3		4d0her		hgoq86		32		Rohan Sachdev		Alex Jochim	Sat @ 10:00
-21-20374	1	1	2	3		50g2gm		gb8n6t		32	16	Carson Haskins		Petar Petrovic	Sat @ 10:00
+21-20374	1	1	2	5		yk8eo2		47ozqx		QF		Ryan Mudre		Vikash Singh	Sun @ 09:00
+21-20374	1	1	2	5		56sk4g		sfsbmp		QF		David Mizrahi		Jonathan Sorbo	Sun @ 09:00
+21-20374	1	1	2	5		s9gtyv		5c42sa		QF	16	Pavel Motl		Jordan McClure	Sun @ 09:00
+21-20374	1	1	2	5		t8kece		50g2gm		QF	16	Stepan Holis	16	Carson Haskins	Sun @ 09:00
+21-20374	1	1	2	4	1	yk8eo2		ppohqf		16		Ryan Mudre		Oliver Andersson	76(4) 63
+21-20374	1	1	2	4	1	47ozqx		rrxld9		16		Vikash Singh	5	David Stevenson	Walkover
+21-20374	1	1	2	4	1	56sk4g		5u4kss		16		David Mizrahi		Kerim Hyatt	64 36 [6]
+21-20374	1	1	2	4	1	sfsbmp		s34ba1		16		Jonathan Sorbo		Vince Orlando	36 63 [6]
+21-20374	1	1	2	4	1	s9gtyv		6t856b		16	16	Pavel Motl		Thibaut de Negri	Walkover
+21-20374	1	1	2	4	1	5c42sa		41ch23		16		Jordan McClure		Charlie Temming	64 76(6)
+21-20374	1	1	2	4	1	t8kece		n9gtyv		16	16	Stepan Holis		Borja Miralles	62 61
+21-20374	1	1	2	4	1	50g2gm		4d0her		16	16	Carson Haskins		Rohan Sachdev	63 64
+21-20374	1	1	2	3	1	ppohqf		z1ch23		32		Oliver Andersson		Georgi Mavrodiev	63 67(7) [10]
+21-20374	1	1	2	3	1	yk8eo2		06sk4g		32		Ryan Mudre		Sam Fischer	16 62 [4]
+21-20374	1	1	2	3	1	rrxld9		tqkwcw		32	5	David Stevenson		Jacob Marshall	63 76(5)
+21-20374	1	1	2	3	1	47ozqx		o28wok		32		Vikash Singh		Ryan Cahill	63 61
+21-20374	1	1	2	3	1	56sk4g		ryo88o		32		David Mizrahi		Luka Vukovic	64 75
+21-20374	1	1	2	3	1	5u4kss		9v0ze9		32		Kerim Hyatt		Brett Winters	75 75
+21-20374	1	1	2	3	1	s34ba1		aos24y		32		Vince Orlando		Carlos Salas Tulla	63 62
+21-20374	1	1	2	3	1	sfsbmp		y8kece		32		Jonathan Sorbo		Connor Robb-Wilcox	76(7) 46 [11]
+21-20374	1	1	2	3	1	s9gtyv		j8kece		32	16	Pavel Motl		Nishanth Basavareddy	62 63
+21-20374	1	1	2	3	1	6t856b		ah1f9j		32		Thibaut de Negri		Sam Edgar	75 75
+21-20374	1	1	2	3	1	5c42sa		gt856b		32		Jordan McClure		David Skrabut	60 61
+21-20374	1	1	2	3	1	41ch23		4pohqf		32		Charlie Temming		Jake Penny	76(2) 60
+21-20374	1	1	2	3	1	n9gtyv		6nwnih		32		Borja Miralles		Tomasz Dudek	63 76(5)
+21-20374	1	1	2	3	1	t8kece		sl4taj		32	16	Stepan Holis		Frederic Schlossmann	62 62
+21-20374	1	1	2	3	1	4d0her		hgoq86		32		Rohan Sachdev		Alex Jochim	64 61
+21-20374	1	1	2	3	1	50g2gm		gb8n6t		32	16	Carson Haskins		Petar Petrovic	62 62
 21-20374	1	1	2	1	1	z1ch23		f6sk4g		64Q		Georgi Mavrodiev		Abe Wojtalik	61 67(3) [9]
 21-20374	1	1	2	1	1	ppohqf		0os24y		64Q		Oliver Andersson		Santiago Casamayor	76(7) 64
 21-20374	1	1	2	1	1	yk8eo2		nl4taj		64Q		Ryan Mudre		Danilo Kovacevic	Walkover
@@ -392,7 +408,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24367	1	3	2	4	1	60xcvi		cz1x91		F		Brian King		Niko Papachrisanthou	82
 21-24367	1	3	2	3	1	60xcvi		7ndxxd		SF		Brian King		Isaiah Buse	Walkover
 21-24367	1	3	2	3	1	cz1x91		j3llpx		SF		Niko Papachrisanthou		Bryson Crowell	86
-21-39721	1	1	1	7		b69ujc		2m08w0		F	1	James Davis	2	Franco Capalbo	Sat @ 13:00
+21-39721	1	1	1	7	1	2m08w0		b69ujc		F	2	Franco Capalbo	1	James Davis	62 64
 21-39721	1	1	1	6	1	b69ujc		eeww08		SF	1	James Davis	8	Francisco Bastias	46 61 63
 21-39721	1	1	1	6	1	2m08w0		hwuyui		SF	2	Franco Capalbo		Bodin Zarkovic	62 46 62
 21-39721	1	1	1	5	1	b69ujc		6q16rs		QF	1	James Davis	14	Louis Menard	67(9) 64 63
@@ -547,7 +563,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-39721	1	2	1	1	1	fz1x91		zwdofm		64		Jackson Atherton		Wikus Robbertse	75 76(5)
 21-39721	1	3	1	4	1	wb8n6t		8rgbyd		SF		Geronimo Busleiman		Nicolas Herrera Cue…	Walkover
 21-39721	1	3	1	3	1	vc42sa		b0xcvi		QF		Wally Thayne		Kyle Garner	Walkover
-21-39721	1	3	1	3		8xstm7		7yo88o		QF		Bruno Caula		Mateo Vereau	Sat @ 11:00
+21-39721	1	3	1	3	1	7yo88o		8xstm7		QF		Mateo Vereau		Bruno Caula	Walkover
 21-39721	1	3	1	3	1	wb8n6t		toqmyq		QF		Geronimo Busleiman		Gustav Thielgaard	Walkover
 21-39721	1	3	1	3	1	8rgbyd		1t856b		QF		Nicolas Herrera Cue…		Georgio Samaha	Walkover
 21-39721	1	3	1	2	1	b0xcvi		p7ozqx		16		Kyle Garner		Nicolas Prieto	Walkover
