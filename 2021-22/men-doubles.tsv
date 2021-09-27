@@ -1,9 +1,9 @@
 ---
 tournaments: 23
 players: 589
-matches: 474
-completed: 471
-scheduled: 3
+matches: 476
+completed: 475
+scheduled: 1
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	3	1	1	3	1	h9edsn	ojajwd	z6q4y8	s26gic	F		Fernandez/Bianchi		Fisicaro/Krolo	75
@@ -37,90 +37,92 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00238	3	3	2	1	1	uu24mk	lmysqs	fzi7ox	rxqdgz	F		Blair/Shearer		Watanabi/Shestakov	62
 21-00238	3	3	3	1	1	55upcr	ab670l	n8iy66	4oqmyq	F		Burton/Holden		Breitenmoser/Lorenz…	63
 21-00238	3	3	4	1	1	tvyj81	5hipof	nk6yiu	tdy18j	F		Fiorito/Frequelin		Fiala/Capone	64
-21-20374	2	1	1	5		rrxld9	skpo3y	mgoq86	hscqku	SF	1	Stevenson/Cutting	9	Rodriguez/Gatti	Sun @ 12:00
-21-20374	2	1	1	5		s9gtyv	m40qwi	bnwnih	bt856b	SF	3	Motl/Slump	9	Mercer/Lapadat	Sun @ 15:00
-21-20374	2	1	1	4	1	rrxld9	skpo3y	91ch23	y28wok	QF	1	Stevenson/Cutting	5	Troost/Ross	85
-21-20374	2	1	1	4	1	mgoq86	hscqku	6t856b	bb8n6t	QF	9	Rodriguez/Gatti		de Negri/Herran	81
-21-20374	2	1	1	4	1	s9gtyv	m40qwi	nl4taj	jeww08	QF	3	Motl/Slump	5	Kovacevic/Adams	86
-21-20374	2	1	1	4	1	bnwnih	bt856b	myo88o	lnwnih	QF	9	Mercer/Lapadat		Tosetto/Vicente	81
-21-20374	2	1	1	3	1	rrxld9	skpo3y	hyo88o	3qkwcw	16	1	Stevenson/Cutting		Michael/Trimpe	82
-21-20374	2	1	1	3	1	91ch23	y28wok	50g2gm	ryo88o	16	5	Troost/Ross		Haskins/Vukovic	85
-21-20374	2	1	1	3	1	6t856b	bb8n6t	06sk4g	4pohqf	16		de Negri/Herran		Fischer/Penny	85
-21-20374	2	1	1	3	1	mgoq86	hscqku	i9gtyv	4jcz2l	16	9	Rodriguez/Gatti	5	Edge/Rocha	85
-21-20374	2	1	1	3	1	nl4taj	jeww08	3dhrtn	gst0zq	16	5	Kovacevic/Adams		Taylor/Fanlo	85
-21-20374	2	1	1	3	1	s9gtyv	m40qwi	btpfl7	hatiz8	16	3	Motl/Slump	9	Rengifo/Lobo	Walkover
-21-20374	2	1	1	3	1	myo88o	lnwnih	65w5iz	u1ch23	16		Tosetto/Vicente		Brennan/Dickson	84
-21-20374	2	1	1	3	1	bnwnih	bt856b	zpohqf	cscqku	16	9	Mercer/Lapadat	2	Harwell/Freeman	82
-21-20374	2	1	1	2	1	rrxld9	skpo3y	ywwe0q	x9gtyv	32	1	Stevenson/Cutting		Simmons/Webster	80
-21-20374	2	1	1	2	1	hyo88o	3qkwcw	sxstm7	upohqf	32		Michael/Trimpe	9	Prata/Gannon	Walkover
-21-20374	2	1	1	2	1	91ch23	y28wok	zd0her	zv0ze9	32	5	Troost/Ross		Kelly/Miyamoto	83
-21-20374	2	1	1	2	1	50g2gm	ryo88o	6b8n6t	oeww08	32		Haskins/Vukovic	9	Bennett/Galus	84
-21-20374	2	1	1	2	1	06sk4g	4pohqf	ghk5un	o28wok	32		Fischer/Penny		Nava/Cahill	87(5)
-21-20374	2	1	1	2	1	6t856b	bb8n6t	au4kss	nxstm7	32		de Negri/Herran		Rodeia/Holis	84
-21-20374	2	1	1	2	1	i9gtyv	4jcz2l	hgoq86	b5w5iz	32	5	Edge/Rocha		Jochim/Jankowski	84
-21-20374	2	1	1	2	1	mgoq86	hscqku	irgbyd	0os24y	32	9	Rodriguez/Gatti		Burnel/Casamayor	87(6)
-21-20374	2	1	1	2	1	3dhrtn	gst0zq	3k8eo2	i34ba1	32		Taylor/Fanlo		Wesbrooks/Fung	85
-21-20374	2	1	1	2	1	nl4taj	jeww08	bzknu5	uv0ze9	32	5	Kovacevic/Adams		Klopper/Ferreira	Default
-21-20374	2	1	1	2	1	btpfl7	hatiz8	5u4kss	5igkg4	32	9	Rengifo/Lobo		Hyatt/Labbe	85
-21-20374	2	1	1	2	1	s9gtyv	m40qwi	6zknu5	nfsbmp	32	3	Motl/Slump		Castro/Luis	85
-21-20374	2	1	1	2	1	65w5iz	u1ch23	41ch23	yeww08	32		Brennan/Dickson		Temming/Pennelli	81
-21-20374	2	1	1	2	1	myo88o	lnwnih	v0g2gm	ac42sa	32		Tosetto/Vicente	5	Andre/Tiraspolsky	86
-21-20374	2	1	1	2	1	bnwnih	bt856b	5os24y	33llpx	32	9	Mercer/Lapadat		Khamis/Lamas	81
-21-20374	2	1	1	2	1	zpohqf	cscqku	3jt9hh	atpfl7	32	2	Harwell/Freeman		Rock/Alemany	86
-21-20374	2	1	1	1	1	ywwe0q	x9gtyv	tqkwcw	yk8eo2	64		Simmons/Webster		Marshall/Mudre	85
-21-20374	2	1	1	1	1	sxstm7	upohqf	sl4taj	0igkg4	64	9	Prata/Gannon		Schlossmann/Damberg	85
-21-20374	2	1	1	1	1	hyo88o	3qkwcw	g5w5iz	mm08w0	64		Michael/Trimpe		Rodriguez/Ponomarew	86
-21-20374	2	1	1	1	1	91ch23	y28wok	cyo88o	teww08	64	5	Troost/Ross		Dunne/Harper	83
-21-20374	2	1	1	1	1	zd0her	zv0ze9	o8kece	gt856b	64		Kelly/Miyamoto		Bogdanovich/Skrabut	84
-21-20374	2	1	1	1	1	6b8n6t	oeww08	il4taj	t8kece	64	9	Bennett/Galus		Chin/Holis	82
-21-20374	2	1	1	1	1	50g2gm	ryo88o	1b8n6t	92p63g	64		Haskins/Vukovic		Badra/Vargas	86
-21-20374	2	1	1	1	1	06sk4g	4pohqf	4v0ze9	ifsbmp	64		Fischer/Penny	4	Musitelli/Diallo	86
-21-20374	2	1	1	1	1	ghk5un	o28wok	5ixuv0	s9x3dr	64		Nava/Cahill		Pernas/Zabala	86
-21-20374	2	1	1	1	1	6t856b	bb8n6t	6hk5un	47ozqx	64		de Negri/Herran	9	Fletchall/Singh	85
-21-20374	2	1	1	1	1	au4kss	nxstm7	zjcz2l	n9gtyv	64		Rodeia/Holis		Huete/Miralles	83
-21-20374	2	1	1	1	1	i9gtyv	4jcz2l	gnwnih	u7ozqx	64	5	Edge/Rocha		Toledo/Cruz	86
-21-20374	2	1	1	1	1	hgoq86	b5w5iz	56sk4g	yqkwcw	64		Jochim/Jankowski		Mizrahi/Tang	85
-21-20374	2	1	1	1	1	mgoq86	hscqku	y8kece	ud0her	64	9	Rodriguez/Gatti		Robb-Wilcox/Casabon	84
-21-20374	2	1	1	1	1	irgbyd	0os24y	a0g2gm	ok8eo2	64		Burnel/Casamayor		Perkowski/Eliasson	85
-21-20374	2	1	1	1	1	3dhrtn	gst0zq	cac8kc	h40qwi	64		Taylor/Fanlo	9	Chen/LeBlanc	82
-21-20374	2	1	1	1	1	bzknu5	uv0ze9	srgbyd	mac8kc	64		Klopper/Ferreira		Rogers/Saylor	82
-21-20374	2	1	1	1	1	nl4taj	jeww08	fc42sa	00g2gm	64	5	Kovacevic/Adams		Uribe/Garcia-Nieto	85
-21-20374	2	1	1	1	1	5u4kss	5igkg4	9v0ze9	a6sk4g	64		Hyatt/Labbe		Winters/Nakayama	81
-21-20374	2	1	1	1	1	btpfl7	hatiz8	pjcz2l	twwe0q	64	9	Rengifo/Lobo		Benibo/Kozerski	86
-21-20374	2	1	1	1	1	6zknu5	nfsbmp	owwe0q	0u4kss	64		Castro/Luis		Cossu/Brancatelli	85
-21-20374	2	1	1	1	1	41ch23	yeww08	hm08w0	z1ch23	64		Temming/Pennelli		Hiryur/Mavrodiev	87(1)
-21-20374	2	1	1	1	1	65w5iz	u1ch23	tk8eo2	oqkwcw	64		Brennan/Dickson	9	Mitsui/Diaz	84
-21-20374	2	1	1	1	1	myo88o	lnwnih	s34ba1	f6sk4g	64		Tosetto/Vicente		Orlando/Wojtalik	87(5)
-21-20374	2	1	1	1	1	v0g2gm	ac42sa	ppohqf	mscqku	64	5	Andre/Tiraspolsky		Andersson/Nolasco	83
-21-20374	2	1	1	1	1	5os24y	33llpx	dxstm7	ixstm7	64		Khamis/Lamas		Ball/Berry	82
-21-20374	2	1	1	1	1	bnwnih	bt856b	6nwnih	4d0her	64	9	Mercer/Lapadat		Dudek/Sachdev	83
-21-20374	2	1	1	1	1	3jt9hh	atpfl7	5c42sa	z7ozqx	64		Rock/Alemany		McClure/Kuroki	20 Ret.
-21-20374	2	1	2	5	1	tqkwcw	yk8eo2	zjcz2l	n9gtyv	SF		Marshall/Mudre		Huete/Miralles	Walkover
-21-20374	2	1	2	5		cac8kc	h40qwi	tk8eo2	oqkwcw	SF	9	Chen/LeBlanc	9	Mitsui/Diaz	Sun @ 12:00
-21-20374	2	1	2	4	1	tqkwcw	yk8eo2	o8kece	gt856b	QF		Marshall/Mudre		Bogdanovich/Skrabut	86
-21-20374	2	1	2	4	1	zjcz2l	n9gtyv	56sk4g	yqkwcw	QF		Huete/Miralles		Mizrahi/Tang	86
-21-20374	2	1	2	4	1	cac8kc	h40qwi	9v0ze9	a6sk4g	QF	9	Chen/LeBlanc		Winters/Nakayama	85
-21-20374	2	1	2	4	1	tk8eo2	oqkwcw	6nwnih	4d0her	QF	9	Mitsui/Diaz		Dudek/Sachdev	84
-21-20374	2	1	2	3	1	tqkwcw	yk8eo2	sl4taj	0igkg4	16		Marshall/Mudre		Schlossmann/Damberg	87(6)
-21-20374	2	1	2	3	1	o8kece	gt856b	il4taj	t8kece	16		Bogdanovich/Skrabut		Chin/Holis	83
-21-20374	2	1	2	3	1	zjcz2l	n9gtyv	5ixuv0	s9x3dr	16		Huete/Miralles		Pernas/Zabala	Walkover
-21-20374	2	1	2	3	1	56sk4g	yqkwcw	a0g2gm	ok8eo2	16		Mizrahi/Tang		Perkowski/Eliasson	Walkover
-21-20374	2	1	2	3	1	cac8kc	h40qwi	fc42sa	00g2gm	16	9	Chen/LeBlanc		Uribe/Garcia-Nieto	87(4)
-21-20374	2	1	2	3	1	9v0ze9	a6sk4g	owwe0q	0u4kss	16		Winters/Nakayama		Cossu/Brancatelli	Walkover
-21-20374	2	1	2	3	1	tk8eo2	oqkwcw	s34ba1	f6sk4g	16	9	Mitsui/Diaz		Orlando/Wojtalik	84
-21-20374	2	1	2	3	1	6nwnih	4d0her	5c42sa	z7ozqx	16		Dudek/Sachdev		McClure/Kuroki	Walkover
-21-20374	2	1	2	1	1	sl4taj	0igkg4	g5w5iz	mm08w0	32Q		Schlossmann/Damberg		Rodriguez/Ponomarew	84
-21-20374	2	1	2	1	1	o8kece	gt856b	cyo88o	teww08	32Q		Bogdanovich/Skrabut		Dunne/Harper	82
-21-20374	2	1	2	1	1	il4taj	t8kece	1b8n6t	92p63g	32Q		Chin/Holis		Badra/Vargas	Walkover
-21-20374	2	1	2	1	1	5ixuv0	s9x3dr	4v0ze9	ifsbmp	32Q		Pernas/Zabala	4	Musitelli/Diallo	Walkover
-21-20374	2	1	2	1	1	zjcz2l	n9gtyv	6hk5un	47ozqx	32Q		Huete/Miralles	9	Fletchall/Singh	82
-21-20374	2	1	2	1	1	56sk4g	yqkwcw	gnwnih	u7ozqx	32Q		Mizrahi/Tang		Toledo/Cruz	Walkover
-21-20374	2	1	2	1	1	a0g2gm	ok8eo2	y8kece	ud0her	32Q		Perkowski/Eliasson		Robb-Wilcox/Casabon	Walkover
-21-20374	2	1	2	1	1	fc42sa	00g2gm	srgbyd	mac8kc	32Q		Uribe/Garcia-Nieto		Rogers/Saylor	83
-21-20374	2	1	2	1	1	9v0ze9	a6sk4g	pjcz2l	twwe0q	32Q		Winters/Nakayama		Benibo/Kozerski	81
-21-20374	2	1	2	1	1	tk8eo2	oqkwcw	hm08w0	z1ch23	32Q	9	Mitsui/Diaz		Hiryur/Mavrodiev	83
-21-20374	2	1	2	1	1	s34ba1	f6sk4g	ppohqf	mscqku	32Q		Orlando/Wojtalik		Andersson/Nolasco	86
-21-20374	2	1	2	1	1	6nwnih	4d0her	dxstm7	ixstm7	32Q		Dudek/Sachdev		Ball/Berry	86
+21-20374	2	1	1	6		lhk5un	5c42sa	aos24y	au4kss	F	9	Rodriguez/Gatti	9	Mercer/Lapadat	Mon @ 10:00
+21-20374	2	1	1	5	1	lhk5un	5c42sa	rrxld9	skpo3y	SF	9	Rodriguez/Gatti	1	Stevenson/Cutting	46 64 [7]
+21-20374	2	1	1	5	1	aos24y	au4kss	gt856b	l5w5iz	SF	9	Mercer/Lapadat	3	Motl/Slump	26 76(5) [7]
+21-20374	2	1	1	4	1	rrxld9	skpo3y	xl4taj	x34ba1	QF	1	Stevenson/Cutting	5	Troost/Ross	85
+21-20374	2	1	1	4	1	lhk5un	5c42sa	5u4kss	zv0ze9	QF	9	Rodriguez/Gatti		de Negri/Herran	81
+21-20374	2	1	1	4	1	gt856b	l5w5iz	mm08w0	ifsbmp	QF	3	Motl/Slump	5	Kovacevic/Adams	86
+21-20374	2	1	1	4	1	aos24y	au4kss	lzknu5	97ozqx	QF	9	Mercer/Lapadat		Tosetto/Vicente	81
+21-20374	2	1	1	3	1	rrxld9	skpo3y	gzknu5	rac8kc	16	1	Stevenson/Cutting		Michael/Trimpe	82
+21-20374	2	1	1	3	1	xl4taj	x34ba1	tk8eo2	figkg4	16	5	Troost/Ross		Haskins/Vukovic	85
+21-20374	2	1	1	3	1	5u4kss	zv0ze9	z7ozqx	3qkwcw	16		de Negri/Herran		Fischer/Penny	85
+21-20374	2	1	1	3	1	lhk5un	5c42sa	hac8kc	3k8eo2	16	9	Rodriguez/Gatti	5	Edge/Rocha	85
+21-20374	2	1	1	3	1	mm08w0	ifsbmp	3dhrtn	gst0zq	16	5	Kovacevic/Adams		Taylor/Fanlo	85
+21-20374	2	1	1	3	1	gt856b	l5w5iz	btpfl7	hatiz8	16	3	Motl/Slump	9	Rengifo/Lobo	Walkover
+21-20374	2	1	1	3	1	lzknu5	97ozqx	upohqf	t28wok	16		Tosetto/Vicente		Brennan/Dickson	84
+21-20374	2	1	1	3	1	aos24y	au4kss	n9gtyv	bt856b	16	9	Mercer/Lapadat	2	Harwell/Freeman	82
+21-20374	2	1	1	2	1	rrxld9	skpo3y	xxstm7	lt856b	32	1	Stevenson/Cutting		Simmons/Webster	80
+21-20374	2	1	1	2	1	gzknu5	rac8kc	ryo88o	tqkwcw	32		Michael/Trimpe	9	Prata/Gannon	Walkover
+21-20374	2	1	1	2	1	xl4taj	x34ba1	yeww08	ywwe0q	32	5	Troost/Ross		Kelly/Miyamoto	83
+21-20374	2	1	1	2	1	tk8eo2	figkg4	uv0ze9	nfsbmp	32		Haskins/Vukovic	9	Bennett/Galus	84
+21-20374	2	1	1	2	1	z7ozqx	3qkwcw	41ch23	n34ba1	32		Fischer/Penny		Nava/Cahill	87(5)
+21-20374	2	1	1	2	1	5u4kss	zv0ze9	9v0ze9	bhk5un	32		de Negri/Herran		Rodeia/Holis	84
+21-20374	2	1	1	2	1	hac8kc	3k8eo2	ghk5un	a6sk4g	32	5	Edge/Rocha		Jochim/Jankowski	84
+21-20374	2	1	1	2	1	lhk5un	5c42sa	hscqku	zpohqf	32	9	Rodriguez/Gatti		Burnel/Casamayor	87(6)
+21-20374	2	1	1	2	1	3dhrtn	gst0zq	r40qwi	h40qwi	32		Taylor/Fanlo		Wesbrooks/Fung	85
+21-20374	2	1	1	2	1	mm08w0	ifsbmp	a0g2gm	twwe0q	32	5	Kovacevic/Adams		Klopper/Ferreira	Default
+21-20374	2	1	1	2	1	btpfl7	hatiz8	4v0ze9	4jcz2l	32	9	Rengifo/Lobo		Hyatt/Labbe	85
+21-20374	2	1	1	2	1	gt856b	l5w5iz	50g2gm	mgoq86	32	3	Motl/Slump		Castro/Luis	85
+21-20374	2	1	1	2	1	upohqf	t28wok	328wok	myo88o	32		Brennan/Dickson		Temming/Pennelli	81
+21-20374	2	1	1	2	1	lzknu5	97ozqx	u1ch23	9d0her	32		Tosetto/Vicente	5	Andre/Tiraspolsky	86
+21-20374	2	1	1	2	1	aos24y	au4kss	4pohqf	33llpx	32	9	Mercer/Lapadat		Khamis/Lamas	81
+21-20374	2	1	1	2	1	n9gtyv	bt856b	3jt9hh	atpfl7	32	2	Harwell/Freeman		Rock/Alemany	86
+21-20374	2	1	1	1	1	xxstm7	lt856b	srgbyd	m40qwi	64		Simmons/Webster		Marshall/Mudre	85
+21-20374	2	1	1	1	1	ryo88o	tqkwcw	rm08w0	zjcz2l	64	9	Prata/Gannon		Schlossmann/Damberg	85
+21-20374	2	1	1	1	1	gzknu5	rac8kc	f6sk4g	lnwnih	64		Michael/Trimpe		Rodriguez/Ponomarew	86
+21-20374	2	1	1	1	1	xl4taj	x34ba1	bzknu5	hyo88o	64	5	Troost/Ross		Dunne/Harper	83
+21-20374	2	1	1	1	1	yeww08	ywwe0q	cscqku	fu4kss	64		Kelly/Miyamoto		Bogdanovich/Skrabut	84
+21-20374	2	1	1	1	1	uv0ze9	nfsbmp	hm08w0	s9gtyv	64	9	Bennett/Galus		Chin/Holis	82
+21-20374	2	1	1	1	1	tk8eo2	figkg4	0c42sa	92p63g	64		Haskins/Vukovic		Badra/Vargas	86
+21-20374	2	1	1	1	1	z7ozqx	3qkwcw	sfsbmp	hgoq86	64		Fischer/Penny	4	Musitelli/Diallo	86
+21-20374	2	1	1	1	1	41ch23	n34ba1	5ixuv0	s9x3dr	64		Nava/Cahill		Pernas/Zabala	86
+21-20374	2	1	1	1	1	5u4kss	zv0ze9	5igkg4	38kece	64		de Negri/Herran	9	Fletchall/Singh	85
+21-20374	2	1	1	1	1	9v0ze9	bhk5un	yk8eo2	mac8kc	64		Rodeia/Holis		Huete/Miralles	83
+21-20374	2	1	1	1	1	hac8kc	3k8eo2	fos24y	t8kece	64	5	Edge/Rocha		Toledo/Cruz	86
+21-20374	2	1	1	1	1	ghk5un	a6sk4g	47ozqx	xrgbyd	64		Jochim/Jankowski		Mizrahi/Tang	85
+21-20374	2	1	1	1	1	lhk5un	5c42sa	x9gtyv	teww08	64	9	Rodriguez/Gatti		Robb-Wilcox/Casabon	84
+21-20374	2	1	1	1	1	hscqku	zpohqf	91ch23	nl4taj	64		Burnel/Casamayor		Perkowski/Eliasson	85
+21-20374	2	1	1	1	1	3dhrtn	gst0zq	bb8n6t	g5w5iz	64		Taylor/Fanlo	9	Chen/LeBlanc	82
+21-20374	2	1	1	1	1	a0g2gm	twwe0q	rscqku	lb8n6t	64		Klopper/Ferreira		Rogers/Saylor	82
+21-20374	2	1	1	1	1	mm08w0	ifsbmp	3wwe0q	z1ch23	64	5	Kovacevic/Adams		Uribe/Garcia-Nieto	85
+21-20374	2	1	1	1	1	4v0ze9	4jcz2l	xfsbmp	yqkwcw	64		Hyatt/Labbe		Winters/Nakayama	81
+21-20374	2	1	1	1	1	btpfl7	hatiz8	ok8eo2	sxstm7	64	9	Rengifo/Lobo		Benibo/Kozerski	86
+21-20374	2	1	1	1	1	50g2gm	mgoq86	nxstm7	oeww08	64		Castro/Luis		Cossu/Brancatelli	85
+21-20374	2	1	1	1	1	328wok	myo88o	56sk4g	y28wok	64		Temming/Pennelli		Hiryur/Mavrodiev	87(1)
+21-20374	2	1	1	1	1	upohqf	t28wok	sl4taj	nrgbyd	64		Brennan/Dickson	9	Mitsui/Diaz	84
+21-20374	2	1	1	1	1	lzknu5	97ozqx	gnwnih	e7ozqx	64		Tosetto/Vicente		Orlando/Wojtalik	87(5)
+21-20374	2	1	1	1	1	u1ch23	9d0her	oqkwcw	ac42sa	64	5	Andre/Tiraspolsky		Andersson/Nolasco	83
+21-20374	2	1	1	1	1	4pohqf	33llpx	cyo88o	6hk5un	64		Khamis/Lamas		Ball/Berry	82
+21-20374	2	1	1	1	1	aos24y	au4kss	5os24y	3eww08	64	9	Mercer/Lapadat		Dudek/Sachdev	83
+21-20374	2	1	1	1	1	3jt9hh	atpfl7	4d0her	y8kece	64		Rock/Alemany		McClure/Kuroki	20 Ret.
+21-20374	2	1	2	6	1	sl4taj	nrgbyd	srgbyd	m40qwi	F	9	Mitsui/Diaz		Marshall/Mudre	81
+21-20374	2	1	2	5	1	srgbyd	m40qwi	yk8eo2	mac8kc	SF		Marshall/Mudre		Huete/Miralles	Walkover
+21-20374	2	1	2	5	1	sl4taj	nrgbyd	bb8n6t	g5w5iz	SF	9	Mitsui/Diaz	9	Chen/LeBlanc	87(4)
+21-20374	2	1	2	4	1	srgbyd	m40qwi	cscqku	fu4kss	QF		Marshall/Mudre		Bogdanovich/Skrabut	86
+21-20374	2	1	2	4	1	yk8eo2	mac8kc	47ozqx	xrgbyd	QF		Huete/Miralles		Mizrahi/Tang	86
+21-20374	2	1	2	4	1	bb8n6t	g5w5iz	xfsbmp	yqkwcw	QF	9	Chen/LeBlanc		Winters/Nakayama	85
+21-20374	2	1	2	4	1	sl4taj	nrgbyd	5os24y	3eww08	QF	9	Mitsui/Diaz		Dudek/Sachdev	84
+21-20374	2	1	2	3	1	srgbyd	m40qwi	rm08w0	zjcz2l	16		Marshall/Mudre		Schlossmann/Damberg	87(6)
+21-20374	2	1	2	3	1	cscqku	fu4kss	hm08w0	s9gtyv	16		Bogdanovich/Skrabut		Chin/Holis	83
+21-20374	2	1	2	3	1	yk8eo2	mac8kc	5ixuv0	s9x3dr	16		Huete/Miralles		Pernas/Zabala	Walkover
+21-20374	2	1	2	3	1	47ozqx	xrgbyd	91ch23	nl4taj	16		Mizrahi/Tang		Perkowski/Eliasson	Walkover
+21-20374	2	1	2	3	1	bb8n6t	g5w5iz	3wwe0q	z1ch23	16	9	Chen/LeBlanc		Uribe/Garcia-Nieto	87(4)
+21-20374	2	1	2	3	1	xfsbmp	yqkwcw	nxstm7	oeww08	16		Winters/Nakayama		Cossu/Brancatelli	Walkover
+21-20374	2	1	2	3	1	sl4taj	nrgbyd	gnwnih	e7ozqx	16	9	Mitsui/Diaz		Orlando/Wojtalik	84
+21-20374	2	1	2	3	1	5os24y	3eww08	4d0her	y8kece	16		Dudek/Sachdev		McClure/Kuroki	Walkover
+21-20374	2	1	2	1	1	rm08w0	zjcz2l	f6sk4g	lnwnih	32Q		Schlossmann/Damberg		Rodriguez/Ponomarew	84
+21-20374	2	1	2	1	1	cscqku	fu4kss	bzknu5	hyo88o	32Q		Bogdanovich/Skrabut		Dunne/Harper	82
+21-20374	2	1	2	1	1	hm08w0	s9gtyv	0c42sa	92p63g	32Q		Chin/Holis		Badra/Vargas	Walkover
+21-20374	2	1	2	1	1	5ixuv0	s9x3dr	sfsbmp	hgoq86	32Q		Pernas/Zabala	4	Musitelli/Diallo	Walkover
+21-20374	2	1	2	1	1	yk8eo2	mac8kc	5igkg4	38kece	32Q		Huete/Miralles	9	Fletchall/Singh	82
+21-20374	2	1	2	1	1	47ozqx	xrgbyd	fos24y	t8kece	32Q		Mizrahi/Tang		Toledo/Cruz	Walkover
+21-20374	2	1	2	1	1	91ch23	nl4taj	x9gtyv	teww08	32Q		Perkowski/Eliasson		Robb-Wilcox/Casabon	Walkover
+21-20374	2	1	2	1	1	3wwe0q	z1ch23	rscqku	lb8n6t	32Q		Uribe/Garcia-Nieto		Rogers/Saylor	83
+21-20374	2	1	2	1	1	xfsbmp	yqkwcw	ok8eo2	sxstm7	32Q		Winters/Nakayama		Benibo/Kozerski	81
+21-20374	2	1	2	1	1	sl4taj	nrgbyd	56sk4g	y28wok	32Q	9	Mitsui/Diaz		Hiryur/Mavrodiev	83
+21-20374	2	1	2	1	1	gnwnih	e7ozqx	oqkwcw	ac42sa	32Q		Orlando/Wojtalik		Andersson/Nolasco	86
+21-20374	2	1	2	1	1	5os24y	3eww08	cyo88o	6hk5un	32Q		Dudek/Sachdev		Ball/Berry	86
 21-22816	3	1	1	3	1	mulu7o	rulu7o	yatiz8	a2p63g	F		Constantino/Nokic		Elkin/Dekester	62
 21-22816	3	1	1	2	1	yatiz8	a2p63g	sbpxlp	8st0zq	SF		Elkin/Dekester		Brown/Walcher	Walkover
 21-22816	3	1	1	2	1	mulu7o	rulu7o	xndxxd	l1trhz	SF		Constantino/Nokic		Janse/Hordijk	62
@@ -152,80 +154,80 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24367	3	1	1	1	1	ctpfl7	i4h0be	o3llpx	cz1x91	16		Schneider/Schorr		Harris/Papachrisant…	63
 21-39721	2	1	1	6	1	b69ujc	bclc76	natiz8	hndxxd	F	1	Davis/Summers		Panik/Van Dijk	63 36 [3]
 21-39721	2	1	1	5	1	b69ujc	bclc76	obpxlp	iulu7o	SF	1	Davis/Summers	6	Straker-Meads/Tumosa	61 76(1)
-21-39721	2	1	1	5	1	natiz8	hndxxd	eeww08	8xstm7	SF		Panik/Van Dijk	4	Bastias/Caula	63 76(5)
-21-39721	2	1	1	4	1	b69ujc	bclc76	e8kece	hwuyui	QF	1	Davis/Summers	5	Cierny/Zarkovic	85
-21-39721	2	1	1	4	1	obpxlp	iulu7o	834ba1	drgbyd	QF	6	Straker-Meads/Tumosa	3	Barnett/Leite	83
-21-39721	2	1	1	4	1	eeww08	8xstm7	n7mjkp	ny5ink	QF	4	Bastias/Caula		Zelver/Buckland	85
-21-39721	2	1	1	4	1	natiz8	hndxxd	1nwnih	7goq86	QF		Panik/Van Dijk	9	Trhac/Kristensen	86
-21-39721	2	1	1	3	1	b69ujc	bclc76	dfsbmp	toqmyq	16	1	Davis/Summers	16	Sciglitano/Thielgaa…	81
-21-39721	2	1	1	3	1	e8kece	hwuyui	t9x3dr	zq16rs	16	5	Cierny/Zarkovic		Buxman/Serafim	85
-21-39721	2	1	1	3	1	834ba1	drgbyd	ub670l	ipm1k7	16	3	Barnett/Leite		Gay/Duron	86
+21-39721	2	1	1	5	1	natiz8	hndxxd	dfsbmp	7yo88o	SF		Panik/Van Dijk	4	Bastias/Caula	63 76(5)
+21-39721	2	1	1	4	1	b69ujc	bclc76	d9gtyv	hwuyui	QF	1	Davis/Summers	5	Cierny/Zarkovic	85
+21-39721	2	1	1	4	1	obpxlp	iulu7o	740qwi	1b8n6t	QF	6	Straker-Meads/Tumosa	3	Barnett/Leite	83
+21-39721	2	1	1	4	1	dfsbmp	7yo88o	n7mjkp	ny5ink	QF	4	Bastias/Caula		Zelver/Buckland	85
+21-39721	2	1	1	4	1	natiz8	hndxxd	0os24y	v0g2gm	QF		Panik/Van Dijk	9	Trhac/Kristensen	86
+21-39721	2	1	1	3	1	b69ujc	bclc76	cgoq86	toqmyq	16	1	Davis/Summers	16	Sciglitano/Thielgaa…	81
+21-39721	2	1	1	3	1	d9gtyv	hwuyui	t9x3dr	zq16rs	16	5	Cierny/Zarkovic		Buxman/Serafim	85
+21-39721	2	1	1	3	1	740qwi	1b8n6t	ub670l	ipm1k7	16	3	Barnett/Leite		Gay/Duron	86
 21-39721	2	1	1	3	1	obpxlp	iulu7o	htpfl7	5jt9hh	16	6	Straker-Meads/Tumosa	13	Sallay/Krulig	87(7)
-21-39721	2	1	1	3	1	n7mjkp	ny5ink	8rgbyd	57595t	16		Zelver/Buckland	8	Herrera Cuesta/Ros	84
-21-39721	2	1	1	3	1	eeww08	8xstm7	jqkwcw	vos24y	16	4	Bastias/Caula		Stoeger/Martin	86
+21-39721	2	1	1	3	1	n7mjkp	ny5ink	7scqku	57595t	16		Zelver/Buckland	8	Herrera Cuesta/Ros	84
+21-39721	2	1	1	3	1	dfsbmp	7yo88o	irgbyd	j8kece	16	4	Bastias/Caula		Stoeger/Martin	86
 21-39721	2	1	1	3	1	natiz8	hndxxd	w3llpx	fz1x91	16		Panik/Van Dijk	7	Sauer/Atherton	86
-21-39721	2	1	1	3	1	1nwnih	7goq86	2m08w0	wb8n6t	16	9	Trhac/Kristensen	2	Capalbo/Busleiman	85
+21-39721	2	1	1	3	1	0os24y	v0g2gm	1nwnih	vc42sa	16	9	Trhac/Kristensen	2	Capalbo/Busleiman	85
 21-39721	2	1	1	2	1	b69ujc	bclc76	5dhrtn	ooqmyq	32	1	Davis/Summers		Mico Fenollar/Ninte…	82
-21-39721	2	1	1	2	1	dfsbmp	toqmyq	6ed6f4	umhibw	32	16	Sciglitano/Thielgaa…		Schaefer/Sulen	82
-21-39721	2	1	1	2	1	e8kece	hwuyui	kv0ze9	p7ozqx	32	5	Cierny/Zarkovic		AbdulSalam/Prieto	87(5)
-21-39721	2	1	1	2	1	t9x3dr	zq16rs	jwwe0q	2scqku	32		Buxman/Serafim	10	Pierleoni/Azkara	86
-21-39721	2	1	1	2	1	834ba1	drgbyd	p1ch23	kpohqf	32	3	Barnett/Leite		Ta/Blando	84
+21-39721	2	1	1	2	1	cgoq86	toqmyq	6ed6f4	umhibw	32	16	Sciglitano/Thielgaa…		Schaefer/Sulen	82
+21-39721	2	1	1	2	1	d9gtyv	hwuyui	jwwe0q	o8kece	32	5	Cierny/Zarkovic		AbdulSalam/Prieto	87(5)
+21-39721	2	1	1	2	1	t9x3dr	zq16rs	ixstm7	1t856b	32		Buxman/Serafim	10	Pierleoni/Azkara	86
+21-39721	2	1	1	2	1	740qwi	1b8n6t	o28wok	jqkwcw	32	3	Barnett/Leite		Ta/Blando	84
 21-39721	2	1	1	2	1	ub670l	ipm1k7	trxld9	n4h0be	32		Gay/Duron		Marouani/Sarap	84
 21-39721	2	1	1	2	1	obpxlp	iulu7o	31trhz	ftpfl7	32	6	Straker-Meads/Tumosa		Garner/Ciszewski	84
-21-39721	2	1	1	2	1	htpfl7	5jt9hh	dl4taj	740qwi	32	13	Sallay/Krulig		Pearce/Schreiner	86
-21-39721	2	1	1	2	1	n7mjkp	ny5ink	7yo88o	e28wok	32		Zelver/Buckland		Vereau/Jakovljevic	83
-21-39721	2	1	1	2	1	8rgbyd	57595t	669ujc	632v4t	32	8	Herrera Cuesta/Ros		Bascon/Casino	84
-21-39721	2	1	1	2	1	jqkwcw	vos24y	ck6yiu	ndy18j	32		Stoeger/Martin	11	Arca Costas/Soskic	85
-21-39721	2	1	1	2	1	eeww08	8xstm7	6revs5	ou24mk	32	4	Bastias/Caula		Minakata/Marquardt	86
-21-39721	2	1	1	2	1	natiz8	hndxxd	vc42sa	qu4kss	32		Panik/Van Dijk	14	Thayne/Fuchs	86
+21-39721	2	1	1	2	1	htpfl7	5jt9hh	cm08w0	65w5iz	32	13	Sallay/Krulig		Pearce/Schreiner	86
+21-39721	2	1	1	2	1	n7mjkp	ny5ink	6zknu5	d34ba1	32		Zelver/Buckland		Vereau/Jakovljevic	83
+21-39721	2	1	1	2	1	7scqku	57595t	669ujc	632v4t	32	8	Herrera Cuesta/Ros		Bascon/Casino	84
+21-39721	2	1	1	2	1	irgbyd	j8kece	ck6yiu	ndy18j	32		Stoeger/Martin	11	Arca Costas/Soskic	85
+21-39721	2	1	1	2	1	dfsbmp	7yo88o	6revs5	ou24mk	32	4	Bastias/Caula		Minakata/Marquardt	86
+21-39721	2	1	1	2	1	natiz8	hndxxd	ud0her	pv0ze9	32		Panik/Van Dijk	14	Thayne/Fuchs	86
 21-39721	2	1	1	2	1	w3llpx	fz1x91	0gma2y	c8iy66	32	7	Sauer/Atherton		Mascagni/Kersten	87(4)
-21-39721	2	1	1	2	1	1nwnih	7goq86	h26gic	5gma2y	32	9	Trhac/Kristensen		Shaffrey/Pudney	86
-21-39721	2	1	1	2	1	2m08w0	wb8n6t	pd0her	vigkg4	32	2	Capalbo/Busleiman		Maggs/Pucalka	85
+21-39721	2	1	1	2	1	0os24y	v0g2gm	h26gic	5gma2y	32	9	Trhac/Kristensen		Shaffrey/Pudney	86
+21-39721	2	1	1	2	1	1nwnih	vc42sa	dxstm7	ujcz2l	32	2	Capalbo/Busleiman		Maggs/Pucalka	85
 21-39721	2	1	1	1	1	5dhrtn	ooqmyq	dulu7o	1q16rs	64		Mico Fenollar/Ninte…		Buzonics/Groves	85
-21-39721	2	1	1	1	1	dfsbmp	toqmyq	4q16rs	b0xcvi	64	16	Sciglitano/Thielgaa…		Wolf/Garner	86
+21-39721	2	1	1	1	1	cgoq86	toqmyq	4q16rs	b0xcvi	64	16	Sciglitano/Thielgaa…		Wolf/Garner	86
 21-39721	2	1	1	1	1	6ed6f4	umhibw	51trhz	idy18j	64		Schaefer/Sulen		Sitar/Nathan	82
-21-39721	2	1	1	1	1	kv0ze9	p7ozqx	whk5un	j28wok	64		AbdulSalam/Prieto		Andrus/Lin	87(2)
+21-39721	2	1	1	1	1	jwwe0q	o8kece	vigkg4	7m08w0	64		AbdulSalam/Prieto		Andrus/Lin	87(2)
 21-39721	2	1	1	1	1	t9x3dr	zq16rs	ijajwd	0saaem	64		Buxman/Serafim		Kryvchun/Bott	87(5)
-21-39721	2	1	1	1	1	p1ch23	kpohqf	6q16rs	cp5r5b	64		Ta/Blando		Menard/Simecek	83
-21-39721	2	1	1	1	1	ub670l	ipm1k7	w5w5iz	15w5iz	64		Gay/Duron	15	Gavelin/Krenn	82
+21-39721	2	1	1	1	1	o28wok	jqkwcw	6q16rs	cp5r5b	64		Ta/Blando		Menard/Simecek	83
+21-39721	2	1	1	1	1	ub670l	ipm1k7	v6sk4g	ppohqf	64		Gay/Duron	15	Gavelin/Krenn	82
 21-39721	2	1	1	1	1	trxld9	n4h0be	zwdofm	zkpo3y	64		Marouani/Sarap		Robbertse/Cankus	83
-21-39721	2	1	1	1	1	31trhz	ftpfl7	c26gic	2goq86	64		Garner/Ciszewski		Moortgat/Haas	85
+21-39721	2	1	1	1	1	31trhz	ftpfl7	c26gic	1hk5un	64		Garner/Ciszewski		Moortgat/Haas	85
 21-39721	2	1	1	1	1	htpfl7	5jt9hh	vrxld9	181ora	64	13	Sallay/Krulig		Clarke/Akkermans	86
-21-39721	2	1	1	1	1	dl4taj	740qwi	t3llpx	vu4kss	64		Pearce/Schreiner		Fujita/Kramer	86
+21-39721	2	1	1	1	1	cm08w0	65w5iz	t3llpx	jeww08	64		Pearce/Schreiner		Fujita/Kramer	86
 21-39721	2	1	1	1	1	n7mjkp	ny5ink	i0xcvi	77595t	64		Zelver/Buckland		Steele/Donovan	84
-21-39721	2	1	1	1	1	7yo88o	e28wok	ivyj81	uhipof	64		Vereau/Jakovljevic	12	Azuma/Baylon	87(4)
+21-39721	2	1	1	1	1	6zknu5	d34ba1	ivyj81	uhipof	64		Vereau/Jakovljevic	12	Azuma/Baylon	87(4)
 21-39721	2	1	1	1	1	669ujc	632v4t	62p63g	vll3pf	64		Bascon/Casino		Ziomber/Dillon	86
-21-39721	2	1	1	1	1	jqkwcw	vos24y	h5dfxv	ng50n2	64		Stoeger/Martin		Li/Lin	82
+21-39721	2	1	1	1	1	irgbyd	j8kece	h5dfxv	ng50n2	64		Stoeger/Martin		Li/Lin	82
 21-39721	2	1	1	1	1	6revs5	ou24mk	ly5ink	8vh9t5	64		Minakata/Marquardt		Hambrook/Navarro	85
 21-39721	2	1	1	1	1	natiz8	hndxxd	u5upcr	tll3pf	64		Panik/Van Dijk		Masala/Ramesh	82
-21-39721	2	1	1	1	1	vc42sa	qu4kss	ceugu0	brevs5	64	14	Thayne/Fuchs		Chavez/Savin	84
+21-39721	2	1	1	1	1	ud0her	pv0ze9	ceugu0	brevs5	64	14	Thayne/Fuchs		Chavez/Savin	84
 21-39721	2	1	1	1	1	0gma2y	c8iy66	5vh9t5	tf9l1l	64		Mascagni/Kersten		Coutinho/Savio	82
 21-39721	2	1	1	1	1	h26gic	5gma2y	5aase4	zzi7ox	64		Shaffrey/Pudney		Waldman/Vroman	86
-21-39721	2	1	1	1	1	pd0her	vigkg4	q6sk4g	bixuv0	64		Maggs/Pucalka		Acosta/Ruiz Medina	87(4)
+21-39721	2	1	1	1	1	dxstm7	ujcz2l	p7ozqx	bixuv0	64		Maggs/Pucalka		Acosta/Ruiz Medina	87(4)
 21-39721	2	2	1	4	1	dulu7o	1q16rs	6q16rs	cp5r5b	SF		Buzonics/Groves		Menard/Simecek	84
-21-39721	2	2	1	4	1	62p63g	vll3pf	q6sk4g	bixuv0	SF		Ziomber/Dillon		Acosta/Ruiz Medina	83
+21-39721	2	2	1	4	1	62p63g	vll3pf	p7ozqx	bixuv0	SF		Ziomber/Dillon		Acosta/Ruiz Medina	83
 21-39721	2	2	1	3	1	dulu7o	1q16rs	ijajwd	0saaem	QF		Buzonics/Groves		Kryvchun/Bott	Walkover
 21-39721	2	2	1	3	1	6q16rs	cp5r5b	vrxld9	181ora	QF		Menard/Simecek		Clarke/Akkermans	Walkover
 21-39721	2	2	1	3	1	62p63g	vll3pf	ly5ink	8vh9t5	QF		Ziomber/Dillon		Hambrook/Navarro	81
-21-39721	2	2	1	3	1	q6sk4g	bixuv0	5vh9t5	tf9l1l	QF		Acosta/Ruiz Medina		Coutinho/Savio	83
+21-39721	2	2	1	3	1	p7ozqx	bixuv0	5vh9t5	tf9l1l	QF		Acosta/Ruiz Medina		Coutinho/Savio	83
 21-39721	2	2	1	2	1	dulu7o	1q16rs	51trhz	idy18j	16		Buzonics/Groves		Sitar/Nathan	83
-21-39721	2	2	1	2	1	ijajwd	0saaem	whk5un	j28wok	16		Kryvchun/Bott		Andrus/Lin	85
+21-39721	2	2	1	2	1	ijajwd	0saaem	vigkg4	7m08w0	16		Kryvchun/Bott		Andrus/Lin	85
 21-39721	2	2	1	2	1	6q16rs	cp5r5b	zwdofm	zkpo3y	16		Menard/Simecek		Robbertse/Cankus	87(5)
-21-39721	2	2	1	2	1	vrxld9	181ora	c26gic	2goq86	16		Clarke/Akkermans		Moortgat/Haas	86
+21-39721	2	2	1	2	1	vrxld9	181ora	c26gic	1hk5un	16		Clarke/Akkermans		Moortgat/Haas	86
 21-39721	2	2	1	2	1	62p63g	vll3pf	ivyj81	uhipof	16		Ziomber/Dillon		Azuma/Baylon	86
 21-39721	2	2	1	2	1	ly5ink	8vh9t5	h5dfxv	ng50n2	16		Hambrook/Navarro		Li/Lin	86
 21-39721	2	2	1	2	1	5vh9t5	tf9l1l	ceugu0	brevs5	16		Coutinho/Savio		Chavez/Savin	85
-21-39721	2	2	1	2	1	q6sk4g	bixuv0	5aase4	zzi7ox	16		Acosta/Ruiz Medina		Waldman/Vroman	85
+21-39721	2	2	1	2	1	p7ozqx	bixuv0	5aase4	zzi7ox	16		Acosta/Ruiz Medina		Waldman/Vroman	85
 21-39721	2	2	1	1	1	51trhz	idy18j	4q16rs	b0xcvi	32		Sitar/Nathan		Wolf/Garner	86
-21-39721	2	2	1	1	1	zwdofm	zkpo3y	w5w5iz	15w5iz	32		Robbertse/Cankus		Gavelin/Krenn	86
-21-39721	2	2	1	1	1	vrxld9	181ora	t3llpx	vu4kss	32		Clarke/Akkermans		Fujita/Kramer	83
+21-39721	2	2	1	1	1	zwdofm	zkpo3y	v6sk4g	ppohqf	32		Robbertse/Cankus		Gavelin/Krenn	86
+21-39721	2	2	1	1	1	vrxld9	181ora	t3llpx	jeww08	32		Clarke/Akkermans		Fujita/Kramer	83
 21-39721	2	2	1	1	1	ivyj81	uhipof	i0xcvi	77595t	32		Azuma/Baylon		Steele/Donovan	84
 21-39721	2	2	1	1	1	ceugu0	brevs5	u5upcr	tll3pf	32		Chavez/Savin		Masala/Ramesh	85
-21-39721	2	3	1	3	1	vc42sa	qu4kss	pd0her	vigkg4	F		Thayne/Fuchs		Maggs/Pucalka	Walkover
-21-39721	2	3	1	2	1	vc42sa	qu4kss	t3llpx	vu4kss	SF		Thayne/Fuchs		Fujita/Kramer	Walkover
-21-39721	2	3	1	1	1	t3llpx	vu4kss	jwwe0q	2scqku	QF		Fujita/Kramer		Pierleoni/Azkara	83
-21-39721	2	3	1	1	1	vc42sa	qu4kss	kv0ze9	p7ozqx	QF		Thayne/Fuchs		AbdulSalam/Prieto	83
-21-39721	2	3	1	1	1	pd0her	vigkg4	zwdofm	zkpo3y	QF		Maggs/Pucalka		Robbertse/Cankus	82
+21-39721	2	3	1	3	1	ud0her	pv0ze9	dxstm7	ujcz2l	F		Thayne/Fuchs		Maggs/Pucalka	Walkover
+21-39721	2	3	1	2	1	ud0her	pv0ze9	t3llpx	jeww08	SF		Thayne/Fuchs		Fujita/Kramer	Walkover
+21-39721	2	3	1	1	1	t3llpx	jeww08	ixstm7	1t856b	QF		Fujita/Kramer		Pierleoni/Azkara	83
+21-39721	2	3	1	1	1	ud0her	pv0ze9	jwwe0q	o8kece	QF		Thayne/Fuchs		AbdulSalam/Prieto	83
+21-39721	2	3	1	1	1	dxstm7	ujcz2l	zwdofm	zkpo3y	QF		Maggs/Pucalka		Robbertse/Cankus	82
 21-41355	2	1	1	4	1	rh1f9j	xst0zq	9q16rs	lclc76	F	3	Karpinski/Koons	4	Fouzas/Gran	62
 21-41355	2	1	1	3	1	9q16rs	lclc76	3rxld9	lulu7o	SF	4	Fouzas/Gran		Theaker/Rogowski	64
 21-41355	2	1	1	3	1	rh1f9j	xst0zq	33llpx	92p63g	SF	3	Karpinski/Koons	2	Lamas/Vargas	61

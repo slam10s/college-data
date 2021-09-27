@@ -1,9 +1,9 @@
 ---
 tournaments: 23
 players: 772
-matches: 513
-completed: 498
-scheduled: 15
+matches: 512
+completed: 512
+scheduled: 0
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	4	1	1	3	1	mxqdgz	x8iy66	0b670l	azi7ox	R3		Hunger/Simas		Aswal/Lozano	62
@@ -74,75 +74,75 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-01963	2	2	1	1	1	6tpfl7	hmhibw	u7595t	6h1f9j	16	1	Henderson/Yu		Guenther/Perera	84
 21-01963	2	3	1	1	1	0clc76	ill3pf	u7595t	6h1f9j	SF		Lendel/Friedman		Guenther/Perera	81
 21-01963	2	3	1	1	1	cg50n2	0ixuv0	0ulu7o	udhrtn	SF		Cui/Hart		Castelino/Fernandez	83
-21-14491	2	1	1	4	1	tfsbmp	tl4taj	qos24y	hb8n6t	F	1	Hernandez/Griva		Uzcategui/Dizon	86
-21-14491	2	1	1	3	1	tfsbmp	tl4taj	xm08w0	m5w5iz	SF	1	Hernandez/Griva		Sole/Malpass	83
-21-14491	2	1	1	3	1	qos24y	hb8n6t	zk8eo2	qc42sa	SF		Uzcategui/Dizon	2	Carofano/Yamagachi	86
-21-14491	2	1	1	2	1	tfsbmp	tl4taj	g6sk4g	3fsbmp	QF	1	Hernandez/Griva		Koua/Ranjan	83
-21-14491	2	1	1	2	1	xm08w0	m5w5iz	7bpxlp	pwdofm	QF		Sole/Malpass		Hadler/Resor	85
-21-14491	2	1	1	2	1	qos24y	hb8n6t	8mhibw	7z1x91	QF		Uzcategui/Dizon		Brito/Pereyra	86
-21-14491	2	1	1	2	1	zk8eo2	qc42sa	bos24y	trgbyd	QF	2	Carofano/Yamagachi		Gilman/Fraile Raton	83
-21-14491	2	1	1	1	1	tfsbmp	tl4taj	3l4taj	9qkwcw	16	1	Hernandez/Griva		Tsuen/Raslan	83
-21-14491	2	1	1	1	1	g6sk4g	3fsbmp	98kece	qigkg4	16		Koua/Ranjan		Spinazze/Wagner	82
-21-14491	2	1	1	1	1	xm08w0	m5w5iz	zeww08	sm08w0	16		Sole/Malpass	4	cupper/lisson	85
-21-14491	2	1	1	1	1	7bpxlp	pwdofm	xyo88o	b6sk4g	16		Hadler/Resor		Rittel/Chawner	84
-21-14491	2	1	1	1	1	8mhibw	7z1x91	bigkg4	hnwnih	16		Brito/Pereyra		Hanover/Huang	86
-21-14491	2	1	1	1	1	qos24y	hb8n6t	g0g2gm	428wok	16		Uzcategui/Dizon	3	Laverdiere/Martin G…	83
-21-14491	2	1	1	1	1	bos24y	trgbyd	xac8kc	x40qwi	16		Gilman/Fraile Raton		Trystan/Platisota	Walkover
-21-14491	2	1	1	1	1	zk8eo2	qc42sa	5d0her	rhk5un	16	2	Carofano/Yamagachi		Gamborino/Sanchez	82
-21-14491	2	1	2	4	1	98kece	qigkg4	bigkg4	hnwnih	F		Spinazze/Wagner		Hanover/Huang	82
-21-14491	2	1	2	3	1	98kece	qigkg4	zeww08	sm08w0	SF		Spinazze/Wagner	4	cupper/lisson	82
-21-14491	2	1	2	3	1	bigkg4	hnwnih	5d0her	rhk5un	SF		Hanover/Huang		Gamborino/Sanchez	86
-21-14491	2	1	2	2	1	5d0her	rhk5un	bos24y	trgbyd	QF		Gamborino/Sanchez		Gilman/Fraile Raton	83
-21-14491	2	1	2	1	1	98kece	qigkg4	3l4taj	9qkwcw	QQ		Spinazze/Wagner		Tsuen/Raslan	97
-21-14491	2	1	2	1	1	zeww08	sm08w0	xyo88o	b6sk4g	QQ	4	cupper/lisson		Rittel/Chawner	86
-21-14491	2	1	2	1	1	bigkg4	hnwnih	g0g2gm	428wok	QQ		Hanover/Huang	3	Laverdiere/Martin G…	83
-21-14491	2	1	2	1	1	5d0her	rhk5un	xac8kc	x40qwi	QQ		Gamborino/Sanchez		Trystan/Platisota	Walkover
-21-14491	2	2	1	5	1	mt856b	nm08w0	lu4kss	wt856b	F	1	Novikova/Dunlap		Stephenson/Waller	61 64
-21-14491	2	2	1	4	1	mt856b	nm08w0	sscqku	nyo88o	SF	1	Novikova/Dunlap		Lagoda/Cakarevic	84
-21-14491	2	2	1	4	1	lu4kss	wt856b	dy5ink	pq16rs	SF		Stephenson/Waller		Cabrera/Ballesteros	81
-21-14491	2	2	1	3	1	mt856b	nm08w0	5pohqf	apohqf	QF	1	Novikova/Dunlap		Daavettila/Lavenant	84
-21-14491	2	2	1	3	1	sscqku	nyo88o	uqkwcw	928wok	QF		Lagoda/Cakarevic		Alvarado/Sweet	84
-21-14491	2	2	1	3	1	lu4kss	wt856b	3xstm7	334ba1	QF		Stephenson/Waller	3	Solnyshkina/Sharono…	86
-21-14491	2	2	1	3	1	dy5ink	pq16rs	9eww08	nscqku	QF		Cabrera/Ballesteros		Shumilova/Coetzee	82
-21-14491	2	2	1	2	1	mt856b	nm08w0	a7ozqx	txstm7	16	1	Novikova/Dunlap		Neves/Dzenga	84
-21-14491	2	2	1	2	1	5pohqf	apohqf	9k8eo2	rb8n6t	16		Daavettila/Lavenant	8	Salenko/Smith	83
-21-14491	2	2	1	2	1	sscqku	nyo88o	gos24y	39gtyv	16		Lagoda/Cakarevic		McCorkle/Rowe	84
-21-14491	2	2	1	2	1	uqkwcw	928wok	l6sk4g	07ozqx	16		Alvarado/Sweet	5	Samberger/Abazi	84
-21-14491	2	2	1	2	1	lu4kss	wt856b	zwwe0q	o9gtyv	16		Stephenson/Waller		Griva/Barrett	86
-21-14491	2	2	1	2	1	3xstm7	334ba1	6c42sa	240qwi	16	3	Solnyshkina/Sharono…		Baigorria/Whip	80
-21-14491	2	2	1	2	1	dy5ink	pq16rs	gigkg4	av0ze9	16		Cabrera/Ballesteros	6	Nolan/Klak	85
-21-14491	2	2	1	2	1	9eww08	nscqku	9wwe0q	8l4taj	16		Shumilova/Coetzee		orlove/velazquez	98(3)
-21-14491	2	2	1	1	1	mt856b	nm08w0	48kece	4k8eo2	32	1	Novikova/Dunlap		Lopez/Kintscher	83
-21-14491	2	2	1	1	1	a7ozqx	txstm7	zqkwcw	3rgbyd	32		Neves/Dzenga		Hills/Sueflohn	85
-21-14491	2	2	1	1	1	9k8eo2	rb8n6t	iyo88o	s40qwi	32	8	Salenko/Smith		Ballach/Opalewski	84
-21-14491	2	2	1	1	1	5pohqf	apohqf	iatiz8	vvh9t5	32		Daavettila/Lavenant		Pascual/Cincunegui	83
-21-14491	2	2	1	1	1	sscqku	nyo88o	mb8n6t	t9gtyv	32		Lagoda/Cakarevic		Leko/Canellopolous	84
-21-14491	2	2	1	1	1	gos24y	39gtyv	ewwe0q	cnwnih	32		McCorkle/Rowe		Velichko/Baker	80
-21-14491	2	2	1	1	1	l6sk4g	07ozqx	51ch23	los24y	32	5	Samberger/Abazi		Hollis/Totten	84
-21-14491	2	2	1	1	1	uqkwcw	928wok	f1ch23	y34ba1	32		Alvarado/Sweet		Reed/Lake	83
-21-14491	2	2	1	1	1	zwwe0q	o9gtyv	h5w5iz	hhk5un	32		Griva/Barrett		Fonseca/Cipriani	84
-21-14491	2	2	1	1	1	lu4kss	wt856b	1ulu7o	2bpxlp	32		Stephenson/Waller	7	Krygier/Arquette	82
-21-14491	2	2	1	1	1	6c42sa	240qwi	ajcz2l	mzknu5	32		Baigorria/Whip		Luna/McGivern	81
-21-14491	2	2	1	1	1	3xstm7	334ba1	xscqku	66sk4g	32	3	Solnyshkina/Sharono…		Schrepferman/Bucco …	80
-21-14491	2	2	1	1	1	dy5ink	pq16rs	f7ozqx	uk8eo2	32		Cabrera/Ballesteros		Padberg/Beidacki	81
-21-14491	2	2	1	1	1	gigkg4	av0ze9	l0g2gm	yl4taj	32	6	Nolan/Klak		Skjelstad/Mokhasi	82
-21-14491	2	2	1	1	1	9wwe0q	8l4taj	mhk5un	z8kece	32		orlove/velazquez		Kuehnle/Eremina	85
-21-14491	2	2	1	1	1	9eww08	nscqku	89gtyv	lc42sa	32		Shumilova/Coetzee	2	Zafeiri/Reisch	97
-21-14491	2	2	2	5	1	mhk5un	z8kece	mb8n6t	t9gtyv	F		Kuehnle/Eremina		Leko/Canellopolous	86
-21-14491	2	2	2	4	1	mb8n6t	t9gtyv	48kece	4k8eo2	SF		Leko/Canellopolous		Lopez/Kintscher	86
-21-14491	2	2	2	4	1	mhk5un	z8kece	ajcz2l	mzknu5	SF		Kuehnle/Eremina		Luna/McGivern	82
-21-14491	2	2	2	3	1	48kece	4k8eo2	iatiz8	vvh9t5	QF		Lopez/Kintscher		Pascual/Cincunegui	82
-21-14491	2	2	2	3	1	mb8n6t	t9gtyv	51ch23	los24y	QF		Leko/Canellopolous		Hollis/Totten	Walkover
-21-14491	2	2	2	3	1	ajcz2l	mzknu5	h5w5iz	hhk5un	QF		Luna/McGivern		Fonseca/Cipriani	85
-21-14491	2	2	2	3	1	mhk5un	z8kece	f7ozqx	uk8eo2	QF		Kuehnle/Eremina		Padberg/Beidacki	86
-21-14491	2	2	2	1	1	48kece	4k8eo2	zqkwcw	3rgbyd	16Q		Lopez/Kintscher		Hills/Sueflohn	83
-21-14491	2	2	2	1	1	iatiz8	vvh9t5	iyo88o	s40qwi	16Q		Pascual/Cincunegui		Ballach/Opalewski	84
-21-14491	2	2	2	1	1	mb8n6t	t9gtyv	ewwe0q	cnwnih	16Q		Leko/Canellopolous		Velichko/Baker	97
-21-14491	2	2	2	1	1	51ch23	los24y	f1ch23	y34ba1	16Q		Hollis/Totten		Reed/Lake	86
-21-14491	2	2	2	1	1	h5w5iz	hhk5un	1ulu7o	2bpxlp	16Q		Fonseca/Cipriani	7	Krygier/Arquette	86
-21-14491	2	2	2	1	1	ajcz2l	mzknu5	xscqku	66sk4g	16Q		Luna/McGivern		Schrepferman/Bucco …	86
-21-14491	2	2	2	1	1	f7ozqx	uk8eo2	l0g2gm	yl4taj	16Q		Padberg/Beidacki		Skjelstad/Mokhasi	98(5)
-21-14491	2	2	2	1	1	mhk5un	z8kece	89gtyv	lc42sa	16Q		Kuehnle/Eremina	2	Zafeiri/Reisch	81
+21-14491	2	1	1	4	1	sgoq86	sm08w0	e8kece	gc42sa	F	1	Hernandez/Griva		Uzcategui/Dizon	86
+21-14491	2	1	1	3	1	sgoq86	sm08w0	wnwnih	l6sk4g	SF	1	Hernandez/Griva		Sole/Malpass	83
+21-14491	2	1	1	3	1	e8kece	gc42sa	n40qwi	pd0her	SF		Uzcategui/Dizon	2	Carofano/Yamagachi	86
+21-14491	2	1	1	2	1	sgoq86	sm08w0	f7ozqx	rzknu5	QF	1	Hernandez/Griva		Koua/Ranjan	83
+21-14491	2	1	1	2	1	wnwnih	l6sk4g	7bpxlp	pwdofm	QF		Sole/Malpass		Hadler/Resor	85
+21-14491	2	1	1	2	1	e8kece	gc42sa	8mhibw	7z1x91	QF		Uzcategui/Dizon		Brito/Pereyra	86
+21-14491	2	1	1	2	1	n40qwi	pd0her	apohqf	sscqku	QF	2	Carofano/Yamagachi		Gilman/Fraile Raton	83
+21-14491	2	1	1	1	1	sgoq86	sm08w0	2m08w0	xac8kc	16	1	Hernandez/Griva		Tsuen/Raslan	83
+21-14491	2	1	1	1	1	f7ozqx	rzknu5	89gtyv	e28wok	16		Koua/Ranjan		Spinazze/Wagner	82
+21-14491	2	1	1	1	1	wnwnih	l6sk4g	yfsbmp	rnwnih	16		Sole/Malpass	4	cupper/lisson	85
+21-14491	2	1	1	1	1	7bpxlp	pwdofm	wzknu5	zqkwcw	16		Hadler/Resor		Rittel/Chawner	84
+21-14491	2	1	1	1	1	8mhibw	7z1x91	ajcz2l	gos24y	16		Brito/Pereyra		Hanover/Huang	86
+21-14491	2	1	1	1	1	e8kece	gc42sa	f1ch23	334ba1	16		Uzcategui/Dizon	3	Laverdiere/Martin G…	83
+21-14491	2	1	1	1	1	apohqf	sscqku	wb8n6t	los24y	16		Gilman/Fraile Raton		Trystan/Platisota	Walkover
+21-14491	2	1	1	1	1	n40qwi	pd0her	4eww08	qigkg4	16	2	Carofano/Yamagachi		Gamborino/Sanchez	82
+21-14491	2	1	2	4	1	89gtyv	e28wok	ajcz2l	gos24y	F		Spinazze/Wagner		Hanover/Huang	82
+21-14491	2	1	2	3	1	89gtyv	e28wok	yfsbmp	rnwnih	SF		Spinazze/Wagner	4	cupper/lisson	82
+21-14491	2	1	2	3	1	ajcz2l	gos24y	4eww08	qigkg4	SF		Hanover/Huang		Gamborino/Sanchez	86
+21-14491	2	1	2	2	1	4eww08	qigkg4	apohqf	sscqku	QF		Gamborino/Sanchez		Gilman/Fraile Raton	83
+21-14491	2	1	2	1	1	89gtyv	e28wok	2m08w0	xac8kc	QQ		Spinazze/Wagner		Tsuen/Raslan	97
+21-14491	2	1	2	1	1	yfsbmp	rnwnih	wzknu5	zqkwcw	QQ	4	cupper/lisson		Rittel/Chawner	86
+21-14491	2	1	2	1	1	ajcz2l	gos24y	f1ch23	334ba1	QQ		Hanover/Huang	3	Laverdiere/Martin G…	83
+21-14491	2	1	2	1	1	4eww08	qigkg4	wb8n6t	los24y	QQ		Gamborino/Sanchez		Trystan/Platisota	Walkover
+21-14491	2	2	1	5	1	lu4kss	mnwnih	kv0ze9	vu4kss	F	1	Novikova/Dunlap		Stephenson/Waller	61 64
+21-14491	2	2	1	4	1	lu4kss	mnwnih	rt856b	bigkg4	SF	1	Novikova/Dunlap		Lagoda/Cakarevic	84
+21-14491	2	2	1	4	1	kv0ze9	vu4kss	dy5ink	pq16rs	SF		Stephenson/Waller		Cabrera/Ballesteros	81
+21-14491	2	2	1	3	1	lu4kss	mnwnih	4qkwcw	9qkwcw	QF	1	Novikova/Dunlap		Daavettila/Lavenant	84
+21-14491	2	2	1	3	1	rt856b	bigkg4	trgbyd	834ba1	QF		Lagoda/Cakarevic		Alvarado/Sweet	84
+21-14491	2	2	1	3	1	kv0ze9	vu4kss	2yo88o	240qwi	QF		Stephenson/Waller	3	Solnyshkina/Sharono…	86
+21-14491	2	2	1	3	1	dy5ink	pq16rs	8fsbmp	bc42sa	QF		Cabrera/Ballesteros		Shumilova/Coetzee	82
+21-14491	2	2	1	2	1	lu4kss	mnwnih	98kece	syo88o	16	1	Novikova/Dunlap		Neves/Dzenga	84
+21-14491	2	2	1	2	1	4qkwcw	9qkwcw	8l4taj	qc42sa	16		Daavettila/Lavenant	8	Salenko/Smith	83
+21-14491	2	2	1	2	1	rt856b	bigkg4	fpohqf	2ac8kc	16		Lagoda/Cakarevic		McCorkle/Rowe	84
+21-14491	2	2	1	2	1	trgbyd	834ba1	k7ozqx	z8kece	16		Alvarado/Sweet	5	Samberger/Abazi	84
+21-14491	2	2	1	2	1	kv0ze9	vu4kss	yxstm7	nac8kc	16		Stephenson/Waller		Griva/Barrett	86
+21-14491	2	2	1	2	1	2yo88o	240qwi	5d0her	15w5iz	16	3	Solnyshkina/Sharono…		Baigorria/Whip	80
+21-14491	2	2	1	2	1	dy5ink	pq16rs	fjcz2l	9wwe0q	16		Cabrera/Ballesteros	6	Nolan/Klak	85
+21-14491	2	2	1	2	1	8fsbmp	bc42sa	xgoq86	w5w5iz	16		Shumilova/Coetzee		orlove/velazquez	98(3)
+21-14491	2	2	1	1	1	lu4kss	mnwnih	39gtyv	s40qwi	32	1	Novikova/Dunlap		Lopez/Kintscher	83
+21-14491	2	2	1	1	1	98kece	syo88o	yrgbyd	2scqku	32		Neves/Dzenga		Hills/Sueflohn	85
+21-14491	2	2	1	1	1	8l4taj	qc42sa	hzknu5	r5w5iz	32	8	Salenko/Smith		Ballach/Opalewski	84
+21-14491	2	2	1	1	1	4qkwcw	9qkwcw	iatiz8	vvh9t5	32		Daavettila/Lavenant		Pascual/Cincunegui	83
+21-14491	2	2	1	1	1	rt856b	bigkg4	lc42sa	ht856b	32		Lagoda/Cakarevic		Leko/Canellopolous	84
+21-14491	2	2	1	1	1	fpohqf	2ac8kc	2goq86	bos24y	32		McCorkle/Rowe		Velichko/Baker	80
+21-14491	2	2	1	1	1	k7ozqx	z8kece	428wok	kpohqf	32	5	Samberger/Abazi		Hollis/Totten	84
+21-14491	2	2	1	1	1	trgbyd	834ba1	3l4taj	x40qwi	32		Alvarado/Sweet		Reed/Lake	83
+21-14491	2	2	1	1	1	yxstm7	nac8kc	g6sk4g	51ch23	32		Griva/Barrett		Fonseca/Cipriani	84
+21-14491	2	2	1	1	1	kv0ze9	vu4kss	1ulu7o	2bpxlp	32		Stephenson/Waller	7	Krygier/Arquette	82
+21-14491	2	2	1	1	1	5d0her	15w5iz	9k8eo2	l0g2gm	32		Baigorria/Whip		Luna/McGivern	81
+21-14491	2	2	1	1	1	2yo88o	240qwi	wt856b	57ozqx	32	3	Solnyshkina/Sharono…		Schrepferman/Bucco …	80
+21-14491	2	2	1	1	1	dy5ink	pq16rs	3rgbyd	tl4taj	32		Cabrera/Ballesteros		Padberg/Beidacki	81
+21-14491	2	2	1	1	1	fjcz2l	9wwe0q	k1ch23	xm08w0	32	6	Nolan/Klak		Skjelstad/Mokhasi	82
+21-14491	2	2	1	1	1	xgoq86	w5w5iz	ligkg4	y9gtyv	32		orlove/velazquez		Kuehnle/Eremina	85
+21-14491	2	2	1	1	1	8fsbmp	bc42sa	7ac8kc	kd0her	32		Shumilova/Coetzee	2	Zafeiri/Reisch	97
+21-14491	2	2	2	5	1	ligkg4	y9gtyv	lc42sa	ht856b	F		Kuehnle/Eremina		Leko/Canellopolous	86
+21-14491	2	2	2	4	1	lc42sa	ht856b	39gtyv	s40qwi	SF		Leko/Canellopolous		Lopez/Kintscher	86
+21-14491	2	2	2	4	1	ligkg4	y9gtyv	9k8eo2	l0g2gm	SF		Kuehnle/Eremina		Luna/McGivern	82
+21-14491	2	2	2	3	1	39gtyv	s40qwi	iatiz8	vvh9t5	QF		Lopez/Kintscher		Pascual/Cincunegui	82
+21-14491	2	2	2	3	1	lc42sa	ht856b	428wok	kpohqf	QF		Leko/Canellopolous		Hollis/Totten	Walkover
+21-14491	2	2	2	3	1	9k8eo2	l0g2gm	g6sk4g	51ch23	QF		Luna/McGivern		Fonseca/Cipriani	85
+21-14491	2	2	2	3	1	ligkg4	y9gtyv	3rgbyd	tl4taj	QF		Kuehnle/Eremina		Padberg/Beidacki	86
+21-14491	2	2	2	1	1	39gtyv	s40qwi	yrgbyd	2scqku	16Q		Lopez/Kintscher		Hills/Sueflohn	83
+21-14491	2	2	2	1	1	iatiz8	vvh9t5	hzknu5	r5w5iz	16Q		Pascual/Cincunegui		Ballach/Opalewski	84
+21-14491	2	2	2	1	1	lc42sa	ht856b	2goq86	bos24y	16Q		Leko/Canellopolous		Velichko/Baker	97
+21-14491	2	2	2	1	1	428wok	kpohqf	3l4taj	x40qwi	16Q		Hollis/Totten		Reed/Lake	86
+21-14491	2	2	2	1	1	g6sk4g	51ch23	1ulu7o	2bpxlp	16Q		Fonseca/Cipriani	7	Krygier/Arquette	86
+21-14491	2	2	2	1	1	9k8eo2	l0g2gm	wt856b	57ozqx	16Q		Luna/McGivern		Schrepferman/Bucco …	86
+21-14491	2	2	2	1	1	3rgbyd	tl4taj	k1ch23	xm08w0	16Q		Padberg/Beidacki		Skjelstad/Mokhasi	98(5)
+21-14491	2	2	2	1	1	ligkg4	y9gtyv	7ac8kc	kd0her	16Q		Kuehnle/Eremina	2	Zafeiri/Reisch	81
 21-22816	4	1	1	3	1	k2p63g	f2p63g	25dfxv	3g50n2	F		Price/Forrest		Pandurevic/Nuqui	61
 21-22816	4	1	1	2	1	25dfxv	3g50n2	93llpx	r0xcvi	SF		Pandurevic/Nuqui		Kosmrlj/Lopez	Walkover
 21-22816	4	1	1	2	1	k2p63g	f2p63g	xtpfl7	gjt9hh	SF		Price/Forrest		Gunfaus/Ciaccia	Walkover
@@ -175,50 +175,49 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24367	4	1	1	2	1	dst0zq	imhibw	ued6f4	iy5ink	QF		Cremer/Kowalke		Isgett/Vukcevic	63
 21-24367	4	1	1	1	1	j9x3dr	cbpxlp	6clc76	6ulu7o	16		Calvo Larraz/Komisz…		Trimpe/Marshall	75
 21-24367	4	1	1	1	1	pq16rs	vp5r5b	ped6f4	ch1f9j	16		Ballesteros/Dirning…		Dabbah/Dudic	62
-21-30664	2	1	1	4		k6sk4g	deww08	i7595t	2wdofm	QF	16	Alcala/Teske	10	Semenovski/Cataldi	Sun @ 09:00
-21-30664	2	1	1	4		8eww08	wscqku	wac8kc	7xstm7	QF	3	Beckman/Andreach	6	Heuser/Yeah	Sun @ 09:00
-21-30664	2	1	1	4		jpohqf	q5w5iz	pc42sa	140qwi	QF	8	Treiber/Ferrari	5	Pratt/McColgan	Sun @ 09:00
-21-30664	2	1	1	4		vhk5un	djt9hh	xatiz8	2g50n2	QF	4	Stoica/Mukhortova	15	Antonijevic/Kizelba…	Sun @ 09:00
-21-30664	2	1	1	3	1	k6sk4g	deww08	k0g2gm	234ba1	16	16	Alcala/Teske	1	Bereznyak/Atway	84
-21-30664	2	1	1	3	1	i7595t	2wdofm	d8kece	ed0her	16	10	Semenovski/Cataldi	7	Yellayi/Ghosh	86
-21-30664	2	1	1	3	1	8eww08	wscqku	qzknu5	pos24y	16	3	Beckman/Andreach		Gustafsson/Jover	86
-21-30664	2	1	1	3	1	wac8kc	7xstm7	p6sk4g	kos24y	16	6	Heuser/Yeah	13	Stephens/Gisclon	82
-21-30664	2	1	1	3	1	jpohqf	q5w5iz	dwwe0q	1scqku	16	8	Treiber/Ferrari		Lazic/Streng	86
-21-30664	2	1	1	3	1	pc42sa	140qwi	1ac8kc	88kece	16	5	Pratt/McColgan	9	Koscielski/Castedo	81
-21-30664	2	1	1	3	1	vhk5un	djt9hh	j7ozqx	wm08w0	16	4	Stoica/Mukhortova	12	Lemonds/Can	84
-21-30664	2	1	1	3	1	xatiz8	2g50n2	wgoq86	vzknu5	16	15	Antonijevic/Kizelba…	2	Fliegner/Kelly	87(6)
-21-30664	2	1	1	2	1	k0g2gm	234ba1	8rxld9	v0xcvi	32	1	Bereznyak/Atway		Kojcic/Turconi	86
-21-30664	2	1	1	2	1	k6sk4g	deww08	vclc76	cmhibw	32	16	Alcala/Teske		Potsi/Zlatanovic	83
-21-30664	2	1	1	2	1	d8kece	ed0her	jed6f4	jkpo3y	32	7	Yellayi/Ghosh		Tabanera/Schoolcraft	81
+21-30664	2	1	1	4	1	i7595t	2wdofm	j7ozqx	cfsbmp	QF	10	Semenovski/Cataldi	16	Alcala/Teske	85
+21-30664	2	1	1	4	1	vb8n6t	6yo88o	7fsbmp	vt856b	QF	6	Heuser/Yeah	3	Beckman/Andreach	86
+21-30664	2	1	1	4	1	od0her	05w5iz	iqkwcw	p6sk4g	QF	5	Pratt/McColgan	8	Treiber/Ferrari	86
+21-30664	2	1	1	4	1	uigkg4	djt9hh	xatiz8	2g50n2	QF	4	Stoica/Mukhortova	15	Antonijevic/Kizelba…	83
+21-30664	2	1	1	3	1	j7ozqx	cfsbmp	j1ch23	140qwi	16	16	Alcala/Teske	1	Bereznyak/Atway	84
+21-30664	2	1	1	3	1	i7595t	2wdofm	c9gtyv	deww08	16	10	Semenovski/Cataldi	7	Yellayi/Ghosh	86
+21-30664	2	1	1	3	1	7fsbmp	vt856b	p0g2gm	d8kece	16	3	Beckman/Andreach		Gustafsson/Jover	86
+21-30664	2	1	1	3	1	vb8n6t	6yo88o	o7ozqx	jpohqf	16	6	Heuser/Yeah	13	Stephens/Gisclon	82
+21-30664	2	1	1	3	1	iqkwcw	p6sk4g	1goq86	0t856b	16	8	Treiber/Ferrari		Lazic/Streng	86
+21-30664	2	1	1	3	1	od0her	05w5iz	pu4kss	79gtyv	16	5	Pratt/McColgan	9	Koscielski/Castedo	81
+21-30664	2	1	1	3	1	uigkg4	djt9hh	7rgbyd	vnwnih	16	4	Stoica/Mukhortova	12	Lemonds/Can	84
+21-30664	2	1	1	3	1	xatiz8	2g50n2	vhk5un	jjcz2l	16	15	Antonijevic/Kizelba…	2	Fliegner/Kelly	87(6)
+21-30664	2	1	1	2	1	j1ch23	140qwi	8rxld9	v0xcvi	32	1	Bereznyak/Atway		Kojcic/Turconi	86
+21-30664	2	1	1	2	1	j7ozqx	cfsbmp	vclc76	cmhibw	32	16	Alcala/Teske		Potsi/Zlatanovic	83
+21-30664	2	1	1	2	1	c9gtyv	deww08	jed6f4	jkpo3y	32	7	Yellayi/Ghosh		Tabanera/Schoolcraft	81
 21-30664	2	1	1	2	1	i7595t	2wdofm	lo9cju	e81ora	32	10	Semenovski/Cataldi		Abyasova/Jankulovska	85
-21-30664	2	1	1	2	1	8eww08	wscqku	zy5ink	zatiz8	32	3	Beckman/Andreach		Papavasilopoulos/Go…	80
-21-30664	2	1	1	2	1	qzknu5	pos24y	pigkg4	vnwnih	32		Gustafsson/Jover	11	Leong/Rabjohns	83
-21-30664	2	1	1	2	1	wac8kc	7xstm7	fdhrtn	wtpfl7	32	6	Heuser/Yeah		Abreu/Damnjanovic	82
-21-30664	2	1	1	2	1	p6sk4g	kos24y	pjt9hh	qulu7o	32	13	Stephens/Gisclon		Yergler/Jovicic	87(6)
-21-30664	2	1	1	2	1	dwwe0q	1scqku	vt856b	vb8n6t	32		Lazic/Streng		Lukyanova/Welch	85
-21-30664	2	1	1	2	1	jpohqf	q5w5iz	1ixuv0	p81ora	32	8	Treiber/Ferrari		Silveira/Karg	84
-21-30664	2	1	1	2	1	1ac8kc	88kece	7l4taj	734ba1	32	9	Koscielski/Castedo		Kuszynski/Tallamraju	82
-21-30664	2	1	1	2	1	pc42sa	140qwi	k7595t	qixuv0	32	5	Pratt/McColgan		Czerwonka/Czerwonka	87(9)
-21-30664	2	1	1	2	1	j7ozqx	wm08w0	p1trhz	7mhibw	32	12	Lemonds/Can		Popovic/Weise	84
-21-30664	2	1	1	2	1	vhk5un	djt9hh	7tpfl7	vdhrtn	32	4	Stoica/Mukhortova		Tsadari/Neuman	83
+21-30664	2	1	1	2	1	7fsbmp	vt856b	zy5ink	zatiz8	32	3	Beckman/Andreach		Papavasilopoulos/Go…	80
+21-30664	2	1	1	2	1	p0g2gm	d8kece	d28wok	uos24y	32		Gustafsson/Jover	11	Leong/Rabjohns	83
+21-30664	2	1	1	2	1	vb8n6t	6yo88o	fdhrtn	wtpfl7	32	6	Heuser/Yeah		Abreu/Damnjanovic	82
+21-30664	2	1	1	2	1	o7ozqx	jpohqf	pjt9hh	qulu7o	32	13	Stephens/Gisclon		Yergler/Jovicic	87(6)
+21-30664	2	1	1	2	1	1goq86	0t856b	jd0her	uc42sa	32		Lazic/Streng		Lukyanova/Welch	85
+21-30664	2	1	1	2	1	iqkwcw	p6sk4g	1ixuv0	p81ora	32	8	Treiber/Ferrari		Silveira/Karg	84
+21-30664	2	1	1	2	1	pu4kss	79gtyv	v5w5iz	640qwi	32	9	Koscielski/Castedo		Kuszynski/Tallamraju	82
+21-30664	2	1	1	2	1	od0her	05w5iz	k7595t	qixuv0	32	5	Pratt/McColgan		Czerwonka/Czerwonka	87(9)
+21-30664	2	1	1	2	1	7rgbyd	vnwnih	p1trhz	7mhibw	32	12	Lemonds/Can		Popovic/Weise	84
+21-30664	2	1	1	2	1	uigkg4	djt9hh	7tpfl7	vdhrtn	32	4	Stoica/Mukhortova		Tsadari/Neuman	83
 21-30664	2	1	1	2	1	xatiz8	2g50n2	k1trhz	1ndxxd	32	15	Antonijevic/Kizelba…		Drazic/Pukhaeva	Walkover
-21-30664	2	1	1	2	1	wgoq86	vzknu5	8ll3pf	2y5ink	32	2	Fliegner/Kelly		Brodin/Fitzgerald	85
+21-30664	2	1	1	2	1	vhk5un	jjcz2l	8ll3pf	2y5ink	32	2	Fliegner/Kelly		Brodin/Fitzgerald	85
 21-30664	2	1	1	1	1	8rxld9	v0xcvi	dmhibw	d4h0be	64		Kojcic/Turconi		Iglesias/Vetter	84
 21-30664	2	1	1	1	1	vclc76	cmhibw	vo9cju	kjt9hh	64		Potsi/Zlatanovic		McConnell/Jhaveri	81
 21-30664	2	1	1	1	1	zy5ink	zatiz8	datiz8	10xcvi	64		Papavasilopoulos/Go…		Poppe/Fuentes	82
-21-30664	2	1	1	1	1	qzknu5	pos24y	828wok	j1ch23	64		Gustafsson/Jover		Ganesan/Popma	82
+21-30664	2	1	1	1	1	p0g2gm	d8kece	734ba1	i28wok	64		Gustafsson/Jover		Ganesan/Popma	82
 21-30664	2	1	1	1	1	pjt9hh	qulu7o	pvh9t5	89x3dr	64		Yergler/Jovicic		Sedovich/Fuller	83
-21-30664	2	1	1	1	1	vt856b	vb8n6t	rz1x91	qclc76	64		Lukyanova/Welch		Andres/Dukic	82
-21-30664	2	1	1	1	1	1ixuv0	p81ora	1m08w0	7fsbmp	64		Silveira/Karg		Whitney/Pelayo	87(3)
-21-30664	2	1	1	1	1	k7595t	qixuv0	1yo88o	ku4kss	64		Czerwonka/Czerwonka		Rakita/Dimitriev	85
+21-30664	2	1	1	1	1	jd0her	uc42sa	rz1x91	qclc76	64		Lukyanova/Welch		Andres/Dukic	82
+21-30664	2	1	1	1	1	1ixuv0	p81ora	0nwnih	6goq86	64		Silveira/Karg		Whitney/Pelayo	87(3)
+21-30664	2	1	1	1	1	k7595t	qixuv0	0zknu5	jv0ze9	64		Czerwonka/Czerwonka		Rakita/Dimitriev	85
 21-30664	2	1	1	1	1	p1trhz	7mhibw	dll3pf	2atiz8	64		Popovic/Weise		Morgoshia/Borodina	83
-21-30664	2	1	1	1	1	7tpfl7	vdhrtn	qhk5un	jv0ze9	64		Tsadari/Neuman		Ali/Schoenly	87(5)
-21-30664	2	1	1	1	1	8ll3pf	2y5ink	p0g2gm	qb8n6t	64		Brodin/Fitzgerald		Vichare/Brichackova	82
+21-30664	2	1	1	1	1	7tpfl7	vdhrtn	pigkg4	iwwe0q	64		Tsadari/Neuman		Ali/Schoenly	87(5)
+21-30664	2	1	1	1	1	8ll3pf	2y5ink	o1ch23	pc42sa	64		Brodin/Fitzgerald		Vichare/Brichackova	82
 21-30664	2	1	2	3	1	dmhibw	d4h0be	vo9cju	kjt9hh	16		Iglesias/Vetter		McConnell/Jhaveri	87(5)
-21-30664	2	1	2	3	1	828wok	j1ch23	rz1x91	qclc76	16		Ganesan/Popma		Andres/Dukic	81
-21-30664	2	1	2	3		datiz8	10xcvi	pvh9t5	89x3dr	16		Poppe/Fuentes		Sedovich/Fuller	Sat @ 10:00
-21-30664	2	1	2	3	1	qhk5un	jv0ze9	dll3pf	2atiz8	16		Ali/Schoenly		Morgoshia/Borodina	80
-21-30664	2	1	2	2	1	p0g2gm	qb8n6t	1yo88o	ku4kss	32		Vichare/Brichackova		Rakita/Dimitriev	84
+21-30664	2	1	2	3	1	734ba1	i28wok	rz1x91	qclc76	16		Ganesan/Popma		Andres/Dukic	81
+21-30664	2	1	2	3	1	pigkg4	iwwe0q	dll3pf	2atiz8	16		Ali/Schoenly		Morgoshia/Borodina	80
+21-30664	2	1	2	2	1	o1ch23	pc42sa	0zknu5	jv0ze9	32		Vichare/Brichackova		Rakita/Dimitriev	84
 21-31047	2	1	1	3	1	0ed6f4	b1trhz	co9cju	cixuv0	F		Crisologo/Stewart		Komar/Marcinkevica	82
 21-31047	2	1	1	2	1	0ed6f4	b1trhz	0q16rs	081ora	SF		Crisologo/Stewart		Ovcina/Gonzalez Ram…	86
 21-31047	2	1	1	2	1	co9cju	cixuv0	6vh9t5	uf9l1l	SF		Komar/Marcinkevica		Arranz/Mocciola	85
@@ -432,16 +431,16 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-50226	2	10	1	1	1	vk8eo2	v28wok	e40qwi	8nwnih	SF		Zdravkovic/Ochotore…		Almiron/Bukina	62
 21-50226	2	10	1	1	1	2c42sa	j40qwi	eyo88o	1pohqf	SF		Broerman/Sloan		Danilchenko/Kezuka	63
 21-50226	2	10	2	1	1	eyo88o	1pohqf	e40qwi	8nwnih	F		Danilchenko/Kezuka		Almiron/Bukina	61
-21-50226	2	11	1	1		pl4taj	k9gtyv	2c42sa	1d0her	F		Said/Duong		Broerman/Oda	Sun @ 09:00
-21-50226	2	12	1	1		wv0ze9	qeww08	2igkg4	j40qwi	F		Ercetin/Hanford		Aitken/Sloan	Sun @ 09:00
-21-50226	2	13	1	1		7u4kss	jac8kc	pxstm7	kfsbmp	F		Lu/Rizzolo		Lazarevic/Aly	Sun @ 09:00
-21-50226	2	14	1	1		veww08	eyo88o	70g2gm	76sk4g	F		Karvouni/Danilchenko		Kmoskova/Havlickova	Sun @ 09:00
-21-50226	2	15	1	1		17ozqx	1pohqf	7igkg4	p34ba1	F		Sarioglan/Kezuka		Sela/Jansson	Sun @ 09:00
-21-50226	2	16	1	1		prgbyd	11ch23	26sk4g	p9gtyv	F		Neville/Stephani		Frampton/Wernli	Sun @ 09:00
-21-50226	2	17	1	1		jscqku	v8kece	pfsbmp	jm08w0	F		Hunt/Lee		Sosnowska/Laursen	Sun @ 09:00
-21-50226	2	18	1	1		k34ba1	vqkwcw	e40qwi	8nwnih	F		Haagensen/Stepan		Almiron/Bukina	Sun @ 09:00
-21-50226	2	19	1	1		vk8eo2	v28wok	8hk5un	jyo88o	F		Zdravkovic/Ochotore…		Gaskell/Walczak	Sun @ 09:00
-21-50226	2	20	1	1		dt856b	escqku	dzknu5	dhk5un	F		Skobkareva/Girbau		Rizza/Heinitz	Sun @ 09:00
+21-50226	2	11	1	1	1	pl4taj	k9gtyv	2c42sa	1d0her	F		Said/Duong		Broerman/Oda	76(3)
+21-50226	2	12	1	1	1	wv0ze9	qeww08	2igkg4	j40qwi	F		Ercetin/Hanford		Aitken/Sloan	62
+21-50226	2	13	1	1	1	7u4kss	jac8kc	pxstm7	kfsbmp	F		Lu/Rizzolo		Lazarevic/Aly	63
+21-50226	2	14	1	1	1	17ozqx	eyo88o	70g2gm	76sk4g	F		Sarioglan/Danilchen…		Kmoskova/Havlickova	64
+21-50226	2	15	1	1	1	7igkg4	p34ba1	1pohqf	veww08	F		Sela/Jansson		Kezuka/Karvouni	75
+21-50226	2	16	1	1	1	prgbyd	11ch23	26sk4g	p9gtyv	F		Neville/Stephani		Frampton/Wernli	63
+21-50226	2	17	1	1	1	jm08w0	1d0her	jscqku	v8kece	F		Laursen/Oda		Hunt/Lee	64
+21-50226	2	18	1	1	1	e40qwi	8nwnih	k34ba1	vqkwcw	F		Almiron/Bukina		Haagensen/Stepan	61
+21-50226	2	19	1	1	1	vk8eo2	v28wok	8hk5un	jyo88o	F		Zdravkovic/Ochotore…		Gaskell/Walczak	75
+21-50226	2	20	1	1	1	dhk5un	w1ch23	dt856b	escqku	F		Heinitz/Bowles		Skobkareva/Girbau	64
 21-66962	2	1	1	1	1	h7595t	zst0zq	nixuv0	th1f9j	16		Hochstatter/Schifano		Jacobson/Rybka	60
 21-66962	2	1	1	1	1	hp5r5b	zmhibw	ttpfl7	5ll3pf	16		Sporing/Vizcardo		Kancherla/Grice	60
 21-66962	2	1	1	1	1	59x3dr	n69ujc	z4h0be	io9cju	16		Perez/Reinicke		Kovacs/Bezmenova	61
