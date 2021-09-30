@@ -1,8 +1,8 @@
 ---
-tournaments: 27
-players: 684
-matches: 1155
-completed: 1155
+tournaments: 28
+players: 793
+matches: 1264
+completed: 1264
 scheduled: 0
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -414,6 +414,115 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24367	1	3	2	4	1	qg50n2		sb8n6t		F		Brian King		Niko Papachrisanthou	82
 21-24367	1	3	2	3	1	qg50n2		ic2mm2		SF		Brian King		Isaiah Buse	Walkover
 21-24367	1	3	2	3	1	sb8n6t		b2p63g		SF		Niko Papachrisanthou		Bryson Crowell	86
+21-25873	1	1	1	5	1	nrxld9		rv0ze9		F	1	Rami Hemaidan	2	Nyathi Motlojoa	84
+21-25873	1	1	1	4	1	nrxld9		tigkg4		SF	1	Rami Hemaidan	4	Max Loen	87(9)
+21-25873	1	1	1	4	1	rv0ze9		45dfxv		SF	2	Nyathi Motlojoa	3	Jon Lansing	81
+21-25873	1	1	1	3	1	nrxld9		mkr496		QF	1	Rami Hemaidan	7	Bo Wilson	84
+21-25873	1	1	1	3	1	tigkg4		kavy5g		QF	4	Max Loen	5	Eli Young	85
+21-25873	1	1	1	3	1	45dfxv		fwdofm		QF	3	Jon Lansing		Joaquim Fernandes	87(5)
+21-25873	1	1	1	3	1	rv0ze9		np77bj		QF	2	Nyathi Motlojoa	8	Luke Westholder	Walkover
+21-25873	1	1	1	2	1	nrxld9		bwwe0q		16	1	Rami Hemaidan		Jorge Melo	85
+21-25873	1	1	1	2	1	mkr496		ty5ink		16	7	Bo Wilson		Jackson Eells	83
+21-25873	1	1	1	2	1	tigkg4		nc2mm2		16	4	Max Loen		Ryan Carey	85
+21-25873	1	1	1	2	1	kavy5g		0wwe0q		16	5	Eli Young		Jordan Oaks	81
+21-25873	1	1	1	2	1	fwdofm		qndxxd		16		Joaquim Fernandes	6	Lucas Huffman	87(1)
+21-25873	1	1	1	2	1	45dfxv		sjvpnp		16	3	Jon Lansing		Dylan Wiemers	83
+21-25873	1	1	1	2	1	np77bj		nc42sa		16	8	Luke Westholder		Nathan Meskell	84
+21-25873	1	1	1	2	1	rv0ze9		840qwi		16	2	Nyathi Motlojoa		Graham Peterson	82
+21-25873	1	1	1	1	1	bwwe0q		5b8n6t		32		Jorge Melo		Griffin Steiniger	62 60
+21-25873	1	1	1	1	1	mkr496		0y5ink		32	7	Bo Wilson		Danny Kramer	60 63
+21-25873	1	1	1	1	1	ty5ink		dscqku		32		Jackson Eells		Ricky Portilla	36 60 [5]
+21-25873	1	1	1	1	1	nc2mm2		h7ozqx		32		Ryan Carey		Trey Melvin	62 36 [8]
+21-25873	1	1	1	1	1	kavy5g		9b670l		32	5	Eli Young		Kevin Blomquist	62 63
+21-25873	1	1	1	1	1	0wwe0q		8p77bj		32		Jordan Oaks		Caleb Vasconez	61 61
+21-25873	1	1	1	1	1	fwdofm		ved6f4		32		Joaquim Fernandes		Brad Dileo	62 61
+21-25873	1	1	1	1	1	sjvpnp		ou4kss		32		Dylan Wiemers		Tommy Linkenheld	62 62
+21-25873	1	1	1	1	1	nc42sa		lp5r5b		32		Nathan Meskell		Tanner Finken	62 46 [5]
+21-25873	1	1	1	1	1	np77bj		r7595t		32	8	Luke Westholder		Cade Davis	61 62
+21-25873	1	1	1	1	1	840qwi		ub670l		32		Graham Peterson		Ethan Beckerman	76(6) 60
+21-25873	1	2	1	6	1	26sk4g		9brdrx		F	1	Juan Navarrete		Nate Withers	85
+21-25873	1	2	1	5	1	26sk4g		i1a1wv		SF	1	Juan Navarrete		Konnor Barth	83
+21-25873	1	2	1	5	1	9brdrx		ckr496		SF		Nate Withers	6	Peter Walkwitz	81
+21-25873	1	2	1	4	1	26sk4g		8kpo3y		QF	1	Juan Navarrete		Ethan Humble	80
+21-25873	1	2	1	4	1	i1a1wv		i9x3dr		QF		Konnor Barth		Harry Hawbaker	81
+21-25873	1	2	1	4	1	ckr496		0fb17t		QF	6	Peter Walkwitz	3	Stefan Zrnic	85
+21-25873	1	2	1	4	1	9brdrx		wo9cju		QF		Nate Withers		Ayden Fletcher	84
+21-25873	1	2	1	3	1	26sk4g		x9gtyv		16	1	Juan Navarrete		Nick Scott	81
+21-25873	1	2	1	3	1	8kpo3y		6goq86		16		Ethan Humble		Luke Smith	81
+21-25873	1	2	1	3	1	i1a1wv		e8kece		16		Konnor Barth		Juan Pablo Rosaldo	86
+21-25873	1	2	1	3	1	i9x3dr		2t856b		16		Harry Hawbaker	5	Nile Petersen	81
+21-25873	1	2	1	3	1	ckr496		t5w5iz		16	6	Peter Walkwitz		Jeff Miller	82
+21-25873	1	2	1	3	1	0fb17t		zt856b		16	3	Stefan Zrnic		Cole Lohoefener	80
+21-25873	1	2	1	3	1	9brdrx		6u4kss		16		Nate Withers	8	Aaron Price	82
+21-25873	1	2	1	3	1	wo9cju		yscqku		16		Ayden Fletcher	2	Alex Palomar	81
+21-25873	1	2	1	2	1	26sk4g		5jt9hh		32	1	Juan Navarrete		Hunter Gerhardt	62 60
+21-25873	1	2	1	2	1	x9gtyv		srgbyd		32		Nick Scott		Joe Schneider	63 63
+21-25873	1	2	1	2	1	6goq86		mm08w0		32		Luke Smith	7	Brenden Schlader	Walkover
+21-25873	1	2	1	2	1	8kpo3y		eg50n2		32		Ethan Humble		Matthew DenAdel	60 57 [6]
+21-25873	1	2	1	2	1	e8kece		nb8n6t		32		Juan Pablo Rosaldo	4	Will Olson	61 60
+21-25873	1	2	1	2	1	i1a1wv		4z3df9		32		Konnor Barth		Aj Wilkins	61 75
+21-25873	1	2	1	2	1	2t856b		d3llpx		32	5	Nile Petersen		Caleb Hamerlinck	63 62
+21-25873	1	2	1	2	1	i9x3dr		oh1f9j		32		Harry Hawbaker		Eian Coad	16 64 [5]
+21-25873	1	2	1	2	1	t5w5iz		im08w0		32		Jeff Miller		Dalton Pregon	63 63
+21-25873	1	2	1	2	1	ckr496		qh1f9j		32	6	Peter Walkwitz		Aidan Hunter	76(2) 36 [7]
+21-25873	1	2	1	2	1	zt856b		c34ba1		32		Cole Lohoefener		Sam Soon	Walkover
+21-25873	1	2	1	2	1	0fb17t		b0xcvi		32	3	Stefan Zrnic		Sean Gelski	61 46 [8]
+21-25873	1	2	1	2	1	9brdrx		8jvpnp		32		Nate Withers		Jack Veber	63 60
+21-25873	1	2	1	2	1	6u4kss		hk8eo2		32	8	Aaron Price		Desmond Looft	62 64
+21-25873	1	2	1	2	1	wo9cju		heugu0		32		Ayden Fletcher		Daniel Bernhardsen	62 61
+21-25873	1	2	1	2	1	yscqku		drxld9		32	2	Alex Palomar		Joseph Haag	60 75
+21-25873	1	2	1	1	1	5jt9hh		n0emae		64		Hunter Gerhardt		Bode Carter	86
+21-25873	1	2	1	1	1	6goq86		dpm1k7		64		Luke Smith		Jacob Balfany	87(5)
+21-25873	1	2	1	1	1	e8kece		m32v4t		64		Juan Pablo Rosaldo		Jacob Alden	82
+21-25873	1	2	1	1	1	d3llpx		ajcz2l		64		Caleb Hamerlinck		Hayden Retzlaff	85
+21-25873	1	2	1	1	1	qh1f9j		rfqvgh		64		Aidan Hunter		Rob Arbuckle	82
+21-25873	1	2	1	1	1	b0xcvi		wrz1jh		64		Sean Gelski		Adam Velazquez	87(8)
+21-25873	1	2	1	1	1	hk8eo2		54jghm		64		Desmond Looft		Ethan Weber	84
+21-25873	1	2	1	1	1	drxld9		abpxlp		64		Joseph Haag		Thomas Kampmier	83
+21-25873	1	3	1	6	1	7v0ze9		skpo3y		F		Nico Martinez Biali		Kareem Kassas	87(3)
+21-25873	1	3	1	5	1	skpo3y		169ujc		SF		Kareem Kassas		Connor Fuzzey	85
+21-25873	1	3	1	5	1	7v0ze9		zvh9t5		SF		Nico Martinez Biali		Peter Heryla	83
+21-25873	1	3	1	4	1	169ujc		u4yaqa		QF		Connor Fuzzey		Jared Burstein	86
+21-25873	1	3	1	4	1	skpo3y		psvg5y		QF		Kareem Kassas		Sebastian Zavala Br…	87(5)
+21-25873	1	3	1	4	1	7v0ze9		ztrvrf		QF		Nico Martinez Biali		Ryan Webb	83
+21-25873	1	3	1	4	1	zvh9t5		5scqku		QF		Peter Heryla		Kevin Lopez	84
+21-25873	1	3	1	3	1	u4yaqa		k2p63g		16		Jared Burstein		Kaleb Flenker	86
+21-25873	1	3	1	3	1	169ujc		qrevs5		16		Connor Fuzzey		Jake Brend	81
+21-25873	1	3	1	3	1	psvg5y		bdhrtn		16		Sebastian Zavala Br…		Nils Empen	82
+21-25873	1	3	1	3	1	skpo3y		pmysqs		16		Kareem Kassas		Brock Bruns	84
+21-25873	1	3	1	3	1	7v0ze9		iigkg4		16		Nico Martinez Biali		Miles Meier	86
+21-25873	1	3	1	3	1	ztrvrf		vl4taj		16		Ryan Webb		Gabe Matthias	85
+21-25873	1	3	1	3	1	5scqku		wrgbyd		16		Kevin Lopez		Nolan Teubel	87
+21-25873	1	3	1	3	1	zvh9t5		70g2gm		16		Peter Heryla		Julian Nemers	82
+21-25873	1	3	1	2	1	k2p63g		46bapk		32		Kaleb Flenker		Michael Turnley	63 75
+21-25873	1	3	1	2	1	u4yaqa		wwuyui		32		Jared Burstein		Sam Brickley	36 60 [7]
+21-25873	1	3	1	2	1	169ujc		ob8n6t		32		Connor Fuzzey		Brady McIntyre	60 60
+21-25873	1	3	1	2	1	qrevs5		k5upcr		32		Jake Brend		Benjamen Austin	64 76(4)
+21-25873	1	3	1	2	1	bdhrtn		65dfxv		32		Nils Empen		Gannon Harrington	61 60
+21-25873	1	3	1	2	1	psvg5y		iwdofm		32		Sebastian Zavala Br…		Garrett Janssen	62 61
+21-25873	1	3	1	2	1	skpo3y		twdofm		32		Kareem Kassas		Chase Henry	63 60
+21-25873	1	3	1	2	1	pmysqs		w5w5iz		32		Brock Bruns		Dylan Roseburrough	61 60
+21-25873	1	3	1	2	1	iigkg4		2kpo3y		32		Miles Meier		Ryan Kiddle	62 64
+21-25873	1	3	1	2	1	7v0ze9		77595t		32		Nico Martinez Biali		Nash Christian	61 62
+21-25873	1	3	1	2	1	vl4taj		uhipof		32		Gabe Matthias		Brett Batkoff	57 63 [2]
+21-25873	1	3	1	2	1	5scqku		phk5un		32		Kevin Lopez		Sam Timp	60 61
+21-25873	1	3	1	2	1	wrgbyd		est0zq		32		Nolan Teubel		Diego Diaz	63 62
+21-25873	1	3	1	2	1	70g2gm		881ora		32		Julian Nemers		Josh Husemann	61 62
+21-25873	1	3	1	2	1	zvh9t5		cg50n2		32		Peter Heryla		Martin Harrington	62 60
+21-25873	1	3	1	1	1	k2p63g		e4h0be		64		Kaleb Flenker		Dylan Determan	85
+21-25873	1	3	1	1	1	u4yaqa		y5w5iz		64		Jared Burstein		Jeremiah Montgomery	80
+21-25873	1	3	1	1	1	169ujc		6v0ze9		64		Connor Fuzzey		Victor Nop	80
+21-25873	1	3	1	1	1	65dfxv		6ac8kc		64		Gannon Harrington		Luke Snyder	85
+21-25873	1	3	1	1	1	iwdofm		qu4kss		64		Garrett Janssen		Nick Rose	82
+21-25873	1	3	1	1	1	skpo3y		u34ba1		64		Kareem Kassas		Zach Norman	80
+21-25873	1	3	1	1	1	77595t		s26gic		64		Nash Christian		Jeremiah Allen	84
+21-25873	1	3	1	1	1	vl4taj		2jvpnp		64		Gabe Matthias		Shimon Yonekura	86
+21-25873	1	3	1	1	1	wrgbyd		1vh9t5		64		Nolan Teubel		Drake Downard	80
+21-25873	1	3	1	1	1	70g2gm		jnu7c9		64		Julian Nemers		Lucas Broom	83
+21-25873	1	3	1	1	1	zvh9t5		rwf4lu		64		Peter Heryla		Joshua Woolcott	81
+21-25873	1	4	1	1	1	tigkg4		45dfxv		F	4	Max Loen	3	Jon Lansing	Walkover
+21-25873	1	5	1	1	1	ckr496		i1a1wv		F	6	Peter Walkwitz		Konnor Barth	84
+21-25873	1	6	1	1	1	169ujc		zvh9t5		F		Connor Fuzzey		Peter Heryla	84
 21-36446	1	1	1	1	1	mmhibw		8k8eo2		32		Trey Hilderbrand		Ben Shelton	57 64 64
 21-36446	1	1	1	1	1	s7mjkp		fy7yts		32		Blaise Bicknell		Kento Yamada	46 76(2) 64
 21-36446	1	1	1	1	1	wac8kc		fjcz2l		32		Mattias Siimar		JC Roddick	63 64

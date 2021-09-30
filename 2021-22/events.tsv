@@ -1,11 +1,11 @@
 ---
 tournaments: 118
 events: 245
-eventsWithDraws: 64
-eventsWithoutDraws: 181
-draws: 298
-brackets: 697
-results: 5705
+eventsWithDraws: 66
+eventsWithoutDraws: 179
+draws: 309
+brackets: 710
+results: 6086
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -277,8 +277,19 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-24494	2			W	Women's Open Doubles				
 21-25213	1			W	Women's Open Singles				
 21-25213	2			W	Women's Open Doubles				
-21-25873	1			M	Men's Open Singles				
-21-25873	2			M	Men's Open Doubles				
+21-25873	1	1	1	M	Men's Open Singles	Flight A	Main	32,16,QF,SF,F	31
+21-25873	1	2	1	M	Men's Open Singles	Flight B	Main	64,32,16,QF,SF,F	63
+21-25873	1	2	2	M	Men's Open Singles	Flight B	Consolation	32Q,32,16,QF,SF,F	47
+21-25873	1	3	1	M	Men's Open Singles	Flight C	Main	64,32,16,QF,SF,F	63
+21-25873	1	3	2	M	Men's Open Singles	Flight C	Consolation	32Q,32,16,QF,SF,F	47
+21-25873	1	4	1	M	Men's Open Singles	A-Singles Third-Place	Main	F	1
+21-25873	1	5	1	M	Men's Open Singles	B-Singles Third-Place	Main	F	1
+21-25873	1	6	1	M	Men's Open Singles	C-Singles Third-Place	Main	F	1
+21-25873	2	1	1	M	Men's Open Doubles	Flight B	Main	64,32,16,QF,SF,F	63
+21-25873	2	1	2	M	Men's Open Doubles	Flight B	Consolation	32Q,32,16,QF,SF,F	47
+21-25873	2	2	1	M	Men's Open Doubles	Flight A	Main	16,QF,SF,F	15
+21-25873	2	3	1	M	Men's Open Doubles	A-Doubles Third-Place	Main	F	1
+21-25873	2	4	1	M	Men's Open Doubles	B-Doubles Third-Place	Main	F	1
 21-25876	1			W	Women's Open				
 21-26104	1			M	Men's Open				
 21-27941	1			M	Men's Open Singles				
