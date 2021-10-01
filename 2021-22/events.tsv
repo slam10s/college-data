@@ -1,11 +1,11 @@
 ---
 tournaments: 118
 events: 245
-eventsWithDraws: 66
-eventsWithoutDraws: 179
-draws: 309
-brackets: 710
-results: 6086
+eventsWithDraws: 80
+eventsWithoutDraws: 165
+draws: 349
+brackets: 923
+results: 7761
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -90,8 +90,34 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-00238	4	4	2	W	Women's Open Doubles	Flight 3	West	SF,F	3
 21-00238	4	4	3	W	Women's Open Doubles	Flight 3	3-4 Playoff	F	1
 21-00238	4	4	4	W	Women's Open Doubles	Flight 3	South	F	1
-21-00709	1			W	Women's Open Singles				
-21-00709	2			W	Women's Open Doubles				
+21-00709	1	1	1	W	Women's Open Singles	Grey	East	QF,SF,F	7
+21-00709	1	1	2	W	Women's Open Singles	Grey	West	SF,F	3
+21-00709	1	1	3	W	Women's Open Singles	Grey	3-4 Playoff	F	1
+21-00709	1	1	4	W	Women's Open Singles	Grey	South	F	1
+21-00709	1	2	1	W	Women's Open Singles	Scarlet	East	QF,SF,F	7
+21-00709	1	2	2	W	Women's Open Singles	Scarlet	West	SF,F	3
+21-00709	1	2	3	W	Women's Open Singles	Scarlet	3-4 Playoff	F	1
+21-00709	1	2	4	W	Women's Open Singles	Scarlet	South	F	1
+21-00709	1	3	1	W	Women's Open Singles	Black	East	QF,SF,F	7
+21-00709	1	3	2	W	Women's Open Singles	Black	West	SF,F	3
+21-00709	1	3	3	W	Women's Open Singles	Black	3-4 Playoff	F	1
+21-00709	1	3	4	W	Women's Open Singles	Black	South	F	1
+21-00709	1	4	1	W	Women's Open Singles	Silver	East	QF,SF,F	7
+21-00709	1	4	2	W	Women's Open Singles	Silver	West	SF,F	3
+21-00709	1	4	3	W	Women's Open Singles	Silver	3-4 Playoff	F	1
+21-00709	1	4	4	W	Women's Open Singles	Silver	South	F	1
+21-00709	1	5	1	W	Women's Open Singles	Gold	East	QF,SF,F	7
+21-00709	1	5	2	W	Women's Open Singles	Gold	West	SF,F	3
+21-00709	1	5	3	W	Women's Open Singles	Gold	3-4 Playoff	F	1
+21-00709	1	5	4	W	Women's Open Singles	Gold	South	F	1
+21-00709	2	1	1	W	Women's Open Doubles	Scarlet	East	QF,SF,F	7
+21-00709	2	1	2	W	Women's Open Doubles	Scarlet	West	SF,F	3
+21-00709	2	1	3	W	Women's Open Doubles	Scarlet	3-4 Playoff	F	1
+21-00709	2	1	4	W	Women's Open Doubles	Scarlet	South	F	1
+21-00709	2	2	1	W	Women's Open Doubles	Black	East	QF,SF,F	7
+21-00709	2	2	2	W	Women's Open Doubles	Black	West	SF,F	3
+21-00709	2	2	3	W	Women's Open Doubles	Black	3-4 Playoff	F	1
+21-00709	2	2	4	W	Women's Open Doubles	Black	South	F	1
 21-01301	1			M	Men's Open				
 21-01301	2			M	Men's Open Singles				
 21-01301	3			M	Men's Open Doubles				
@@ -106,18 +132,160 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-02376	2			W	Women's Open Singles				
 21-02376	3			M	Men's Open Doubles				
 21-02376	4			W	Women's Open Doubles				
-21-03077	1			W	Women's Open Singles				
-21-03077	2			W	Women's Open Doubles				
+21-03077	1	1	1	W	Women's Open Singles	Draw	Main	128,64,32,16,QF,SF,F	127
+21-03077	1	1	2	W	Women's Open Singles	Draw	Consolation	64Q,64,32,16,QF,SF,F	95
+21-03077	2	1	1	W	Women's Open Doubles	Draw	Main	64,32,16,QF,SF,F	63
 21-03887	1			W	Women's Open Singles				
 21-03887	2			W	Women's Open Doubles				
 21-05118	1			W	Women's Open Singles				
 21-05118	2			W	Women's Open Doubles				
 21-05800	1			M	Men's Open Singles				
 21-05800	2			M	Men's Open Doubles				
-21-07548	1			M	Men's Open Singles				
-21-07548	2			W	Women's Open Singles				
-21-07548	3			M	Men's Open Doubles				
-21-07548	4			W	Women's Open Doubles				
+21-07548	1	1	1	M	Men's Open Singles	Singles Flight A1	East	16,QF,SF,F	15
+21-07548	1	1	2	M	Men's Open Singles	Singles Flight A1	West	QF,SF,F	7
+21-07548	1	1	3	M	Men's Open Singles	Singles Flight A1	North	SF,F	3
+21-07548	1	1	4	M	Men's Open Singles	Singles Flight A1	3-4 Playoff	F	1
+21-07548	1	1	5	M	Men's Open Singles	Singles Flight A1	South	SF,F	3
+21-07548	1	1	6	M	Men's Open Singles	Singles Flight A1	Southwest	F	1
+21-07548	1	1	7	M	Men's Open Singles	Singles Flight A1	Northwest	F	1
+21-07548	1	1	8	M	Men's Open Singles	Singles Flight A1	Southeast	F	1
+21-07548	1	2	1	M	Men's Open Singles	Singles Flight A2	East	16,QF,SF,F	15
+21-07548	1	2	2	M	Men's Open Singles	Singles Flight A2	West	QF,SF,F	7
+21-07548	1	2	3	M	Men's Open Singles	Singles Flight A2	North	SF,F	3
+21-07548	1	2	4	M	Men's Open Singles	Singles Flight A2	3-4 Playoff	F	1
+21-07548	1	2	5	M	Men's Open Singles	Singles Flight A2	South	SF,F	3
+21-07548	1	2	6	M	Men's Open Singles	Singles Flight A2	Southwest	F	1
+21-07548	1	2	7	M	Men's Open Singles	Singles Flight A2	Northwest	F	1
+21-07548	1	2	8	M	Men's Open Singles	Singles Flight A2	Southeast	F	1
+21-07548	1	3	1	M	Men's Open Singles	Singles Flight B1	East	16,QF,SF,F	15
+21-07548	1	3	2	M	Men's Open Singles	Singles Flight B1	West	QF,SF,F	7
+21-07548	1	3	3	M	Men's Open Singles	Singles Flight B1	North	SF,F	3
+21-07548	1	3	4	M	Men's Open Singles	Singles Flight B1	3-4 Playoff	F	1
+21-07548	1	3	5	M	Men's Open Singles	Singles Flight B1	South	SF,F	3
+21-07548	1	3	6	M	Men's Open Singles	Singles Flight B1	Southwest	F	1
+21-07548	1	3	7	M	Men's Open Singles	Singles Flight B1	Northwest	F	1
+21-07548	1	3	8	M	Men's Open Singles	Singles Flight B1	Southeast	F	1
+21-07548	1	4	1	M	Men's Open Singles	Singles Flight B2	East	16,QF,SF,F	15
+21-07548	1	4	2	M	Men's Open Singles	Singles Flight B2	West	QF,SF,F	7
+21-07548	1	4	3	M	Men's Open Singles	Singles Flight B2	North	SF,F	3
+21-07548	1	4	4	M	Men's Open Singles	Singles Flight B2	3-4 Playoff	F	1
+21-07548	1	4	5	M	Men's Open Singles	Singles Flight B2	South	SF,F	3
+21-07548	1	4	6	M	Men's Open Singles	Singles Flight B2	Southwest	F	1
+21-07548	1	4	7	M	Men's Open Singles	Singles Flight B2	Northwest	F	1
+21-07548	1	4	8	M	Men's Open Singles	Singles Flight B2	Southeast	F	1
+21-07548	1	5	1	M	Men's Open Singles	Singles Flight C1	East	16,QF,SF,F	15
+21-07548	1	5	2	M	Men's Open Singles	Singles Flight C1	West	QF,SF,F	7
+21-07548	1	5	3	M	Men's Open Singles	Singles Flight C1	North	SF,F	3
+21-07548	1	5	4	M	Men's Open Singles	Singles Flight C1	3-4 Playoff	F	1
+21-07548	1	5	5	M	Men's Open Singles	Singles Flight C1	South	SF,F	3
+21-07548	1	5	6	M	Men's Open Singles	Singles Flight C1	Southwest	F	1
+21-07548	1	5	7	M	Men's Open Singles	Singles Flight C1	Northwest	F	1
+21-07548	1	5	8	M	Men's Open Singles	Singles Flight C1	Southeast	F	1
+21-07548	1	6	1	M	Men's Open Singles	Singles Flight C2	East	16,QF,SF,F	15
+21-07548	1	6	2	M	Men's Open Singles	Singles Flight C2	West	QF,SF,F	7
+21-07548	1	6	3	M	Men's Open Singles	Singles Flight C2	North	SF,F	3
+21-07548	1	6	4	M	Men's Open Singles	Singles Flight C2	3-4 Playoff	F	1
+21-07548	1	6	5	M	Men's Open Singles	Singles Flight C2	South	SF,F	3
+21-07548	1	6	6	M	Men's Open Singles	Singles Flight C2	Southwest	F	1
+21-07548	1	6	7	M	Men's Open Singles	Singles Flight C2	Northwest	F	1
+21-07548	1	6	8	M	Men's Open Singles	Singles Flight C2	Southeast	F	1
+21-07548	2	1	1	W	Women's Open Singles	Singles Flight A1	East	16,QF,SF,F	15
+21-07548	2	1	2	W	Women's Open Singles	Singles Flight A1	West	QF,SF,F	7
+21-07548	2	1	3	W	Women's Open Singles	Singles Flight A1	North	SF,F	3
+21-07548	2	1	4	W	Women's Open Singles	Singles Flight A1	3-4 Playoff	F	1
+21-07548	2	1	5	W	Women's Open Singles	Singles Flight A1	South	SF,F	3
+21-07548	2	1	6	W	Women's Open Singles	Singles Flight A1	Southwest	F	1
+21-07548	2	1	7	W	Women's Open Singles	Singles Flight A1	Northwest	F	1
+21-07548	2	1	8	W	Women's Open Singles	Singles Flight A1	Southeast	F	1
+21-07548	2	2	1	W	Women's Open Singles	Singles Flight A2	East	16,QF,SF,F	15
+21-07548	2	2	2	W	Women's Open Singles	Singles Flight A2	West	QF,SF,F	7
+21-07548	2	2	3	W	Women's Open Singles	Singles Flight A2	North	SF,F	3
+21-07548	2	2	4	W	Women's Open Singles	Singles Flight A2	3-4 Playoff	F	1
+21-07548	2	2	5	W	Women's Open Singles	Singles Flight A2	South	SF,F	3
+21-07548	2	2	6	W	Women's Open Singles	Singles Flight A2	Southwest	F	1
+21-07548	2	2	7	W	Women's Open Singles	Singles Flight A2	Northwest	F	1
+21-07548	2	2	8	W	Women's Open Singles	Singles Flight A2	Southeast	F	1
+21-07548	2	3	1	W	Women's Open Singles	Singles Flight B1	East	16,QF,SF,F	15
+21-07548	2	3	2	W	Women's Open Singles	Singles Flight B1	West	QF,SF,F	7
+21-07548	2	3	3	W	Women's Open Singles	Singles Flight B1	North	SF,F	3
+21-07548	2	3	4	W	Women's Open Singles	Singles Flight B1	3-4 Playoff	F	1
+21-07548	2	3	5	W	Women's Open Singles	Singles Flight B1	South	SF,F	3
+21-07548	2	3	6	W	Women's Open Singles	Singles Flight B1	Southwest	F	1
+21-07548	2	3	7	W	Women's Open Singles	Singles Flight B1	Northwest	F	1
+21-07548	2	3	8	W	Women's Open Singles	Singles Flight B1	Southeast	F	1
+21-07548	2	4	1	W	Women's Open Singles	Singles Flight B2	East	16,QF,SF,F	15
+21-07548	2	4	2	W	Women's Open Singles	Singles Flight B2	West	QF,SF,F	7
+21-07548	2	4	3	W	Women's Open Singles	Singles Flight B2	North	SF,F	3
+21-07548	2	4	4	W	Women's Open Singles	Singles Flight B2	3-4 Playoff	F	1
+21-07548	2	4	5	W	Women's Open Singles	Singles Flight B2	South	SF,F	3
+21-07548	2	4	6	W	Women's Open Singles	Singles Flight B2	Southwest	F	1
+21-07548	2	4	7	W	Women's Open Singles	Singles Flight B2	Northwest	F	1
+21-07548	2	4	8	W	Women's Open Singles	Singles Flight B2	Southeast	F	1
+21-07548	2	5	1	W	Women's Open Singles	Singles Flight C1	East	16,QF,SF,F	15
+21-07548	2	5	2	W	Women's Open Singles	Singles Flight C1	West	QF,SF,F	7
+21-07548	2	5	3	W	Women's Open Singles	Singles Flight C1	North	SF,F	3
+21-07548	2	5	4	W	Women's Open Singles	Singles Flight C1	3-4 Playoff	F	1
+21-07548	2	5	5	W	Women's Open Singles	Singles Flight C1	South	SF,F	3
+21-07548	2	5	6	W	Women's Open Singles	Singles Flight C1	Southwest	F	1
+21-07548	2	5	7	W	Women's Open Singles	Singles Flight C1	Northwest	F	1
+21-07548	2	5	8	W	Women's Open Singles	Singles Flight C1	Southeast	F	1
+21-07548	2	6	1	W	Women's Open Singles	Singles Flight C2	East	16,QF,SF,F	15
+21-07548	2	6	2	W	Women's Open Singles	Singles Flight C2	West	QF,SF,F	7
+21-07548	2	6	3	W	Women's Open Singles	Singles Flight C2	North	SF,F	3
+21-07548	2	6	4	W	Women's Open Singles	Singles Flight C2	3-4 Playoff	F	1
+21-07548	2	6	5	W	Women's Open Singles	Singles Flight C2	South	SF,F	3
+21-07548	2	6	6	W	Women's Open Singles	Singles Flight C2	Southwest	F	1
+21-07548	2	6	7	W	Women's Open Singles	Singles Flight C2	Northwest	F	1
+21-07548	2	6	8	W	Women's Open Singles	Singles Flight C2	Southeast	F	1
+21-07548	2	7	1	W	Women's Open Singles	Singles Flight D	Main	R1,R2,R3,R4,R5	15
+21-07548	3	1	1	M	Men's Open Doubles	Doubles Flight A	East	16,QF,SF,F	15
+21-07548	3	1	2	M	Men's Open Doubles	Doubles Flight A	West	QF,SF,F	7
+21-07548	3	1	3	M	Men's Open Doubles	Doubles Flight A	North	SF,F	3
+21-07548	3	1	4	M	Men's Open Doubles	Doubles Flight A	3-4 Playoff	F	1
+21-07548	3	1	5	M	Men's Open Doubles	Doubles Flight A	South	SF,F	3
+21-07548	3	1	6	M	Men's Open Doubles	Doubles Flight A	Southwest	F	1
+21-07548	3	1	7	M	Men's Open Doubles	Doubles Flight A	Northwest	F	1
+21-07548	3	1	8	M	Men's Open Doubles	Doubles Flight A	Southeast	F	1
+21-07548	3	2	1	M	Men's Open Doubles	Doubles Flight B	East	16,QF,SF,F	15
+21-07548	3	2	2	M	Men's Open Doubles	Doubles Flight B	West	QF,SF,F	7
+21-07548	3	2	3	M	Men's Open Doubles	Doubles Flight B	North	SF,F	3
+21-07548	3	2	4	M	Men's Open Doubles	Doubles Flight B	3-4 Playoff	F	1
+21-07548	3	2	5	M	Men's Open Doubles	Doubles Flight B	South	SF,F	3
+21-07548	3	2	6	M	Men's Open Doubles	Doubles Flight B	Southwest	F	1
+21-07548	3	2	7	M	Men's Open Doubles	Doubles Flight B	Northwest	F	1
+21-07548	3	2	8	M	Men's Open Doubles	Doubles Flight B	Southeast	F	1
+21-07548	3	3	1	M	Men's Open Doubles	Doubles Flight C	East	16,QF,SF,F	15
+21-07548	3	3	2	M	Men's Open Doubles	Doubles Flight C	West	QF,SF,F	7
+21-07548	3	3	3	M	Men's Open Doubles	Doubles Flight C	North	SF,F	3
+21-07548	3	3	4	M	Men's Open Doubles	Doubles Flight C	3-4 Playoff	F	1
+21-07548	3	3	5	M	Men's Open Doubles	Doubles Flight C	South	SF,F	3
+21-07548	3	3	6	M	Men's Open Doubles	Doubles Flight C	Southwest	F	1
+21-07548	3	3	7	M	Men's Open Doubles	Doubles Flight C	Northwest	F	1
+21-07548	3	3	8	M	Men's Open Doubles	Doubles Flight C	Southeast	F	1
+21-07548	4	1	1	W	Women's Open Doubles	Doubles Flight A	East	16,QF,SF,F	15
+21-07548	4	1	2	W	Women's Open Doubles	Doubles Flight A	West	QF,SF,F	7
+21-07548	4	1	3	W	Women's Open Doubles	Doubles Flight A	North	SF,F	3
+21-07548	4	1	4	W	Women's Open Doubles	Doubles Flight A	3-4 Playoff	F	1
+21-07548	4	1	5	W	Women's Open Doubles	Doubles Flight A	South	SF,F	3
+21-07548	4	1	6	W	Women's Open Doubles	Doubles Flight A	Southwest	F	1
+21-07548	4	1	7	W	Women's Open Doubles	Doubles Flight A	Northwest	F	1
+21-07548	4	1	8	W	Women's Open Doubles	Doubles Flight A	Southeast	F	1
+21-07548	4	2	1	W	Women's Open Doubles	Doubles Flight B	East	16,QF,SF,F	15
+21-07548	4	2	2	W	Women's Open Doubles	Doubles Flight B	West	QF,SF,F	7
+21-07548	4	2	3	W	Women's Open Doubles	Doubles Flight B	North	SF,F	3
+21-07548	4	2	4	W	Women's Open Doubles	Doubles Flight B	3-4 Playoff	F	1
+21-07548	4	2	5	W	Women's Open Doubles	Doubles Flight B	South	SF,F	3
+21-07548	4	2	6	W	Women's Open Doubles	Doubles Flight B	Southwest	F	1
+21-07548	4	2	7	W	Women's Open Doubles	Doubles Flight B	Northwest	F	1
+21-07548	4	2	8	W	Women's Open Doubles	Doubles Flight B	Southeast	F	1
+21-07548	4	3	1	W	Women's Open Doubles	Doubles Flight C	East	16,QF,SF,F	15
+21-07548	4	3	2	W	Women's Open Doubles	Doubles Flight C	West	QF,SF,F	7
+21-07548	4	3	3	W	Women's Open Doubles	Doubles Flight C	North	SF,F	3
+21-07548	4	3	4	W	Women's Open Doubles	Doubles Flight C	3-4 Playoff	F	1
+21-07548	4	3	5	W	Women's Open Doubles	Doubles Flight C	South	SF,F	3
+21-07548	4	3	6	W	Women's Open Doubles	Doubles Flight C	Southwest	F	1
+21-07548	4	3	7	W	Women's Open Doubles	Doubles Flight C	Northwest	F	1
+21-07548	4	3	8	W	Women's Open Doubles	Doubles Flight C	Southeast	F	1
 21-08423	1			M	Men's Open Singles				
 21-08423	2			M	Men's Open Doubles				
 21-08925	1			W	Women's Open Singles				
@@ -178,8 +346,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-15800	2	1	1	W	Women's Open Doubles	D: WILL v MID & SKID v WELL	Main	16,QF,SF,F	15
 21-16089	1			W	Women's Open Singles				
 21-16089	2			W	Women's Open Doubles				
-21-17427	1			W	Women's Open Singles				
-21-17427	2			W	Women's Open Doubles				
+21-17427	1	1	1	W	Women's Open Singles	Draw	Main	128,64,32,16,QF,SF,F	127
+21-17427	2	1	1	W	Women's Open Doubles	Draw	Main	64,32,16,QF,SF,F	63
 21-17543	1			M	Men's Open Singles				
 21-17543	2			M	Men's Open Doubles				
 21-18906	1			W	Women's Open Singles				
@@ -544,8 +712,9 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-52217	2			W	Women's Open Doubles				
 21-52871	1			W	Women's Open Singles				
 21-52871	2			W	Women's Open Doubles				
-21-54831	1			W	Women's Open Singles				
-21-54831	2			W	Women's Open Doubles				
+21-54831	1	1	1	W	Women's Open Singles	Main Draw	Main	128,64,32,16,QF,SF,F	127
+21-54831	1	2	1	W	Women's Open Singles	Backdraw	Main	128,64,32,16,QF,SF,F	127
+21-54831	2	1	1	W	Women's Open Doubles	Main Draw	Main	64,32,16,QF,SF,F	63
 21-55204	1			M	Men's Open Singles				
 21-55204	2			M	Men's Open Doubles				
 21-56448	1	1	1	M	Men's Open Singles	Blue	Main	R1,R2,R3	12
@@ -619,8 +788,38 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-59010	2			M	Men's Open Doubles				
 21-60419	1			W	Women's Open Singles				
 21-60419	2			W	Women's Open Doubles				
-21-60580	1			W	Women's Open Singles				
-21-60580	2			W	Women's Open Doubles				
+21-60580	1	1	1	W	Women's Open Singles	Flight A	East	32,16,QF,SF,F	31
+21-60580	1	1	2	W	Women's Open Singles	Flight A	West	16,QF,SF,F	15
+21-60580	1	1	3	W	Women's Open Singles	Flight A	North	QF,SF,F	7
+21-60580	1	1	4	W	Women's Open Singles	Flight A	Northeast	SF,F	3
+21-60580	1	1	5	W	Women's Open Singles	Flight A	South	QF,SF,F	7
+21-60580	1	1	6	W	Women's Open Singles	Flight A	Southwest	SF,F	3
+21-60580	1	1	7	W	Women's Open Singles	Flight A	Northwest	SF,F	3
+21-60580	1	1	8	W	Women's Open Singles	Flight A	Southeast	SF,F	3
+21-60580	1	2	1	W	Women's Open Singles	Flight B	East	32,16,QF,SF,F	31
+21-60580	1	2	2	W	Women's Open Singles	Flight B	West	16,QF,SF,F	15
+21-60580	1	2	3	W	Women's Open Singles	Flight B	North	QF,SF,F	7
+21-60580	1	2	4	W	Women's Open Singles	Flight B	Northeast	SF,F	3
+21-60580	1	2	5	W	Women's Open Singles	Flight B	South	QF,SF,F	7
+21-60580	1	2	6	W	Women's Open Singles	Flight B	Southwest	SF,F	3
+21-60580	1	2	7	W	Women's Open Singles	Flight B	Northwest	SF,F	3
+21-60580	1	2	8	W	Women's Open Singles	Flight B	Southeast	SF,F	3
+21-60580	2	1	1	W	Women's Open Doubles	Flight A	East	16,QF,SF,F	15
+21-60580	2	1	2	W	Women's Open Doubles	Flight A	West	QF,SF,F	7
+21-60580	2	1	3	W	Women's Open Doubles	Flight A	North	SF,F	3
+21-60580	2	1	4	W	Women's Open Doubles	Flight A	3-4 Playoff	F	1
+21-60580	2	1	5	W	Women's Open Doubles	Flight A	South	SF,F	3
+21-60580	2	1	6	W	Women's Open Doubles	Flight A	Southwest	F	1
+21-60580	2	1	7	W	Women's Open Doubles	Flight A	Northwest	F	1
+21-60580	2	1	8	W	Women's Open Doubles	Flight A	Southeast	F	1
+21-60580	2	2	1	W	Women's Open Doubles	Flight B	East	16,QF,SF,F	15
+21-60580	2	2	2	W	Women's Open Doubles	Flight B	West	QF,SF,F	7
+21-60580	2	2	3	W	Women's Open Doubles	Flight B	North	SF,F	3
+21-60580	2	2	4	W	Women's Open Doubles	Flight B	3-4 Playoff	F	1
+21-60580	2	2	5	W	Women's Open Doubles	Flight B	South	SF,F	3
+21-60580	2	2	6	W	Women's Open Doubles	Flight B	Southwest	F	1
+21-60580	2	2	7	W	Women's Open Doubles	Flight B	Northwest	F	1
+21-60580	2	2	8	W	Women's Open Doubles	Flight B	Southeast	F	1
 21-64248	1			M	Men's Open Singles				
 21-64248	2			M	Men's Open Doubles				
 21-64282	1			M	Men's Open Singles				
