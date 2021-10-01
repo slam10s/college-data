@@ -3,9 +3,9 @@ tournaments: 118
 events: 245
 eventsWithDraws: 80
 eventsWithoutDraws: 165
-draws: 349
-brackets: 923
-results: 7761
+draws: 347
+brackets: 922
+results: 7634
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -713,7 +713,6 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-52871	1			W	Women's Open Singles				
 21-52871	2			W	Women's Open Doubles				
 21-54831	1	1	1	W	Women's Open Singles	Main Draw	Main	128,64,32,16,QF,SF,F	127
-21-54831	1	2	1	W	Women's Open Singles	Backdraw	Main	128,64,32,16,QF,SF,F	127
 21-54831	2	1	1	W	Women's Open Doubles	Main Draw	Main	64,32,16,QF,SF,F	63
 21-55204	1			M	Men's Open Singles				
 21-55204	2			M	Men's Open Doubles				

@@ -1,9 +1,9 @@
 ---
 tournaments: 33
-players: 879
-matches: 1307
-completed: 1266
-scheduled: 41
+players: 883
+matches: 1355
+completed: 1316
+scheduled: 39
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	hatiz8		p81ora		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -72,49 +72,97 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00238	1	7	2	1	1	k0xcvi		2bpxlp		F		Sebastian Holden		Ugo Fiorito	60 75
 21-00238	1	7	3	1	1	lrevs5		teww08		F		Peter Blair		Alberto Rodriguez	60 60
 21-00238	1	7	4	1	1	hp77bj		eb8n6t		F		Mikaeel Woodman		Iker Lorenzo Brull	61 63
-21-07548	1	1	1	1		7l4taj		qfsbmp		16	1	Carles Sarrio		Guido Luna	Fri @ 09:30
-21-07548	1	1	1	1		d0zs1q		77ozqx		16		LUCAS WAYENBURG		Karol Malirz	Fri @ 09:30
-21-07548	1	1	1	1		p1trhz		omhibw		16	4	Roberts Grinvalds		Vanja Dobrnjac	Fri @ 09:30
-21-07548	1	1	1	1		ey5ink		unfd3l		16		Pol Del Castillo		Mark Tryakshin	Fri @ 09:30
-21-07548	1	1	1	1		avh9t5		ab8n6t		16		Ryan Gaskin		Hayden Shoemake	Fri @ 09:30
-21-07548	1	1	1	1		nh1f9j		7x9313		16		Ruan Du Preez	3	Kevin Huempfner	Fri @ 09:30
-21-07548	1	1	1	1		peww08		s40qwi		16		Kevin Patel		Nino Portugal	Fri @ 09:30
-21-07548	1	1	1	1		r28wok		hpm1k7		16		Javier Llinares	2	Gaston Cantero	Fri @ 09:30
-21-07548	1	2	1	1		68kece		ckr496		16	1	Mihai Marinescu		Cheng En Tsai	Fri @ 09:30
-21-07548	1	2	1	1		e0zs1q		mkr496		16		Seru Tezuka		Alexandre Verlaguet	Fri @ 09:30
-21-07548	1	2	1	1		t1trhz		9l4taj		16	3	Nicolas Jadoun		Thomas Norwood	Fri @ 09:30
-21-07548	1	2	1	1		cdhrtn		3jajwd		16		Gabriel Cizek		Chris Andre	Fri @ 09:30
-21-07548	1	2	1	1		67ozqx		tst0zq		16		David Mulas	4	Andrei Duarte	Fri @ 09:30
-21-07548	1	2	1	1		npm1k7		yrxld9		16		Joaquin Benoit		DAVID GEORGADZE	Fri @ 09:30
-21-07548	1	2	1	1		4jcz2l		fnu7c9		16		Alexandros Roumpis	2	Vicente Arbelaez Pr…	Fri @ 09:30
-21-07548	1	3	1	1		1l4taj		b9edsn		16	1	Finn Stodder		Zvonko Bencrdic	Fri @ 11:00
-21-07548	1	3	1	1		1ixuv0		ajt9hh		16		DANNY FLYNN		Matthew Gedney	Fri @ 09:30
-21-07548	1	3	1	1		tt856b		kg7gta		16	4	Noah Martens		Zach Waldow	Fri @ 09:30
-21-07548	1	3	1	1		0c42sa		kz3df9		16		Hunter Robbins		Gavin Thomas	Fri @ 09:30
-21-07548	1	3	1	1		zfsbmp		75w5iz		16		Sebastian Murillo		Diego Padilha	Fri @ 09:30
-21-07548	1	3	1	1		11trhz		97ozqx		16		Gabriel Diaz	3	Hugo Salmeron	Fri @ 11:00
-21-07548	1	3	1	1		r26gic		4ulu7o		16		Jordi Blanchar		David Jeanne-Grandi…	Fri @ 11:00
-21-07548	1	3	1	1		nq16rs		52p63g		16		Thibault Jacq	2	Valentin Dun	Fri @ 11:00
-21-07548	1	4	1	1		6rz1jh		qgoq86		16	1	Edward Tymes		Santiago Speranza	Fri @ 11:30
-21-07548	1	4	1	1		j7ozqx		ied6f4		16		Giulio Sassi		Daisuke Inagawa	Fri @ 11:30
-21-07548	1	4	1	1		1xqdgz		ahipof		16	4	Samrakshyak Bajrach…		Alex Amacher	Fri @ 11:30
-21-07548	1	4	1	1		jhk5un		ro9cju		16		SAMUEL MACLEOD		Francisco Erramuspe	Fri @ 11:30
-21-07548	1	4	1	1		632v4t		eb670l		16		SAMUEL BARROW		Daniel Botti	Fri @ 11:30
-21-07548	1	4	1	1		mfb17t		e7595t		16		Alex Suk	3	Maxime Hillhouse	Fri @ 11:30
-21-07548	1	4	1	1		nxstm7		r834xi		16		Juan Rodriguez		Jesus Villamizar	Fri @ 11:30
-21-07548	1	4	1	1		4obsp2		9z3df9		16		Luke Stuart	2	Alexander Vishnevsk…	Fri @ 11:30
+21-07548	1	1	1	3		7l4taj		p1trhz		SF	1	Carles Sarrio	4	Roberts Grinvalds	Sat @ 11:00
+21-07548	1	1	1	2	1	7l4taj		77ozqx		QF	1	Carles Sarrio		Karol Malirz	62 63
+21-07548	1	1	1	2	1	p1trhz		unfd3l		QF	4	Roberts Grinvalds		Mark Tryakshin	60 61
+21-07548	1	1	1	2	1	7x9313		avh9t5		QF	3	Kevin Huempfner		Ryan Gaskin	62 64
+21-07548	1	1	1	2		peww08		hpm1k7		QF		Kevin Patel	2	Gaston Cantero	Fri @ 13:30
+21-07548	1	1	1	1	1	7l4taj		qfsbmp		16	1	Carles Sarrio		Guido Luna	61 64
+21-07548	1	1	1	1	1	77ozqx		d0zs1q		16		Karol Malirz		LUCAS WAYENBURG	26 64 61
+21-07548	1	1	1	1	1	p1trhz		omhibw		16	4	Roberts Grinvalds		Vanja Dobrnjac	64 64
+21-07548	1	1	1	1	1	unfd3l		ey5ink		16		Mark Tryakshin		Pol Del Castillo	57 64 64
+21-07548	1	1	1	1	1	avh9t5		ab8n6t		16		Ryan Gaskin		Hayden Shoemake	63 63
+21-07548	1	1	1	1	1	7x9313		nh1f9j		16	3	Kevin Huempfner		Ruan Du Preez	64 64
+21-07548	1	1	1	1	1	peww08		s40qwi		16		Kevin Patel		Nino Portugal	60 63
+21-07548	1	1	1	1	1	hpm1k7		r28wok		16	2	Gaston Cantero		Javier Llinares	63 62
+21-07548	1	1	2	2		d0zs1q		ey5ink		SF		LUCAS WAYENBURG		Pol Del Castillo	Sat @ 11:00
+21-07548	1	1	2	2		ab8n6t		r28wok		SF		Hayden Shoemake		Javier Llinares	Sat @ 11:00
+21-07548	1	1	2	1	1	d0zs1q		qfsbmp		QF		LUCAS WAYENBURG		Guido Luna	61 63
+21-07548	1	1	2	1	1	ey5ink		omhibw		QF		Pol Del Castillo		Vanja Dobrnjac	61 60
+21-07548	1	1	2	1	1	ab8n6t		nh1f9j		QF		Hayden Shoemake		Ruan Du Preez	64 61
+21-07548	1	1	2	1	1	r28wok		s40qwi		QF		Javier Llinares		Nino Portugal	62 64
+21-07548	1	1	3	1		77ozqx		unfd3l		SF		Karol Malirz		Mark Tryakshin	Sat @ 11:00
+21-07548	1	1	5	1		qfsbmp		omhibw		SF		Guido Luna		Vanja Dobrnjac	Sat @ 11:00
+21-07548	1	1	5	1		nh1f9j		s40qwi		SF		Ruan Du Preez		Nino Portugal	Sat @ 11:00
+21-07548	1	2	1	2		68kece		e0zs1q		QF	1	Mihai Marinescu		Seru Tezuka	Fri @ 13:30
+21-07548	1	2	1	2		t1trhz		m8iy66		QF	3	Nicolas Jadoun		Manuel Bernard	Fri @ 13:30
+21-07548	1	2	1	2		3jajwd		tst0zq		QF		Chris Andre	4	Andrei Duarte	Fri @ 13:30
+21-07548	1	2	1	2		npm1k7		fnu7c9		QF		Joaquin Benoit	2	Vicente Arbelaez Pr…	Fri @ 13:30
+21-07548	1	2	1	1	1	68kece		ckr496		16	1	Mihai Marinescu		Cheng En Tsai	64 61
+21-07548	1	2	1	1	1	e0zs1q		mkr496		16		Seru Tezuka		Alexandre Verlaguet	46 60 64
+21-07548	1	2	1	1	1	t1trhz		9l4taj		16	3	Nicolas Jadoun		Thomas Norwood	57 60 62
+21-07548	1	2	1	1	1	3jajwd		cdhrtn		16		Chris Andre		Gabriel Cizek	76(2) 62
+21-07548	1	2	1	1	1	tst0zq		67ozqx		16	4	Andrei Duarte		David Mulas	61 62
+21-07548	1	2	1	1	1	npm1k7		yrxld9		16		Joaquin Benoit		DAVID GEORGADZE	63 75
+21-07548	1	2	1	1	1	fnu7c9		4jcz2l		16	2	Vicente Arbelaez Pr…		Alexandros Roumpis	57 75 64
+21-07548	1	2	2	1		ckr496		mkr496		QF		Cheng En Tsai		Alexandre Verlaguet	Fri @ 14:00
+21-07548	1	2	2	1		cdhrtn		67ozqx		QF		Gabriel Cizek		David Mulas	Fri @ 14:00
+21-07548	1	2	2	1		yrxld9		4jcz2l		QF		DAVID GEORGADZE		Alexandros Roumpis	Fri @ 14:00
+21-07548	1	3	1	2		1l4taj		1ixuv0		QF	1	Finn Stodder		DANNY FLYNN	Fri @ 14:30
+21-07548	1	3	1	2		tt856b		0c42sa		QF	4	Noah Martens		Hunter Robbins	Fri @ 14:30
+21-07548	1	3	1	2		75w5iz		97ozqx		QF		Diego Padilha	3	Hugo Salmeron	Fri @ 14:30
+21-07548	1	3	1	2		4ulu7o		52p63g		QF		David Jeanne-Grandi…	2	Valentin Dun	Fri @ 14:30
+21-07548	1	3	1	1	1	1l4taj		b9edsn		16	1	Finn Stodder		Zvonko Bencrdic	61 64
+21-07548	1	3	1	1	1	1ixuv0		ajt9hh		16		DANNY FLYNN		Matthew Gedney	60 60
+21-07548	1	3	1	1	1	tt856b		kg7gta		16	4	Noah Martens		Zach Waldow	64 63
+21-07548	1	3	1	1	1	0c42sa		kz3df9		16		Hunter Robbins		Gavin Thomas	64 62
+21-07548	1	3	1	1	1	75w5iz		zfsbmp		16		Diego Padilha		Sebastian Murillo	64 67(7) 63
+21-07548	1	3	1	1	1	97ozqx		11trhz		16	3	Hugo Salmeron		Gabriel Diaz	62 61
+21-07548	1	3	1	1	1	4ulu7o		r26gic		16		David Jeanne-Grandi…		Jordi Blanchar	62 75
+21-07548	1	3	1	1	1	52p63g		nq16rs		16	2	Valentin Dun		Thibault Jacq	60 61
+21-07548	1	3	2	1		b9edsn		ajt9hh		QF		Zvonko Bencrdic		Matthew Gedney	Fri @ 15:00
+21-07548	1	3	2	1		kg7gta		kz3df9		QF		Zach Waldow		Gavin Thomas	Fri @ 15:00
+21-07548	1	3	2	1		zfsbmp		11trhz		QF		Sebastian Murillo		Gabriel Diaz	Fri @ 15:00
+21-07548	1	3	2	1		r26gic		nq16rs		QF		Jordi Blanchar		Thibault Jacq	Fri @ 15:00
+21-07548	1	4	1	2		6rz1jh		j7ozqx		QF	1	Edward Tymes		Giulio Sassi	Fri @ 15:30
+21-07548	1	4	1	2		1xqdgz		ro9cju		QF	4	Samrakshyak Bajrach…		Francisco Erramuspe	Fri @ 15:30
+21-07548	1	4	1	2		eb670l		e7595t		QF		Daniel Botti	3	Maxime Hillhouse	Fri @ 15:30
+21-07548	1	4	1	2		nxstm7		9z3df9		QF		Juan Rodriguez	2	Alexander Vishnevsk…	Fri @ 15:30
+21-07548	1	4	1	1	1	6rz1jh		qgoq86		16	1	Edward Tymes		Santiago Speranza	61 61
+21-07548	1	4	1	1	1	j7ozqx		ied6f4		16		Giulio Sassi		Daisuke Inagawa	61 62
+21-07548	1	4	1	1	1	1xqdgz		ahipof		16	4	Samrakshyak Bajrach…		Alex Amacher	75 75
+21-07548	1	4	1	1	1	ro9cju		jhk5un		16		Francisco Erramuspe		SAMUEL MACLEOD	63 30 Ret.
+21-07548	1	4	1	1	1	eb670l		632v4t		16		Daniel Botti		SAMUEL BARROW	46 63 76(3)
+21-07548	1	4	1	1	1	e7595t		mfb17t		16	3	Maxime Hillhouse		Alex Suk	63 63
+21-07548	1	4	1	1	1	nxstm7		r834xi		16		Juan Rodriguez		Jesus Villamizar	64 57 61
+21-07548	1	4	1	1	1	9z3df9		4obsp2		16	2	Alexander Vishnevsk…		Luke Stuart	64 75
+21-07548	1	4	2	1		qgoq86		ied6f4		QF		Santiago Speranza		Daisuke Inagawa	Fri @ 15:30
+21-07548	1	4	2	1		ahipof		jhk5un		QF		Alex Amacher		SAMUEL MACLEOD	Fri @ 15:30
+21-07548	1	4	2	1		632v4t		mfb17t		QF		SAMUEL BARROW		Alex Suk	Fri @ 15:30
+21-07548	1	4	2	1		r834xi		4obsp2		QF		Jesus Villamizar		Luke Stuart	Fri @ 15:30
+21-07548	1	5	1	2		y1trhz		m3n1v5		QF		Kristofer Johnson		Liam Stoica	Fri @ 15:30
+21-07548	1	5	1	2		et6p03		kk8eo2		QF	3	Cole Brainard		Ignacio Orgaz	Fri @ 15:30
+21-07548	1	5	1	2		8nwnih		fhipof		QF		Takafumi Mimata		Matis Amier	Fri @ 15:30
+21-07548	1	5	1	2		t8kece		qpohqf		QF		Nicolas Rodriguez		Daniel Osap	Fri @ 15:30
 21-07548	1	5	1	1	1	y1trhz		id0her		16		Kristofer Johnson	1	Patrick Lazo	Walkover
-21-07548	1	5	1	1		m3n1v5		m1ch23		16		Liam Stoica		Trey Maust	Fri @ 11:30
-21-07548	1	5	1	1		et6p03		4tpfl7		16	3	Cole Brainard		DANIEL KRASHIN	Fri @ 11:30
-21-07548	1	5	1	1		kk8eo2		pyms2g		16		Ignacio Orgaz		Thomas Brewer	Fri @ 11:30
-21-07548	1	5	1	1		8nwnih		06sk4g		16		Takafumi Mimata		Jorge Robinson	Fri @ 11:30
+21-07548	1	5	1	1	1	m3n1v5		m1ch23		16		Liam Stoica		Trey Maust	61 62
+21-07548	1	5	1	1	1	et6p03		4tpfl7		16	3	Cole Brainard		DANIEL KRASHIN	64 61
+21-07548	1	5	1	1	1	kk8eo2		pyms2g		16		Ignacio Orgaz		Thomas Brewer	16 62 63
+21-07548	1	5	1	1	1	8nwnih		06sk4g		16		Takafumi Mimata		Jorge Robinson	46 75 60
 21-07548	1	5	1	1	1	fhipof		n1ch23		16		Matis Amier	4	Jack Lee	Walkover
-21-07548	1	5	1	1		t8kece		q34ba1		16		Nicolas Rodriguez		David Lopez Cruz	Fri @ 11:30
-21-07548	1	5	1	1		qpohqf		bo9cju		16		Daniel Osap	2	Haktan Garayev	Fri @ 11:30
-21-07548	1	6	1	2		undxxd		qqkwcw		QF		Harrison Kim		Brody Millwood	Fri @ 12:30
-21-07548	1	6	1	1		4nfd3l		669ujc		16		Eloy Veloso		Dakotah Fuller	Fri @ 12:30
-21-07548	1	6	1	1		lg50n2		zavy5g		16		Jonathan Judy-Hansen		Khalen Wimes	Fri @ 12:30
-21-07548	1	6	1	1		wefmlc		s0xcvi		16		Eddie Wade		Erick Cruz	Fri @ 12:30
+21-07548	1	5	1	1	1	t8kece		q34ba1		16		Nicolas Rodriguez		David Lopez Cruz	61 61
+21-07548	1	5	1	1	1	qpohqf		bo9cju		16		Daniel Osap	2	Haktan Garayev	64 60
+21-07548	1	5	2	1	1	m1ch23		id0her		QF		Trey Maust	1	Patrick Lazo	Walkover
+21-07548	1	5	2	1		4tpfl7		pyms2g		QF		DANIEL KRASHIN		Thomas Brewer	Fri @ 16:00
+21-07548	1	5	2	1	1	06sk4g		n1ch23		QF		Jorge Robinson	4	Jack Lee	Walkover
+21-07548	1	5	2	1		q34ba1		bo9cju		QF		David Lopez Cruz	2	Haktan Garayev	Fri @ 16:00
+21-07548	1	6	1	2		rclc76		4nfd3l		QF	1	Connor Evenson		Eloy Veloso	Fri @ 16:30
+21-07548	1	6	1	2	1	undxxd		qqkwcw		QF		Harrison Kim		Brody Millwood	61 61
+21-07548	1	6	1	2		lg50n2		xiza18		QF		Jonathan Judy-Hansen		Rodrigo Zapata	Fri @ 16:30
+21-07548	1	6	1	2		s0xcvi		xnwnih		QF		Erick Cruz	2	Sebastian Nunez	Fri @ 16:30
+21-07548	1	6	1	1	1	4nfd3l		669ujc		16		Eloy Veloso		Dakotah Fuller	75 64
+21-07548	1	6	1	1	1	lg50n2		zavy5g		16		Jonathan Judy-Hansen		Khalen Wimes	60 60
+21-07548	1	6	1	1	1	s0xcvi		wefmlc		16		Erick Cruz		Eddie Wade	76(6) 16 62
 21-12886	2	1	1	3	1	i8kece		izknu5		F		Jan Semerak		Nick Mueller	64 64
 21-12886	2	1	1	2	1	i8kece		x28wok		SF		Jan Semerak		Josh Smith	76(4) 57 [7]
 21-12886	2	1	1	2	1	izknu5		u0g2gm		SF		Nick Mueller		Jack Selati	Walkover
