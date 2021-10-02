@@ -1,9 +1,9 @@
 ---
-tournaments: 33
+tournaments: 34
 players: 1180
-matches: 716
-completed: 677
-scheduled: 39
+matches: 730
+completed: 678
+scheduled: 52
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	4	1	1	3	1	05dfxv	y7ozqx	qgma2y	kac8kc	R3		Hunger/Simas		Aswal/Lozano	62
@@ -566,6 +566,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-50226	2	18	1	1	1	y7mjkp	cvyj81	oq16rs	1xstm7	F		Almiron/Bukina		Haagensen/Stepan	61
 21-50226	2	19	1	1	1	3nfd3l	3goq86	avh9t5	kg7gta	F		Zdravkovic/Ochotore…		Gaskell/Walczak	75
 21-50226	2	20	1	1	1	m4h0be	w26gic	r34ba1	fvh9t5	F		Heinitz/Bowles		Skobkareva/Girbau	64
+21-54831	2	1	1	3		2pm1k7	181ora	71trhz	qyo88o	16	1	Bossi/Chang		Cheng/Som	Sat @ 08:30
 21-54831	2	1	1	3		6l2d4b	h32v4t	kwdofm	cv0ze9	16	6	Barad Itzaki/Aksu		Fernald/Manolescu	Sat @ 08:30
 21-54831	2	1	1	3		16sk4g	ergbyd	iy5ink	4y5ink	16	4	Parra Romero/Ode Mi…		Fukutoku/Cricchio	Sat @ 08:30
 21-54831	2	1	1	3		8bpxlp	onwnih	ogoq86	l9zjjz	16	5	Davidescu/Manjanna		Moulin/Voloh	Sat @ 08:30
@@ -574,7 +575,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-54831	2	1	1	3		9y5ink	6b8n6t	dq16rs	h0g2gm	16		Danailova/Richtrova		Hsieh/Nagato	Sat @ 08:30
 21-54831	2	1	1	3		ywdofm	ic2mm2	04h0be	qd0her	16		Heiberg/Buendia	2	Kiefer/ODell	Sat @ 08:30
 21-54831	2	1	1	2	1	2pm1k7	181ora	ygoq86	xzknu5	32	1	Bossi/Chang		Nikolopoulou/Nord	62
-21-54831	2	1	1	2		71trhz	qyo88o	nz1x91	ttpfl7	32		Cheng/Som		Dunbar/Cohen	Fri @ 15:00
+21-54831	2	1	1	2	1	71trhz	qyo88o	nz1x91	ttpfl7	32		Cheng/Som		Dunbar/Cohen	76(4)
 21-54831	2	1	1	2	1	6l2d4b	h32v4t	xu4kss	6atiz8	32	6	Barad Itzaki/Aksu		McGrane/Hurrion	64
 21-54831	2	1	1	2	1	kwdofm	cv0ze9	eulu7o	nndxxd	32		Fernald/Manolescu		Karlova/Draskovic	76(5)
 21-54831	2	1	1	2	1	16sk4g	ergbyd	nc2mm2	lzknu5	32	4	Parra Romero/Ode Mi…		Campodonico/Salemyr	75
@@ -590,6 +591,8 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-54831	2	1	1	2	1	ywdofm	ic2mm2	gst0zq	2f9l1l	32		Heiberg/Buendia		Joliff/Hincu	61
 21-54831	2	1	1	2	1	04h0be	qd0her	gc42sa	kmhibw	32	2	Kiefer/ODell		Pinto/Cartledge	61
 21-54831	2	1	1	1	1	nz1x91	ttpfl7	4dhrtn	ipm1k7	64		Dunbar/Cohen		Hederich/Barton	61
+21-60580	2	1	1	3		eu4kss	bscqku	nqkwcw	yzknu5	SF	1	Spee/Shelton	3	Sharma/Mattel	Sat @ 09:00
+21-60580	2	1	1	3		bl2d4b	latiz8	grevs5	2dy18j	SF		Bekrar/Kabbaj		Berry/Boy	Sat @ 09:00
 21-60580	2	1	1	2	1	eu4kss	bscqku	w0xcvi	p0g2gm	QF	1	Spee/Shelton		Filip/Schieroni	63
 21-60580	2	1	1	2	1	nqkwcw	yzknu5	cwuyui	wo9cju	QF	3	Sharma/Mattel		Bardet/ferding	62
 21-60580	2	1	1	2	1	bl2d4b	latiz8	8tpfl7	tmhibw	QF		Bekrar/Kabbaj	4	De Oliveira/Dudeney	62
@@ -600,8 +603,15 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-60580	2	1	1	1	1	bl2d4b	latiz8	9bpxlp	8b8n6t	16		Bekrar/Kabbaj		Kudelova/MGinnis	64
 21-60580	2	1	1	1	1	8tpfl7	tmhibw	wjt9hh	ytrvrf	16	4	De Oliveira/Dudeney		Davis/Yardley	61
 21-60580	2	1	1	1	1	grevs5	2dy18j	bq16rs	0q16rs	16		Berry/Boy		Cohen/Dovgopolyi	62
+21-60580	2	1	2	2		ndj7zv	3pohqf	gp5r5b	yd0her	SF		Umarova/Skrobonja		Eland/Shumacher	Sat @ 09:00
+21-60580	2	1	2	2		9bpxlp	8b8n6t	bq16rs	0q16rs	SF		Kudelova/MGinnis		Cohen/Dovgopolyi	Sat @ 09:00
 21-60580	2	1	2	1	1	gp5r5b	yd0her	vbpxlp	ejcz2l	QF		Eland/Shumacher		Hubeaut/Sandy	62
 21-60580	2	1	2	1	1	9bpxlp	8b8n6t	wjt9hh	ytrvrf	QF		Kudelova/MGinnis		Davis/Yardley	63
+21-60580	2	1	3	1		w0xcvi	p0g2gm	cwuyui	wo9cju	SF		Filip/Schieroni		Bardet/ferding	Sat @ 09:00
+21-60580	2	1	3	1		8tpfl7	tmhibw	m28wok	i0xcvi	SF	4	De Oliveira/Dudeney	2	Leslie/Christians	Sat @ 09:00
+21-60580	2	1	5	2		vbpxlp	ejcz2l	wjt9hh	ytrvrf	F		Hubeaut/Sandy		Davis/Yardley	Sat @ 10:00
+21-60580	2	2	1	3		bkpo3y	1hk5un	z6q4y8	oscqku	SF		colmenares/retortil…		Akbas/Morin-Kougoch…	Sat @ 09:00
+21-60580	2	2	1	3		9l4taj	exstm7	2os24y	s1v7n7	SF		norin/ossa	2	Miletic/Velcea	Sat @ 09:00
 21-60580	2	2	1	2	1	bkpo3y	1hk5un	l9gtyv	9t856b	QF		colmenares/retortil…	1	Long/Lodzki	64
 21-60580	2	2	1	2	1	z6q4y8	oscqku	sy5ink	jcnsde	QF		Akbas/Morin-Kougoch…		Garriguez/Timmermans	63
 21-60580	2	2	1	2	1	9l4taj	exstm7	tgoq86	2t856b	QF		norin/ossa		Nash/Oliveira	63
@@ -611,7 +621,11 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-60580	2	2	1	1	1	9l4taj	exstm7	vmhibw	qavy5g	16		norin/ossa		Kentish/Thomas	61
 21-60580	2	2	1	1	1	tgoq86	2t856b	97ozqx	yvjpzd	16		Nash/Oliveira		Salinas/Sumaia	62
 21-60580	2	2	1	1	1	v8kece	44jghm	peww08	c40qwi	16		Mjos/Yaylali		Pasini/Rizk	61
+21-60580	2	2	2	2		gwwe0q	2k8eo2	rpohqf	hg50n2	SF		Matthews/Sommer		Menten/Hammoud	Sat @ 09:00
+21-60580	2	2	2	2		vmhibw	qavy5g	peww08	c40qwi	SF		Kentish/Thomas		Pasini/Rizk	Sat @ 09:00
 21-60580	2	2	2	1	1	vmhibw	qavy5g	97ozqx	yvjpzd	QF		Kentish/Thomas		Salinas/Sumaia	60
+21-60580	2	2	3	1		l9gtyv	9t856b	sy5ink	jcnsde	SF	1	Long/Lodzki		Garriguez/Timmermans	Sat @ 09:00
+21-60580	2	2	3	1		tgoq86	2t856b	v8kece	44jghm	SF		Nash/Oliveira		Mjos/Yaylali	Sat @ 10:00
 21-66962	2	1	1	1	1	8kpo3y	vb8n6t	nq16rs	3qkwcw	16		Hochstatter/Schifano		Jacobson/Rybka	60
 21-66962	2	1	1	1	1	2wwe0q	f4jghm	e69ujc	1tpfl7	16		Sporing/Vizcardo		Kancherla/Grice	60
 21-66962	2	1	1	1	1	o9gtyv	jqkwcw	ag50n2	s1a1wv	16		Perez/Reinicke		Kovacs/Bezmenova	61

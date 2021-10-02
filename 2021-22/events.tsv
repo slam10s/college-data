@@ -1,11 +1,11 @@
 ---
 tournaments: 118
 events: 245
-eventsWithDraws: 80
-eventsWithoutDraws: 165
-draws: 347
-brackets: 922
-results: 7634
+eventsWithDraws: 82
+eventsWithoutDraws: 163
+draws: 351
+brackets: 942
+results: 7710
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -418,8 +418,26 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-22816	4	3	1	W	Women's Open Doubles	Green	Main	R1,R2,R3,R4,R5	15
 21-23395	1			M	Men's Open Singles				
 21-23395	2			M	Men's Open Doubles				
-21-23711	1			M	Men's Open Singles				
-21-23711	2			M	Men's Open Doubles				
+21-23711	1	1	1	M	Men's Open Singles	White	East	QF,SF,F	7
+21-23711	1	1	2	M	Men's Open Singles	White	West	SF,F	3
+21-23711	1	1	3	M	Men's Open Singles	White	3-4 Playoff	F	1
+21-23711	1	1	4	M	Men's Open Singles	White	South	F	1
+21-23711	1	2	1	M	Men's Open Singles	Orange	East	16,QF,SF,F	15
+21-23711	1	2	2	M	Men's Open Singles	Orange	West	QF,SF,F	7
+21-23711	1	2	3	M	Men's Open Singles	Orange	North	SF,F	3
+21-23711	1	2	4	M	Men's Open Singles	Orange	3-4 Playoff	F	1
+21-23711	1	2	5	M	Men's Open Singles	Orange	South	SF,F	3
+21-23711	1	2	6	M	Men's Open Singles	Orange	Southwest	F	1
+21-23711	1	2	7	M	Men's Open Singles	Orange	Northwest	F	1
+21-23711	1	2	8	M	Men's Open Singles	Orange	Southeast	F	1
+21-23711	2	1	1	M	Men's Open Doubles	Doubles	East	16,QF,SF,F	15
+21-23711	2	1	2	M	Men's Open Doubles	Doubles	West	QF,SF,F	7
+21-23711	2	1	3	M	Men's Open Doubles	Doubles	North	SF,F	3
+21-23711	2	1	4	M	Men's Open Doubles	Doubles	3-4 Playoff	F	1
+21-23711	2	1	5	M	Men's Open Doubles	Doubles	South	SF,F	3
+21-23711	2	1	6	M	Men's Open Doubles	Doubles	Southwest	F	1
+21-23711	2	1	7	M	Men's Open Doubles	Doubles	Northwest	F	1
+21-23711	2	1	8	M	Men's Open Doubles	Doubles	Southeast	F	1
 21-23829	1			W	Women's Open Singles				
 21-23829	2			W	Women's Open Doubles				
 21-24236	1			M	Men's Open Singles				
