@@ -1,9 +1,9 @@
 ---
 tournaments: 34
 players: 888
-matches: 1422
+matches: 1421
 completed: 1370
-scheduled: 52
+scheduled: 51
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	nll3pf		vjt9hh		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -98,7 +98,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	1	5	1		tst0zq		f7ozqx		SF		Ruan Du Preez		Nino Portugal	Sat @ 11:00
 21-07548	1	2	1	3		cjcz2l		m8iy66		SF	1	Mihai Marinescu		Manuel Bernard	Sat @ 11:00
 21-07548	1	2	1	3		z3llpx		npm1k7		SF	4	Andrei Duarte		Joaquin Benoit	Sat @ 11:00
-21-07548	1	2	1	2	1	cjcz2l		qmjyh4		QF	1	Mihai Marinescu		Seru Tezuka	Walkover
+21-07548	1	2	1	2	1	cjcz2l		qmjyh4		QF	1	Mihai Marinescu		Seru Tezuka	57 62 20 Ret.
 21-07548	1	2	1	2	1	m8iy66		zclc76		QF		Manuel Bernard	3	Nicolas Jadoun	63 64
 21-07548	1	2	1	2	1	z3llpx		3jajwd		QF	4	Andrei Duarte		Chris Andre	61 63
 21-07548	1	2	1	2	1	npm1k7		fnu7c9		QF		Joaquin Benoit	2	Vicente Arbelaez Pr…	64 75
@@ -155,15 +155,15 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	4	1	1	1	kixuv0		y1v7n7		16	3	Maxime Hillhouse		Alex Suk	63 63
 21-07548	1	4	1	1	1	zjcz2l		3unadw		16		Juan Rodriguez		Jesus Villamizar	64 57 61
 21-07548	1	4	1	1	1	llnjvn		gavy5g		16	2	Alexander Vishnevsk…		Luke Stuart	64 75
-21-07548	1	4	2	2		228wok		ahipof		SF		Santiago Speranza		Alex Amacher	Sat @ 13:00
+21-07548	1	4	2	2		op5r5b		ahipof		SF		Daisuke Inagawa		Alex Amacher	Sat @ 13:00
 21-07548	1	4	2	2		y1v7n7		gavy5g		SF		Alex Suk		Luke Stuart	Sat @ 13:00
-21-07548	1	4	2	1	1	228wok		op5r5b		QF		Santiago Speranza		Daisuke Inagawa	60 60
+21-07548	1	4	2	1	1	op5r5b		228wok		QF		Daisuke Inagawa		Santiago Speranza	60 60
 21-07548	1	4	2	1	1	ahipof		pscqku		QF		Alex Amacher		SAMUEL MACLEOD	Walkover
 21-07548	1	4	2	1	1	y1v7n7		632v4t		QF		Alex Suk		SAMUEL BARROW	Walkover
 21-07548	1	4	2	1	1	gavy5g		3unadw		QF		Luke Stuart		Jesus Villamizar	46 64 [3]
 21-07548	1	4	3	1		vt856b		1xqdgz		SF		Giulio Sassi	4	Samrakshyak Bajrach…	Sat @ 13:00
 21-07548	1	4	3	1		kixuv0		zjcz2l		SF	3	Maxime Hillhouse		Juan Rodriguez	Sat @ 13:00
-21-07548	1	4	5	1		op5r5b		pscqku		SF		Daisuke Inagawa		SAMUEL MACLEOD	Sat @ 13:00
+21-07548	1	4	5	1		228wok		pscqku		SF		Santiago Speranza		SAMUEL MACLEOD	Sat @ 13:00
 21-07548	1	4	5	1		632v4t		3unadw		SF		SAMUEL BARROW		Jesus Villamizar	Sat @ 13:00
 21-07548	1	5	1	3		4clc76		et6p03		SF		Kristofer Johnson	3	Cole Brainard	Sat @ 13:30
 21-07548	1	5	1	3		fhipof		5u4kss		SF		Matis Amier		Nicolas Rodriguez	Sat @ 13:30
@@ -508,7 +508,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-22816	1	5	1	1	1	x2p63g		c34ba1		R1		Tyler Juergens		Cohen Sechrist	61 61
 21-22816	1	5	1	1	1	po9cju		ht856b		R1		Lars Hordijk		Joseph Phelan	60 61
 21-23711	1	1	1	2		6nwnih		hmhibw		SF		Wikus Robbertse		Pontus Hallgren	Sat @ 13:30
-21-23711	1	1	1	2		440qwi		9unadw		SF		Zachary Matuszak		Rian Ta	Fri @ 13:30
 21-23711	1	1	1	1	1	6nwnih		vwwe0q		QF		Wikus Robbertse		Manuel Monteiro	63 46 64
 21-23711	1	1	1	1	1	hmhibw		3oqmyq		QF		Pontus Hallgren		Michael Blando	64 62
 21-23711	1	1	1	1	1	440qwi		jh3vfr		QF		Zachary Matuszak		Josh Watkins	60 62

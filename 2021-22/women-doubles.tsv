@@ -1,9 +1,9 @@
 ---
 tournaments: 34
 players: 1180
-matches: 730
-completed: 678
-scheduled: 52
+matches: 734
+completed: 688
+scheduled: 46
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	4	1	1	3	1	05dfxv	y7ozqx	qgma2y	kac8kc	R3		Hunger/Simas		Aswal/Lozano	62
@@ -134,7 +134,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	4	2	2	1		ckpo3y	vrxld9	9tpfl7	lxstm7	QF		Kim/Charvatova	3	Labonte-Frey/Linnik…	Sat @ 08:30
 21-07548	4	2	2	1		l7595t	xjvpnp	c5dfxv	xjt9hh	QF		Espinosa/Villalobos		Frediani/Kumar	Sat @ 08:30
 21-07548	4	3	1	2		jnfd3l	9u4kss	s7ozqx	q4h0be	QF	1	Wasserbauerova/Smith		Lewis/Katzarkov	Sat @ 08:30
-21-07548	4	3	1	2		fh1f9j	lc42sa	mulu7o	5wwe0q	QF	4	Jones/Prato		Elliott/Ncube	Sat @ 08:30
+21-07548	4	3	1	2	1	mulu7o	5wwe0q	fh1f9j	lc42sa	QF		Elliott/Ncube	4	Jones/Prato	Walkover
 21-07548	4	3	1	2		fg7gta	8p77bj	s8iy66	owwe0q	QF		Villanueva/Teterina	3	Alfaro/Rivera	Sat @ 08:30
 21-07548	4	3	1	2		428wok	sdj7zv	2h1f9j	lk8eo2	QF		Popham/Varudandi	2	Ferreira da Silva/M…	Sat @ 08:30
 21-07548	4	3	1	1	1	s7ozqx	q4h0be	71a1wv	brxld9	16		Lewis/Katzarkov		Bryant/Klaren	61
@@ -566,14 +566,18 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-50226	2	18	1	1	1	y7mjkp	cvyj81	oq16rs	1xstm7	F		Almiron/Bukina		Haagensen/Stepan	61
 21-50226	2	19	1	1	1	3nfd3l	3goq86	avh9t5	kg7gta	F		Zdravkovic/Ochotore…		Gaskell/Walczak	75
 21-50226	2	20	1	1	1	m4h0be	w26gic	r34ba1	fvh9t5	F		Heinitz/Bowles		Skobkareva/Girbau	64
-21-54831	2	1	1	3		2pm1k7	181ora	71trhz	qyo88o	16	1	Bossi/Chang		Cheng/Som	Sat @ 08:30
-21-54831	2	1	1	3		6l2d4b	h32v4t	kwdofm	cv0ze9	16	6	Barad Itzaki/Aksu		Fernald/Manolescu	Sat @ 08:30
-21-54831	2	1	1	3		16sk4g	ergbyd	iy5ink	4y5ink	16	4	Parra Romero/Ode Mi…		Fukutoku/Cricchio	Sat @ 08:30
-21-54831	2	1	1	3		8bpxlp	onwnih	ogoq86	l9zjjz	16	5	Davidescu/Manjanna		Moulin/Voloh	Sat @ 08:30
-21-54831	2	1	1	3		qzknu5	434ba1	oz1x91	lgma2y	16		Saraty/Nguyen	7	Clark/Andreini	Sat @ 08:30
-21-54831	2	1	1	3		catiz8	pnwnih	5t6p03	urgbyd	16		Gurholt/Stange	3	Afanasyeva/Moulin	Sat @ 08:30
-21-54831	2	1	1	3		9y5ink	6b8n6t	dq16rs	h0g2gm	16		Danailova/Richtrova		Hsieh/Nagato	Sat @ 08:30
-21-54831	2	1	1	3		ywdofm	ic2mm2	04h0be	qd0her	16		Heiberg/Buendia	2	Kiefer/ODell	Sat @ 08:30
+21-54831	2	1	1	4		2pm1k7	181ora	kwdofm	cv0ze9	QF	1	Bossi/Chang		Fernald/Manolescu	Sun @ 08:30
+21-54831	2	1	1	4		16sk4g	ergbyd	8bpxlp	onwnih	QF	4	Parra Romero/Ode Mi…	5	Davidescu/Manjanna	Sun @ 08:30
+21-54831	2	1	1	4		oz1x91	lgma2y	5t6p03	urgbyd	QF	7	Clark/Andreini	3	Afanasyeva/Moulin	Sun @ 08:30
+21-54831	2	1	1	4		dq16rs	h0g2gm	04h0be	qd0her	QF		Hsieh/Nagato	2	Kiefer/ODell	Sun @ 08:30
+21-54831	2	1	1	3	1	2pm1k7	181ora	71trhz	qyo88o	16	1	Bossi/Chang		Cheng/Som	63
+21-54831	2	1	1	3	1	kwdofm	cv0ze9	6l2d4b	h32v4t	16		Fernald/Manolescu	6	Barad Itzaki/Aksu	76(6)
+21-54831	2	1	1	3	1	16sk4g	ergbyd	iy5ink	4y5ink	16	4	Parra Romero/Ode Mi…		Fukutoku/Cricchio	63
+21-54831	2	1	1	3	1	8bpxlp	onwnih	ogoq86	l9zjjz	16	5	Davidescu/Manjanna		Moulin/Voloh	62
+21-54831	2	1	1	3	1	oz1x91	lgma2y	qzknu5	434ba1	16	7	Clark/Andreini		Saraty/Nguyen	62
+21-54831	2	1	1	3	1	5t6p03	urgbyd	catiz8	pnwnih	16	3	Afanasyeva/Moulin		Gurholt/Stange	64
+21-54831	2	1	1	3	1	dq16rs	h0g2gm	9y5ink	6b8n6t	16		Hsieh/Nagato		Danailova/Richtrova	62
+21-54831	2	1	1	3	1	04h0be	qd0her	ywdofm	ic2mm2	16	2	Kiefer/ODell		Heiberg/Buendia	64
 21-54831	2	1	1	2	1	2pm1k7	181ora	ygoq86	xzknu5	32	1	Bossi/Chang		Nikolopoulou/Nord	62
 21-54831	2	1	1	2	1	71trhz	qyo88o	nz1x91	ttpfl7	32		Cheng/Som		Dunbar/Cohen	76(4)
 21-54831	2	1	1	2	1	6l2d4b	h32v4t	xu4kss	6atiz8	32	6	Barad Itzaki/Aksu		McGrane/Hurrion	64
@@ -607,7 +611,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-60580	2	1	2	2		9bpxlp	8b8n6t	bq16rs	0q16rs	SF		Kudelova/MGinnis		Cohen/Dovgopolyi	Sat @ 09:00
 21-60580	2	1	2	1	1	gp5r5b	yd0her	vbpxlp	ejcz2l	QF		Eland/Shumacher		Hubeaut/Sandy	62
 21-60580	2	1	2	1	1	9bpxlp	8b8n6t	wjt9hh	ytrvrf	QF		Kudelova/MGinnis		Davis/Yardley	63
-21-60580	2	1	3	1		w0xcvi	p0g2gm	cwuyui	wo9cju	SF		Filip/Schieroni		Bardet/ferding	Sat @ 09:00
+21-60580	2	1	3	1	1	w0xcvi	p0g2gm	cwuyui	wo9cju	SF		Filip/Schieroni		Bardet/ferding	Walkover
 21-60580	2	1	3	1		8tpfl7	tmhibw	m28wok	i0xcvi	SF	4	De Oliveira/Dudeney	2	Leslie/Christians	Sat @ 09:00
 21-60580	2	1	5	2		vbpxlp	ejcz2l	wjt9hh	ytrvrf	F		Hubeaut/Sandy		Davis/Yardley	Sat @ 10:00
 21-60580	2	2	1	3		bkpo3y	1hk5un	z6q4y8	oscqku	SF		colmenares/retortil…		Akbas/Morin-Kougoch…	Sat @ 09:00

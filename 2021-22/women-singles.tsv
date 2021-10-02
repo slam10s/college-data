@@ -1,9 +1,9 @@
 ---
 tournaments: 34
-players: 1186
-matches: 1595
-completed: 1452
-scheduled: 143
+players: 1190
+matches: 1598
+completed: 1457
+scheduled: 141
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	2	1	1	3	1	thipof		py5ink		F		Mae Canete		Paula Cerda	63 62
@@ -208,6 +208,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-03077	1	1	1	1	1	0d0her		vmjyh4		128		Nadia Pegram		Fabiana Tort-Umpier…	61 64
 21-03077	1	1	2	3		g3n1v5		g28wok		32		Alexandra Vesikallio		Riya Mathur	Sat @ 10:30
 21-03077	1	1	2	3		l1trhz		ged6f4		32		Megan Etienne		Savanna Crowell	Sat @ 10:30
+21-03077	1	1	2	3		528wok		akpo3y		32	15	Amanda Nava		Sylvia Eklund	Sat @ 12:00
 21-03077	1	1	2	3		ligkg4		028wok		32		Sarah Pospischill		Stefania Moysiadi	Sat @ 10:30
 21-03077	1	1	2	3		7atiz8		cqig6o		32		Jordan Grayson		Adriana Barney	Sat @ 10:30
 21-03077	1	1	2	3		pavy5g		rwdofm		32		Stow Weiss		Viva Laas	Sat @ 10:30
@@ -217,11 +218,11 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-03077	1	1	2	3		ounadw		ozknu5		32		Christy Turner		Vera Markovic	Sat @ 12:00
 21-03077	1	1	2	3	1	ncnsde		nv0ze9		32		Emily Wirt		Kate Lee	Walkover
 21-03077	1	1	2	3		dobsp2		vmjyh4		32		Sydney Weinberg		Fabiana Tort-Umpier…	Sat @ 12:00
-21-03077	1	1	2	2		pl4taj		u5w5iz		64		Isabella Montana		Ameilia Lawson	Sat @ 09:00
-21-03077	1	1	2	2		528wok		1ulu7o		64	15	Amanda Nava		Ashley Fitz-Patrick	Sat @ 09:00
-21-03077	1	1	2	2		hk6yiu		hu4kss		64		Chloe Bendetti		Jackie Nannery	Sat @ 09:00
-21-03077	1	1	2	2		0scqku		76sk4g		64		Deanna Lasorda		Averiana Mitchell	Sat @ 09:00
-21-03077	1	1	2	2		xbpxlp		4avy5g		64		Corinne Farid		Hannah Yang	Sat @ 09:00
+21-03077	1	1	2	2		pl4taj		u5w5iz		64		Isabella Montana		Ameilia Lawson	Sat @ 12:00
+21-03077	1	1	2	2	1	528wok		1ulu7o		64	15	Amanda Nava		Ashley Fitz-Patrick	Walkover
+21-03077	1	1	2	2		hk6yiu		hu4kss		64		Chloe Bendetti		Jackie Nannery	Sat @ 10:00
+21-03077	1	1	2	2		0scqku		76sk4g		64		Deanna Lasorda		Averiana Mitchell	Sat @ 10:00
+21-03077	1	1	2	2	1	xbpxlp		4avy5g		64		Corinne Farid		Hannah Yang	Walkover
 21-03077	1	1	2	2		8q16rs		bst0zq		64		Gracey Hirsch		Iva Jankovic	Sat @ 09:00
 21-07548	2	1	1	3		nac8kc		fbpxlp		SF	1	Lucie Petruzelova		Vaishali Jorge	Sat @ 11:00
 21-07548	2	1	1	3		nhk5un		ju24mk		SF	4	Katherine Muzik	2	Laylo Bakhodirova	Sat @ 11:00
@@ -591,6 +592,8 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-17427	1	1	1	1	1	mclc76		3iza18		128		Sophie Edwards		Maanya Viswanath	60 64
 21-17427	1	1	1	1	1	a5w5iz		trgbyd		128		Rhea Shrivistava		Isabel Petri-Bere	75 60
 21-17427	1	1	1	1	1	ratiz8		3jt9hh		128		Tiara Higuchi		Chandrika Joshi	63 75
+21-17427	1	1	1	1	1	4xstm7		gixuv0		128		Jayden Nielsen		Deana Giambo	67(2) 76(3) [7]
+21-17427	1	1	1	1	1	kbrdrx		0qkwcw		128		Winta Tewolde		Katie Mulvey	76(2) 63
 21-17427	1	1	1	1	1	6eww08		85w5iz		128		Aina March		Julia Migliorini	64 64
 21-17427	1	1	1	1	1	jnu7c9		njt9hh		128		Willa Bay Breunich		Claire Koscielski	64 62
 21-17427	1	1	1	1	1	6ndxxd		arz1jh		128		Danielle Hack		Shelly Yaloz	76(3) 62
@@ -1346,7 +1349,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-60580	1	1	2	1	1	yd0her		9l4taj		16		Grace Shumacher		fanny norin	64 75
 21-60580	1	1	2	1	1	gxqdgz		cwuyui		16		Sydney Berlin		Emma Bardet	76(6) 63
 21-60580	1	1	2	1	1	3pohqf		bq16rs		16		Andjela Skrobonja		Noa Cohen	63 61
-21-60580	1	1	3	1		wo9cju		i0xcvi		QF		ida ferding		Nadja Bay Christians	Sat @ 11:30
+21-60580	1	1	3	1	1	i0xcvi		wo9cju		QF		Nadja Bay Christians		ida ferding	Walkover
 21-60580	1	1	3	1		s1v7n7		p0g2gm		QF	3	Andreeea Velcea		Greta Schieroni	Sat @ 11:30
 21-60580	1	1	3	1		9bpxlp		2dy18j		QF		Martina Kudelova		Amelie Boy	Sat @ 11:30
 21-60580	1	1	3	1		wjt9hh		v8kece		QF		Annabelle Davis		Alexandria Mjos	Sat @ 11:30
