@@ -1,8 +1,8 @@
 ---
 tournaments: 34
 players: 888
-matches: 1421
-completed: 1370
+matches: 1422
+completed: 1371
 scheduled: 51
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -196,6 +196,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	6	1	1	1	g9zjjz		ny5ink		16		Eloy Veloso		Dakotah Fuller	75 64
 21-07548	1	6	1	1	1	rrxld9		bwf4lu		16		Jonathan Judy-Hansen		Khalen Wimes	60 60
 21-07548	1	6	1	1	1	ybpxlp		80zs1q		16		Erick Cruz		Eddie Wade	76(6) 16 62
+21-07548	1	6	2	2		bwf4lu		80zs1q		SF		Khalen Wimes		Eddie Wade	Sat @ 14:00
 21-07548	1	6	3	1		g9zjjz		2c42sa		SF		Eloy Veloso		Brody Millwood	Sat @ 14:00
 21-07548	1	6	3	1		94jghm		ybpxlp		SF		Rodrigo Zapata		Erick Cruz	Sat @ 14:00
 21-12886	2	1	1	3	1	uu4kss		ul4taj		F		Jan Semerak		Nick Mueller	64 64
@@ -535,7 +536,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23711	1	2	2	1	1	cndxxd		vgma2y		QF		Hiroki Fujita		Sam Baldwin	76(5) 26 [8]
 21-23711	1	2	2	1	1	01trhz		xdy18j		QF		Zach Fuchs		Jayson Blando	67(3) 64 [4]
 21-23711	1	2	3	1		spohqf		zsaaem		SF		Alex Lin		Umit Ege Cankus	Sat @ 12:00
-21-23711	1	2	3	1		3dy18j		0avy5g		SF		Brigham Andrus		Patrik Trhac	Sat @ 12:00
+21-23711	1	2	3	1	1	3dy18j		0avy5g		SF		Brigham Andrus		Patrik Trhac	Walkover
 21-23711	1	2	5	1		6qig6o		h8kece		SF		Bradley Buckland		Matheus Leite	Sat @ 12:00
 21-23711	1	2	5	1		vgma2y		xdy18j		SF		Sam Baldwin		Jayson Blando	Sat @ 12:00
 21-24367	1	1	1	4	1	x834xi		3yo88o		F		David Szeri		Alvaro Nunez	57 61 [7]
