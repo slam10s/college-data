@@ -1,8 +1,8 @@
 ---
-tournaments: 96
+tournaments: 97
 players: 2833
-matches: 4339
-completed: 4293
+matches: 4340
+completed: 4294
 scheduled: 46
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -2368,6 +2368,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-35477	1	1	2	1	1	xbttx5		umjyh4		32Q		Jordan Reed		Emily Hibbs	76(2) 75
 21-35477	1	1	2	1	1	le0sco		oc42sa		32Q		Addison Sutton		Aman Dail	Default
 21-35477	1	1	2	1	1	jgq6ee		v0kys2		32Q		Abigail Martin		Cassandra Saner	Default
+21-36423	1	1	1	6	1	qnht9t		tpb3nz		F	14	Suzuka Nishino	2	Samantha Wong	64 63
 21-36423	1	1	1	5	1	qnht9t		uvjpzd		SF	14	Suzuka Nishino	6	Emma Kesterson	62 64
 21-36423	1	1	1	5	1	tpb3nz		ec6iyi		SF	2	Samantha Wong	12	Lydia Lee	63 64
 21-36423	1	1	1	4	1	qnht9t		louia6		QF	14	Suzuka Nishino	1	Nina Mitrofanova	63 26 [6]

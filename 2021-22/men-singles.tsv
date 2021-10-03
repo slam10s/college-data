@@ -1,8 +1,8 @@
 ---
-tournaments: 96
-players: 2605
-matches: 4159
-completed: 4115
+tournaments: 97
+players: 2625
+matches: 4183
+completed: 4139
 scheduled: 44
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -2404,6 +2404,30 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-59818	1	1	2	3	1	2axebo		ty9ez0		QF		Federico Roman		Alex Rainer	62 75
 21-59818	1	1	2	3	1	g1ch23		frgbyd		QF		Ruben Emmerson-Hiini		Leonardo Dos Santos	62 60
 21-59818	1	1	2	2	1	pz3df9		rouia6		16		Muntingh Hamman		Arthur McCarthy	75 64
+21-62669	1	1	1	3	1	xz1x91		hac8kc		R3		Cole Borden		Pablo Gallart	36 63 [6]
+21-62669	1	1	1	3	1	132v4t		1trvrf		R3		Alvaro Alonso		Joey Keal	06 63 [4]
+21-62669	1	1	1	3	1	of9l1l		5dhrtn		R3		Jedrek Brodski		Jett Brownlee	63 64
+21-62669	1	1	1	3	1	lb8n6t		9ba3c1		R3		Connor Garrison		Reese Long	62 61
+21-62669	1	1	1	3	1	c1ex8b		h2p63g		R3		Pedro Macedo		Elias Courter	62 60
+21-62669	1	1	1	3	1	14nct2		5g7gta		R3		Charley Williams		Paul Hargitt	63 62
+21-62669	1	1	1	3	1	s7595t		b8oaou		R3		Ezekiel Cross		Luke Stonner	61 63
+21-62669	1	1	1	3	1	gclc76		ppb3nz		R3		Tyler Brunty		Ethan Wallace	61 60
+21-62669	1	1	1	3	1	491zp7		owdofm		R3		Gerald Randle		Nate Campbell	62 61
+21-62669	1	1	1	2	1	jl8pmz		hac8kc		R2		Demetrios Triantafel		Pablo Gallart	75 75
+21-62669	1	1	1	2	1	3rxld9		1trvrf		R2		Carter Burk		Joey Keal	26 76(4) [8]
+21-62669	1	1	1	2	1	of9l1l		lv2fkh		R2		Jedrek Brodski		Ryan McCoy	46 75 75
+21-62669	1	1	1	2	1	lb8n6t		ukca0i		R2		Connor Garrison		Evan Turnbull	60 60
+21-62669	1	1	1	2	1	c1ex8b		ujx5tx		R2		Pedro Macedo		Shanku Nair	76 63
+21-62669	1	1	1	2	1	uh1f9j		gclc76		R2		Joshua Cortez		Tyler Brunty	81
+21-62669	1	1	1	2	1	f501uf		owdofm		R2		Jordan Sibley-Diggs		Nate Campbell	84
+21-62669	1	1	1	1	1	jl8pmz		xz1x91		R1		Demetrios Triantafel		Cole Borden	64 62
+21-62669	1	1	1	1	1	132v4t		3rxld9		R1		Alvaro Alonso		Carter Burk	63 63
+21-62669	1	1	1	1	1	lv2fkh		5dhrtn		R1		Ryan McCoy		Jett Brownlee	64 75
+21-62669	1	1	1	1	1	ukca0i		9ba3c1		R1		Evan Turnbull		Reese Long	61 64
+21-62669	1	1	1	1	1	ujx5tx		h2p63g		R1		Shanku Nair		Elias Courter	60 60
+21-62669	1	1	1	1	1	s7595t		5g7gta		R1		Ezekiel Cross		Paul Hargitt	62 61
+21-62669	1	1	1	1	1	uh1f9j		ppb3nz		R1		Joshua Cortez		Ethan Wallace	76(1) 76(3)
+21-62669	1	1	1	1	1	f501uf		491zp7		R1		Jordan Sibley-Diggs		Gerald Randle	60 61
 21-64584	1	1	1	5		agq6ee		sll3pf		F	3	Robert Liu		Ethan Carroll	Sun @ 11:30
 21-64584	1	1	1	4	1	agq6ee		vqmci4		SF	3	Robert Liu	5	Philip Martin	62 61
 21-64584	1	1	1	4	1	sll3pf		hnht9t		SF		Ethan Carroll	2	Matthew Robinson	75 64

@@ -1,8 +1,8 @@
 ---
-tournaments: 90
-players: 2279
-matches: 1700
-completed: 1691
+tournaments: 91
+players: 2301
+matches: 1712
+completed: 1703
 scheduled: 9
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -1075,6 +1075,18 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-59818	3	1	2	3	1	hyo88o	pz3df9	u5fv33	klnjvn	SF		Gamez/Hamman		Harden/Howard	81
 21-59818	3	1	2	3	1	rouia6	1q16rs	1bpxlp	kl4taj	SF		McCarthy/Barry		Caliendo/Du Plessis	98(6)
 21-59818	3	1	2	2	1	1bpxlp	kl4taj	fbttx5	e1ch23	QF		Caliendo/Du Plessis		Orgaz/Gedney	84
+21-62669	2	1	1	5	1	of9l1l	hac8kc	xz1x91	132v4t	R5		Brodski/Gallart		Borden/Alonso	86
+21-62669	2	1	1	5	1	hac8kc	1trvrf	lv2fkh	ukca0i	R5		Gallart/Keal		McCoy/Turnbull	82
+21-62669	2	1	1	5	1	lb8n6t	1trvrf	5dhrtn	9ba3c1	R5		Garrison/Keal		Brownlee/Long	82
+21-62669	2	1	1	5	1	s7595t	ujx5tx	c1ex8b	hrz1jh	R5		Cross/Nair		Macedo/Kroeger	86
+21-62669	2	1	1	5	1	fz1x91	14nct2	5g7gta	h2p63g	R5		Clunie/Williams		Hargitt/Courter	84
+21-62669	2	1	1	5	1	72t2fw	4g7gta	ppb3nz	491zp7	R5		Palocci/Holmes		Wallace/Randle	87(1)
+21-62669	2	1	1	2	1	of9l1l	lb8n6t	jl8pmz	3rxld9	R2		Brodski/Garrison		Triantafel/Burk	82
+21-62669	2	1	1	2	1	lv2fkh	ujx5tx	5dhrtn	9ba3c1	R2		McCoy/Nair		Brownlee/Long	82
+21-62669	2	1	1	2	1	ukca0i	s7595t	5g7gta	h2p63g	R2		Turnbull/Cross		Hargitt/Courter	83
+21-62669	2	1	1	2	1	f501uf	uh1f9j	4g7gta	27mjkp	R2		Sibley-Diggs/Cortez		Holmes/Assumpcao	85
+21-62669	2	1	1	1	1	xz1x91	132v4t	jl8pmz	3rxld9	R1		Borden/Alonso		Triantafel/Burk	87(3)
+21-62669	2	1	1	1	1	f501uf	uh1f9j	ppb3nz	491zp7	R1		Sibley-Diggs/Cortez		Wallace/Randle	82
 21-64584	3	1	1	5		vqmci4	9t6p03	ktpfl7	pp77bj	F	8	Martin/Arimilli		Comadena/Kelley	Sun @ 10:00
 21-64584	3	1	1	4	1	vqmci4	9t6p03	15fv33	agq6ee	SF	8	Martin/Arimilli	1	Katzman/Liu	84
 21-64584	3	1	1	4	1	ktpfl7	pp77bj	kbv93d	6efmlc	SF		Comadena/Kelley	6	Yip/Hester	86
