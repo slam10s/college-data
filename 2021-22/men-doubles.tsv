@@ -1,9 +1,9 @@
 ---
 tournaments: 91
-players: 2301
-matches: 1712
-completed: 1703
-scheduled: 9
+players: 2302
+matches: 1713
+completed: 1711
+scheduled: 2
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	3	1	1	3	1	orgbyd	dz1x91	n40qwi	zobsp2	F		Fernandez/Bianchi		Fisicaro/Krolo	75
@@ -1087,7 +1087,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-62669	2	1	1	2	1	f501uf	uh1f9j	4g7gta	27mjkp	R2		Sibley-Diggs/Cortez		Holmes/Assumpcao	85
 21-62669	2	1	1	1	1	xz1x91	132v4t	jl8pmz	3rxld9	R1		Borden/Alonso		Triantafel/Burk	87(3)
 21-62669	2	1	1	1	1	f501uf	uh1f9j	ppb3nz	491zp7	R1		Sibley-Diggs/Cortez		Wallace/Randle	82
-21-64584	3	1	1	5		vqmci4	9t6p03	ktpfl7	pp77bj	F	8	Martin/Arimilli		Comadena/Kelley	Sun @ 10:00
+21-64584	3	1	1	5	1	ktpfl7	pp77bj	vqmci4	9t6p03	F		Comadena/Kelley	8	Martin/Arimilli	26 63 [9]
 21-64584	3	1	1	4	1	vqmci4	9t6p03	15fv33	agq6ee	SF	8	Martin/Arimilli	1	Katzman/Liu	84
 21-64584	3	1	1	4	1	ktpfl7	pp77bj	kbv93d	6efmlc	SF		Comadena/Kelley	6	Yip/Hester	86
 21-64584	3	1	1	3	1	15fv33	agq6ee	10187y	stalcj	QF	1	Katzman/Liu		Reznik/Mattox	84
@@ -1118,7 +1118,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-64584	3	1	1	1	1	kbv93d	6efmlc	9ys4k4	ml4taj	32	6	Yip/Hester		Sundar/Gonzalgo	87(7)
 21-64584	3	1	1	1	1	ic8y4q	laeoqk	fbrdrx	e501uf	32		Steinhauser/Lee		Gundakaram/Srinivas…	82
 21-64584	3	1	1	1	1	vu4kss	hnht9t	oouia6	t2vil4	32	2	Freer/Robinson		Lilov/Watson	82
-21-64584	3	1	2	5		3ba3c1	j0zs1q	9ys4k4	ml4taj	F	5	Mardirossian/Hall		Sundar/Gonzalgo	Sun @ 10:00
+21-64584	3	1	2	5	1	3ba3c1	j0zs1q	9ys4k4	ml4taj	F	5	Mardirossian/Hall		Sundar/Gonzalgo	84
 21-64584	3	1	2	4	1	3ba3c1	j0zs1q	e2p63g	yikgsk	SF	5	Mardirossian/Hall		Cabacungan/Somervil…	86
 21-64584	3	1	2	4	1	9ys4k4	ml4taj	sll3pf	69i943	SF		Sundar/Gonzalgo		Carroll/Li	85
 21-64584	3	1	2	3	1	3ba3c1	j0zs1q	vz79rp	qfw7y5	QF	5	Mardirossian/Hall		Will/Staicu	84
@@ -1523,7 +1523,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-84466	3	1	1	1	1	v3n1v5	hazuhw	3ikgsk	57blnh	32		Herin/Watts		Speranza/Verlaguet	86
 21-84466	3	1	1	1	1	7pqxwn	b7sv2d	e4jghm	c6sk4g	32		Luna/Thomas		Howard/Duzinkiewicz	81
 21-84466	3	1	1	1	1	11trhz	eh5blz	cvl55l	knht9t	32		Bierman/Perez Le Ti…		Picasso/Osorio	85
-21-92523	2	1	1	3		45w5iz	8lrf73	2ybu58	37sv2d	F		Davis/Volgin		Voros/Silva	Sun @ 09:00
+21-92523	2	1	1	3	1	2ybu58	37sv2d	45w5iz	8lrf73	F		Voros/Silva		Davis/Volgin	98(5)
 21-92523	2	1	1	2	1	45w5iz	8lrf73	fq5238	5ofo1i	SF		Davis/Volgin		Reckow/Watt	83
 21-92523	2	1	1	2	1	2ybu58	37sv2d	laase4	ubttx5	SF		Voros/Silva		Alam/Park	97
 21-92523	2	1	1	1	1	fq5238	5ofo1i	oh1f9j	9d2xkz	QF		Reckow/Watt		Batalla/N Tcha	82
@@ -1532,7 +1532,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-92523	2	1	1	1	1	2ybu58	37sv2d	rll3pf	af9l1l	QF		Voros/Silva		Cmager/Bell	86
 21-92523	2	1	2	1	1	oh1f9j	9d2xkz	hvjpzd	6m448g	SQ		Batalla/N Tcha		Hinojosa/Shah	84
 21-92523	2	1	2	1	1	5g50n2	yi36do	rll3pf	af9l1l	SQ		Coupu/Zisswiller		Cmager/Bell	83
-21-92523	2	2	1	4		r7595t	k34ba1	lq3mx0	nr1hpp	F		Benn/Dudockin		Hootman/Necz	Sun @ 09:00
+21-92523	2	2	1	4	1	r7595t	k34ba1	lq3mx0	nr1hpp	F		Benn/Dudockin		Hootman/Necz	86
 21-92523	2	2	1	3	1	r7595t	k34ba1	6talcj	8gsmkm	SF		Benn/Dudockin		Morgan/Torres	85
 21-92523	2	2	1	3	1	lq3mx0	nr1hpp	orxld9	vlpz1v	SF		Hootman/Necz		Brinkman/Pham	82
 21-92523	2	2	1	2	1	6talcj	8gsmkm	hpqxwn	nejixs	QF		Morgan/Torres		Maior/Wong	86
@@ -1543,9 +1543,10 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-92523	2	2	1	1	1	orxld9	vlpz1v	laxebo	f3ph1d	16		Brinkman/Pham		Ortiveros/Potts	82
 21-92523	2	2	1	1	1	lq3mx0	nr1hpp	laase4	1vl55l	16		Hootman/Necz		Alam/Puttergill	Walkover
 21-92523	2	2	2	2	1	laxebo	f3ph1d	f2acus	98oaou	QF		Ortiveros/Potts		McCaig/Saini	83
-21-92523	2	3	1	1		hvjpzd	rll3pf	6tpfl7	lkauua	QF		Hinojosa/Cmager		Campi/Marchand	Sun @ 09:00
-21-92523	2	3	1	1		5g50n2	yi36do	6talcj	8gsmkm	QF		Coupu/Zisswiller		Morgan/Torres	Sun @ 09:00
-21-92523	2	3	1	1		oh1f9j	9d2xkz	hpqxwn	nejixs	QF		Batalla/N Tcha		Maior/Wong	Sun @ 09:00
+21-92523	2	3	1	1	1	hvjpzd	rll3pf	6tpfl7	lkauua	QF		Hinojosa/Cmager		Campi/Marchand	82
+21-92523	2	3	1	1	1	6talcj	8gsmkm	5g50n2	yi36do	QF		Morgan/Torres		Coupu/Zisswiller	84
+21-92523	2	3	1	1	1	hpqxwn	nejixs	oh1f9j	9d2xkz	QF		Maior/Wong		Batalla/N Tcha	86
+21-92523	2	4	1	1	1	x26gic	orxld9	28iy66	4whkr2	F		Aksenoks/Brinkman		Ali/Rodriguez	84
 21-93790	3	1	1	6	1	qjx5tx	xp5r5b	9v4vqp	oyqoew	F	1	Regalado/Cueto Ramos	3	Schold/Martinetti	84
 21-93790	3	1	1	5	1	qjx5tx	xp5r5b	okpo3y	f69ujc	SF	1	Regalado/Cueto Ramos		Can Wijk/Cary	81
 21-93790	3	1	1	5	1	9v4vqp	oyqoew	xrgbyd	myqoew	SF	3	Schold/Martinetti		Gaskin/Murillo	97

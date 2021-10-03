@@ -3,9 +3,9 @@ tournaments: 277
 events: 601
 eventsWithDraws: 224
 eventsWithoutDraws: 377
-draws: 674
-brackets: 1576
-results: 20869
+draws: 677
+brackets: 1579
+results: 20902
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -1150,6 +1150,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-47231	2			M	Men's Open Doubles				
 21-47623	1	1	1	W	Women's Open Singles	Utah vs. WSU; UNM vs. USU	Main	32,16,QF,SF,F	31
 21-47623	1	2	1	W	Women's Open Singles	Utah vs. USU; UNM vs. WSU	Main	32,16,QF,SF,F	31
+21-47623	1	3	1	W	Women's Open Singles	Utah vs. UNM; USU vs. WSU	Main	32,16,QF,SF,F	31
 21-47623	2	1	1	W	Women's Open Doubles	Utah vs. UNM; WSU vs. USU	Main	16,QF,SF,F	15
 21-47623	2	2	1	W	Women's Open Doubles	Utah vs. WSU; UNM vs. USU	Main	16,QF,SF,F	15
 21-47623	2	3	1	W	Women's Open Doubles	Utah vs. USU; UNM vs. WSU	Main	16,QF,SF,F	15
@@ -1295,6 +1296,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-54831	1	4	1	W	Women's Open Singles	Back draw 3	Main	128,64,32,16,QF,SF,F	127
 21-54831	2	1	1	W	Women's Open Doubles	Main Draw	Main	64,32,16,QF,SF,F	63
 21-54831	2	2	1	W	Women's Open Doubles	Extra Doubles	Main	F	1
+21-54831	2	3	1	W	Women's Open Doubles	Extra Doubles 2	Main	F	1
 21-55204	1			M	Men's Open Singles				
 21-55204	2			M	Men's Open Doubles				
 21-56169	1	1	1	M	Men's Open Singles	Match #1	Main	32,16,QF,SF,F	31
@@ -1846,6 +1848,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-92523	2	2	1	M	Men's Open Doubles	White	Main	16,QF,SF,F	15
 21-92523	2	2	2	M	Men's Open Doubles	White	Consolation	QQ,QF,SF,F	11
 21-92523	2	3	1	M	Men's Open Doubles	Sunday Consoldation	Main	QF,SF,F	7
+21-92523	2	4	1	M	Men's Open Doubles	Sunday Extra	Main	F	1
 21-92623	1	1	1	W	Women's Open Singles	Brown V Hofstra	Main	16,QF,SF,F	15
 21-92623	1	2	1	W	Women's Open Singles	Yale V Quinnipiac	Main	16,QF,SF,F	15
 21-92623	1	3	1	W	Women's Open Singles	Yale V Hofstra	Main	32,16,QF,SF,F	31
