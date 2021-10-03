@@ -1,9 +1,9 @@
 ---
 tournaments: 34
 players: 868
-matches: 656
-completed: 634
-scheduled: 22
+matches: 682
+completed: 662
+scheduled: 20
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	3	1	1	3	1	84h0be	svyj81	vjt9hh	mkpo3y	F		Fernandez/Bianchi		Fisicaro/Krolo	75
@@ -37,8 +37,9 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00238	3	3	2	1	1	lrevs5	h9gtyv	v9zjjz	tpohqf	F		Blair/Shearer		Watanabi/Shestakov	62
 21-00238	3	3	3	1	1	o5upcr	qbpxlp	enu7c9	km08w0	F		Burton/Holden		Breitenmoser/Lorenz…	63
 21-00238	3	3	4	1	1	8mhibw	0dhrtn	ked6f4	5xqdgz	F		Fiorito/Frequelin		Fiala/Capone	64
-21-07548	3	1	1	3		z3llpx	vclc76	j7ozqx	cyo88o	SF	1	Duarte/Grinvalds	3	Sarrio/Robbins	Sat @ 09:30
-21-07548	3	1	1	3		chk5un	qmjyh4	d81ora	d7ozqx	SF	4	Patel/Tezuka	2	Huempfner/Stodder	Sat @ 09:30
+21-07548	3	1	1	4		j7ozqx	cyo88o	d81ora	d7ozqx	F	3	Sarrio/Robbins	2	Huempfner/Stodder	Sun @ 08:30
+21-07548	3	1	1	3	1	j7ozqx	cyo88o	z3llpx	vclc76	SF	3	Sarrio/Robbins	1	Duarte/Grinvalds	64
+21-07548	3	1	1	3	1	d81ora	d7ozqx	chk5un	qmjyh4	SF	2	Huempfner/Stodder	4	Patel/Tezuka	62
 21-07548	3	1	1	2	1	z3llpx	vclc76	kixuv0	z40qwi	QF	1	Duarte/Grinvalds		Hillhouse/Martens	61
 21-07548	3	1	1	2	1	j7ozqx	cyo88o	weww08	69zjjz	QF	3	Sarrio/Robbins		Lopez Cruz/Tryakshin	62
 21-07548	3	1	1	2	1	chk5un	qmjyh4	cdhrtn	digkg4	QF	4	Patel/Tezuka		Cizek/Malirz	62
@@ -51,18 +52,26 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	3	1	1	1	1	chk5un	qmjyh4	wqkwcw	y6bapk	16	4	Patel/Tezuka		Luna/Verlaguet	61
 21-07548	3	1	1	1	1	l7ozqx	r26gic	f7ozqx	rrxld9	16		Norwood/Blanchar		Portugal/Judy-Hansen	62
 21-07548	3	1	1	1	1	d81ora	d7ozqx	hpm1k7	o6bapk	16	2	Huempfner/Stodder		Cantero/Tsai	64
-21-07548	3	1	2	2		npm1k7	w2rm9o	mxstm7	b9edsn	SF		Benoit/Waldow		Shoemake/Bencrdic	Sat @ 09:30
-21-07548	3	1	2	2		k9x3dr	g5w5iz	hpm1k7	o6bapk	SF		Del Castillo/Roumpis		Cantero/Tsai	Sat @ 09:30
+21-07548	3	1	2	3		mxstm7	b9edsn	hpm1k7	o6bapk	F		Shoemake/Bencrdic		Cantero/Tsai	Sun @ 08:30
+21-07548	3	1	2	2	1	mxstm7	b9edsn	npm1k7	w2rm9o	SF		Shoemake/Bencrdic		Benoit/Waldow	63
+21-07548	3	1	2	2	1	hpm1k7	o6bapk	k9x3dr	g5w5iz	SF		Cantero/Tsai		Del Castillo/Roumpis	62
 21-07548	3	1	2	1	1	npm1k7	w2rm9o	1xqdgz	tst0zq	QF		Benoit/Waldow		Bajracharya/Du Preez	64
 21-07548	3	1	2	1	1	mxstm7	b9edsn	pmjyh4	42p63g	QF		Shoemake/Bencrdic		WAYENBURG/GEORGADZE	63
 21-07548	3	1	2	1	1	k9x3dr	g5w5iz	wqkwcw	y6bapk	QF		Del Castillo/Roumpis		Luna/Verlaguet	76(5)
 21-07548	3	1	2	1	1	hpm1k7	o6bapk	f7ozqx	rrxld9	QF		Cantero/Tsai		Portugal/Judy-Hansen	61
-21-07548	3	1	3	1		kixuv0	z40qwi	weww08	69zjjz	SF		Hillhouse/Martens		Lopez Cruz/Tryakshin	Sat @ 09:30
-21-07548	3	1	3	1		cdhrtn	digkg4	l7ozqx	r26gic	SF		Cizek/Malirz		Norwood/Blanchar	Sat @ 09:30
-21-07548	3	1	5	1		1xqdgz	tst0zq	pmjyh4	42p63g	SF		Bajracharya/Du Preez		WAYENBURG/GEORGADZE	Sat @ 09:30
-21-07548	3	1	5	1		wqkwcw	y6bapk	f7ozqx	rrxld9	SF		Luna/Verlaguet		Portugal/Judy-Hansen	Sat @ 09:30
-21-07548	3	2	1	3		et6p03	g69ujc	llnjvn	hz1x91	SF		Brainard/Gaskin		Vishnevskiy/Garayev	Sat @ 09:30
-21-07548	3	2	1	3		m8iy66	xd0her	ux9313	op5r5b	SF		Bernard/Llinares		Dobrnjac/Inagawa	Sat @ 09:30
+21-07548	3	1	3	2		kixuv0	z40qwi	cdhrtn	digkg4	F		Hillhouse/Martens		Cizek/Malirz	Sun @ 08:30
+21-07548	3	1	3	1	1	kixuv0	z40qwi	weww08	69zjjz	SF		Hillhouse/Martens		Lopez Cruz/Tryakshin	76(3)
+21-07548	3	1	3	1	1	cdhrtn	digkg4	l7ozqx	r26gic	SF		Cizek/Malirz		Norwood/Blanchar	76
+21-07548	3	1	4	1		z3llpx	vclc76	chk5un	qmjyh4	F	1	Duarte/Grinvalds	4	Patel/Tezuka	Sun @ 08:30
+21-07548	3	1	5	2		pmjyh4	42p63g	wqkwcw	y6bapk	F		WAYENBURG/GEORGADZE		Luna/Verlaguet	Sun @ 08:30
+21-07548	3	1	5	1	1	pmjyh4	42p63g	1xqdgz	tst0zq	SF		WAYENBURG/GEORGADZE		Bajracharya/Du Preez	64
+21-07548	3	1	5	1	1	wqkwcw	y6bapk	f7ozqx	rrxld9	SF		Luna/Verlaguet		Portugal/Judy-Hansen	62
+21-07548	3	1	6	1		npm1k7	w2rm9o	k9x3dr	g5w5iz	F		Benoit/Waldow		Del Castillo/Roumpis	Sun @ 08:30
+21-07548	3	1	7	1		weww08	69zjjz	l7ozqx	r26gic	F		Lopez Cruz/Tryakshin		Norwood/Blanchar	Sun @ 08:30
+21-07548	3	1	8	1		1xqdgz	tst0zq	f7ozqx	rrxld9	F		Bajracharya/Du Preez		Portugal/Judy-Hansen	Sun @ 08:30
+21-07548	3	2	1	4		et6p03	g69ujc	ux9313	op5r5b	F		Brainard/Gaskin		Dobrnjac/Inagawa	Sun @ 08:30
+21-07548	3	2	1	3	1	et6p03	g69ujc	llnjvn	hz1x91	SF		Brainard/Gaskin		Vishnevskiy/Garayev	64
+21-07548	3	2	1	3	1	ux9313	op5r5b	m8iy66	xd0her	SF		Dobrnjac/Inagawa		Bernard/Llinares	64
 21-07548	3	2	1	2	1	et6p03	g69ujc	pyms2g	99gtyv	QF		Brainard/Gaskin		Brewer/Nunez	60
 21-07548	3	2	1	2	1	llnjvn	hz1x91	y1v7n7	bdhrtn	QF		Vishnevskiy/Garayev		Suk/Dun	76(3)
 21-07548	3	2	1	2	1	m8iy66	xd0her	ynwnih	wlnjvn	QF		Bernard/Llinares		Maust/Thomas	75
@@ -75,24 +84,41 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	3	2	1	1	1	m8iy66	xd0her	zclc76	7clc76	16		Bernard/Llinares	4	Jadoun/Diaz	62
 21-07548	3	2	1	1	1	b1ch23	2b8n6t	632v4t	7tpfl7	16		Murillo/Osap		BARROW/FLYNN	75
 21-07548	3	2	1	1	1	ux9313	op5r5b	oos24y	jrgbyd	16		Dobrnjac/Inagawa	2	Lazo/Padilha	76(5)
-21-07548	3	2	2	2		it856b	t1trhz	632v4t	7tpfl7	SF		Mulas/Jacq		BARROW/FLYNN	Sat @ 09:45
+21-07548	3	2	2	3		eb670l	lt856b	it856b	t1trhz	F	3	Botti/Salmeron		Mulas/Jacq	Sun @ 08:30
+21-07548	3	2	2	2	1	eb670l	lt856b	gulu7o	gavy5g	SF	3	Botti/Salmeron		Gedney/Stuart	64
+21-07548	3	2	2	2	1	it856b	t1trhz	632v4t	7tpfl7	SF		Mulas/Jacq		BARROW/FLYNN	76(4)
 21-07548	3	2	2	1	1	gulu7o	gavy5g	cjcz2l	gqkwcw	QF		Gedney/Stuart	1	Marinescu/Maughan	Walkover
-21-07548	3	2	2	1		eb670l	lt856b	a5dfxv	4clc76	QF	3	Botti/Salmeron		Jeanne-Grandinot/Jo…	Sat @ 08:30
+21-07548	3	2	2	1	1	eb670l	lt856b	a5dfxv	4clc76	QF	3	Botti/Salmeron		Jeanne-Grandinot/Jo…	Walkover
 21-07548	3	2	2	1	1	it856b	t1trhz	zclc76	7clc76	QF		Mulas/Jacq	4	Jadoun/Diaz	63
 21-07548	3	2	2	1	1	632v4t	7tpfl7	oos24y	jrgbyd	QF		BARROW/FLYNN	2	Lazo/Padilha	64
-21-07548	3	2	3	1		pyms2g	99gtyv	y1v7n7	bdhrtn	SF		Brewer/Nunez		Suk/Dun	Sat @ 09:45
-21-07548	3	2	3	1		ynwnih	wlnjvn	b1ch23	2b8n6t	SF		Maust/Thomas		Murillo/Osap	Sat @ 09:45
-21-07548	3	2	5	1		zclc76	7clc76	oos24y	jrgbyd	SF	4	Jadoun/Diaz	2	Lazo/Padilha	Sat @ 09:45
-21-07548	3	3	1	2		xz1x91	5u4kss	fhipof	ahipof	QF	1	Erramuspe/Rodriguez		Amier/Amacher	Sat @ 09:00
-21-07548	3	3	1	2		a4h0be	pscqku	xndxxd	vt856b	QF	4	KRASHIN/MACLEOD		Evenson/Sassi	Sat @ 09:00
-21-07548	3	3	1	2		0y5ink	idj7zv	3jajwd	zjcz2l	QF		Kim/Tymes	3	Andre/Rodriguez	Sat @ 09:00
+21-07548	3	2	3	2		y1v7n7	bdhrtn	b1ch23	2b8n6t	F		Suk/Dun		Murillo/Osap	Sun @ 08:30
+21-07548	3	2	3	1	1	y1v7n7	bdhrtn	pyms2g	99gtyv	SF		Suk/Dun		Brewer/Nunez	61
+21-07548	3	2	3	1	1	b1ch23	2b8n6t	ynwnih	wlnjvn	SF		Murillo/Osap		Maust/Thomas	62
+21-07548	3	2	4	1		llnjvn	hz1x91	m8iy66	xd0her	F		Vishnevskiy/Garayev		Bernard/Llinares	Sun @ 08:30
+21-07548	3	2	5	1	1	a5dfxv	4clc76	cjcz2l	gqkwcw	SF		Jeanne-Grandinot/Jo…	1	Marinescu/Maughan	Walkover
+21-07548	3	2	5	1	1	oos24y	jrgbyd	zclc76	7clc76	SF	2	Lazo/Padilha	4	Jadoun/Diaz	Walkover
+21-07548	3	2	6	1		gulu7o	gavy5g	632v4t	7tpfl7	F		Gedney/Stuart		BARROW/FLYNN	Sun @ 08:30
+21-07548	3	2	7	1		pyms2g	99gtyv	ynwnih	wlnjvn	F		Brewer/Nunez		Maust/Thomas	Sun @ 08:30
+21-07548	3	2	8	1	1	zclc76	7clc76	cjcz2l	gqkwcw	F	4	Jadoun/Diaz	1	Marinescu/Maughan	Walkover
+21-07548	3	3	1	4		xndxxd	vt856b	3jajwd	zjcz2l	F		Evenson/Sassi	3	Andre/Rodriguez	Sun @ 08:30
+21-07548	3	3	1	3	1	xndxxd	vt856b	xz1x91	5u4kss	SF		Evenson/Sassi	1	Erramuspe/Rodriguez	64
+21-07548	3	3	1	3	1	3jajwd	zjcz2l	cscqku	3unadw	SF	3	Andre/Rodriguez		Robinson/Villamizar	62
+21-07548	3	3	1	2	1	xz1x91	5u4kss	fhipof	ahipof	QF	1	Erramuspe/Rodriguez		Amier/Amacher	64
+21-07548	3	3	1	2	1	xndxxd	vt856b	a4h0be	pscqku	QF		Evenson/Sassi	4	KRASHIN/MACLEOD	75
+21-07548	3	3	1	2	1	3jajwd	zjcz2l	0y5ink	idj7zv	QF	3	Andre/Rodriguez		Kim/Tymes	64
 21-07548	3	3	1	2	1	cscqku	3unadw	k9gtyv	tc42sa	QF		Robinson/Villamizar	2	Mimata/Lee	Walkover
 21-07548	3	3	1	1	1	fhipof	ahipof	80zs1q	94jghm	16		Amier/Amacher		Wade/Zapata	61
 21-07548	3	3	1	1	1	xndxxd	vt856b	ybpxlp	2c42sa	16		Evenson/Sassi		Cruz/Millwood	60
 21-07548	3	3	1	1	1	0y5ink	idj7zv	yp77bj	g9zjjz	16		Kim/Tymes		Stoica/Veloso	62
 21-07548	3	3	1	1	1	cscqku	3unadw	ny5ink	228wok	16		Robinson/Villamizar		Fuller/Speranza	63
-21-07548	3	3	2	2		80zs1q	94jghm	ybpxlp	2c42sa	SF		Wade/Zapata		Cruz/Millwood	Sat @ 10:15
-21-07548	3	3	2	2		yp77bj	g9zjjz	ny5ink	228wok	SF		Stoica/Veloso		Fuller/Speranza	Sat @ 10:15
+21-07548	3	3	2	3		ybpxlp	2c42sa	ny5ink	228wok	F		Cruz/Millwood		Fuller/Speranza	Sun @ 08:30
+21-07548	3	3	2	2	1	ybpxlp	2c42sa	80zs1q	94jghm	SF		Cruz/Millwood		Wade/Zapata	63
+21-07548	3	3	2	2	1	ny5ink	228wok	yp77bj	g9zjjz	SF		Fuller/Speranza		Stoica/Veloso	63
+21-07548	3	3	3	2		fhipof	ahipof	0y5ink	idj7zv	F		Amier/Amacher		Kim/Tymes	Sun @ 08:30
+21-07548	3	3	3	1	1	fhipof	ahipof	a4h0be	pscqku	SF		Amier/Amacher	4	KRASHIN/MACLEOD	Walkover
+21-07548	3	3	3	1	1	0y5ink	idj7zv	k9gtyv	tc42sa	SF		Kim/Tymes	2	Mimata/Lee	Walkover
+21-07548	3	3	4	1		xz1x91	5u4kss	cscqku	3unadw	F	1	Erramuspe/Rodriguez		Robinson/Villamizar	Sun @ 08:30
+21-07548	3	3	6	1		80zs1q	94jghm	yp77bj	g9zjjz	F		Wade/Zapata		Stoica/Veloso	Sun @ 08:30
 21-12886	3	1	1	1	1	u8kece	4h3vfr	uu4kss	ayms2g	16		Pawlowicz/Verma		Semerak/Bhatia	63
 21-12886	3	1	1	1	1	junadw	9os24y	12rm9o	zk8eo2	16		Townes/Smith		Weekes/Pergel	60
 21-12886	3	1	1	1	1	lfqvgh	mst0zq	kh1f9j	66sk4g	16		Bodavula/Hatton		Kanektar/Perez Ramos	63
@@ -245,10 +271,10 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23711	2	1	2	3	1	6qig6o	vwwe0q	xdy18j	3oqmyq	F		Buckland/Monteiro		Blando/Blando	64
 21-23711	2	1	2	2	1	xdy18j	3oqmyq	f3n1v5	jh3vfr	SF		Blando/Blando		Zelver/Watkins	62
 21-23711	2	1	2	2	1	6qig6o	vwwe0q	6nwnih	440qwi	SF		Buckland/Monteiro		Robbertse/Matuszak	76(4)
-21-23711	2	1	3	2		ik8eo2	vgma2y	01trhz	h8kece	F		Sciglitano/Baldwin		Fuchs/Leite	Sun @ 10:00
 21-23711	2	1	3	1	1	ik8eo2	vgma2y	ay5ink	0avy5g	SF		Sciglitano/Baldwin		Kristensen/Trhac	Walkover
 21-23711	2	1	3	1	1	01trhz	h8kece	cndxxd	z28wok	SF		Fuchs/Leite		Fujita/Petrovic	62
 21-23711	2	1	4	1		yixuv0	zsaaem	hmhibw	b32v4t	F		Kramer/Cankus		Hallgren/Benn	Sun @ 10:00
+21-23711	2	1	6	1	1	f3n1v5	jh3vfr	6nwnih	440qwi	F		Zelver/Watkins		Robbertse/Matuszak	76(4)
 21-24367	3	1	1	4	1	tz1x91	ku4kss	jed6f4	z6sk4g	F		Corser/Sanoja		Grumley/Shelepov	62
 21-24367	3	1	1	3	1	jed6f4	z6sk4g	hrevs5	nt856b	SF		Grumley/Shelepov		Adamek/Neff	63
 21-24367	3	1	1	3	1	tz1x91	ku4kss	x834xi	3yo88o	SF		Corser/Sanoja		Szeri/Nunez	62

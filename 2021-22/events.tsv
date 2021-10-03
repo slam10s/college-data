@@ -4,8 +4,8 @@ events: 245
 eventsWithDraws: 82
 eventsWithoutDraws: 163
 draws: 354
-brackets: 944
-results: 7964
+brackets: 946
+results: 7966
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -811,18 +811,20 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-60580	1	1	2	W	Women's Open Singles	Flight A	West	16,QF,SF,F	15
 21-60580	1	1	3	W	Women's Open Singles	Flight A	North	QF,SF,F	7
 21-60580	1	1	4	W	Women's Open Singles	Flight A	Northeast	SF,F	3
-21-60580	1	1	5	W	Women's Open Singles	Flight A	South	QF,SF,F	7
-21-60580	1	1	6	W	Women's Open Singles	Flight A	Southwest	SF,F	3
-21-60580	1	1	7	W	Women's Open Singles	Flight A	Northwest	SF,F	3
-21-60580	1	1	8	W	Women's Open Singles	Flight A	Southeast	SF,F	3
+21-60580	1	1	5	W	Women's Open Singles	Flight A	Playoff 3-4	F	1
+21-60580	1	1	6	W	Women's Open Singles	Flight A	South	QF,SF,F	7
+21-60580	1	1	7	W	Women's Open Singles	Flight A	Southwest	SF,F	3
+21-60580	1	1	8	W	Women's Open Singles	Flight A	Northwest	SF,F	3
+21-60580	1	1	9	W	Women's Open Singles	Flight A	Southeast	SF,F	3
 21-60580	1	2	1	W	Women's Open Singles	Flight B	East	32,16,QF,SF,F	31
 21-60580	1	2	2	W	Women's Open Singles	Flight B	West	16,QF,SF,F	15
 21-60580	1	2	3	W	Women's Open Singles	Flight B	North	QF,SF,F	7
 21-60580	1	2	4	W	Women's Open Singles	Flight B	Northeast	SF,F	3
-21-60580	1	2	5	W	Women's Open Singles	Flight B	South	QF,SF,F	7
-21-60580	1	2	6	W	Women's Open Singles	Flight B	Southwest	SF,F	3
-21-60580	1	2	7	W	Women's Open Singles	Flight B	Northwest	SF,F	3
-21-60580	1	2	8	W	Women's Open Singles	Flight B	Southeast	SF,F	3
+21-60580	1	2	5	W	Women's Open Singles	Flight B	Playoff 3-4	F	1
+21-60580	1	2	6	W	Women's Open Singles	Flight B	South	QF,SF,F	7
+21-60580	1	2	7	W	Women's Open Singles	Flight B	Southwest	SF,F	3
+21-60580	1	2	8	W	Women's Open Singles	Flight B	Northwest	SF,F	3
+21-60580	1	2	9	W	Women's Open Singles	Flight B	Southeast	SF,F	3
 21-60580	2	1	1	W	Women's Open Doubles	Flight A	East	16,QF,SF,F	15
 21-60580	2	1	2	W	Women's Open Doubles	Flight A	West	QF,SF,F	7
 21-60580	2	1	3	W	Women's Open Doubles	Flight A	North	SF,F	3

@@ -1,9 +1,9 @@
 ---
 tournaments: 34
 players: 888
-matches: 1422
-completed: 1371
-scheduled: 51
+matches: 1472
+completed: 1433
+scheduled: 39
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	nll3pf		vjt9hh		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -72,8 +72,9 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00238	1	7	2	1	1	qbpxlp		8mhibw		F		Sebastian Holden		Ugo Fiorito	60 75
 21-00238	1	7	3	1	1	lrevs5		50g2gm		F		Peter Blair		Alberto Rodriguez	60 60
 21-00238	1	7	4	1	1	tbrdrx		km08w0		F		Mikaeel Woodman		Iker Lorenzo Brull	61 63
-21-07548	1	1	1	3		j7ozqx		vclc76		SF	1	Carles Sarrio	4	Roberts Grinvalds	Sat @ 11:00
-21-07548	1	1	1	3		d81ora		hpm1k7		SF	3	Kevin Huempfner	2	Gaston Cantero	Sat @ 11:00
+21-07548	1	1	1	4		vclc76		d81ora		F	4	Roberts Grinvalds	3	Kevin Huempfner	Sun @ 09:30
+21-07548	1	1	1	3	1	vclc76		j7ozqx		SF	4	Roberts Grinvalds	1	Carles Sarrio	Walkover
+21-07548	1	1	1	3	1	d81ora		hpm1k7		SF	3	Kevin Huempfner	2	Gaston Cantero	46 64 61
 21-07548	1	1	1	2	1	j7ozqx		digkg4		QF	1	Carles Sarrio		Karol Malirz	62 63
 21-07548	1	1	1	2	1	vclc76		69zjjz		QF	4	Roberts Grinvalds		Mark Tryakshin	60 61
 21-07548	1	1	1	2	1	d81ora		g69ujc		QF	3	Kevin Huempfner		Ryan Gaskin	62 64
@@ -86,18 +87,26 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	1	1	1	1	d81ora		tst0zq		16	3	Kevin Huempfner		Ruan Du Preez	64 64
 21-07548	1	1	1	1	1	chk5un		f7ozqx		16		Kevin Patel		Nino Portugal	60 63
 21-07548	1	1	1	1	1	hpm1k7		xd0her		16	2	Gaston Cantero		Javier Llinares	63 62
-21-07548	1	1	2	2		pmjyh4		k9x3dr		SF		LUCAS WAYENBURG		Pol Del Castillo	Sat @ 11:00
-21-07548	1	1	2	2		mxstm7		xd0her		SF		Hayden Shoemake		Javier Llinares	Sat @ 11:00
+21-07548	1	1	2	3		k9x3dr		xd0her		F		Pol Del Castillo		Javier Llinares	Sun @ 09:30
+21-07548	1	1	2	2	1	k9x3dr		pmjyh4		SF		Pol Del Castillo		LUCAS WAYENBURG	64 64
+21-07548	1	1	2	2	1	xd0her		mxstm7		SF		Javier Llinares		Hayden Shoemake	64 63
 21-07548	1	1	2	1	1	pmjyh4		wqkwcw		QF		LUCAS WAYENBURG		Guido Luna	61 63
 21-07548	1	1	2	1	1	k9x3dr		ux9313		QF		Pol Del Castillo		Vanja Dobrnjac	61 60
 21-07548	1	1	2	1	1	mxstm7		tst0zq		QF		Hayden Shoemake		Ruan Du Preez	64 61
 21-07548	1	1	2	1	1	xd0her		f7ozqx		QF		Javier Llinares		Nino Portugal	62 64
-21-07548	1	1	3	1		digkg4		69zjjz		SF		Karol Malirz		Mark Tryakshin	Sat @ 11:00
-21-07548	1	1	3	1		g69ujc		chk5un		SF		Ryan Gaskin		Kevin Patel	Sat @ 11:00
-21-07548	1	1	5	1		wqkwcw		ux9313		SF		Guido Luna		Vanja Dobrnjac	Sat @ 11:00
-21-07548	1	1	5	1		tst0zq		f7ozqx		SF		Ruan Du Preez		Nino Portugal	Sat @ 11:00
-21-07548	1	2	1	3		cjcz2l		m8iy66		SF	1	Mihai Marinescu		Manuel Bernard	Sat @ 11:00
-21-07548	1	2	1	3		z3llpx		npm1k7		SF	4	Andrei Duarte		Joaquin Benoit	Sat @ 11:00
+21-07548	1	1	3	2		69zjjz		g69ujc		F		Mark Tryakshin		Ryan Gaskin	Sun @ 09:30
+21-07548	1	1	3	1	1	69zjjz		digkg4		SF		Mark Tryakshin		Karol Malirz	64 64
+21-07548	1	1	3	1	1	g69ujc		chk5un		SF		Ryan Gaskin		Kevin Patel	61 62
+21-07548	1	1	4	1	1	hpm1k7		j7ozqx		F	2	Gaston Cantero	1	Carles Sarrio	Walkover
+21-07548	1	1	5	2		wqkwcw		tst0zq		F		Guido Luna		Ruan Du Preez	Sun @ 09:30
+21-07548	1	1	5	1	1	wqkwcw		ux9313		SF		Guido Luna		Vanja Dobrnjac	Walkover
+21-07548	1	1	5	1	1	tst0zq		f7ozqx		SF		Ruan Du Preez		Nino Portugal	76(4) 26 [4]
+21-07548	1	1	6	1		pmjyh4		mxstm7		F		LUCAS WAYENBURG		Hayden Shoemake	Sun @ 09:30
+21-07548	1	1	7	1		digkg4		chk5un		F		Karol Malirz		Kevin Patel	Sun @ 09:30
+21-07548	1	1	8	1	1	f7ozqx		ux9313		F		Nino Portugal		Vanja Dobrnjac	Walkover
+21-07548	1	2	1	4		cjcz2l		npm1k7		F	1	Mihai Marinescu		Joaquin Benoit	Sun @ 09:30
+21-07548	1	2	1	3	1	cjcz2l		m8iy66		SF	1	Mihai Marinescu		Manuel Bernard	75 64
+21-07548	1	2	1	3	1	npm1k7		z3llpx		SF		Joaquin Benoit	4	Andrei Duarte	63 62
 21-07548	1	2	1	2	1	cjcz2l		qmjyh4		QF	1	Mihai Marinescu		Seru Tezuka	57 62 20 Ret.
 21-07548	1	2	1	2	1	m8iy66		zclc76		QF		Manuel Bernard	3	Nicolas Jadoun	63 64
 21-07548	1	2	1	2	1	z3llpx		3jajwd		QF	4	Andrei Duarte		Chris Andre	61 63
@@ -109,16 +118,23 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	2	1	1	1	z3llpx		it856b		16	4	Andrei Duarte		David Mulas	61 62
 21-07548	1	2	1	1	1	npm1k7		42p63g		16		Joaquin Benoit		DAVID GEORGADZE	63 75
 21-07548	1	2	1	1	1	fnu7c9		g5w5iz		16	2	Vicente Arbelaez Pr…		Alexandros Roumpis	57 75 64
-21-07548	1	2	2	2		y6bapk		l7ozqx		SF		Alexandre Verlaguet		Thomas Norwood	Sat @ 11:00
-21-07548	1	2	2	2		cdhrtn		42p63g		SF		Gabriel Cizek		DAVID GEORGADZE	Sat @ 11:00
+21-07548	1	2	2	3		l7ozqx		42p63g		F		Thomas Norwood		DAVID GEORGADZE	Sun @ 09:30
+21-07548	1	2	2	2	1	l7ozqx		y6bapk		SF		Thomas Norwood		Alexandre Verlaguet	75 60
+21-07548	1	2	2	2	1	42p63g		cdhrtn		SF		DAVID GEORGADZE		Gabriel Cizek	64 62
 21-07548	1	2	2	1	1	y6bapk		o6bapk		QF		Alexandre Verlaguet		Cheng En Tsai	75 64
 21-07548	1	2	2	1	1	cdhrtn		it856b		QF		Gabriel Cizek		David Mulas	64 62
 21-07548	1	2	2	1	1	42p63g		g5w5iz		QF		DAVID GEORGADZE		Alexandros Roumpis	75 75
-21-07548	1	2	3	1		qmjyh4		zclc76		SF		Seru Tezuka	3	Nicolas Jadoun	Sat @ 11:00
-21-07548	1	2	3	1		3jajwd		fnu7c9		SF		Chris Andre	2	Vicente Arbelaez Pr…	Sat @ 11:00
-21-07548	1	2	5	1		it856b		g5w5iz		SF		David Mulas		Alexandros Roumpis	Sat @ 11:00
-21-07548	1	3	1	3		d7ozqx		cyo88o		SF	1	Finn Stodder		Hunter Robbins	Sat @ 12:30
-21-07548	1	3	1	3		jrgbyd		bdhrtn		SF		Diego Padilha	2	Valentin Dun	Sat @ 12:30
+21-07548	1	2	3	2		zclc76		3jajwd		F	3	Nicolas Jadoun		Chris Andre	Sun @ 09:30
+21-07548	1	2	3	1	1	zclc76		qmjyh4		SF	3	Nicolas Jadoun		Seru Tezuka	62 62
+21-07548	1	2	3	1	1	3jajwd		fnu7c9		SF		Chris Andre	2	Vicente Arbelaez Pr…	Walkover
+21-07548	1	2	4	1		m8iy66		z3llpx		F		Manuel Bernard	4	Andrei Duarte	Sun @ 09:30
+21-07548	1	2	5	2		o6bapk		g5w5iz		F		Cheng En Tsai		Alexandros Roumpis	Sun @ 09:30
+21-07548	1	2	5	1	1	g5w5iz		it856b		SF		Alexandros Roumpis		David Mulas	64 60
+21-07548	1	2	6	1		y6bapk		cdhrtn		F		Alexandre Verlaguet		Gabriel Cizek	Sun @ 09:30
+21-07548	1	2	7	1	1	qmjyh4		fnu7c9		F		Seru Tezuka	2	Vicente Arbelaez Pr…	Walkover
+21-07548	1	3	1	4		d7ozqx		jrgbyd		F	1	Finn Stodder		Diego Padilha	Sun @ 09:30
+21-07548	1	3	1	3	1	d7ozqx		cyo88o		SF	1	Finn Stodder		Hunter Robbins	61 16 62
+21-07548	1	3	1	3	1	jrgbyd		bdhrtn		SF		Diego Padilha	2	Valentin Dun	63 64
 21-07548	1	3	1	2	1	d7ozqx		7tpfl7		QF	1	Finn Stodder		DANNY FLYNN	60 62
 21-07548	1	3	1	2	1	cyo88o		z40qwi		QF		Hunter Robbins	4	Noah Martens	61 46 64
 21-07548	1	3	1	2	1	jrgbyd		lt856b		QF		Diego Padilha	3	Hugo Salmeron	57 64 63
@@ -131,18 +147,25 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	3	1	1	1	lt856b		7clc76		16	3	Hugo Salmeron		Gabriel Diaz	62 61
 21-07548	1	3	1	1	1	a5dfxv		r26gic		16		David Jeanne-Grandi…		Jordi Blanchar	62 75
 21-07548	1	3	1	1	1	bdhrtn		t1trhz		16	2	Valentin Dun		Thibault Jacq	60 61
-21-07548	1	3	2	2		b9edsn		w2rm9o		SF		Zvonko Bencrdic		Zach Waldow	Sat @ 13:00
-21-07548	1	3	2	2		7clc76		r26gic		SF		Gabriel Diaz		Jordi Blanchar	Sat @ 13:00
+21-07548	1	3	2	3		b9edsn		r26gic		F		Zvonko Bencrdic		Jordi Blanchar	Sun @ 09:30
+21-07548	1	3	2	2	1	b9edsn		w2rm9o		SF		Zvonko Bencrdic		Zach Waldow	63 26 [7]
+21-07548	1	3	2	2	1	r26gic		7clc76		SF		Jordi Blanchar		Gabriel Diaz	64 62
 21-07548	1	3	2	1	1	b9edsn		gulu7o		QF		Zvonko Bencrdic		Matthew Gedney	46 61 [3]
 21-07548	1	3	2	1	1	w2rm9o		wlnjvn		QF		Zach Waldow		Gavin Thomas	64 57 [4]
 21-07548	1	3	2	1	1	7clc76		b1ch23		QF		Gabriel Diaz		Sebastian Murillo	61 63
 21-07548	1	3	2	1	1	r26gic		t1trhz		QF		Jordi Blanchar		Thibault Jacq	75 61
-21-07548	1	3	3	1		7tpfl7		z40qwi		SF		DANNY FLYNN	4	Noah Martens	Sat @ 12:30
+21-07548	1	3	3	2		z40qwi		lt856b		F	4	Noah Martens	3	Hugo Salmeron	Sun @ 09:30
+21-07548	1	3	3	1	1	z40qwi		7tpfl7		SF	4	Noah Martens		DANNY FLYNN	64 63
 21-07548	1	3	3	1	1	lt856b		a5dfxv		SF	3	Hugo Salmeron		David Jeanne-Grandi…	Walkover
-21-07548	1	3	5	1		gulu7o		wlnjvn		SF		Matthew Gedney		Gavin Thomas	Sat @ 13:00
-21-07548	1	3	5	1		b1ch23		t1trhz		SF		Sebastian Murillo		Thibault Jacq	Sat @ 13:00
-21-07548	1	4	1	3		idj7zv		xz1x91		SF	1	Edward Tymes		Francisco Erramuspe	Sat @ 13:00
-21-07548	1	4	1	3		eb670l		llnjvn		SF		Daniel Botti	2	Alexander Vishnevsk…	Sat @ 13:00
+21-07548	1	3	4	1		cyo88o		bdhrtn		F		Hunter Robbins	2	Valentin Dun	Sun @ 09:30
+21-07548	1	3	5	2		wlnjvn		b1ch23		F		Gavin Thomas		Sebastian Murillo	Sun @ 09:30
+21-07548	1	3	5	1	1	wlnjvn		gulu7o		SF		Gavin Thomas		Matthew Gedney	50 Ret.
+21-07548	1	3	5	1	1	b1ch23		t1trhz		SF		Sebastian Murillo		Thibault Jacq	62 Ret.
+21-07548	1	3	6	1		w2rm9o		7clc76		F		Zach Waldow		Gabriel Diaz	Sun @ 09:30
+21-07548	1	3	7	1	1	7tpfl7		a5dfxv		F		DANNY FLYNN		David Jeanne-Grandi…	Walkover
+21-07548	1	4	1	4		idj7zv		eb670l		F	1	Edward Tymes		Daniel Botti	Sun @ 11:00
+21-07548	1	4	1	3	1	idj7zv		xz1x91		SF	1	Edward Tymes		Francisco Erramuspe	63 63
+21-07548	1	4	1	3	1	eb670l		llnjvn		SF		Daniel Botti	2	Alexander Vishnevsk…	75 41 Ret.
 21-07548	1	4	1	2	1	idj7zv		vt856b		QF	1	Edward Tymes		Giulio Sassi	62 61
 21-07548	1	4	1	2	1	xz1x91		1xqdgz		QF		Francisco Erramuspe	4	Samrakshyak Bajrach…	76(5) 63
 21-07548	1	4	1	2	1	eb670l		kixuv0		QF		Daniel Botti	3	Maxime Hillhouse	63 63
@@ -155,18 +178,25 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	4	1	1	1	kixuv0		y1v7n7		16	3	Maxime Hillhouse		Alex Suk	63 63
 21-07548	1	4	1	1	1	zjcz2l		3unadw		16		Juan Rodriguez		Jesus Villamizar	64 57 61
 21-07548	1	4	1	1	1	llnjvn		gavy5g		16	2	Alexander Vishnevsk…		Luke Stuart	64 75
-21-07548	1	4	2	2		op5r5b		ahipof		SF		Daisuke Inagawa		Alex Amacher	Sat @ 13:00
-21-07548	1	4	2	2		y1v7n7		gavy5g		SF		Alex Suk		Luke Stuart	Sat @ 13:00
+21-07548	1	4	2	3		ahipof		gavy5g		F		Alex Amacher		Luke Stuart	Sun @ 11:30
+21-07548	1	4	2	2	1	ahipof		op5r5b		SF		Alex Amacher		Daisuke Inagawa	75 16 [3]
+21-07548	1	4	2	2	1	gavy5g		y1v7n7		SF		Luke Stuart		Alex Suk	62 60
 21-07548	1	4	2	1	1	op5r5b		228wok		QF		Daisuke Inagawa		Santiago Speranza	60 60
 21-07548	1	4	2	1	1	ahipof		pscqku		QF		Alex Amacher		SAMUEL MACLEOD	Walkover
 21-07548	1	4	2	1	1	y1v7n7		632v4t		QF		Alex Suk		SAMUEL BARROW	Walkover
 21-07548	1	4	2	1	1	gavy5g		3unadw		QF		Luke Stuart		Jesus Villamizar	46 64 [3]
-21-07548	1	4	3	1		vt856b		1xqdgz		SF		Giulio Sassi	4	Samrakshyak Bajrach…	Sat @ 13:00
-21-07548	1	4	3	1		kixuv0		zjcz2l		SF	3	Maxime Hillhouse		Juan Rodriguez	Sat @ 13:00
-21-07548	1	4	5	1		228wok		pscqku		SF		Santiago Speranza		SAMUEL MACLEOD	Sat @ 13:00
-21-07548	1	4	5	1		632v4t		3unadw		SF		SAMUEL BARROW		Jesus Villamizar	Sat @ 13:00
-21-07548	1	5	1	3		4clc76		et6p03		SF		Kristofer Johnson	3	Cole Brainard	Sat @ 13:30
-21-07548	1	5	1	3		fhipof		5u4kss		SF		Matis Amier		Nicolas Rodriguez	Sat @ 13:30
+21-07548	1	4	3	2		1xqdgz		kixuv0		F	4	Samrakshyak Bajrach…	3	Maxime Hillhouse	Sun @ 11:00
+21-07548	1	4	3	1	1	1xqdgz		vt856b		SF	4	Samrakshyak Bajrach…		Giulio Sassi	57 62 [9]
+21-07548	1	4	3	1	1	kixuv0		zjcz2l		SF	3	Maxime Hillhouse		Juan Rodriguez	63 76(4)
+21-07548	1	4	4	1	1	xz1x91		llnjvn		F		Francisco Erramuspe	2	Alexander Vishnevsk…	Walkover
+21-07548	1	4	5	2		228wok		3unadw		F		Santiago Speranza		Jesus Villamizar	Sun @ 11:30
+21-07548	1	4	5	1	1	228wok		pscqku		SF		Santiago Speranza		SAMUEL MACLEOD	Walkover
+21-07548	1	4	5	1	1	3unadw		632v4t		SF		Jesus Villamizar		SAMUEL BARROW	Walkover
+21-07548	1	4	6	1		op5r5b		y1v7n7		F		Daisuke Inagawa		Alex Suk	Sun @ 11:30
+21-07548	1	4	7	1		vt856b		zjcz2l		F		Giulio Sassi		Juan Rodriguez	Sun @ 11:00
+21-07548	1	5	1	4		et6p03		5u4kss		F	3	Cole Brainard		Nicolas Rodriguez	Sun @ 11:30
+21-07548	1	5	1	3	1	et6p03		4clc76		SF	3	Cole Brainard		Kristofer Johnson	60 21 Ret.
+21-07548	1	5	1	3	1	5u4kss		fhipof		SF		Nicolas Rodriguez		Matis Amier	60 62
 21-07548	1	5	1	2	1	4clc76		yp77bj		QF		Kristofer Johnson		Liam Stoica	36 61 76(4)
 21-07548	1	5	1	2	1	et6p03		w6sk4g		QF	3	Cole Brainard		Ignacio Orgaz	63 62
 21-07548	1	5	1	2	1	fhipof		k9gtyv		QF		Matis Amier		Takafumi Mimata	64 62
@@ -179,16 +209,25 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	5	1	1	1	fhipof		tc42sa		16		Matis Amier	4	Jack Lee	Walkover
 21-07548	1	5	1	1	1	5u4kss		weww08		16		Nicolas Rodriguez		David Lopez Cruz	61 61
 21-07548	1	5	1	1	1	2b8n6t		hz1x91		16		Daniel Osap	2	Haktan Garayev	64 60
-21-07548	1	5	2	2		ynwnih		pyms2g		SF		Trey Maust		Thomas Brewer	Sat @ 14:00
-21-07548	1	5	2	2		cscqku		hz1x91		SF		Jorge Robinson	2	Haktan Garayev	Sat @ 14:00
+21-07548	1	5	2	3		ynwnih		cscqku		F		Trey Maust		Jorge Robinson	Sun @ 11:30
+21-07548	1	5	2	2	1	ynwnih		pyms2g		SF		Trey Maust		Thomas Brewer	76 60
+21-07548	1	5	2	2	1	cscqku		hz1x91		SF		Jorge Robinson	2	Haktan Garayev	26 64 [4]
 21-07548	1	5	2	1	1	ynwnih		oos24y		QF		Trey Maust	1	Patrick Lazo	Walkover
 21-07548	1	5	2	1	1	pyms2g		a4h0be		QF		Thomas Brewer		DANIEL KRASHIN	64 61
 21-07548	1	5	2	1	1	cscqku		tc42sa		QF		Jorge Robinson	4	Jack Lee	Walkover
 21-07548	1	5	2	1	1	hz1x91		weww08		QF	2	Haktan Garayev		David Lopez Cruz	61 63
-21-07548	1	5	3	1		yp77bj		w6sk4g		SF		Liam Stoica		Ignacio Orgaz	Sat @ 13:30
-21-07548	1	5	3	1		k9gtyv		2b8n6t		SF		Takafumi Mimata		Daniel Osap	Sat @ 13:30
-21-07548	1	6	1	3		xndxxd		0y5ink		SF	1	Connor Evenson		Harrison Kim	Sat @ 14:00
-21-07548	1	6	1	3		rrxld9		99gtyv		SF		Jonathan Judy-Hansen	2	Sebastian Nunez	Sat @ 14:00
+21-07548	1	5	3	2		yp77bj		2b8n6t		F		Liam Stoica		Daniel Osap	Sun @ 11:30
+21-07548	1	5	3	1	1	yp77bj		w6sk4g		SF		Liam Stoica		Ignacio Orgaz	61 64
+21-07548	1	5	3	1	1	2b8n6t		k9gtyv		SF		Daniel Osap		Takafumi Mimata	64 64
+21-07548	1	5	4	1	1	fhipof		4clc76		F		Matis Amier		Kristofer Johnson	Walkover
+21-07548	1	5	5	2	1	weww08		a4h0be		F		David Lopez Cruz		DANIEL KRASHIN	Walkover
+21-07548	1	5	5	1	1	a4h0be		oos24y		SF		DANIEL KRASHIN	1	Patrick Lazo	Walkover
+21-07548	1	5	5	1	1	weww08		tc42sa		SF		David Lopez Cruz	4	Jack Lee	Walkover
+21-07548	1	5	6	1		pyms2g		hz1x91		F		Thomas Brewer	2	Haktan Garayev	Sun @ 11:30
+21-07548	1	5	7	1		w6sk4g		k9gtyv		F		Ignacio Orgaz		Takafumi Mimata	Sun @ 11:30
+21-07548	1	6	1	4		0y5ink		rrxld9		F		Harrison Kim		Jonathan Judy-Hansen	Sun @ 11:30
+21-07548	1	6	1	3	1	0y5ink		xndxxd		SF		Harrison Kim	1	Connor Evenson	61 64
+21-07548	1	6	1	3	1	rrxld9		99gtyv		SF		Jonathan Judy-Hansen	2	Sebastian Nunez	63 61
 21-07548	1	6	1	2	1	xndxxd		g9zjjz		QF	1	Connor Evenson		Eloy Veloso	64 67(4) 63
 21-07548	1	6	1	2	1	0y5ink		2c42sa		QF		Harrison Kim		Brody Millwood	61 61
 21-07548	1	6	1	2	1	rrxld9		94jghm		QF		Jonathan Judy-Hansen		Rodrigo Zapata	60 60
@@ -196,9 +235,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	6	1	1	1	g9zjjz		ny5ink		16		Eloy Veloso		Dakotah Fuller	75 64
 21-07548	1	6	1	1	1	rrxld9		bwf4lu		16		Jonathan Judy-Hansen		Khalen Wimes	60 60
 21-07548	1	6	1	1	1	ybpxlp		80zs1q		16		Erick Cruz		Eddie Wade	76(6) 16 62
-21-07548	1	6	2	2		bwf4lu		80zs1q		SF		Khalen Wimes		Eddie Wade	Sat @ 14:00
-21-07548	1	6	3	1		g9zjjz		2c42sa		SF		Eloy Veloso		Brody Millwood	Sat @ 14:00
-21-07548	1	6	3	1		94jghm		ybpxlp		SF		Rodrigo Zapata		Erick Cruz	Sat @ 14:00
+21-07548	1	6	2	3		ny5ink		80zs1q		F		Dakotah Fuller		Eddie Wade	Sun @ 11:30
+21-07548	1	6	2	2	1	80zs1q		bwf4lu		SF		Eddie Wade		Khalen Wimes	60 61
+21-07548	1	6	3	2		g9zjjz		94jghm		F		Eloy Veloso		Rodrigo Zapata	Sun @ 11:30
+21-07548	1	6	3	1	1	g9zjjz		2c42sa		SF		Eloy Veloso		Brody Millwood	63 62
+21-07548	1	6	3	1	1	94jghm		ybpxlp		SF		Rodrigo Zapata		Erick Cruz	62 63
+21-07548	1	6	4	1		xndxxd		99gtyv		F	1	Connor Evenson	2	Sebastian Nunez	Sun @ 11:30
+21-07548	1	6	7	1		2c42sa		ybpxlp		F		Brody Millwood		Erick Cruz	Sun @ 11:30
 21-12886	2	1	1	3	1	uu4kss		ul4taj		F		Jan Semerak		Nick Mueller	64 64
 21-12886	2	1	1	2	1	uu4kss		9os24y		SF		Jan Semerak		Josh Smith	76(4) 57 [7]
 21-12886	2	1	1	2	1	ul4taj		6m08w0		SF		Nick Mueller		Jack Selati	Walkover
@@ -508,15 +551,20 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-22816	1	5	1	2	1	x2p63g		ht856b		R2		Tyler Juergens		Joseph Phelan	60 64
 21-22816	1	5	1	1	1	x2p63g		c34ba1		R1		Tyler Juergens		Cohen Sechrist	61 61
 21-22816	1	5	1	1	1	po9cju		ht856b		R1		Lars Hordijk		Joseph Phelan	60 61
-21-23711	1	1	1	2		6nwnih		hmhibw		SF		Wikus Robbertse		Pontus Hallgren	Sat @ 13:30
+21-23711	1	1	1	3		6nwnih		9unadw		F		Wikus Robbertse		Rian Ta	Sun @ 11:00
+21-23711	1	1	1	2	1	6nwnih		hmhibw		SF		Wikus Robbertse		Pontus Hallgren	63 63
+21-23711	1	1	1	2	1	9unadw		440qwi		SF		Rian Ta		Zachary Matuszak	62 61
 21-23711	1	1	1	1	1	6nwnih		vwwe0q		QF		Wikus Robbertse		Manuel Monteiro	63 46 64
 21-23711	1	1	1	1	1	hmhibw		3oqmyq		QF		Pontus Hallgren		Michael Blando	64 62
 21-23711	1	1	1	1	1	440qwi		jh3vfr		QF		Zachary Matuszak		Josh Watkins	60 62
 21-23711	1	1	1	1	1	9unadw		f3n1v5		QF		Rian Ta		Marcos Zelver	60 63
-21-23711	1	1	2	1		vwwe0q		3oqmyq		SF		Manuel Monteiro		Michael Blando	Sat @ 13:30
-21-23711	1	1	2	1		jh3vfr		f3n1v5		SF		Josh Watkins		Marcos Zelver	Sat @ 13:30
-21-23711	1	2	1	3		ay5ink		smhibw		SF		Patrick Kristensen		Mathias Gavelin	Sat @ 12:00
-21-23711	1	2	1	3		yixuv0		ik8eo2		SF		Andreas Kramer		Lawrence Sciglitano	Sat @ 12:00
+21-23711	1	1	2	2		vwwe0q		f3n1v5		F		Manuel Monteiro		Marcos Zelver	Sun @ 10:00
+21-23711	1	1	2	1	1	vwwe0q		3oqmyq		SF		Manuel Monteiro		Michael Blando	62 62
+21-23711	1	1	2	1	1	f3n1v5		jh3vfr		SF		Marcos Zelver		Josh Watkins	63 62
+21-23711	1	1	3	1		hmhibw		440qwi		F		Pontus Hallgren		Zachary Matuszak	Sun @ 11:00
+21-23711	1	2	1	4		smhibw		ik8eo2		F		Mathias Gavelin		Lawrence Sciglitano	Sun @ 11:00
+21-23711	1	2	1	3	1	smhibw		ay5ink		SF		Mathias Gavelin		Patrick Kristensen	76(5) 64
+21-23711	1	2	1	3	1	ik8eo2		yixuv0		SF		Lawrence Sciglitano		Andreas Kramer	36 64 64
 21-23711	1	2	1	2	1	ay5ink		spohqf		QF		Patrick Kristensen		Alex Lin	63 46 64
 21-23711	1	2	1	2	1	smhibw		zsaaem		QF		Mathias Gavelin		Umit Ege Cankus	63 75
 21-23711	1	2	1	2	1	yixuv0		3dy18j		QF		Andreas Kramer		Brigham Andrus	61 76(3)
@@ -529,16 +577,18 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23711	1	2	1	1	1	3dy18j		cndxxd		16		Brigham Andrus		Hiroki Fujita	75 64
 21-23711	1	2	1	1	1	ik8eo2		01trhz		16		Lawrence Sciglitano		Zach Fuchs	62 62
 21-23711	1	2	1	1	1	0avy5g		xdy18j		16		Patrik Trhac		Jayson Blando	64 61
-21-23711	1	2	2	2		b32v4t		z28wok		SF		Milo Benn		Aleksandar Petrovic	Sat @ 12:00
-21-23711	1	2	2	2		cndxxd		01trhz		SF		Hiroki Fujita		Zach Fuchs	Sat @ 12:00
+21-23711	1	2	2	2	1	z28wok		b32v4t		SF		Aleksandar Petrovic		Milo Benn	63 76(5)
+21-23711	1	2	2	2	1	01trhz		cndxxd		SF		Zach Fuchs		Hiroki Fujita	61 64
 21-23711	1	2	2	1	1	b32v4t		6qig6o		QF		Milo Benn		Bradley Buckland	61 36 [6]
 21-23711	1	2	2	1	1	z28wok		h8kece		QF		Aleksandar Petrovic		Matheus Leite	67(4) 75 [9]
 21-23711	1	2	2	1	1	cndxxd		vgma2y		QF		Hiroki Fujita		Sam Baldwin	76(5) 26 [8]
 21-23711	1	2	2	1	1	01trhz		xdy18j		QF		Zach Fuchs		Jayson Blando	67(3) 64 [4]
-21-23711	1	2	3	1		spohqf		zsaaem		SF		Alex Lin		Umit Ege Cankus	Sat @ 12:00
+21-23711	1	2	3	1	1	spohqf		zsaaem		SF		Alex Lin		Umit Ege Cankus	62 64
 21-23711	1	2	3	1	1	3dy18j		0avy5g		SF		Brigham Andrus		Patrik Trhac	Walkover
-21-23711	1	2	5	1		6qig6o		h8kece		SF		Bradley Buckland		Matheus Leite	Sat @ 12:00
-21-23711	1	2	5	1		vgma2y		xdy18j		SF		Sam Baldwin		Jayson Blando	Sat @ 12:00
+21-23711	1	2	5	2	1	6qig6o		xdy18j		F		Bradley Buckland		Jayson Blando	76(4) 76(4)
+21-23711	1	2	5	1	1	6qig6o		h8kece		SF		Bradley Buckland		Matheus Leite	Walkover
+21-23711	1	2	5	1	1	xdy18j		vgma2y		SF		Jayson Blando		Sam Baldwin	67(4) 62 [7]
+21-23711	1	2	6	1		b32v4t		cndxxd		F		Milo Benn		Hiroki Fujita	Sat @ 23:00
 21-24367	1	1	1	4	1	x834xi		3yo88o		F		David Szeri		Alvaro Nunez	57 61 [7]
 21-24367	1	1	1	3	1	x834xi		05w5iz		SF		David Szeri		Vaclav Schneider	75 62
 21-24367	1	1	1	3	1	3yo88o		hrevs5		SF		Alvaro Nunez		Makary Adamek	64 00 Ret.
