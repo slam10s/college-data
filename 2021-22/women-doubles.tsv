@@ -1,9 +1,9 @@
 ---
 tournaments: 34
 players: 1180
-matches: 788
-completed: 754
-scheduled: 34
+matches: 789
+completed: 757
+scheduled: 32
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	4	1	1	3	1	05dfxv	y7ozqx	qgma2y	kac8kc	R3		Hunger/Simas		Aswal/Lozano	62
@@ -189,7 +189,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	4	3	2	1	1	eixuv0	ondxxd	8rxld9	n0emae	QF		Katsoudas/Chhabra		Gottiparthy/Cantrell	61
 21-07548	4	3	2	1	1	1f9l1l	fbrdrx	bjt9hh	ktrvrf	QF		Kaya/Syrova		Dufays/Thomet	63
 21-07548	4	3	2	1	1	bp5r5b	2jajwd	bulu7o	frgbyd	QF		Duca/Bouchaala		Gallman/McKenzie	60
-21-07548	4	3	3	2		s7ozqx	q4h0be	fg7gta	8p77bj	F		Lewis/Katzarkov		Villanueva/Teterina	Sun @ 08:30
+21-07548	4	3	3	2	1	fg7gta	8p77bj	s7ozqx	q4h0be	F		Villanueva/Teterina		Lewis/Katzarkov	Walkover
 21-07548	4	3	3	1	1	s7ozqx	q4h0be	fh1f9j	lc42sa	SF		Lewis/Katzarkov	4	Jones/Prato	Walkover
 21-07548	4	3	3	1	1	fg7gta	8p77bj	428wok	sdj7zv	SF		Villanueva/Teterina		Popham/Varudandi	61
 21-07548	4	3	4	1		mulu7o	5wwe0q	s8iy66	owwe0q	F		Elliott/Ncube	3	Alfaro/Rivera	Sun @ 08:30
@@ -618,7 +618,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-50226	2	20	1	1	1	m4h0be	w26gic	r34ba1	fvh9t5	F		Heinitz/Bowles		Skobkareva/Girbau	64
 21-54831	2	1	1	4		2pm1k7	181ora	kwdofm	cv0ze9	QF	1	Bossi/Chang		Fernald/Manolescu	Sun @ 08:30
 21-54831	2	1	1	4		16sk4g	ergbyd	8bpxlp	onwnih	QF	4	Parra Romero/Ode Mi…	5	Davidescu/Manjanna	Sun @ 08:30
-21-54831	2	1	1	4		oz1x91	lgma2y	5t6p03	urgbyd	QF	7	Clark/Andreini	3	Afanasyeva/Moulin	Sun @ 08:30
+21-54831	2	1	1	4	1	5t6p03	urgbyd	oz1x91	lgma2y	QF	3	Afanasyeva/Moulin	7	Clark/Andreini	61
 21-54831	2	1	1	4		dq16rs	h0g2gm	04h0be	qd0her	QF		Hsieh/Nagato	2	Kiefer/ODell	Sun @ 08:30
 21-54831	2	1	1	3	1	2pm1k7	181ora	71trhz	qyo88o	16	1	Bossi/Chang		Cheng/Som	63
 21-54831	2	1	1	3	1	kwdofm	cv0ze9	6l2d4b	h32v4t	16		Fernald/Manolescu	6	Barad Itzaki/Aksu	76(6)
@@ -645,6 +645,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-54831	2	1	1	2	1	ywdofm	ic2mm2	gst0zq	2f9l1l	32		Heiberg/Buendia		Joliff/Hincu	61
 21-54831	2	1	1	2	1	04h0be	qd0her	gc42sa	kmhibw	32	2	Kiefer/ODell		Pinto/Cartledge	61
 21-54831	2	1	1	1	1	nz1x91	ttpfl7	4dhrtn	ipm1k7	64		Dunbar/Cohen		Hederich/Barton	61
+21-54831	2	2	1	1	1	4u24mk	bxbj7b	8u4kss	u69ujc	F		Alhach/van Meeteren		Loudili/Ifidzhen	62
 21-60580	2	1	1	4		eu4kss	bscqku	bl2d4b	latiz8	F	1	Spee/Shelton		Bekrar/Kabbaj	Sun @ 09:00
 21-60580	2	1	1	3	1	eu4kss	bscqku	nqkwcw	yzknu5	SF	1	Spee/Shelton	3	Sharma/Mattel	61
 21-60580	2	1	1	3	1	bl2d4b	latiz8	grevs5	2dy18j	SF		Bekrar/Kabbaj		Berry/Boy	76(4)

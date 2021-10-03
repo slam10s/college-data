@@ -1,9 +1,9 @@
 ---
 tournaments: 34
 players: 888
-matches: 1472
+matches: 1474
 completed: 1433
-scheduled: 39
+scheduled: 41
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	nll3pf		vjt9hh		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -561,7 +561,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23711	1	1	2	2		vwwe0q		f3n1v5		F		Manuel Monteiro		Marcos Zelver	Sun @ 10:00
 21-23711	1	1	2	1	1	vwwe0q		3oqmyq		SF		Manuel Monteiro		Michael Blando	62 62
 21-23711	1	1	2	1	1	f3n1v5		jh3vfr		SF		Marcos Zelver		Josh Watkins	63 62
-21-23711	1	1	3	1		hmhibw		440qwi		F		Pontus Hallgren		Zachary Matuszak	Sun @ 11:00
 21-23711	1	2	1	4		smhibw		ik8eo2		F		Mathias Gavelin		Lawrence Sciglitano	Sun @ 11:00
 21-23711	1	2	1	3	1	smhibw		ay5ink		SF		Mathias Gavelin		Patrick Kristensen	76(5) 64
 21-23711	1	2	1	3	1	ik8eo2		yixuv0		SF		Lawrence Sciglitano		Andreas Kramer	36 64 64
@@ -588,7 +587,10 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23711	1	2	5	2	1	6qig6o		xdy18j		F		Bradley Buckland		Jayson Blando	76(4) 76(4)
 21-23711	1	2	5	1	1	6qig6o		h8kece		SF		Bradley Buckland		Matheus Leite	Walkover
 21-23711	1	2	5	1	1	xdy18j		vgma2y		SF		Jayson Blando		Sam Baldwin	67(4) 62 [7]
-21-23711	1	2	6	1		b32v4t		cndxxd		F		Milo Benn		Hiroki Fujita	Sat @ 23:00
+21-23711	1	3	1	1		z28wok		vgma2y		QF		Aleksandar Petrovic		Sam Baldwin	Sun @ 11:00
+21-23711	1	3	1	1		ay5ink		hmhibw		QF		Patrick Kristensen		Pontus Hallgren	Sun @ 11:00
+21-23711	1	3	1	1		zsaaem		3oqmyq		QF		Umit Ege Cankus		Michael Blando	Sun @ 11:00
+21-23711	1	3	1	1		yixuv0		xdy18j		QF		Andreas Kramer		Jayson Blando	Sun @ 11:00
 21-24367	1	1	1	4	1	x834xi		3yo88o		F		David Szeri		Alvaro Nunez	57 61 [7]
 21-24367	1	1	1	3	1	x834xi		05w5iz		SF		David Szeri		Vaclav Schneider	75 62
 21-24367	1	1	1	3	1	3yo88o		hrevs5		SF		Alvaro Nunez		Makary Adamek	64 00 Ret.
