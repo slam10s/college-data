@@ -1,8 +1,8 @@
 ---
-tournaments: 285
-events: 626
+tournaments: 286
+events: 628
 eventsWithDraws: 240
-eventsWithoutDraws: 386
+eventsWithoutDraws: 388
 draws: 777
 brackets: 1721
 results: 22741
@@ -407,6 +407,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-11230	2			W	Women's Open Doubles				
 21-11561	1			W	Women's Open Singles				
 21-11561	2			W	Women's Open Doubles				
+21-12073	1			W	Women's Open Singles				
+21-12073	2			W	Women's Open Doubles				
 21-12873	1	1	1	W	Women's Open Singles	Championship Singles	Main	64,32,16,QF,SF,F	63
 21-12873	1	1	2	W	Women's Open Singles	Championship Singles	Consolation	32Q,32,16,QF,SF,F	47
 21-12873	1	2	1	W	Women's Open Singles	B1	Main	QF,SF,F	7
