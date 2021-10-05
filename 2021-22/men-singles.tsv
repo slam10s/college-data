@@ -1,9 +1,9 @@
 ---
-tournaments: 105
-players: 2741
-matches: 4460
-completed: 4398
-scheduled: 62
+tournaments: 106
+players: 2768
+matches: 4507
+completed: 4505
+scheduled: 2
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	4h3vfr		xscqku		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -3236,38 +3236,54 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-73796	1	2	1	1	1	3387mh		67qfw5		128		Sebastian Rodriguez		Melvin Manuel	62 46 76(7)
 21-73796	1	2	1	1	1	2w0ac6		qkca0i		128		Blaz Seric		Walker Stearns	64 62
 21-73796	1	2	1	1	1	q40qwi		catiz8		128		Kaya Gore		Christopher Cahour	67(3) 60 64
-21-73796	1	3	1	2		bigkg4		8efmlc		128		Chase Ferguson		Yuta Kikuchi	Tue @ 08:00
-21-73796	1	3	1	2		f40qwi		f9kpab		128		Daniel De Jonge		Luca Staeheli	Tue @ 08:00
-21-73796	1	3	1	2		xrk7at		4eyc6g		128		Toby Samuel		Nicholas McKinney	Tue @ 08:00
-21-73796	1	3	1	2		7p5r5b		1wyu6y		128		Justin Barki		Vlad Lobak	Tue @ 08:00
-21-73796	1	3	1	2		ap77bj		sag4ws		128		Garrett Johns		Chris Rodesch	Tue @ 08:00
-21-73796	1	3	1	2		gjef8t		vjzlz5		128		Guido Marson		Vito Tonejc	Tue @ 08:00
-21-73796	1	3	1	2		mys4k4		oobsp2		128		Fabien Salle		Eric Hadigian	Tue @ 10:00
-21-73796	1	3	1	2		cobsp2		khml0v		128		Welsh Hotard		Joshua Lapadat	Tue @ 10:00
-21-73796	1	3	1	2		68709y		wst0zq		128		Tim Zeitvogel		Murphy Cassone	Tue @ 08:00
-21-73796	1	3	1	2		mndxxd		pdhrtn		128		Thomas Brown		Geronimo Busleiman	Tue @ 08:00
-21-73796	1	3	1	2		ef9l1l		ry9ez0		128		Justin Boulais		Francois Musitelli	Tue @ 08:00
-21-73796	1	3	1	2		v2acus		fgma2y		128		Filip Malbasic		Simon Arca Costas	Tue @ 08:00
-21-73796	1	3	1	2		cp5r5b		hpohqf		128		Max Basing		Connor Di Marco	Tue @ 09:30
-21-73796	1	3	1	2		w2rm9o		0pb3nz		128		Carlos Hassey		JJ Tracy	Tue @ 09:30
-21-73796	1	3	1	2		blrf73		x7595t		128		Siem Woldeab		Blake Croyder	Tue @ 08:00
-21-73796	1	3	1	2		l2rm9o		glpz1v		128		Trey Hilderbrand		Carl Emil Overbeck	Tue @ 08:00
-21-73796	1	3	1	2		elnjvn		mbpxlp		128		Andre Ilagan		Jacob Brumm	Tue @ 10:00
-21-73796	1	3	1	2		21gdej		chml0v		128		Stijn Slump		Lui Maxted	Tue @ 10:00
-21-73796	1	3	1	2		ku8g48		21xntf		128		Ezequiel Santalla		Tadeas Paroulek	Tue @ 09:30
-21-73796	1	3	1	2		8i36do		dnfd3l		128		Gavin Young		Alexander Hoogmarte…	Tue @ 09:30
-21-73796	1	3	1	2		644m8y		0i1q7g		128		Noah Schachter		Filippo Moroni	Tue @ 08:00
-21-73796	1	3	1	2		mv2fkh		dq7i9g		128		Ewen Lumsden		Harris Walker	Tue @ 08:00
-21-73796	1	3	1	2		hed6f4		hjzlz5		128		Emmanuel Coste		kevin zhu	Tue @ 08:00
-21-73796	1	3	1	2		18oaou		y7sv2d		128		Colton Smith		Henry Schulenburg	Tue @ 08:00
-21-73796	1	3	1	2		lrz1jh		091zp7		128		Cleeve Harper		Bogdan Pavel	Tue @ 08:00
-21-73796	1	3	1	2		lbv93d		10xcvi		128		Pedro Vives Marcos		Tristan Boyer	Tue @ 08:00
-21-73796	1	3	1	2		mw0ac6		uqmci4		128		Mattias Siimar		Tad McClean	Tue @ 08:00
-21-73796	1	3	1	2		d6u0ao		d387mh		128		John Hallquist Lith…		Alexandre Rotsaert	Tue @ 08:00
-21-73796	1	3	1	2		8t856b		5ii0mc		128		Stefan Dostanic		Shunsuke Mitsui	Tue @ 08:00
-21-73796	1	3	1	2		wyqoew		ekca0i		128		Holden Koons		Pierce Rollins	Tue @ 08:00
-21-73796	1	3	1	2		higkg4		3n0jux		128		Chris Edge		Rayane Stable	Tue @ 08:00
-21-73796	1	3	1	2		lmnutk		3se6q2		128		Lodewijk Weststrate		Alex Martinez	Tue @ 08:00
+21-73796	1	3	1	3	1	f40qwi		8efmlc		64		Daniel De Jonge		Yuta Kikuchi	61 75
+21-73796	1	3	1	3	1	xrk7at		7p5r5b		64		Toby Samuel		Justin Barki	64 64
+21-73796	1	3	1	3	1	sag4ws		vjzlz5		64		Chris Rodesch		Vito Tonejc	63 75
+21-73796	1	3	1	3	1	oobsp2		khml0v		64		Eric Hadigian		Joshua Lapadat	64 64
+21-73796	1	3	1	3	1	68709y		pdhrtn		64		Tim Zeitvogel		Geronimo Busleiman	63 46 76(3)
+21-73796	1	3	1	3	1	ry9ez0		fgma2y		64		Francois Musitelli		Simon Arca Costas	63 61
+21-73796	1	3	1	3	1	0pb3nz		cp5r5b		64		JJ Tracy		Max Basing	76(4) 60
+21-73796	1	3	1	3	1	l2rm9o		x7595t		64		Trey Hilderbrand		Blake Croyder	63 36 64
+21-73796	1	3	1	3	1	elnjvn		21gdej		64		Andre Ilagan		Stijn Slump	62 57 60
+21-73796	1	3	1	3		21xntf		8i36do		64		Tadeas Paroulek		Gavin Young	Tue @ 14:00
+21-73796	1	3	1	3	1	0i1q7g		dq7i9g		64		Filippo Moroni		Harris Walker	64 75
+21-73796	1	3	1	3	1	y7sv2d		hed6f4		64		Henry Schulenburg		Emmanuel Coste	63 64
+21-73796	1	3	1	3	1	10xcvi		091zp7		64		Tristan Boyer		Bogdan Pavel	64 62
+21-73796	1	3	1	3	1	uqmci4		d6u0ao		64		Tad McClean		John Hallquist Lith…	76(5) 64
+21-73796	1	3	1	3	1	8t856b		wyqoew		64		Stefan Dostanic		Holden Koons	64 75
+21-73796	1	3	1	3	1	lmnutk		3n0jux		64		Lodewijk Weststrate		Rayane Stable	62 64
+21-73796	1	3	1	2	1	8efmlc		bigkg4		128		Yuta Kikuchi		Chase Ferguson	61 63
+21-73796	1	3	1	2	1	f40qwi		f9kpab		128		Daniel De Jonge		Luca Staeheli	63 61
+21-73796	1	3	1	2	1	xrk7at		4eyc6g		128		Toby Samuel		Nicholas McKinney	63 61
+21-73796	1	3	1	2	1	7p5r5b		1wyu6y		128		Justin Barki		Vlad Lobak	61 64
+21-73796	1	3	1	2	1	sag4ws		ap77bj		128		Chris Rodesch		Garrett Johns	67(5) 76(6) 64
+21-73796	1	3	1	2	1	vjzlz5		gjef8t		128		Vito Tonejc		Guido Marson	Walkover
+21-73796	1	3	1	2	1	oobsp2		mys4k4		128		Eric Hadigian		Fabien Salle	75 26 75
+21-73796	1	3	1	2	1	khml0v		cobsp2		128		Joshua Lapadat		Welsh Hotard	64 63
+21-73796	1	3	1	2	1	68709y		wst0zq		128		Tim Zeitvogel		Murphy Cassone	61 64
+21-73796	1	3	1	2	1	pdhrtn		mndxxd		128		Geronimo Busleiman		Thomas Brown	76(4) 57 61
+21-73796	1	3	1	2	1	ry9ez0		ef9l1l		128		Francois Musitelli		Justin Boulais	64 62
+21-73796	1	3	1	2	1	fgma2y		v2acus		128		Simon Arca Costas		Filip Malbasic	26 75 75
+21-73796	1	3	1	2	1	cp5r5b		hpohqf		128		Max Basing		Connor Di Marco	62 64
+21-73796	1	3	1	2	1	0pb3nz		w2rm9o		128		JJ Tracy		Carlos Hassey	16 64 61
+21-73796	1	3	1	2	1	x7595t		blrf73		128		Blake Croyder		Siem Woldeab	76(4) 75
+21-73796	1	3	1	2	1	l2rm9o		glpz1v		128		Trey Hilderbrand		Carl Emil Overbeck	64 36 64
+21-73796	1	3	1	2	1	elnjvn		mbpxlp		128		Andre Ilagan		Jacob Brumm	64 62
+21-73796	1	3	1	2	1	21gdej		chml0v		128		Stijn Slump		Lui Maxted	61 62
+21-73796	1	3	1	2	1	21xntf		ku8g48		128		Tadeas Paroulek		Ezequiel Santalla	62 46 63
+21-73796	1	3	1	2	1	8i36do		dnfd3l		128		Gavin Young		Alexander Hoogmarte…	75 64
+21-73796	1	3	1	2	1	0i1q7g		644m8y		128		Filippo Moroni		Noah Schachter	46 64 63
+21-73796	1	3	1	2	1	dq7i9g		mv2fkh		128		Harris Walker		Ewen Lumsden	26 61 61
+21-73796	1	3	1	2	1	hed6f4		hjzlz5		128		Emmanuel Coste		kevin zhu	63 60
+21-73796	1	3	1	2	1	y7sv2d		18oaou		128		Henry Schulenburg		Colton Smith	62 16 63
+21-73796	1	3	1	2	1	091zp7		lrz1jh		128		Bogdan Pavel		Cleeve Harper	63 75
+21-73796	1	3	1	2	1	10xcvi		lbv93d		128		Tristan Boyer		Pedro Vives Marcos	76(4) 76(2)
+21-73796	1	3	1	2	1	uqmci4		mw0ac6		128		Tad McClean		Mattias Siimar	60 62
+21-73796	1	3	1	2	1	d6u0ao		d387mh		128		John Hallquist Lith…		Alexandre Rotsaert	64 60
+21-73796	1	3	1	2	1	8t856b		5ii0mc		128		Stefan Dostanic		Shunsuke Mitsui	16 76(3) 75
+21-73796	1	3	1	2	1	wyqoew		ekca0i		128		Holden Koons		Pierce Rollins	26 61 64
+21-73796	1	3	1	2	1	3n0jux		higkg4		128		Rayane Stable		Chris Edge	60 76(1)
+21-73796	1	3	1	2	1	lmnutk		3se6q2		128		Lodewijk Weststrate		Alex Martinez	62 62
 21-73796	1	3	1	1	1	bigkg4		c0iimu		256		Chase Ferguson		Mark Mandlik	75 16 75
 21-73796	1	3	1	1	1	8efmlc		6387mh		256		Yuta Kikuchi		Abedallah Shelbayh	63 63
 21-73796	1	3	1	1	1	f40qwi		0hml0v		256		Daniel De Jonge		Kyryll Kryvchun	64 62
@@ -3333,35 +3349,32 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-73796	1	3	1	1	1	lmnutk		g28wok		256		Lodewijk Weststrate		Gabriel Diaz Freire	76(4) 46 75
 21-73796	1	3	1	1	1	3se6q2		vvjpzd		256		Alex Martinez		Rafael Iziquierdo L…	63 26 41 Ret.
 21-73796	1	4	1	1		twwe0q		o28wok		64		Bradley Frye		Kyle Frankel	Tue @ 09:00
-21-73796	1	4	1	1		natiz8		giza18		64		Alex Brown		Magnus Johnson	Tue @ 09:00
-21-73796	1	4	1	1		wnj9f1		jpb3nz		64		Ilgiz Valiev		Mark Wallner	Tue @ 09:30
-21-73796	1	4	1	1		dsvg5y		rac8kc		64		Ronan Jachuck		Conor Gannon	Tue @ 09:30
-21-73796	1	4	1	1		0hml0v		6v4vqp		64		Kyryll Kryvchun		David Stevenson	Tue @ 09:30
-21-73796	1	4	1	1		a834xi		o6sk4g		64		Matt Hulme		Oscar Cutting	Tue @ 09:30
-21-73796	1	4	1	1		mi1q7g		a6wggw		64		Loris Pourroy		Timothy Sah	Tue @ 10:00
-21-73796	1	4	1	1		vl4taj		95dfxv		64		Marin Delmas		Leyton Cronje	Tue @ 10:00
-21-73796	1	4	1	1		maxebo		7ys4k4		64		Finlay Murgett		Matthis Ross	Tue @ 10:00
-21-73796	1	4	1	1		vvjpzd		49i943		64		Rafael Iziquierdo L…		Rafael Marques Da S…	Tue @ 10:00
-21-73796	1	4	1	1		p3llpx		jwj0xa		64		Charles Bertimon		Quinn Vandecasteele	Tue @ 10:30
-21-73796	1	4	1	1		mqig6o		ied6f4		64		Carles Anton		Joshua Charlton	Tue @ 10:30
-21-73796	1	4	1	1		bwj0xa		6387mh		64		Andrew Zhang		Abedallah Shelbayh	Tue @ 11:00
-21-73796	1	4	1	1		x81ora		4unadw		64		Richard Ciamarra		edoardo graziani	Tue @ 11:00
-21-73796	1	4	1	1		lm448g		vndxxd		64		Sean Sculley		Joao Ceolin	Tue @ 11:00
-21-73796	1	4	1	1		a6f610		8jcz2l		64		Nicola Vidal		Joshua Goodger	Tue @ 11:00
-21-73796	1	4	1	1		i0xcvi		3ur6pc		64		Jake Finn Bass		Kento Yamada	Tue @ 11:30
-21-73796	1	4	1	1		1bcji9		ozi7ox		64		Nicolas Rousset		Dimitri Badra	Tue @ 11:30
-21-73796	1	4	1	1		jmlenc		4fb17t		64		Francisco Pini		Emile Hudd	Tue @ 11:30
-21-73796	1	4	1	1		wy5ink		5pb3nz		64		Luke Casper		James Trotter	Tue @ 11:30
-21-73796	1	4	1	1		vhml0v		7yqoew		64		Liam Krall		Dusan Milanovic	Tue @ 12:00
-21-73796	1	4	1	1		86dqvs		5qosoc		64		Sema Pankin		James Story	Tue @ 12:00
-21-73796	1	4	1	1		3g50n2		3h1f9j		64		Thomas Bosancic		Athell Bennett	Tue @ 12:30
-21-73796	1	4	1	1		1ofo1i		wsvg5y		64		Inigo Torre Martin		Mac Kiger	Tue @ 12:30
-21-73796	1	4	1	1		mac8kc		xw0ac6		64		Adham Gaber		Johannes Seeman	Tue @ 10:30
-21-73796	1	4	1	1		vkauua		91ch23		64		Patrick Maloney		Callum Gale	Tue @ 10:30
-21-73796	1	4	1	1		n2cs00		syqoew		64		Justin Schlageter		Max McKennon	Tue @ 10:30
-21-73796	1	4	1	1		bbttx5		aag4ws		64		Pavel Motl		Daniel Siddall	Tue @ 10:30
-21-73796	1	4	1	1		c0iimu		7aeoqk		64		Mark Mandlik		Jett Middleton	Tue @ 11:00
-21-73796	1	4	1	1		4rk7at		4z3df9		64		Matt Summers		Nathan Han	Tue @ 11:00
+21-73796	1	4	1	1	1	giza18		natiz8		64		Magnus Johnson		Alex Brown	60 62
+21-73796	1	4	1	1	1	jpb3nz		wnj9f1		64		Mark Wallner		Ilgiz Valiev	46 62 75
+21-73796	1	4	1	1	1	rac8kc		dsvg5y		64		Conor Gannon		Ronan Jachuck	76(4) 26 62
+21-73796	1	4	1	1	1	6v4vqp		0hml0v		64		David Stevenson		Kyryll Kryvchun	63 64
+21-73796	1	4	1	1	1	o6sk4g		ll2d4b		64		Oscar Cutting		Sebastian Arcila	62 64
+21-73796	1	4	1	1	1	a6wggw		mi1q7g		64		Timothy Sah		Loris Pourroy	67(3) 61 63
+21-73796	1	4	1	1	1	7ys4k4		maxebo		64		Matthis Ross		Finlay Murgett	67(5) 62 61
+21-73796	1	4	1	1	1	95dfxv		49i943		64		Leyton Cronje		Rafael Marques Da S…	63 46 62
+21-73796	1	4	1	1	1	jwj0xa		p3llpx		64		Quinn Vandecasteele		Charles Bertimon	76(6) 62
+21-73796	1	4	1	1	1	ied6f4		mqig6o		64		Joshua Charlton		Carles Anton	76(3) 62
+21-73796	1	4	1	1	1	bwj0xa		6387mh		64		Andrew Zhang		Abedallah Shelbayh	16 75 63
+21-73796	1	4	1	1	1	x81ora		4unadw		64		Richard Ciamarra		edoardo graziani	63 63
+21-73796	1	4	1	1	1	vndxxd		lm448g		64		Joao Ceolin		Sean Sculley	64 62
+21-73796	1	4	1	1	1	a6f610		8jcz2l		64		Nicola Vidal		Joshua Goodger	64 62
+21-73796	1	4	1	1	1	i0xcvi		3ur6pc		64		Jake Finn Bass		Kento Yamada	46 52 Ret.
+21-73796	1	4	1	1	1	1bcji9		ozi7ox		64		Nicolas Rousset		Dimitri Badra	61 62
+21-73796	1	4	1	1	1	4fb17t		jmlenc		64		Emile Hudd		Francisco Pini	62 62
+21-73796	1	4	1	1	1	5pb3nz		wy5ink		64		James Trotter		Luke Casper	62 63
+21-73796	1	4	1	1	1	7yqoew		vhml0v		64		Dusan Milanovic		Liam Krall	75 36 63
+21-73796	1	4	1	1	1	5qosoc		86dqvs		64		James Story		Sema Pankin	63 63
+21-73796	1	4	1	1	1	3g50n2		3h1f9j		64		Thomas Bosancic		Athell Bennett	46 76(4) 61
+21-73796	1	4	1	1	1	mac8kc		xw0ac6		64		Adham Gaber		Johannes Seeman	75 60
+21-73796	1	4	1	1	1	vkauua		91ch23		64		Patrick Maloney		Callum Gale	64 63
+21-73796	1	4	1	1	1	bbttx5		aag4ws		64		Pavel Motl		Daniel Siddall	63 75
+21-73796	1	4	1	1	1	c0iimu		7aeoqk		64		Mark Mandlik		Jett Middleton	62 46 75
+21-73796	1	4	1	1	1	4z3df9		4rk7at		64		Nathan Han		Matt Summers	62 62
 21-74684	1	1	1	6	1	siza18		rlpz1v		F		sebastian herrera	2	Ryan Nuno	62 26 [8]
 21-74684	1	1	1	5	1	siza18		70187y		SF		sebastian herrera	8	Carlos Pinedo	63 61
 21-74684	1	1	1	5	1	rlpz1v		v9kpab		SF	2	Ryan Nuno	5	Yassine Smiej	64 06 [9]
@@ -4000,6 +4013,40 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-87113	1	1	1	1	1	a8kece		f795h9		64	15	Omar El Shehawey		Heimraj Resaul	63 62
 21-87113	1	1	1	1	1	5revs5		kfw7y5		64		Gabriel Balestero		Boris Stastny	64 36 [12]
 21-87113	1	1	1	1	1	m44m8y		x9zjjz		64		Guilherme Salim		Gustavo Kerber	36 64 [8]
+21-91236	1	1	1	1	1	ptc1ir		9azuhw		R1		Menno Servaes		Christos Kyrillou	64 57 [6]
+21-91236	1	1	1	1	1	xofo1i		qjef8t		R1		Leighton Brandon		Tomas Martinez	64 26 [7]
+21-91236	1	1	1	1	1	o6dqvs		3tvr3v		R1		Zubin Omar		Pau Riera	63 64
+21-91236	1	1	1	1	1	xi36do		3nj9f1		R1		Nikita Revin		Thomas Wallace	63 62
+21-91236	1	1	1	1	1	e0iimu		3z79rp		R1		Matthew Lapsley		Tyler Carlin	64 64
+21-91236	1	1	1	1	1	vdn3bb		xcropu		R1		Oscar Toro		Will Ulrich	64 63
+21-91236	1	2	1	1	1	9azuhw		fffxj9		R1		Christos Kyrillou		Javier Sanchez Prad…	63 63
+21-91236	1	2	1	1	1	r1z3zn		xofo1i		R1		Jakov Suler		Leighton Brandon	63 62
+21-91236	1	2	1	1	1	rdn3bb		3z79rp		R1		Pedro Alvarez		Tyler Carlin	62 61
+21-91236	1	2	1	1	1	flrf73		3nj9f1		R1		Jesus Perez Plaza		Thomas Wallace	76(5) 46 [12]
+21-91236	1	2	1	1	1	9ybu58		3tvr3v		R1		Jakub Zamorski		Pau Riera	64 62
+21-91236	1	2	1	1	1	lq7i9g		xcropu		R1		Maximiliano Sandova…		Will Ulrich	62 76(4)
+21-91236	1	3	1	1	1	mpqxwn		fffxj9		R1		Oskar Lusti		Javier Sanchez Prad…	75 76(1)
+21-91236	1	3	1	1	1	r1z3zn		ch5blz		R1		Jakov Suler		Juan Ramirez Mejia	76(5) 64
+21-91236	1	3	1	1	1	rdn3bb		ukv0lm		R1		Pedro Alvarez		Pedja Trifunovic	62 61
+21-91236	1	3	1	1	1	w93fvf		flrf73		R1		Oliwer Wierzbicki		Jesus Perez Plaza	60 75
+21-91236	1	3	1	1	1	9ybu58		a3rx7l		R1		Jakub Zamorski		Andrej Zoranovic	60 60
+21-91236	1	3	1	1	1	lq7i9g		lwj0xa		R1		Maximiliano Sandova…		Max Pilipovic-Kljaj…	63 76(6)
+21-91236	1	4	1	1	1	qjef8t		fffxj9		R1		Tomas Martinez		Javier Sanchez Prad…	87(5)
+21-91236	1	4	1	1	1	r1z3zn		ptc1ir		R1		Jakov Suler		Menno Servaes	85
+21-91236	1	4	1	1	1	o6dqvs		flrf73		R1		Zubin Omar		Jesus Perez Plaza	87(2)
+21-91236	1	4	1	1	1	xi36do		9ybu58		R1		Nikita Revin		Jakub Zamorski	83
+21-91236	1	4	1	1	1	lq7i9g		e0iimu		R1		Maximiliano Sandova…		Matthew Lapsley	82
+21-91236	1	5	1	1	1	ptc1ir		mpqxwn		R1		Menno Servaes		Oskar Lusti	76(4) 36 [5]
+21-91236	1	5	1	1	1	qjef8t		ch5blz		R1		Tomas Martinez		Juan Ramirez Mejia	75 46 [4]
+21-91236	1	5	1	1	1	ukv0lm		xi36do		R1		Pedja Trifunovic		Nikita Revin	75 46 [11]
+21-91236	1	5	1	1	1	o6dqvs		w93fvf		R1		Zubin Omar		Oliwer Wierzbicki	64 75
+21-91236	1	5	1	1	1	e0iimu		a3rx7l		R1		Matthew Lapsley		Andrej Zoranovic	64 63
+21-91236	1	5	1	1	1	2nwnih		r7blnh		R1		Ivan Esguerra		Ruslan Pultz	60 64
+21-91236	1	6	1	1	1	mpqxwn		9azuhw		R1		Oskar Lusti		Christos Kyrillou	86
+21-91236	1	6	1	1	1	ch5blz		xofo1i		R1		Juan Ramirez Mejia		Leighton Brandon	84
+21-91236	1	6	1	1	1	ukv0lm		3z79rp		R1		Pedja Trifunovic		Tyler Carlin	83
+21-91236	1	6	1	1	1	w93fvf		lwj0xa		R1		Oliwer Wierzbicki		Max Pilipovic-Kljaj…	86
+21-91236	1	6	1	1	1	xcropu		a3rx7l		R1		Will Ulrich		Andrej Zoranovic	86
 21-92523	1	1	1	4	1	1xwpyn		lz79rp		F		Mann Shah		Andrei Volgin	76(2) 64
 21-92523	1	1	1	3	1	1xwpyn		zur6pc		SF		Mann Shah		James Watt	75 61
 21-92523	1	1	1	3	1	lz79rp		ueh2rk		SF		Andrei Volgin		Carlos Ramos	63 64
