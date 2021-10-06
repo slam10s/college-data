@@ -1,9 +1,9 @@
 ---
-tournaments: 98
-players: 2602
-matches: 1932
+tournaments: 99
+players: 2650
+matches: 1948
 completed: 1932
-scheduled: 0
+scheduled: 16
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	4	1	1	3	1	elnjvn	c1gdej	jhipof	8ba3c1	R3		Hunger/Simas		Aswal/Lozano	62
@@ -1668,6 +1668,22 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-67194	2	2	1	1	1	sowyge	3u8g48	sdy18j	er3xvx	QF		Slezakova/Sharapova		Andrews/Talieu	60
 21-67194	2	2	1	1	1	byqoew	u44m8y	tmhibw	e28wok	QF		Kreugel/Silva Campi…		Bishop/Flesch	76(3)
 21-67194	2	2	1	1	1	o3ph1d	8x9313	l40qwi	lqmci4	QF		Pschorr/Bureau		Going/Loubser	60
+21-68261	2	1	1	1		zbpxlp	5mhibw	j1z3zn	4yo88o	32	1	Corley/Corley		Verma/Di Palma	Wed @ 15:00
+21-68261	2	1	1	1		f9i943	h5jrfj	m9kpab	4l8pmz	32		Louka/Thompson		Sasnouskaya/Starodu…	Wed @ 15:30
+21-68261	2	1	1	1		qofo1i	bys4k4	dv2fkh	g1ch23	32	8	Tran/Sanford		Lamoreaux/Dush	Wed @ 15:00
+21-68261	2	1	1	1		5p5r5b	cjajwd	ckr496	1hml0v	32		Bridges/Babic		Gulihur/Melilo	Wed @ 16:00
+21-68261	2	1	1	1		5kauua	81ch23	b5dfxv	hg50n2	32	3	Makarova/Goldsmith		Campana/Campana	Wed @ 16:30
+21-68261	2	1	1	1		y6q4y8	5795h9	d6u0ao	bp9nhr	32		Antonaki/Racine		Lewis/Pietrowicz	Wed @ 15:00
+21-68261	2	1	1	1		qz5tlh	4z5tlh	y3rx7l	vigkg4	32	5	Murgett/Oliveira		Tjen/Flores	Wed @ 16:30
+21-68261	2	1	1	1		ypm1k7	3t856b	4nu7c9	k4lwnu	32		Adams/Dillon		Ansari/Ovunc	Wed @ 16:45
+21-68261	2	1	1	1		33llpx	id0her	mu60y0	wr1hpp	32		Bryzgalova/Curnic		Mannix/Noel	Wed @ 16:45
+21-68261	2	1	1	1		4nwnih	4sgmwa	ryo88o	jbttx5	32		Daniel/Smith	7	Fukuda/Pachkaleva	Wed @ 17:30
+21-68261	2	1	1	1		1qmci4	tqkwcw	u77pb1	ui1q7g	32		Lilien/Freeman		Kadleckova/Naklo	Wed @ 14:30
+21-68261	2	1	1	1		oixuv0	r9gtyv	sqmci4	yjajwd	32		Colling/Goldsmith	4	Kuczer/Adeshina	Wed @ 16:00
+21-68261	2	1	1	1		vyms2g	9rz1jh	wupqj4	0mhibw	32		Allen/Hule		Poppe/Conde Monfort	Wed @ 17:30
+21-68261	2	1	1	1		c1a1wv	eeww08	xst0zq	0z3df9	32		Axon/Flach	6	Brylin/Killingsworth	Wed @ 14:30
+21-68261	2	1	1	1		j7blnh	ofdhd1	lfb17t	6fsbmp	32		Verden-Anderson/Pur…		Hand/Crowley	Wed @ 15:30
+21-68261	2	1	1	1		6ll3pf	s2p63g	eatiz8	zg50n2	32		Collard/Chervinsky	2	Berankova/Beck	Wed @ 17:30
 21-74684	4	1	1	5	1	4q5238	ql8pmz	kqkwcw	ig50n2	F	2	Ragona/Shiau	1	emery/brascia	86
 21-74684	4	1	1	4	1	kqkwcw	ig50n2	29x3dr	07ozqx	SF	1	emery/brascia		carvajal/fager	86
 21-74684	4	1	1	4	1	4q5238	ql8pmz	s2t2fw	gefmlc	SF	2	Ragona/Shiau	5	Neuburger-Higby/Her…	84
