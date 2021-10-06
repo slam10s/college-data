@@ -1,9 +1,9 @@
 ---
 tournaments: 106
 players: 2795
-matches: 4542
-completed: 4525
-scheduled: 17
+matches: 4543
+completed: 4534
+scheduled: 9
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	2vjpzd		89gtyv		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -2991,7 +2991,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-73796	1	5	1	1	1	fpohqf		dulu7o		64		Arthur Fery	LL	Justin Barki	62 61
 21-73796	1	5	1	1	1	rh1f9j		jowyge		64	5	Trent Bryde	Q	Henry Schulenburg	61 26 64
 21-73796	1	5	1	1	1	k1xntf		yixuv0		64		Alexandre Reco	LL	Emmanuel Coste	64 26 76(2)
-21-73796	1	5	1	1		tzoj6l		fyo88o		64	9	Nikola Slavic		James Davis	Wed @ 11:00
+21-73796	1	5	1	1	1	tzoj6l		fyo88o		64	9	Nikola Slavic		James Davis	63 64
 21-73796	1	5	1	1		lofo1i		llnjvn		64	Q	Jj Tracy		Stefan Hampe	Wed @ 12:30
 21-73796	1	5	1	1	1	744m8y		jk8eo2		64		Francisco Rocha	3	Luc Fomba	76(4) 64
 21-73796	1	5	1	1	1	v28wok		i2p63g		64	Q	Stefan Dostanic		Brian Cernoch	64 60
@@ -3000,17 +3000,17 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-73796	1	5	1	1		gk8eo2		tgq6ee		64	6	Gabriel Diallo		Nemanja Malesevic	Wed @ 13:00
 21-73796	1	5	1	1		e5w5iz		d1ex8b		64	Q	Daniel De Jonge		Raphael Lambling	Wed @ 13:00
 21-73796	1	5	1	1		9rk7at		ywhkr2		64	9	Tyler Stice	Q	Filippo Moroni	Wed @ 12:00
-21-73796	1	5	1	1		7ba3c1		5fdhd1		64		Andres Martin	Q	Tadeas Paroulek	Wed @ 10:30
+21-73796	1	5	1	1	1	7ba3c1		5fdhd1		64		Andres Martin	Q	Tadeas Paroulek	61 62
 21-73796	1	5	1	1	1	1cnsde		xse6q2		64	Q	Andre Ilagan		Marcus McDaniel	63 60
 21-73796	1	5	1	1		m2rm9o		anu7c9		64	Q	Eric Hadigian	9	Juan Carlos Aguilar	Wed @ 12:00
-21-73796	1	5	1	1		hxbj7b		aulu7o		64		Cannon Kingsley		Franco Capalbo	Wed @ 12:00
-21-73796	1	5	1	1		9g9wzi		npm1k7		64		Kody Pearson	7	Andres Andrade	Wed @ 11:00
-21-73796	1	5	1	1		ikauua		n5ylo7		64		Alex Kotzen		Luca Maldoner	Wed @ 10:00
+21-73796	1	5	1	1	1	hxbj7b		aulu7o		64		Cannon Kingsley		Franco Capalbo	62 62
+21-73796	1	5	1	1	1	9g9wzi		npm1k7		64		Kody Pearson	7	Andres Andrade	62 76
+21-73796	1	5	1	1	1	ikauua		n5ylo7		64		Alex Kotzen		Luca Maldoner	57 62 61
 21-73796	1	5	1	1	1	3m448g		v6wggw		64	9	Hamish Stewart	Q	Chris Rodesch	64 62
 21-73796	1	5	1	1		6l69gr		ie0sco		64	LL	Joshua Lapadat	Q	Toby Samuel	Wed @ 12:30
-21-73796	1	5	1	1		7rir4l		4qosoc		64	LL	Holden Koons	4	Finn Reynolds	Wed @ 11:30
-21-73796	1	5	1	1		b4lwnu		yndxxd		64		Axel Nefve		Mason Beiler	Wed @ 12:00
-21-73796	1	5	1	1		gi36do		hz79rp		64	LL	Vito Tonejc	9	Connor Thomson	Wed @ 10:30
+21-73796	1	5	1	1	1	4qosoc		7rir4l		64	4	Finn Reynolds	LL	Holden Koons	76(4) 63
+21-73796	1	5	1	1	1	yndxxd		b4lwnu		64		Mason Beiler		Axel Nefve	63 75
+21-73796	1	5	1	1	1	hz79rp		gi36do		64	9	Connor Thomson	LL	Vito Tonejc	64 67(3) 62
 21-73796	1	5	1	1		omhibw		pwdofm		64		Jacob Bickersteth	Q	Tristan Boyer	Wed @ 11:30
 21-73796	1	5	1	1	1	ynfd3l		a7qfw5		64	8	Philip Henning	Q	Tad McClean	62 62
 21-73796	1	5	1	1		0wf4lu		l1xntf		64		August Holmgren		Karl Poling	Wed @ 13:30
@@ -3129,6 +3129,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-73796	1	103	1	1	1	5qosoc		lzknu5		256		Rayane Stable		Adham Gaber	26 60 76(1)
 21-73796	1	103	1	1	1	znj9f1		g8kece		256		Lodewijk Weststrate	Q	Gabriel Diaz Freire	76(4) 46 75
 21-73796	1	103	1	1	1	j9i943		t3n1v5		256		Alex Martinez	17	Rafael Iziquierdo L…	63 26 41 Ret.
+21-73796	1	104	1	1	1	mac8kc		5u4kss		64		Bradley Frye		Kyle Frankel	64 26 76(3)
 21-73796	1	104	1	1	1	89zjjz		sy5ink		64		Magnus Johnson		Alex Brown	60 62
 21-73796	1	104	1	1	1	9i36do		gbv93d		64		Mark Wallner		Ilgiz Valiev	46 62 75
 21-73796	1	104	1	1	1	wac8kc		b0zs1q		64		Conor Gannon		Ronan Jachuck	76(4) 26 62
@@ -3149,7 +3150,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-73796	1	104	1	1	1	7gbc5q		82p63g		64		James Trotter		Luke Casper	62 63
 21-73796	1	104	1	1	1	z1ex8b		n2acus		64		Dusan Milanovic		Liam Krall	75 36 63
 21-73796	1	104	1	1	1	kkca0i		03ph1d		64		James Story		Sema Pankin	63 63
-21-73796	1	104	1	1	1	2tpfl7		20xcvi		64		Thomas Bosancic		Athell Bennett	46 76(4) 61
+21-73796	1	104	1	1	1	2tpfl7		20xcvi		64		Thomas Bosancic		Athell Bennett	76(4) 61
 21-73796	1	104	1	1	1	lzknu5		id4dq7		64		Adham Gaber		Johannes Seeman	75 60
 21-73796	1	104	1	1	1	awyu6y		e1ch23		64		Patrick Maloney		Callum Gale	64 63
 21-73796	1	104	1	1	1	f0187y		dowyge		64		Pavel Motl		Daniel Siddall	63 75
