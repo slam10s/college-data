@@ -1,9 +1,9 @@
 ---
 tournaments: 106
-players: 2768
-matches: 4507
-completed: 4505
-scheduled: 2
+players: 2796
+matches: 4543
+completed: 4510
+scheduled: 33
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	mefmlc		fpohqf		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -311,6 +311,9 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-07548	1	6	3	1	1	0xffjr		3clc76		SF		Rodrigo Zapata		Erick Cruz	62 63
 21-07548	1	6	4	1	1	pwwe0q		xwhkr2		F	1	Connor Evenson	2	Sebastian Nunez	57 60 [7]
 21-07548	1	6	7	1	1	3clc76		0c6iyi		F		Erick Cruz		Brody Millwood	63 61
+21-07548	1	7	1	1	1	wc42sa		whk5un		QF		Francisco Erramuspe		DANNY FLYNN	64 36 [10]
+21-07548	1	7	1	1	1	xfsbmp		ondxxd		QF		Haktan Garayev		SAMUEL BARROW	61 75
+21-07548	1	7	1	1	1	nttbxn		ijzlz5		QF		Nino Portugal		Khalen Wimes	60 60
 21-08096	1	1	1	4	1	bn0jux		xba3c1		F	2	Bruno Sabio	1	Carlos Martinez	63 64
 21-08096	1	1	1	3	1	xba3c1		9u24mk		SF	1	Carlos Martinez	4	David Akinpetide	67(5) 64 [7]
 21-08096	1	1	1	3	1	bn0jux		tvyj81		SF	2	Bruno Sabio	3	Ruben Acuna	64 46 [5]
@@ -1966,6 +1969,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-41355	1	2	2	1	1	8fb17t		nsgmwa		SF		Mathieu Josserand		Callum Theaker	62 46 63
 21-41355	1	2	3	1	1	pxstm7		i6u0ao		F		John Dransfeld		Juan Lombisano	62 36 75
 21-41355	1	2	4	1	1	nsgmwa		3h5blz		F		Callum Theaker	1	Stefan Petrovic	Walkover
+21-43730	1	1	1	6	1	0efmlc		72cs00		F	1	James Hopper	5	Ansh Shah	62 60
 21-43730	1	1	1	5	1	0efmlc		ggma2y		SF	1	James Hopper	9	Vishwa Aduru	61 63
 21-43730	1	1	1	5	1	72cs00		x2p63g		SF	5	Ansh Shah	2	Timmy Cianciola	60 62
 21-43730	1	1	1	4	1	0efmlc		e1ex8b		QF	1	James Hopper		Rishil Kondapaneni	61 61
@@ -3245,7 +3249,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-73796	1	3	1	3	1	cz79rp		i0xcvi		64		JJ Tracy		Max Basing	76(4) 60
 21-73796	1	3	1	3	1	3z3df9		f4h0be		64		Trey Hilderbrand		Blake Croyder	63 36 64
 21-73796	1	3	1	3	1	wiza18		jho163		64		Andre Ilagan		Stijn Slump	62 57 60
-21-73796	1	3	1	3		q91zp7		7vnlbt		64		Tadeas Paroulek		Gavin Young	Tue @ 14:00
+21-73796	1	3	1	3	1	q91zp7		7vnlbt		64		Tadeas Paroulek		Gavin Young	64 64
 21-73796	1	3	1	3	1	oq5238		vbv93d		64		Filippo Moroni		Harris Walker	64 75
 21-73796	1	3	1	3	1	yv4vqp		zbpxlp		64		Henry Schulenburg		Emmanuel Coste	63 64
 21-73796	1	3	1	3	1	7bpxlp		oh5blz		64		Tristan Boyer		Bogdan Pavel	64 62
@@ -3375,6 +3379,38 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-73796	1	4	1	1	1	zjx5tx		g9kpab		64		Pavel Motl		Daniel Siddall	63 75
 21-73796	1	4	1	1	1	08muim		vii0mc		64		Mark Mandlik		Jett Middleton	62 46 75
 21-73796	1	4	1	1	1	mwf4lu		rikgsk		64		Nathan Han		Matt Summers	62 62
+21-73796	1	5	1	1		rtc1ir		s03od6		64		Daniel Rodrigues		Tyler Zink	Wed @ 09:00
+21-73796	1	5	1	1		5gsmkm		ysxwb6		64		Ben Shelton		Martim Prata	Wed @ 09:00
+21-73796	1	5	1	1		k3n1v5		f6dqvs		64		Ronnie Hohmann		Francois Musitelli	Wed @ 09:00
+21-73796	1	5	1	1		428wok		fdj7zv		64		Arthur Fery		Alexander Jong	Wed @ 09:00
+21-73796	1	5	1	1		mtpfl7		yv4vqp		64		Trent Bryde		Henry Schulenburg	Wed @ 09:00
+21-73796	1	5	1	1		zbpxlp		n4lwnu		64		Emmanuel Coste		Alexandre Reco	Wed @ 09:00
+21-73796	1	5	1	1		q9kpab		9b8n6t		64		Nikola Slavic		James Davis	Wed @ 11:00
+21-73796	1	5	1	1		cz79rp		glnjvn		64		JJ Tracy		Stefan Hampe	Wed @ 12:30
+21-73796	1	5	1	1		q0g2gm		mzoj6l		64		Luc Fomba		Francisco Rocha	Wed @ 09:00
+21-73796	1	5	1	1		qqkwcw		73llpx		64		Stefan Dostanic		Brian Cernoch	Wed @ 09:00
+21-73796	1	5	1	1		ki36do		y7ozqx		64		MAtej Vocel		Ryan Goetz	Wed @ 09:00
+21-73796	1	5	1	1		yjt9hh		wigkg4		64		Clement Chidekh		Jonas Eriksson Zive…	Wed @ 09:00
+21-73796	1	5	1	1		nu4kss		dtalcj		64		Gabriel Diallo		Nemanja Malesevic	Wed @ 13:00
+21-73796	1	5	1	1		x1ch23		f5ylo7		64		Daniel De Jonge		Raphael Lambling	Wed @ 13:00
+21-73796	1	5	1	1		67sv2d		oq5238		64		Tyler Stice		Filippo Moroni	Wed @ 12:00
+21-73796	1	5	1	1		ld2xkz		q91zp7		64		Andres Martin		Tadeas Paroulek	Wed @ 10:30
+21-73796	1	5	1	1		5jef8t		wiza18		64		Marcus McDaniel		Andre Ilagan	Wed @ 10:30
+21-73796	1	5	1	1		h2rm9o		sqig6o		64		Eric Hadigian		Juan Carlos Aguilar	Wed @ 12:00
+21-73796	1	5	1	1		p6bapk		569ujc		64		Cannon Kingsley		Franco Capalbo	Wed @ 12:00
+21-73796	1	5	1	1		oz5tlh		nvyj81		64		Kody Pearson		Andres Andrade	Wed @ 11:00
+21-73796	1	5	1	1		8wyu6y		7ii0mc		64		Alex Kotzen		Luca Maldoner	Wed @ 10:00
+21-73796	1	5	1	1		likgsk		02cs00		64		Chris Rodesch		Hamish Stewart	Wed @ 10:00
+21-73796	1	5	1	1		8pqxwn		ltc1ir		64		Joshua Lapadat		Toby Samuel	Wed @ 12:30
+21-73796	1	5	1	1		ev2fkh		33ph1d		64		Holden Koons		Finn Reynolds	Wed @ 11:30
+21-73796	1	5	1	1		j1xntf		m7595t		64		Axel Nefve		Mason Beiler	Wed @ 12:00
+21-73796	1	5	1	1		7tvr3v		8azuhw		64		Vito Tonejc		Connor Thomson	Wed @ 10:30
+21-73796	1	5	1	1		oy5ink		7bpxlp		64		Jacob Bickersteth		Tristan Boyer	Wed @ 11:30
+21-73796	1	5	1	1		iyqoew		h1v7n7		64		Tad McClean		Philip Henning	Wed @ 10:30
+21-73796	1	5	1	1		7obsp2		61xntf		64		August Holmgren		Karl Poling	Wed @ 13:30
+21-73796	1	5	1	1		9i36do		vp5r5b		64		Lodewijk Weststrate		Micah Braswell	Wed @ 13:30
+21-73796	1	5	1	1		5dhrtn		3z3df9		64		Florian Broska		Trey Hilderbrand	Wed @ 09:00
+21-73796	1	5	1	1		bwj0xa		sl69gr		64		Tim Zeitvogel		Johannus Monday	Wed @ 09:00
 21-74684	1	1	1	6	1	afb17t		fttbxn		F		sebastian herrera	2	Ryan Nuno	62 26 [8]
 21-74684	1	1	1	5	1	afb17t		7upqj4		SF		sebastian herrera	8	Carlos Pinedo	63 61
 21-74684	1	1	1	5	1	fttbxn		18oaou		SF	2	Ryan Nuno	5	Yassine Smiej	64 06 [9]
@@ -3445,7 +3481,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-74684	1	1	2	2	1	2p77bj		m0xcvi		32		Tegan Hartman	4	Leyton Bohren	Walkover
 21-74684	1	1	2	2	1	fq5238		w8kece		32	7	alexey prokopchuk		Alfonso de Simon	Walkover
 21-74684	1	1	2	1	1	svnlbt		xeyc6g		32Q		Paco Wortelmann	15	Jorge Lajes	Walkover
-21-74684	1	1	2	1	1	faxebo		00kys2		32Q		Jasdeep Paintal		Tomas Ruiz	Walkover
+21-74684	1	1	2	1	1	faxebo		00kys2		32Q		Jasdeep Paintal		Tomas Ruiz	60 61
 21-74781	1	1	1	5	1	5yo88o		gtvr3v		F	1	Diego Dalisay	3	Emilio Vila	76(5) 62
 21-74781	1	1	1	4	1	5yo88o		u501uf		SF	1	Diego Dalisay	4	Matt Shearer	63 75
 21-74781	1	1	1	4	1	gtvr3v		b1ch23		SF	3	Emilio Vila		Ethan Dunn	63 62
