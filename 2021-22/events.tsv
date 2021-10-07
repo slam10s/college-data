@@ -1,11 +1,11 @@
 ---
-tournaments: 293
-events: 644
+tournaments: 295
+events: 648
 eventsWithDraws: 250
-eventsWithoutDraws: 394
-draws: 809
-brackets: 1754
-results: 23994
+eventsWithoutDraws: 398
+draws: 814
+brackets: 1756
+results: 24104
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -839,6 +839,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-31047	2	3	2	W	Women's Open Doubles	Flight 3	Playoff 1	F	1
 21-31047	2	3	3	W	Women's Open Doubles	Flight 3	Playoff 2	F	1
 21-31047	2	3	4	W	Women's Open Doubles	Flight 3	Playoff 3	F	1
+21-32206	1			W	Women's Open Singles				
+21-32206	2			W	Women's Open Doubles				
 21-32364	1	1	1	W	Women's Open Singles	Flight 1	East	16,QF,SF,F	15
 21-32364	1	1	2	W	Women's Open Singles	Flight 1	West	QF,SF,F	7
 21-32364	1	1	3	W	Women's Open Singles	Flight 1	North	SF,F	3
@@ -1105,6 +1107,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-41355	2	1	6	M	Men's Open Doubles	Draw	Southwest	F	1
 21-41355	2	1	7	M	Men's Open Doubles	Draw	Northwest	F	1
 21-41355	2	1	8	M	Men's Open Doubles	Draw	Southeast	F	1
+21-41868	1			M	Men's Open Singles				
+21-41868	2			M	Men's Open Doubles				
 21-41928	1	1	1	W	Women's Open Singles	HD Singles 1	Main	32,16,QF,SF,F	31
 21-41928	1	2	1	W	Women's Open Singles	HD singles 2	Main	32,16,QF,SF,F	31
 21-41928	1	3	1	W	Women's Open Singles	HD singles 3	Main	32,16,QF,SF,F	31
@@ -1589,8 +1593,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-68006	1			M	Men's Open Singles				
 21-68006	2			M	Men's Open Doubles				
 21-68010	1			W	Women's Open Singles				
-21-68261	1	1	1	W	Women's Open Singles	Main Draw	Main	32,16,QF,SF,F	31
-21-68261	1	1	2	W	Women's Open Singles	Main Draw	Consolation	16Q,16,QF,SF,F	23
+21-68261	1	2	1	W	Women's Open Singles	Main Draw	Main	32,16,QF,SF,F	31
+21-68261	1	2	2	W	Women's Open Singles	Main Draw	Consolation	16Q,16,QF,SF,F	23
+21-68261	1	101	1	W	Women's Open Singles	Qualifying Draw	Qualifying - Main	64,32,16,QF,SF,F	63
+21-68261	1	101	2	W	Women's Open Singles	Qualifying Draw	Qualifying - Consolation	32Q,32,16,QF,SF,F	47
 21-68261	2	1	1	W	Women's Open Doubles	Draw	Main	32,16,QF,SF,F	31
 21-68261	2	1	2	W	Women's Open Doubles	Draw	Consolation	16Q,16,QF,SF,F	23
 21-68924	1			W	Women's Open Singles				
