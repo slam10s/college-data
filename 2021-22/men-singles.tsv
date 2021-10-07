@@ -2,8 +2,8 @@
 tournaments: 110
 players: 2999
 matches: 4863
-completed: 4833
-scheduled: 30
+completed: 4858
+scheduled: 5
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	1	1	1	3	1	w834xi		eeww08		F		Cash Hanzlik		Luciano Fisicaro	63 62
@@ -3021,20 +3021,20 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-72414	1	1	1	1	1	y03od6		jrk7at		64		Jackson Whittaker		Rogue Stone	62 62
 21-72414	1	1	1	1	1	gbcji9		s9gtyv		64		Payton Romey		Jack Freer	61 36 [12]
 21-72414	1	1	1	1	1	4zm30d		f5fv33		64	2	Will Leach		Caleb Grass	60 60
-21-73796	1	5	1	2		cag4ws		etc1ir		32	1	Daniel Rodrigues		Ben Shelton	Thu @ 10:00
-21-73796	1	5	1	2		cunadw		lu4kss		32	9	Ronnie Hohmann		Arthur Fery	Thu @ 10:00
-21-73796	1	5	1	2		9ed6f4		e2t2fw		32	5	Trent Bryde		Alexandre Reco	Thu @ 10:30
-21-73796	1	5	1	2		mpsd2v		q03od6		32	9	Nikola Slavic	Q	Jj Tracy	Thu @ 10:30
-21-73796	1	5	1	2		cm448g		vwwe0q		32		Francisco Rocha	Q	Stefan Dostanic	Thu @ 09:00
-21-73796	1	5	1	2		fnwnih		m9x3dr		32		Ryan Goetz		Clement Chidekh	Thu @ 09:00
-21-73796	1	5	1	2		a34ba1		8os24y		32	6	Gabriel Diallo	Q	Daniel De Jonge	Thu @ 09:00
-21-73796	1	5	1	2		lh5blz		jl69gr		32	Q	Filippo Moroni		Andres Martin	Thu @ 09:00
-21-73796	1	5	1	2		vp77bj		gyms2g		32	Q	Andre Ilagan	9	Juan Carlos Aguilar	Thu @ 11:30
+21-73796	1	5	1	2	1	etc1ir		cag4ws		32		Ben Shelton	1	Daniel Rodrigues	63 20 Ret.
+21-73796	1	5	1	2	1	cunadw		lu4kss		32	9	Ronnie Hohmann		Arthur Fery	63 76(5)
+21-73796	1	5	1	2	1	e2t2fw		9ed6f4		32		Alexandre Reco	5	Trent Bryde	76(4) 60
+21-73796	1	5	1	2	1	q03od6		mpsd2v		32	Q	Jj Tracy	9	Nikola Slavic	63 63
+21-73796	1	5	1	2	1	vwwe0q		cm448g		32	Q	Stefan Dostanic		Francisco Rocha	46 63 61
+21-73796	1	5	1	2	1	m9x3dr		fnwnih		32		Clement Chidekh		Ryan Goetz	64 62
+21-73796	1	5	1	2	1	a34ba1		8os24y		32	6	Gabriel Diallo	Q	Daniel De Jonge	26 63 76(2)
+21-73796	1	5	1	2	1	jl69gr		lh5blz		32		Andres Martin	Q	Filippo Moroni	61 62
+21-73796	1	5	1	2	1	vp77bj		gyms2g		32	Q	Andre Ilagan	9	Juan Carlos Aguilar	62 62
 21-73796	1	5	1	2		t77pb1		3h5blz		32		Cannon Kingsley		Kody Pearson	Thu @ 11:30
-21-73796	1	5	1	2		uu60y0		8ys4k4		32		Alex Kotzen	9	Hamish Stewart	Thu @ 10:30
-21-73796	1	5	1	2		iv2fkh		yrk7at		32	LL	Joshua Lapadat	4	Finn Reynolds	Thu @ 10:30
-21-73796	1	5	1	2		a9x3dr		mbv93d		32		Mason Beiler	9	Connor Thomson	Thu @ 11:00
-21-73796	1	5	1	2		081ora		s0zs1q		32		Jacob Bickersteth	8	Philip Henning	Thu @ 11:00
+21-73796	1	5	1	2	1	uu60y0		8ys4k4		32		Alex Kotzen	9	Hamish Stewart	76(3) 63
+21-73796	1	5	1	2	1	yrk7at		iv2fkh		32	4	Finn Reynolds	LL	Joshua Lapadat	64 26 63
+21-73796	1	5	1	2	1	a9x3dr		mbv93d		32		Mason Beiler	9	Connor Thomson	16 64 61
+21-73796	1	5	1	2	1	081ora		s0zs1q		32		Jacob Bickersteth	8	Philip Henning	60 26 64
 21-73796	1	5	1	2		5q3mx0		6o9cju		32		August Holmgren	9	Micah Braswell	Thu @ 13:00
 21-73796	1	5	1	2		gclc76		zjx5tx		32		Florian Broska	2	Johannus Monday	Thu @ 13:00
 21-73796	1	5	1	1	1	cag4ws		h03od6		64	1	Daniel Rodrigues		Tyler Zink	63 64
@@ -3069,22 +3069,22 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-73796	1	5	1	1	1	6o9cju		aazuhw		64	9	Micah Braswell	Q	Lodewijk Weststrate	62 64
 21-73796	1	5	1	1	1	gclc76		k9zjjz		64		Florian Broska	Q	Trey Hilderbrand	61 63
 21-73796	1	5	1	1	1	zjx5tx		pffxj9		64	2	Johannus Monday	Q	Tim Zeitvogel	46 63 62
-21-73796	1	5	2	1		h03od6		d4lwnu		32Q		Tyler Zink		Martim Prata	Thu @ 09:00
-21-73796	1	5	2	1		jdln53		pg50n2		32Q	Q	Francois Musitelli	LL	Justin Barki	Thu @ 09:00
-21-73796	1	5	2	1		ce0sco		mq16rs		32Q	Q	Henry Schulenburg	LL	Emmanuel Coste	Thu @ 12:00
+21-73796	1	5	2	1	1	h03od6		d4lwnu		32Q		Tyler Zink		Martim Prata	75 75
+21-73796	1	5	2	1	1	pg50n2		jdln53		32Q	LL	Justin Barki	Q	Francois Musitelli	52 Ret.
+21-73796	1	5	2	1	1	ce0sco		mq16rs		32Q	Q	Henry Schulenburg	LL	Emmanuel Coste	Walkover
 21-73796	1	5	2	1		9hk5un		fy7yts		32Q		James Davis		Stefan Hampe	Thu @ 12:00
-21-73796	1	5	2	1		ppohqf		6atiz8		32Q	3	Luc Fomba		Brian Cernoch	Thu @ 12:00
-21-73796	1	5	2	1		az79rp		dac8kc		32Q	9	MAtej Vocel		Jonas Eriksson Zive…	Thu @ 12:00
-21-73796	1	5	2	1		g7qfw5		pba3c1		32Q		Nemanja Malesevic		Raphael Lambling	Thu @ 12:30
+21-73796	1	5	2	1	1	ppohqf		6atiz8		32Q	3	Luc Fomba		Brian Cernoch	62 75
+21-73796	1	5	2	1	1	az79rp		dac8kc		32Q	9	MAtej Vocel		Jonas Eriksson Zive…	64 62
+21-73796	1	5	2	1	1	pba3c1		g7qfw5		32Q		Raphael Lambling		Nemanja Malesevic	Walkover
 21-73796	1	5	2	1		e387mh		zg9wzi		32Q	9	Tyler Stice	Q	Tadeas Paroulek	Thu @ 12:30
-21-73796	1	5	2	1		louia6		gfb17t		32Q		Marcus McDaniel	Q	Eric Hadigian	Thu @ 09:00
-21-73796	1	5	2	1		y2p63g		t0emae		32Q		Franco Capalbo	7	Andres Andrade	Thu @ 09:00
-21-73796	1	5	2	1		awyu6y		0owyge		32Q		Luca Maldoner	Q	Chris Rodesch	Thu @ 09:00
-21-73796	1	5	2	1		5tc1ir		uii0mc		32Q	Q	Toby Samuel	LL	Holden Koons	Thu @ 09:00
+21-73796	1	5	2	1	1	gfb17t		louia6		32Q	Q	Eric Hadigian		Marcus McDaniel	64 75
+21-73796	1	5	2	1	1	t0emae		y2p63g		32Q	7	Andres Andrade		Franco Capalbo	62 75
+21-73796	1	5	2	1	1	0owyge		awyu6y		32Q	Q	Chris Rodesch		Luca Maldoner	64 62
+21-73796	1	5	2	1	1	5tc1ir		uii0mc		32Q	Q	Toby Samuel	LL	Holden Koons	62 62
 21-73796	1	5	2	1	1	40187y		lur6pc		32Q		Axel Nefve	LL	Vito Tonejc	Walkover
 21-73796	1	5	2	1	1	9kauua		7tpfl7		32Q	Q	Tad McClean	Q	Tristan Boyer	Walkover
-21-73796	1	5	2	1		qjx5tx		aazuhw		32Q		Karl Poling	Q	Lodewijk Weststrate	Thu @ 09:00
-21-73796	1	5	2	1		k9zjjz		pffxj9		32Q	Q	Trey Hilderbrand	Q	Tim Zeitvogel	Thu @ 09:00
+21-73796	1	5	2	1	1	qjx5tx		aazuhw		32Q		Karl Poling	Q	Lodewijk Weststrate	61 Ret.
+21-73796	1	5	2	1	1	pffxj9		k9zjjz		32Q	Q	Tim Zeitvogel	Q	Trey Hilderbrand	62 76(4)
 21-73796	1	103	1	3	1	8os24y		ucnsde		64		Daniel De Jonge		Yuta Kikuchi	61 75
 21-73796	1	103	1	3	1	5tc1ir		pg50n2		64	2	Toby Samuel		Justin Barki	64 64
 21-73796	1	103	1	3	1	0owyge		lur6pc		64		Chris Rodesch	17	Vito Tonejc	63 75

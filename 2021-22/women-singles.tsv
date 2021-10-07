@@ -1,9 +1,9 @@
 ---
 tournaments: 110
 players: 3011
-matches: 4861
-completed: 4843
-scheduled: 18
+matches: 4866
+completed: 4854
+scheduled: 12
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00238	2	1	1	3	1	4p5r5b		uo9cju		F		Mae Canete		Paula Cerda	63 62
@@ -4165,14 +4165,18 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-67194	1	6	1	1	1	nqkwcw		ppb3nz		16		Gabrielle Geolier		Taylor Trondson	63 62
 21-67194	1	6	1	1	1	cd4dq7		neww08		16		Paola Silva Campigo…		Alyssa Getty	75 64
 21-67194	1	6	1	1	1	pl8pmz		i4lwnu		16		Abigail Solomon		Annika Pschorr	46 63 76(3)
+21-68261	1	2	1	3		ottbxn		6igkg4		QF		Taisiya Pachkaleva		Salma Ewing	Fri @ 10:30
+21-68261	1	2	1	3		aulu7o		9nfd3l		QF	4	Irina Cantos Siemers		Sarah Hamner	Fri @ 10:30
+21-68261	1	2	1	3		pnht9t		cigkg4		QF	8	Alexa Noel	3	Georgia Drummy	Fri @ 10:30
+21-68261	1	2	1	3		5o9cju		pulu7o		QF		Carolyn Campana		Eryn Cayetano	Fri @ 10:30
 21-68261	1	2	1	2	1	ottbxn		cm08w0		16		Taisiya Pachkaleva	1	Abigail Forbes	63 63
-21-68261	1	2	1	2		944m8y		6igkg4		16		Alana Smith		Salma Ewing	Thu @ 09:00
-21-68261	1	2	1	2		aulu7o		4hipof		16	4	Irina Cantos Siemers		Emmanouela Antonaki	Thu @ 09:00
-21-68261	1	2	1	2		hu60y0		9nfd3l		16	6	Tatiana Makarova		Sarah Hamner	Thu @ 11:00
-21-68261	1	2	1	2		11z3zn		pnht9t		16		Valeriya Zelevka	8	Alexa Noel	Thu @ 09:00
-21-68261	1	2	1	2		t4lwnu		cigkg4		16		Isabella Pfennig	3	Georgia Drummy	Thu @ 10:30
-21-68261	1	2	1	2		bba3c1		5o9cju		16		Rebeka Mertena		Carolyn Campana	Thu @ 09:00
-21-68261	1	2	1	2		pulu7o		3ffxj9		16		Eryn Cayetano	2	Janice Tjen	Thu @ 11:00
+21-68261	1	2	1	2	1	6igkg4		944m8y		16		Salma Ewing		Alana Smith	75 63
+21-68261	1	2	1	2	1	aulu7o		4hipof		16	4	Irina Cantos Siemers		Emmanouela Antonaki	64 63
+21-68261	1	2	1	2	1	9nfd3l		hu60y0		16		Sarah Hamner	6	Tatiana Makarova	64 61
+21-68261	1	2	1	2	1	pnht9t		11z3zn		16	8	Alexa Noel		Valeriya Zelevka	67(6) 62 61
+21-68261	1	2	1	2	1	cigkg4		t4lwnu		16	3	Georgia Drummy		Isabella Pfennig	76(8) 67(2) 62
+21-68261	1	2	1	2	1	5o9cju		bba3c1		16		Carolyn Campana		Rebeka Mertena	63 61
+21-68261	1	2	1	2	1	pulu7o		3ffxj9		16		Eryn Cayetano	2	Janice Tjen	60 63
 21-68261	1	2	1	1	1	cm08w0		40emae		32	1	Abigail Forbes		Julia Adams	61 63
 21-68261	1	2	1	1	1	ottbxn		pmlenc		32		Taisiya Pachkaleva		Selin Ovunc	63 64
 21-68261	1	2	1	1	1	944m8y		bnfd3l		32		Alana Smith	7	Viktoryia Kanapatsk…	63 60
@@ -4189,12 +4193,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-68261	1	2	1	1	1	5o9cju		b6f610		32		Carolyn Campana	5	Bunyawi Thamchaiwat	64 61
 21-68261	1	2	1	1	1	pulu7o		zouia6		32		Eryn Cayetano		Meg Kowalski	62 64
 21-68261	1	2	1	1	1	3ffxj9		oulu7o		32	2	Janice Tjen		Laia Conde Monfort	63 63
+21-68261	1	2	2	3		3b8n6t		3eww08		QF		Gina Dittmann		Shiori Fukuda	Fri @ 09:00
 21-68261	1	2	2	1		40emae		pmlenc		16Q		Julia Adams		Selin Ovunc	Thu @ 12:00
 21-68261	1	2	2	1		bnfd3l		gmhibw		16Q	7	Viktoryia Kanapatsk…		Kelly Chen	Thu @ 11:15
 21-68261	1	2	2	1		j4nct2		b2p63g		16Q		Marlee Zein		Chloe Beck	Thu @ 12:15
-21-68261	1	2	2	1		pfursx		1nwnih		16Q		Lea Ma		Victoria Flores	Thu @ 12:00
-21-68261	1	2	2	1		uazuhw		3b8n6t		16Q		Vanessa Wong		Gina Dittmann	Thu @ 10:00
-21-68261	1	2	2	1		laase4		3eww08		16Q		Ayana Akli		Shiori Fukuda	Thu @ 11:00
+21-68261	1	2	2	1	1	1nwnih		pfursx		16Q		Victoria Flores		Lea Ma	64 63
+21-68261	1	2	2	1	1	3b8n6t		uazuhw		16Q		Gina Dittmann		Vanessa Wong	63 62
+21-68261	1	2	2	1	1	3eww08		laase4		16Q		Shiori Fukuda		Ayana Akli	64 63
 21-68261	1	2	2	1	1	9lnjvn		b6f610		16Q		Victoria Hu	5	Bunyawi Thamchaiwat	Walkover
 21-68261	1	2	2	1		zouia6		oulu7o		16Q		Meg Kowalski		Laia Conde Monfort	Thu @ 12:30
 21-68261	1	101	1	3	1	944m8y		njt9hh		16	1	Alana Smith		Carmen Corley	61 63
@@ -4259,7 +4264,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-68261	1	101	2	1	1	pse6q2		p5ylo7		32Q		Evgeniya Levashova		Madeline Lamoreaux	60 62
 21-68261	1	101	2	1	1	n3llpx		w5hb9b		32Q		Xinyu Cai	9	Mell Reasco	60 36 62
 21-68261	1	101	2	1	1	aii0mc		t0xcvi		32Q	6	Kari Miller		Morgan Coppoc	63 63
-21-68261	1	101	2	1		tx9313		jvl55l		32Q		Carly Briggs	8	Bronte Murgett	Thu @ 10:00
+21-68261	1	101	2	1	1	jvl55l		tx9313		32Q	8	Bronte Murgett		Carly Briggs	64 46 76(4)
 21-68261	1	101	2	1		gatiz8		qwj0xa		32Q		Elaine Chervinsky		Lisa Zaar	Thu @ 12:00
 21-68261	1	101	2	1	1	1g7gta		20iimu		32Q		Shakhnoza Khatamova		Eleni Louka	63 62
 21-68261	1	101	2	1		qvl55l		cq16rs		32Q		Shura Poppe	5	Solymar Colling	Thu @ 10:00

@@ -1,8 +1,8 @@
 ---
 tournaments: 103
 players: 2724
-matches: 2009
-completed: 1993
+matches: 2011
+completed: 1995
 scheduled: 16
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -1729,8 +1729,9 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-67194	2	2	1	1	1	axwpyn	l387mh	yoqmyq	8mnutk	QF		Slezakova/Sharapova		Andrews/Talieu	60
 21-67194	2	2	1	1	1	ypqxwn	cd4dq7	581ora	vos24y	QF		Kreugel/Silva Campi…		Bishop/Flesch	76(3)
 21-67194	2	2	1	1	1	i4lwnu	w5dfxv	ec42sa	x0iimu	QF		Pschorr/Bureau		Going/Loubser	60
-21-68261	2	1	1	1		njt9hh	tulu7o	uofo1i	yhk5un	32	1	Corley/Corley		Verma/Di Palma	Thu @ 13:00
-21-68261	2	1	1	1		20iimu	g6f610	9owyge	ygsmkm	32		Louka/Thompson		Sasnouskaya/Starodu…	Thu @ 13:00
+21-68261	2	1	1	2		njt9hh	tulu7o	9owyge	ygsmkm	16	1	Corley/Corley		Sasnouskaya/Starodu…	Thu @ 16:00
+21-68261	2	1	1	1	1	njt9hh	tulu7o	uofo1i	yhk5un	32	1	Corley/Corley		Verma/Di Palma	82
+21-68261	2	1	1	1	1	9owyge	ygsmkm	20iimu	g6f610	32		Sasnouskaya/Starodu…		Louka/Thompson	83
 21-68261	2	1	1	1		kjzlz5	yd4dq7	p5ylo7	gv0ze9	32	8	Tran/Sanford		Lamoreaux/Dush	Thu @ 14:30
 21-68261	2	1	1	1		nmhibw	o5upcr	6xbj7b	65ylo7	32		Bridges/Babic		Gulihur/Melilo	Thu @ 14:30
 21-68261	2	1	1	1		hu60y0	qscqku	zdhrtn	5o9cju	32	3	Makarova/Goldsmith		Campana/Campana	Thu @ 14:30
@@ -1740,11 +1741,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-68261	2	1	1	1		l0xcvi	h28wok	9l69gr	pnht9t	32		Bryzgalova/Curnic		Mannix/Noel	Thu @ 15:30
 21-68261	2	1	1	1		sv0ze9	944m8y	3eww08	ottbxn	32		Daniel/Smith	7	Fukuda/Pachkaleva	Thu @ 15:30
 21-68261	2	1	1	1		ohml0v	56sk4g	6h3vfr	cxdzdj	32		Lilien/Freeman		Kadleckova/Naklo	Thu @ 15:30
-21-68261	2	1	1	1		cq16rs	khk5un	fhml0v	4u24mk	32		Colling/Goldsmith	4	Kuczer/Adeshina	Thu @ 13:30
+21-68261	2	1	1	1		cq16rs	khk5un	fhml0v	4u24mk	32		Colling/Goldsmith	4	Kuczer/Adeshina	Thu @ 15:30
 21-68261	2	1	1	1		19edsn	elnjvn	qvl55l	oulu7o	32		Allen/Hule		Poppe/Conde Monfort	Thu @ 15:30
 21-68261	2	1	1	1		onu7c9	kjcz2l	fp5r5b	c9zjjz	32		Axon/Flach	6	Brylin/Killingsworth	Thu @ 15:30
 21-68261	2	1	1	1		jdn3bb	txdzdj	fsvg5y	unwnih	32		Verden-Anderson/Pur…		Hand/Crowley	Thu @ 15:30
 21-68261	2	1	1	1	1	qwdofm	b2p63g	utpfl7	gatiz8	32	2	Berankova/Beck		Collard/Chervinsky	Walkover
+21-68261	2	1	2	1		uofo1i	yhk5un	20iimu	g6f610	16Q		Verma/Di Palma		Louka/Thompson	Thu @ 16:00
 21-74684	4	1	1	5	1	yr1hpp	jbcji9	qv0ze9	0dhrtn	F	2	Ragona/Shiau	1	Emery/Brascia	86
 21-74684	4	1	1	4	1	qv0ze9	0dhrtn	wst0zq	6c42sa	SF	1	Emery/Brascia		Carvajal/Fager	86
 21-74684	4	1	1	4	1	yr1hpp	jbcji9	ah5blz	l834xi	SF	2	Ragona/Shiau	5	Neuburger-Higby/Her…	84
