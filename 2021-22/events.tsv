@@ -1,11 +1,11 @@
 ---
 tournaments: 293
 events: 644
-eventsWithDraws: 242
-eventsWithoutDraws: 402
-draws: 790
-brackets: 1735
-results: 23089
+eventsWithDraws: 250
+eventsWithoutDraws: 394
+draws: 809
+brackets: 1754
+results: 23994
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -526,8 +526,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-20374	1	1	2	M	Men's Open Singles	Draw	Consolation	64Q,64,32,16,QF,SF,F	95
 21-20374	2	1	1	M	Men's Open Doubles	Draw	Main	64,32,16,QF,SF,F	63
 21-20374	2	1	2	M	Men's Open Doubles	Draw	Consolation	32Q,32,16,QF,SF,F	47
-21-20521	1			W	Women's Open Singles				
-21-20521	2			W	Women's Open Doubles				
+21-20521	1	1	1	W	Women's Open Singles	A Singles Draw	Main	64,32,16,QF,SF,F	63
+21-20521	1	2	1	W	Women's Open Singles	B Singles Draw	Main	64,32,16,QF,SF,F	63
+21-20521	2	1	1	W	Women's Open Doubles	Draw	Main	64,32,16,QF,SF,F	63
+21-20521	2	2	1	W	Women's Open Doubles	Extra Doubles	Main	SF,F	3
 21-21713	1			W	Women's Open Singles				
 21-21713	2			W	Women's Open Doubles				
 21-21828	1	1	1	M	Men's Open Singles	Draw	Main	64,32,16,QF,SF,F	63
@@ -672,8 +674,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-24494	2			W	Women's Open Doubles				
 21-25213	1			W	Women's Open Singles				
 21-25213	2			W	Women's Open Doubles				
-21-25235	1			W	Women's Open Singles				
-21-25235	2			W	Women's Open Doubles				
+21-25235	1	1	1	W	Women's Open Singles	Day One Matches	Main	32,16,QF,SF,F	31
+21-25235	1	2	1	W	Women's Open Singles	Day Two Matches	Main	32,16,QF,SF,F	31
+21-25235	2	1	1	W	Women's Open Doubles	Day 1 Matches	Main	16,QF,SF,F	15
+21-25235	2	2	1	W	Women's Open Doubles	Day 2 Matches	Main	16,QF,SF,F	15
 21-25425	1	1	1	M	Men's Open Singles	Championship Singles	East	32,16,QF,SF,F	31
 21-25425	1	1	2	M	Men's Open Singles	Championship Singles	West	16,QF,SF,F	15
 21-25425	1	1	3	M	Men's Open Singles	Championship Singles	North	QF,SF,F	7
@@ -1374,8 +1378,13 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-51873	2			W	Women's Open Doubles				
 21-51929	1			W	Women's Open Singles				
 21-51929	2			W	Women's Open Doubles				
-21-52083	1			M	Men's Open Singles				
-21-52083	2			M	Men's Open Doubles				
+21-52083	1	1	1	M	Men's Open Singles	Midd Colgate Singles Day 1	Main	64,32,16,QF,SF,F	63
+21-52083	1	2	1	M	Men's Open Singles	Bryant Colgate Singles Day 1	Main	64,32,16,QF,SF,F	63
+21-52083	1	3	1	M	Men's Open Singles	Midd Bryant Singles Day 1	Main	64,32,16,QF,SF,F	63
+21-52083	1	4	1	M	Men's Open Singles	Midd Bryant Colgate Day 2	Main	64,32,16,QF,SF,F	63
+21-52083	2	1	1	M	Men's Open Doubles	Doubles Day 1	Main	16,QF,SF,F	15
+21-52083	2	2	1	M	Men's Open Doubles	Doubles Day 2 Part 1	Main	16,QF,SF,F	15
+21-52083	2	3	1	M	Men's Open Doubles	Doubles Day 2 Part 2	Main	16,QF,SF,F	15
 21-52217	1			W	Women's Open Singles				
 21-52217	2			W	Women's Open Doubles				
 21-52871	1	1	1	W	Women's Open Singles	Draw	Main	R1,R2,R3,R4,R5,R6,R7	140
@@ -1580,8 +1589,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-68006	1			M	Men's Open Singles				
 21-68006	2			M	Men's Open Doubles				
 21-68010	1			W	Women's Open Singles				
-21-68261	1	101	1	W	Women's Open Singles	Qualifying Draw	Qualifying - Main	64,32,16,QF,SF,F	63
-21-68261	1	101	2	W	Women's Open Singles	Qualifying Draw	Qualifying - Consolation	32Q,32,16,QF,SF,F	47
+21-68261	1	1	1	W	Women's Open Singles	Main Draw	Main	32,16,QF,SF,F	31
+21-68261	1	1	2	W	Women's Open Singles	Main Draw	Consolation	16Q,16,QF,SF,F	23
 21-68261	2	1	1	W	Women's Open Doubles	Draw	Main	32,16,QF,SF,F	31
 21-68261	2	1	2	W	Women's Open Doubles	Draw	Consolation	16Q,16,QF,SF,F	23
 21-68924	1			W	Women's Open Singles				
@@ -2097,8 +2106,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-94974	4			W	Women's Open Doubles				
 21-95059	1			W	Women's Open Singles				
 21-95059	2			W	Women's Open Doubles				
-21-95358	1			M	Men's Open Singles				
-21-95358	2			M	Men's Open Doubles				
+21-95358	1	1	1	M	Men's Open Singles	ITA Regional Championship	Main	128,64,32,16,QF,SF,F	127
+21-95358	1	2	1	M	Men's Open Singles	Midwest Open	Main	128,64,32,16,QF,SF,F	127
+21-95358	2	1	1	M	Men's Open Doubles	ITA Doubles Championship	Main	64,32,16,QF,SF,F	63
+21-95358	2	2	1	M	Men's Open Doubles	Midwest Open Doubles	Main	64,32,16,QF,SF,F	63
 21-95444	1			W	Women's Open Singles				
 21-95444	2			W	Women's Open Doubles				
 21-95483	1			M	Men's Open Singles				
