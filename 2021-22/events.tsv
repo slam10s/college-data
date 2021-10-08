@@ -1,11 +1,11 @@
 ---
 tournaments: 295
 events: 646
-eventsWithDraws: 263
-eventsWithoutDraws: 383
-draws: 894
-brackets: 1901
-results: 25012
+eventsWithDraws: 265
+eventsWithoutDraws: 381
+draws: 900
+brackets: 1921
+results: 25116
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00238	1	1	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
@@ -797,8 +797,26 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-27355	2			M	Men's Open Doubles				
 21-27918	1			M	Men's Open Singles				
 21-27918	2			M	Men's Open Doubles				
-21-27941	1			M	Men's Open Singles				
-21-27941	2			W	Women's Open Singles				
+21-27941	1	1	1	M	Men's Open Singles	Men Singles A	Main	16,QF,SF,F	15
+21-27941	1	1	2	M	Men's Open Singles	Men Singles A	Consolation	QQ,QF,SQ,SF,F	13
+21-27941	1	2	1	M	Men's Open Singles	Men Singles B	Main	16,QF,SF,F	15
+21-27941	1	2	2	M	Men's Open Singles	Men Singles B	Consolation	QQ,QF,SQ,SF,F	13
+21-27941	2	1	1	W	Women's Open Singles	Women Singles A	East	QF,SF,F	7
+21-27941	2	1	2	W	Women's Open Singles	Women Singles A	West	SF,F	3
+21-27941	2	1	3	W	Women's Open Singles	Women Singles A	3-4 Playoff	F	1
+21-27941	2	1	4	W	Women's Open Singles	Women Singles A	South	F	1
+21-27941	2	2	1	W	Women's Open Singles	Women Singles B	East	QF,SF,F	7
+21-27941	2	2	2	W	Women's Open Singles	Women Singles B	West	SF,F	3
+21-27941	2	2	3	W	Women's Open Singles	Women Singles B	3-4 Playoff	F	1
+21-27941	2	2	4	W	Women's Open Singles	Women Singles B	South	F	1
+21-27941	2	3	1	W	Women's Open Singles	Women Singles C	East	QF,SF,F	7
+21-27941	2	3	2	W	Women's Open Singles	Women Singles C	West	SF,F	3
+21-27941	2	3	3	W	Women's Open Singles	Women Singles C	3-4 Playoff	F	1
+21-27941	2	3	4	W	Women's Open Singles	Women Singles C	South	F	1
+21-27941	2	4	1	W	Women's Open Singles	Women Singles D	East	QF,SF,F	7
+21-27941	2	4	2	W	Women's Open Singles	Women Singles D	West	SF,F	3
+21-27941	2	4	3	W	Women's Open Singles	Women Singles D	3-4 Playoff	F	1
+21-27941	2	4	4	W	Women's Open Singles	Women Singles D	South	F	1
 21-27941	3	1	1	M	Men's Open Doubles	Men's Doubles	Main	16,QF,SF,F	15
 21-27941	3	1	2	M	Men's Open Doubles	Men's Doubles	Consolation	QQ,QF,SQ,SF,F	13
 21-27941	4	1	1	W	Women's Open Doubles	Women Doubles A	East	QF,SF,F	7
