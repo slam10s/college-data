@@ -1,8 +1,8 @@
 ---
-tournaments: 303
-events: 672
+tournaments: 305
+events: 676
 eventsWithDraws: 354
-eventsWithoutDraws: 318
+eventsWithoutDraws: 322
 draws: 1284
 brackets: 2686
 results: 33335
@@ -1822,6 +1822,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventType	eventName	drawName	brac
 21-56790	3			M	D	Men's Open Doubles				
 21-57375	1			W	S	Women's Open Singles				
 21-57375	2			W	D	Women's Open Doubles				
+21-58015	1			W	S	Women's Open Singles				
+21-58015	2			W	D	Women's Open Doubles				
 21-59010	1			M	S	Men's Open Singles				
 21-59010	2			M	D	Men's Open Doubles				
 21-59346	1	1	1	M		Men's Open Singles	A Draw	Main	64,32,16,QF,SF,F	63
@@ -2495,6 +2497,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventType	eventName	drawName	brac
 21-80794	2			W	D	Women's Open Doubles				
 21-82716	1			W	S	Women's Open Singles				
 21-82716	2			W	D	Women's Open Doubles				
+21-82907	1			W	S	Women's Open Singles				
+21-82907	2			W	D	Women's Open Doubles				
 21-83081	1			M	S	Men's Open Singles				
 21-83081	2			M	D	Men's Open Doubles				
 21-83681	1			M	T	Men's Open				
