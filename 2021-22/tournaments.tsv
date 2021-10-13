@@ -1,12 +1,12 @@
 ---
-tournaments: 313
-withResults: 160
-completed: 245
-inProgress: 2
-future: 66
-events: 689
-entrants: 16383
-results: 18442
+tournaments: 317
+withResults: 165
+completed: 248
+inProgress: 4
+future: 65
+events: 697
+entrants: 16473
+results: 18757
 ---
 week	code	players	events	results	starts	ends	divisions	gender	name	organization	url
 35	21-02759	 74	2	132	2021-09-05	2021-09-06	DII,DIII,NAIA,JUCO	W	Mary Hosking Invitational Tournament	William Smith College (W)	https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7
@@ -191,6 +191,7 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 39	21-39463	 39	2	 68	2021-10-01	2021-10-03	DI                	M	MSU Bulldog Invitational	Mississippi State Univ. (M)	https://colleges.wearecollegetennis.com/competitions/MississippiStateUnivM/Tournaments/Overview/A2C220BB-4E89-40B6-9B1B-7146CB044B77
 39	21-08428	 46	2	 89	2021-10-01	2021-10-03	DI                	M	PNW Invitational	George Fox University (M)	https://colleges.wearecollegetennis.com/competitions/GeorgeFoxUniversityM/Tournaments/Overview/9EE91D50-DB27-4766-8225-C998F63F46BA
 39	21-46636	 27	2	   	2021-10-01	2021-10-02	DI                	W	Ragin' Cajun Classic	University Of Louisiana (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisianaW/Tournaments/Overview/DDBBE380-D60F-4FD9-980F-0B18EFDE0446
+39	21-54933	 31	2	   	2021-10-01	2021-10-03	DI                	M	Ron Wesbrooks Invitational	Lamar University (M)	https://colleges.wearecollegetennis.com/competitions/LamarUniversityM/Tournaments/Overview/2BEDAA6E-9524-4B56-852C-F997C8133696
 39	21-32888	   	2	   	2021-10-01	2021-10-03	DI                	W	Saint Mary's Fall Invite	Saint Mary's College/CA (W)	https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAW/Tournaments/Overview/F128ABA1-4EC4-434A-93B6-83EDF1ED9260
 39	21-00709	 41	2	   	2021-10-01	2021-10-03	DI                	W	SDSU Fall Tennis Classic # 1	San Diego State University (W)	https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1EB1A7C8-81F9-4DDF-BE0F-D8EB9551DEA5
 39	21-25425	 66	2	127	2021-10-01	2021-10-03	DI                	M	South Carolina Men's Collegiate Championships	ITA	https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/C61DDA49-6047-4361-9048-8658AEA3B344
@@ -223,14 +224,14 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 40	21-88210	 46	2	   	2021-10-08	2021-10-10	DI                	M	2021 UCSB Fall Classic	University Of California, Santa Barbara (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfCaliforniaSantaBarbaraM/Tournaments/Overview/2F7EB019-9604-4C46-AB6B-C0D90CFA767C
 40	21-12073	 45	1	 57	2021-10-04	2021-10-04	DI                	W	2nd UCA FALL INVITATIONAL TOURNAMENT	Univ. Of Central Arkansas (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfCentralArkansasW/Tournaments/Overview/7737FD94-882F-4257-A700-306375BD09EC
 40	21-68924	 68	2	   	2021-10-08	2021-10-10	DI                	W	49er Invite	UNC Charlotte (W)	https://colleges.wearecollegetennis.com/competitions/UNCCharlotteW/Tournaments/Overview/928AA6BE-846A-430B-89FA-222F70E8CCBB
-40	21-90248	   	2	   	2021-10-08	2021-10-10	DI                	M	5th Annual REDBIRD INVITATIONAL	Illinois State University (M)	https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B
+40	21-90248	 42	2	   	2021-10-08	2021-10-10	DI                	M	5th Annual REDBIRD INVITATIONAL	Illinois State University (M)	https://colleges.wearecollegetennis.com/competitions/IllinoisStateUniversityM/Tournaments/Overview/7772CA6D-52F5-46C1-B0F2-1F3582129E5B
 40	21-11157	 52	2	136	2021-10-07	2021-10-10	DI                	M	Bulldawg Invitational	University Of Georgia (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfGeorgiaM/Tournaments/Overview/E852A032-B38E-4230-AF15-521B40661556
 40	21-24398	 26	2	   	2021-10-09	2021-10-10	DI                	W	Cincinnati/Xavier Fall Invitational	University Of Cincinnati (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfCincinnatiW/Tournaments/Overview/B236EDCE-427F-4321-AE87-AD3F3A8FB326
 40	21-80207	 54	2	 85	2021-10-08	2021-10-10	DI                	M	Florida Division I - Bedford Cup, Men 2021	Florida State University (M)	https://colleges.wearecollegetennis.com/competitions/FloridaStateUniversityM/Tournaments/Overview/BC815F42-1280-4DE6-AA2C-70DAF99AF683
 40	21-23829	 94	2	   	2021-10-08	2021-10-10	DI                	W	Georgia Southern Fall Shootout	Georgia Southern University (W)	https://colleges.wearecollegetennis.com/competitions/GeorgiaSouthernUniversityW/Tournaments/Overview/786347CE-968D-49AF-86B6-AE9394B881DC
 40	21-57375	   	2	   	2021-10-08	2021-10-10	DI                	W	Husky Invitational	University Of Washington (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfWashingtonW/Tournaments/Overview/D65D4068-5982-45E7-84BC-99BBD165724E
 40	21-68261	127	2	160	2021-10-04	2021-10-10	DI                	W	ITA Women's All-American Championship	ITA	https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/B19460E5-6590-4ECD-B42F-E38FB40E4E0B
-40	21-66349	 30	2	   	2021-10-08	2021-10-09	DI                	W	Jimmy Powell Invitational	Elon University (W)	https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B
+40	21-66349	 30	2	 49	2021-10-08	2021-10-09	DI                	W	Jimmy Powell Invitational	Elon University (W)	https://colleges.wearecollegetennis.com/competitions/ElonUniversityW/Tournaments/Overview/F4AF6377-B945-4B70-BA5B-A26323CA4E0B
 40	21-72773	   	2	   	2021-10-08	2021-10-10	DI                	W	June Stewart	Vanderbilt University (W)	https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityW/Tournaments/Overview/572ACF1A-EC23-4778-B429-82AFAA48E432
 40	21-66132	 48	2	 93	2021-10-08	2021-10-10	DI                	W	Long Beach State Fall Tournament	Long Beach State Univ. (W)	https://colleges.wearecollegetennis.com/competitions/LongBeachStateUnivW/Tournaments/Overview/2DA2FE11-5CCE-4140-94C9-8E6CB1763488
 40	21-67948	 31	2	   	2021-10-08	2021-10-10	DI                	M	Loyola Classic	Loyola University Maryland (M)	https://colleges.wearecollegetennis.com/competitions/LoyolaUniversityMarylandM/Tournaments/Overview/AB7FBE26-FE50-424D-9106-ABE927A5913F
@@ -238,30 +239,31 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 40	21-53408	 78	2	116	2021-10-08	2021-10-10	DI                	W	Navy Blue and Gold Invitational	U.S. Naval Academy (W)	https://colleges.wearecollegetennis.com/competitions/USNavalAcademyW/Tournaments/Overview/BA928D6A-090B-41A5-8693-10CCFB0E699C
 40	21-99710	107	2	183	2021-10-08	2021-10-10	DI                	M	River City Tennis Open	University Of Richmond (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfRichmondM/Tournaments/Overview/D32B75E1-66BD-4EC6-9C14-9016A5EFDDEB
 40	21-50227	 25	2	   	2021-10-10	2021-10-10	DI                	W	SEMO Invitational	Southeast Missouri State Univ. (W)	https://colleges.wearecollegetennis.com/competitions/SoutheastMissouriStateUnivW/Tournaments/Overview/E0892C7B-1714-4B99-A547-2386D7847CF2
-40	21-78857	 58	2	 27	2021-10-08	2021-10-10	DI                	W	SMU Red and Blue Invite	Southern Methodist Univ. (W)	https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5
-40	21-75174	 36	2	   	2021-10-08	2021-10-10	DI                	W	USC Women of Troy Invitational	University Of Southern California (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F
+40	21-78857	 58	2	 92	2021-10-08	2021-10-10	DI                	W	SMU Red and Blue Invite	Southern Methodist Univ. (W)	https://colleges.wearecollegetennis.com/competitions/SouthernMethodistUnivW/Tournaments/Overview/4628479A-19D9-4AD2-91AA-D180971411D5
+40	21-75174	 38	2	 68	2021-10-08	2021-10-10	DI                	W	USC Women of Troy Invitational	University Of Southern California (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthernCaliforniaW/Tournaments/Overview/204DAA45-DC48-452D-9B49-1BCD4C5EE09F
 40	21-47231	 36	2	   	2021-10-07	2021-10-10	DI                	M	Utah Invitational	University Of Utah (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfUtahM/Tournaments/Overview/AF39BA57-9E31-4A64-A7C6-A8EB964130E1
 40	21-77667	 48	2	 92	2021-10-08	2021-10-10	DI                	W	Wildcat Invite	Northwestern University (W)	https://colleges.wearecollegetennis.com/competitions/NorthwesternUniversityW/Tournaments/Overview/8B95BB2A-65A5-405B-8ED4-06CABB9BE847
-40	21-70570	 35	2	   	2021-10-09	2021-10-10	DI                	M	WMU Vredevelt Invite	Western Michigan University (M)	https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3
-40	21-93245	 32	2	   	2021-10-08	2021-10-09	DI                	M	Youngstown State Hidden Duals	Youngstown State Univ. (M)	https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877
+40	21-70570	 35	2	 64	2021-10-09	2021-10-10	DI                	M	WMU Vredevelt Invite	Western Michigan University (M)	https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityM/Tournaments/Overview/4E6EACD5-9D8F-4948-8186-71F8E68AFAB3
+40	21-93245	 32	2	 58	2021-10-08	2021-10-09	DI                	M	Youngstown State Hidden Duals	Youngstown State Univ. (M)	https://colleges.wearecollegetennis.com/competitions/YoungstownStateUnivM/Tournaments/Overview/268120DD-C964-42CC-B897-64E74AB6C877
 40	21-27941	 53	4	 81	2021-10-08	2021-10-12	DII,DIII,NAIA,JUCO	MW	C.L Varner Invitational	Rollins College (M)	https://colleges.wearecollegetennis.com/competitions/RollinsCollegeM/Tournaments/Overview/3CD48F05-0A53-43AA-90D0-6464D0615B24
 40	21-83735	 40	2	   	2021-10-08	2021-10-09	DII,DIII,NAIA,JUCO	M	Crusader Shootout	Belmont Abbey College (M)	https://colleges.wearecollegetennis.com/competitions/BelmontAbbeyCollegeM/Tournaments/Overview/BC87D014-56AE-443B-9D59-D779656313B9
 40	21-89530	110	4	   	2021-10-09	2021-10-10	DII,DIII,NAIA,JUCO	MW	Enchanted Valley Showdown	Young Harris College (W)	https://colleges.wearecollegetennis.com/competitions/YoungHarrisCollegeW/Tournaments/Overview/7F830DEB-D5D7-4BD7-90CB-2AEBD2234FB0
 40	21-99765	 33	2	 67	2021-10-08	2021-10-09	DII,DIII,NAIA,JUCO	M	Lander Invitational	Lander University (M)	https://colleges.wearecollegetennis.com/competitions/LanderUniversityM/Tournaments/Overview/A9A160D2-0993-4E51-B0C1-9F42F24D9401
-40	21-77230	 49	2	 88	2021-10-08	2021-10-09	DII,DIII,NAIA,JUCO	W	Lander Women's Invitational	Lander University (W)	https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE
+40	21-77230	 49	2	 89	2021-10-08	2021-10-09	DII,DIII,NAIA,JUCO	W	Lander Women's Invitational	Lander University (W)	https://colleges.wearecollegetennis.com/competitions/LanderUniversityW/Tournaments/Overview/6053BAF3-4CF6-4203-B383-52C091D412FE
 40	21-32206	   	2	   	2021-10-09	2021-10-10	DII,DIII,NAIA,JUCO	W	Middlebury Invitational	Middlebury College (W)	https://colleges.wearecollegetennis.com/competitions/MiddleburyCollegeW/Tournaments/Overview/D889F4C1-8A2D-40E4-B0A0-293D735D6889
 40	21-35191	   	2	   	2021-10-08	2021-10-10	DII,DIII,NAIA,JUCO	W	Newitt	Smith College (W)	https://colleges.wearecollegetennis.com/competitions/SmithCollegeW/Tournaments/Overview/D0EE6286-4362-4A11-82BA-0577E48A7B64
-40	21-16089	 46	2	 63	2021-10-08	2021-10-10	DII,DIII,NAIA,JUCO	W	Rumble by the River	Northeastern State U. (W)	https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50
+40	21-16089	 46	2	 71	2021-10-08	2021-10-10	DII,DIII,NAIA,JUCO	W	Rumble by the River	Northeastern State U. (W)	https://colleges.wearecollegetennis.com/competitions/NortheasternStateUW/Tournaments/Overview/6CDF33CD-A0E5-4CA9-BD9D-2F5B12B0FE50
 40	21-18906	 40	2	 66	2021-10-08	2021-10-10	DII,DIII,NAIA,JUCO	W	Saint Leo Lion Fall Invitational - Women	Saint Leo University (W)	https://colleges.wearecollegetennis.com/competitions/SaintLeoUniversityW/Tournaments/Overview/CD3EA260-EE7B-4CC4-AEAD-3B2FCD79FEE4
 40	21-27918	 66	2	 81	2021-10-09	2021-10-10	DII,DIII,NAIA,JUCO	M	Wallach Invitational 2021	Bates College (M)	https://colleges.wearecollegetennis.com/competitions/BatesCollegeM/Tournaments/Overview/9A9631B7-DAC4-4372-8ABD-D57233DA7E4F
 40	21-01807	   	2	   	2021-10-08	2021-10-09	DII,DIII,NAIA,JUCO	W	Warhawk Fall Invitational	Univ. Of Wisconsin, Whitewater (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfWisconsinWhitewaterW/Tournaments/Overview/0D92B574-F815-4CD2-9DB5-9DE635B3C608
 41	21-42792	   	1	   	2021-10-15	2021-10-17	DI                	M	Ball State Fall Invite	Ball State University (M)	https://colleges.wearecollegetennis.com/competitions/BallStateUniversityM/Tournaments/Overview/D509D00E-445B-4F77-802B-9FBFF2D92EB7
 41	21-28974	 27	2	 50	2021-10-11	2021-10-12	DI                	M	Belmont Fall Invite	Belmont University (M)	https://colleges.wearecollegetennis.com/competitions/BelmontUniversityM/Tournaments/Overview/7B6195EA-4B1E-4B0F-8B5E-7E14B47D14DB
 41	21-58015	 52	2	   	2021-10-16	2021-10-17	DI                	W	Brown Classic	Brown University (W)	https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/EB02B6B4-F180-44F5-853D-BF4D2B75D1B1
+41	21-21760	   	2	   	2021-10-15	2021-10-17	DI                	M	Commodore Classic	Vanderbilt University (M)	https://colleges.wearecollegetennis.com/competitions/VanderbiltUniversityM/Tournaments/Overview/A3317696-F968-47E1-95B9-F8086BD11FA0
 41	21-23395	177	2	   	2021-10-14	2021-10-17	DI                	M	ITA Division I Men's Atlantic Regional Championship	U.S. Naval Academy (M)	https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/A979E3AC-08B4-441B-A999-C5907C7B7D42
 41	21-08423	   	2	   	2021-10-14	2021-10-17	DI                	M	ITA Division I Men's Atlantic Regional Championship	Liberty University (M)	https://colleges.wearecollegetennis.com/competitions/LibertyUniversityM/Tournaments/Overview/B5A1486D-EA26-4E7E-8767-8781155C0580
 41	21-34853	155	2	   	2021-10-14	2021-10-19	DI                	M	ITA Division I Men's Northeast Regional Championship	Univ. Of Pennsylvania (M)	https://colleges.wearecollegetennis.com/competitions/UnivOfPennsylvaniaM/Tournaments/Overview/1D66CEC3-2F53-496E-BEA5-B3F3131C4BE4
-41	21-05800	 62	2	   	2021-10-13	2021-10-17	DI                	M	ITA Division I Men's Northwest Regional Championship	Saint Mary's College/CA (M)	https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E
+41	21-05800	 62	2	  2	2021-10-13	2021-10-17	DI                	M	ITA Division I Men's Northwest Regional Championship	Saint Mary's College/CA (M)	https://colleges.wearecollegetennis.com/competitions/SaintMarysCollegeCAM/Tournaments/Overview/3CA3D40C-530C-46B7-9F71-79C24F90687E
 41	21-10002	 51	2	   	2021-10-13	2021-10-17	DI                	M	ITA Division I Men's Northwest Regional Championship	University Of Oregon (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/BFC2ABF6-E5EC-4F08-B669-9067560B6E1A
 41	21-67380	 10	2	   	2021-10-14	2021-10-19	DI                	M	ITA Division I Men's Southern Regional Championship	Auburn University (M)	https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/990920A1-C2A2-4E8D-9948-6D38FB2F7DBE
 41	21-59010	117	2	   	2021-10-13	2021-10-17	DI                	M	ITA Division I Men's Texas Regional Championship	Texas A&M University (M)	https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/4356F6E7-2D81-4119-A2B5-349CB438D62A
@@ -272,6 +274,7 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 41	21-76092	108	2	   	2021-10-14	2021-10-18	DI                	W	ITA Division I Women's Texas Regional Championship	Texas Christian University (W)	https://colleges.wearecollegetennis.com/competitions/TexasChristianUniversityW/Tournaments/Overview/9574C0F1-FB6F-4587-813E-366D4EF8CD5F
 41	21-27355	 14	2	   	2021-10-15	2021-10-17	DI                	M	Louisville Invitational	University Of Louisville (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleM/Tournaments/Overview/27F0528B-D74E-4D20-9AFD-C621F8FBBABA
 41	21-82907	   	2	   	2021-10-15	2021-10-17	DI                	W	Martha Thorn Invitational	West Virginia University (W)	https://colleges.wearecollegetennis.com/competitions/WestVirginiaUniversityW/Tournaments/Overview/0BF52CA4-E91A-4D61-9B44-270AE4D10F2A
+41	21-62211	 15	2	   	2021-10-15	2021-10-17	DI                	M	San Diego State Fall Invite	San Diego State University (M)	https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityM/Tournaments/Overview/1F13D532-5D31-4892-B7C1-B9E81D0A2666
 41	21-41868	   	2	   	2021-10-15	2021-10-17	DI                	M	UTC-Steve Baras Invitational	Univ. Of Tennessee, Chattanooga (M)	https://colleges.wearecollegetennis.com/competitions/UnivOfTennesseeChattanoogaM/Tournaments/Overview/4C516159-62E0-459E-B99D-A70E8B754410
 41	21-40542	 31	2	   	2021-10-15	2021-10-17	DI                	W	Viking Invitational	Cleveland State University (W)	https://colleges.wearecollegetennis.com/competitions/ClevelandStateUniversityW/Tournaments/Overview/FAC43618-AC29-4932-9874-0402332C5CE0
 41	21-35590	   	2	   	2021-10-15	2021-10-16	DII,DIII,NAIA,JUCO	W	American Rivers Conference Women's Individual Tournament	ITA	https://colleges.wearecollegetennis.com/competitions/ITA/Tournaments/Overview/CE1E3C19-DD67-4D93-A46C-1B94A9C7BB6C
@@ -299,6 +302,7 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 43	21-95444	   	2	   	2021-10-29	2021-10-31	DI                	W	Gamecock Shootout	University Of South Carolina (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfSouthCarolinaW/Tournaments/Overview/57638985-23D4-4AA9-BCB7-AE8C7129F7F3
 43	21-84042	   	2	   	2021-10-29	2021-10-31	DI                	M	Gonzaga Invitational	Gonzaga University (M)	https://colleges.wearecollegetennis.com/competitions/GonzagaUniversityM/Tournaments/Overview/24AFC1F1-C707-4DA5-91DB-223E5E5AC83B
 43	21-62300	   	2	   	2021-10-29	2021-10-31	DI                	W	Halloween Classic	University Of New Mexico (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfNewMexicoW/Tournaments/Overview/DA2F178D-FDC8-43EF-8DAB-5045133E57F7
+43	21-37198	   	2	   	2021-10-29	2021-10-31	DI                	W	Louisville Classic	University Of Louisville (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfLouisvilleW/Tournaments/Overview/3CA2F6A8-534B-4A9B-999A-8A440E45FA8F
 43	21-24286	 41	2	   	2021-10-29	2021-10-31	DI                	W	NIU Huskie Indoor Invitational	Northern Illinois Univ. (W)	https://colleges.wearecollegetennis.com/competitions/NorthernIllinoisUnivW/Tournaments/Overview/4A2D7ED0-6708-44A9-9E54-7EE1CE4409AD
 43	21-30411	   	2	   	2021-10-28	2021-10-31	DI                	W	Rice Invite	Rice University (W)	https://colleges.wearecollegetennis.com/competitions/RiceUniversityW/Tournaments/Overview/4F0CBA0B-FA20-4853-8B64-8B24AEB43DF5
 43	21-51169	   	2	   	2021-10-28	2021-10-31	DI                	W	Wildcat Invitational	University Of Arizona (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfArizonaW/Tournaments/Overview/64798DC4-18F8-4118-BF15-ACEDAC7642C9
