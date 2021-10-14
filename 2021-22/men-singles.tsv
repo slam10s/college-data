@@ -1,39 +1,73 @@
 ---
-tournaments: 170
-players: 3609
-matches: 6371
-completed: 6240
-scheduled: 131
+tournaments: 171
+players: 3618
+matches: 6442
+completed: 6325
+scheduled: 117
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
-21-00186	1	1	1	1		nv4vqp		u2rm9o		16		Alvaro Regalado		Sebastian Herrera	Thu @ 09:00
-21-00186	1	1	1	1		qdln53		6svg5y		16		Ryan Nuno		Tom Jarry	Thu @ 09:00
-21-00186	1	1	1	1		5zqzct		fc42sa		16		Andrea Zamurri		Gonzalo Fernandez	Thu @ 09:00
-21-00186	1	1	1	1		y9i943		0trvrf		16		Daniel Llorente		Sander Jans	Thu @ 09:00
-21-00186	1	1	1	1		9795h9		u2t2fw		16		Alex Martinez Roca		Franco Oliva	Thu @ 09:00
-21-00186	1	1	1	1		z5dfxv		sttbxn		16		Brennan Cimpeanu		Marko Nikoliuk	Thu @ 09:00
-21-00186	1	1	1	1		pll3pf		nz1x91		16		Joaquin Benoit		Joaquin Bianchi	Thu @ 09:00
-21-00186	1	1	1	1		cz5tlh		aiza18		16		Francisco Oliveira		Alejandro Ibanez	Thu @ 09:00
-21-00186	1	2	1	1		eefmlc		kazuhw		16		James Hopper		Yudai Teruyama	Thu @ 09:00
-21-00186	1	2	1	1		h32v4t		o7ub8l		16		Jhonny Acosta		Thomas Yu	Thu @ 09:00
-21-00186	1	2	1	1		tfursx		8gq6ee		16		Robert Liu		Luke Lemaitre	Thu @ 09:00
-21-00186	1	2	1	1		u4lwnu		ojibk9		16		Stan Morris		John Zakowski	Thu @ 09:00
-21-00186	1	2	1	1		ngbc5q		2kca0i		16		Ansh Shah		John Rado	Thu @ 09:00
-21-00186	1	2	1	1		i81ora		fatiz8		16		Ethan Carroll		Chase Cohen	Thu @ 09:00
-21-00186	1	2	1	1		b6u0ao		a0zs1q		16		Cole Lindwall		Moses Hutchison	Thu @ 09:00
-21-00186	1	2	1	1		d03od6		bkauua		16		Jordan Theron		Cameron Krimbill	Thu @ 09:00
-21-00186	1	3	1	1		1z79rp		6azuhw		16		Luke Simkiss		Leo Sprovieri	Thu @ 10:30
-21-00186	1	3	1	1		2mnutk		4nj9f1		16		Jan Silhavy		Agustin Tamagnone	Thu @ 10:30
-21-00186	1	3	1	1		95ylo7		pgoq86		16		Daniil Klimov		Daniel Czepielewski	Thu @ 10:30
-21-00186	1	3	1	1		cx9313		p795h9		16		Martin Carrizo		Chris Papa	Thu @ 10:30
-21-00186	1	3	1	1		zjcz2l		2w2qie		16		Francisco Faria		Thomas Zych	Thu @ 12:00
-21-00186	1	3	1	1		6rir4l		lixuv0		16		Yassir Kilani		Leo Bresson	Thu @ 10:30
-21-00186	1	3	1	1		oho163		taxebo		16		Jeremias Rocco		Nick Nienhaus	Thu @ 10:30
-21-00186	1	3	1	1		g0187y		rdj7zv		16		Gabriel Ortiz		Alex Gurmendi	Thu @ 10:30
-21-00186	1	4	1	1		1atiz8		vq5238		QF		Gaston Cantero		Ravi Nelson	Thu @ 11:30
-21-00186	1	4	1	1		06f610		4la5s7		QF		Boruch Skierkier		Emilio Vila	Thu @ 12:30
-21-00186	1	4	1	1		3ttbxn		i0g2gm		QF		Tomas Nader		Diego Dalisay	Thu @ 11:30
-21-00186	1	4	1	1		e4nct2		m8709y		QF		Cheng En Tsai		Takeshi Taco	Thu @ 11:30
+21-00186	1	1	1	2		nv4vqp		qdln53		QF		Alvaro Regalado		Ryan Nuno	Fri @ 11:00
+21-00186	1	1	1	2		5zqzct		0trvrf		QF		Andrea Zamurri		Sander Jans	Fri @ 11:00
+21-00186	1	1	1	2		9795h9		z5dfxv		QF		Alex Martinez Roca		Brennan Cimpeanu	Fri @ 11:00
+21-00186	1	1	1	2		pll3pf		cz5tlh		QF		Joaquin Benoit		Francisco Oliveira	Fri @ 11:00
+21-00186	1	1	1	1	1	nv4vqp		u2rm9o		16		Alvaro Regalado		Sebastian Herrera	61 62
+21-00186	1	1	1	1	1	qdln53		6svg5y		16		Ryan Nuno		Tom Jarry	64 62
+21-00186	1	1	1	1	1	5zqzct		fc42sa		16		Andrea Zamurri		Gonzalo Fernandez	76(5) 64
+21-00186	1	1	1	1	1	0trvrf		y9i943		16		Sander Jans		Daniel Llorente	64 75
+21-00186	1	1	1	1	1	9795h9		u2t2fw		16		Alex Martinez Roca		Franco Oliva	76(5) 62
+21-00186	1	1	1	1	1	z5dfxv		sttbxn		16		Brennan Cimpeanu		Marko Nikoliuk	76(6) 63
+21-00186	1	1	1	1	1	pll3pf		nz1x91		16		Joaquin Benoit		Joaquin Bianchi	62 63
+21-00186	1	1	1	1	1	cz5tlh		aiza18		16		Francisco Oliveira		Alejandro Ibanez	63 63
+21-00186	1	1	2	1		u2rm9o		6svg5y		QF		Sebastian Herrera		Tom Jarry	Fri @ 09:00
+21-00186	1	1	2	1		fc42sa		y9i943		QF		Gonzalo Fernandez		Daniel Llorente	Fri @ 09:00
+21-00186	1	1	2	1		u2t2fw		sttbxn		QF		Franco Oliva		Marko Nikoliuk	Fri @ 09:00
+21-00186	1	1	2	1		nz1x91		aiza18		QF		Joaquin Bianchi		Alejandro Ibanez	Fri @ 09:00
+21-00186	1	2	1	3		fatiz8		d03od6		SF		Chase Cohen		Jordan Theron	Fri @ 09:00
+21-00186	1	2	1	2	1	h32v4t		eefmlc		QF		Jhonny Acosta		James Hopper	57 64 00 Ret.
+21-00186	1	2	1	2		tfursx		u4lwnu		QF		Robert Liu		Stan Morris	Thu @ 12:30
+21-00186	1	2	1	2	1	fatiz8		ngbc5q		QF		Chase Cohen		Ansh Shah	46 60 60
+21-00186	1	2	1	2	1	d03od6		a0zs1q		QF		Jordan Theron		Moses Hutchison	76(3) 76(2)
+21-00186	1	2	1	1	1	eefmlc		kazuhw		16		James Hopper		Yudai Teruyama	63 62
+21-00186	1	2	1	1	1	h32v4t		o7ub8l		16		Jhonny Acosta		Thomas Yu	62 62
+21-00186	1	2	1	1	1	tfursx		8gq6ee		16		Robert Liu		Luke Lemaitre	62 63
+21-00186	1	2	1	1	1	u4lwnu		ojibk9		16		Stan Morris		John Zakowski	62 62
+21-00186	1	2	1	1	1	ngbc5q		2kca0i		16		Ansh Shah		John Rado	26 62 63
+21-00186	1	2	1	1	1	fatiz8		i81ora		16		Chase Cohen		Ethan Carroll	62 62
+21-00186	1	2	1	1	1	a0zs1q		b6u0ao		16		Moses Hutchison		Cole Lindwall	63 62
+21-00186	1	2	1	1	1	d03od6		bkauua		16		Jordan Theron		Cameron Krimbill	62 26 60
+21-00186	1	2	2	2		o7ub8l		ojibk9		SF		Thomas Yu		John Zakowski	Fri @ 09:00
+21-00186	1	2	2	2		2kca0i		bkauua		SF		John Rado		Cameron Krimbill	Fri @ 09:00
+21-00186	1	2	2	1	1	o7ub8l		kazuhw		QF		Thomas Yu		Yudai Teruyama	63 60
+21-00186	1	2	2	1	1	ojibk9		8gq6ee		QF		John Zakowski		Luke Lemaitre	64 63
+21-00186	1	2	2	1	1	2kca0i		i81ora		QF		John Rado		Ethan Carroll	75 76(3)
+21-00186	1	2	2	1	1	bkauua		b6u0ao		QF		Cameron Krimbill		Cole Lindwall	61 64
+21-00186	1	2	3	1		ngbc5q		a0zs1q		SF		Ansh Shah		Moses Hutchison	Fri @ 09:00
+21-00186	1	2	5	1		kazuhw		8gq6ee		SF		Yudai Teruyama		Luke Lemaitre	Fri @ 09:00
+21-00186	1	2	5	1		i81ora		b6u0ao		SF		Ethan Carroll		Cole Lindwall	Fri @ 09:00
+21-00186	1	3	1	2		1z79rp		4nj9f1		QF		Luke Simkiss		Agustin Tamagnone	Fri @ 11:30
+21-00186	1	3	1	2		95ylo7		p795h9		QF		Daniil Klimov		Chris Papa	Fri @ 11:30
+21-00186	1	3	1	2		zjcz2l		6rir4l		QF		Francisco Faria		Yassir Kilani	Fri @ 11:30
+21-00186	1	3	1	2		oho163		rdj7zv		QF		Jeremias Rocco		Alex Gurmendi	Fri @ 11:30
+21-00186	1	3	1	1	1	1z79rp		6azuhw		16		Luke Simkiss		Leo Sprovieri	61 16 76(6)
+21-00186	1	3	1	1	1	4nj9f1		2mnutk		16		Agustin Tamagnone		Jan Silhavy	62 62
+21-00186	1	3	1	1	1	95ylo7		pgoq86		16		Daniil Klimov		Daniel Czepielewski	63 62
+21-00186	1	3	1	1	1	p795h9		cx9313		16		Chris Papa		Martin Carrizo	60 61
+21-00186	1	3	1	1	1	zjcz2l		2w2qie		16		Francisco Faria		Thomas Zych	75 75
+21-00186	1	3	1	1	1	6rir4l		lixuv0		16		Yassir Kilani		Leo Bresson	63 76(2)
+21-00186	1	3	1	1	1	oho163		taxebo		16		Jeremias Rocco		Nick Nienhaus	64 36 62
+21-00186	1	3	1	1	1	rdj7zv		g0187y		16		Alex Gurmendi		Gabriel Ortiz	64 57 64
+21-00186	1	3	2	1		6azuhw		2mnutk		QF		Leo Sprovieri		Jan Silhavy	Fri @ 10:00
+21-00186	1	3	2	1		pgoq86		cx9313		QF		Daniel Czepielewski		Martin Carrizo	Fri @ 10:00
+21-00186	1	3	2	1		2w2qie		lixuv0		QF		Thomas Zych		Leo Bresson	Fri @ 10:00
+21-00186	1	3	2	1		taxebo		g0187y		QF		Nick Nienhaus		Gabriel Ortiz	Fri @ 10:00
+21-00186	1	4	1	2		1atiz8		06f610		SF		Gaston Cantero		Boruch Skierkier	Fri @ 12:00
+21-00186	1	4	1	2		i0g2gm		m8709y		SF		Diego Dalisay		Takeshi Taco	Fri @ 12:00
+21-00186	1	4	1	1	1	1atiz8		vq5238		QF		Gaston Cantero		Ravi Nelson	64 62
+21-00186	1	4	1	1	1	06f610		4la5s7		QF		Boruch Skierkier		Emilio Vila	61 60
+21-00186	1	4	1	1	1	i0g2gm		3ttbxn		QF		Diego Dalisay		Tomas Nader	62 62
+21-00186	1	4	1	1	1	m8709y		e4nct2		QF		Takeshi Taco		Cheng En Tsai	62 61
+21-00186	1	4	2	1		vq5238		4la5s7		SF		Ravi Nelson		Emilio Vila	Fri @ 10:30
+21-00186	1	4	2	1		3ttbxn		e4nct2		SF		Tomas Nader		Cheng En Tsai	Fri @ 10:30
 21-00238	1	1	1	3	1	urz1jh		ku4kss		F		Cash Hanzlik		Luciano Fisicaro	63 62
 21-00238	1	1	1	2	1	urz1jh		pw0ac6		SF		Cash Hanzlik		Kyllian Savary	61 61
 21-00238	1	1	1	2	1	ku4kss		nz1x91		SF		Luciano Fisicaro		Joaquin Bianchi	52 Ret.
@@ -243,7 +277,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-05800	1	1	1	2		ajvpnp		krxld9		32		Philip Hjorth		James Bell	Thu @ 11:00
 21-05800	1	1	1	2		04jghm		v2p63g		32		Nil Giraldez		Satchel Benn	Thu @ 11:00
 21-05800	1	1	1	2		nm6keo		ft6p03		32		James Watt		Rudolfs Aksenoks	Thu @ 11:00
-21-05800	1	1	1	2		sv0ze9		e5fv33		32		Matheo Coupu		Stevie Gould	Thu @ 11:00
+21-05800	1	1	1	2	1	sv0ze9		e5fv33		32		Matheo Coupu		Stevie Gould	Walkover
 21-05800	1	1	1	2		lfw7y5		u501uf		32		Nitzan Ricklis		Boris Reckow	Thu @ 11:00
 21-05800	1	1	1	2		si36do		srmng1		32		Ryan Torres		Patrick Wong	Thu @ 11:00
 21-05800	1	1	1	2		q4h0be		3z5tlh		32		Aryan Chaudhary		Delmas N Tcha	Thu @ 12:30
@@ -285,10 +319,8 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-05800	1	1	2	1		vxdzdj		bv4vqp		32Q		Ryan Morgan		Manroop Saini	Thu @ 13:30
 21-05800	1	1	2	1		z1ex8b		2wj0xa		32Q		Lucas Magnaudet		Dean Stratakos	Thu @ 13:30
 21-05800	1	1	2	1		8ed6f4		xkca0i		32Q		Benjamin Campi		Liam Puttergill	Thu @ 13:30
-21-05800	1	1	2	1		p5w5iz		sfyn4d		32Q		Noah Gampel		David Woodland	Thu @ 14:00
+21-05800	1	1	2	1	1	sfyn4d		p5w5iz		32Q		David Woodland		Noah Gampel	Walkover
 21-05800	1	1	2	1		c91zp7		qcnsde		32Q		Coby McCaig		Coleton Hootman	Thu @ 14:00
-21-05800	1	1	2	1		c9kpab		h1gdej		32Q		Caelan Potts		Matthew Rodriguez	Thu @ 14:00
-21-05800	1	1	2	1		sc42sa		8vh9t5		32Q		Mitchell Davis		Alex Chang	Thu @ 14:30
 21-05800	1	1	2	1		k0iimu		31a1wv		32Q		Mitchell Johnson		Peter Alam	Thu @ 14:30
 21-05800	1	1	2	1		ct856b		j1xntf		32Q		Daniel Dudockin		Anders Matta	Thu @ 14:30
 21-05800	1	1	2	1		3jvpnp		mdhrtn		32Q		Johan Garpered		Juan Batalla	Thu @ 14:30
@@ -1522,46 +1554,70 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-22872	1	1	2	1	1	dnfd3l		jcropu		32Q		Lucas Hammond		Hugo Stroppiana	76(5) 36 [3]
 21-22872	1	1	2	1	1	z1gdej		r1trhz		32Q		Brandon Pham	9	Muhamad Bedwan	Walkover
 21-22872	1	1	2	1	1	rrmng1		w36rg9		32Q		Julius Ziebart		Christian Kearns	62 61
+21-23395	1	1	1	2		syo88o		9p5r5b		64		Miko Eala		Justin Cadeau	Thu @ 13:30
+21-23395	1	1	1	2		fbttx5		c1gdej		64		Sergiu Medesan		Joshua Robinson	Thu @ 16:30
+21-23395	1	1	1	2		dfyn4d		zos24y		64		James Wilkinson		Michael Fourticq	Thu @ 13:30
+21-23395	1	1	1	2		r9kpab		6q7i9g		64		Niles Rachal		Derrick Thompson	Thu @ 15:00
+21-23395	1	1	1	2		sofo1i		nscqku		64		Inigo Torre Martin		Daniel Dunac	Thu @ 13:30
+21-23395	1	1	1	2		gcropu		w6wggw		64		Adhvyte Sharma		Rithik Sardana	Thu @ 16:30
+21-23395	1	1	1	2		kkeq6q		6g7gta		64		Pascal Wagemaker		Harrison Janes	Thu @ 15:00
+21-23395	1	1	1	2		y28wok		dybu58		64		Nassim Fenjiro		Gavin Segraves	Thu @ 15:00
+21-23395	1	1	1	2		ovnlbt		qatiz8		64		Rayane Stable		Ryan Charles	Thu @ 15:00
+21-23395	1	1	1	2		r34ba1		e44m8y		64		Nickolas Frisk		Andrew Rozanov	Thu @ 16:30
+21-23395	1	1	1	2		90zs1q		k6dqvs		64		Finn Garner		Alex Mascioli	Thu @ 15:00
+21-23395	1	1	1	2		h387mh		olrf73		64		Anthony Prokurat		Bora Sengul	Thu @ 15:00
+21-23395	1	1	1	2		uq16rs		hpohqf		64		Bar Botzer		Jin Dassanayake	Thu @ 15:00
+21-23395	1	1	1	2		cz1x91		fb8n6t		64		Sam Bossem		Thibault Frumholz	Thu @ 15:00
+21-23395	1	1	1	2		seyc6g		78iy66		64		Eshan Kanetkar		Joaquim Almeida	Thu @ 13:30
+21-23395	1	1	1	2		u7sv2d		46u0ao		64		Nathan Perrone		Alexander Karman	Thu @ 15:00
+21-23395	1	1	1	2		lr1hpp		zll3pf		64		Luis Molina		Scott Bickel	Thu @ 16:30
+21-23395	1	1	1	2		2y9ez0		7p9nhr		64		Will Pak		Charl Morgan	Thu @ 13:30
+21-23395	1	1	1	2		0m2o28		mfdhd1		64		Alexander Kiefer		Cy McLeod	Thu @ 13:30
 21-23395	1	1	1	2		8mhibw		6lrf73		64		Ryan Boland		Charlie Suh	Thu @ 13:30
-21-23395	1	1	1	1		dupqj4		9p5r5b		128		Akira Morgenstern		Justin Cadeau	Thu @ 09:00
-21-23395	1	1	1	1		fbttx5		fnfd3l		128		Sergiu Medesan		Skyler Gates	Thu @ 12:00
-21-23395	1	1	1	1		v3llpx		c1gdej		128		Andres Ballesteros		Joshua Robinson	Thu @ 12:00
-21-23395	1	1	1	1		zos24y		oii0mc		128		Michael Fourticq		Momin Khan	Thu @ 09:00
-21-23395	1	1	1	1		r9kpab		ewhkr2		128		Niles Rachal		Andrei Paduraru	Thu @ 10:30
-21-23395	1	1	1	1		hl8pmz		nscqku		128		Edik Pribitkin		Daniel Dunac	Thu @ 09:00
-21-23395	1	1	1	1		gcropu		azm30d		128		Adhvyte Sharma		Vansh Kapoor	Thu @ 12:00
-21-23395	1	1	1	1		sqosoc		w6wggw		128		Christian Pumpelly		Rithik Sardana	Thu @ 12:00
-21-23395	1	1	1	1		2qig6o		6g7gta		128		Rami Alkhafaji		Harrison Janes	Thu @ 09:00
-21-23395	1	1	1	1		y28wok		djzlz5		128		Nassim Fenjiro		Justin Suarez	Thu @ 10:30
-21-23395	1	1	1	1		rxffjr		qatiz8		128		Elliot Stevens		Ryan Charles	Thu @ 09:00
-21-23395	1	1	1	1		r34ba1		xkpo3y		128		Nickolas Frisk		George Cavo	Thu @ 12:00
-21-23395	1	1	1	1		n4262q		e44m8y		128		Eric Liu		Andrew Rozanov	Thu @ 12:00
-21-23395	1	1	1	1		jowyge		k6dqvs		128		Rhajzon Rankins		Alex Mascioli	Thu @ 10:30
-21-23395	1	1	1	1		h387mh		21gdej		128		Anthony Prokurat		Erick Rivas	Thu @ 09:00
-21-23395	1	1	1	1		1yqoew		hpohqf		128		Matthew Jones		Jin Dassanayake	Thu @ 10:30
+21-23395	1	1	1	2		c9x3dr		636rg9		64		Mikeal Carpenter		Eitan Khromchenko	Thu @ 16:30
+21-23395	1	1	1	2		7bttx5		gtpfl7		64		Conners OBrien		Loren Byers	Thu @ 13:30
+21-23395	1	1	1	2		2p77bj		jrk7at		64		Louis Gorregues		Chikaya Sato	Thu @ 15:00
+21-23395	1	1	1	2		mmlenc		k2p63g		64		Kaipo Marshall		Matisse Bobichon	Thu @ 13:30
+21-23395	1	1	1	2		lmjyh4		7w0ac6		64		Luke Garner		Leo Raquin	Thu @ 13:30
+21-23395	1	1	1	1	1	9p5r5b		dupqj4		128		Justin Cadeau		Akira Morgenstern	62 75
+21-23395	1	1	1	1	1	fbttx5		fnfd3l		128		Sergiu Medesan		Skyler Gates	64 64
+21-23395	1	1	1	1	1	c1gdej		v3llpx		128		Joshua Robinson		Andres Ballesteros	60 61
+21-23395	1	1	1	1	1	zos24y		oii0mc		128		Michael Fourticq		Momin Khan	63 61
+21-23395	1	1	1	1	1	r9kpab		ewhkr2		128		Niles Rachal		Andrei Paduraru	63 63
+21-23395	1	1	1	1	1	nscqku		hl8pmz		128		Daniel Dunac		Edik Pribitkin	46 76(5) 63
+21-23395	1	1	1	1	1	gcropu		azm30d		128		Adhvyte Sharma		Vansh Kapoor	63 61
+21-23395	1	1	1	1	1	w6wggw		sqosoc		128		Rithik Sardana		Christian Pumpelly	75 64
+21-23395	1	1	1	1	1	6g7gta		2qig6o		128		Harrison Janes		Rami Alkhafaji	63 61
+21-23395	1	1	1	1	1	y28wok		djzlz5		128		Nassim Fenjiro		Justin Suarez	75 60
+21-23395	1	1	1	1	1	qatiz8		rxffjr		128		Ryan Charles		Elliot Stevens	64 46 62
+21-23395	1	1	1	1	1	r34ba1		xkpo3y		128		Nickolas Frisk		George Cavo	62 62
+21-23395	1	1	1	1	1	e44m8y		n4262q		128		Andrew Rozanov		Eric Liu	63 60
+21-23395	1	1	1	1	1	k6dqvs		jowyge		128		Alex Mascioli		Rhajzon Rankins	62 61
+21-23395	1	1	1	1	1	h387mh		21gdej		128		Anthony Prokurat		Erick Rivas	63 64
+21-23395	1	1	1	1	1	hpohqf		1yqoew		128		Jin Dassanayake		Matthew Jones	60 76(5)
 21-23395	1	1	1	1		dlpz1v		qyqoew		128		Sasha Panyan		Martial Kawunde	Thu @ 12:00
 21-23395	1	1	1	1		8501uf		4jcz2l		128		Gustavo Rotundo		Jake Fellows	Thu @ 12:00
-21-23395	1	1	1	1		cr1hpp		fb8n6t		128		Romani Mayers		Thibault Frumholz	Thu @ 10:30
-21-23395	1	1	1	1		yc6iyi		seyc6g		128		Jan Kjellberg		Eshan Kanetkar	Thu @ 09:00
-21-23395	1	1	1	1		46u0ao		brir4l		128		Alexander Karman		Alex Kim	Thu @ 10:30
+21-23395	1	1	1	1	1	fb8n6t		cr1hpp		128		Thibault Frumholz		Romani Mayers	61 63
+21-23395	1	1	1	1	1	seyc6g		yc6iyi		128		Eshan Kanetkar		Jan Kjellberg	76(6) 63
+21-23395	1	1	1	1	1	46u0ao		brir4l		128		Alexander Karman		Alex Kim	62 62
 21-23395	1	1	1	1		o6wggw		b8kece		128		Nihit Rawal		Oliver Davey	Thu @ 12:00
 21-23395	1	1	1	1		7fw7y5		ejcz2l		128		Michael Pollatos		Jake Fishkin	Thu @ 12:00
-21-23395	1	1	1	1		nla5s7		zll3pf		128		Noah Winton		Scott Bickel	Thu @ 10:30
-21-23395	1	1	1	1		2y9ez0		cfw7y5		128		Will Pak		Hayden Postin	Thu @ 09:00
-21-23395	1	1	1	1		mfdhd1		fybu58		128		Cy McLeod		Tamirlan Teberikov	Thu @ 09:00
+21-23395	1	1	1	1	1	zll3pf		nla5s7		128		Scott Bickel		Noah Winton	63 62
+21-23395	1	1	1	1	1	2y9ez0		cfw7y5		128		Will Pak		Hayden Postin	75 67(5) 61
+21-23395	1	1	1	1	1	mfdhd1		fybu58		128		Cy McLeod		Tamirlan Teberikov	75 75
 21-23395	1	1	1	1	1	8mhibw		k40qwi		128		Ryan Boland		Ondrej Ctverak	Walkover
-21-23395	1	1	1	1		zie4aw		636rg9		128		Giovanni Abriola		Eitan Khromchenko	Thu @ 10:30
-21-23395	1	1	1	1		7bttx5		bg7gta		128		Conners OBrien		Herman Jentoft	Thu @ 09:00
+21-23395	1	1	1	1	1	636rg9		zie4aw		128		Eitan Khromchenko		Giovanni Abriola	60 64
+21-23395	1	1	1	1	1	7bttx5		bg7gta		128		Conners OBrien		Herman Jentoft	76(3) 60
 21-23395	1	1	1	1		a34ba1		vh1f9j		128		Marcel Dawson		Matt Cardano	Thu @ 10:30
 21-23395	1	1	1	1		nh5blz		lefmlc		128		Ryan Nguyen		Dustin Ha	Thu @ 13:30
 21-23395	1	1	1	1		5kv0lm		ctvr3v		128		Sam Vagner		Alp Sentay	Thu @ 13:30
-21-23395	1	1	1	1		xkauua		jrk7at		128		Jarrett Karnibad		Chikaya Sato	Thu @ 10:30
-21-23395	1	1	1	1		mmlenc		bvl55l		128		Kaipo Marshall		Nicholas Nguyen	Thu @ 09:00
+21-23395	1	1	1	1	1	jrk7at		xkauua		128		Chikaya Sato		Jarrett Karnibad	61 62
+21-23395	1	1	1	1	1	mmlenc		bvl55l		128		Kaipo Marshall		Nicholas Nguyen	76(6) 61
 21-23395	1	1	1	1		c3ansp		3xu9sf		128		Filipos Zachiotis		Sebastian Lopez	Thu @ 10:30
 21-23395	1	1	1	1		o1xntf		zpqxwn		128		Jack McBride		Alexander MacNeil	Thu @ 12:00
 21-23395	1	1	1	1		45w5iz		bpb3nz		128		Colin Corsini		Guilherme Valdoleir…	Thu @ 12:00
 21-23395	1	1	1	1		f3ph1d		zm448g		128		Chanasorn Nakaurai		Alejandro Rodriguez…	Thu @ 10:30
-21-23395	1	1	1	1		lmjyh4		twhkr2		128		Luke Garner		Luka Markovic	Thu @ 09:00
+21-23395	1	1	1	1	1	lmjyh4		twhkr2		128		Luke Garner		Luka Markovic	36 63 62
 21-23711	1	1	1	3	1	jbcji9		njzlz5		F		Wikus Robbertse		Rian Ta	62 62
 21-23711	1	1	1	2	1	jbcji9		7unadw		SF		Wikus Robbertse		Pontus Hallgren	63 63
 21-23711	1	1	1	2	1	njzlz5		73ph1d		SF		Rian Ta		Zachary Matuszak	62 61
@@ -3036,28 +3092,43 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-59010	1	2	1	2		tscqku		tho163		64		Rahul Dhokia		Sebastian Rodriguez	Fri @ 11:00
 21-59010	1	2	1	2		pg7gta		z4yaqa		64		Trinity Grear	15	Demetris Azoides	Fri @ 11:00
 21-59010	1	2	1	2		n0kys2		f4nct2		64		Juan Jose Rodriguez…		Kenner Taylor	Fri @ 11:00
-21-59010	1	101	1	2		pzi7ox		62acus		64		Miguel Alonso		Marwin Kralemann	Thu @ 09:00
-21-59010	1	101	1	2		rl2d4b		5mlenc		64		Daichi Akiyoshi		Arnau Miralles Lopez	Thu @ 09:00
-21-59010	1	101	1	2		c3rx7l		1u8g48		64		Alex Stafford		Joao Sasso	Thu @ 09:00
-21-59010	1	101	1	2		35jrfj		sn0jux		64		Riley Tran-Vilkman		Filippo Salsini	Thu @ 09:00
-21-59010	1	101	1	2		sg50n2		81a1wv		64		Justin Braverman		Ricardo Alban	Thu @ 09:00
-21-59010	1	101	1	2		81ch23		vz1x91		64		Warren Fulgenzi		Oswaldo Cano Sosa	Thu @ 09:00
-21-59010	1	101	1	2		42t2fw		dfw7y5		64		Adam Oscislawski		Pietro Perego	Thu @ 09:45
-21-59010	1	101	1	2		cwdofm		17ozqx		64		Savan Chhabra		Noah DeLuna	Thu @ 09:45
-21-59010	1	101	1	2		s7595t		die4aw		64		Callaway Clark		Ryuya Ata	Thu @ 10:00
-21-59010	1	101	1	2		nq5238		rmhibw		64		Benjamin McDonald		Solano Caffarena	Thu @ 10:00
-21-59010	1	101	1	2		7ys4k4		pejixs		64		Matthieu Peres		Takeyasu Sekiguchi	Thu @ 10:30
-21-59010	1	101	1	2		utc1ir		6ofo1i		64		Jose Maria Rastrojo		Emir Sendogan	Thu @ 10:30
-21-59010	1	101	1	2		r9m5gj		4brdrx		64		John Zisette		Javier Gonzalez	Thu @ 11:30
-21-59010	1	101	1	2		5ll3pf		e3rx7l		64		Cesar Barranquero		Nathan Schwartz	Thu @ 11:30
-21-59010	1	101	1	2		8xffjr		aqosoc		64		Kyle Sillman		Campbell Salmon	Thu @ 11:30
-21-59010	1	101	1	2		idn3bb		mx9313		64		Eli Susser		Guillermo Castaneda	Thu @ 10:30
-21-59010	1	101	1	2		2462e6		ug50n2		64		Sam Whitehead		Wes Barnett	Thu @ 12:00
-21-59010	1	101	1	2		rpsd2v		9i36do		64		Eddie Ross		Tyler Stewart	Thu @ 12:00
+21-59010	1	101	1	3		zcp8jm		pzi7ox		32		Evin McDonald		Miguel Alonso	Thu @ 16:30
+21-59010	1	101	1	3		w26gic		5mlenc		32		Nevin Arimilli		Arnau Miralles Lopez	Thu @ 16:30
+21-59010	1	101	1	3		cffxj9		1u8g48		32		Anish Sriniketh		Joao Sasso	Thu @ 16:30
+21-59010	1	101	1	3		6l4taj		35jrfj		32		Reed Collier		Riley Tran-Vilkman	Thu @ 16:30
+21-59010	1	101	1	3		q93fvf		sg50n2		32		Ivan Thamma		Justin Braverman	Thu @ 16:30
+21-59010	1	101	1	3		bmysqs		81ch23		32		Austin Abbrat		Warren Fulgenzi	Thu @ 16:30
+21-59010	1	101	1	3		4bpxlp		42t2fw		32		Louis Cloud		Adam Oscislawski	Thu @ 16:30
+21-59010	1	101	1	3		9la5s7		cwdofm		32		Francisco Vittar		Savan Chhabra	Thu @ 16:30
+21-59010	1	101	1	3		die4aw		rjx5tx		32		Ryuya Ata		Ethan Muza	Thu @ 16:30
+21-59010	1	101	1	3		nq5238		7ys4k4		32		Benjamin McDonald		Matthieu Peres	Thu @ 17:00
+21-59010	1	101	1	3		6ofo1i		4brdrx		32		Emir Sendogan		Javier Gonzalez	Thu @ 17:00
+21-59010	1	101	1	3		e3rx7l		aqosoc		32		Nathan Schwartz		Campbell Salmon	Thu @ 17:00
+21-59010	1	101	1	3		ud6twf		mx9313		32		Te Kani Williams		Guillermo Castaneda	Thu @ 16:30
+21-59010	1	101	1	3		ug50n2		9i36do		32		Wes Barnett		Tyler Stewart	Thu @ 17:00
+21-59010	1	101	1	3		5ag4ws		i93fvf		32		Jordi Redelijk		Garrett Skelly	Thu @ 17:00
+21-59010	1	101	1	2	1	pzi7ox		62acus		64		Miguel Alonso		Marwin Kralemann	36 76 75
+21-59010	1	101	1	2	1	5mlenc		rl2d4b		64		Arnau Miralles Lopez		Daichi Akiyoshi	36 61 75
+21-59010	1	101	1	2	1	1u8g48		c3rx7l		64		Joao Sasso		Alex Stafford	46 63 63
+21-59010	1	101	1	2	1	35jrfj		sn0jux		64		Riley Tran-Vilkman		Filippo Salsini	46 63 60
+21-59010	1	101	1	2	1	sg50n2		81a1wv		64		Justin Braverman		Ricardo Alban	60 62
+21-59010	1	101	1	2	1	81ch23		vz1x91		64		Warren Fulgenzi		Oswaldo Cano Sosa	63 63
+21-59010	1	101	1	2	1	42t2fw		dfw7y5		64		Adam Oscislawski		Pietro Perego	64 36 61
+21-59010	1	101	1	2	1	cwdofm		17ozqx		64		Savan Chhabra		Noah DeLuna	61 60
+21-59010	1	101	1	2	1	die4aw		s7595t		64		Ryuya Ata		Callaway Clark	64 76(1)
+21-59010	1	101	1	2	1	nq5238		rmhibw		64		Benjamin McDonald		Solano Caffarena	Walkover
+21-59010	1	101	1	2	1	7ys4k4		pejixs		64		Matthieu Peres		Takeyasu Sekiguchi	62 61
+21-59010	1	101	1	2	1	6ofo1i		utc1ir		64		Emir Sendogan		Jose Maria Rastrojo	62 62
+21-59010	1	101	1	2	1	4brdrx		r9m5gj		64		Javier Gonzalez		John Zisette	75 75
+21-59010	1	101	1	2	1	e3rx7l		5ll3pf		64		Nathan Schwartz		Cesar Barranquero	61 76(5)
+21-59010	1	101	1	2	1	aqosoc		8xffjr		64		Campbell Salmon		Kyle Sillman	61 61
+21-59010	1	101	1	2	1	mx9313		idn3bb		64		Guillermo Castaneda		Eli Susser	62 61
+21-59010	1	101	1	2	1	ug50n2		2462e6		64		Wes Barnett		Sam Whitehead	62 75
+21-59010	1	101	1	2	1	9i36do		rpsd2v		64		Tyler Stewart		Eddie Ross	61 10 Ret.
 21-59010	1	101	1	2		tie4aw		th3vfr		64		Max Amling		Maxim Groysman	Thu @ 12:00
-21-59010	1	101	1	2		9cp8jm		7qig6o		64		Alberto Mello		Huntley Allen	Thu @ 13:00
-21-59010	1	101	1	2		h6u0ao		5ag4ws		64		Christopher Lawrance		Jordi Redelijk	Thu @ 13:00
-21-59010	1	101	1	2		2l4taj		i93fvf		64		Ryan Flanagan		Garrett Skelly	Thu @ 13:00
+21-59010	1	101	1	2	1	7qig6o		9cp8jm		64		Huntley Allen		Alberto Mello	60 61
+21-59010	1	101	1	2	1	5ag4ws		h6u0ao		64		Jordi Redelijk		Christopher Lawrance	75 61
+21-59010	1	101	1	2	1	i93fvf		2l4taj		64		Garrett Skelly		Ryan Flanagan	61 63
 21-59346	1	1	1	6	1	bkauua		8ulu7o		F	1	Cameron Krimbill	2	Hunter Bajoit	76(1) 62
 21-59346	1	1	1	5	1	bkauua		hh7rr7		SF	1	Cameron Krimbill	5	Christian Settles	16 62 75
 21-59346	1	1	1	5	1	8ulu7o		tnu7c9		SF	2	Hunter Bajoit	4	Alessio Azzalini	64 64

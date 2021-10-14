@@ -1,8 +1,8 @@
 ---
-tournaments: 159
-players: 3511
-matches: 2957
-completed: 2910
+tournaments: 161
+players: 3514
+matches: 2962
+completed: 2915
 scheduled: 47
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -1651,6 +1651,11 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-43987	2	3	1	1	1	gzoj6l	rc8y4q	27sv2d	pl4taj	16		Piedra/Sanchez Ques…		Ristic/Delsol	64
 21-43987	2	3	1	1	1	q8muim	fkauua	u6bapk	q1v7n7	16		Lacey/Leeman		Jardim/Hellberg	64
 21-43987	2	3	1	1	1	cyukqc	x6sk4g	28kece	or3xvx	16		Wilson/De Sousa		Fyvie/Semmartin	60
+21-46458	2	101	1	2	1	ol4taj	c0xcvi	qsaaem	a5w5iz	QF	1	Dudeney/Berlin		Aldrich/Frediani	80
+21-46458	2	101	1	2	1	ld2xkz	yur6pc	6owyge	r40qwi	QF		Lee/Taddia	4	Schieroni/Filip	84
+21-46458	2	101	1	2	1	69i943	agbc5q	jvl55l	8kv0lm	QF	3	Khodan/Tahan		Matthews/Sommer	87(4)
+21-46458	2	101	1	2	1	svh9t5	0ouia6	h0g2gm	f4h0be	QF	2	Clayton/Ma		Di Francesco/Cohen	87(4)
+21-46458	2	101	1	1	1	qsaaem	a5w5iz	uowyge	g7sv2d	16		Aldrich/Frediani		Porter/Salinas	86
 21-46904	2	1	1	3	1	l44m8y	9m08w0	amnutk	n7sv2d	F		Quiterio/Dean		Tanik/Reding	87(5)
 21-46904	2	1	1	2	1	l44m8y	9m08w0	eeyc6g	jz5tlh	SF		Quiterio/Dean		Love/Morkel	84
 21-46904	2	1	1	2	1	amnutk	n7sv2d	rejixs	5brdrx	SF		Tanik/Reding		Tannenbaum/Johns	85

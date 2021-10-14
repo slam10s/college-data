@@ -1,9 +1,9 @@
 ---
-tournaments: 159
-players: 3331
-matches: 2687
-completed: 2650
-scheduled: 37
+tournaments: 161
+players: 3357
+matches: 2704
+completed: 2669
+scheduled: 35
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	3	1	1	1		awyu6y	8gq6ee	svyj81	cg50n2	16		Leach/Lemaitre		Aney/Budde	Thu @ 17:00
@@ -22,14 +22,18 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00186	3	2	1	1		lnwnih	vscqku	taxebo	p795h9	16		Fernandez/Gallegos		Nienhaus/Papa	Thu @ 15:00
 21-00186	3	2	1	1		72vil4	hqkwcw	eikgsk	w81ora	16		Subert/Cooke		Ramirez/Bain	Thu @ 15:30
 21-00186	3	2	1	1		6kpo3y	gybu58	pgoq86	7z1x91	16		Barbon/Stepanov		Czepielewski/Bonacia	Thu @ 15:30
-21-00186	3	3	1	1		wk8eo2	nv4vqp	fc42sa	nz1x91	16		Cueto Ramos/Regalado		Fernandez/Bianchi	Thu @ 14:00
-21-00186	3	3	1	1		fzi7ox	0z3df9	98qqu2	9795h9	16		Akinpetide/Jankovic		Westwick/Martinez R…	Thu @ 14:00
-21-00186	3	3	1	1		6hml0v	b4h0be	z5dfxv	bed6f4	16		Mack/Carvalho		Cimpeanu/Barstow	Thu @ 14:00
-21-00186	3	3	1	1		zp5r5b	b7blnh	8st0zq	ibezoh	16		Bulmer/van Antwerpen		Bohren/Velicki	Thu @ 14:00
-21-00186	3	3	1	1		m7blnh	ibpxlp	bowyge	rsxwb6	16		Torres/Berling		Schold/Martinetti	Thu @ 14:00
+21-00186	3	3	1	2		wk8eo2	nv4vqp	98qqu2	9795h9	QF		Cueto Ramos/Regalado		Westwick/Martinez R…	Fri @ 14:00
+21-00186	3	3	1	2		6hml0v	b4h0be	8st0zq	ibezoh	QF		Mack/Carvalho		Bohren/Velicki	Fri @ 13:30
+21-00186	3	3	1	1	1	wk8eo2	nv4vqp	fc42sa	nz1x91	16		Cueto Ramos/Regalado		Fernandez/Bianchi	75 62
+21-00186	3	3	1	1	1	98qqu2	9795h9	fzi7ox	0z3df9	16		Westwick/Martinez R…		Akinpetide/Jankovic	60 61
+21-00186	3	3	1	1	1	6hml0v	b4h0be	z5dfxv	bed6f4	16		Mack/Carvalho		Cimpeanu/Barstow	75 64
+21-00186	3	3	1	1	1	8st0zq	ibezoh	zp5r5b	b7blnh	16		Bohren/Velicki		Bulmer/van Antwerpen	76(4) 64
+21-00186	3	3	1	1	1	bowyge	rsxwb6	m7blnh	ibpxlp	16		Schold/Martinetti		Torres/Berling	64 63
 21-00186	3	3	1	1		6svg5y	ubttx5	pbrdrx	u40qwi	16		Jarry/Miller		Giesberts/Dagostine	Thu @ 14:30
-21-00186	3	3	1	1		uh3vfr	o7ozqx	2hk5un	ov2fkh	16		Giuliato/Forcano		Dos Santos/Jurkovic	Thu @ 14:00
+21-00186	3	3	1	1	1	2hk5un	ov2fkh	uh3vfr	o7ozqx	16		Dos Santos/Jurkovic		Giuliato/Forcano	64 64
 21-00186	3	3	1	1		r1trhz	fsgmwa	cz5tlh	qse6q2	16		Bedwan/Rieme		Oliveira/Kearney	Thu @ 14:30
+21-00186	3	3	2	1		fc42sa	nz1x91	fzi7ox	0z3df9	QF		Fernandez/Bianchi		Akinpetide/Jankovic	Fri @ 14:00
+21-00186	3	3	2	1		z5dfxv	bed6f4	zp5r5b	b7blnh	QF		Cimpeanu/Barstow		Bulmer/van Antwerpen	Fri @ 14:00
 21-00186	3	4	1	1		e4nct2	1atiz8	jktkfe	zmnutk	QF		Tsai/Cantero		Parada/Toloza	Thu @ 16:00
 21-00186	3	4	1	1		vclc76	4kr496	h6wggw	sgbc5q	QF		Bruno/Hirano		Saint Martin/Shearer	Thu @ 15:30
 21-00186	3	4	1	1		3ttbxn	gdn3bb	obttx5	i0g2gm	QF		Nader/Vanecek		Mosvold/Dalisay	Thu @ 16:00
@@ -335,6 +339,19 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-08428	2	3	2	2	1	yxy54v	9bcji9	fgsmkm	2zqzct	F		Weiler/Rich		Richards/Vu	64
 21-08428	2	3	2	1	1	fgsmkm	2zqzct	qcaeay	6xdzdj	SF		Richards/Vu		Whittaker/Miller	76(4)
 21-08428	2	3	3	1	1	9igkg4	patiz8	0v4vqp	ikr496	F		Fujimori/Banna		Schmassmann/Jaramil…	63
+21-10002	2	1	1	2	1	dq5238	sbv93d	fgsmkm	n2rm9o	16		Matsushita/Vandecas…		Richards/Jesser	85
+21-10002	2	1	1	2	1	p0meya	66bapk	mdn3bb	4ikgsk	16		Yoshida/Hibi		Torocsik/Pulliam	87(2)
+21-10002	2	1	1	2	1	1zoj6l	vkv0lm	leww08	3k8eo2	16		Penzlin/Tvedt		De Vries/Fernandez	81
+21-10002	2	1	1	2	1	rbrdrx	emnutk	tpohqf	x9m5gj	16		Hollingworth/Trkulja		Frank/Worn	83
+21-10002	2	1	1	2	1	e3ph1d	w5dfxv	8lrf73	3ouia6	16		Oberg/Brown		Shugar/Klov-Nilsson	86
+21-10002	2	1	1	2	1	i4262q	8keq6q	gxqdgz	444m8y	16		Lin/Yamaguchi		Andersson/Roider	83
+21-10002	2	1	1	2	1	c0zs1q	sdj7zv	wgsmkm	pjvpnp	16		Hann/Gomez Galvan		Plutat/Hsu	86
+21-10002	2	1	1	2	1	vod8va	vktkfe	m0g2gm	dofo1i	16		Pankin/Neos		Dillon/Thomas	83
+21-10002	2	1	1	1	1	fgsmkm	n2rm9o	v834xi	63n1v5	32		Richards/Jesser		Hall/Givens-Jensen	87(2)
+21-10002	2	1	1	1	1	p0meya	66bapk	rzoj6l	bq5238	32		Yoshida/Hibi		Paz/Mueller	81
+21-10002	2	1	1	1	1	tpohqf	x9m5gj	21trhz	w0kys2	32		Frank/Worn		Balce/Sarlvik	85
+21-10002	2	1	1	1	1	gxqdgz	444m8y	sd2xkz	31z3zn	32		Andersson/Roider		Kiselkov/Stipic	84
+21-10002	2	1	1	1	1	m0g2gm	dofo1i	bjvpnp	nii0mc	32		Dillon/Thomas		Harrison/Krause	86
 21-10750	2	1	1	1	1	dvjpzd	siza18	5m448g	keh2rk	32		Gibbons/Guerrero Al…		Reilly/Oberg	63
 21-10750	2	1	1	1	1	r6u0ao	qeh2rk	bgsmkm	t2p63g	32		Lefevre/Neal		Pregel/Burger	62
 21-10750	2	1	1	1	1	akv0lm	w501uf	x2cs00	yofo1i	32		Van Noord/Penman		Quiles/Takeda	64

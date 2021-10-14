@@ -1,39 +1,66 @@
 ---
-tournaments: 170
-players: 3795
-matches: 6983
-completed: 6901
-scheduled: 82
+tournaments: 171
+players: 3800
+matches: 7045
+completed: 6976
+scheduled: 69
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
-21-00186	2	1	1	1		t6sk4g		lgsmkm		16		Nicole Coopersmith		Valerie Quiceno	Thu @ 11:00
-21-00186	2	1	1	1		irir4l		aeh2rk		16		Iryna Lysykh		Aisha Niyonkuru	Thu @ 11:00
-21-00186	2	1	1	1		6tvr3v		t1itkr		16		Eva Siska		Ana Zavala	Thu @ 11:00
-21-00186	2	1	1	1		3h7rr7		byms2g		16		Tsvetanka Trifonova		Renee Acena	Thu @ 12:00
-21-00186	2	1	1	1		bd6twf		srk7at		16		Vanja Vidanovic		Selina Pichler	Thu @ 11:00
-21-00186	2	1	1	1		uimwys		0zm30d		16		Yue Yu		Teodora Jovic	Thu @ 12:00
-21-00186	2	1	1	1		e501uf		k9x3dr		16		Angela Rinaldi		Maddie Bemisderfer	Thu @ 11:00
-21-00186	2	1	1	1		9oqmyq		nxwpyn		16		Kyra Akinnibi		Stephanie Petit	Thu @ 11:00
-21-00186	2	2	1	1		i1ex8b		jqkwcw		16		Deniz Khazan		Natalie Espinal	Thu @ 10:00
-21-00186	2	2	1	1		ko9cju		7gsmkm		16		Christine Canete		Ashley Penshorn	Thu @ 10:00
-21-00186	2	2	1	1		xbttx5		m8muim		16		Anna Novikova		Karolin Kirchtag	Thu @ 10:00
-21-00186	2	2	1	1		4tc1ir		8m2o28		16		Ana Carla Resende		Taylor Leslie	Thu @ 12:00
-21-00186	2	2	1	1		u5upcr		0jef8t		16		Raquel Amaro		Eleonora Liga	Thu @ 12:00
-21-00186	2	2	1	1		nwyu6y		bgma2y		16		Natalie Kallmunzero…		Adel Abidulina	Thu @ 12:00
-21-00186	2	2	1	1		hb8n6t		swf4lu		16		Isabella Dunlap		Maria Garcia	Thu @ 10:00
-21-00186	2	2	1	1		jefmlc		qz1x91		16		Luisa Hrda		Mae Canete	Thu @ 10:00
-21-00186	2	3	1	1		8d4dq7		66sk4g		16		Sahana Raman		Kristal Dule	Thu @ 09:00
-21-00186	2	3	1	1		tgq6ee		vunadw		16		Angel Le		Mary Hose	Thu @ 09:00
-21-00186	2	3	1	1		i795h9		3v6bwx		16		Sylwia Mikos		Angie Zhou	Thu @ 09:00
-21-00186	2	3	1	1		y03od6		ev4vqp		16		Sabrina Tang		Carol Plakk	Thu @ 09:00
-21-00186	2	3	1	1		vzqzct		aktkfe		16		Nina Ye		Suzuka Nishino	Thu @ 09:00
-21-00186	2	3	1	1		y7qfw5		iqkwcw		16		Jamilah Karah		Dakota Fordham	Thu @ 09:00
-21-00186	2	3	1	1		6eh2rk		cfyn4d		16		Gabi Moss		Miranda Yuan	Thu @ 09:00
-21-00186	2	3	1	1		fhqhcb		gsxwb6		16		Crystal Zhou		Eliza McPherron	Thu @ 09:00
-21-00186	2	4	1	1		r26gic		940qwi		QF		Lauren Anzalotta		Ana Julissa De Mata	Thu @ 11:30
-21-00186	2	4	1	1		az5tlh		1q3mx0		QF		Naomi McKenzie		Bailey Greenwell	Thu @ 11:30
-21-00186	2	4	1	1		dp5r5b		exu9sf		QF		Jou Chen Chen		Justine Lespes	Thu @ 11:30
-21-00186	2	4	1	1		vatiz8		e795h9		QF		Valeriia Cherfus		Destinee Martins	Thu @ 11:30
+21-00186	2	1	1	2		t6sk4g		irir4l		QF		Nicole Coopersmith		Iryna Lysykh	Fri @ 11:30
+21-00186	2	1	1	2		6tvr3v		3h7rr7		QF		Eva Siska		Tsvetanka Trifonova	Fri @ 12:00
+21-00186	2	1	1	2		srk7at		0zm30d		QF		Selina Pichler		Teodora Jovic	Fri @ 12:00
+21-00186	2	1	1	2		e501uf		nxwpyn		QF		Angela Rinaldi		Stephanie Petit	Fri @ 12:00
+21-00186	2	1	1	1	1	t6sk4g		lgsmkm		16		Nicole Coopersmith		Valerie Quiceno	63 60
+21-00186	2	1	1	1	1	irir4l		aeh2rk		16		Iryna Lysykh		Aisha Niyonkuru	76(6) 64
+21-00186	2	1	1	1	1	6tvr3v		t1itkr		16		Eva Siska		Ana Zavala	64 61
+21-00186	2	1	1	1	1	3h7rr7		byms2g		16		Tsvetanka Trifonova		Renee Acena	62 61
+21-00186	2	1	1	1	1	srk7at		bd6twf		16		Selina Pichler		Vanja Vidanovic	61 61
+21-00186	2	1	1	1	1	0zm30d		uimwys		16		Teodora Jovic		Yue Yu	63 64
+21-00186	2	1	1	1	1	e501uf		k9x3dr		16		Angela Rinaldi		Maddie Bemisderfer	46 63 76(7)
+21-00186	2	1	1	1	1	nxwpyn		9oqmyq		16		Stephanie Petit		Kyra Akinnibi	61 76(3)
+21-00186	2	1	2	1		lgsmkm		aeh2rk		QF		Valerie Quiceno		Aisha Niyonkuru	Fri @ 10:30
+21-00186	2	1	2	1		t1itkr		byms2g		QF		Ana Zavala		Renee Acena	Fri @ 10:30
+21-00186	2	1	2	1		bd6twf		uimwys		QF		Vanja Vidanovic		Yue Yu	Fri @ 10:30
+21-00186	2	2	1	2		i1ex8b		ko9cju		QF		Deniz Khazan		Christine Canete	Fri @ 11:30
+21-00186	2	2	1	2		xbttx5		4tc1ir		QF		Anna Novikova		Ana Carla Resende	Fri @ 11:00
+21-00186	2	2	1	2		0jef8t		bgma2y		QF		Eleonora Liga		Adel Abidulina	Fri @ 11:30
+21-00186	2	2	1	2		swf4lu		qz1x91		QF		Maria Garcia		Mae Canete	Fri @ 11:00
+21-00186	2	2	1	1	1	i1ex8b		jqkwcw		16		Deniz Khazan		Natalie Espinal	75 75
+21-00186	2	2	1	1	1	ko9cju		7gsmkm		16		Christine Canete		Ashley Penshorn	75 63
+21-00186	2	2	1	1	1	xbttx5		m8muim		16		Anna Novikova		Karolin Kirchtag	61 62
+21-00186	2	2	1	1	1	4tc1ir		8m2o28		16		Ana Carla Resende		Taylor Leslie	75 61
+21-00186	2	2	1	1	1	0jef8t		u5upcr		16		Eleonora Liga		Raquel Amaro	62 46 61
+21-00186	2	2	1	1	1	bgma2y		nwyu6y		16		Adel Abidulina		Natalie Kallmunzero…	62 62
+21-00186	2	2	1	1	1	swf4lu		hb8n6t		16		Maria Garcia		Isabella Dunlap	64 46 62
+21-00186	2	2	1	1	1	qz1x91		jefmlc		16		Mae Canete		Luisa Hrda	75 62
+21-00186	2	2	2	1		jqkwcw		7gsmkm		QF		Natalie Espinal		Ashley Penshorn	Fri @ 09:00
+21-00186	2	2	2	1		m8muim		8m2o28		QF		Karolin Kirchtag		Taylor Leslie	Fri @ 09:00
+21-00186	2	2	2	1		u5upcr		nwyu6y		QF		Raquel Amaro		Natalie Kallmunzero…	Fri @ 09:00
+21-00186	2	2	2	1		hb8n6t		jefmlc		QF		Isabella Dunlap		Luisa Hrda	Fri @ 09:00
+21-00186	2	3	1	2	1	8d4dq7		vunadw		QF		Sahana Raman		Mary Hose	75 62
+21-00186	2	3	1	2		3v6bwx		ev4vqp		QF		Angie Zhou		Carol Plakk	Thu @ 13:30
+21-00186	2	3	1	2		vzqzct		iqkwcw		QF		Nina Ye		Dakota Fordham	Thu @ 13:30
+21-00186	2	3	1	2		6eh2rk		gsxwb6		QF		Gabi Moss		Eliza McPherron	Thu @ 13:30
+21-00186	2	3	1	1	1	8d4dq7		66sk4g		16		Sahana Raman		Kristal Dule	46 62 62
+21-00186	2	3	1	1	1	vunadw		tgq6ee		16		Mary Hose		Angel Le	63 36 62
+21-00186	2	3	1	1	1	3v6bwx		i795h9		16		Angie Zhou		Sylwia Mikos	63 62
+21-00186	2	3	1	1	1	ev4vqp		y03od6		16		Carol Plakk		Sabrina Tang	61 62
+21-00186	2	3	1	1	1	vzqzct		aktkfe		16		Nina Ye		Suzuka Nishino	75 63
+21-00186	2	3	1	1	1	iqkwcw		y7qfw5		16		Dakota Fordham		Jamilah Karah	62 63
+21-00186	2	3	1	1	1	6eh2rk		cfyn4d		16		Gabi Moss		Miranda Yuan	75 62
+21-00186	2	3	1	1	1	gsxwb6		fhqhcb		16		Eliza McPherron		Crystal Zhou	76 60
+21-00186	2	3	2	2		66sk4g		i795h9		SF		Kristal Dule		Sylwia Mikos	Fri @ 09:00
+21-00186	2	3	2	1	1	66sk4g		tgq6ee		QF		Kristal Dule		Angel Le	16 64 40 Ret.
+21-00186	2	3	2	1	1	i795h9		y03od6		QF		Sylwia Mikos		Sabrina Tang	60 63
+21-00186	2	3	2	1		aktkfe		y7qfw5		QF		Suzuka Nishino		Jamilah Karah	Thu @ 13:30
+21-00186	2	3	2	1	1	fhqhcb		cfyn4d		QF		Crystal Zhou		Miranda Yuan	63 62
+21-00186	2	3	5	1		tgq6ee		y03od6		SF		Angel Le		Sabrina Tang	Fri @ 09:00
+21-00186	2	4	1	2		r26gic		az5tlh		SF		Lauren Anzalotta		Naomi McKenzie	Fri @ 12:00
+21-00186	2	4	1	1	1	r26gic		940qwi		QF		Lauren Anzalotta		Ana Julissa De Mata	63 62
+21-00186	2	4	1	1	1	az5tlh		1q3mx0		QF		Naomi McKenzie		Bailey Greenwell	61 61
+21-00186	2	4	1	1	1	exu9sf		dp5r5b		QF		Justine Lespes		Jou Chen Chen	62 62
+21-00186	2	4	1	1		vatiz8		e795h9		QF		Valeriia Cherfus		Destinee Martins	
+21-00186	2	4	2	1		940qwi		1q3mx0		SF		Ana Julissa De Mata		Bailey Greenwell	Fri @ 10:30
 21-00238	2	1	1	3	1	qz1x91		3jt9hh		F		Mae Canete		Paula Cerda	63 62
 21-00238	2	1	1	2	1	3jt9hh		e795h9		SF		Paula Cerda		Destinee Martins	62 64
 21-00238	2	1	1	2	1	qz1x91		exu9sf		SF		Mae Canete		Justine Lespes	64 61
@@ -3902,6 +3929,19 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-43987	1	2	1	1	1	q1v7n7		kg7gta		32		Elin Hellberg		Evelin Gouveia	60 60
 21-43987	1	2	1	1	1	u6bapk		smhibw		32		Maria Jardim		Sally Brannon	60 61
 21-43987	1	2	1	1	1	mbpxlp		5jibk9		32		MaryWynn Brannon		Katie Watts	75 63
+21-46458	1	101	1	2	1	5nwnih		svh9t5		16		Francesca Franci	8	Alee Clayton	76(4) 64
+21-46458	1	101	1	2	1	yffxj9		4rgbyd		16	5	Kate Sharabura		Nada Dimovska	63 61
+21-46458	1	101	1	2	1	ld2xkz		6owyge		16		Ji Youn Lee	4	Greta Schieroni	53 Ret.
+21-46458	1	101	1	2	1	f4h0be		r40qwi		16		Noa Cohen	6	Katerina Filip	62 26 [10]
+21-46458	1	101	1	2	1	anfd3l		9ii0mc		16	7	Rosie Garcia Gross		Anique Kattenberg	62 61
+21-46458	1	101	1	2	1	cixuv0		agbc5q		16		Sierra Berry	2	Maya Tahan	63 62
+21-46458	1	101	1	1	1	jvl55l		g7sv2d		32		Millie-Mae Matthews		Susan Salinas	60 61
+21-46458	1	101	1	1	1	5nwnih		uowyge		32		Francesca Franci		Haleigh Porter	61 64
+21-46458	1	101	1	1	1	4rgbyd		hv0ze9		32		Nada Dimovska		Cheri Darley	46 62 [4]
+21-46458	1	101	1	1	1	ld2xkz		4501uf		32		Ji Youn Lee		Luise Reisel	64 62
+21-46458	1	101	1	1		491zp7		8kv0lm		32		Mai Nirundorn		Carina Sommer	Thu @ 10:00
+21-46458	1	101	1	1	1	f4h0be		nmjyh4		32		Noa Cohen		Paula Hijos	61 60
+21-46458	1	101	1	1	1	9ii0mc		yur6pc		32		Anique Kattenberg		Valentina Taddia	62 16 [10]
 21-46904	1	1	1	3	1	l44m8y		rejixs		F		Lucia Quiterio		Emily Tannenbaum	63 64
 21-46904	1	1	1	2	1	l44m8y		20g2gm		SF		Lucia Quiterio		Taylor Dean	62 64
 21-46904	1	1	1	2	1	rejixs		amnutk		SF		Emily Tannenbaum		Sibel Tanik	67(7) 64 76
@@ -5845,28 +5885,50 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-75174	1	3	1	1	1	1h1f9j		4rir4l		64		Filippa Bruu-Syvers…		Gabrielle Lee	61 62
 21-75174	1	3	1	1	1	eba3c1		i2rm9o		64		McKenna Koenig		Priscila Janikian	64 61
 21-75174	1	4	1	1	1	i2rm9o		mjef8t		F		Priscila Janikian		Skia Kung	61 61
-21-76092	1	1	1	2		p0zs1q		3xdzdj		32	5	Katherine Jakeway		Saki Oyama	Thu @ 12:00
-21-76092	1	1	1	1		3mlenc		i6bapk		64		Nika Novikova		Emma Gretzky	Thu @ 09:00
-21-76092	1	1	1	1		rr3xvx		0mhibw		64		Allison Stewart		Lusine Chobanyan	Thu @ 09:00
-21-76092	1	1	1	1		81trhz		gejixs		64		Jadeh Chan	16	Camille Townsend	Thu @ 09:00
-21-76092	1	1	1	1		rfursx		hlpz1v		64		Nyah Kauders		Mae McCutcheon	Thu @ 09:00
-21-76092	1	1	1	1		bp5r5b		xe28iw		64		Eva Beyebach		Kexuan Zhou	Thu @ 09:00
+21-76092	1	1	1	2	1	wtc1ir		3mlenc		32	1	Azul Pedemonti		Nika Novikova	63 75
+21-76092	1	1	1	2	1	gejixs		rr3xvx		32	16	Camille Townsend		Allison Stewart	62 60
+21-76092	1	1	1	2	1	rfursx		vfdhd1		32		Nyah Kauders	9	Drew Morris	62 63
+21-76092	1	1	1	2	1	sd0her		xe28iw		32	7	Blanca Cortijo Parr…		Kexuan Zhou	63 63
+21-76092	1	1	1	2	1	p0zs1q		3xdzdj		32	5	Katherine Jakeway		Saki Oyama	06 64 [5]
+21-76092	1	1	1	2	1	sxu9sf		r9gtyv		32	13	Martha Makantasi		Lauren Fulgenzi	63 64
+21-76092	1	1	1	2	1	tz1x91		24nct2		32		Megan Basson	3	Mariya Shumeika	63 46 [7]
+21-76092	1	1	1	2		guawag		8pohqf		32	4	Lexie Weir		Lucy Furness	Thu @ 13:30
+21-76092	1	1	1	2		6m08w0		cvyj81		32		Sofia Fortuno		Emma Aucagne	Thu @ 13:30
+21-76092	1	1	1	2		j5ylo7		cq3mx0		32		Simran Kortikere	10	Gabriela Giraldo	Thu @ 13:30
+21-76092	1	1	1	2	1	b1ch23		maeoqk		32	6	Lucie Devier		Kate Malazonia	60 60
+21-76092	1	1	1	2		gbrdrx		cy9ez0		32	8	Winslow Huth		Deniza Marcinkevica	Thu @ 13:30
+21-76092	1	1	1	2		69x3dr		3jt9hh		32	12	Liz Chileno		Paula Cerda	Thu @ 13:30
+21-76092	1	1	1	2		9qkwcw		fd2xkz		32	15	Diae El Jardi		Maria Andrea Lora M…	Thu @ 13:30
+21-76092	1	1	1	1	1	3mlenc		i6bapk		64		Nika Novikova		Emma Gretzky	61 36 [5]
+21-76092	1	1	1	1	1	rr3xvx		0mhibw		64		Allison Stewart		Lusine Chobanyan	76(4) 63
+21-76092	1	1	1	1	1	gejixs		81trhz		64	16	Camille Townsend		Jadeh Chan	63 61
+21-76092	1	1	1	1	1	rfursx		hlpz1v		64		Nyah Kauders		Mae McCutcheon	63 61
+21-76092	1	1	1	1	1	xe28iw		bp5r5b		64		Kexuan Zhou		Eva Beyebach	62 63
 21-76092	1	1	1	1	1	3xdzdj		ecaeay		64		Saki Oyama		Isidora Zivkovic	Walkover
-21-76092	1	1	1	1		5nj9f1		alnjvn		64		Jasmin Starr		Andrea Guerrero	Thu @ 09:00
-21-76092	1	1	1	1		7pohqf		sxu9sf		64		Gabby Cusano	13	Martha Makantasi	Thu @ 09:00
-21-76092	1	1	1	1		r9gtyv		wsvg5y		64		Lauren Fulgenzi		Rishona Israel-Lewis	Thu @ 09:00
-21-76092	1	1	1	1		tz1x91		hrir4l		64		Megan Basson		Likhitha Kalava	Thu @ 09:00
-21-76092	1	1	1	1		8pohqf		xkv0lm		64		Lucy Furness		Camryn Stepp	Thu @ 10:30
-21-76092	1	1	1	1		mtc1ir		6m08w0		64		Reka Patel		Sofia Fortuno	Thu @ 10:30
-21-76092	1	1	1	1		cvyj81		iktkfe		64		Emma Aucagne	14	Keegan McCain	Thu @ 10:30
-21-76092	1	1	1	1		j5ylo7		iy5ink		64		Simran Kortikere		Cambelle Bouchard	Thu @ 10:30
-21-76092	1	1	1	1		maeoqk		efyn4d		64		Kate Malazonia		Sahithi Vutukuru	Thu @ 10:30
-21-76092	1	1	1	1		cy9ez0		iu4kss		64		Deniza Marcinkevica		Sunskrithi Damera	Thu @ 10:30
-21-76092	1	1	1	1		69x3dr		g3ph1d		64	12	Liz Chileno		Ileana Mocciola	Thu @ 10:30
-21-76092	1	1	1	1		havy5g		3jt9hh		64		Sophia Hummel		Paula Cerda	Thu @ 10:30
-21-76092	1	1	1	1		9qkwcw		qiza18		64	15	Diae El Jardi		Emma Honore	Thu @ 10:30
-21-76092	1	1	1	1		lq7i9g		fd2xkz		64		Elena Trencheva		Maria Andrea Lora M…	Thu @ 10:30
-21-76092	1	1	1	1		x2acus		36sk4g		64		Petra Kaszas		Maryjoe Crisologo	Thu @ 10:30
+21-76092	1	1	1	1	1	5nj9f1		alnjvn		64		Jasmin Starr		Andrea Guerrero	62 64
+21-76092	1	1	1	1	1	sxu9sf		7pohqf		64	13	Martha Makantasi		Gabby Cusano	60 61
+21-76092	1	1	1	1	1	r9gtyv		wsvg5y		64		Lauren Fulgenzi		Rishona Israel-Lewis	63 67(8) [7]
+21-76092	1	1	1	1	1	tz1x91		hrir4l		64		Megan Basson		Likhitha Kalava	36 61 [8]
+21-76092	1	1	1	1	1	8pohqf		xkv0lm		64		Lucy Furness		Camryn Stepp	76(4) 62
+21-76092	1	1	1	1	1	6m08w0		mtc1ir		64		Sofia Fortuno		Reka Patel	36 64 [8]
+21-76092	1	1	1	1	1	cvyj81		iktkfe		64		Emma Aucagne	14	Keegan McCain	64 60
+21-76092	1	1	1	1	1	j5ylo7		iy5ink		64		Simran Kortikere		Cambelle Bouchard	63 61
+21-76092	1	1	1	1	1	maeoqk		efyn4d		64		Kate Malazonia		Sahithi Vutukuru	62 63
+21-76092	1	1	1	1	1	cy9ez0		iu4kss		64		Deniza Marcinkevica		Sunskrithi Damera	63 64
+21-76092	1	1	1	1	1	69x3dr		g3ph1d		64	12	Liz Chileno		Ileana Mocciola	62 62
+21-76092	1	1	1	1	1	3jt9hh		havy5g		64		Paula Cerda		Sophia Hummel	16 61 [1]
+21-76092	1	1	1	1	1	9qkwcw		qiza18		64	15	Diae El Jardi		Emma Honore	64 63
+21-76092	1	1	1	1	1	fd2xkz		lq7i9g		64		Maria Andrea Lora M…		Elena Trencheva	63 16 [4]
+21-76092	1	1	1	1	1	36sk4g		x2acus		64		Maryjoe Crisologo		Petra Kaszas	64 75
+21-76092	1	1	2	1	1	81trhz		i6bapk		32Q		Jadeh Chan		Emma Gretzky	61 62
+21-76092	1	1	2	1		0mhibw		hrir4l		32Q		Lusine Chobanyan		Likhitha Kalava	Thu @ 12:00
+21-76092	1	1	2	1	1	alnjvn		hlpz1v		32Q		Andrea Guerrero		Mae McCutcheon	16 62 [4]
+21-76092	1	1	2	1	1	bp5r5b		wsvg5y		32Q		Eva Beyebach		Rishona Israel-Lewis	75 62
+21-76092	1	1	2	1	1	xkv0lm		iy5ink		32Q		Camryn Stepp		Cambelle Bouchard	62 62
+21-76092	1	1	2	1		mtc1ir		iktkfe		32Q		Reka Patel	14	Keegan McCain	Thu @ 01:30
+21-76092	1	1	2	1		efyn4d		g3ph1d		32Q		Sahithi Vutukuru		Ileana Mocciola	Thu @ 01:30
+21-76092	1	1	2	1		iu4kss		havy5g		32Q		Sunskrithi Damera		Sophia Hummel	Thu @ 01:30
+21-76092	1	1	2	1		qiza18		lq7i9g		32Q		Emma Honore		Elena Trencheva	Thu @ 01:30
 21-76092	1	2	1	1		csgmwa		tjibk9		64		Nicole Petchey		Bella Zamarripa	Fri @ 10:30
 21-76092	1	2	1	1		50187y		8xbj7b		64		Bojana Marinkov		Momoka Horiguchi	Fri @ 10:30
 21-76092	1	2	1	1		w9m5gj		5v0ze9		64		Aleksandra Zlatarova		Ioana Dumitrescu	Fri @ 10:30
