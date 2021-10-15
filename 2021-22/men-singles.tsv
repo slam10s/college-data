@@ -1,9 +1,9 @@
 ---
 tournaments: 179
 players: 3669
-matches: 6745
-completed: 6607
-scheduled: 138
+matches: 6747
+completed: 6615
+scheduled: 132
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	1	1	1	3		l9kpab		kbezoh		SF		Alvaro Regalado		Andrea Zamurri	Sat @ 09:00
@@ -752,12 +752,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-08423	1	1	1	1	1	dulu7o		km448g		64		Aditya Balsekar		Luis Reis	36 64 62
 21-08423	1	1	1	1	1	ntc1ir		rzknu5		64		Chen Ruo		Omar El Kadi	61 63
 21-08423	1	2	1	1	1	3ttbxn		61trhz		64		Raphael Mujan		Ryan Bernstine	76(5) 75
-21-08423	1	2	1	1		5ofo1i		ulpz1v		64		Andres Silva		Rosen Nayadenov	Fri @ 15:00
+21-08423	1	2	1	1	1	5ofo1i		ulpz1v		64		Andres Silva		Rosen Nayadenov	36 63 63
 21-08423	1	2	1	1		n2acus		yho163		64		Mathieu Josserand		Ernesto Rocabert	Fri @ 15:30
 21-08423	1	2	1	1	1	bgq6ee		l501uf		64		Sean Joseph		Stefan Petrovic	Walkover
 21-08423	1	2	1	1	1	3wdofm		xbezoh		64		Guillermo Cagigas		Manfredi Vergine	64 60
 21-08423	1	2	1	1		km448g		rzknu5		64		Luis Reis		Omar El Kadi	Fri @ 16:30
-21-08423	1	2	1	1		kxffjr		3ag4ws		64		Oliver Tobisch		Youssef Sadek	Fri @ 15:00
+21-08423	1	2	1	1	1	3ag4ws		kxffjr		64		Youssef Sadek		Oliver Tobisch	75 61
 21-08423	1	2	1	1	1	qtehoz		yb8n6t		64		Josh Wilson		George Davis	62 63
 21-08428	1	1	1	4	1	ptrvrf		a5dfxv		F		Francisco Gay		Bruno Casino	62 46 75
 21-08428	1	1	1	3	1	ptrvrf		3se6q2		SF		Francisco Gay		Will Leach	36 63 [5]
@@ -1656,16 +1656,18 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-22872	1	1	2	1	1	97sv2d		x69ujc		32Q		Brandon Pham	9	Muhamad Bedwan	Walkover
 21-22872	1	1	2	1	1	ce28iw		1xu9sf		32Q		Julius Ziebart		Christian Kearns	62 61
 21-23395	1	1	1	3		srmng1		g8709y		32		James Wilkinson		Derrick Thompson	Fri @ 09:00
-21-23395	1	1	1	3		8h7rr7		eejixs		32		Inigo Torre Martin		Adhvyte Sharma	Fri @ 09:00
-21-23395	1	1	1	3		fbv93d		ec42sa		32		Rayane Stable		Nickolas Frisk	Fri @ 09:00
+21-23395	1	1	1	3	1	8h7rr7		eejixs		32		Inigo Torre Martin		Adhvyte Sharma	62 75
+21-23395	1	1	1	3	1	fbv93d		ec42sa		32		Rayane Stable		Nickolas Frisk	64 61
 21-23395	1	1	1	3		2kr496		rtvr3v		32		Finn Garner		Bora Sengul	Fri @ 09:00
 21-23395	1	1	1	3		zkpo3y		3k8eo2		32		Bar Botzer		Jake Fellows	Fri @ 09:00
-21-23395	1	1	1	3		6clc76		djajwd		32		Sam Bossem		Joaquim Almeida	Fri @ 09:00
+21-23395	1	1	1	3	1	djajwd		6clc76		32		Joaquim Almeida		Sam Bossem	46 75 62
 21-23395	1	1	1	3		4d4dq7		p6sk4g		32		Nathan Perrone		Jake Fishkin	Fri @ 09:00
 21-23395	1	1	1	3		psxwb6		ncp8jm		32		Luis Molina		Charl Morgan	Fri @ 09:00
 21-23395	1	1	1	3		gxu9sf		4h7rr7		32		Alexander Kiefer		Charlie Suh	Fri @ 09:00
 21-23395	1	1	1	3		i81ora		x9x3dr		32		Mikeal Carpenter		Loren Byers	Fri @ 09:00
 21-23395	1	1	1	3		5wdofm		f1z3zn		32		Malik Bhatnagar		Alp Sentay	Fri @ 09:00
+21-23395	1	1	1	3	1	u3ansp		jc2mm2		32		Guilherme Valdoleir…		Jackson Allen	46 75 63
+21-23395	1	1	1	3	1	grk7at		h34ba1		32		Leo Raquin		Kieran Foster	75 75
 21-23395	1	1	1	2	1	yl4taj		fo9cju		64		Miko Eala		Justin Cadeau	67(4) 62 60
 21-23395	1	1	1	2	1	sc8y4q		1fdhd1		64		Joshua Robinson		Sergiu Medesan	75 62
 21-23395	1	1	1	2	1	srmng1		gm08w0		64		James Wilkinson		Michael Fourticq	62 64
@@ -6576,7 +6578,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-98443	1	5	1	2		h795h9		ro9cju		R2		Jose Moreno		Miguel Binnios	Sun @ 12:30
 21-98443	1	5	1	2		2nht9t		39gtyv		R2		Yosue Noa		Jake Edwards	Sun @ 12:30
 21-98443	1	5	1	1	1	2nht9t		h795h9		R1		Yosue Noa		Jose Moreno	36 63 [9]
-21-98443	1	5	1	1		ro9cju		39gtyv		R1		Miguel Binnios		Jake Edwards	Fri @ 14:30
+21-98443	1	5	1	1	1	ro9cju		39gtyv		R1		Miguel Binnios		Jake Edwards	64 76(5)
 21-99710	1	1	1	3	1	g8709y		jc2mm2		R3		Derrick Thompson		Jackson Allen	76(4) 64
 21-99710	1	1	1	3	1	77blnh		6pqxwn		R3		Dimosthenis Taramon…		Younes Lalami	06 64 [6]
 21-99710	1	1	1	2	1	6pqxwn		g8709y		R2		Younes Lalami		Derrick Thompson	62 62

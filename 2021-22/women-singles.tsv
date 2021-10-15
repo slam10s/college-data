@@ -1,8 +1,8 @@
 ---
 tournaments: 179
 players: 3957
-matches: 7351
-completed: 7264
+matches: 7355
+completed: 7268
 scheduled: 87
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -3018,15 +3018,17 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-32364	1	4	5	2	1	38709y		yfdhd1		F		Sonia Skobkareva		Varvara Ogorodnikova	61 63
 21-32364	1	4	6	1	1	gvl55l		p5upcr		F		Kelsey Neville		Yulia Almiron	Walkover
 21-32364	1	4	7	1	1	q32v4t		9zknu5		F		Laura Arce Vieyra		Brooke Covington	63 62
+21-32447	1	2	1	2		r8iy66		vy7yts		32	1	Emmanouela Antonaki		Nina Geissler	Sat @ 13:00
+21-32447	1	2	1	2		ec6iyi		1m08w0		32	14	Ludmila Kareisova		Adeline Flach	Sat @ 13:00
 21-32447	1	2	1	2		6wuyui		yclc76		32	7	Georgie Axon		Chloe Cirotte	Sat @ 13:00
 21-32447	1	2	1	2		1ac8kc		twwe0q		32	4	Tiphanie Fiquet		Marta Falceto	Sat @ 13:00
 21-32447	1	2	1	2		xqq8uk		8l8pmz		32		Reka Zadori		Anna Parkhomenko	Sat @ 13:00
 21-32447	1	2	1	2		1wyu6y		d0g2gm		32	15	Nikola Kohoutova		Maggie Cubitt	Sat @ 13:00
 21-32447	1	2	1	2		s8qqu2		8d0her		32		Lahari Yelamanchili	13	Yu Fujioka	Sat @ 13:00
-21-32447	1	2	1	1		r8iy66		m2cs00		64	1	Emmanouela Antonaki		Lucie Raquin	Fri @ 14:00
+21-32447	1	2	1	1	1	r8iy66		m2cs00		64	1	Emmanouela Antonaki		Lucie Raquin	63 76(6)
 21-32447	1	2	1	1	1	vy7yts		faase4		64		Nina Geissler		Otoha Aoki	64 62
 21-32447	1	2	1	1	1	ec6iyi		e5ylo7		64	14	Ludmila Kareisova		Tjasa Klevisar	63 76(5)
-21-32447	1	2	1	1		72t2fw		1m08w0		64		Vanessa Mellynchuk		Adeline Flach	Fri @ 14:00
+21-32447	1	2	1	1	1	1m08w0		72t2fw		64		Adeline Flach		Vanessa Mellynchuk	36 60 62
 21-32447	1	2	1	1	1	6wuyui		qjef8t		64	7	Georgie Axon		Anaelle Leclerq-Fic…	64 63
 21-32447	1	2	1	1	1	yclc76		q1ch23		64		Chloe Cirotte		Aina Domingo Bernab…	61 64
 21-32447	1	2	1	1		thipof		saik20		64	10	Ena Babic		Lily Walther	Fri @ 14:00
@@ -6171,6 +6173,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-76092	1	1	2	1	1	z8qqu2		k4lwnu		32Q		Sahithi Vutukuru		Ileana Mocciola	63 61
 21-76092	1	1	2	1	1	y2rm9o		5fsbmp		32Q		Sophia Hummel		Sunskrithi Damera	60 36 [2]
 21-76092	1	1	2	1	1	c03od6		7avy5g		32Q		Elena Trencheva		Emma Honore	46 75 [6]
+21-76092	1	2	1	3		6xffjr		13llpx		16	11	Mary Stoiana	3	Charlotte Chavatipon	Sat @ 10:30
 21-76092	1	2	1	2	1	ixdzdj		mys4k4		32	1	Tatiana Makarova		Nicole Petchey	64 64
 21-76092	1	2	1	2		sfdhd1		h2e868		32		Bojana Marinkov	15	Alison Zipoli	Fri @ 13:30
 21-76092	1	2	1	2		n7ub8l		h5fv33		32		Aleksandra Zlatarova	9	Alicia Herrero Lina…	Fri @ 13:30
@@ -6178,7 +6181,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-76092	1	2	1	2		uxffjr		gd6twf		32	6	Federica Trevisan		Liisa Vehvilainen	Fri @ 13:30
 21-76092	1	2	1	2	1	4501uf		09x3dr		32	14	Malaika Rapolu		Paula Baranano	67(4) 61 [6]
 21-76092	1	2	1	2	1	6xffjr		6qmci4		32	11	Mary Stoiana		Metka Komac	61 63
-21-76092	1	2	1	2		nulu7o		13llpx		32		Claudia Bartolome	3	Charlotte Chavatipon	Fri @ 13:30
+21-76092	1	2	1	2	1	13llpx		nulu7o		32	3	Charlotte Chavatipon		Claudia Bartolome	62 61
 21-76092	1	2	1	2		rgbc5q		py7yts		32	4	Margarita Skriabina		Tara Gorinsek	Fri @ 15:00
 21-76092	1	2	1	2		5nht9t		82cs00		32		Lana Mavor	13	Gianna Pielet	Fri @ 15:00
 21-76092	1	2	1	2		3nj9f1		chk5un		32		Cristina Tiglea	10	Hadley Doyle	Fri @ 15:00
@@ -6219,11 +6222,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-76092	1	2	1	1	1	ab670l		xl69gr		64		Jasmin Adams		Tomi Main	62 61
 21-76092	1	2	1	1	1	97blnh		h9kpab		64		Laura Slisane		Carla Pons	64 64
 21-76092	1	2	1	1	1	3ny3op		eigkg4		64	2	Melany Krywoj		Lauren Fulgenzi	60 60
+21-76092	1	2	2	3		8v6bwx		7ofo1i		16		Bella Zamarripa		Camille Townsend	Sat @ 10:30
 21-76092	1	2	2	3		7qmci4		mzknu5		16		Nyah Kauders		Maria Dzemeshkevich	Sat @ 10:30
 21-76092	1	2	2	3		op77bj		il8pmz		16		Katherine Jakeway		Olivia Peet	Sat @ 10:30
 21-76092	1	2	2	3		k6f610		2psd2v		16		Anastasia Smirnova		Sarina Reinertsen	Sat @ 10:30
 21-76092	1	2	2	3		vyo88o		3r1hpp		16		Lucy Furness		Saara Orav	Sat @ 10:30
-21-76092	1	2	2	1		0owyge		8v6bwx		32Q		Azul Pedemonti		Bella Zamarripa	Fri @ 13:30
+21-76092	1	2	2	1	1	8v6bwx		0owyge		32Q		Bella Zamarripa		Azul Pedemonti	75 36 [7]
 21-76092	1	2	2	1	1	7ofo1i		pp77bj		32Q		Camille Townsend		Momoka Horiguchi	64 46 [2]
 21-76092	1	2	2	1	1	7qmci4		57ozqx		32Q		Nyah Kauders		Ioana Dumitrescu	63 60
 21-76092	1	2	2	1	1	mzknu5		mk8eo2		32Q		Maria Dzemeshkevich		Blanca Cortijo Parr…	61 16 [4]
