@@ -1,9 +1,9 @@
 ---
 tournaments: 179
-players: 3669
-matches: 6747
-completed: 6615
-scheduled: 132
+players: 3671
+matches: 6751
+completed: 6617
+scheduled: 134
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	1	1	1	3		l9kpab		kbezoh		SF		Alvaro Regalado		Andrea Zamurri	Sat @ 09:00
@@ -719,12 +719,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-08232	1	3	1	1	1	d4lwnu		7wf4lu		QF		Jonathan Nottingham		Samuel Ghigiarelli	16 60 [5]
 21-08423	1	1	1	3		91z3zn		ifw7y5		16	1	Yevhen Sirous	16	Daniel Pellerito	Sat @ 11:00
 21-08423	1	1	1	3		d6f610		s03od6		16		Finbar Talcott	12	Deji Thomas-Smith	Sat @ 11:00
+21-08423	1	1	1	3		cjef8t		iw2qie		16	3	Holden Koons	14	Christiaan Worst	Sat @ 11:00
 21-08423	1	1	1	2	1	91z3zn		cys4k4		32	1	Yevhen Sirous		Mario Pena	62 61
 21-08423	1	1	1	2	1	ifw7y5		qaeoqk		32	16	Daniel Pellerito		Jourdan Kast	62 61
 21-08423	1	1	1	2	1	d6f610		8scqku		32		Finbar Talcott	8	Carlo Donato	61 76(1)
 21-08423	1	1	1	2	1	s03od6		sgu2qu		32	12	Deji Thomas-Smith		Michael Walser	62 61
 21-08423	1	1	1	2	1	cjef8t		j4jghm		32	3	Holden Koons		Robert Hagen	61 62
-21-08423	1	1	1	2		iw2qie		nazuhw		32	14	Christiaan Worst		Scott Sculley	Fri @ 15:30
+21-08423	1	1	1	2	1	iw2qie		nazuhw		32	14	Christiaan Worst		Scott Sculley	26 64 Ret.
 21-08423	1	1	1	2		6ttbxn		4fb17t		32	5	Luca Maldoner		Matt Harper	Fri @ 15:00
 21-08423	1	1	1	2		77blnh		vulu7o		32	9	Dimosthenis Taramon…		Harrison Brown	Fri @ 15:00
 21-08423	1	1	1	2		w0187y		kpqxwn		32		Oliver Nolan	11	Thando Longwe-Smit	Fri @ 15:15
@@ -2154,8 +2155,11 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-27355	1	2	2	1		zyqoew		47blnh		QF		Simeon Kostov		Vikash Singh	Sat @ 11:30
 21-27355	1	2	2	1		q9kpab		meww08		QF		Paul Reynolds		Milledge Cossu	Sat @ 11:30
 21-27355	1	2	2	1		b8muim		8azuhw		QF		Adam Kovac		Jagger Saylor	Sat @ 11:30
+21-27355	1	3	1	2		2dn3bb		f7ozqx		QF		Wojciech Szczesny		Xavier Ecarma	Sat @ 10:00
 21-27355	1	3	1	2		9nj9f1		7dn3bb		QF		Andre Suzanne		Kyle Tang	Sat @ 10:00
+21-27355	1	3	1	1	1	f7ozqx		89i943		16		Xavier Ecarma		Juan Lombisano	64 63
 21-27355	1	3	1	1	1	7dn3bb		7whkr2		16		Kyle Tang		Vlad Meluta	60 60
+21-27355	1	3	2	2		89i943		7whkr2		SF		Juan Lombisano		Vlad Meluta	Sat @ 11:30
 21-27918	1	1	1	4	1	4kpo3y		83rx7l		F	1	Tristan Bradley	2	Rishabh Sharda	62 61
 21-27918	1	1	1	3	1	4kpo3y		dcnsde		SF	1	Tristan Bradley		Isaac Gorelik	76(6) 76(5)
 21-27918	1	1	1	3	1	83rx7l		4l8pmz		SF	2	Rishabh Sharda	3	Damien Ruparel	63 64

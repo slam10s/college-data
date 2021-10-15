@@ -1,8 +1,8 @@
 ---
 tournaments: 179
 players: 3957
-matches: 7355
-completed: 7268
+matches: 7360
+completed: 7273
 scheduled: 87
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -3025,6 +3025,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-32447	1	2	1	2		xqq8uk		8l8pmz		32		Reka Zadori		Anna Parkhomenko	Sat @ 13:00
 21-32447	1	2	1	2		1wyu6y		d0g2gm		32	15	Nikola Kohoutova		Maggie Cubitt	Sat @ 13:00
 21-32447	1	2	1	2		s8qqu2		8d0her		32		Lahari Yelamanchili	13	Yu Fujioka	Sat @ 13:00
+21-32447	1	2	1	2		bxdzdj		n2p63g		32		Alexandra Mikhailuk	5	Safiya Carrington	Sat @ 13:00
 21-32447	1	2	1	1	1	r8iy66		m2cs00		64	1	Emmanouela Antonaki		Lucie Raquin	63 76(6)
 21-32447	1	2	1	1	1	vy7yts		faase4		64		Nina Geissler		Otoha Aoki	64 62
 21-32447	1	2	1	1	1	ec6iyi		e5ylo7		64	14	Ludmila Kareisova		Tjasa Klevisar	63 76(5)
@@ -3043,7 +3044,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-32447	1	2	1	1	1	d0g2gm		um2o28		64		Maggie Cubitt		Mikaela Konstantino…	62 60
 21-32447	1	2	1	1	1	s8qqu2		vm08w0		64		Lahari Yelamanchili		Lillian Gabrielsen	63 64
 21-32447	1	2	1	1	1	8d0her		5ulu7o		64	13	Yu Fujioka		Carolina Bulatovic	64 62
-21-32447	1	2	1	1		ubttx5		bxdzdj		64		Madeline Meredith		Alexandra Mikhailuk	Fri @ 13:30
+21-32447	1	2	1	1	1	bxdzdj		ubttx5		64		Alexandra Mikhailuk		Madeline Meredith	26 64 61
 21-32447	1	2	1	1	1	n2p63g		i2cs00		64	5	Safiya Carrington		Kasia Pitak	64 62
 21-32447	1	2	1	1		fd6twf		kjef8t		64		Adela Wasserbauerova		Alexis Lopez	Fri @ 14:00
 21-32447	1	2	1	1		ez5tlh		6fw7y5		64		Kelsey Mize	16	Tamara Racine	Fri @ 14:00
@@ -6173,10 +6174,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-76092	1	1	2	1	1	z8qqu2		k4lwnu		32Q		Sahithi Vutukuru		Ileana Mocciola	63 61
 21-76092	1	1	2	1	1	y2rm9o		5fsbmp		32Q		Sophia Hummel		Sunskrithi Damera	60 36 [2]
 21-76092	1	1	2	1	1	c03od6		7avy5g		32Q		Elena Trencheva		Emma Honore	46 75 [6]
+21-76092	1	2	1	3		ixdzdj		sfdhd1		16	1	Tatiana Makarova		Bojana Marinkov	Sat @ 10:30
+21-76092	1	2	1	3		h5fv33		0dln53		16	9	Alicia Herrero Lina…	7	Jackie Nylander	Sat @ 10:30
 21-76092	1	2	1	3		6xffjr		13llpx		16	11	Mary Stoiana	3	Charlotte Chavatipon	Sat @ 10:30
 21-76092	1	2	1	2	1	ixdzdj		mys4k4		32	1	Tatiana Makarova		Nicole Petchey	64 64
-21-76092	1	2	1	2		sfdhd1		h2e868		32		Bojana Marinkov	15	Alison Zipoli	Fri @ 13:30
-21-76092	1	2	1	2		n7ub8l		h5fv33		32		Aleksandra Zlatarova	9	Alicia Herrero Lina…	Fri @ 13:30
+21-76092	1	2	1	2	1	sfdhd1		h2e868		32		Bojana Marinkov	15	Alison Zipoli	63 57 [8]
+21-76092	1	2	1	2	1	h5fv33		n7ub8l		32	9	Alicia Herrero Lina…		Aleksandra Zlatarova	76(3) 62
 21-76092	1	2	1	2	1	0dln53		2z79rp		32	7	Jackie Nylander		Avelina Sayfetdinova	64 46 [9]
 21-76092	1	2	1	2		uxffjr		gd6twf		32	6	Federica Trevisan		Liisa Vehvilainen	Fri @ 13:30
 21-76092	1	2	1	2	1	4501uf		09x3dr		32	14	Malaika Rapolu		Paula Baranano	67(4) 61 [6]
@@ -6631,6 +6634,8 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-82907	1	2	1	1	1	9igkg4		iaik20		16		Karly Friedland		Daniela Voloh	64 63
 21-82907	1	2	1	1	1	aqmci4		4sxwb6		16		Deanna Lasorda		Hope Moulin	62 64
 21-82907	1	2	1	1	1	p85k3q		sho163		16		Amanda Nord		Olivia Ryan	63 60
+21-82907	1	2	1	1	1	ppqxwn		1n2z05		16		Michelle Los Arcos		Sydney Weinberg	62 63
+21-82907	1	2	1	1	1	xy7yts		swhkr2		16		Gracey Hirsch		Shannon McCarthy	64 75
 21-82907	1	3	1	1	1	up77bj		e6wggw		F		Penny Hsieh		Alexandra Prudente	76(4) 63
 21-84365	2	1	1	4	1	wpohqf		rrir4l		F	1	Ana Julissa De Mata	2	Tanyaradzwa Kaome	62 76(5)
 21-84365	2	1	1	3	1	wpohqf		rpsd2v		SF	1	Ana Julissa De Mata		Valeria Rodriguez	62 60

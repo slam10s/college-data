@@ -1,8 +1,8 @@
 ---
 tournaments: 169
-players: 3441
-matches: 2848
-completed: 2782
+players: 3447
+matches: 2854
+completed: 2788
 scheduled: 66
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -42,9 +42,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00186	3	2	1	1	1	9xdzdj	l6wggw	97ozqx	a5fv33	16		Nienhaus/Papa		Fernandez/Gallegos	62 62
 21-00186	3	2	1	1	1	nd4dq7	qrxld9	gffxj9	bxstm7	16		Ramirez/Bain		Subert/Cooke	64 64
 21-00186	3	2	1	1	1	c1ch23	1clc76	03llpx	dpb3nz	16		Czepielewski/Bonacia		Barbon/Stepanov	64 16 [6]
+21-00186	3	2	2	2		k3llpx	6kauua	03llpx	dpb3nz	SF		Beltran/Komel		Barbon/Stepanov	Sat @ 15:00
 21-00186	3	2	2	1		ac8y4q	u1gdej	xy9ez0	k2cs00	QF		Pessoa/Pelletti		Omarkhanov/Salazar	Fri @ 15:00
 21-00186	3	2	2	1	1	tdhrtn	m93fvf	l6u0ao	g0xcvi	QF		Carrizo/Sprovieri		Little/Braham	63 67(3) [5]
+21-00186	3	2	2	1	1	k3llpx	6kauua	97ozqx	a5fv33	QF		Beltran/Komel		Fernandez/Gallegos	Walkover
 21-00186	3	2	2	1	1	03llpx	dpb3nz	gffxj9	bxstm7	QF		Barbon/Stepanov		Subert/Cooke	62 62
+21-00186	3	2	5	1		97ozqx	a5fv33	gffxj9	bxstm7	SF		Fernandez/Gallegos		Subert/Cooke	Sat @ 15:00
 21-00186	3	3	1	3		j5w5iz	l9kpab	y2acus	h3llpx	SF		Cueto Ramos/Regalado		Mack/Carvalho	Sat @ 13:30
 21-00186	3	3	1	2	1	j5w5iz	l9kpab	cyukqc	73ph1d	QF		Cueto Ramos/Regalado		Westwick/Martinez R…	64 76(3)
 21-00186	3	3	1	2	1	y2acus	h3llpx	dmhibw	l7ub8l	QF		Mack/Carvalho		Bohren/Velicki	64 64
@@ -783,8 +786,8 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-22872	3	1	2	1	1	dktkfe	ke0sco	sz1x91	xtehoz	16Q		Martinez/Salton		Binaghi/Velloso	83
 21-23395	2	1	1	2		8h7rr7	fbv93d	stpfl7	zcaeay	32		Torre Martin/Stable		Bickel/Yang	Fri @ 13:00
 21-23395	2	1	1	2	1	x9x3dr	6clc76	ikauua	sc8y4q	32		Byers/Bossem		Jones/Robinson	82
-21-23395	2	1	1	2		psxwb6	srmng1	9hml0v	e6bapk	32		Molina/Wilkinson		Kjellberg/Garner	Fri @ 12:30
-21-23395	2	1	1	2		9ii0mc	v2rm9o	jc2mm2	gxu9sf	32		Kapoor/Haddou		Allen/Kiefer	Fri @ 12:30
+21-23395	2	1	1	2	1	psxwb6	srmng1	9hml0v	e6bapk	32		Molina/Wilkinson		Kjellberg/Garner	82
+21-23395	2	1	1	2	1	jc2mm2	gxu9sf	9ii0mc	v2rm9o	32		Allen/Kiefer		Kapoor/Haddou	81
 21-23395	2	1	1	2	1	oyo88o	v9zjjz	jwyu6y	utc1ir	32		Delmas/Gorregues		Lopez/Rachal	80
 21-23395	2	1	1	2	1	eejixs	cc8y4q	g6f610	2kr496	32		Sharma/Rozanov		Segraves/Garner	Walkover
 21-23395	2	1	1	2	1	g8709y	9kca0i	kg50n2	xos24y	32		Thompson/Panyan		Bailey/Dawson	86
@@ -1338,6 +1341,9 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-41868	2	1	1	1	1	l5fv33	jgq6ee	wimwys	pxffjr	QF		Hyatt/Labbe		Vicente/Tosetto	76(4)
 21-41868	2	1	1	1	1	e795h9	9g9wzi	ekr496	trk7at	QF		Marshall/Mudre		Holis/Sasagawa	63
 21-41868	2	1	1	1	1	c0xcvi	gkr496	mfdhd1	yy9ez0	QF		Berghaus/Grubert		McClure/Nevenhoven	64
+21-41868	2	2	1	1	1	6y9ez0	n9kpab	l5fv33	jgq6ee	QF		Matarredona/Perez		Hyatt/Labbe	76(5)
+21-41868	2	2	1	1	1	9g9wzi	mfdhd1	djibk9	99gtyv	QF		Mudre/McClure		Zhang/Diniz	75
+21-41868	2	2	1	1	1	yy9ez0	0eh2rk	99x3dr	kr3xvx	QF		Nevenhoven/Nash		Bixby/Tolbert	76(4)
 21-43730	2	1	1	5	1	v6bapk	skca0i	bu60y0	5gsmkm	F	1	Hopper/Powell	2	Li/Ramireddy	75 76(6)
 21-43730	2	1	1	4	1	v6bapk	skca0i	m2p63g	maeoqk	SF	1	Hopper/Powell	5	Cianciola/Mackler	86
 21-43730	2	1	1	4	1	bu60y0	5gsmkm	oefmlc	0aase4	SF	2	Li/Ramireddy	4	Hsieh/Alshon	86
