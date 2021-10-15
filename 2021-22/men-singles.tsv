@@ -1,9 +1,9 @@
 ---
 tournaments: 173
 players: 3656
-matches: 6597
-completed: 6480
-scheduled: 117
+matches: 6598
+completed: 6487
+scheduled: 111
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	1	1	1	2		me0sco		1od8va		QF		Alvaro Regalado		Ryan Nuno	Fri @ 11:00
@@ -18,11 +18,11 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00186	1	1	1	1	1	grxld9		xttbxn		16		Brennan Cimpeanu		Marko Nikoliuk	76(6) 63
 21-00186	1	1	1	1	1	dtpfl7		hixuv0		16		Joaquin Benoit		Joaquin Bianchi	62 63
 21-00186	1	1	1	1	1	tlpz1v		lh3vfr		16		Francisco Oliveira		Alejandro Ibanez	63 63
-21-00186	1	1	2	1		ukr496		tdj7zv		QF		Sebastian Herrera		Tom Jarry	Fri @ 09:00
+21-00186	1	1	2	1	1	ukr496		tdj7zv		QF		Sebastian Herrera		Tom Jarry	63 64
 21-00186	1	1	2	1		xxstm7		x4262q		QF		Gonzalo Fernandez		Daniel Llorente	Fri @ 09:00
 21-00186	1	1	2	1		bod8va		xttbxn		QF		Franco Oliva		Marko Nikoliuk	Fri @ 09:00
-21-00186	1	1	2	1		hixuv0		culu7o		QF		Joaquin Bianchi		Jonathan Berling	Fri @ 09:00
-21-00186	1	2	1	3		h32v4t		z4lwnu		SF		Jhonny Acosta		Stan Morris	Fri @ 09:00
+21-00186	1	1	2	1	1	hixuv0		culu7o		QF		Joaquin Bianchi		Jonathan Berling	63 61
+21-00186	1	2	1	3	1	z4lwnu		h32v4t		SF		Stan Morris		Jhonny Acosta	64 64
 21-00186	1	2	1	3		lf9l1l		5lrf73		SF		Chase Cohen		Jordan Theron	Fri @ 09:00
 21-00186	1	2	1	2	1	h32v4t		pdj7zv		QF		Jhonny Acosta		James Hopper	57 64 00 Ret.
 21-00186	1	2	1	2	1	z4lwnu		saeoqk		QF		Stan Morris		Robert Liu	26 75 75
@@ -36,13 +36,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00186	1	2	1	1	1	lf9l1l		tjt9hh		16		Chase Cohen		Ethan Carroll	62 62
 21-00186	1	2	1	1	1	aiza18		a1ex8b		16		Moses Hutchison		Cole Lindwall	63 62
 21-00186	1	2	1	1	1	5lrf73		m7qfw5		16		Jordan Theron		Cameron Krimbill	62 26 60
-21-00186	1	2	2	2		gm6keo		gyukqc		SF		Thomas Yu		John Zakowski	Fri @ 09:00
+21-00186	1	2	2	2	1	gm6keo		gyukqc		SF		Thomas Yu		John Zakowski	62 60
 21-00186	1	2	2	2		vsgmwa		m7qfw5		SF		John Rado		Cameron Krimbill	Fri @ 09:00
 21-00186	1	2	2	1	1	gm6keo		cvnlbt		QF		Thomas Yu		Yudai Teruyama	63 60
 21-00186	1	2	2	1	1	gyukqc		10iimu		QF		John Zakowski		Luke Lemaitre	64 63
 21-00186	1	2	2	1	1	vsgmwa		tjt9hh		QF		John Rado		Ethan Carroll	64 76(3)
 21-00186	1	2	2	1	1	m7qfw5		a1ex8b		QF		Cameron Krimbill		Cole Lindwall	61 64
-21-00186	1	2	3	1		pdj7zv		saeoqk		SF		James Hopper		Robert Liu	Fri @ 09:00
+21-00186	1	2	3	1	1	saeoqk		pdj7zv		SF		Robert Liu		James Hopper	Walkover
 21-00186	1	2	3	1		li36do		aiza18		SF		Ansh Shah		Moses Hutchison	Fri @ 09:00
 21-00186	1	2	5	1		cvnlbt		10iimu		SF		Yudai Teruyama		Luke Lemaitre	Fri @ 09:00
 21-00186	1	2	5	1		tjt9hh		a1ex8b		SF		Ethan Carroll		Cole Lindwall	Fri @ 09:00
@@ -58,10 +58,11 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00186	1	3	1	1	1	t6u0ao		f1trhz		16		Yassir Kilani		Leo Bresson	63 76(2)
 21-00186	1	3	1	1	1	5xwpyn		yaxebo		16		Jeremias Rocco		Nick Nienhaus	64 36 62
 21-00186	1	3	1	1	1	x6bapk		3xdzdj		16		Alex Gurmendi		Gabriel Ortiz	64 57 64
+21-00186	1	3	2	2		f1trhz		yaxebo		SF		Leo Bresson		Nick Nienhaus	Sat @ 09:00
 21-00186	1	3	2	1		5h7rr7		6z79rp		QF		Leo Sprovieri		Jan Silhavy	Fri @ 10:00
 21-00186	1	3	2	1		digkg4		n81ora		QF		Daniel Czepielewski		Martin Carrizo	Fri @ 10:00
-21-00186	1	3	2	1		ubezoh		f1trhz		QF		Thomas Zych		Leo Bresson	Fri @ 10:00
-21-00186	1	3	2	1		yaxebo		3xdzdj		QF		Nick Nienhaus		Gabriel Ortiz	Fri @ 10:00
+21-00186	1	3	2	1	1	f1trhz		ubezoh		QF		Leo Bresson		Thomas Zych	Walkover
+21-00186	1	3	2	1	1	yaxebo		3xdzdj		QF		Nick Nienhaus		Gabriel Ortiz	Walkover
 21-00186	1	4	1	2		14h0be		4jzlz5		SF		Gaston Cantero		Boruch Skierkier	Fri @ 12:00
 21-00186	1	4	1	2		628wok		3cropu		SF		Diego Dalisay		Takeshi Taco	Fri @ 12:00
 21-00186	1	4	1	1	1	14h0be		0q5238		QF		Gaston Cantero		Ravi Nelson	64 62
@@ -3168,7 +3169,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-59010	1	2	1	2		txwpyn		vszche		64	9	Noah Schachter		Tyler Stewart	Fri @ 09:00
 21-59010	1	2	1	2		n0iimu		exwpyn		64		Liam Krall		Daniel Sancho Arbizu	Fri @ 09:00
 21-59010	1	2	1	2		6aeoqk		wd2xkz		64	4	Alexander Jong		Mykhailo Kvantaliani	Fri @ 09:00
-21-59010	1	2	1	2		6c8y4q		2dy18j		64		Alan Sau		Nevin Arimilli	Fri @ 09:00
+21-59010	1	2	1	2		8m6keo		2dy18j		64		Francisco Vittar		Nevin Arimilli	Fri @ 09:00
 21-59010	1	2	1	2		5jibk9		wjx5tx		64	13	Olle Wallin		Ethan Muza	Fri @ 09:00
 21-59010	1	2	1	2		0eh2rk		uz79rp		64		Adam Neff		Stefan Storch	Fri @ 09:00
 21-59010	1	2	1	2		adhrtn		yu8g48		64	5	Micah Braswell		Tomas Reche	Fri @ 09:45

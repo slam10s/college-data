@@ -1,9 +1,9 @@
 ---
-tournaments: 164
-players: 3408
-matches: 2761
-completed: 2699
-scheduled: 62
+tournaments: 165
+players: 3397
+matches: 2760
+completed: 2705
+scheduled: 55
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	3	1	1	2		svyj81	catiz8	65w5iz	djgve1	QF		Aney/Budde		Esses/Raina	Fri @ 12:30
@@ -36,7 +36,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00186	3	2	1	1	1	digkg4	1ixuv0	i69ujc	wxffjr	16		Czepielewski/Bonacia		Barbon/Stepanov	64 16 [6]
 21-00186	3	2	2	1		ykca0i	d387mh	g0187y	9l8pmz	QF		Pessoa/Pelletti		Omarkhanov/Salazar	Fri @ 15:00
 21-00186	3	2	2	1		42acus	avh9t5	n81ora	5h7rr7	QF		Little/Braham		Carrizo/Sprovieri	Fri @ 15:00
-21-00186	3	2	2	1		wvh9t5	douia6	38kece	pzknu5	QF		Beltran/Komel		Fernandez/Gallegos	Fri @ 15:00
 21-00186	3	2	2	1		tcropu	t6sk4g	i69ujc	wxffjr	QF		Subert/Cooke		Barbon/Stepanov	Fri @ 15:00
 21-00186	3	3	1	2		v34ba1	me0sco	vcaeay	edln53	QF		Cueto Ramos/Regalado		Westwick/Martinez R…	Fri @ 14:00
 21-00186	3	3	1	2		5c6iyi	by5ink	2bpxlp	mimwys	QF		Mack/Carvalho		Bohren/Velicki	Fri @ 13:30
@@ -927,18 +926,18 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-26119	2	4	1	5	1	cvjpzd	v6u0ao	1g7gta	qfb17t	R5		Green/Lovrich		Jacobs/Gosselin	62
 21-26119	2	4	1	2	1	c1trhz	hv0ze9	7ac8kc	p6u0ao	R2		Baradel/Danielsson		Ercole/Johnston	60
 21-26119	2	4	1	2	1	cvjpzd	v6u0ao	onwnih	qfb17t	R2		Green/Lovrich		Dacuba/Gosselin	62
-21-27355	2	1	1	1		tnj9f1	yoqmyq	uwwe0q	yigkg4	QF		Thole/Andre		Duarte Ramirez/Cort…	Fri @ 09:00
-21-27355	2	1	1	1		m6u0ao	wlpz1v	6m6keo	gii0mc	QF		Laynes/Meinders		Ycaza/Livingston	Fri @ 09:00
-21-27355	2	1	1	1		e9m5gj	akr496	jc42sa	69m5gj	QF		Vishesh/Hartig		Gaedechens/Zubieta	Fri @ 09:00
-21-27355	2	1	1	1		vm08w0	9jibk9	w34ba1	rhqhcb	QF		Galerkin/Wisniewski		Fujita/Wayand	Fri @ 09:00
-21-27355	2	2	1	1		82vil4	azqzct	6fyn4d	0yukqc	QF		Snelson/Zaar		Zottele/Zsibrita	Fri @ 09:00
-21-27355	2	2	1	1		g69ujc	n7blnh	pe0sco	pc42sa	QF		Brailovsky/Suarez		Sanz/Flanagan	Fri @ 09:00
-21-27355	2	2	1	1		fmnutk	v6bapk	use6q2	iv6bwx	QF		Swigart/Hotard		Kosa/Zuddy	Fri @ 09:00
-21-27355	2	2	1	1		7o9cju	67sv2d	i7qfw5	jse6q2	QF		Benn/Ruiz Diaz		Keranen/Ladner	Fri @ 09:00
-21-27355	2	3	1	4		ocaeay	i1itkr	2lrf73	un2z05	R4		Zraidi/Zowin		Snyder/Zrnic	Fri @ 09:45
-21-27355	2	3	1	4		6z79rp	sikgsk	rtehoz	185k3q	R4		Silhavy/Rodriguez		Watson/Moore	Fri @ 09:45
-21-27355	2	3	1	1		6z79rp	sikgsk	ocaeay	i1itkr	R1		Silhavy/Rodriguez		Zraidi/Zowin	Fri @ 09:00
-21-27355	2	3	1	1		2lrf73	un2z05	cqq8uk	ckeq6q	R1		Snyder/Zrnic		Zou/Zuckerman	Fri @ 09:00
+21-27355	2	1	1	1	1	ybv93d	yoqmyq	iyo88o	4nwnih	QF		Tiraspolsky/Andre		Dudek/Cossu	63
+21-27355	2	1	1	1	1	xtalcj	1r1hpp	mla5s7	r5ylo7	QF		LeBlanc/Mercer		Zabala/Lombisano	76(4)
+21-27355	2	1	1	1	1	im6keo	yg7gta	1xstm7	1nj9f1	QF		Vukovic/Haskins		Galic/Shoults	61
+21-27355	2	1	1	1	1	152h0n	ujvpnp	d7ozqx	pimwys	QF		Wesbrooks/Howard-Tr…		Galus/Wozniak	62
+21-27355	2	2	1	1	1	all3pf	2v4vqp	0z79rp	qyukqc	QF		Batchelor/Reynolds		Sorbo/Zemel	62
+21-27355	2	2	1	1	1	5psd2v	vb8n6t	y3llpx	mkv0lm	QF		Saylor/Fletchall		Brancatelli/Suzanne	64
+21-27355	2	2	1	1		kazuhw	9nht9t	nii0mc	fazuhw	QF		Tang/Mizrahi		Kovac/Szczesny	Fri @ 09:00
+21-27355	2	2	1	1		jatiz8	aw0ac6	c8muim	11ex8b	QF		Bennett/Sachdev		Khamis/Lamas	Fri @ 09:00
+21-27355	2	3	1	4		0rir4l	428wok	ui36do	jcp8jm	R4		Kostov/Ecarma		Sornlaksup/Meluta	Fri @ 09:45
+21-27355	2	3	1	4		nulu7o	944m8y	kput83	i0187y	R4		Basavareddy/Rogers		Welch/Morgan	Fri @ 09:45
+21-27355	2	3	1	1		nulu7o	944m8y	0rir4l	428wok	R1		Basavareddy/Rogers		Kostov/Ecarma	Fri @ 09:00
+21-27355	2	3	1	1		ui36do	jcp8jm	u3llpx	mr3xvx	R1		Sornlaksup/Meluta		Berglund/Staff	Fri @ 09:00
 21-27918	2	1	1	4	1	zfw7y5	6ll3pf	yf9l1l	rndxxd	F	1	Ruparel/Chepuri		Bradley/Breuker	85
 21-27918	2	1	1	3	1	zfw7y5	6ll3pf	6zoj6l	kavy5g	SF	1	Ruparel/Chepuri	4	Pentousis/Gorelik	84
 21-27918	2	1	1	3	1	yf9l1l	rndxxd	emhibw	nqig6o	SF		Bradley/Breuker	2	Belandres/Acaroglu	85
