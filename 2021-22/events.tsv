@@ -1,11 +1,11 @@
 ---
 tournaments: 313
 events: 694
-eventsWithDraws: 384
-eventsWithoutDraws: 310
-draws: 1381
-brackets: 2941
-results: 36955
+eventsWithDraws: 382
+eventsWithoutDraws: 312
+draws: 1376
+brackets: 2908
+results: 36825
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00186	1	1	1	M	Men's Open Singles	Division II	East	16,QF,SF,F	15
@@ -1149,39 +1149,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-26995	2	2	1	W	Women's Open Doubles	Draw 2	Main	16,QF,SF,F	15
 21-26995	2	3	1	W	Women's Open Doubles	Draw 3	Main	16,QF,SF,F	15
 21-26995	2	4	1	W	Women's Open Doubles	Draw 4	Main	16,QF,SF,F	15
-21-27355	1	1	1	M	Men's Open Singles	Draw A	East	16,QF,SF,F	15
-21-27355	1	1	2	M	Men's Open Singles	Draw A	West	QF,SF,F	7
-21-27355	1	1	3	M	Men's Open Singles	Draw A	North	SF,F	3
-21-27355	1	1	4	M	Men's Open Singles	Draw A	3-4 Playoff	F	1
-21-27355	1	1	5	M	Men's Open Singles	Draw A	South	SF,F	3
-21-27355	1	1	6	M	Men's Open Singles	Draw A	Southwest	F	1
-21-27355	1	1	7	M	Men's Open Singles	Draw A	Northwest	F	1
-21-27355	1	1	8	M	Men's Open Singles	Draw A	Southeast	F	1
-21-27355	1	2	1	M	Men's Open Singles	Draw B	East	16,QF,SF,F	15
-21-27355	1	2	2	M	Men's Open Singles	Draw B	West	QF,SF,F	7
-21-27355	1	2	3	M	Men's Open Singles	Draw B	North	SF,F	3
-21-27355	1	2	4	M	Men's Open Singles	Draw B	3-4 Playoff	F	1
-21-27355	1	2	5	M	Men's Open Singles	Draw B	South	SF,F	3
-21-27355	1	2	6	M	Men's Open Singles	Draw B	Southwest	F	1
-21-27355	1	2	7	M	Men's Open Singles	Draw B	Northwest	F	1
-21-27355	1	2	8	M	Men's Open Singles	Draw B	Southeast	F	1
-21-27355	1	3	1	M	Men's Open Singles	Draw C	East	16,QF,SF,F	15
-21-27355	1	3	2	M	Men's Open Singles	Draw C	West	QF,SF,F	7
-21-27355	1	3	3	M	Men's Open Singles	Draw C	North	SF,F	3
-21-27355	1	3	4	M	Men's Open Singles	Draw C	3-4 Playoff	F	1
-21-27355	1	3	5	M	Men's Open Singles	Draw C	South	SF,F	3
-21-27355	1	3	6	M	Men's Open Singles	Draw C	Southwest	F	1
-21-27355	1	3	7	M	Men's Open Singles	Draw C	Northwest	F	1
-21-27355	1	3	8	M	Men's Open Singles	Draw C	Southeast	F	1
-21-27355	2	1	1	M	Men's Open Doubles	Doubles A	East	QF,SF,F	7
-21-27355	2	1	2	M	Men's Open Doubles	Doubles A	West	SF,F	3
-21-27355	2	1	3	M	Men's Open Doubles	Doubles A	3-4 Playoff	F	1
-21-27355	2	1	4	M	Men's Open Doubles	Doubles A	South	F	1
-21-27355	2	2	1	M	Men's Open Doubles	Doubles B	East	QF,SF,F	7
-21-27355	2	2	2	M	Men's Open Doubles	Doubles B	West	SF,F	3
-21-27355	2	2	3	M	Men's Open Doubles	Doubles B	3-4 Playoff	F	1
-21-27355	2	2	4	M	Men's Open Doubles	Doubles B	South	F	1
-21-27355	2	3	1	M	Men's Open Doubles	Doubles Round Robin	Main	R1,R2,R3,R4,R5	10
+21-27355	1			M	Men's Open Singles				
+21-27355	2			M	Men's Open Doubles				
 21-27918	1	1	1	M	Men's Open Singles	Flight A	Main	16,QF,SF,F	15
 21-27918	1	2	1	M	Men's Open Singles	Flight B	Main	16,QF,SF,F	15
 21-27918	1	3	1	M	Men's Open Singles	Flight C	Main	16,QF,SF,F	15
