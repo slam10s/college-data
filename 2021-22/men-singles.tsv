@@ -1,13 +1,14 @@
 ---
 tournaments: 183
-players: 3693
-matches: 6860
-completed: 6719
-scheduled: 141
+players: 3696
+matches: 6927
+completed: 6882
+scheduled: 45
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
-21-00186	1	1	1	3		2psd2v		2w2qie		SF	1	Alvaro Regalado	4	Andrea Zamurri	Sat @ 09:00
-21-00186	1	1	1	3		v5hb9b		7clc76		SF		Alex Martinez Roca		Joaquin Benoit	Sat @ 09:00
+21-00186	1	1	1	4		2psd2v		7clc76		F	1	Alvaro Regalado		Joaquin Benoit	Sun @ 09:00
+21-00186	1	1	1	3	1	2psd2v		2w2qie		SF	1	Alvaro Regalado	4	Andrea Zamurri	63 64
+21-00186	1	1	1	3	1	7clc76		v5hb9b		SF		Joaquin Benoit		Alex Martinez Roca	63 46 62
 21-00186	1	1	1	2	1	2psd2v		iaxebo		QF	1	Alvaro Regalado		Ryan Nuno	57 61 61
 21-00186	1	1	1	2	1	2w2qie		5nfd3l		QF	4	Andrea Zamurri		Sander Jans	36 62 62
 21-00186	1	1	1	2	1	v5hb9b		4tpfl7		QF		Alex Martinez Roca		Brennan Cimpeanu	61 63
@@ -20,17 +21,17 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00186	1	1	1	1	1	4tpfl7		84lwnu		16		Brennan Cimpeanu	3	Marko Nikoliuk	76(6) 63
 21-00186	1	1	1	1	1	7clc76		mixuv0		16		Joaquin Benoit		Joaquin Bianchi	62 63
 21-00186	1	1	1	1	1	a795h9		xfb17t		16		Francisco Oliveira	2	Alejandro Ibanez	63 63
-21-00186	1	1	2	2		5dj7zv		figkg4		SF		Sebastian Herrera		Gonzalo Fernandez	Sat @ 09:00
-21-00186	1	1	2	2		saxebo		mixuv0		SF		Franco Oliva		Joaquin Bianchi	Sat @ 09:00
+21-00186	1	1	2	2	1	figkg4		5dj7zv		SF		Gonzalo Fernandez		Sebastian Herrera	64 63
+21-00186	1	1	2	2	1	mixuv0		saxebo		SF		Joaquin Bianchi		Franco Oliva	76(2) 62
 21-00186	1	1	2	1	1	5dj7zv		e7qfw5		QF		Sebastian Herrera		Tom Jarry	63 64
 21-00186	1	1	2	1	1	figkg4		2aeoqk		QF		Gonzalo Fernandez		Daniel Llorente	36 63 62
 21-00186	1	1	2	1	1	saxebo		84lwnu		QF		Franco Oliva	3	Marko Nikoliuk	57 64 62
 21-00186	1	1	2	1	1	mixuv0		6dhrtn		QF		Joaquin Bianchi		Jonathan Berling	63 61
-21-00186	1	1	3	1		iaxebo		5nfd3l		SF		Ryan Nuno		Sander Jans	Sat @ 09:00
-21-00186	1	1	3	1		4tpfl7		a795h9		SF		Brennan Cimpeanu		Francisco Oliveira	Sat @ 09:00
-21-00186	1	1	5	1		e7qfw5		2aeoqk		SF		Tom Jarry		Daniel Llorente	Sat @ 09:00
-21-00186	1	1	5	1		84lwnu		6dhrtn		SF	3	Marko Nikoliuk		Jonathan Berling	Sat @ 09:00
-21-00186	1	2	1	4		afdhd1		9h1f9j		F		Stan Morris	3	Chase Cohen	Sat @ 11:30
+21-00186	1	1	3	1	1	iaxebo		5nfd3l		SF		Ryan Nuno		Sander Jans	62 64
+21-00186	1	1	3	1	1	a795h9		4tpfl7		SF		Francisco Oliveira		Brennan Cimpeanu	76(8) 63
+21-00186	1	1	5	1	1	2aeoqk		e7qfw5		SF		Daniel Llorente		Tom Jarry	61 76(6)
+21-00186	1	1	5	1		84lwnu		6dhrtn		SF	3	Marko Nikoliuk		Jonathan Berling	
+21-00186	1	2	1	4	1	afdhd1		9h1f9j		F		Stan Morris	3	Chase Cohen	62 36 61
 21-00186	1	2	1	3	1	afdhd1		neugu0		SF		Stan Morris		Jhonny Acosta	64 64
 21-00186	1	2	1	3	1	9h1f9j		gkv0lm		SF	3	Chase Cohen		Jordan Theron	16 75 62
 21-00186	1	2	1	2	1	neugu0		1brdrx		QF		Jhonny Acosta	1	James Hopper	57 64 00 Ret.
@@ -57,8 +58,9 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00186	1	2	5	2		peyc6g		batiz8		F		Luke Lemaitre		Ethan Carroll	
 21-00186	1	2	5	1	1	peyc6g		nur6pc		SF		Luke Lemaitre		Yudai Teruyama	61 60
 21-00186	1	2	5	1	1	batiz8		f7qfw5		SF		Ethan Carroll		Cole Lindwall	64 61
-21-00186	1	3	1	3		1wj0xa		qfursx		SF		Agustin Tamagnone	4	Daniil Klimov	Sat @ 11:00
-21-00186	1	3	1	3		a6sk4g		rjgve1		SF		Francisco Faria		Jeremias Rocco	Sat @ 11:00
+21-00186	1	3	1	4		1wj0xa		a6sk4g		F		Agustin Tamagnone		Francisco Faria	Sun @ 09:00
+21-00186	1	3	1	3	1	1wj0xa		qfursx		SF		Agustin Tamagnone	4	Daniil Klimov	67(4) 64 76(5)
+21-00186	1	3	1	3	1	a6sk4g		rjgve1		SF		Francisco Faria		Jeremias Rocco	64 Ret.
 21-00186	1	3	1	2	1	1wj0xa		4pb3nz		QF		Agustin Tamagnone	1	Luke Simkiss	61 64
 21-00186	1	3	1	2	1	qfursx		lu8g48		QF	4	Daniil Klimov		Chris Papa	57 64 75
 21-00186	1	3	1	2	1	a6sk4g		s7qfw5		QF		Francisco Faria		Yassir Kilani	64 63
@@ -71,29 +73,29 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-00186	1	3	1	1	1	s7qfw5		xst0zq		16		Yassir Kilani	3	Leo Bresson	63 76(2)
 21-00186	1	3	1	1	1	rjgve1		k2t2fw		16		Jeremias Rocco		Nick Nienhaus	64 36 62
 21-00186	1	3	1	1	1	krz1jh		kjx5tx		16	2	Alex Gurmendi		Gabriel Ortiz	64 57 64
-21-00186	1	3	2	3		fbv93d		k2t2fw		F		Leo Sprovieri		Nick Nienhaus	Sat @ 09:00
+21-00186	1	3	2	3	1	fbv93d		k2t2fw		F		Leo Sprovieri		Nick Nienhaus	64 64
 21-00186	1	3	2	2	1	fbv93d		5z1x91		SF		Leo Sprovieri		Martin Carrizo	Walkover
 21-00186	1	3	2	2	1	k2t2fw		xst0zq		SF		Nick Nienhaus	3	Leo Bresson	Walkover
 21-00186	1	3	2	1	1	fbv93d		5cropu		QF		Leo Sprovieri		Jan Silhavy	62 61
 21-00186	1	3	2	1	1	5z1x91		onwnih		QF		Martin Carrizo		Daniel Czepielewski	62 63
 21-00186	1	3	2	1	1	xst0zq		mw2qie		QF	3	Leo Bresson		Thomas Zych	Walkover
 21-00186	1	3	2	1	1	k2t2fw		kjx5tx		QF		Nick Nienhaus		Gabriel Ortiz	Walkover
-21-00186	1	3	3	1		4pb3nz		lu8g48		SF	1	Luke Simkiss		Chris Papa	Sat @ 09:00
-21-00186	1	3	3	1		s7qfw5		krz1jh		SF		Yassir Kilani	2	Alex Gurmendi	Sat @ 09:00
-21-00186	1	3	5	1		5cropu		onwnih		SF		Jan Silhavy		Daniel Czepielewski	Sat @ 09:00
-21-00186	1	3	5	1		mw2qie		rsgmwa		SF		Thomas Zych		Bruno Pessoa	Sat @ 09:00
-21-00186	1	4	1	3		3wj0xa		jh7rr7		F	4	Boruch Skierkier	2	Takeshi Taco	Sat @ 11:00
+21-00186	1	3	3	1	1	4pb3nz		lu8g48		SF	1	Luke Simkiss		Chris Papa	62 64
+21-00186	1	3	3	1	1	s7qfw5		krz1jh		SF		Yassir Kilani	2	Alex Gurmendi	Walkover
+21-00186	1	3	5	1	1	5cropu		onwnih		SF		Jan Silhavy		Daniel Czepielewski	Walkover
+21-00186	1	3	5	1	1	mw2qie		rsgmwa		SF		Thomas Zych		Bruno Pessoa	Walkover
+21-00186	1	4	1	3	1	jh7rr7		3wj0xa		F	2	Takeshi Taco	4	Boruch Skierkier	63 76(1)
 21-00186	1	4	1	2	1	3wj0xa		jvh9t5		SF	4	Boruch Skierkier	1	Gaston Cantero	61 36 52 Ret.
 21-00186	1	4	1	2	1	jh7rr7		h7ozqx		SF	2	Takeshi Taco	3	Diego Dalisay	63 63
 21-00186	1	4	1	1	1	jvh9t5		mi1q7g		QF	1	Gaston Cantero		Ravi Nelson	64 62
 21-00186	1	4	1	1	1	3wj0xa		vd6twf		QF	4	Boruch Skierkier		Emilio Vila	61 60
 21-00186	1	4	1	1	1	h7ozqx		j4lwnu		QF	3	Diego Dalisay		Tomas Nader	62 62
 21-00186	1	4	1	1	1	jh7rr7		nz79rp		QF	2	Takeshi Taco		Cheng En Tsai	62 61
-21-00186	1	4	2	2		mi1q7g		nz79rp		F		Ravi Nelson		Cheng En Tsai	Sat @ 10:30
+21-00186	1	4	2	2	1	nz79rp		mi1q7g		F		Cheng En Tsai		Ravi Nelson	61 62
 21-00186	1	4	2	1	1	mi1q7g		vd6twf		SF		Ravi Nelson		Emilio Vila	64 75
 21-00186	1	4	2	1	1	nz79rp		j4lwnu		SF		Cheng En Tsai		Tomas Nader	63 63
-21-00186	1	4	3	1		jvh9t5		h7ozqx		F	1	Gaston Cantero	3	Diego Dalisay	Sat @ 10:30
-21-00186	1	4	4	1		vd6twf		j4lwnu		F		Emilio Vila		Tomas Nader	Sat @ 10:30
+21-00186	1	4	3	1	1	jvh9t5		h7ozqx		F	1	Gaston Cantero	3	Diego Dalisay	50 Ret.
+21-00186	1	4	4	1	1	vd6twf		j4lwnu		F		Emilio Vila		Tomas Nader	62 61
 21-00238	1	1	1	3	1	52rm9o		734ba1		F		Cash Hanzlik		Luciano Fisicaro	63 62
 21-00238	1	1	1	2	1	52rm9o		q7blnh		SF		Cash Hanzlik		Kyllian Savary	61 61
 21-00238	1	1	1	2	1	734ba1		mixuv0		SF		Luciano Fisicaro		Joaquin Bianchi	52 Ret.
@@ -725,14 +727,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-08232	1	3	1	1	1	oqq8uk		7hqhcb		QF		Nicholas Wernink		Daniel Vinces	61 64
 21-08232	1	3	1	1	1	4aeoqk		iunadw		QF		Matt Kozar		Mikhail Grebenkin	Walkover
 21-08232	1	3	1	1	1	dsxwb6		0avy5g		QF		Jonathan Nottingham		Samuel Ghigiarelli	16 60 [5]
-21-08423	1	1	1	3		rmnutk		i387mh		16	1	Yevhen Sirous	16	Daniel Pellerito	Sat @ 08:30
+21-08423	1	1	1	3	1	rmnutk		i387mh		16	1	Yevhen Sirous	16	Daniel Pellerito	64 61
 21-08423	1	1	1	3	1	l2vil4		vr3xvx		16	12	Deji Thomas-Smith		Finbar Talcott	61 63
-21-08423	1	1	1	3		iouia6		0hqhcb		16	3	Holden Koons	14	Christiaan Worst	Sat @ 08:30
-21-08423	1	1	1	3		uvl55l		093fvf		16	5	Luca Maldoner	9	Dimosthenis Taramon…	Sat @ 08:30
-21-08423	1	1	1	3		75hb9b		k7blnh		16		Oliver Nolan	6	Guilherme Severin	Sat @ 08:30
-21-08423	1	1	1	3		i1gdej		cmnutk		16	13	Sebastian Quiros		Michael Shepheard	Sat @ 08:30
-21-08423	1	1	1	3		flrf73		10meya		16	10	Frank Thompson	7	Nicola Vidal	Sat @ 08:30
-21-08423	1	1	1	3		j5dfxv		ql2d4b		16		Aditya Balsekar	2	Alvaro Ariza	Sat @ 08:30
+21-08423	1	1	1	3	1	iouia6		0hqhcb		16	3	Holden Koons	14	Christiaan Worst	75 75
+21-08423	1	1	1	3	1	uvl55l		093fvf		16	5	Luca Maldoner	9	Dimosthenis Taramon…	67(5) 76(7) 64
+21-08423	1	1	1	3	1	k7blnh		75hb9b		16	6	Guilherme Severin		Oliver Nolan	62 64
+21-08423	1	1	1	3	1	cmnutk		i1gdej		16		Michael Shepheard	13	Sebastian Quiros	57 63 61
+21-08423	1	1	1	3	1	10meya		flrf73		16	7	Nicola Vidal	10	Frank Thompson	60 76(4)
+21-08423	1	1	1	3	1	ql2d4b		j5dfxv		16	2	Alvaro Ariza		Aditya Balsekar	63 75
 21-08423	1	1	1	2	1	rmnutk		n387mh		32	1	Yevhen Sirous		Mario Pena	62 61
 21-08423	1	1	1	2	1	i387mh		wfursx		32	16	Daniel Pellerito		Jourdan Kast	62 61
 21-08423	1	1	1	2	1	vr3xvx		keww08		32		Finbar Talcott	8	Carlo Donato	61 76(1)
@@ -765,8 +767,8 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-08423	1	1	1	1	1	t3n1v5		fixuv0		64		Oscar Hernandez		Guillermo Cagigas	63 61
 21-08423	1	1	1	1	1	j5dfxv		ql8pmz		64		Aditya Balsekar		Luis Reis	36 64 62
 21-08423	1	1	1	1	1	akca0i		3l4taj		64		Chen Ruo		Omar El Kadi	61 63
-21-08423	1	2	1	2		l8oaou		hl69gr		32		Ernesto Rocabert		Sean Joseph	Sat @ 09:30
-21-08423	1	2	1	2		fixuv0		3l4taj		32		Guillermo Cagigas		Omar El Kadi	Sat @ 08:30
+21-08423	1	2	1	2	1	hl69gr		l8oaou		32		Sean Joseph		Ernesto Rocabert	64 40 Ret.
+21-08423	1	2	1	2	1	fixuv0		3l4taj		32		Guillermo Cagigas		Omar El Kadi	36 63 33 Ret.
 21-08423	1	2	1	1	1	3h5blz		cclc76		64		Raphael Mujan		Ryan Bernstine	76(5) 75
 21-08423	1	2	1	1	1	n93fvf		5q5238		64		Andres Silva		Rosen Nayadenov	36 63 63
 21-08423	1	2	1	1	1	l8oaou		t7qfw5		64		Ernesto Rocabert		Mathieu Josserand	64 61
@@ -776,14 +778,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-08423	1	2	1	1	1	fkca0i		2i36do		64		Youssef Sadek		Oliver Tobisch	75 61
 21-08423	1	2	1	1	1	8e28iw		axstm7		64		Josh Wilson		George Davis	62 63
 21-08423	1	3	1	1	1	5q5238		cclc76		64		Rosen Nayadenov		Ryan Bernstine	63 63
-21-08423	1	3	1	1		t7qfw5		2i36do		64		Mathieu Josserand		Oliver Tobisch	Sat @ 08:30
-21-08423	1	3	1	1		qd6twf		ql8pmz		64		Manfredi Vergine		Luis Reis	Sat @ 08:30
-21-08423	1	3	1	1		n387mh		wfursx		64		Mario Pena		Jourdan Kast	Sat @ 09:30
-21-08423	1	3	1	1		keww08		limwys		64		Carlo Donato		Michael Walser	Sat @ 08:30
+21-08423	1	3	1	1	1	2i36do		t7qfw5		64		Oliver Tobisch		Mathieu Josserand	61 61
+21-08423	1	3	1	1	1	qd6twf		ql8pmz		64		Manfredi Vergine		Luis Reis	75 57 62
+21-08423	1	3	1	1	1	wfursx		n387mh		64		Jourdan Kast		Mario Pena	57 64 62
+21-08423	1	3	1	1	1	keww08		limwys		64		Carlo Donato		Michael Walser	64 76(5)
 21-08423	1	3	1	1	1	wrir4l		49zjjz		64		William Karpinski		Matt Harper	64 62
-21-08423	1	3	1	1		8rir4l		n93fvf		64		Thando Longwe-Smit		Andres Silva	Sat @ 08:30
+21-08423	1	3	1	1	1	8rir4l		n93fvf		64		Thando Longwe-Smit		Andres Silva	63 64
 21-08423	1	3	1	1	1	zrmng1		gfw7y5		64		Codie Van Schalkwyk		Konstantinos Raptis	62 63
-21-08423	1	3	1	1		dnfd3l		t3n1v5		64		Robert Hagen		Oscar Hernandez	Sat @ 08:30
+21-08423	1	3	1	1	1	t3n1v5		dnfd3l		64		Oscar Hernandez		Robert Hagen	63 64
 21-08423	1	3	1	1	1	fkca0i		3h5blz		64		Youssef Sadek		Raphael Mujan	64 60
 21-08428	1	1	1	4	1	7q3mx0		mrxld9		F		Francisco Gay		Bruno Casino	62 46 75
 21-08428	1	1	1	3	1	7q3mx0		ru60y0		SF		Francisco Gay		Will Leach	36 63 [5]
@@ -846,8 +848,8 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-08428	1	3	2	2	1	nefmlc		dxy54v		SF		Juan Pablo Jaramillo		Matt Weiler	61 76(3)
 21-08428	1	3	3	1	1	sp9nhr		jys4k4		SF		George Miller		Aidan Rooney	36 64 [11]
 21-08428	1	3	3	1	1	hyukqc		op9nhr		SF		Jackson Whittaker		Joshua Matabuena	40 Ret.
-21-10002	1	1	1	5		nh7rr7		5ikgsk		SF		Sasha Trkulja	4	Julien Penzlin	Sat @ 13:00
-21-10002	1	1	1	5		xdn3bb		x6sk4g		SF	3	Nedim Suko		Arthus de la Basset…	Sat @ 13:00
+21-10002	1	1	1	5	1	nh7rr7		5ikgsk		SF		Sasha Trkulja	4	Julien Penzlin	63 62
+21-10002	1	1	1	5	1	x6sk4g		xdn3bb		SF		Arthus de la Basset…	3	Nedim Suko	67(6) 64 64
 21-10002	1	1	1	4	1	nh7rr7		zla5s7		QF		Sasha Trkulja		Luke Vandecasteele	75 63
 21-10002	1	1	1	4	1	5ikgsk		m5ylo7		QF	4	Julien Penzlin		Han-Chih Lin	64 26 61
 21-10002	1	1	1	4	1	xdn3bb		sjajwd		QF	3	Nedim Suko		Oliver Andersson	67(7) 62 64
@@ -1687,14 +1689,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-22872	1	1	2	1	1	zfb17t		aazuhw		32Q		Lucas Hammond		Hugo Stroppiana	76(5) 36 [3]
 21-22872	1	1	2	1	1	qn0jux		3h1f9j		32Q		Brandon Pham	9	Muhamad Bedwan	Walkover
 21-22872	1	1	2	1	1	5gu2qu		72acus		32Q		Julius Ziebart		Christian Kearns	62 61
-21-23395	1	1	1	4		a7ozqx		acaeay		16		Miko Eala		James Wilkinson	Sat @ 10:00
-21-23395	1	1	1	4		1jzlz5		sgbc5q		16		Inigo Torre Martin		Gavin Segraves	Sat @ 10:00
-21-23395	1	1	1	4		xwj0xa		33rx7l		16		Rayane Stable		Bora Sengul	Sat @ 10:00
-21-23395	1	1	1	4		5vh9t5		ju24mk		16		Bar Botzer		Joaquim Almeida	Sat @ 10:00
-21-23395	1	1	1	4		ac8y4q		n0187y		16		Nathan Perrone		Charl Morgan	Sat @ 10:00
-21-23395	1	1	1	4		m2acus		uulu7o		16		Alexander Kiefer		Mikeal Carpenter	Sat @ 10:00
-21-23395	1	1	1	4		b7595t		k2vil4		16		Malik Bhatnagar		Chikaya Sato	Sat @ 10:00
-21-23395	1	1	1	4		coyemm		mqosoc		16		Guilherme Valdoleir…		Leo Raquin	Sat @ 10:00
+21-23395	1	1	1	4	1	a7ozqx		acaeay		16		Miko Eala		James Wilkinson	63 62
+21-23395	1	1	1	4	1	1jzlz5		sgbc5q		16		Inigo Torre Martin		Gavin Segraves	62 62
+21-23395	1	1	1	4	1	33rx7l		xwj0xa		16		Bora Sengul		Rayane Stable	64 06 75
+21-23395	1	1	1	4	1	5vh9t5		ju24mk		16		Bar Botzer		Joaquim Almeida	75 62
+21-23395	1	1	1	4	1	n0187y		ac8y4q		16		Charl Morgan		Nathan Perrone	75 36 61
+21-23395	1	1	1	4	1	m2acus		uulu7o		16		Alexander Kiefer		Mikeal Carpenter	63 46 62
+21-23395	1	1	1	4	1	k2vil4		b7595t		16		Chikaya Sato		Malik Bhatnagar	75 Ret.
+21-23395	1	1	1	4	1	mqosoc		coyemm		16		Leo Raquin		Guilherme Valdoleir…	62 61
 21-23395	1	1	1	3	1	a7ozqx		4m448g		32		Miko Eala		Joshua Robinson	63 61
 21-23395	1	1	1	3	1	acaeay		9azuhw		32		James Wilkinson		Derrick Thompson	76(3) 26 61
 21-23395	1	1	1	3	1	1jzlz5		15jrfj		32		Inigo Torre Martin		Adhvyte Sharma	62 75
@@ -1800,7 +1802,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23395	1	2	1	1	1	lg50n2		r5ylo7		64		George Cavo		Eric Liu	60 63
 21-23395	1	2	1	1	1	fupqj4		zsgmwa		64		Luka Markovic		Erick Rivas	61 61
 21-23395	1	2	1	1	1	3sxwb6		afsbmp		64		Ryan Nguyen		Oliver Davey	62 62
+21-23395	1	3	1	1	1	vy5ink		yl8pmz		64		Ryan Charles		Will Pak	63 62
+21-23395	1	3	1	1	1	kq16rs		d6bapk		64		Matisse Bobichon		Louis Gorregues	76(3) 46 [5]
+21-23395	1	3	1	1	1	64lwnu		qm448g		64		Alex Mascioli		Anthony Prokurat	36 60 [8]
+21-23395	1	3	1	1	1	98oaou		gwwe0q		64		Sasha Panyan		Jin Dassanayake	64 62
 21-23395	1	3	1	1	1	khk5un		rrir4l		64		Thibault Frumholz		Eshan Kanetkar	Walkover
+21-23395	1	3	1	1	1	w3n1v5		8zoj6l		64		Luke Garner		Alejandro Rodriguez…	64 61
+21-23395	1	3	1	1	1	wlpz1v		vzqzct		64		Cy McLeod		Noah Winton	30 Ret.
 21-23711	1	1	1	3	1	md4dq7		v93fvf		F		Wikus Robbertse		Rian Ta	62 62
 21-23711	1	1	1	2	1	md4dq7		6jvpnp		SF		Wikus Robbertse		Pontus Hallgren	63 63
 21-23711	1	1	1	2	1	v93fvf		zcp8jm		SF		Rian Ta		Zachary Matuszak	62 61
@@ -2154,10 +2162,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-26119	1	8	1	3	1	6ffxj9		hk8eo2		R3		Win Steveker		Gabriel Constantino	63 63
 21-26119	1	8	1	3	1	cxffjr		80kys2		R3		Alejandro Solares		Hugo Regner	62 63
 21-26119	1	8	1	2	1	80kys2		fz1x91		R2		Hugo Regner		Edoardo Cecere	64 67(1) [7]
-21-27355	1	1	1	2		vgu2qu		57ub8l		QF		Yasha Zemel		Luka Vukovic	Sat @ 10:00
-21-27355	1	1	1	2		tvnlbt		0zknu5		QF		Pawit Sornlaksup		Patrick Fletchall	Sat @ 10:00
-21-27355	1	1	1	2		3y7yts		6h3vfr		QF		Carson Haskins		Josh Howard-Tripp	Sat @ 10:00
-21-27355	1	1	1	2		aaase4		b9i943		QF		Michael Andre		Yusuf Khamis	Sat @ 11:30
+21-27355	1	1	1	3	1	vgu2qu		tvnlbt		SF		Yasha Zemel		Pawit Sornlaksup	16 62 63
+21-27355	1	1	1	3	1	aaase4		6h3vfr		SF		Michael Andre		Josh Howard-Tripp	76(6) Ret.
+21-27355	1	1	1	2	1	vgu2qu		57ub8l		QF		Yasha Zemel		Luka Vukovic	76(7) 61
+21-27355	1	1	1	2	1	tvnlbt		0zknu5		QF		Pawit Sornlaksup		Patrick Fletchall	64 62
+21-27355	1	1	1	2	1	6h3vfr		3y7yts		QF		Josh Howard-Tripp		Carson Haskins	63 76(4)
+21-27355	1	1	1	2	1	aaase4		b9i943		QF		Michael Andre		Yusuf Khamis	61 64
 21-27355	1	1	1	1	1	vgu2qu		40zs1q		16		Yasha Zemel		Marko Galic	64 64
 21-27355	1	1	1	1	1	57ub8l		gulu7o		16		Luka Vukovic		Gabriele Brancatelli	64 62
 21-27355	1	1	1	1	1	tvnlbt		pnwnih		16		Pawit Sornlaksup		Matthew Fung	61 16 [6]
@@ -2166,14 +2176,19 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-27355	1	1	1	1	1	6h3vfr		2keq6q		16		Josh Howard-Tripp		Juan Sebastian Zaba…	75 61
 21-27355	1	1	1	1	1	aaase4		oupqj4		16		Michael Andre		Jj Mercer	Walkover
 21-27355	1	1	1	1	1	b9i943		gavy5g		16		Yusuf Khamis		Piotr Galus	61 64
-21-27355	1	1	2	1		40zs1q		gulu7o		QF		Marko Galic		Gabriele Brancatelli	Sat @ 11:30
-21-27355	1	1	2	1		pnwnih		dtpfl7		QF		Matthew Fung		Athell Bennett	Sat @ 11:30
-21-27355	1	1	2	1		xn0jux		2keq6q		QF		Rohan Sachdev		Juan Sebastian Zaba…	Sat @ 11:30
-21-27355	1	1	2	1		oupqj4		gavy5g		QF		Jj Mercer		Piotr Galus	Sat @ 11:30
-21-27355	1	2	1	2		zcropu		tbttx5		QF		Jonathan Sorbo		Julen Morgan	Sat @ 10:00
-21-27355	1	2	1	2		enht9t		5pohqf		QF		David Mizrahi		Tomasz Dudek	Sat @ 10:00
-21-27355	1	2	1	2		kr3xvx		couia6		QF		Ilya Tiraspolsky		Francisco Lamas	Sat @ 10:00
-21-27355	1	2	1	2		wouia6		0caeay		QF		Alexandre LeBlanc		Alex Wesbrooks	Sat @ 10:00
+21-27355	1	1	2	2	1	2keq6q		gavy5g		SF		Juan Sebastian Zaba…		Piotr Galus	57 75 [5]
+21-27355	1	1	2	1	1	gulu7o		40zs1q		QF		Gabriele Brancatelli		Marko Galic	63 63
+21-27355	1	1	2	1	1	dtpfl7		pnwnih		QF		Athell Bennett		Matthew Fung	62 60
+21-27355	1	1	2	1	1	2keq6q		xn0jux		QF		Juan Sebastian Zaba…		Rohan Sachdev	16 75 [2]
+21-27355	1	1	2	1	1	gavy5g		oupqj4		QF		Piotr Galus		Jj Mercer	Walkover
+21-27355	1	1	3	1	1	57ub8l		b9i943		SF		Luka Vukovic		Yusuf Khamis	61 64
+21-27355	1	1	5	1	1	xn0jux		40zs1q		SF		Rohan Sachdev		Marko Galic	46 63 [7]
+21-27355	1	2	1	3	1	5pohqf		zcropu		SF		Tomasz Dudek		Jonathan Sorbo	61 63
+21-27355	1	2	1	3	1	kr3xvx		0caeay		SF		Ilya Tiraspolsky		Alex Wesbrooks	62 63
+21-27355	1	2	1	2	1	zcropu		tbttx5		QF		Jonathan Sorbo		Julen Morgan	61 Ret.
+21-27355	1	2	1	2	1	5pohqf		enht9t		QF		Tomasz Dudek		David Mizrahi	62 67(5) 64
+21-27355	1	2	1	2	1	kr3xvx		couia6		QF		Ilya Tiraspolsky		Francisco Lamas	60 61
+21-27355	1	2	1	2	1	0caeay		wouia6		QF		Alex Wesbrooks		Alexandre LeBlanc	63 64
 21-27355	1	2	1	1	1	zcropu		ytpfl7		16		Jonathan Sorbo		Jack Batchelor	61 62
 21-27355	1	2	1	1	1	tbttx5		upb3nz		16		Julen Morgan		Cole Shoults	67(4) 63 [7]
 21-27355	1	2	1	1	1	enht9t		beyc6g		16		David Mizrahi		Simeon Kostov	62 76(4)
@@ -2182,20 +2197,33 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-27355	1	2	1	1	1	couia6		y0g2gm		16		Francisco Lamas		Milledge Cossu	75 61
 21-27355	1	2	1	1	1	wouia6		nouia6		16		Alexandre LeBlanc		Adam Kovac	62 36 [7]
 21-27355	1	2	1	1	1	0caeay		kkv0lm		16		Alex Wesbrooks		Jagger Saylor	62 61
-21-27355	1	2	2	1		ytpfl7		upb3nz		QF		Jack Batchelor		Cole Shoults	Sat @ 11:30
-21-27355	1	2	2	1		beyc6g		x93fvf		QF		Simeon Kostov		Vikash Singh	Sat @ 11:30
-21-27355	1	2	2	1		7psd2v		y0g2gm		QF		Paul Reynolds		Milledge Cossu	Sat @ 11:30
-21-27355	1	2	2	1		nouia6		kkv0lm		QF		Adam Kovac		Jagger Saylor	Sat @ 11:30
-21-27355	1	3	1	2		u0meya		k9kpab		QF		Michal Wozniak		Mac Rogers	Sat @ 10:00
-21-27355	1	3	1	2		b2p63g		ud6twf		QF		Nishanth Basavareddy		Sebastian Welch	Sat @ 10:00
-21-27355	1	3	1	2		kybu58		rt856b		QF		Wojciech Szczesny		Xavier Ecarma	Sat @ 10:00
-21-27355	1	3	1	2		2pb3nz		0ffxj9		QF		Andre Suzanne		Kyle Tang	Sat @ 10:00
+21-27355	1	2	2	2	1	x93fvf		upb3nz		SF		Vikash Singh		Cole Shoults	63 61
+21-27355	1	2	2	2	1	nouia6		7psd2v		SF		Adam Kovac		Paul Reynolds	61 63
+21-27355	1	2	2	1	1	upb3nz		ytpfl7		QF		Cole Shoults		Jack Batchelor	62 64
+21-27355	1	2	2	1	1	x93fvf		beyc6g		QF		Vikash Singh		Simeon Kostov	61 62
+21-27355	1	2	2	1	1	7psd2v		y0g2gm		QF		Paul Reynolds		Milledge Cossu	64 Ret.
+21-27355	1	2	2	1	1	nouia6		kkv0lm		QF		Adam Kovac		Jagger Saylor	76 61
+21-27355	1	2	3	1	1	enht9t		tbttx5		SF		David Mizrahi		Julen Morgan	Walkover
+21-27355	1	2	3	1	1	wouia6		couia6		SF		Alexandre LeBlanc		Francisco Lamas	75 62
+21-27355	1	2	5	1	1	beyc6g		kkv0lm		SF		Simeon Kostov		Jagger Saylor	67(6) 62 [7]
+21-27355	1	2	5	1	1	ytpfl7		y0g2gm		SF		Jack Batchelor		Milledge Cossu	Walkover
+21-27355	1	3	1	3		u0meya		ud6twf		SF		Michal Wozniak		Sebastian Welch	Sat @ 13:00
+21-27355	1	3	1	3		kybu58		0ffxj9		SF		Wojciech Szczesny		Kyle Tang	Sat @ 13:00
+21-27355	1	3	1	2	1	u0meya		k9kpab		QF		Michal Wozniak		Mac Rogers	62 61
+21-27355	1	3	1	2	1	ud6twf		b2p63g		QF		Sebastian Welch		Nishanth Basavareddy	62 63
+21-27355	1	3	1	2	1	kybu58		rt856b		QF		Wojciech Szczesny		Xavier Ecarma	46 75 64
+21-27355	1	3	1	2	1	0ffxj9		2pb3nz		QF		Kyle Tang		Andre Suzanne	75 64
 21-27355	1	3	1	1	1	k9kpab		omhibw		16		Mac Rogers		Emil Berglund	62 64
 21-27355	1	3	1	1	1	ud6twf		l4nct2		16		Sebastian Welch		Michael Staff	75 64
 21-27355	1	3	1	1	1	rt856b		wba3c1		16		Xavier Ecarma		Juan Lombisano	64 63
 21-27355	1	3	1	1	1	0ffxj9		6fdhd1		16		Kyle Tang		Vlad Meluta	60 60
-21-27355	1	3	2	2		omhibw		l4nct2		SF		Emil Berglund		Michael Staff	Sat @ 11:30
-21-27355	1	3	2	2		wba3c1		6fdhd1		SF		Juan Lombisano		Vlad Meluta	Sat @ 11:30
+21-27355	1	3	2	2	1	omhibw		6fdhd1		SF		Emil Berglund		Vlad Meluta	62 57 [7]
+21-27355	1	3	2	2	1	wba3c1		l4nct2		SF		Juan Lombisano		Michael Staff	64 64
+21-27355	1	3	3	1	1	rt856b		k9kpab		SF		Xavier Ecarma		Mac Rogers	64 61
+21-27355	1	3	3	1	1	b2p63g		2pb3nz		SF		Nishanth Basavareddy		Andre Suzanne	75 61
+21-27355	1	3	6	1	1	l4nct2		6fdhd1		F		Michael Staff		Vlad Meluta	64 75
+21-27355	1	4	1	1	1	ud6twf		kybu58		SF		Sebastian Welch		Wojciech Szczesny	64 46 64
+21-27355	1	4	1	1	1	0ffxj9		u0meya		SF		Kyle Tang		Michal Wozniak	61 61
 21-27918	1	1	1	4	1	g69ujc		vur6pc		F	1	Tristan Bradley	2	Rishabh Sharda	62 61
 21-27918	1	1	1	3	1	g69ujc		v9zjjz		SF	1	Tristan Bradley		Isaac Gorelik	76(6) 76(5)
 21-27918	1	1	1	3	1	vur6pc		gv4vqp		SF	2	Rishabh Sharda	3	Damien Ruparel	63 64
@@ -2964,6 +2992,25 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-41868	1	3	1	1	1	gst0zq		c32v4t		16		Diego Castro		Jaap Aaldering	62 64
 21-41868	1	3	1	1	1	21xntf		ou24mk		16		Taisei Miyamoto		Alex Amacher	62 76(1)
 21-41868	1	3	1	1	1	gimwys		95jrfj		16		Alfred Wallin		Alex Suk	64 61
+21-41868	1	4	1	1	1	pkv0lm		8501uf		64		Frederic Schlossmann		Tomas Rodriguez	63 57 [9]
+21-41868	1	4	1	1	1	ravy5g		bqkwcw		64		Kerim Hyatt		Anton Damberg	60 61
+21-41868	1	4	1	1	1	wfb17t		p2t2fw		64		Peyton Gatti		Gabriel Nolasco	62 63
+21-41868	1	4	1	1	1	ah5blz		3z1x91		64		Jordan McClure		Giovanni Becchis	61 62
+21-41868	1	4	1	1	1	94lwnu		pq16rs		64		Ryan Mudre		Tom Bolton	76(2) 61
+21-41868	1	4	1	1	1	hwj0xa		ymlenc		64		Hogan Stoker		Quinten Nevenhoven	64 64
+21-41868	1	4	1	1	1	nba3c1		02t2fw		64		Lachlan Laner		Bo Nash	63 64
+21-41868	1	5	1	1	1	kp77bj		gst0zq		16		Evzen Holis		Diego Castro	64 63
+21-41868	1	5	1	1	1	ibpxlp		1eww08		16		Mika Berghaus		Ian Cruz	64 62
+21-41868	1	5	1	1	1	gimwys		51gdej		16		Alfred Wallin		Jun Sasagawa	16 76(4) [6]
+21-41868	1	5	1	1	1	8nj9f1		a3n1v5		16		Arthur Toledo		Elias Grubert	57 60 [10]
+21-41868	1	5	1	1	1	50iimu		7i36do		16		Tomas Luis		Rafael Tosetto	67(4) 64 [4]
+21-41868	1	5	1	1	1	21xntf		e3ansp		16		Taisei Miyamoto		Carlos Vicente	62 62
+21-41868	1	6	1	1	1	6la5s7		ou24mk		16		Chris Zhang		Alex Amacher	61 60
+21-41868	1	6	1	1	1	c32v4t		2cropu		16		Jaap Aaldering		Sam Tolbert	63 60
+21-41868	1	6	1	1	1	95jrfj		fkpo3y		16		Alex Suk		Jamie Bixby	76(1) 62
+21-41868	1	6	1	1	1	skpo3y		lv0ze9		16		Tao Castillo		Guilherme Diniz	61 63
+21-41868	1	6	1	1	1	tfsbmp		u0187y		16		Valentin Dun		Carlos Matarredona	62 62
+21-41868	1	6	1	1	1	ye0sco		v28wok		16		Fernando Perez		Pol Del Castillo	64 46 [8]
 21-43730	1	1	1	6	1	1brdrx		893fvf		F	1	James Hopper	5	Ansh Shah	62 60
 21-43730	1	1	1	5	1	1brdrx		swuyui		SF	1	James Hopper	9	Vishwa Aduru	61 63
 21-43730	1	1	1	5	1	893fvf		yo9cju		SF	5	Ansh Shah	2	Timmy Cianciola	60 62
@@ -3319,14 +3366,18 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-56169	1	4	1	1	1	ybpxlp		afsbmp		32		Filip Bazant		Oliver Davey	64 46 [9]
 21-56169	1	4	1	1	1	ayo88o		tm08w0		32		Colin Corsini		Mathius Dessureau	64 61
 21-56169	1	4	1	1	1	naxebo		mfsbmp		32		Joe Ocker		Michael Francis	61 61
-21-59010	1	2	1	4		1ulu7o		ahipof		16	1	Adrian Boitan	16	Juan Carlos Aguilar	Sat @ 11:30
-21-59010	1	2	1	4		grxld9		8szche		16	8	Richard Ciamarra	9	Noah Schachter	Sat @ 11:30
-21-59010	1	2	1	4		uu60y0		bp9nhr		16	4	Alexander Jong		Adam Neff	Sat @ 11:30
-21-59010	1	2	1	4		s4h0be		m3ph1d		16	5	Micah Braswell		Lui Maxted	Sat @ 11:30
-21-59010	1	2	1	4		sfw7y5		q6wggw		16		Raphael Perot	6	Tadeas Paroulek	Sat @ 11:30
-21-59010	1	2	1	4		arxld9		ojcz2l		16		Jake Finn Bass	3	Luc Fomba	Sat @ 11:30
-21-59010	1	2	1	4		oag4ws		0kauua		16		Matthis Ross	7	Sven Lah	Sat @ 11:30
-21-59010	1	2	1	4		qst0zq		czqzct		16		Caleb Chakravarthi	2	Pedro Vives Marcos	Sat @ 11:30
+21-59010	1	2	1	5		ahipof		8szche		QF	16	Juan Carlos Aguilar	9	Noah Schachter	Sun @ 13:00
+21-59010	1	2	1	5		uu60y0		s4h0be		QF	4	Alexander Jong	5	Micah Braswell	Sun @ 13:00
+21-59010	1	2	1	5		sfw7y5		ojcz2l		QF		Raphael Perot	3	Luc Fomba	Sun @ 13:00
+21-59010	1	2	1	5		0kauua		czqzct		QF	7	Sven Lah	2	Pedro Vives Marcos	Sun @ 13:00
+21-59010	1	2	1	4	1	ahipof		1ulu7o		16	16	Juan Carlos Aguilar	1	Adrian Boitan	64 64
+21-59010	1	2	1	4	1	8szche		grxld9		16	9	Noah Schachter	8	Richard Ciamarra	76(4) 62
+21-59010	1	2	1	4	1	uu60y0		bp9nhr		16	4	Alexander Jong		Adam Neff	61 75
+21-59010	1	2	1	4	1	s4h0be		m3ph1d		16	5	Micah Braswell		Lui Maxted	60 61
+21-59010	1	2	1	4	1	sfw7y5		q6wggw		16		Raphael Perot	6	Tadeas Paroulek	46 61 63
+21-59010	1	2	1	4	1	ojcz2l		arxld9		16	3	Luc Fomba		Jake Finn Bass	75 75
+21-59010	1	2	1	4	1	0kauua		oag4ws		16	7	Sven Lah		Matthis Ross	76(3) 63
+21-59010	1	2	1	4	1	czqzct		qst0zq		16	2	Pedro Vives Marcos		Caleb Chakravarthi	62 57 61
 21-59010	1	2	1	3	1	1ulu7o		wkauua		32	1	Adrian Boitan		Dario Kmet	63 61
 21-59010	1	2	1	3	1	ahipof		9ixuv0		32	16	Juan Carlos Aguilar		Joao Ceolin	46 63 64
 21-59010	1	2	1	3	1	grxld9		rg50n2		32	8	Richard Ciamarra		Miguel Cabrera	62 64
@@ -3375,14 +3426,19 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-59010	1	2	1	2	1	cjvpnp		tnu7c9		64		Trinity Grear	15	Demetris Azoides	67(5) 64 21 Ret.
 21-59010	1	2	1	2	1	cdn3bb		wd4dq7		64		Kenner Taylor		Juan Jose Rodriguez…	63 75
 21-59010	1	2	1	2	1	czqzct		9n0jux		64	2	Pedro Vives Marcos		Jordi Redelijk	75 60
-21-59010	1	2	2	4		l6f610		xwhkr2		16		Emir Sendogan		Evin McDonald	Sat @ 14:30
-21-59010	1	2	2	4		2h3vfr		yny3op		16		Dylan Heap		Liam Krall	Sat @ 14:30
-21-59010	1	2	2	4		70iimu		s462e6		16		Mykhailo Kvantaliani	13	Olle Wallin	Sat @ 14:30
-21-59010	1	2	2	4		3owyge		9qmci4		16		Tomas Reche		Daniel Linkuns-Moro…	Sat @ 14:30
-21-59010	1	2	2	4		1xffjr		pcropu		16		Julian Steinhausen		Ivan Smith	Sat @ 14:30
-21-59010	1	2	2	4		4azuhw		j501uf		16		Ivan Thamma		Franco Ribero	Sat @ 14:30
-21-59010	1	2	2	4		6g7gta		2u8g48		16		Carlo Izurieta		Sebastian Rodriguez	Sat @ 14:30
-21-59010	1	2	2	4		lgbc5q		9n0jux		16		Anish Sriniketh		Jordi Redelijk	Sat @ 14:30
+21-59010	1	2	2	6	1	4azuhw		9n0jux		SF		Ivan Thamma		Jordi Redelijk	Walkover
+21-59010	1	2	2	5		xwhkr2		yny3op		QF		Evin McDonald		Liam Krall	Sun @ 09:00
+21-59010	1	2	2	5	1	9qmci4		70iimu		QF		Daniel Linkuns-Moro…		Mykhailo Kvantaliani	Walkover
+21-59010	1	2	2	5	1	4azuhw		1xffjr		QF		Ivan Thamma		Julian Steinhausen	Walkover
+21-59010	1	2	2	5	1	9n0jux		2u8g48		QF		Jordi Redelijk		Sebastian Rodriguez	Walkover
+21-59010	1	2	2	4	1	xwhkr2		l6f610		16		Evin McDonald		Emir Sendogan	63 61
+21-59010	1	2	2	4	1	yny3op		2h3vfr		16		Liam Krall		Dylan Heap	63 63
+21-59010	1	2	2	4	1	70iimu		s462e6		16		Mykhailo Kvantaliani	13	Olle Wallin	Walkover
+21-59010	1	2	2	4	1	9qmci4		3owyge		16		Daniel Linkuns-Moro…		Tomas Reche	75 62
+21-59010	1	2	2	4	1	1xffjr		pcropu		16		Julian Steinhausen		Ivan Smith	63 64
+21-59010	1	2	2	4	1	4azuhw		j501uf		16		Ivan Thamma		Franco Ribero	63 63
+21-59010	1	2	2	4	1	2u8g48		6g7gta		16		Sebastian Rodriguez		Carlo Izurieta	63 76(4)
+21-59010	1	2	2	4	1	9n0jux		lgbc5q		16		Jordi Redelijk		Anish Sriniketh	62 64
 21-59010	1	2	2	3	1	l6f610		cm2o28		32		Emir Sendogan		Pascal Lorieul	Walkover
 21-59010	1	2	2	3	1	xwhkr2		s2p63g		32		Evin McDonald		Luke Casper	64 62
 21-59010	1	2	2	3	1	2h3vfr		jc2mm2		32		Dylan Heap		Huntley Allen	61 75
@@ -3995,34 +4051,31 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-69055	1	1	1	1	1	r4jghm		46f610		32		Antonio Matteo Iaqu…		Victor Spolidorio	36 63 [10]
 21-69055	1	1	1	1	1	00187y		znfd3l		32		Mikko Malinen		Jona Gitschel	63 64
 21-69055	1	1	1	1	1	gefmlc		j5ylo7		32		Zach Grueber		Christopher Knutson	62 57 [3]
-21-69055	1	2	1	1		pwj0xa		q0187y		32		Jeremy Schifris		Kristopher Ortega	Sat @ 11:00
-21-69055	1	2	1	1		vtalcj		r4jghm		32		Oliver Johansson		Antonio Matteo Iaqu…	Sat @ 11:00
-21-69055	1	2	1	1		tny3op		gefmlc		32		Armin Koschtojan		Zach Grueber	Sat @ 11:00
-21-69055	1	2	1	1		j5ylo7		u44m8y		32		Christopher Knutson		Jaydn Richardson	Sat @ 11:00
-21-69055	1	2	1	1		hxdzdj		00187y		32		Matija Matic		Mikko Malinen	Sat @ 11:00
-21-69055	1	2	1	1		95dfxv		o9m5gj		32		Matt Clegg		Mikael Vollbach	Sat @ 11:00
-21-69055	1	2	1	1		bowyge		znfd3l		32		Gabriel Sardo		Jona Gitschel	Sat @ 12:30
-21-69055	1	2	1	1		hlrf73		sgq6ee		32		Olle Sonesson Lidho…		Jackie Lin	Sat @ 12:30
-21-69055	1	2	1	1		7z1x91		77sv2d		32		Markus Bolin		Alex Richards	Sat @ 12:30
-21-69055	1	2	1	1		azknu5		46f610		32		Evan Fragistas		Victor Spolidorio	Sat @ 12:30
-21-69055	1	3	1	1		vtalcj		77sv2d		32		Oliver Johansson		Alex Richards	Sat @ 15:00
-21-69055	1	3	1	1		azknu5		o462e6		32		Evan Fragistas		Oliver Valentinsson	Sat @ 15:00
-21-69055	1	3	1	1		hlrf73		46f610		32		Olle Sonesson Lidho…		Victor Spolidorio	Sat @ 15:00
-21-69055	1	3	1	1		7z1x91		o9m5gj		32		Markus Bolin		Mikael Vollbach	Sat @ 15:00
-21-69055	1	3	1	1		u44m8y		r4jghm		32		Jaydn Richardson		Antonio Matteo Iaqu…	Sat @ 15:00
-21-69055	1	3	1	1		bowyge		j5ylo7		32		Gabriel Sardo		Christopher Knutson	Sat @ 15:00
-21-69055	1	3	1	1		00187y		sgq6ee		32		Mikko Malinen		Jackie Lin	Sat @ 16:30
-21-69055	1	3	1	1		q0187y		yh5blz		32		Kristopher Ortega		Sven Moser	Sat @ 16:30
-21-69055	1	3	1	1		znfd3l		tny3op		32		Jona Gitschel		Armin Koschtojan	Sat @ 16:30
-21-69055	1	3	1	1		hxdzdj		gefmlc		32		Matija Matic		Zach Grueber	Sat @ 04:30
+21-69055	1	2	1	1	1	pwj0xa		q0187y		32		Jeremy Schifris		Kristopher Ortega	63 64
+21-69055	1	2	1	1	1	vtalcj		r4jghm		32		Oliver Johansson		Antonio Matteo Iaqu…	64 62
+21-69055	1	2	1	1	1	gefmlc		tny3op		32		Zach Grueber		Armin Koschtojan	64 36 [8]
+21-69055	1	2	1	1	1	hxdzdj		00187y		32		Matija Matic		Mikko Malinen	61 64
+21-69055	1	2	1	1	1	95dfxv		o9m5gj		32		Matt Clegg		Mikael Vollbach	75 76(5)
+21-69055	1	2	1	1	1	bowyge		znfd3l		32		Gabriel Sardo		Jona Gitschel	64 75
+21-69055	1	2	1	1	1	sgq6ee		hlrf73		32		Jackie Lin		Olle Sonesson Lidho…	34 Ret.
+21-69055	1	2	1	1	1	7z1x91		77sv2d		32		Markus Bolin		Alex Richards	62 60
+21-69055	1	2	1	1	1	azknu5		46f610		32		Evan Fragistas		Victor Spolidorio	60 64
+21-69055	1	3	1	1		vtalcj		46f610		32		Oliver Johansson		Victor Spolidorio	Sat @ 16:30
+21-69055	1	3	1	1	1	azknu5		o462e6		32		Evan Fragistas		Oliver Valentinsson	62 46 [9]
+21-69055	1	3	1	1	1	7z1x91		o9m5gj		32		Markus Bolin		Mikael Vollbach	62 61
+21-69055	1	3	1	1	1	r4jghm		u44m8y		32		Antonio Matteo Iaqu…		Jaydn Richardson	61 64
+21-69055	1	3	1	1	1	pwj0xa		znfd3l		32		Jeremy Schifris		Jona Gitschel	60 61
+21-69055	1	3	1	1	1	sgq6ee		00187y		32		Jackie Lin		Mikko Malinen	63 63
+21-69055	1	3	1	1	1	tny3op		bowyge		32		Armin Koschtojan		Gabriel Sardo	64 64
+21-69055	1	3	1	1	1	q0187y		yh5blz		32		Kristopher Ortega		Sven Moser	64 62
+21-69055	1	3	1	1	1	hxdzdj		gefmlc		32		Matija Matic		Zach Grueber	64 62
 21-69055	1	4	1	1		95dfxv		gefmlc		32		Matt Clegg		Zach Grueber	Sun @ 10:00
-21-69055	1	4	1	1		pwj0xa		77sv2d		32		Jeremy Schifris		Alex Richards	Sun @ 10:00
+21-69055	1	4	1	1		q0187y		77sv2d		32		Kristopher Ortega		Alex Richards	Sun @ 10:00
 21-69055	1	4	1	1		bowyge		yh5blz		32		Gabriel Sardo		Sven Moser	Sun @ 10:00
 21-69055	1	4	1	1		00187y		r4jghm		32		Mikko Malinen		Antonio Matteo Iaqu…	Sun @ 10:00
 21-69055	1	4	1	1		u44m8y		znfd3l		32		Jaydn Richardson		Jona Gitschel	Sun @ 10:00
 21-69055	1	4	1	1		hxdzdj		o462e6		32		Matija Matic		Oliver Valentinsson	Sun @ 10:00
 21-69055	1	4	1	1		azknu5		sgq6ee		32		Evan Fragistas		Jackie Lin	Sun @ 11:30
-21-69055	1	4	1	1		hlrf73		tny3op		32		Olle Sonesson Lidho…		Armin Koschtojan	Sun @ 11:30
 21-69055	1	4	1	1		7z1x91		46f610		32		Markus Bolin		Victor Spolidorio	Sun @ 11:30
 21-69055	1	4	1	1		vtalcj		o9m5gj		32		Oliver Johansson		Mikael Vollbach	Sun @ 11:30
 21-69307	1	1	1	5	1	z8oaou		y5w5iz		F		Tristan Sarap	1	James Davis	64 64
@@ -6657,37 +6710,51 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-97501	1	3	1	1	1	gpohqf		hnht9t		16		Jose Diaz		Riley Odell	26 75 [7]
 21-97501	1	3	1	1	1	52t2fw		ui36do		16		Ethan Neil		Nikita Snezhko	64 57 [5]
 21-97501	1	3	1	1	1	eu24mk		up9nhr		16		Petro Alex		Zack Maline	60 64
-21-98443	1	1	1	2		nfsbmp		nikgsk		SF		Bruno Faletto		Ramiro Rincon	Sat @ 10:45
-21-98443	1	1	1	2		zy9ez0		a3rx7l		SF		Santino Morel		Vincent Thiel	Sat @ 10:45
+21-98443	1	1	1	3		nfsbmp		a3rx7l		F		Bruno Faletto		Vincent Thiel	Sun @ 10:45
+21-98443	1	1	1	2	1	nfsbmp		nikgsk		SF		Bruno Faletto		Ramiro Rincon	63 62
+21-98443	1	1	1	2	1	a3rx7l		zy9ez0		SF		Vincent Thiel		Santino Morel	62 62
 21-98443	1	1	1	1	1	nfsbmp		jbv93d		QF		Bruno Faletto		Bernardo Tajada	60 64
 21-98443	1	1	1	1	1	nikgsk		2u4kss		QF		Ramiro Rincon		Victor De Oliveira	75 06 [6]
 21-98443	1	1	1	1	1	zy9ez0		3m448g		QF		Santino Morel		Raul Safont Martinez	64 75
 21-98443	1	1	1	1	1	a3rx7l		jvl55l		QF		Vincent Thiel		Enrique Martinez	62 61
-21-98443	1	1	2	1		jbv93d		2u4kss		SF		Bernardo Tajada		Victor De Oliveira	Sat @ 10:45
-21-98443	1	1	2	1		3m448g		jvl55l		SF		Raul Safont Martinez		Enrique Martinez	Sat @ 10:45
-21-98443	1	2	1	2		5xqdgz		1v0ze9		SF		Nicolas Bacella		Christian Della Cio…	Sat @ 10:45
-21-98443	1	2	1	2		7ll3pf		ubttx5		SF		Lluc Camps		Ghali Mensour	Sat @ 10:45
+21-98443	1	1	2	2		2u4kss		3m448g		F		Victor De Oliveira		Raul Safont Martinez	Sun @ 10:45
+21-98443	1	1	2	1	1	2u4kss		jbv93d		SF		Victor De Oliveira		Bernardo Tajada	64 63
+21-98443	1	1	2	1	1	3m448g		jvl55l		SF		Raul Safont Martinez		Enrique Martinez	46 75 [5]
+21-98443	1	1	3	1		nikgsk		zy9ez0		F		Ramiro Rincon		Santino Morel	Sun @ 10:45
+21-98443	1	1	4	1		jbv93d		jvl55l		F		Bernardo Tajada		Enrique Martinez	Sun @ 10:45
+21-98443	1	2	1	3		5xqdgz		7ll3pf		F		Nicolas Bacella		Lluc Camps	Sun @ 10:45
+21-98443	1	2	1	2	1	5xqdgz		1v0ze9		SF		Nicolas Bacella		Christian Della Cio…	60 61
+21-98443	1	2	1	2	1	7ll3pf		ubttx5		SF		Lluc Camps		Ghali Mensour	63 63
 21-98443	1	2	1	1	1	5xqdgz		63n1v5		QF		Nicolas Bacella		Filipe Gil	61 61
 21-98443	1	2	1	1	1	1v0ze9		m03od6		QF		Christian Della Cio…		Jacob Turley	75 75
 21-98443	1	2	1	1	1	7ll3pf		ayms2g		QF		Lluc Camps		Thomas Andrews	62 64
 21-98443	1	2	1	1	1	ubttx5		63ph1d		QF		Ghali Mensour		Diego Menendez Vina	61 57 [9]
-21-98443	1	2	2	1		63n1v5		m03od6		SF		Filipe Gil		Jacob Turley	Sat @ 10:45
-21-98443	1	2	2	1		ayms2g		63ph1d		SF		Thomas Andrews		Diego Menendez Vina	Sat @ 10:45
-21-98443	1	3	1	2		nhqhcb		18oaou		SF		Willem van den Akker		Lucas Ribas	Sat @ 12:30
-21-98443	1	3	1	2		bll3pf		1avy5g		SF		Jaewoo Choi		Luis Iriarte	Sat @ 12:30
+21-98443	1	2	2	2		m03od6		63ph1d		F		Jacob Turley		Diego Menendez Vina	Sun @ 10:45
+21-98443	1	2	2	1	1	m03od6		63n1v5		SF		Jacob Turley		Filipe Gil	06 63 [8]
+21-98443	1	2	2	1	1	63ph1d		ayms2g		SF		Diego Menendez Vina		Thomas Andrews	46 63 [7]
+21-98443	1	2	3	1		1v0ze9		ubttx5		F		Christian Della Cio…		Ghali Mensour	Sun @ 10:45
+21-98443	1	2	4	1		63n1v5		ayms2g		F		Filipe Gil		Thomas Andrews	Sun @ 10:45
+21-98443	1	3	1	3		18oaou		1avy5g		F		Lucas Ribas		Luis Iriarte	Sun @ 12:30
+21-98443	1	3	1	2	1	18oaou		nhqhcb		SF		Lucas Ribas		Willem van den Akker	75 63
+21-98443	1	3	1	2	1	1avy5g		bll3pf		SF		Luis Iriarte		Jaewoo Choi	62 60
 21-98443	1	3	1	1	1	nhqhcb		z5fv33		QF		Willem van den Akker		Tyler Glowaki	61 61
 21-98443	1	3	1	1	1	18oaou		3jcz2l		QF		Lucas Ribas		Richard Freemann	60 63
 21-98443	1	3	1	1	1	bll3pf		ftc1ir		QF		Jaewoo Choi		Theodore Preiswerk	61 63
 21-98443	1	3	1	1	1	1avy5g		1n0jux		QF		Luis Iriarte		Juan Patino Pabon	61 60
-21-98443	1	3	2	1		z5fv33		3jcz2l		SF		Tyler Glowaki		Richard Freemann	Sat @ 12:30
-21-98443	1	3	2	1		ftc1ir		1n0jux		SF		Theodore Preiswerk		Juan Patino Pabon	Sat @ 12:30
-21-98443	1	4	1	2		tgbc5q		anfd3l		SF		Kayne Trustfull		Bernardo Gandara	Sat @ 12:30
-21-98443	1	4	1	2		jgbc5q		f8qqu2		SF		Miguel Torrenegra		Corentin Venot	Sat @ 12:30
+21-98443	1	3	2	2		3jcz2l		1n0jux		F		Richard Freemann		Juan Patino Pabon	Sun @ 12:30
+21-98443	1	3	2	1	1	3jcz2l		z5fv33		SF		Richard Freemann		Tyler Glowaki	76(1) 64
+21-98443	1	3	2	1	1	1n0jux		ftc1ir		SF		Juan Patino Pabon		Theodore Preiswerk	62 64
+21-98443	1	3	3	1		nhqhcb		bll3pf		F		Willem van den Akker		Jaewoo Choi	Sun @ 12:30
+21-98443	1	3	4	1		z5fv33		ftc1ir		F		Tyler Glowaki		Theodore Preiswerk	Sun @ 12:30
+21-98443	1	4	1	3		tgbc5q		f8qqu2		F		Kayne Trustfull		Corentin Venot	Sun @ 12:30
+21-98443	1	4	1	2	1	tgbc5q		anfd3l		SF		Kayne Trustfull		Bernardo Gandara	61 61
+21-98443	1	4	1	2	1	f8qqu2		jgbc5q		SF		Corentin Venot		Miguel Torrenegra	61 61
 21-98443	1	4	1	1	1	anfd3l		qhk5un		QF		Bernardo Gandara		Miguel Ferreira	60 62
 21-98443	1	4	1	1	1	f8qqu2		qys4k4		QF		Corentin Venot		William Priddy	62 63
-21-98443	1	4	2	2		qhk5un		qys4k4		F		Miguel Ferreira		William Priddy	Sun @ 12:30
-21-98443	1	5	1	3		2bttx5		xz1x91		R3		Yosue Noa		Miguel Binnios	Sat @ 12:30
-21-98443	1	5	1	3		hvl55l		fv0ze9		R3		Jose Moreno		Jake Edwards	Sat @ 12:30
+21-98443	1	4	2	2	1	qys4k4		qhk5un		F		William Priddy		Miguel Ferreira	61 61
+21-98443	1	4	3	1		anfd3l		jgbc5q		F		Bernardo Gandara		Miguel Torrenegra	Sun @ 12:30
+21-98443	1	5	1	3	1	2bttx5		xz1x91		R3		Yosue Noa		Miguel Binnios	61 63
+21-98443	1	5	1	3	1	hvl55l		fv0ze9		R3		Jose Moreno		Jake Edwards	62 62
 21-98443	1	5	1	2		hvl55l		xz1x91		R2		Jose Moreno		Miguel Binnios	Sun @ 12:30
 21-98443	1	5	1	2		2bttx5		fv0ze9		R2		Yosue Noa		Jake Edwards	Sun @ 12:30
 21-98443	1	5	1	1	1	2bttx5		hvl55l		R1		Yosue Noa		Jose Moreno	36 63 [9]

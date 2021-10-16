@@ -3,9 +3,9 @@ tournaments: 316
 events: 700
 eventsWithDraws: 401
 eventsWithoutDraws: 299
-draws: 1445
-brackets: 3020
-results: 38549
+draws: 1454
+brackets: 3029
+results: 38701
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00186	1	1	1	M	Men's Open Singles	Division II	East	16,QF,SF,F	15
@@ -532,6 +532,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-08423	1	3	1	M	Men's Open Singles	Back Draw Day 2	Main	64,32,16,QF,SF,F	63
 21-08423	2	1	1	M	Men's Open Doubles	Main Draw Doubles	Main	32,16,QF,SF,F	31
 21-08423	2	1	2	M	Men's Open Doubles	Main Draw Doubles	Consolation	16Q,16,QF,SF,F	23
+21-08423	2	2	1	M	Men's Open Doubles	Backdraw Doubles	Main	32,16,QF,SF,F	31
 21-08428	1	1	1	M	Men's Open Singles	A Singles Draw	East	16,QF,SF,F	15
 21-08428	1	1	2	M	Men's Open Singles	A Singles Draw	West	QF,SF,F	7
 21-08428	1	1	3	M	Men's Open Singles	A Singles Draw	North	SF,F	3
@@ -1194,6 +1195,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-27355	1	3	6	M	Men's Open Singles	Draw C	Southwest	F	1
 21-27355	1	3	7	M	Men's Open Singles	Draw C	Northwest	F	1
 21-27355	1	3	8	M	Men's Open Singles	Draw C	Southeast	F	1
+21-27355	1	4	1	M	Men's Open Singles	Draw C (Alternate)	Main	SF,F	3
+21-27355	1	4	2	M	Men's Open Singles	Draw C (Alternate)	Consolation	FQ,F	2
 21-27355	2	1	1	M	Men's Open Doubles	Doubles A	East	QF,SF,F	7
 21-27355	2	1	2	M	Men's Open Doubles	Doubles A	West	SF,F	3
 21-27355	2	1	3	M	Men's Open Doubles	Doubles A	3-4 Playoff	F	1
@@ -1641,9 +1644,13 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-41868	1	1	1	M	Men's Open Singles	Utc/ttu	Main	64,32,16,QF,SF,F	63
 21-41868	1	2	1	M	Men's Open Singles	Utc/una	Main	16,QF,SF,F	15
 21-41868	1	3	1	M	Men's Open Singles	Bel/gaso	Main	16,QF,SF,F	15
+21-41868	1	4	1	M	Men's Open Singles	Utc/apsu	Main	64,32,16,QF,SF,F	63
+21-41868	1	5	1	M	Men's Open Singles	Ttu/bel	Main	16,QF,SF,F	15
+21-41868	1	6	1	M	Men's Open Singles	Gaso/una	Main	16,QF,SF,F	15
 21-41868	2	1	1	M	Men's Open Doubles	Utc/ttu	Main	QF,SF,F	7
 21-41868	2	2	1	M	Men's Open Doubles	Utc/una	Main	QF,SF,F	7
 21-41868	2	3	1	M	Men's Open Doubles	Gsu/bel	Main	16,QF,SF,F	15
+21-41868	2	4	1	M	Men's Open Doubles	Utc/apsu	Main	QF,SF,F	7
 21-41928	1	1	1	W	Women's Open Singles	HD Singles 1	Main	32,16,QF,SF,F	31
 21-41928	1	2	1	W	Women's Open Singles	HD singles 2	Main	32,16,QF,SF,F	31
 21-41928	1	3	1	W	Women's Open Singles	HD singles 3	Main	32,16,QF,SF,F	31
@@ -2757,6 +2764,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-82907	1	2	1	W	Women's Open Singles	JMU v PSU	Main	16,QF,SF,F	15
 21-82907	1	3	1	W	Women's Open Singles	Extra Matches Day 1	Main	F	1
 21-82907	1	4	1	W	Women's Open Singles	PSU v Louisville	Main	16,QF,SF,F	15
+21-82907	1	5	1	W	Women's Open Singles	WVU v JMU	Main	16,QF,SF,F	15
+21-82907	1	6	1	W	Women's Open Singles	Extra Matches Day 2	Main	F	1
 21-82907	2	1	1	W	Women's Open Doubles	WVU v JMU	Main	QF,SF,F	7
 21-82907	2	2	1	W	Women's Open Doubles	Louisville v PSU	Main	QF,SF,F	7
 21-82907	2	3	1	W	Women's Open Doubles	WVU v PSU	Main	QF,SF,F	7
