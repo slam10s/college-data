@@ -1,9 +1,9 @@
 ---
-tournaments: 170
-players: 3573
-matches: 3083
-completed: 3027
-scheduled: 56
+tournaments: 171
+players: 3588
+matches: 3100
+completed: 3037
+scheduled: 63
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	4	1	1	3		umlenc	bhk5un	nouia6	vv0ze9	SF		Moosbacher/Farfan		Kozar/Dovnik	Sat @ 13:30
@@ -1947,6 +1947,23 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-50226	2	18	1	1	1	p5upcr	hmhibw	qefmlc	7ejixs	F		Almiron/Bukina		Haagensen/Stepan	61
 21-50226	2	19	1	1	1	2w2qie	b0187y	wrz1jh	yfyn4d	F		Zdravkovic/Ochotore…		Gaskell/Walczak	75
 21-50226	2	20	1	1	1	1obsp2	hz1x91	38709y	n77pb1	F		Heinitz/Bowles		Skobkareva/Girbau	64
+21-50227	2	1	1	3	1	9rk7at	knu7c9	ug50n2	2wj0xa	R3		Sakurai/Albersmeier		Barloe/Stefan	76(4)
+21-50227	2	1	1	3	1	1wj0xa	rimwys	65w5iz	9rk7at	R3		Tarajova/Velkoska		Espinal/Sakurai	64
+21-50227	2	1	1	2		1wj0xa	rimwys	9rk7at	knu7c9	R2		Tarajova/Velkoska		Sakurai/Albersmeier	
+21-50227	2	1	1	2		ug50n2	2wj0xa	65w5iz	9rk7at	R2		Barloe/Stefan		Espinal/Sakurai	
+21-50227	2	1	1	1	1	1wj0xa	rimwys	ug50n2	2wj0xa	R1		Tarajova/Velkoska		Barloe/Stefan	60
+21-50227	2	1	1	1		9rk7at	knu7c9	65w5iz	9rk7at	R1		Sakurai/Albersmeier		Espinal/Sakurai	
+21-50227	2	2	1	3	1	tlnjvn	rq5238	rbrdrx	th1f9j	R3		Hesham/Mintusova		Hlacikova/Barriga	76(4)
+21-50227	2	2	1	2		feh2rk	65w5iz	rbrdrx	th1f9j	R2		Niedzialowski/Espin…		Hlacikova/Barriga	
+21-50227	2	2	1	1	1	p9i943	rbrdrx	feh2rk	i6q4y8	R1		Lai/Hlacikova		Niedzialowski/Aubin	64
+21-50227	2	2	1	1	1	tlnjvn	rq5238	feh2rk	65w5iz	R1		Hesham/Mintusova		Niedzialowski/Espin…	62
+21-50227	2	3	1	3	1	0ur6pc	0e28iw	tkca0i	abv93d	R3		Shikanova/Valeeva		Perez/Spencer	64
+21-50227	2	3	1	3		33ph1d	2q7i9g	k0xcvi	2q7i9g	R3		Ondo/Steif		Campbell/Steif	
+21-50227	2	3	1	2	1	33ph1d	2q7i9g	0ur6pc	0e28iw	R2		Ondo/Steif		Shikanova/Valeeva	75
+21-50227	2	3	1	2	1	tkca0i	abv93d	k0xcvi	2q7i9g	R2		Perez/Spencer		Campbell/Steif	76(3)
+21-50227	2	3	1	1		33ph1d	2q7i9g	tkca0i	abv93d	R1		Ondo/Steif		Perez/Spencer	
+21-50227	2	3	1	1		0ur6pc	0e28iw	k0xcvi	2q7i9g	R1		Shikanova/Valeeva		Campbell/Steif	
+21-50227	2	4	1	1	1	33ph1d	i6q4y8	781ora	lofo1i	F		Ondo/Aubin		Cheema/Sexton	76(6)
 21-50278	2	1	1	1	1	3avy5g	3ny3op	5gu2qu	e6sk4g	QF		Harvision/Krywoj		Ziouti/Fry	62
 21-50278	2	1	1	1	1	09x3dr	oeh2rk	kiza18	o6dqvs	QF		Baranano/Malm		Iglupas/Meraz	76(3)
 21-50278	2	1	1	1	1	k4yaqa	f501uf	axffjr	khqhcb	QF		Armistead/Prelle		Thompson/Zamburek	61
