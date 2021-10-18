@@ -1,11 +1,11 @@
 ---
-tournaments: 316
-events: 700
-eventsWithDraws: 402
-eventsWithoutDraws: 298
-draws: 1465
-brackets: 3042
-results: 38826
+tournaments: 317
+events: 704
+eventsWithDraws: 405
+eventsWithoutDraws: 299
+draws: 1473
+brackets: 3049
+results: 39123
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00186	1	1	1	M	Men's Open Singles	Division II	East	16,QF,SF,F	15
@@ -1644,6 +1644,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-41355	2	1	6	M	Men's Open Doubles	Draw	Southwest	F	1
 21-41355	2	1	7	M	Men's Open Doubles	Draw	Northwest	F	1
 21-41355	2	1	8	M	Men's Open Doubles	Draw	Southeast	F	1
+21-41693	1			M	Men's Open Singles				
+21-41693	2			W	Women's Open Singles				
+21-41693	3			M	Men's Open Doubles				
+21-41693	4			W	Women's Open Doubles				
 21-41868	1	1	1	M	Men's Open Singles	Utc/ttu	Main	64,32,16,QF,SF,F	63
 21-41868	1	2	1	M	Men's Open Singles	Utc/una	Main	16,QF,SF,F	15
 21-41868	1	3	1	M	Men's Open Singles	Bel/gaso	Main	16,QF,SF,F	15
@@ -2046,8 +2050,12 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-56790	3			M	Men's Open Doubles				
 21-57375	1			W	Women's Open Singles				
 21-57375	2			W	Women's Open Doubles				
-21-58015	1			W	Women's Open Singles				
-21-58015	2			W	Women's Open Doubles				
+21-58015	1	1	1	W	Women's Open Singles	Round A	Main	64,32,16,QF,SF,F	63
+21-58015	1	2	1	W	Women's Open Singles	Round B	Main	64,32,16,QF,SF,F	63
+21-58015	1	3	1	W	Women's Open Singles	Round C	Main	64,32,16,QF,SF,F	63
+21-58015	2	1	1	W	Women's Open Doubles	Round A	Main	32,16,QF,SF,F	31
+21-58015	2	2	1	W	Women's Open Doubles	Round B	Main	32,16,QF,SF,F	31
+21-58015	2	3	1	W	Women's Open Doubles	round C	Main	32,16,QF,SF,F	31
 21-59010	1	2	1	M	Men's Open Singles	Singles Main	Main	128,64,32,16,QF,SF,F	127
 21-59010	1	2	2	M	Men's Open Singles	Singles Main	Consolation	64Q,64,32,16,QF,SF,F	95
 21-59010	1	101	1	M	Men's Open Singles	Singles Qualifiers	Main	128,64,32,16,QF,SF,F	127
@@ -2915,7 +2923,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-91236	1	6	1	M	Men's Open Singles	EIU-Lewis	Main	R1,R2,R3	18
 21-91236	2			M	Men's Open Doubles				
 21-91243	1	1	1	W	Women's Open Singles	Round of 32	Main	32,16,QF,SF,F	31
-21-91243	2			W	Women's Open Doubles				
+21-91243	2	1	1	W	Women's Open Doubles	Draw	Main	16,QF,SF,F	15
 21-91278	1			M	Men's Open Singles				
 21-91278	2			M	Men's Open Doubles				
 21-91551	1			W	Women's Open Singles				

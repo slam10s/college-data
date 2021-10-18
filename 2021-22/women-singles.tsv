@@ -1,9 +1,9 @@
 ---
-tournaments: 183
-players: 4009
-matches: 7606
-completed: 7570
-scheduled: 36
+tournaments: 184
+players: 4017
+matches: 7673
+completed: 7641
+scheduled: 32
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	2	1	1	4	1	fowyge		grgbyd		F	2	Stephanie Petit	1	Nicole Coopersmith	75 46 64
@@ -3060,10 +3060,10 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-32364	1	4	5	2	1	e7blnh		ap9nhr		F		Sonia Skobkareva		Varvara Ogorodnikova	61 63
 21-32364	1	4	6	1	1	s5hb9b		vgma2y		F		Kelsey Neville		Yulia Almiron	Walkover
 21-32364	1	4	7	1	1	weugu0		rwwe0q		F		Laura Arce Vieyra		Brooke Covington	63 62
-21-32447	1	2	1	4		xjajwd		zsaaem		QF	1	Emmanouela Antonaki	10	Ena Babic	Sun @ 14:00
-21-32447	1	2	1	4		j7ozqx		8put83		QF	4	Tiphanie Fiquet		Reka Zadori	Sun @ 14:00
-21-32447	1	2	1	4		zo9cju		o0kys2		QF	5	Safiya Carrington	16	Tamara Racine	Sun @ 14:00
-21-32447	1	2	1	4		d0emae		apb3nz		QF	8	Ariana Arseneault		Petra Sedlackova	Sun @ 14:00
+21-32447	1	2	1	4	1	xjajwd		zsaaem		QF	1	Emmanouela Antonaki	10	Ena Babic	63 36 61
+21-32447	1	2	1	4	1	j7ozqx		8put83		QF	4	Tiphanie Fiquet		Reka Zadori	63 62
+21-32447	1	2	1	4	1	zo9cju		o0kys2		QF	5	Safiya Carrington	16	Tamara Racine	64 75
+21-32447	1	2	1	4	1	apb3nz		d0emae		QF		Petra Sedlackova	8	Ariana Arseneault	64 63
 21-32447	1	2	1	3	1	xjajwd		jjcz2l		16	1	Emmanouela Antonaki		Adeline Flach	75 75
 21-32447	1	2	1	3	1	zsaaem		c7mjkp		16	10	Ena Babic	7	Georgie Axon	62 46 76(5)
 21-32447	1	2	1	3	1	j7ozqx		p3llpx		16	4	Tiphanie Fiquet	11	Loudmilla Bencheikh	62 57 61
@@ -4256,6 +4256,8 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-43987	1	2	1	1	1	7nfd3l		j5fv33		32		Elin Hellberg		Evelin Gouveia	60 60
 21-43987	1	2	1	1	1	e7qfw5		4wdofm		32		Maria Jardim		Sally Brannon	60 61
 21-43987	1	2	1	1	1	yll3pf		quawag		32		MaryWynn Brannon		Katie Watts	75 63
+21-46458	1	2	1	5	1	4dj7zv		hhml0v		SF	12	Petra Hule	9	Evgeniya Levashova	46 64 60
+21-46458	1	2	1	5	1	9zoj6l		n4jghm		SF	16	Mell Reasco	15	Ania Hertel	62 62
 21-46458	1	2	1	4	1	hhml0v		4aeoqk		QF	9	Evgeniya Levashova	1	Meg Kowalski	64 57 61
 21-46458	1	2	1	4	1	4dj7zv		zi1q7g		QF	12	Petra Hule		Marie Mattel	64 67(3) 75
 21-46458	1	2	1	4	1	9zoj6l		f3n1v5		QF	16	Mell Reasco		Catherine Gulihur	Walkover
@@ -5145,6 +5147,68 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-54831	1	4	1	1	1	a1xntf		rjx5tx		128		Amber ODell		Hope Moulin	63 63
 21-54831	1	4	1	1	1	q40qwi		4zm30d		128		Lisa Fukutoku		Nicole Kiefer	62 26 [6]
 21-54831	1	4	1	1	1	z6ywm4		rac8kc		128		Alesya Yakubovich		Emma Fernald	64 57 [8]
+21-58015	1	1	1	1	1	2st0zq		8qosoc		64		Emma Brogan		Ryan Peus	53 42
+21-58015	1	1	1	1	1	1yo88o		v81ora		64		Caitlin Fisher		Alexandra Benedetto	45(4) 42 [8]
+21-58015	1	1	1	1	1	3eh2rk		7ejixs		64		Olivia Mariotti		Isabella Steffen	41 54(4)
+21-58015	1	1	1	1	1	oyo88o		dunadw		64		Gabriella Dellacono		Taylor Gould	42 40
+21-58015	1	1	1	1	1	foyemm		0hk5un		64		Selena Williams		Chloe Floyd	14 53 [1]
+21-58015	1	1	1	1	1	ic42sa		ikpo3y		64		Valentina Cvackova		Victoria Carlsten	54(5) 14 [8]
+21-58015	1	1	1	1	1	migkg4		bl8pmz		64		Erica Di Battista		Nadia Rajan	42 24 [6]
+21-58015	1	1	1	1	1	ayqoew		t69ujc		64		Emily Kim		Erin Chratian	41 40
+21-58015	1	1	1	1	1	5hqhcb		yxbj7b		64		Shelly Yaloz		Tiara Higuchi	42 42
+21-58015	1	1	1	1	1	zh1f9j		lp9nhr		64		Sydney Chratian		Stephanie Nguyen	14 42 [7]
+21-58015	1	1	1	1	1	vi36do		dxu9sf		64		Sydney Sharma		Paulina Loredo	40 40
+21-58015	1	1	1	1	1	i1trhz		s34ba1		64		Vivian Cheng		Renata Farima	42 14 [8]
+21-58015	1	1	1	1	1	085k3q		mkauua		64		Anna Napadiy		Jamie Kim	53 14 [8]
+21-58015	1	1	1	1	1	ud2xkz		a36rg9		64		Raissa Lou		Mariya Krasakova	41 41
+21-58015	1	1	1	1	1	98qqu2		42t2fw		64		Kathy Wang		Vitoria Okuyama	14 42 [7]
+21-58015	1	1	1	1	1	5g7gta		vndxxd		64		Nicole Gillinov		Dylan Cannon	14 42 [8]
+21-58015	1	1	1	1	1	p1itkr		b69ujc		64		Katie Weber		Julieanne Bou	54(6) 40
+21-58015	1	1	1	1	1	1brdrx		nl4taj		64		Leonie Hoppe		Elizabeth Fahrmeier	04 42 [2]
+21-58015	1	1	1	1	1	b7ozqx		w9i943		64		Lexi Dewire		Aleksandra Karamysh…	54(2) 54(3)
+21-58015	1	1	1	1	1	rag4ws		hgsmkm		64		Isabel Petri-Bere		Jingyi Peng	41 42
+21-58015	1	1	1	1	1	ihml0v		e5jrfj		64		Denise Lai		Ameliija Swaffer-Se…	42 45(3) [11]
+21-58015	1	1	1	1	1	m36rg9		pgbc5q		64		Ujvala Jupalli		Selen Takunyaci	42 41
+21-58015	1	2	1	1	1	v81ora		ikpo3y		64		Alexandra Benedetto		Victoria Carlsten	42 14 [8]
+21-58015	1	2	1	1	1	migkg4		8qosoc		64		Erica Di Battista		Ryan Peus	54(4) 53
+21-58015	1	2	1	1	1	ayqoew		3eh2rk		64		Emily Kim		Olivia Mariotti	24 41 [8]
+21-58015	1	2	1	1	1	5hqhcb		oyo88o		64		Shelly Yaloz		Gabriella Dellacono	41 40
+21-58015	1	2	1	1	1	lmysqs		536rg9		64		Addison Ahlstrom		Sofia Kostirko	40 41
+21-58015	1	2	1	1	1	vi36do		foyemm		64		Sydney Sharma		Selena Williams	40 40
+21-58015	1	2	1	1	1	2st0zq		bl8pmz		64		Emma Brogan		Nadia Rajan	04 53 [4]
+21-58015	1	2	1	1	1	1yo88o		ic42sa		64		Caitlin Fisher		Valentina Cvackova	24 41 [4]
+21-58015	1	2	1	1	1	yxbj7b		7ejixs		64		Tiara Higuchi		Isabella Steffen	40 53
+21-58015	1	2	1	1	1	dxu9sf		dunadw		64		Paulina Loredo		Taylor Gould	41 53
+21-58015	1	2	1	1	1	p1itkr		i1trhz		64		Katie Weber		Vivian Cheng	42 40
+21-58015	1	2	1	1	1	b7ozqx		mkauua		64		Lexi Dewire		Jamie Kim	40 Ret.
+21-58015	1	2	1	1	1	ud2xkz		m36rg9		64		Raissa Lou		Ujvala Jupalli	04 42 [5]
+21-58015	1	2	1	1	1	98qqu2		nl4taj		64		Kathy Wang		Elizabeth Fahrmeier	41 40
+21-58015	1	2	1	1	1	5g7gta		hgsmkm		64		Nicole Gillinov		Jingyi Peng	41 42
+21-58015	1	2	1	1	1	e5jrfj		pgbc5q		64		Ameliija Swaffer-Se…		Selen Takunyaci	53 42
+21-58015	1	2	1	1	1	085k3q		b69ujc		64		Anna Napadiy		Julieanne Bou	42 41
+21-58015	1	2	1	1	1	1brdrx		s34ba1		64		Leonie Hoppe		Renata Farima	40 14 [6]
+21-58015	1	2	1	1	1	42t2fw		w9i943		64		Vitoria Okuyama		Aleksandra Karamysh…	42 41
+21-58015	1	2	1	1	1	rag4ws		vndxxd		64		Isabel Petri-Bere		Dylan Cannon	42 14 [5]
+21-58015	1	2	1	1	1	a36rg9		ihml0v		64		Mariya Krasakova		Denise Lai	40 42
+21-58015	1	3	1	1	1	migkg4		i1trhz		64		Erica Di Battista		Vivian Cheng	61 63
+21-58015	1	3	1	1	1	ud2xkz		ikpo3y		64		Raissa Lou		Victoria Carlsten	76(5) 67(5) [8]
+21-58015	1	3	1	1	1	98qqu2		ayqoew		64		Kathy Wang		Emily Kim	63 64
+21-58015	1	3	1	1	1	vi36do		5g7gta		64		Sydney Sharma		Nicole Gillinov	63 46 [5]
+21-58015	1	3	1	1	1	ic42sa		a36rg9		64		Valentina Cvackova		Mariya Krasakova	61 64
+21-58015	1	3	1	1	1	bl8pmz		vndxxd		64		Nadia Rajan		Dylan Cannon	36 64 [6]
+21-58015	1	3	1	1	1	s34ba1		t69ujc		64		Renata Farima		Erin Chratian	63 46 [5]
+21-58015	1	3	1	1	1	085k3q		yxbj7b		64		Anna Napadiy		Tiara Higuchi	63 75
+21-58015	1	3	1	1	1	zh1f9j		42t2fw		64		Sydney Chratian		Vitoria Okuyama	26 64 [7]
+21-58015	1	3	1	1	1	p1itkr		v81ora		64		Katie Weber		Alexandra Benedetto	63 26 [4]
+21-58015	1	3	1	1	1	b7ozqx		8qosoc		64		Lexi Dewire		Ryan Peus	63 64
+21-58015	1	3	1	1	1	nl4taj		3eh2rk		64		Elizabeth Fahrmeier		Olivia Mariotti	64 26 [9]
+21-58015	1	3	1	1	1	lmysqs		e5jrfj		64		Addison Ahlstrom		Ameliija Swaffer-Se…	62 61
+21-58015	1	3	1	1	1	oyo88o		m36rg9		64		Gabriella Dellacono		Ujvala Jupalli	62 63
+21-58015	1	3	1	1	1	hgsmkm		foyemm		64		Jingyi Peng		Selena Williams	63 62
+21-58015	1	3	1	1	1	2st0zq		b69ujc		64		Emma Brogan		Julieanne Bou	61 61
+21-58015	1	3	1	1	1	1brdrx		1yo88o		64		Leonie Hoppe		Caitlin Fisher	85
+21-58015	1	3	1	1	1	w9i943		7ejixs		64		Aleksandra Karamysh…		Isabella Steffen	61 64
+21-58015	1	3	1	1	1	ihml0v		0hk5un		64		Denise Lai		Chloe Floyd	75 63
 21-59818	2	1	1	5	1	d7595t		3hml0v		F	1	Jou Chen Chen	2	Grace Krusling	46 60 62
 21-59818	2	1	1	4	1	d7595t		mktkfe		SF	1	Jou Chen Chen		Alexandra Mille	62 61
 21-59818	2	1	1	4	1	3hml0v		3st0zq		SF	2	Grace Krusling		Ellie Black	75 62
@@ -6985,10 +7049,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-87840	1	1	1	1	1	536rg9		r3ansp		32		Sofia Kostirko		Chloe Yoo	64 64
 21-87840	1	1	1	1	1	lp9nhr		m36rg9		32		Stephanie Nguyen		Ujvala Jupalli	63 63
 21-87840	1	1	1	1	1	vi36do		e5jrfj		32		Sydney Sharma		Ameliija Swaffer-Se…	60 64
+21-91243	1	1	1	4	1	t2rm9o		lm2o28		SF		Victoria Hu		Viktoryia Kanapatsk…	62 61
 21-91243	1	1	1	3	1	t2rm9o		mu8g48		QF		Victoria Hu		Sabine Rutlauka	62 46 64
+21-91243	1	1	1	3	1	lm2o28		3iza18		QF		Viktoryia Kanapatsk…		Jessie Gong	75 61
 21-91243	1	1	1	3	1	r34ba1		8talcj		QF		Daria Frayman		Chelsea Kung	64 75
 21-91243	1	1	1	2	1	t2rm9o		otvr3v		16		Victoria Hu		Kaitlin Tan	76(2) 61
 21-91243	1	1	1	2	1	mu8g48		o7ub8l		16		Sabine Rutlauka		Sasha Wood	36 63 61
+21-91243	1	1	1	2	1	lm2o28		xn2z05		16		Viktoryia Kanapatsk…		Neha Velaga	16 76(5) 76(5)
 21-91243	1	1	1	2	1	3iza18		im2o28		16		Jessie Gong		Lorie Lemongo	63 75
 21-91243	1	1	1	2	1	hazuhw		heh2rk		16		Brianna Shvets		Lan Mi	75 62
 21-91243	1	1	1	2	1	8talcj		4qkwcw		16		Chelsea Kung		Maxi Duncan	64 36 63

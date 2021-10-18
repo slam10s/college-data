@@ -1,9 +1,9 @@
 ---
-tournaments: 183
+tournaments: 184
 players: 3696
-matches: 6944
-completed: 6936
-scheduled: 8
+matches: 6952
+completed: 6947
+scheduled: 5
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	1	1	1	4	1	ebcji9		7clc76		F	1	Alvaro Regalado		Joaquin Benoit	62 62
@@ -2163,6 +2163,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-26119	1	8	1	3	1	ocropu		nv0ze9		R3		Win Steveker		Gabriel Constantino	63 63
 21-26119	1	8	1	3	1	uur6pc		km448g		R3		Alejandro Solares		Hugo Regner	62 63
 21-26119	1	8	1	2	1	km448g		fz1x91		R2		Hugo Regner		Edoardo Cecere	64 67(1) [7]
+21-27355	1	1	1	4	1	aaase4		dd6twf		F		Michael Andre		Yasha Zemel	63 75
 21-27355	1	1	1	3	1	dd6twf		bszche		SF		Yasha Zemel		Pawit Sornlaksup	16 62 63
 21-27355	1	1	1	3	1	aaase4		i3n1v5		SF		Michael Andre		Josh Howard-Tripp	76(6) Ret.
 21-27355	1	1	1	2	1	dd6twf		n462e6		QF		Yasha Zemel		Luka Vukovic	76(7) 61
@@ -2184,6 +2185,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-27355	1	1	2	1	1	mlnjvn		0g9wzi		QF		Piotr Galus		Jj Mercer	Walkover
 21-27355	1	1	3	1	1	n462e6		nv2fkh		SF		Luka Vukovic		Yusuf Khamis	61 64
 21-27355	1	1	5	1	1	99kpab		abrdrx		SF		Rohan Sachdev		Marko Galic	46 63 [7]
+21-27355	1	2	1	4	1	2ofo1i		b0g2gm		F		Ilya Tiraspolsky		Tomasz Dudek	60 46 61
 21-27355	1	2	1	3	1	b0g2gm		h93fvf		SF		Tomasz Dudek		Jonathan Sorbo	61 63
 21-27355	1	2	1	3	1	2ofo1i		i9m5gj		SF		Ilya Tiraspolsky		Alex Wesbrooks	62 63
 21-27355	1	2	1	2	1	h93fvf		5xdzdj		QF		Jonathan Sorbo		Julen Morgan	61 Ret.
@@ -2198,16 +2200,20 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-27355	1	2	1	1	1	oaeoqk		4b8n6t		16		Francisco Lamas		Milledge Cossu	75 61
 21-27355	1	2	1	1	1	8aeoqk		arir4l		16		Alexandre LeBlanc		Adam Kovac	62 36 [7]
 21-27355	1	2	1	1	1	i9m5gj		w6f610		16		Alex Wesbrooks		Jagger Saylor	62 61
+21-27355	1	2	2	3	1	f6f610		arir4l		F		Vikash Singh		Adam Kovac	62 64
 21-27355	1	2	2	2	1	f6f610		n3rx7l		SF		Vikash Singh		Cole Shoults	63 61
 21-27355	1	2	2	2	1	arir4l		jbcji9		SF		Adam Kovac		Paul Reynolds	61 63
 21-27355	1	2	2	1	1	n3rx7l		ytpfl7		QF		Cole Shoults		Jack Batchelor	62 64
 21-27355	1	2	2	1	1	f6f610		n0iimu		QF		Vikash Singh		Simeon Kostov	61 62
 21-27355	1	2	2	1	1	jbcji9		4b8n6t		QF		Paul Reynolds		Milledge Cossu	64 Ret.
 21-27355	1	2	2	1	1	arir4l		w6f610		QF		Adam Kovac		Jagger Saylor	76 61
+21-27355	1	2	3	2	1	q91zp7		8aeoqk		F		David Mizrahi		Alexandre LeBlanc	63 67(4) [6]
 21-27355	1	2	3	1	1	q91zp7		5xdzdj		SF		David Mizrahi		Julen Morgan	Walkover
 21-27355	1	2	3	1	1	8aeoqk		oaeoqk		SF		Alexandre LeBlanc		Francisco Lamas	75 62
+21-27355	1	2	4	1	1	i9m5gj		h93fvf		F		Alex Wesbrooks		Jonathan Sorbo	26 64 [9]
 21-27355	1	2	5	1	1	n0iimu		w6f610		SF		Simeon Kostov		Jagger Saylor	67(6) 62 [7]
 21-27355	1	2	5	1	1	ytpfl7		4b8n6t		SF		Jack Batchelor		Milledge Cossu	Walkover
+21-27355	1	2	6	1	1	jbcji9		n3rx7l		F		Paul Reynolds		Cole Shoults	60 75
 21-27355	1	3	1	2	1	cxy54v		wv4vqp		QF		Michal Wozniak		Mac Rogers	62 61
 21-27355	1	3	1	2	1	caik20		b2p63g		QF		Sebastian Welch		Nishanth Basavareddy	62 63
 21-27355	1	3	1	2	1	dcropu		x40qwi		QF		Wojciech Szczesny		Xavier Ecarma	46 75 64
@@ -2218,9 +2224,11 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-27355	1	3	1	1	1	icropu		i1xntf		16		Kyle Tang		Vlad Meluta	60 60
 21-27355	1	3	2	2	1	omhibw		i1xntf		SF		Emil Berglund		Vlad Meluta	62 57 [7]
 21-27355	1	3	2	2	1	8xu9sf		31z3zn		SF		Juan Lombisano		Michael Staff	64 64
+21-27355	1	3	3	2	1	b2p63g		x40qwi		F		Nishanth Basavareddy		Xavier Ecarma	64 60
 21-27355	1	3	3	1	1	x40qwi		wv4vqp		SF		Xavier Ecarma		Mac Rogers	64 61
 21-27355	1	3	3	1	1	b2p63g		kmnutk		SF		Nishanth Basavareddy		Andre Suzanne	75 61
 21-27355	1	3	6	1	1	31z3zn		i1xntf		F		Michael Staff		Vlad Meluta	64 75
+21-27355	1	4	1	2	1	caik20		icropu		F		Sebastian Welch		Kyle Tang	61 75
 21-27355	1	4	1	1	1	caik20		dcropu		SF		Sebastian Welch		Wojciech Szczesny	64 46 64
 21-27355	1	4	1	1	1	icropu		cxy54v		SF		Kyle Tang		Michal Wozniak	61 61
 21-27918	1	1	1	4	1	g69ujc		7gbc5q		F	1	Tristan Bradley	2	Rishabh Sharda	62 61
@@ -3383,10 +3391,10 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-56169	1	4	1	1	1	ybpxlp		gqkwcw		32		Filip Bazant		Oliver Davey	64 46 [9]
 21-56169	1	4	1	1	1	g9gtyv		zxstm7		32		Colin Corsini		Mathius Dessureau	64 61
 21-56169	1	4	1	1	1	zwhkr2		sqkwcw		32		Joe Ocker		Michael Francis	61 61
-21-59010	1	2	1	5		ahipof		kejixs		QF	16	Juan Carlos Aguilar	9	Noah Schachter	Sun @ 13:00
-21-59010	1	2	1	5		hxu9sf		s4h0be		QF	4	Alexander Jong	5	Micah Braswell	Sun @ 13:00
+21-59010	1	2	1	5	1	ahipof		kejixs		QF	16	Juan Carlos Aguilar	9	Noah Schachter	61 26 76(5)
+21-59010	1	2	1	5	1	s4h0be		hxu9sf		QF	5	Micah Braswell	4	Alexander Jong	64 75
 21-59010	1	2	1	5	1	uu4kss		41gdej		QF	3	Luc Fomba		Raphael Perot	62 64
-21-59010	1	2	1	5		c6u0ao		uw2qie		QF	7	Sven Lah	2	Pedro Vives Marcos	Sun @ 13:00
+21-59010	1	2	1	5	1	c6u0ao		uw2qie		QF	7	Sven Lah	2	Pedro Vives Marcos	36 62 64
 21-59010	1	2	1	4	1	ahipof		1ulu7o		16	16	Juan Carlos Aguilar	1	Adrian Boitan	64 64
 21-59010	1	2	1	4	1	kejixs		m2p63g		16	9	Noah Schachter	8	Richard Ciamarra	76(4) 62
 21-59010	1	2	1	4	1	hxu9sf		nbttx5		16	4	Alexander Jong		Adam Neff	61 75
