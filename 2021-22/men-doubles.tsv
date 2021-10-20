@@ -1,8 +1,8 @@
 ---
-tournaments: 190
+tournaments: 191
 players: 3782
-matches: 3271
-completed: 3271
+matches: 3287
+completed: 3287
 scheduled: 0
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -183,6 +183,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-04953	3	5	1	1	1	nndxxd	yl8pmz	u40qwi	xbv93d	SF		Bernardi/Olivier		Cruz/Toledo	76(6)
 21-04953	3	6	1	1	1	6gu2qu	gavy5g	cfsbmp	kg9wzi	SF		Wesbrooks/Fung		Fischer/Mesquida	61
 21-04953	3	6	1	1	1	7fw7y5	103od6	4axebo	jszche	SF		Penny/Salas Tulla		Mizrahi/Tang	63
+21-05800	2	1	1	5	1	cwdofm	r7qfw5	p3ph1d	ogu2qu	F	3	Chaudhary/Kopczynski		Morgan/Torres	62 62
 21-05800	2	1	1	4	1	p3ph1d	ogu2qu	yii0mc	lnht9t	SF		Morgan/Torres	7	Keki/Maior	64 16 [8]
 21-05800	2	1	1	4	1	cwdofm	r7qfw5	v5fv33	kfw7y5	SF	3	Chaudhary/Kopczynski	2	Huynh/Ricklis	61 64
 21-05800	2	1	1	3	1	p3ph1d	ogu2qu	tbcji9	e7ub8l	QF		Morgan/Torres	1	Reckow/Watt	67(4) 64 [3]
@@ -886,7 +887,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-21828	3	1	1	2	1	2rk7at	5501uf	rwf4lu	jscqku	16		Pelletti/Pessoa		Glowaki/De Oliveira	84
 21-21828	3	1	1	2	1	rbttx5	tm08w0	q2vil4	93ansp	16		Nouws/den Hartog		Tajada/Turley	98(4)
 21-21828	3	1	1	2	1	cjt9hh	etvr3v	hq16rs	v5w5iz	16	4	Barbon/Stepanov		Chiaradia/Figuiere	81
-21-21828	3	1	1	2	1	zupqj4	kd4dq7	qgoq86	jv0ze9	16	3	Marrero/Orevad		Freemann/Ferreira	83
+21-21828	3	1	1	2	1	zupqj4	kd4dq7	qgoq86	jv0ze9	16	3	Marrero/Orevad		Hartmann/Ferreira	83
 21-21828	3	1	1	2	1	wcp8jm	m1xntf	99x3dr	ng9wzi	16		Navrotchi/Mochizuki		Binnios/Nicolau Fer…	82
 21-21828	3	1	1	2	1	it856b	x1xntf	elrf73	emnutk	16		Della Cioppa/Menend…		Safont Martinez/Tab…	85
 21-21828	3	1	1	2	1	b81ora	o52h0n	zbcji9	mlpz1v	16	2	Barrios/Zick		Preiswerk/Martinez	86
@@ -898,7 +899,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-21828	3	1	1	1	1	hq16rs	v5w5iz	4jef8t	muawag	32		Chiaradia/Figuiere		Lopez Cruz/Tryakshin	86
 21-21828	3	1	1	1	1	cjt9hh	etvr3v	ejcz2l	9xu9sf	32	4	Barbon/Stepanov		Fererr/Landaluce	85
 21-21828	3	1	1	1	1	zupqj4	kd4dq7	2wj0xa	6jibk9	32	3	Marrero/Orevad		Smulski/Torrenegra	82
-21-21828	3	1	1	1	1	qgoq86	jv0ze9	3lpz1v	iwhkr2	32		Freemann/Ferreira		Nunez/Mariot	Walkover
+21-21828	3	1	1	1	1	qgoq86	jv0ze9	3lpz1v	iwhkr2	32		Hartmann/Ferreira		Nunez/Mariot	Walkover
 21-21828	3	1	1	1	1	99x3dr	ng9wzi	5mjyh4	yf9l1l	32		Binnios/Nicolau Fer…		Gibbs/Bousquet	Walkover
 21-21828	3	1	1	1	1	wcp8jm	m1xntf	88oaou	4hipof	32		Navrotchi/Mochizuki		Pejanovic/Andrews	97
 21-21828	3	1	1	1	1	it856b	x1xntf	3nfd3l	b9edsn	32		Della Cioppa/Menend…		Grijalva/Amorim	83
@@ -1016,6 +1017,20 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23395	2	1	1	1	1	mszche	phk5un	j9x3dr	jl8pmz	64		Sentay/Frisk		Boland/Rotundo	82
 21-23395	2	1	1	1	1	gjgve1	vkv0lm	0gq6ee	j5w5iz	64		Rodriguez-Vidal/Teb…		Karnibad/Cronin	82
 21-23395	2	1	1	1	1	q9i943	t3ph1d	c36rg9	xh5blz	64		Kim/Nguyen		Jentoft/Nakaurai	82
+21-23395	2	2	1	1	1	0gq6ee	j5w5iz	c36rg9	xh5blz	16		Karnibad/Cronin		Jentoft/Nakaurai	63
+21-23395	2	2	1	1	1	yl4taj	wst0zq	0ii0mc	12p63g	16		Dunac/Cadeau		Liu/Ballesteros	63
+21-23395	2	2	1	1	1	d1a1wv	72cs00	z501uf	ikpo3y	16		Alkhafaji/Pollatos		Pribitkin/Cardano	76(2)
+21-23395	2	2	1	1	1	pszche	5t6p03	1imwys	dr1hpp	16		Stevens/Abriola		Vagner/OBrien	64
+21-23395	2	2	1	1	1	iz3df9	oowyge	j9x3dr	jl8pmz	16		Ha/Postin		Boland/Rotundo	62
+21-23395	2	3	1	1	1	0ii0mc	12p63g	j9x3dr	jl8pmz	32		Liu/Ballesteros		Boland/Rotundo	63
+21-23395	2	3	1	1	1	1imwys	dr1hpp	w2acus	lgoq86	32		Vagner/OBrien		Khromchenko/Fourticq	76(5)
+21-23395	2	3	1	1	1	pszche	5t6p03	u1gdej	b6dqvs	32		Stevens/Abriola		Pak/Nguyen	64
+21-23395	2	3	1	1	1	fhml0v	nn0jux	r2cs00	bxdzdj	32		Jones/Robinson		Pumpelly/McLeod	62
+21-23395	2	3	1	1	1	0gq6ee	j5w5iz	z501uf	ikpo3y	32		Karnibad/Cronin		Pribitkin/Cardano	76(1)
+21-23395	2	3	1	1	1	xv6bwx	wk6yiu	69zjjz	qy5ink	32		Zachiotis/Armstrong		Gates/Cavo	76(3)
+21-23395	2	3	1	1	1	q9i943	t3ph1d	cqmci4	tsvg5y	32		Kim/Nguyen		Kapoor/Haddou	75
+21-23395	2	3	1	1	1	gfw7y5	tbv93d	d1a1wv	72cs00	32		Prokurat/Suarez		Alkhafaji/Pollatos	64
+21-23395	2	3	1	1	1	68muim	p5fv33	iz3df9	oowyge	32		Kjellberg/Garner		Ha/Postin	75
 21-23711	2	1	1	3	1	meugu0	jwyu6y	veyc6g	jdhrtn	SF		Andrus/Lin		Kramer/Cankus	62
 21-23711	2	1	1	3	1	o6bapk	wpb3nz	mcnsde	p9x3dr	SF		Gavelin/Ta		Hallgren/Benn	62
 21-23711	2	1	1	2	1	meugu0	jwyu6y	j4262q	b7ub8l	QF		Andrus/Lin		Kristensen/Trhac	Walkover
@@ -1772,6 +1787,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-56169	2	4	1	1	1	z501uf	ikpo3y	69zjjz	qy5ink	16		Pribitkin/Cardano		Gates/Cavo	61
 21-56169	2	4	1	1	1	4g50n2	ak8eo2	frgbyd	3os24y	16		Bazant/Dessureau		Davey/Corsini	62
 21-56169	2	4	1	1	1	bv6bwx	hpm1k7	tlnjvn	ll69gr	16		Tran/Azur		Hellinger/Kernagis	63
+21-59010	2	1	1	6	1	1hqhcb	v4lwnu	qdj7zv	med6f4	F	6	Vives Marcos/Maxted	5	Harper/Ciamarra	16 64 [8]
 21-59010	2	1	1	5	1	qdj7zv	med6f4	3vyj81	gm08w0	SF	5	Harper/Ciamarra	1	Aguilar/Fomba	87(5)
 21-59010	2	1	1	5	1	1hqhcb	v4lwnu	xybu58	hxqdgz	SF	6	Vives Marcos/Maxted	7	Schachter/Abbrat	86
 21-59010	2	1	1	4	1	3vyj81	gm08w0	chqhcb	zsaaem	QF	1	Aguilar/Fomba	8	Valiev/Azoides	85
@@ -3180,14 +3196,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-98443	2	1	1	3	1	aigkg4	igu2qu	tgbc5q	l91zp7	F		Faletto/van den Akk…		Thiel/Mensour	62
 21-98443	2	1	1	2	1	tgbc5q	l91zp7	q2vil4	93ansp	SF		Thiel/Mensour		Tajada/Turley	75
 21-98443	2	1	1	2	1	aigkg4	igu2qu	w1xntf	h81ora	SF		Faletto/van den Akk…		Morel/Choi	63
-21-98443	2	1	1	1	1	tgbc5q	l91zp7	m834xi	qgoq86	QF		Thiel/Mensour		Gil/Freemann	61
+21-98443	2	1	1	1	1	tgbc5q	l91zp7	m834xi	qgoq86	QF		Thiel/Mensour		Gil/Hartmann	61
 21-98443	2	1	1	1	1	q2vil4	93ansp	jscqku	x1xntf	QF		Tajada/Turley		De Oliveira/Menende…	64
 21-98443	2	1	1	1	1	w1xntf	h81ora	x387mh	elrf73	QF		Morel/Choi		Patino Pabon/Safont…	75
 21-98443	2	1	1	1	1	aigkg4	igu2qu	zbcji9	mlpz1v	QF		Faletto/van den Akk…		Preiswerk/Martinez	60
-21-98443	2	1	2	1	1	jscqku	x1xntf	m834xi	qgoq86	SF		De Oliveira/Menende…		Gil/Freemann	61
+21-98443	2	1	2	1	1	jscqku	x1xntf	m834xi	qgoq86	SF		De Oliveira/Menende…		Gil/Hartmann	61
 21-98443	2	1	2	1	1	zbcji9	mlpz1v	x387mh	elrf73	SF		Preiswerk/Martinez		Patino Pabon/Safont…	62
 21-98443	2	1	3	1	1	w1xntf	h81ora	q2vil4	93ansp	F		Morel/Choi		Tajada/Turley	62
-21-98443	2	1	4	1	1	x387mh	elrf73	m834xi	qgoq86	F		Patino Pabon/Safont…		Gil/Freemann	75
+21-98443	2	1	4	1	1	x387mh	elrf73	m834xi	qgoq86	F		Patino Pabon/Safont…		Gil/Hartmann	75
 21-98443	2	2	1	3	1	b26gic	tdj7zv	8vjpzd	eqq8uk	F		Bacella/Iriarte		Gandara/Vieira	60
 21-98443	2	2	1	2	1	b26gic	tdj7zv	4hipof	3ho163	SF		Bacella/Iriarte		Andrews/Ribas	62
 21-98443	2	2	1	2	1	8vjpzd	eqq8uk	6jibk9	485k3q	SF		Gandara/Vieira		Torrenegra/Noa	62
