@@ -1,9 +1,9 @@
 ---
-tournaments: 196
-players: 4143
-matches: 3679
-completed: 3609
-scheduled: 70
+tournaments: 213
+players: 4391
+matches: 4018
+completed: 3807
+scheduled: 211
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	4	1	1	4	1	uclc76	o1trhz	ibttx5	2fsbmp	F		Canete/Canete		Moosbacher/Farfan	61 63
@@ -693,32 +693,46 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-14491	2	2	2	1	1	gbttx5	lr1hpp	a03od6	5o9cju	16Q		Luna/McGivern		Schrepferman/Bucco …	86
 21-14491	2	2	2	1	1	gzoj6l	w7595t	ph7rr7	k91zp7	16Q		Padberg/Beidacki		Skjelstad/Mokhasi	98(5)
 21-14491	2	2	2	1	1	4xu9sf	h40qwi	ncaeay	v2cs00	16Q		Kuehnle/Eremina	2	Zafeiri/Reisch	81
-21-15310	2	1	1	1		o9gtyv	wput83	junadw	wttbxn	64		Dorian/Zhytelna		Garcia/Nikitash	Thu @ 08:30
-21-15310	2	1	1	1		kuawag	pjgve1	l6u0ao	rhml0v	64	9	Wagle/Ong		Lee/Lee	Thu @ 08:30
-21-15310	2	1	1	1		mf9l1l	wrgbyd	4d4dq7	9ktkfe	64		Carter/Fowler		Pachl/Nguyen	Thu @ 08:30
-21-15310	2	1	1	1		g4jghm	cbv93d	vxwpyn	wjzlz5	64		Fry/Ryngler		Puehse/Strombacha	Thu @ 08:30
-21-15310	2	1	1	1		a28wok	b3ph1d	upb3nz	ncnsde	64	9	Desiatnikov/McBride		Schlatter/Gonzalez-…	Thu @ 08:30
-21-15310	2	1	1	1		m9edsn	rpb3nz	k1z3zn	dxwpyn	64		Agrawal/Stratakos		Santibanez Luna/ONe…	Thu @ 08:30
-21-15310	2	1	1	1		43llpx	z5jrfj	5rmng1	bpb3nz	64		Bhadada/Snissarenko		Zandbers/Takamura	Thu @ 09:15
-21-15310	2	1	1	1		tg9wzi	6rmng1	g2acus	vkca0i	64	9	Morra/Willson		Kiss/Reuter	Thu @ 08:30
-21-15310	2	1	1	1		mzqzct	kbpxlp	z0zs1q	81trhz	64		Vagramov/Catanzarite		Iglupas/Castillo	Thu @ 08:30
-21-15310	2	1	1	1		juawag	w7ub8l	aiza18	y36rg9	64		Wilkins/Ziouti		Homolkova/Le Du	Thu @ 08:30
-21-15310	2	1	1	1		r1xntf	lzqzct	7q3mx0	kxu9sf	64	9	Miroshnichenko/Vora…		Games/Koenig	Thu @ 08:30
-21-15310	2	1	1	1		1pb3nz	4r3xvx	1d0her	o0iimu	64		Suh/Taylor		De Las Heras/Kalait…	Thu @ 08:30
-21-15310	2	1	1	1		869ujc	uffxj9	5nfd3l	2ikgsk	64		Babkova/Szczepanska		Iamachkine/Redelijk	Thu @ 08:30
-21-15310	2	1	1	1		oh5blz	p93fvf	sfb17t	jtalcj	64		Merrill/Surapaneni	9	Honer/Khatamova	Thu @ 09:15
-21-15310	2	1	1	1		hmnutk	7v4vqp	c52h0n	8v0ze9	64		Schmidt/Prudhomme		Tsukiji/Fossorier	Thu @ 08:30
-21-15310	2	1	1	1		39gtyv	gjibk9	rscqku	2trvrf	64		Duffy/Tobrand	7	Ewing/Han	Thu @ 08:30
-21-15310	2	1	1	1		5gsmkm	d1ex8b	j387mh	wnht9t	64		Pitts/Jordan		Rogozinska-Dzik/Nik…	Thu @ 08:30
-21-15310	2	1	1	1		nd0her	eigkg4	bjx5tx	22rm9o	64		Coetzee/Fraile Tobo…	9	Morlet/Gallagher	Thu @ 08:30
-21-15310	2	1	1	1		xxy54v	hmhibw	raxebo	bg9wzi	64		Volodko/Bruu-Syvers…		Mackensen/Mansonhing	Thu @ 08:30
-21-15310	2	1	1	1		jbttx5	v795h9	p1v7n7	6u8g48	64		Melosch/Nadozie		Heynemans/Romain	Thu @ 09:15
-21-15310	2	1	1	1		ap77bj	pfw7y5	8dhrtn	6387mh	64		Hedrzak/Repina	9	Cayetano/Piper	Thu @ 08:30
-21-15310	2	1	1	1		ruawag	od4dq7	71xntf	ap9nhr	64		Totah/Pavani		Meraz/Nevenhoven	Thu @ 08:30
-21-15310	2	1	1	1		e1itkr	u0kys2	r9i943	84jghm	64		Vu/Pearson	8	Johnson/Hance	Thu @ 08:30
-21-15310	2	1	1	1		foyemm	bp9nhr	vvnlbt	yazuhw	64		Von Tersch Pohrer/M…		Rutowska/Tcherkes-Z…	Thu @ 08:30
-21-15310	2	1	1	1		t501uf	yed6f4	2vnlbt	5zm30d	64		Rakim/Buhr	9	Spaka/Jankowski	Thu @ 08:30
-21-15310	2	1	1	1		8rir4l	pz5tlh	h1v7n7	hrir4l	64		Lennon/Masuda		Gonzalez-Ballbe/Jan…	Thu @ 09:15
+21-15310	2	1	1	2		y2cs00	xefmlc	o9gtyv	wput83	32	1	Pachkaleva/Fukuda		Dorian/Zhytelna	Fri @ 08:30
+21-15310	2	1	1	2		kuawag	pjgve1	4d4dq7	9ktkfe	32	9	Wagle/Ong		Pachl/Nguyen	Fri @ 08:30
+21-15310	2	1	1	2		qfqvgh	6caeay	vxwpyn	wjzlz5	32	6	Argyrokastriti/Turk…		Puehse/Strombacha	Fri @ 08:30
+21-15310	2	1	1	2		a28wok	b3ph1d	m9edsn	rpb3nz	32	9	Desiatnikov/McBride		Agrawal/Stratakos	Fri @ 08:30
+21-15310	2	1	1	2		u3ansp	1eugu0	43llpx	z5jrfj	32	4	Thamchaiwat/Arnold		Bhadada/Snissarenko	Fri @ 08:30
+21-15310	2	1	1	2		g2acus	vkca0i	mzqzct	kbpxlp	32		Kiss/Reuter		Vagramov/Catanzarite	Fri @ 08:30
+21-15310	2	1	1	2		vixuv0	m0meya	juawag	w7ub8l	32	5	Broadus/Tjen		Wilkins/Ziouti	Fri @ 08:30
+21-15310	2	1	1	2		r1xntf	lzqzct	1d0her	o0iimu	32	9	Miroshnichenko/Vora…		De Las Heras/Kalait…	Fri @ 08:30
+21-15310	2	1	1	2		5nfd3l	2ikgsk	sfb17t	jtalcj	32		Iamachkine/Redelijk	9	Honer/Khatamova	Fri @ 08:30
+21-15310	2	1	1	2		hmnutk	7v4vqp	rscqku	2trvrf	32		Schmidt/Prudhomme	7	Ewing/Han	Fri @ 08:30
+21-15310	2	1	1	2		j387mh	wnht9t	bjx5tx	22rm9o	32		Rogozinska-Dzik/Nik…	9	Morlet/Gallagher	Fri @ 08:30
+21-15310	2	1	1	2		xxy54v	hmhibw	anwnih	bw2qie	32		Volodko/Bruu-Syvers…	3	Flores/Zaar	Fri @ 08:30
+21-15310	2	1	1	2		jbttx5	v795h9	8dhrtn	6387mh	32		Melosch/Nadozie	9	Cayetano/Piper	Fri @ 08:30
+21-15310	2	1	1	2		71xntf	ap9nhr	r9i943	84jghm	32		Meraz/Nevenhoven	8	Johnson/Hance	Fri @ 08:30
+21-15310	2	1	1	2		vvnlbt	yazuhw	2vnlbt	5zm30d	32		Rutowska/Tcherkes-Z…	9	Spaka/Jankowski	Fri @ 08:30
+21-15310	2	1	1	2		8rir4l	pz5tlh	tu4kss	1efmlc	32		Lennon/Masuda	2	Colling/Goldsmith	Fri @ 08:30
+21-15310	2	1	1	1	1	o9gtyv	wput83	junadw	wttbxn	64		Dorian/Zhytelna		Garcia/Nikitash	76(6)
+21-15310	2	1	1	1	1	4d4dq7	9ktkfe	mf9l1l	wrgbyd	64		Pachl/Nguyen		Carter/Fowler	64
+21-15310	2	1	1	1	1	vxwpyn	wjzlz5	g4jghm	cbv93d	64		Puehse/Strombacha		Fry/Ryngler	65
+21-15310	2	1	1	1	1	a28wok	b3ph1d	upb3nz	ncnsde	64	9	Desiatnikov/McBride		Schlatter/Gonzalez-…	62
+21-15310	2	1	1	1	1	m9edsn	rpb3nz	k1z3zn	dxwpyn	64		Agrawal/Stratakos		Santibanez Luna/ONe…	75
+21-15310	2	1	1	1	1	43llpx	z5jrfj	5rmng1	bpb3nz	64		Bhadada/Snissarenko		Zandbers/Takamura	63
+21-15310	2	1	1	1	1	g2acus	vkca0i	tg9wzi	6rmng1	64		Kiss/Reuter	9	Morra/Willson	75
+21-15310	2	1	1	1	1	mzqzct	kbpxlp	z0zs1q	81trhz	64		Vagramov/Catanzarite		Iglupas/Castillo	75
+21-15310	2	1	1	1	1	juawag	w7ub8l	aiza18	y36rg9	64		Wilkins/Ziouti		Homolkova/Le Du	64
+21-15310	2	1	1	1	1	r1xntf	lzqzct	7q3mx0	kxu9sf	64	9	Miroshnichenko/Vora…		Games/Koenig	63
+21-15310	2	1	1	1	1	1d0her	o0iimu	1pb3nz	4r3xvx	64		De Las Heras/Kalait…		Suh/Taylor	63
+21-15310	2	1	1	1	1	5nfd3l	2ikgsk	869ujc	uffxj9	64		Iamachkine/Redelijk		Babkova/Szczepanska	61
+21-15310	2	1	1	1	1	sfb17t	jtalcj	oh5blz	p93fvf	64	9	Honer/Khatamova		Merrill/Surapaneni	61
+21-15310	2	1	1	1	1	rscqku	2trvrf	39gtyv	gjibk9	64	7	Ewing/Han		Duffy/Tobrand	75
+21-15310	2	1	1	1	1	j387mh	wnht9t	5gsmkm	d1ex8b	64		Rogozinska-Dzik/Nik…		Pitts/Jordan	63
+21-15310	2	1	1	1	1	bjx5tx	22rm9o	nd0her	eigkg4	64	9	Morlet/Gallagher		Coetzee/Fraile Tobo…	62
+21-15310	2	1	1	1	1	xxy54v	hmhibw	raxebo	bg9wzi	64		Volodko/Bruu-Syvers…		Mackensen/Mansonhing	61
+21-15310	2	1	1	1	1	jbttx5	v795h9	p1v7n7	6u8g48	64		Melosch/Nadozie		Heynemans/Romain	62
+21-15310	2	1	1	1	1	8dhrtn	6387mh	ap77bj	pfw7y5	64	9	Cayetano/Piper		Hedrzak/Repina	61
+21-15310	2	1	1	1	1	71xntf	ap9nhr	ruawag	od4dq7	64		Meraz/Nevenhoven		Totah/Pavani	61
+21-15310	2	1	1	1	1	r9i943	84jghm	e1itkr	u0kys2	64	8	Johnson/Hance		Vu/Pearson	63
+21-15310	2	1	1	1	1	vvnlbt	yazuhw	foyemm	bp9nhr	64		Rutowska/Tcherkes-Z…		Von Tersch Pohrer/M…	61
+21-15310	2	1	1	1	1	2vnlbt	5zm30d	t501uf	yed6f4	64	9	Spaka/Jankowski		Rakim/Buhr	60
+21-15310	2	1	1	1	1	8rir4l	pz5tlh	h1v7n7	hrir4l	64		Lennon/Masuda		Gonzalez-Ballbe/Jan…	62
 21-15800	2	1	1	1	1	zrgbyd	8gq6ee	jeww08	il8pmz	16		Delman/La Barge		Ekstrand/Orgielewicz	84
 21-15800	2	1	1	1	1	5rk7at	4axebo	eu8g48	anu7c9	16		Raman/Miller		Pham/Aggarwal	83
 21-15800	2	1	1	1	1	vtrvrf	7owyge	aw2qie	eq7i9g	16		Huang/Remis		Tian/Santiago	82
@@ -750,6 +764,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-16089	2	4	1	2	1	nc42sa	gtehoz	lst0zq	z7ub8l	R2		Curry/Visic		Carvalho/Vidnere	Walkover
 21-16089	2	4	1	1	1	jwdofm	o34ba1	lst0zq	z7ub8l	R1		Britt/Dodd		Carvalho/Vidnere	63
 21-16089	2	4	1	1	1	nc42sa	gtehoz	k3n1v5	ez1x91	R1		Curry/Visic		Grinberg/Baez	61
+21-16812	4	1	1	1		8iza18	d77pb1	urz1jh	q2t2fw	QF		Glowinska/Garcia		Guitton/Mjertan	Fri @ 15:00
+21-16812	4	1	1	1		47595t	74h0be	5d4dq7	kpb3nz	QF		Buntrock/Brocks		Ross/Saravanan	Fri @ 15:00
+21-16812	4	2	1	1		hfyn4d	lrmng1	satiz8	7kpo3y	QF		Wawroska/Woods		Boyar/Chadick	Fri @ 15:00
+21-16812	4	2	1	1		u5dfxv	340qwi	c3llpx	ndn3bb	QF		Chawner/Deutschmann		Cantu/Smith	Fri @ 15:00
+21-16812	4	3	1	1		jyukqc	vkeq6q	1rk7at	q6wggw	QF		Garcia/Obreque		Pigeassou/Okamura	Fri @ 15:00
+21-16812	4	3	1	1		2fyn4d	dazuhw	7t856b	qhk5un	QF		Vrucan/Runyan		Dix/Farris	Fri @ 15:00
 21-17427	2	1	1	4	1	2z5tlh	01gdej	nfb17t	qw0ac6	QF		Munson/Rondini		Hofflander/Reddy	83
 21-17427	2	1	1	4	1	rzknu5	az79rp	ee0sco	qnwnih	QF		Dunleavy/Shrivistava		Okuyama/Farima	87(2)
 21-17427	2	1	1	4	1	vwwe0q	3lpz1v	gclc76	rsvg5y	QF		de Lucas/Nielsen	1	Bou/Hoppe	87(4)
@@ -1117,6 +1137,69 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-24398	2	2	1	1	1	3fyn4d	53ansp	jie4aw	5cropu	16		Valentinsson/Zalukar		Ali/Schoenly	65
 21-24398	2	2	1	1	1	9jef8t	ajibk9	u9i943	z8oaou	16		Long/Ushio		Kothakota/Rosenberg…	64
 21-24398	2	3	1	1	1	42cs00	uh7rr7	shml0v	1ktkfe	16		Nwaozuzu/Smith		Kubas/Mejic	64
+21-25213	2	1	1	3		6jgve1	uscqku	ecaeay	34262q	32		Rice/Cross		Whitaker/Kurahashi	Fri @ 08:00
+21-25213	2	1	1	3		uqq8uk	wsxwb6	llnjvn	tjx5tx	32		Turco/Maffei		Gillas/Mannix	Fri @ 08:00
+21-25213	2	1	1	3		8yqoew	d7blnh	wt856b	nszche	32		Lagarde/Smagina		Duong/Said	Fri @ 08:00
+21-25213	2	1	1	3		7462e6	dqmci4	p5jrfj	c8oaou	32		Vasupongchai/Ishimu…		Sleeth/Pisareva	Fri @ 08:00
+21-25213	2	1	1	3		haeoqk	46u0ao	effxj9	5kpo3y	32		Linares/Job		Rozenkova/Berlanga	Fri @ 08:00
+21-25213	2	1	1	3		st856b	hlpz1v	04262q	2x9313	32		Deming/Manyoma Vela…		Kadleckova/Cabezas	Fri @ 08:00
+21-25213	2	1	1	3		qeyc6g	1q7i9g	mu8g48	4hml0v	32		Kong/Stamat		Rizzolo/Karvouni	Fri @ 08:00
+21-25213	2	1	1	3		q4lwnu	gnj9f1	xt856b	2upqj4	32		Martinez Asensi/Sch…		Detkovskaya/Miyamoto	Fri @ 08:00
+21-25213	2	1	1	3		kunadw	j3ph1d	3zknu5	nfdhd1	32		Hsieh/Naklo		Danilchenko/Lu	Fri @ 08:45
+21-25213	2	1	1	3		bd4dq7	6ejixs	4nwnih	4bcji9	32		Rijkers/Stara		Conde Monfort/Poppe	Fri @ 08:45
+21-25213	2	1	1	3		di36do	b387mh	ufsbmp	4nfd3l	32		Staker/Podlinska		Dekkers/Gheorghita	Fri @ 08:45
+21-25213	2	1	1	3		nqig6o	zpsd2v	ae28iw	4whkr2	32		Absisan/Osborn		Titova/Ngounoue	Fri @ 08:45
+21-25213	2	1	1	3		pjx5tx	p6dqvs	dlnjvn	lwhkr2	32		Novak/Makoric		Hesham/Mintusova	Fri @ 08:45
+21-25213	2	1	1	3		p795h9	e52h0n	80iimu	ez79rp	32		Nonoyama/Xin		Keller/Spink	Fri @ 08:45
+21-25213	2	1	1	3		e9zjjz	nl4taj	1revs5	htehoz	32		Hanford/Ercetin		Alloyarova/Ukita	Fri @ 08:45
+21-25213	2	1	1	3		11trhz	vowyge	suawag	s7ub8l	32		Benedejcic/Oliviera		Zerulo/Wolfberg	Fri @ 08:45
+21-25213	2	1	1	2	1	6jgve1	uscqku	t8kece	fefmlc	64		Rice/Cross		Engback/Hamanaga	63
+21-25213	2	1	1	2	1	ecaeay	34262q	tjvpnp	imlenc	64		Whitaker/Kurahashi		Hutchings/Naranjo M…	63
+21-25213	2	1	1	2	1	uqq8uk	wsxwb6	fcaeay	8i36do	64		Turco/Maffei		Vizcardo/Sporing	62
+21-25213	2	1	1	2	1	llnjvn	tjx5tx	qxffjr	gag4ws	64		Gillas/Mannix		Spencer/Perez	64
+21-25213	2	1	1	2	1	8yqoew	d7blnh	d52h0n	cu8g48	64		Lagarde/Smagina		Zukic/Rice	76(4)
+21-25213	2	1	1	2	1	wt856b	nszche	13rx7l	l3n1v5	64		Duong/Said		Skobkareva/Girbau	61
+21-25213	2	1	1	2	1	7462e6	dqmci4	s501uf	y7mjkp	64		Vasupongchai/Ishimu…		Roa/Adrover Gallego	76(4)
+21-25213	2	1	1	2	1	p5jrfj	c8oaou	tmlenc	1cp8jm	64		Sleeth/Pisareva		Morini/Nahurska	62
+21-25213	2	1	1	2	1	haeoqk	46u0ao	yst0zq	s7mjkp	64		Linares/Job		Bezmenova/Andrade	63
+21-25213	2	1	1	2	1	effxj9	5kpo3y	hbttx5	dhml0v	64		Rozenkova/Berlanga		Negin/Kongara	62
+21-25213	2	1	1	2	1	st856b	hlpz1v	byqoew	wybu58	64		Deming/Manyoma Vela…		Jansson/Sela	60
+21-25213	2	1	1	2	1	04262q	2x9313	aeyc6g	z795h9	64		Kadleckova/Cabezas		Kuckelman/Loy	64
+21-25213	2	1	1	2	1	qeyc6g	1q7i9g	fl69gr	hbrdrx	64		Kong/Stamat		Kmoskova/Havlickova	62
+21-25213	2	1	1	2	1	mu8g48	4hml0v	l93fvf	8l8pmz	64		Rizzolo/Karvouni		Southerland/ODonnell	64
+21-25213	2	1	1	2	1	q4lwnu	gnj9f1	snj9f1	tpb3nz	64		Martinez Asensi/Sch…		Tarajova/Shikanova	63
+21-25213	2	1	1	2	1	xt856b	2upqj4	k1trhz	qn0jux	64		Detkovskaya/Miyamoto		Bremel/Paradise	61
+21-25213	2	1	1	2	1	kunadw	j3ph1d	a8oaou	mz3df9	64		Hsieh/Naklo		Rizza/Heinitz	62
+21-25213	2	1	1	2	1	3zknu5	nfdhd1	p7ub8l	o2e868	64		Danilchenko/Lu		Vasquez/Ventura	61
+21-25213	2	1	1	2	1	bd4dq7	6ejixs	izqzct	daeoqk	64		Rijkers/Stara		Thibault/Lambrechts	61
+21-25213	2	1	1	2	1	4nwnih	4bcji9	awyu6y	atvr3v	64		Conde Monfort/Poppe		Krueger/Shukla	64
+21-25213	2	1	1	2	1	di36do	b387mh	yyukqc	bg50n2	64		Staker/Podlinska		Timofeyeva/Cardona	61
+21-25213	2	1	1	2	1	ufsbmp	4nfd3l	t834xi	s6ywm4	64		Dekkers/Gheorghita		Hlacikova/Zelenchuk	76(4)
+21-25213	2	1	1	2	1	nqig6o	zpsd2v	h8oaou	eh1f9j	64		Absisan/Osborn		Pokorna/Bacalla	63
+21-25213	2	1	1	2	1	ae28iw	4whkr2	5gma2y	gc6iyi	64		Titova/Ngounoue		Aly/Lazarevic	62
+21-25213	2	1	1	2	1	pjx5tx	p6dqvs	vkv0lm	0v4vqp	64		Novak/Makoric		Surcey/Roper	64
+21-25213	2	1	1	2	1	dlnjvn	lwhkr2	bqosoc	r1itkr	64		Hesham/Mintusova		Rademacher/Zheng	60
+21-25213	2	1	1	2	1	p795h9	e52h0n	do9cju	n69ujc	64		Nonoyama/Xin		Ball/Baroja	62
+21-25213	2	1	1	2	1	80iimu	ez79rp	ytehoz	yrxld9	64		Keller/Spink		Zdravkovic/Bowles	63
+21-25213	2	1	1	2	1	e9zjjz	nl4taj	aq3mx0	b8709y	64		Hanford/Ercetin		Haagensen/Stepan	64
+21-25213	2	1	1	2	1	1revs5	htehoz	jjx5tx	riza18	64		Alloyarova/Ukita		Maletin/Hailey	60
+21-25213	2	1	1	2	1	11trhz	vowyge	j6ywm4	gxbj7b	64		Benedejcic/Oliviera		Wilcox/Gener	61
+21-25213	2	1	1	2	1	suawag	s7ub8l	0cropu	zdj7zv	64		Zerulo/Wolfberg		Schifano/Hochstatter	62
+21-25213	2	1	1	1	1	t8kece	fefmlc	eq16rs	ok8eo2	128		Engback/Hamanaga		Bremel/ElNemr	61
+21-25213	2	1	1	1	1	fcaeay	8i36do	p7595t	mx9313	128		Vizcardo/Sporing		Brkic/Carr	62
+21-25213	2	1	1	1	1	13rx7l	l3n1v5	t5jrfj	yxdzdj	128		Skobkareva/Girbau		Stephani/Neville	64
+21-25213	2	1	1	1	1	tmlenc	1cp8jm	gsgmwa	9pqxwn	128		Morini/Nahurska		Perlwitz/Lojpur	64
+21-25213	2	1	1	1	1	yst0zq	s7mjkp	enwnih	mimwys	128		Bezmenova/Andrade		Covington/Tiemeyer	62
+21-25213	2	1	1	1	1	aeyc6g	z795h9	bjvpnp	j1ex8b	128		Kuckelman/Loy		Gutierrez/Iskakova	62
+21-25213	2	1	1	1	1	fl69gr	hbrdrx	yd4dq7	d501uf	128		Kmoskova/Havlickova		Perez/Reinicke	63
+21-25213	2	1	1	1	1	k1trhz	qn0jux	336rg9	qrz1jh	128		Bremel/Paradise		Lee/Gledic	64
+21-25213	2	1	1	1	1	a8oaou	mz3df9	az5tlh	eod8va	128		Rizza/Heinitz		Marjanovic/Martinez	62
+21-25213	2	1	1	1	1	yyukqc	bg50n2	ar1hpp	9xstm7	128		Timofeyeva/Cardona		Miller/Di Giulio	62
+21-25213	2	1	1	1	1	nqig6o	zpsd2v	hrxld9	4yo88o	128		Absisan/Osborn		Cardoso/Dalecka	63
+21-25213	2	1	1	1	1	do9cju	n69ujc	hur6pc	h8709y	128		Ball/Baroja		Talavera/Snezhko	75
+21-25213	2	1	1	1	1	aq3mx0	b8709y	mzm30d	5r1hpp	128		Haagensen/Stepan		Lebedeva/Miley	62
+21-25213	2	1	1	1	1	jjx5tx	riza18	ci1q7g	fu4kss	128		Maletin/Hailey		Moreira/Fain	60
+21-25213	2	1	1	1	1	0cropu	zdj7zv	z6u0ao	ijgve1	128		Schifano/Hochstatter		Jarmond/Piskulic	63
 21-25235	2	1	1	1	1	s387mh	1hqhcb	36bapk	ddn3bb	16		Oyama/Vehvilainen		Giraldo/Slisane	97
 21-25235	2	1	1	1	1	mxqdgz	4tc1ir	weww08	0bcji9	16		Adams/Ponomareva		Cortijo Parreno/Ped…	97
 21-25235	2	1	1	1	1	1b8n6t	z1trhz	kpohqf	exy54v	16		El Jardi/Budin		Dzemeshkevich/Trenc…	98(3)
@@ -1179,6 +1262,17 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-27941	4	2	2	2	1	ig50n2	3sgmwa	5ulu7o	lwdofm	F		Bolivar Garces/Robi…		Bryant/Bazilevych	76(6)
 21-27941	4	2	2	1	1	5ulu7o	lwdofm	7tehoz	jsgmwa	SF		Bryant/Bazilevych		Triska/Reichert	60
 21-27941	4	2	3	1	1	x795h9	x9m5gj	douia6	oxu9sf	F		McKay/Vlasova		Khan/Langaas	63
+21-28500	4	1	1	1		i36rg9	8jzlz5	tzm30d	vttbxn	QF		Lif/Singh		Kirr/Maiz	Fri @ 09:00
+21-28500	4	1	1	1		9c42sa	2d4dq7	ml4taj	uvl55l	QF		Forrest/Price		Floeth/Loretz	Fri @ 09:00
+21-28500	4	1	1	1		ffw7y5	i1trhz	dzqzct	e3n1v5	QF		Ratiu/Chapui		Church/Hansen	Fri @ 09:00
+21-28500	4	1	1	1		71ex8b	7c8y4q	7p5r5b	43ansp	QF		Khisamova/Resende		Balakrishnan/Tiscor…	Fri @ 09:00
+21-28500	4	2	1	1		iac8kc	wimwys	26wggw	yfyn4d	QF		Donaldson/Trammell		Reeves/Ulloa	Fri @ 09:00
+21-28500	4	2	1	1		2dhrtn	j462e6	sm08w0	joyemm	QF		Baechler/Rossmeier		Drouin/William	Fri @ 09:00
+21-28500	4	2	1	1		jos24y	odln53	jaik20	7imwys	QF		Freke/Mallath		Loretz/Palacio	Fri @ 09:45
+21-28500	4	2	1	1		zsgmwa	wfyn4d	d0xcvi	8unadw	QF		Ragastovac/Wieser		Balancho/Glaves	Fri @ 09:45
+21-28500	4	3	1	3		ct856b	brmng1	mkpo3y	ebv93d	R3		Dong/Wilson		Chornei/Speiser	Sat @ 09:45
+21-28500	4	3	1	2		59zjjz	u5jrfj	mkpo3y	ebv93d	R2		Good/Smith		Chornei/Speiser	Sat @ 11:15
+21-28500	4	3	1	1		59zjjz	u5jrfj	ct856b	brmng1	R1		Good/Smith		Dong/Wilson	Fri @ 09:00
 21-29173	2	1	1	6	1	lac8kc	hw0ac6	dse6q2	ygsmkm	F		Fordham/Plakk		Landells/Roarty	61 61
 21-29173	2	1	1	5	1	lac8kc	hw0ac6	9hipof	slnjvn	SF		Fordham/Plakk		Apsey/Holtzman	81
 21-29173	2	1	1	5	1	dse6q2	ygsmkm	06u0ao	jr3xvx	SF		Landells/Roarty		Libby/Ruiz Vega	82
@@ -1746,6 +1840,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-36423	2	1	1	1	1	ynht9t	crz1jh	kxstm7	6v4vqp	32		Miller/Hughes		Davila/Reynolds	82
 21-36423	2	1	1	1	1	xzknu5	67blnh	vd4dq7	mb8n6t	32		Despriet/Synoski		Rodriquez/Drought- …	80
 21-36423	2	1	1	1	1	g3ansp	f7ozqx	ckv0lm	5v6bwx	32	2	Wong/Ducret		Smith/Turner	81
+21-36554	2	1	1	1		l834xi	pdj7zv	dpohqf	1xu9sf	16		Grant/Hertel		Frayman/Joyce	Fri @ 10:00
+21-36554	2	1	1	1		lfsbmp	ry9ez0	yvnlbt	8ag4ws	16		Coppoc/Ma		Shvets/Rodilosso	Fri @ 10:00
+21-36554	2	1	1	1		8bcji9	i5ylo7	0sxwb6	6ybu58	16		Reasco/Kowalski		Mattel/Sharma	Fri @ 10:00
+21-36554	2	1	1	1		uhk5un	wh5blz	s3rx7l	7si22i	16		Clayton/Nirundorn		Schrage/Velaga	Fri @ 10:00
+21-36554	2	1	1	1		yhqhcb	jeyc6g	rt856b	2pb3nz	16		Zeleva/Levashova		Dudeney/Spee	Fri @ 10:00
+21-36554	2	1	1	1		fgq6ee	p1ex8b	omhibw	pobsp2	16		Kattenberg/Leslie		Bennetto/Hu	Fri @ 10:00
 21-38109	2	1	1	5	1	5fb17t	z1gdej	cobsp2	kouia6	F	1	Gonzalez Ramirez/Ov…		Guler/Irrinki	63 63
 21-38109	2	1	1	4	1	5fb17t	z1gdej	7t856b	5h3vfr	SF	1	Gonzalez Ramirez/Ov…		Dix/Ibrasheva	76 75
 21-38109	2	1	1	4	1	cobsp2	kouia6	aag4ws	8iza18	SF		Guler/Irrinki	8	Polunova/Glowinska	64 26 [6]
@@ -1851,6 +1951,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-41928	2	3	1	1	1	bjt9hh	8795h9	ajibk9	3fyn4d	32		Bernardos/Martinez		Ushio/Valentinsson	61
 21-41928	2	3	1	1	1	u03od6	pm08w0	9jef8t	53ansp	32		Shaw/Crame		Long/Zalukar	63
 21-41928	2	4	1	1	1	3fyn4d	eejixs	eag4ws	up77bj	F		Valentinsson/Sarava…		Reddy/Hirsch	64
+21-42214	4	1	1	2		qkxgru	26hm78	cf9l1l	jrk7at	16		Abad/Brauer	2	Candiotto/Rodriguez…	Sat @ 09:00
+21-42214	4	1	1	1		d9i943	jc8y4q	8h97xf	v89gf6	32		Letizia/Picardi		Bsereni/Jankun	Fri @ 09:00
+21-42214	4	1	1	1		wvp1h1	1dpjhj	97blnh	61trhz	32		Andrango/Mestanza		Seemann/Berghaus	Fri @ 09:00
+21-42214	4	1	1	1		avl55l	weyc6g	3u4kss	nlrf73	32		Netto Koop/Kelkboom		Cook/Schneider	Fri @ 09:00
+21-42214	4	1	1	1		pltvdb	dnlpl9	cq5238	8ffxj9	32		Pera/Simeone		Matos/Santiago	Fri @ 09:00
+21-42214	4	1	1	1		7wdofm	p95v1n	dsvg5y	bz79rp	32		Chang/Tonito		Harris/Schnatz	Fri @ 09:00
+21-42214	4	1	1	1		e2cs00	t0g2gm	681ora	6ttbxn	32		Oliveira/Colin		Baptista/Lopez Suero	Fri @ 09:00
+21-42214	4	1	1	1		ih1f9j	ost0zq	rclc76	kz5tlh	32		Benn/Benn		Bijelic/Martinez	Fri @ 09:00
 21-42606	2	1	1	1	1	4ho163	j6bapk	4v2fkh	kz1x91	QF		Popma/Ganesan		Liong/Cazacu	61
 21-42606	2	1	1	1	1	8n2z05	s0g2gm	mlnjvn	2avy5g	QF		Zlatanovic/Damnjano…		Frogner/Heren	75
 21-42606	2	1	1	1	1	ll2d4b	44262q	e5fv33	vn0jux	QF		Antonijevic/Kizelba…		Glazbrook/Patel	75
@@ -2133,6 +2241,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-48654	2	3	1	1	1	rzoj6l	hjef8t	fbrdrx	55hb9b	16		Ode Mitre/Kirch		Fukutoku/Manolescu	64
 21-48654	2	3	1	1	1	bmjyh4	p85k3q	92e868	xdln53	16		Hussain/Muzzolon		Van Hansewyck/McGra…	62
 21-48654	2	3	1	1	1	favy5g	dv2fkh	2p5r5b	djt9hh	16		Gillar/Joseph		Bachir el Bouhali/C…	64
+21-49776	2	1	1	1		vofo1i	umnutk	g4yaqa	sbttx5	16	1	Sasnouskaya/Starodu…		Afanasyeva/Moulin	Fri @ 09:00
+21-49776	2	1	1	1		htpfl7	i7595t	82p63g	069ujc	16		Bossi/Chang		Cadar/Brumfield	Fri @ 09:00
+21-49776	2	1	1	1		x0g2gm	0bttx5	lyqoew	ezqzct	16		Davidescu/Manjanna		Johnson/Yakubovich	Fri @ 09:00
+21-49776	2	1	1	1		eqosoc	idhrtn	zh1f9j	kla5s7	16		OGorman/Chekhlystova	4	Chervinsky/Ziodato	Fri @ 09:00
+21-49776	2	1	1	1		5m08w0	odn3bb	mxbj7b	xaxebo	16	3	Collard/Shaikh		Friedland/Nielsen	Fri @ 09:00
+21-49776	2	1	1	1		e0emae	z1itkr	wg7gta	7ttbxn	16		Alcaide/Viktorovich		Hsieh/Nagato	Fri @ 09:00
+21-49776	2	1	1	1		wed6f4	sqosoc	7uawag	saeoqk	16		Bach/Perez Mur		Zuffova/Lebedeva	Fri @ 09:00
+21-49776	2	1	1	1		4upqj4	2qq8uk	26f610	8g9wzi	16		Marinkovikj/Wiesmann	2	Subhash/Munera	Fri @ 09:00
 21-50226	2	1	1	2	1	mu8g48	nl4taj	gc6iyi	5gma2y	F		Rizzolo/Ercetin		Lazarevic/Aly	64
 21-50226	2	1	1	1	1	gc6iyi	5gma2y	vzqzct	1nwnih	SF		Lazarevic/Aly		Walczak/Ehn	61
 21-50226	2	1	1	1	1	mu8g48	nl4taj	3rk7at	rl2d4b	SF		Rizzolo/Ercetin		Oda/Aitken	62
@@ -2279,6 +2395,40 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-51444	2	1	2	1	1	b9gtyv	kazuhw	8g50n2	xg50n2	16Q		Cole/Spirrison		Birosta/Brannon	84
 21-51444	2	1	2	1	1	2brdrx	tq7i9g	nnfd3l	vbcji9	16Q		Hanulikova/Schoeck		Gupta/Patlolla	Walkover
 21-51444	2	1	2	1	1	fii0mc	if9l1l	90iimu	a52h0n	16Q		Lopez/Brual		Johns/Weeber	82
+21-52217	2	1	1	1		gkxgru	94psza	2054je	ynlpl9	64	1	Blake/Ma		Tanevska/Alcon	Fri @ 08:30
+21-52217	2	1	1	1		5hipof	gjt9hh	4jzlz5	1yo88o	64		Ackerman/Bhunu		Schroer/Feng	Fri @ 09:15
+21-52217	2	1	1	1		eys4k4	ekr496	fr5d15	sutmvk	64		Rees/Hernandez		Kida/Foshee	Fri @ 09:15
+21-52217	2	1	1	1		9mpazs	2utmvk	ghqhcb	tzi7ox	64		Sato/Zupancic		Villan Pereira/Babic	Fri @ 09:15
+21-52217	2	1	1	1		lkxgru	8bxp9l	axhvpz	mj115d	64	5	Mould/Teixido Garcia		Ellis/Flaquer	Fri @ 09:15
+21-52217	2	1	1	1	1	f6sk4g	6r1hpp	ov0ze9	3fursx	64		Evloeva/Maunupau		Ferreros/Lee	Walkover
+21-52217	2	1	1	1		mpdjt7	xoh47q	rdpjhj	1r1hpp	64		Dimova/Kraleva		Kozyreva/Massey	Fri @ 09:15
+21-52217	2	1	1	1		s6hm78	k85k3q	m5jrfj	4keq6q	64		Capogrosso/Mushika		Sam/Ung	Fri @ 09:15
+21-52217	2	1	1	1		oc2mm2	itc1ir	9a1an4	x6hm78	64	3	Alsola/Richardson		Lee/Murphy	Fri @ 09:15
+21-52217	2	1	1	1		vdn3bb	zm6keo	c8muim	5xbj7b	64		Ruja/Zamora		Kalinic/Gordon	Fri @ 09:15
+21-52217	2	1	1	1		sct4v2	9gdsby	knwnih	4s1snm	64		Ahmed/Jittakoat		Fortin/Chilton	Fri @ 08:30
+21-52217	2	1	1	1		kxhvpz	rj115d	l2xyrc	9s1snm	64		Xu/Houghton		Kobayashi/Olsen	Fri @ 08:30
+21-52217	2	1	1	1		7y5ink	f4nct2	u9m5gj	lgbc5q	64	5	Broerman/Sosnowska		Tevez/Silva	Fri @ 08:30
+21-52217	2	1	1	1		y5l7lr	r11j5v	a3ansp	9c8y4q	64		Gabuzyan/Mann		Zelic/Pethybridge	Fri @ 08:30
+21-52217	2	1	1	1		iclc76	5h5blz	bvjpzd	62vil4	64		Bances Iglesias/Mar…		Gurevich/Stavropoul…	Fri @ 09:15
+21-52217	2	1	1	1		jqkwcw	nupqj4	w85k3q	ybxp9l	64		Egan/Milenkoski		McSkimming/Ejsmont	Fri @ 09:15
+21-52217	2	1	1	1		urxld9	jl69gr	e1v7n7	iys4k4	64		Bente/LaMette		Hovda/Rook	Fri @ 09:15
+21-52217	2	1	1	1		x8qqu2	trir4l	1talcj	vwyu6y	64		Wernli/Laursen		LeRoy/Kosan	Fri @ 08:30
+21-52217	2	1	1	1	1	fba3c1	0yms2g	x054je	j81ora	64		Johnson/Alter		Rosenqvist/Brown	Walkover
+21-52217	2	1	1	1		empazs	yh97xf	ffhdph	q89gf6	64		Weil/Chang	5	Madurawe/Yepifanova	Fri @ 08:30
+21-52217	2	1	1	1		sndxxd	3lrf73	lely30	9ydabg	64		Beukers/Sanoner		Piferi/Marzano	Fri @ 08:30
+21-52217	2	1	1	1		k9m5gj	i8kece	f95v1n	xct4v2	64		Zlotnik/Fileva		Mathews/Mansouri	Fri @ 09:15
+21-52217	2	1	1	1		rpdjt7	g89gf6	3nlpl9	f3tddt	64		Quintana/Fehr		Martinez Moral/Petc…	Fri @ 08:30
+21-52217	2	1	1	1		3bxp9l	4mpazs	v4lwnu	yos24y	64		Rouf/Elenova	4	Martinez Vaquero/Co…	Fri @ 08:30
+21-52217	2	1	1	1		7h3vfr	cn0jux	7g50n2	ijcz2l	64		Harris/Ronney		Brilhante/Clydesdal…	Fri @ 09:15
+21-52217	2	1	1	1		4ydabg	s054je	6uawag	x0iimu	64		Bates/Dunkle		Tsukamoto/Ko	Fri @ 09:15
+21-52217	2	1	1	1		3tx793	3z9pxx	bx9313	4p5r5b	64		Ly-Nguyen/Kumhom		Chhabra/Bui	Fri @ 09:15
+21-52217	2	1	1	1		cxwpyn	kwhkr2	ula5s7	a0meya	64		Pedrero Galindo/Mur…	5	Thiel/Viller Moeller	Fri @ 09:15
+21-52217	2	1	1	1		rvp1h1	xi5mjw	a3tddt	4gdsby	64		Mulville/Luescher		Choy/Geller	Fri @ 08:30
+21-52217	2	1	1	1		w387mh	5dj7zv	fxhvpz	gely30	64		Petty/Hayer		Sunjic/Dimitrijevic	Fri @ 08:30
+21-52217	2	1	1	1		lq9yfo	xutmvk	rl2d4b	3rk7at	64		Magrini/Hummel		Aitken/Oda	Fri @ 08:30
+21-52217	2	1	1	1		wpdjt7	on2z05	sput83	3h97xf	64		Tagaloa/Yotova	2	Wong/Olsen	Fri @ 08:30
+21-52217	2	2	1	1		2834xi	0g9wzi	pnfd3l	6kca0i	QF		Galerkin/Maunupau		Gamracy/Qiu	Fri @ 08:30
+21-52217	2	2	1	1		91z3zn	gtc1ir	q462e6	5h1f9j	QF		Schwartzberg/Page		Wiese/Carmichael	Fri @ 08:30
 21-52871	2	1	1	5	1	3q3mx0	bl69gr	o2rm9o	2bv93d	R5		Hoog/Kan		Hill/Rueff	85
 21-52871	2	1	1	5	1	if9l1l	fii0mc	l795h9	d8qqu2	R5		Brual/Lopez		Mueller/Walter	84
 21-52871	2	1	1	3	1	0zqzct	jv4vqp	v1ex8b	daik20	R3		Wang/Patel		Lancaster/Trinh	84
@@ -2530,6 +2680,78 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-63890	2	2	1	3	1	5atiz8	p7qfw5	mbrdrx	6gsmkm	R3		Chen/Lerman		Heffernan/Patton Lo…	63
 21-63890	2	2	1	3	1	ic2mm2	zd2xkz	nupqj4	jqkwcw	R3		Astle/Lin		Milenkoski/Egan	61
 21-63890	2	2	1	1	1	mbrdrx	6gsmkm	nupqj4	jqkwcw	R1		Heffernan/Patton Lo…		Milenkoski/Egan	64
+21-64509	2	1	1	2		cg50n2	ihk5un	rlpz1v	usxwb6	SF	1	Brown/Dean		Marthinsen/Merrill	Fri @ 11:00
+21-64509	2	1	1	2		78iy66	jiza18	wcaeay	nkeq6q	SF		Allen/Galvin	2	Tranberg/Weatherhead	Fri @ 11:00
+21-64509	2	1	1	1	1	cg50n2	ihk5un	sh3vfr	8hml0v	QF	1	Brown/Dean		Habib/Konar	83
+21-64509	2	1	1	1	1	rlpz1v	usxwb6	wrz1jh	fbcji9	QF		Marthinsen/Merrill		Gallagher/Perry	80
+21-64509	2	1	1	1	1	78iy66	jiza18	xq3mx0	kur6pc	QF		Allen/Galvin		Fyvie/Semmartin	87(5)
+21-64509	2	1	1	1	1	wcaeay	nkeq6q	72t2fw	p834xi	QF	2	Tranberg/Weatherhead		Massie/Hardeman	87(4)
+21-64509	2	1	2	1		sh3vfr	8hml0v	wrz1jh	fbcji9	SQ		Habib/Konar		Gallagher/Perry	Fri @ 11:00
+21-64509	2	1	2	1		xq3mx0	kur6pc	72t2fw	p834xi	SQ		Fyvie/Semmartin		Massie/Hardeman	Fri @ 11:00
+21-64509	2	2	1	2		n5hb9b	aq7i9g	ezknu5	u85k3q	16	1	Morra/Tanguilig		Couch/Narboni	Fri @ 09:00
+21-64509	2	2	1	2		ded6f4	jp5r5b	xdn3bb	ckauua	16	6	Campana/Campana		Sorensen/Kahrs	Fri @ 09:00
+21-64509	2	2	1	2		baase4	hl2d4b	f28wok	t85k3q	16		Abrams/Abrams		DeSpain/Louka	Fri @ 09:00
+21-64509	2	2	1	2		jhqhcb	cz3df9	0pohqf	eoqmyq	16		Yarlagadda/Harvey		Dodridge/Aleshina	Fri @ 09:00
+21-64509	2	2	1	2		zl4taj	4fw7y5	oatiz8	gu4kss	16		Delsol/Ristic	8	Berankova/Drummy	Fri @ 09:00
+21-64509	2	2	1	2		gbrdrx	f0zs1q	xu4kss	dzoj6l	16		Hollins/Hopton	3	Daniel/Rencheli	Fri @ 09:00
+21-64509	2	2	1	2		7fw7y5	0ur6pc	eg7gta	fnu7c9	16		Patel/Schaffer	5	Gretkowski/Akli	Fri @ 09:00
+21-64509	2	2	1	2		e34ba1	p85k3q	7b8n6t	s8iy66	16		Diercksen/Muzzolon	2	Dillon/Adams	Fri @ 09:00
+21-64509	2	2	1	1	1	n5hb9b	aq7i9g	pp5r5b	s8muim	32	1	Morra/Tanguilig		Brotzman/Jekauc	80
+21-64509	2	2	1	1	1	ezknu5	u85k3q	geh2rk	qazuhw	32		Couch/Narboni		Mills/Sipek	85
+21-64509	2	2	1	1	1	ded6f4	jp5r5b	4wdofm	6l69gr	32	6	Campana/Campana		Boyd/Jusufbegovic	81
+21-64509	2	2	1	1	1	xdn3bb	ckauua	vwdofm	zse6q2	32		Sorensen/Kahrs		Benavides/King	87(3)
+21-64509	2	2	1	1	1	baase4	hl2d4b	b34ba1	05ylo7	32		Abrams/Abrams	4	Coleman/Jackson	87(5)
+21-64509	2	2	1	1	1	f28wok	t85k3q	vv6bwx	qxbj7b	32		DeSpain/Louka		Truluck/Gladstone	83
+21-64509	2	2	1	1	1	jhqhcb	cz3df9	k9x3dr	ksvg5y	32		Yarlagadda/Harvey	7	Belaya/Gish	86
+21-64509	2	2	1	1	1	0pohqf	eoqmyq	rdhrtn	zvnlbt	32		Dodridge/Aleshina		Baykan/Schoppe	87(5)
+21-64509	2	2	1	1	1	zl4taj	4fw7y5	jdj7zv	k3llpx	32		Delsol/Ristic		Huffman/Bell	85
+21-64509	2	2	1	1	1	oatiz8	gu4kss	2fb17t	w3n1v5	32	8	Berankova/Drummy		Houston/Gaines	80
+21-64509	2	2	1	1	1	gbrdrx	f0zs1q	x6dqvs	1eww08	32		Hollins/Hopton		Mitchell/Craft	86
+21-64509	2	2	1	1	1	xu4kss	dzoj6l	o93fvf	5ttbxn	32	3	Daniel/Rencheli		Safont/Maquet	87(5)
+21-64509	2	2	1	1	1	7fw7y5	0ur6pc	ag9wzi	2oyemm	32		Patel/Schaffer		McClure/Zink	84
+21-64509	2	2	1	1	1	eg7gta	fnu7c9	xwhkr2	ucp8jm	32	5	Gretkowski/Akli		Marti/Man	84
+21-64509	2	2	1	1	1	e34ba1	p85k3q	qndxxd	zxy54v	32		Diercksen/Muzzolon		Buyckx/Thompson	85
+21-64509	2	2	1	1	1	7b8n6t	s8iy66	xag4ws	zwj0xa	32	2	Dillon/Adams		ODea/Saldh	81
+21-64509	2	2	2	1		pp5r5b	s8muim	geh2rk	qazuhw	16Q		Brotzman/Jekauc		Mills/Sipek	Fri @ 09:00
+21-64509	2	2	2	1		4wdofm	6l69gr	vwdofm	zse6q2	16Q		Boyd/Jusufbegovic		Benavides/King	Fri @ 09:00
+21-64509	2	2	2	1		b34ba1	05ylo7	vv6bwx	qxbj7b	16Q	4	Coleman/Jackson		Truluck/Gladstone	Fri @ 09:00
+21-64509	2	2	2	1		k9x3dr	ksvg5y	rdhrtn	zvnlbt	16Q	7	Belaya/Gish		Baykan/Schoppe	Fri @ 09:00
+21-64509	2	2	2	1		jdj7zv	k3llpx	2fb17t	w3n1v5	16Q		Huffman/Bell		Houston/Gaines	Fri @ 09:00
+21-64509	2	2	2	1		x6dqvs	1eww08	o93fvf	5ttbxn	16Q		Mitchell/Craft		Safont/Maquet	Fri @ 09:00
+21-64509	2	2	2	1		ag9wzi	2oyemm	xwhkr2	ucp8jm	16Q		McClure/Zink		Marti/Man	Fri @ 09:00
+21-64509	2	2	2	1		qndxxd	zxy54v	xag4ws	zwj0xa	16Q		Buyckx/Thompson		ODea/Saldh	Fri @ 09:00
+21-64509	2	3	1	2		8p9nhr	9zqzct	cr1hpp	yh5blz	16	1	Martinelli/Wooten		Malkin/Mills	Fri @ 09:00
+21-64509	2	3	1	2		tixuv0	7sgmwa	djibk9	qsgmwa	16	5	Chen/Omirou		Wilkins/Petruzelova	Fri @ 09:00
+21-64509	2	3	1	2		9pb3nz	128wok	lscqku	bcaeay	16	4	Scotty/Crawley		Foldeak/Uljanov	Fri @ 09:00
+21-64509	2	3	1	2		hq5238	8cp8jm	2p5r5b	djt9hh	16	6	Mayorova/Medvedeva		Bachir el Bouhali/C…	Fri @ 09:00
+21-64509	2	3	1	2		b26gic	aput83	nu8g48	cnht9t	16		Babayan/Urelli	8	Rajecki/Nayar	Fri @ 10:00
+21-64509	2	3	1	2		e44m8y	g1z3zn	rp5r5b	lp5r5b	16		Reding/Tanik	3	Beck/Bilokin	Fri @ 10:00
+21-64509	2	3	1	2		uys4k4	3jvpnp	tv2fkh	s4jghm	16		Pyritz/Fullana		Jardim/Hellberg	Fri @ 10:00
+21-64509	2	3	1	2		cjcz2l	x5hb9b	kqq8uk	lofo1i	16		Cruz/Mulville	2	Tran/Sanford	Fri @ 10:00
+21-64509	2	3	1	1	1	8p9nhr	9zqzct	5zknu5	wndxxd	32	1	Martinelli/Wooten		Fischer/Brennan	81
+21-64509	2	3	1	1	1	cr1hpp	yh5blz	ejzlz5	1m448g	32		Malkin/Mills		Semlali/Patnaik	86
+21-64509	2	3	1	1	1	tixuv0	7sgmwa	xpsd2v	7rk7at	32	5	Chen/Omirou		Porges/Patterson	82
+21-64509	2	3	1	1	1	djibk9	qsgmwa	w26gic	patiz8	32		Wilkins/Petruzelova		Archer/Ball	84
+21-64509	2	3	1	1	1	9pb3nz	128wok	peyc6g	dnwnih	32	4	Scotty/Crawley		Landin/de Samucewicz	84
+21-64509	2	3	1	1	1	lscqku	bcaeay	144m8y	k9gtyv	32		Foldeak/Uljanov		Pate/Dawson	86
+21-64509	2	3	1	1	1	hq5238	8cp8jm	f85k3q	frgbyd	32	6	Mayorova/Medvedeva		Muller-Hughes/Danie…	83
+21-64509	2	3	1	1	1	2p5r5b	djt9hh	hp5r5b	72p63g	32		Bachir el Bouhali/C…		Barquero/Chan Barat…	87(9)
+21-64509	2	3	1	1	1	b26gic	aput83	3ie4aw	5vjpzd	32		Babayan/Urelli		Anttila/Hatton	84
+21-64509	2	3	1	1	1	nu8g48	cnht9t	idn3bb	qm448g	32	8	Rajecki/Nayar		Smith/Pezzuco	82
+21-64509	2	3	1	1	1	e44m8y	g1z3zn	vyukqc	g2vil4	32		Reding/Tanik		Wilbur/Steryous	87(5)
+21-64509	2	3	1	1	1	rp5r5b	lp5r5b	gr3xvx	aofo1i	32	3	Beck/Bilokin		Snyder/Schulson	82
+21-64509	2	3	1	1	1	uys4k4	3jvpnp	yrz1jh	i8709y	32		Pyritz/Fullana		Heiderscheit/Shea	81
+21-64509	2	3	1	1	1	tv2fkh	s4jghm	0l8pmz	6z79rp	32		Jardim/Hellberg	7	Quiterio/Schech	85
+21-64509	2	3	1	1	1	cjcz2l	x5hb9b	tos24y	jla5s7	32		Cruz/Mulville		Coetzee/Trinkle	86
+21-64509	2	3	1	1	1	kqq8uk	lofo1i	k795h9	lgsmkm	32	2	Tran/Sanford		Nihalani/Pesavento	87(5)
+21-64509	2	3	2	1		5zknu5	wndxxd	ejzlz5	1m448g	16Q		Fischer/Brennan		Semlali/Patnaik	Fri @ 10:00
+21-64509	2	3	2	1		xpsd2v	7rk7at	w26gic	patiz8	16Q		Porges/Patterson		Archer/Ball	Fri @ 10:00
+21-64509	2	3	2	1		peyc6g	dnwnih	144m8y	k9gtyv	16Q		Landin/de Samucewicz		Pate/Dawson	Fri @ 10:00
+21-64509	2	3	2	1		f85k3q	frgbyd	hp5r5b	72p63g	16Q		Muller-Hughes/Danie…		Barquero/Chan Barat…	Fri @ 10:00
+21-64509	2	3	2	1		3ie4aw	5vjpzd	idn3bb	qm448g	16Q		Anttila/Hatton		Smith/Pezzuco	Fri @ 10:15
+21-64509	2	3	2	1		vyukqc	g2vil4	gr3xvx	aofo1i	16Q		Wilbur/Steryous		Snyder/Schulson	Fri @ 10:15
+21-64509	2	3	2	1		yrz1jh	i8709y	0l8pmz	6z79rp	16Q		Heiderscheit/Shea	7	Quiterio/Schech	Fri @ 10:15
+21-64509	2	3	2	1		tos24y	jla5s7	k795h9	lgsmkm	16Q		Coetzee/Trinkle		Nihalani/Pesavento	Fri @ 10:15
 21-64584	4	1	1	5	1	f9m5gj	swhkr2	fv2fkh	78muim	F	3	Zhou/Markey	5	Lee/Juan	64 64
 21-64584	4	1	1	4	1	f9m5gj	swhkr2	8kv0lm	otehoz	SF	3	Zhou/Markey		Selby/Yoon	85
 21-64584	4	1	1	4	1	fv2fkh	78muim	4tehoz	lrxld9	SF	5	Lee/Juan	4	Wolfe/Chulani	85
@@ -2576,6 +2798,9 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-64584	4	1	2	1	1	4u4kss	05dfxv	79kpab	y1a1wv	16Q		Fleming/Campbell		Patel/Agarwal	Default
 21-64584	4	1	2	1	1	7se6q2	xxffjr	jq7i9g	2igkg4	16Q		Levanen/Seaberg		Saunders/Davis	84
 21-64584	4	1	2	1	1	fput83	a69ujc	1zknu5	3p77bj	16Q		Van Cott/Bufkin		Edson/Fukushige	Walkover
+21-65872	4	1	1	1		5bcji9	olrf73	tc8y4q	dz5tlh	QF		Percegona/Sachica		Platisa/Montero	Fri @ 13:30
+21-65872	4	1	1	1		626gic	41v7n7	27595t	o1xntf	QF		Aucagne/Honore		Bahr/Mamicova	Fri @ 13:30
+21-65872	4	2	1	1		q1ch23	l28wok	u1xntf	e9kpab	QF		DiBattista/Daniels		Lorca/Rodriguez	Fri @ 13:30
 21-66025	2	1	1	1	1	itpfl7	dvl55l	0u60y0	djgve1	R1		Bereznyak/Marzal		Lewis/Pietrowicz	63
 21-66025	2	1	1	1	1	68iy66	jie4aw	eh3vfr	e8muim	R1		Atway/Ali		Gisclon/Lemonds	63
 21-66025	2	1	1	1	1	p5w5iz	hse6q2	7cnsde	gjgve1	R1		Freeman/Lilien		Guadiana/Rizzolo	60
@@ -2847,6 +3072,95 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-74781	4	1	2	4	1	stc1ir	lulu7o	77595t	rkr496	F		Ristanovic/Brandt		Ballado/Giraldi	84
 21-74781	4	1	2	3	1	77595t	rkr496	axdzdj	jse6q2	SF		Ballado/Giraldi		Milojevic/Kononovych	Walkover
 21-74781	4	1	2	3	1	stc1ir	lulu7o	1gbc5q	ufursx	SF		Ristanovic/Brandt		Shah/Kramarova	Walkover
+21-74915	2	1	1	6	1	wy5ink	591zp7	gk8eo2	b1gdej	F		Buzkova/Mihaljevic		Dalla-Bona/Richtero…	62 64
+21-74915	2	1	1	5	1	gk8eo2	b1gdej	71gdej	0imwys	SF		Dalla-Bona/Richtero…	1	Pursell/Verden-Ande…	76(3) 61
+21-74915	2	1	1	5	1	wy5ink	591zp7	5q5238	rii0mc	SF		Buzkova/Mihaljevic		Morett/Kuo	63 64
+21-74915	2	1	1	4	1	71gdej	0imwys	nwuyui	gobsp2	QF	1	Pursell/Verden-Ande…	5	Abramyan/Heimuli	86
+21-74915	2	1	1	4	1	gk8eo2	b1gdej	j0xcvi	x0meya	QF		Dalla-Bona/Richtero…		Challa/Zhu	86
+21-74915	2	1	1	4	1	5q5238	rii0mc	b6bapk	dcnsde	QF		Morett/Kuo		Haugen/Goheen	86
+21-74915	2	1	1	4	1	wy5ink	591zp7	3jajwd	1wuyui	QF		Buzkova/Mihaljevic	2	Aher/Asano	87(4)
+21-74915	2	1	1	3	1	71gdej	0imwys	08muim	qz3df9	16	1	Pursell/Verden-Ande…		Kovacs/Hu	87(4)
+21-74915	2	1	1	3	1	nwuyui	gobsp2	iwwe0q	m1itkr	16	5	Abramyan/Heimuli		Fernandez Villa/Zeh…	86
+21-74915	2	1	1	3	1	gk8eo2	b1gdej	b8iy66	giza18	16		Dalla-Bona/Richtero…		Azran/Helgesson	85
+21-74915	2	1	1	3	1	j0xcvi	x0meya	185k3q	7o9cju	16		Challa/Zhu		Melville/Beltran	84
+21-74915	2	1	1	3	1	5q5238	rii0mc	ximwys	xfsbmp	16		Morett/Kuo		Zhao/Fang	86
+21-74915	2	1	1	3	1	b6bapk	dcnsde	r9gtyv	oh7rr7	16		Haugen/Goheen		Forster/Stanojevic	87(5)
+21-74915	2	1	1	3	1	wy5ink	591zp7	8st0zq	nod8va	16		Buzkova/Mihaljevic	7	Bland/Millard	85
+21-74915	2	1	1	3	1	3jajwd	1wuyui	2gsmkm	swyu6y	16	2	Aher/Asano		Oliveira/Jhang	82
+21-74915	2	1	1	2	1	71gdej	0imwys	2ag4ws	y9i943	32	1	Pursell/Verden-Ande…		Odom/Le	83
+21-74915	2	1	1	2	1	08muim	qz3df9	wpohqf	6yo88o	32		Kovacs/Hu		Davies/Ferreira	82
+21-74915	2	1	1	2	1	nwuyui	gobsp2	6q16rs	rkca0i	32	5	Abramyan/Heimuli		Balzert/Pozo	85
+21-74915	2	1	1	2	1	iwwe0q	m1itkr	lz3df9	ucnsde	32		Fernandez Villa/Zeh…		Horwood/Hung	84
+21-74915	2	1	1	2	1	gk8eo2	b1gdej	umhibw	s6f610	32		Dalla-Bona/Richtero…	4	Baptista/Stewart	87(4)
+21-74915	2	1	1	2	1	b8iy66	giza18	9psd2v	lbrdrx	32		Azran/Helgesson		Palma/Horacek	85
+21-74915	2	1	1	2	1	j0xcvi	x0meya	uy7yts	vnfd3l	32		Challa/Zhu	8	Goncharova/Huang	83
+21-74915	2	1	1	2	1	185k3q	7o9cju	gac8kc	n03od6	32		Melville/Beltran		Flodin/Stelse	82
+21-74915	2	1	1	2	1	5q5238	rii0mc	5hk5un	etrvrf	32		Morett/Kuo		Fitch/Glozman	85
+21-74915	2	1	1	2	1	ximwys	xfsbmp	yq16rs	z387mh	32		Zhao/Fang	6	Burger/Riedmiller	87(6)
+21-74915	2	1	1	2	1	r9gtyv	oh7rr7	rhk5un	x69ujc	32		Forster/Stanojevic		Duhl/Beazley	87(4)
+21-74915	2	1	1	2	1	b6bapk	dcnsde	wnwnih	m03od6	32		Haugen/Goheen	3	Dush/Tattini	86
+21-74915	2	1	1	2	1	wy5ink	591zp7	j2rm9o	1ii0mc	32		Buzkova/Mihaljevic		Hersh/Lamoreaux	87(5)
+21-74915	2	1	1	2	1	8st0zq	nod8va	ic2mm2	zd2xkz	32	7	Bland/Millard		Astle/Lin	86
+21-74915	2	1	1	2	1	2gsmkm	swyu6y	ixwpyn	rp9nhr	32		Oliveira/Jhang		Oosterbaan/Mitkova	87(4)
+21-74915	2	1	1	2	1	3jajwd	1wuyui	z40qwi	uh3vfr	32	2	Aher/Asano		Cuquerella/Garcia-R…	84
+21-74915	2	1	1	1	1	2ag4ws	y9i943	s7595t	cba3c1	64		Odom/Le		Cho/Lang Gould	86
+21-74915	2	1	1	1	1	wpohqf	6yo88o	v5jrfj	dac8kc	64		Davies/Ferreira		Shah/Discenza	84
+21-74915	2	1	1	1	1	08muim	qz3df9	m834xi	oclc76	64		Kovacs/Hu		Genkova/Charalampidi	84
+21-74915	2	1	1	1	1	6q16rs	rkca0i	v7ozqx	2u4kss	64		Balzert/Pozo		Dittmann/Davis	85
+21-74915	2	1	1	1	1	lz3df9	ucnsde	o834xi	edj7zv	64		Horwood/Hung		Hildreth/Hsu	82
+21-74915	2	1	1	1	1	iwwe0q	m1itkr	los24y	tz79rp	64		Fernandez Villa/Zeh…		Dunlap/Sterk	85
+21-74915	2	1	1	1	1	gk8eo2	b1gdej	0z1x91	7goq86	64		Dalla-Bona/Richtero…		Campos/Ecton	82
+21-74915	2	1	1	1	1	b8iy66	giza18	9e28iw	s3ansp	64		Azran/Helgesson		Van Baelen/Villarejo	84
+21-74915	2	1	1	1	1	9psd2v	lbrdrx	xrir4l	4m08w0	64		Palma/Horacek		Longson/Damron	83
+21-74915	2	1	1	1	1	uy7yts	vnfd3l	yr1hpp	g4lwnu	64	8	Goncharova/Huang		Neyestani/Markova	83
+21-74915	2	1	1	1	1	j0xcvi	x0meya	ql4taj	0qkwcw	64		Challa/Zhu		County/Dekkers	82
+21-74915	2	1	1	1	1	gac8kc	n03od6	oc6iyi	drxld9	64		Flodin/Stelse		Kaftanova/Brink	87(4)
+21-74915	2	1	1	1	1	185k3q	7o9cju	blrf73	76u0ao	64		Melville/Beltran		Smith/Kong	83
+21-74915	2	1	1	1	1	5hk5un	etrvrf	dkr496	g4262q	64		Fitch/Glozman		Huang/Jiao	85
+21-74915	2	1	1	1	1	5q5238	rii0mc	0owyge	7r1hpp	64		Morett/Kuo		Oreshkina/Malinak	86
+21-74915	2	1	1	1	1	ximwys	xfsbmp	ipqxwn	t6bapk	64		Zhao/Fang		Kalaga/Gavino	87(4)
+21-74915	2	1	1	1	1	rhk5un	x69ujc	zv0ze9	ayo88o	64		Duhl/Beazley		Ernstberger/Conde V…	84
+21-74915	2	1	1	1	1	r9gtyv	oh7rr7	jp77bj	kfw7y5	64		Forster/Stanojevic		Huchet/Redondo	84
+21-74915	2	1	1	1	1	b6bapk	dcnsde	veh2rk	y85k3q	64		Haugen/Goheen		Moll Alles/Luneva	86
+21-74915	2	1	1	1	1	j2rm9o	1ii0mc	oixuv0	l7qfw5	64		Hersh/Lamoreaux		Chao/Kuo	85
+21-74915	2	1	1	1	1	wy5ink	591zp7	7fb17t	n1trhz	64		Buzkova/Mihaljevic		Huang/Chen	83
+21-74915	2	1	1	1	1	ic2mm2	zd2xkz	on0jux	ygu2qu	64		Astle/Lin		Puzak/Tokac	83
+21-74915	2	1	1	1	1	8st0zq	nod8va	hfqvgh	tyqoew	64	7	Bland/Millard		Abriola/Krause	87(5)
+21-74915	2	1	1	1	1	2gsmkm	swyu6y	s44m8y	9w0ac6	64		Oliveira/Jhang		O Lideadha/O Lidead…	80
+21-74915	2	1	1	1	1	ixwpyn	rp9nhr	psxwb6	m4jghm	64		Oosterbaan/Mitkova		Mellor/Honczaruk	87(5)
+21-74915	2	1	1	1	1	z40qwi	uh3vfr	17ozqx	4n0jux	64		Cuquerella/Garcia-R…		De Luna/Pope	85
+21-74915	2	2	1	1	1	5hk5un	gac8kc	ic2mm2	zd2xkz	64		Fitch/Flodin		Astle/Lin	63
+21-74915	2	2	1	1	1	s6f610	dac8kc	yr1hpp	g4lwnu	64		Stewart/Discenza		Neyestani/Markova	62
+21-74915	2	2	1	1	1	y85k3q	m834xi	bcp8jm	yq16rs	64		Luneva/Genkova		Nelson/Burger	63
+21-74915	2	2	1	1	1	rhk5un	x69ujc	wnwnih	ucnsde	64		Duhl/Beazley		Dush/Hung	64
+21-74915	2	2	1	1	1	ixwpyn	rp9nhr	9psd2v	lbrdrx	64		Oosterbaan/Mitkova		Palma/Horacek	61
+21-74915	2	2	1	1	1	dkr496	g4262q	9e28iw	s3ansp	64		Huang/Jiao		Van Baelen/Villarejo	64
+21-74915	2	2	1	1	1	oixuv0	2ag4ws	rk8eo2	tyqoew	64		Chao/Odom		Cormier/Krause	61
+21-74915	2	2	1	1	1	psxwb6	m4jghm	ipqxwn	t6bapk	64		Mellor/Honczaruk		Kalaga/Gavino	64
+21-74915	2	2	1	1	1	f0iimu	wpohqf	s44m8y	9w0ac6	64		Lombardi/Davies		O Lideadha/O Lidead…	63
+21-74915	2	2	1	1	1	uy7yts	v7qfw5	0z1x91	7goq86	64		Goncharova/Lamoreaux		Campos/Ecton	64
+21-74915	2	2	1	1	1	etrvrf	l7qfw5	0owyge	7r1hpp	64		Glozman/Kuo		Oreshkina/Malinak	62
+21-74915	2	2	1	1	1	s7595t	cba3c1	o834xi	edj7zv	64		Cho/Lang Gould		Hildreth/Hsu	64
+21-74915	2	2	1	1	1	jp77bj	kfw7y5	1ii0mc	lz3df9	64		Huchet/Redondo		Lamoreaux/Horwood	62
+21-74915	2	2	1	1	1	xrir4l	4m08w0	17ozqx	4n0jux	64		Longson/Damron		De Luna/Pope	76(4)
+21-74915	2	2	1	1	1	blrf73	76u0ao	veh2rk	oclc76	64		Smith/Kong		Moll Alles/Charalam…	62
+21-74915	2	2	1	1	1	z40qwi	uh3vfr	zv0ze9	ayo88o	64		Cuquerella/Garcia-R…		Ernstberger/Conde V…	75
+21-74915	2	2	1	1	1	on0jux	ygu2qu	y9i943	n03od6	64		Puzak/Tokac		Le/Stelse	61
+21-74915	2	3	1	1	1	tyqoew	0owyge	ic2mm2	zd2xkz	64		Krause/Oreshkina		Astle/Lin	63
+21-74915	2	3	1	1	1	dkr496	g4262q	n03od6	oixuv0	64		Huang/Jiao		Stelse/Chao	64
+21-74915	2	3	1	1	1	b8iy66	qz3df9	psxwb6	m4jghm	64		Azran/Hu		Mellor/Honczaruk	61
+21-74915	2	3	1	1	1	bcp8jm	yq16rs	3jajwd	1wuyui	64		Nelson/Burger		Aher/Asano	63
+21-74915	2	3	1	1	1	r9gtyv	oh7rr7	ximwys	xfsbmp	64		Forster/Stanojevic		Zhao/Fang	62
+21-74915	2	3	1	1	1	uy7yts	j2rm9o	etrvrf	l7qfw5	64		Goncharova/Hersh		Glozman/Kuo	61
+21-74915	2	3	1	1	1	oc6iyi	drxld9	z40qwi	uh3vfr	64		Kaftanova/Brink		Cuquerella/Garcia-R…	64
+21-74915	2	3	1	1	1	185k3q	7o9cju	iwwe0q	m1itkr	64		Melville/Beltran		Fernandez Villa/Zeh…	63
+21-74915	2	3	1	1	1	wnwnih	v7qfw5	5hk5un	gac8kc	64		Dush/Lamoreaux		Fitch/Flodin	75
+21-74915	2	3	1	1	1	nwuyui	gobsp2	6q16rs	7goq86	64		Abramyan/Heimuli		Balzert/Ecton	63
+21-74915	2	3	1	1	1	xrir4l	4m08w0	9e28iw	s3ansp	64		Longson/Damron		Van Baelen/Villarejo	64
+21-74915	2	3	1	1	1	17ozqx	4n0jux	o834xi	edj7zv	64		De Luna/Pope		Hildreth/Hsu	64
+21-74915	2	3	1	1	1	blrf73	76u0ao	rk8eo2	hfqvgh	64		Smith/Kong		Cormier/Abriola	63
+21-74915	2	3	1	1	1	f0iimu	wpohqf	2ag4ws	y9i943	64		Lombardi/Davies		Odom/Le	63
+21-74915	2	3	1	1	1	1ii0mc	ucnsde	on0jux	ygu2qu	64		Lamoreaux/Hung		Puzak/Tokac	64
 21-75174	2	1	1	1	1	vvnlbt	yazuhw	nd0her	eigkg4	16		Rutowska/Tcherkes-Z…		Coetzee/Fraile Tobo…	63
 21-75174	2	1	1	1	1	l6u0ao	rhml0v	ap77bj	i462e6	16		Lee/Lee		Hedrzak/Turchak	63
 21-75174	2	1	1	1	1	r1xntf	lzqzct	2trvrf	6rmng1	16		Miroshnichenko/Vora…		Han/Willson	64
@@ -3365,6 +3679,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-90634	2	5	2	1	1	n4lwnu	fsvg5y	1p9nhr	6talcj	SQ		Nelson/Girard		Molloy/Li	80
 21-90634	2	5	3	1	1	885k3q	yiza18	pu4kss	tz1x91	F		Magnani/Geske		Ferguson/Barretto	84
 21-90634	2	6	1	1	1	aq16rs	7d6twf	1p9nhr	6talcj	F		Beth/Yerges		Molloy/Li	81
+21-91007	2	1	1	1		j0emae	4kpo3y	qbv93d	8p5r5b	16	1	Allen/Boulais		Semenovski/Cataldi	Fri @ 09:00
+21-91007	2	1	1	1		ke28iw	uigkg4	kb670l	x5jrfj	16		Treiber/Ferrari		Alcala/Teske	Fri @ 09:00
+21-91007	2	1	1	1		ujt9hh	44lwnu	dfb17t	7jibk9	16		Brown/Miller		Heuser/Yeah	Fri @ 09:00
+21-91007	2	1	1	1		m2t2fw	2psd2v	p5w5iz	hse6q2	16		McColgan/Pratt	4	Freeman/Lilien	Fri @ 09:00
+21-91007	2	1	1	1		q1v7n7	ob8n6t	r1gdej	0h1f9j	16	3	Hand/Crowley		Ratliff/Cantos Siem…	Fri @ 09:00
+21-91007	2	1	1	1		vqq8uk	j0g2gm	44262q	ll2d4b	16		Duong/Frazier		Kizelbasheva/Antoni…	Fri @ 09:00
+21-91007	2	1	1	1		fktkfe	xur6pc	yc2mm2	wp5r5b	16		Mukhortova/Stoica		Andreach/Beckman	Fri @ 09:30
+21-91007	2	1	1	1		4os24y	w2acus	djgve1	0u60y0	16		Fliegner/Kelly	2	Pietrowicz/Lewis	Fri @ 09:30
 21-91243	2	1	1	4	1	dpohqf	1xu9sf	xzm30d	cvjpzd	F		Frayman/Joyce		Kung/Gong	64 16 [6]
 21-91243	2	1	1	3	1	dpohqf	1xu9sf	h1ch23	t2p63g	SF		Frayman/Joyce		Curnic/Bryzgalova	61 62
 21-91243	2	1	1	3	1	xzm30d	cvjpzd	j93fvf	julu7o	SF		Kung/Gong		Rutlauka/Chan	62 64
@@ -3457,6 +3779,23 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-92623	2	6	1	1	1	xzm30d	cvjpzd	7clc76	8psd2v	QF		Kung/Gong		Benedetto/Peus	62
 21-92623	2	6	1	1	1	rzknu5	az79rp	nm2o28	ajx5tx	QF		Dunleavy/Shrivistava		Lau/Newman	63
 21-92623	2	6	1	1	1	t2acus	ekpo3y	qw0ac6	nfb17t	QF		Lin/Bretkelly		Reddy/Hofflander	60
+21-93512	4	1	1	1		qaxebo	2dln53	tvjpzd	6i1q7g	16		Martinez/Medel		Ibarra/Navarro	Fri @ 14:00
+21-93512	4	1	1	1		4795h9	tw2qie	85l7lr	wdpjhj	16		Ly/Vidnere		Alas/Cota	Fri @ 14:00
+21-93512	4	1	1	1		mm448g	7zknu5	6oyemm	krir4l	16		Ozzor/Dirr		Tuells Bonet/Kohout…	Fri @ 14:00
+21-93512	4	1	1	1		2u8g48	ed6twf	vlpz1v	lxwpyn	16		Recuenco/Wagner		Menendez/Portalier	Fri @ 14:00
+21-93512	4	1	1	1		toqmyq	8fyn4d	ne0sco	8h7rr7	16		Amaro/Vandeputte		Pepe/Subias	Fri @ 14:00
+21-93512	4	1	1	1		3hk5un	77ub8l	eu60y0	wixuv0	16		Daud/Yigin		Jones/Blachon	Fri @ 14:00
+21-93512	4	1	1	1		b0meya	0jvpnp	5y9ez0	1rz1jh	16		Turro/Hartlohner		Mazzella/Garcia	Fri @ 14:00
+21-93512	4	1	1	1		8z9pxx	eydabg	blnjvn	nbv93d	16		Didkovska/Valiaeva		Garza/Takanishi	Fri @ 14:00
+21-93512	4	2	1	2		wtpfl7	zatiz8	3ndxxd	hg50n2	16		Breedlove/Barfoot		Beau/Bryjarsdottir	Fri @ 14:00
+21-93512	4	2	1	2		0ktkfe	ktrvrf	1l8pmz	x5fv33	16		Moore/Gallman		Piltaver/Hamilton	Fri @ 14:00
+21-93512	4	2	1	2		40187y	faik20	2oh47q	2ct4v2	16		Marin/Wooten		Cota/Stockett	Fri @ 14:00
+21-93512	4	2	1	2		4talcj	ujef8t	72rm9o	2jcz2l	16		Karm/Lewis		Garcia/Costa	Fri @ 14:00
+21-93512	4	2	1	2		cz79rp	hrgbyd	xla5s7	68709y	16		Sacco/Fioravanti		Vorobiova/Starreveld	Fri @ 14:00
+21-93512	4	2	1	2		mn0jux	zv4vqp	e4psza	8tx793	16		Novis/Owen		Rodriguez/Roberts	Fri @ 14:00
+21-93512	4	2	1	1		prgbyd	7xu9sf	qq9yfo	sbcji9	32		De La Torre/Izco		Saving/Rivoal	Fri @ 13:00
+21-93512	4	2	1	1		q2xyrc	kr5d15	oc8y4q	4v6bwx	32		Barrio/Barrio		Pinto/Villalvazo	Fri @ 13:00
+21-93512	4	2	1	1		74jghm	2i5mjw	27mjkp	wo9cju	32		Hesterlee/Roberts		Arevalo/Bishop	Fri @ 13:00
 21-93790	4	1	1	6	1	vyqoew	mse6q2	781ora	8ur6pc	F	3	Jorge/Lippert		Chamoun/Spice	85
 21-93790	4	1	1	5	1	781ora	8ur6pc	4ag4ws	5t6p03	SF		Chamoun/Spice	9	Ramirez/Abrile	85
 21-93790	4	1	1	5	1	vyqoew	mse6q2	i3rx7l	kkeq6q	SF	3	Jorge/Lippert	2	Schlagenhauf/Traub	85
@@ -3599,38 +3938,38 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-97501	4	2	1	1	1	s5fv33	pxdzdj	k1trhz	qn0jux	32		Hadjigeorgiou/Monko		Bremel/Paradise	76(3)
 21-97501	4	2	1	1	1	10zs1q	h8709y	tjef8t	e5upcr	32		Hapuku/Snezhko		Jancikova/Arce Viey…	76(7)
 21-97501	4	2	1	1	1	sunadw	md2xkz	ok8eo2	hur6pc	32		Granson/Kistanova		ElNemr/Talavera	63
-21-97599	2	1	1	1		s26gic	m0iimu	xd6twf	qaeoqk	64	1	Adeshina/Kuczer		Woog/Jones	Thu @ 15:30
-21-97599	2	1	1	1		jh1f9j	02t2fw	bq7i9g	v0kys2	64		Bakhodirova/Morales		Steif/Ondo	Thu @ 15:30
-21-97599	2	1	1	1		jejixs	2kv0lm	1wj0xa	83n1v5	64	9	Sawyer/Simova		Staiculescu/Hernand…	Thu @ 15:30
-21-97599	2	1	1	1		16wggw	gefmlc	asgmwa	2hqhcb	64		Roggenburk/Graham		Popova/Trbeznik	Thu @ 15:30
-21-97599	2	1	1	1		k3ph1d	m7blnh	gfb17t	jfyn4d	64	5	Molina/Stevens		Getty/Trondson	Thu @ 15:30
-21-97599	2	1	1	1		53ansp	3fyn4d	nbpxlp	zjx5tx	64		Zalukar/Valentinsson		Bernard/Lounsbury	Thu @ 15:30
-21-97599	2	1	1	1		4azuhw	uqosoc	c2t2fw	5f9l1l	64	9	Stevens/Rompf		Mauro/Barnard	Thu @ 15:30
-21-97599	2	1	1	1		o4jghm	zaxebo	55upcr	sp77bj	64		Guna/Miceli		Abel/Gibbens	Thu @ 15:30
-21-97599	2	1	1	1		0rgbyd	c0iimu	m0g2gm	eejixs	64	4	Cruz/Kourkina		Denysiewicz-Slowek/…	Thu @ 15:30
-21-97599	2	1	1	1		4vl55l	kdhrtn	t8709y	ty7yts	64		Lukacs/Braun		Schmidt/Gupta	Thu @ 15:30
-21-97599	2	1	1	1		03ph1d	9la5s7	bdln53	lv6bwx	64	9	Mertena/Tomase		Morris/Torrealba	Thu @ 15:30
-21-97599	2	1	1	1		m34ba1	lod8va	fd6twf	zwdofm	64		Flanagan/Niehaus		van Hee/Bosman	Thu @ 15:30
-21-97599	2	1	1	1		xtvr3v	ug9wzi	uh7rr7	42cs00	64	5	Teixido-Garcia/Meyer		Smith/Nwaozuzu	Thu @ 15:30
-21-97599	2	1	1	1		u9i943	z8oaou	61gdej	79x3dr	64		Kothakota/Rosenberg…		Richardson/Callwood	Thu @ 15:30
-21-97599	2	1	1	1		b2t2fw	01ex8b	aszche	9yukqc	64	9	Milic/Larranaga		Solomon/Zholdakova	Thu @ 15:30
-21-97599	2	1	1	1		2m08w0	2vjpzd	u4h0be	rvh9t5	64		Eades/Girbau		Balthazor/Beavin	Thu @ 15:30
-21-97599	2	1	1	1		b1trhz	mg7gta	vmlenc	5i36do	64		Bergqvist/Holmes		Masic/Schneider	Thu @ 15:30
-21-97599	2	1	1	1		bfb17t	eunadw	em448g	0d4dq7	64		Gasparin/Galindo	9	Reayer/Romero	Thu @ 15:30
-21-97599	2	1	1	1		9wwe0q	7d0her	lobsp2	rikgsk	64		Duckworth/Creath		Henry/Roberts	Thu @ 16:00
-21-97599	2	1	1	1		b9x3dr	fc8y4q	du24mk	0lnjvn	64		Cheng/Paladini- Jen…	5	Arrese/Gonzalez	Thu @ 16:00
-21-97599	2	1	1	1		ajibk9	9jef8t	k6bapk	09x3dr	64		Ushio/Long		Howard/Bandy	Thu @ 16:30
-21-97599	2	1	1	1		gst0zq	cac8kc	36dqvs	zikgsk	64		Carvajal/Elizarraras	9	Mclay/Pendergast	Thu @ 16:30
-21-97599	2	1	1	1		grk7at	fxstm7	1pqxwn	9g7gta	64		Polishchuk/Davies		Koo/Grau	Thu @ 16:30
-21-97599	2	1	1	1		fdln53	yeww08	j5jrfj	x4262q	64		Niedzialowski/Espin…	3	Staff/Lee	Thu @ 16:30
-21-97599	2	1	1	1		bq16rs	87mjkp	xaeoqk	batiz8	64		Barnard/Alexis		Lee/Carelli	Thu @ 16:30
-21-97599	2	1	1	1		usi22i	93llpx	hd4dq7	5kca0i	64		Young/Billman	9	Ramasamy/Rico	Thu @ 16:30
-21-97599	2	1	1	1		i8oaou	t0iimu	vvh9t5	lkpo3y	64		Peeler/Kaplan		Boesing/Beavin	Thu @ 17:00
-21-97599	2	1	1	1		pxbj7b	6imwys	3upqj4	oazuhw	64		Grosmann/Tumthong	5	McGiffin/Symons	Thu @ 17:00
-21-97599	2	1	1	1		9rgbyd	7hk5un	3gq6ee	m4lwnu	64		Diachenko/Dobranos		Kyle/Lyman	Thu @ 17:00
-21-97599	2	1	1	1		ngbc5q	w32v4t	3v0ze9	8dj7zv	64		Sakurai/Albersmeier	9	Fodor/Gallardo Guev…	Thu @ 17:00
-21-97599	2	1	1	1		9wyu6y	vvl55l	l0kys2	dz3df9	64		Leder/Nakanishi		Ochalik/Grubb	Thu @ 17:00
-21-97599	2	1	1	1		kt6p03	hp77bj	3goq86	0caeay	64		Alfaro/Gorbunova	2	Di Palma/Verma	Thu @ 17:00
+21-97599	2	1	1	1		s26gic	m0iimu	xd6twf	qaeoqk	64	1	Adeshina/Kuczer		Woog/Jones	Fri @ 09:00
+21-97599	2	1	1	1		jh1f9j	02t2fw	bq7i9g	v0kys2	64		Bakhodirova/Morales		Steif/Ondo	Fri @ 09:00
+21-97599	2	1	1	1		jejixs	2kv0lm	1wj0xa	83n1v5	64	9	Sawyer/Simova		Staiculescu/Hernand…	Fri @ 09:00
+21-97599	2	1	1	1		16wggw	gefmlc	asgmwa	2hqhcb	64		Roggenburk/Graham		Popova/Trbeznik	Fri @ 09:00
+21-97599	2	1	1	1		k3ph1d	m7blnh	gfb17t	jfyn4d	64	5	Molina/Stevens		Getty/Trondson	Fri @ 09:00
+21-97599	2	1	1	1		53ansp	3fyn4d	nbpxlp	zjx5tx	64		Zalukar/Valentinsson		Bernard/Lounsbury	Fri @ 09:00
+21-97599	2	1	1	1		4azuhw	uqosoc	c2t2fw	5f9l1l	64	9	Stevens/Rompf		Mauro/Barnard	Fri @ 09:00
+21-97599	2	1	1	1		o4jghm	zaxebo	55upcr	sp77bj	64		Guna/Miceli		Abel/Gibbens	Fri @ 09:00
+21-97599	2	1	1	1		0rgbyd	c0iimu	m0g2gm	eejixs	64	4	Cruz/Kourkina		Denysiewicz-Slowek/…	Fri @ 09:00
+21-97599	2	1	1	1		4vl55l	kdhrtn	t8709y	ty7yts	64		Lukacs/Braun		Schmidt/Gupta	Fri @ 09:00
+21-97599	2	1	1	1		03ph1d	9la5s7	bdln53	lv6bwx	64	9	Mertena/Tomase		Morris/Torrealba	Fri @ 09:00
+21-97599	2	1	1	1		m34ba1	lod8va	fd6twf	zwdofm	64		Flanagan/Niehaus		van Hee/Bosman	Fri @ 09:00
+21-97599	2	1	1	1		xtvr3v	ug9wzi	uh7rr7	42cs00	64	5	Teixido-Garcia/Meyer		Smith/Nwaozuzu	Fri @ 09:00
+21-97599	2	1	1	1		u9i943	z8oaou	61gdej	79x3dr	64		Kothakota/Rosenberg…		Richardson/Callwood	Fri @ 09:00
+21-97599	2	1	1	1		b2t2fw	01ex8b	aszche	9yukqc	64	9	Milic/Larranaga		Solomon/Zholdakova	Fri @ 09:00
+21-97599	2	1	1	1		2m08w0	2vjpzd	u4h0be	rvh9t5	64		Eades/Girbau		Balthazor/Beavin	Fri @ 09:00
+21-97599	2	1	1	1		b1trhz	mg7gta	vmlenc	5i36do	64		Bergqvist/Holmes		Masic/Schneider	Fri @ 09:00
+21-97599	2	1	1	1		bfb17t	eunadw	em448g	0d4dq7	64		Gasparin/Galindo	9	Reayer/Romero	Fri @ 09:00
+21-97599	2	1	1	1		9wwe0q	7d0her	lobsp2	rikgsk	64		Duckworth/Creath		Henry/Roberts	Fri @ 09:00
+21-97599	2	1	1	1		b9x3dr	fc8y4q	du24mk	0lnjvn	64		Cheng/Paladini- Jen…	5	Arrese/Gonzalez	Fri @ 09:00
+21-97599	2	1	1	1		ajibk9	9jef8t	k6bapk	09x3dr	64		Ushio/Long		Howard/Bandy	Fri @ 09:30
+21-97599	2	1	1	1		gst0zq	cac8kc	36dqvs	zikgsk	64		Carvajal/Elizarraras	9	Mclay/Pendergast	Fri @ 09:30
+21-97599	2	1	1	1		grk7at	fxstm7	1pqxwn	9g7gta	64		Polishchuk/Davies		Koo/Grau	Fri @ 09:30
+21-97599	2	1	1	1		fdln53	yeww08	j5jrfj	x4262q	64		Niedzialowski/Espin…	3	Staff/Lee	Fri @ 09:30
+21-97599	2	1	1	1		bq16rs	87mjkp	xaeoqk	batiz8	64		Barnard/Alexis		Lee/Carelli	Fri @ 10:00
+21-97599	2	1	1	1		usi22i	93llpx	hd4dq7	5kca0i	64		Young/Billman	9	Ramasamy/Rico	Fri @ 10:00
+21-97599	2	1	1	1		i8oaou	t0iimu	vvh9t5	lkpo3y	64		Peeler/Kaplan		Boesing/Beavin	Fri @ 10:00
+21-97599	2	1	1	1		pxbj7b	6imwys	3upqj4	oazuhw	64		Grosmann/Tumthong	5	McGiffin/Symons	Fri @ 10:00
+21-97599	2	1	1	1		9rgbyd	7hk5un	3gq6ee	m4lwnu	64		Diachenko/Dobranos		Kyle/Lyman	Fri @ 10:00
+21-97599	2	1	1	1		ngbc5q	w32v4t	3v0ze9	8dj7zv	64		Sakurai/Albersmeier	9	Fodor/Gallardo Guev…	Fri @ 10:00
+21-97599	2	1	1	1		9wyu6y	vvl55l	l0kys2	dz3df9	64		Leder/Nakanishi		Ochalik/Grubb	Fri @ 10:00
+21-97599	2	1	1	1		kt6p03	hp77bj	3goq86	0caeay	64		Alfaro/Gorbunova	2	Di Palma/Verma	Fri @ 10:00
 21-98114	2	1	1	4	1	8p9nhr	9zqzct	e2p63g	rt856b	F		Martinelli/Wooten		Briggs/Dudeney	62
 21-98114	2	1	1	3	1	e2p63g	rt856b	7sgmwa	b34ba1	SF		Briggs/Dudeney		Omirou/Coleman	64
 21-98114	2	1	1	3	1	8p9nhr	9zqzct	128wok	jhqhcb	SF		Martinelli/Wooten		Crawley/Yarlagadda	75
