@@ -1,11 +1,11 @@
 ---
-tournaments: 333
-events: 744
-eventsWithDraws: 495
-eventsWithoutDraws: 249
-draws: 1759
-brackets: 3540
-results: 49057
+tournaments: 334
+events: 746
+eventsWithDraws: 501
+eventsWithoutDraws: 245
+draws: 1806
+brackets: 3601
+results: 51095
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00186	1	1	1	M	Men's Open Singles	Division II	East	16,QF,SF,F	15
@@ -778,6 +778,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-15310	1	1	1	W	Women's Open Singles	Draw	Main	128,64,32,16,QF,SF,F	127
 21-15310	1	2	1	W	Women's Open Singles	Extra Matches 10/22	Main	128,64,32,16,QF,SF,F	127
 21-15310	1	3	1	W	Women's Open Singles	Extra extra 10/22	Main	SF,F	3
+21-15310	1	4	1	W	Women's Open Singles	Extra Written Draws 10/22	Main	R1,R2,R3	6
+21-15310	1	5	1	W	Women's Open Singles	Written Singles 10/23	Main	128,64,32,16,QF,SF,F	127
+21-15310	1	6	1	W	Women's Open Singles	Written Draw 3 10/23	Main	16,QF,SF,F	15
+21-15310	1	7	1	W	Women's Open Singles	Written Draw 4 10/23	Main	F	1
 21-15310	2	1	1	W	Women's Open Doubles	Draw	Main	64,32,16,QF,SF,F	63
 21-15791	1			M	Men's Open Singles				
 21-15791	2			M	Men's Open Doubles				
@@ -811,40 +815,53 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-16089	2	4	1	W	Women's Open Doubles	#1 Doubles	Main	R1,R2,R3	6
 21-16812	1	1	1	M	Men's Open Singles	Singles Flight 1	Main	QF,SF,F	7
 21-16812	1	1	2	M	Men's Open Singles	Singles Flight 1	Consolation	SQ,SF,F	5
+21-16812	1	1	3	M	Men's Open Singles	Singles Flight 1	Playoff 3-4	F	1
 21-16812	1	2	1	M	Men's Open Singles	Singles Flight 2	Main	QF,SF,F	7
 21-16812	1	2	2	M	Men's Open Singles	Singles Flight 2	Consolation	SQ,SF,F	5
+21-16812	1	2	3	M	Men's Open Singles	Singles Flight 2	Playoff 3-4	F	1
 21-16812	1	3	1	M	Men's Open Singles	Singles Flight 3	Main	QF,SF,F	7
 21-16812	1	3	2	M	Men's Open Singles	Singles Flight 3	Consolation	SQ,SF,F	5
+21-16812	1	3	3	M	Men's Open Singles	Singles Flight 3	Playoff 3-4	F	1
 21-16812	1	4	1	M	Men's Open Singles	Singles Flight 4	Main	QF,SF,F	7
 21-16812	1	4	2	M	Men's Open Singles	Singles Flight 4	Consolation	SQ,SF,F	5
+21-16812	1	4	3	M	Men's Open Singles	Singles Flight 4	Playoff 3-4	F	1
 21-16812	1	5	1	M	Men's Open Singles	Singles Flight 5	Main	QF,SF,F	7
 21-16812	1	5	2	M	Men's Open Singles	Singles Flight 5	Consolation	SQ,SF,F	5
+21-16812	1	5	3	M	Men's Open Singles	Singles Flight 5	Playoff 3-4	F	1
 21-16812	1	6	1	M	Men's Open Singles	Singles Flight 6	Main	QF,SF,F	7
 21-16812	1	6	2	M	Men's Open Singles	Singles Flight 6	Consolation	SQ,SF,F	5
+21-16812	1	6	3	M	Men's Open Singles	Singles Flight 6	Playoff 3-4	F	1
 21-16812	2	1	1	W	Women's Open Singles	Women's Flight 1	Main	QF,SF,F	7
 21-16812	2	1	2	W	Women's Open Singles	Women's Flight 1	Consolation	SQ,SF,F	5
+21-16812	2	1	3	W	Women's Open Singles	Women's Flight 1	Playoff 3-4	F	1
 21-16812	2	2	1	W	Women's Open Singles	Women's Flight 2	Main	QF,SF,F	7
 21-16812	2	2	2	W	Women's Open Singles	Women's Flight 2	Consolation	SQ,SF,F	5
+21-16812	2	2	3	W	Women's Open Singles	Women's Flight 2	Playoff 3-4	F	1
 21-16812	2	3	1	W	Women's Open Singles	Women's Flight 3	Main	QF,SF,F	7
 21-16812	2	3	2	W	Women's Open Singles	Women's Flight 3	Consolation	SQ,SF,F	5
+21-16812	2	3	3	W	Women's Open Singles	Women's Flight 3	Playoff 3-4	F	1
 21-16812	2	4	1	W	Women's Open Singles	Women's Flight 4	Main	QF,SF,F	7
 21-16812	2	4	2	W	Women's Open Singles	Women's Flight 4	Consolation	SQ,SF,F	5
+21-16812	2	4	3	W	Women's Open Singles	Women's Flight 4	Playoff 3-4	F	1
 21-16812	2	5	1	W	Women's Open Singles	Women's Flight 5	Main	R1,R2,R3	6
 21-16812	2	5	2	W	Women's Open Singles	Women's Flight 5	Playoff 1	F	1
 21-16812	2	5	3	W	Women's Open Singles	Women's Flight 5	Playoff 2	F	1
 21-16812	2	5	4	W	Women's Open Singles	Women's Flight 5	Playoff 3	F	1
 21-16812	3	1	1	M	Men's Open Doubles	Men's Doubles Flight 1	Main	QF,SF,F	7
 21-16812	3	1	2	M	Men's Open Doubles	Men's Doubles Flight 1	Consolation	SQ,SF,F	5
-21-16812	3	2	1	M	Men's Open Doubles	Men's Doubles Flight 2	Main	QF,SF,F	7
-21-16812	3	2	2	M	Men's Open Doubles	Men's Doubles Flight 2	Consolation	SQ,SF,F	5
-21-16812	3	3	1	M	Men's Open Doubles	Men's Doubles Flight 3	Main	QF,SF,F	7
-21-16812	3	3	2	M	Men's Open Doubles	Men's Doubles Flight 3	Consolation	SQ,SF,F	5
+21-16812	3	1	3	M	Men's Open Doubles	Men's Doubles Flight 1	Playoff 3-4	F	1
+21-16812	3	2	1	M	Men's Open Doubles	Men's Doubles Flight 3	Main	QF,SF,F	7
+21-16812	3	2	2	M	Men's Open Doubles	Men's Doubles Flight 3	Consolation	SQ,SF,F	5
+21-16812	3	2	3	M	Men's Open Doubles	Men's Doubles Flight 3	Playoff 3-4	F	1
 21-16812	4	1	1	W	Women's Open Doubles	Women's Doubles 1	Main	QF,SF,F	7
 21-16812	4	1	2	W	Women's Open Doubles	Women's Doubles 1	Consolation	SQ,SF,F	5
+21-16812	4	1	3	W	Women's Open Doubles	Women's Doubles 1	Playoff 3-4	F	1
 21-16812	4	2	1	W	Women's Open Doubles	Women's Doubles 2	Main	QF,SF,F	7
 21-16812	4	2	2	W	Women's Open Doubles	Women's Doubles 2	Consolation	SQ,SF,F	5
+21-16812	4	2	3	W	Women's Open Doubles	Women's Doubles 2	Playoff 3-4	F	1
 21-16812	4	3	1	W	Women's Open Doubles	Women's Doubles 3	Main	QF,SF,F	7
 21-16812	4	3	2	W	Women's Open Doubles	Women's Doubles 3	Consolation	SQ,SF,F	5
+21-16812	4	3	3	W	Women's Open Doubles	Women's Doubles 3	Playoff 3-4	F	1
 21-17243	1	1	1	M	Men's Open Singles	Flight A	Main	QF,SF,F	7
 21-17243	1	1	2	M	Men's Open Singles	Flight A	Consolation	SQ,SF,F	5
 21-17243	1	2	1	M	Men's Open Singles	Flight B	Main	QF,SF,F	7
@@ -926,8 +943,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-19682	2			M	Men's Open Doubles				
 21-19898	1	1	1	M	Men's Open Singles	Draw	Main	64,32,16,QF,SF,F	63
 21-19898	2	1	1	M	Men's Open Doubles	New England ITA Doubles Draw	Main	64,32,16,QF,SF,F	63
-21-20217	1			W	Women's Open Singles				
-21-20217	2			W	Women's Open Doubles				
+21-20217	1	1	1	W	Women's Open Singles	Friday	Main	32,16,QF,SF,F	31
+21-20217	1	2	1	W	Women's Open Singles	Saturday	Main	32,16,QF,SF,F	31
+21-20217	2	1	1	W	Women's Open Doubles	Friday	Main	16,QF,SF,F	15
+21-20217	2	2	1	W	Women's Open Doubles	Saturday	Main	16,QF,SF,F	15
 21-20291	1			M	Men's Open Singles				
 21-20291	2			M	Men's Open Doubles				
 21-20374	1	1	1	M	Men's Open Singles	Draw	Main	128,64,32,16,QF,SF,F	127
@@ -1163,6 +1182,12 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-24494	1			W	Women's Open Singles				
 21-24494	2			W	Women's Open Doubles				
 21-25213	1	3	1	W	Women's Open Singles	Singles Main	Main	128,64,32,16,QF,SF,F	127
+21-25213	1	4	1	W	Women's Open Singles	Singles Main Cons	Main	32,16,QF,SF,F	31
+21-25213	1	5	1	W	Women's Open Singles	Extra Matches I	Main	64,32,16,QF,SF,F	63
+21-25213	1	6	1	W	Women's Open Singles	Extra Matches II	Main	QF,SF,F	7
+21-25213	1	7	1	W	Women's Open Singles	Extra Matches III	Main	32,16,QF,SF,F	31
+21-25213	1	8	1	W	Women's Open Singles	Extra Matches IV	Main	QF,SF,F	7
+21-25213	1	9	1	W	Women's Open Singles	Extra Matches V	Main	QF,SF,F	7
 21-25213	1	101	1	W	Women's Open Singles	Singles Qualifiers	Main	128,64,32,16,QF,SF,F	127
 21-25213	1	102	1	W	Women's Open Singles	Singles Qualifiers Cons	Main	64,32,16,QF,SF,F	63
 21-25213	2	1	1	W	Women's Open Doubles	Doubles	Main	128,64,32,16,QF,SF,F	127
@@ -1653,8 +1678,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-34233	2	4	1	W	Women's Open Doubles	Flight B Backdraw	Main	QF,SF,F	7
 21-34233	2	5	1	W	Women's Open Doubles	Flight C	Main	16,QF,SF,F	15
 21-34233	2	6	1	W	Women's Open Doubles	Flight C Backdraw	Main	SF,F	3
-21-34853	1			M	Men's Open Singles				
-21-34853	2			M	Men's Open Doubles				
+21-34853	1	1	1	M	Men's Open Singles	Main Singles Draw	Main	128,64,32,16,QF,SF,F	127
+21-34853	1	102	1	M	Men's Open Singles	Qualifying Singles Draw	Main	64,32,16,QF,SF,F	63
+21-34853	2	1	1	M	Men's Open Doubles	Double Main Draw	Main	64,32,16,QF,SF,F	63
+21-34853	2	102	1	M	Men's Open Doubles	Doubles Qualifying Draw	Main	16,QF,SF,F	15
 21-35169	1	1	1	M	Men's Open Singles	Main Draw A	Main	64,32,16,QF,SF,F	63
 21-35169	1	1	2	M	Men's Open Singles	Main Draw A	Consolation	32Q,32,16,QF,SF,F	47
 21-35169	1	2	1	M	Men's Open Singles	Draw B	Main	R1,R2,R3,R4,R5	10
@@ -1702,7 +1729,11 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-36446	2	2	1	M	Men's Open Doubles	Day Two Matches	Main	32,16,QF,SF,F	31
 21-36446	2	3	1	M	Men's Open Doubles	Day Three Matches	Main	32,16,QF,SF,F	31
 21-36554	1	1	1	W	Women's Open Singles	Singles_Round 1	Main	32,16,QF,SF,F	31
+21-36554	1	2	1	W	Women's Open Singles	Singles_Round 2	Main	32,16,QF,SF,F	31
+21-36554	1	3	1	W	Women's Open Singles	Singles_Round 3	Main	32,16,QF,SF,F	31
 21-36554	2	1	1	W	Women's Open Doubles	Doubles_Round 1	Main	16,QF,SF,F	15
+21-36554	2	2	1	W	Women's Open Doubles	Doubles_Round 2	Main	16,QF,SF,F	15
+21-36554	2	3	1	W	Women's Open Doubles	Doubles_Round 3	Main	16,QF,SF,F	15
 21-36572	1	1	1	M	Men's Open Singles	Flight 1	Main	QF,SF,F	7
 21-36572	1	1	2	M	Men's Open Singles	Flight 1	Consolation	SQ,SF,F	5
 21-36572	1	1	3	M	Men's Open Singles	Flight 1	Playoff 3-4	F	1
@@ -1803,6 +1834,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-40280	3	1	1	M	Men's Open Doubles	Doubles Round 1	Main	R1,R2,R3,R4,R5,R6,R7	84
 21-40280	3	2	1	M	Men's Open Doubles	Doubles Round 2	Main	R1,R2,R3,R4,R5,R6,R7	56
 21-40280	3	3	1	M	Men's Open Doubles	Doubles Round 3	Main	R1,R2,R3,R4,R5,R6,R7	84
+21-40389	1	1	1	W	Women's Open Singles	Friday Draw	Main	64,32,16,QF,SF,F	63
+21-40389	2	1	1	W	Women's Open Doubles	Friday Draw	Main	32,16,QF,SF,F	31
 21-40542	1	1	1	W	Women's Open Singles	Friday Singles	Main	32,16,QF,SF,F	31
 21-40542	1	2	1	W	Women's Open Singles	Saturday Singles	Main	32,16,QF,SF,F	31
 21-40542	1	3	1	W	Women's Open Singles	Sunday Singles	Main	32,16,QF,SF,F	31
@@ -2102,6 +2135,11 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-49643	1	1	2	M	Men's Open Singles	Draw	Consolation	32Q,32,16,QF,SF,F	47
 21-49643	2	1	1	M	Men's Open Doubles	Doubles Draw	Main	32,16,QF,SF,F	31
 21-49776	1	1	1	W	Women's Open Singles	Draw	Main	32,16,QF,SF,F	31
+21-49776	1	2	1	W	Women's Open Singles	Singles Backdraw I	Main	QF,SF,F	7
+21-49776	1	3	1	W	Women's Open Singles	Singles Backdraw II	Main	QF,SF,F	7
+21-49776	1	4	1	W	Women's Open Singles	Extra Matches	Main	32,16,QF,SF,F	31
+21-49776	1	5	1	W	Women's Open Singles	Another Sunday Match	Main	F	1
+21-49776	1	6	1	W	Women's Open Singles	Various other backdraw matches	Main	16,QF,SF,F	15
 21-49776	2	1	1	W	Women's Open Doubles	Draw	Main	16,QF,SF,F	15
 21-50059	1			M	Men's Open Singles				
 21-50059	2			M	Men's Open Doubles				
@@ -2180,6 +2218,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-50726	1	1	1	M	Men's Open Singles	Draw	Main	128,64,32,16,QF,SF,F	127
 21-50726	1	1	2	M	Men's Open Singles	Draw	Consolation	64Q,64,32,16,QF,SF,F	95
 21-50726	1	2	1	M	Men's Open Singles	Extra matches	Main	16,QF,SF,F	15
+21-50726	1	3	1	M	Men's Open Singles	Extra Matches (Sat.)	Main	32,16,QF,SF,F	31
 21-50726	2	1	1	M	Men's Open Doubles	Draw	Main	64,32,16,QF,SF,F	63
 21-50924	1			W	Women's Open Singles				
 21-50924	2			W	Women's Open Doubles				
@@ -2400,6 +2439,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-64248	2	3	1	M	Men's Open Doubles	Backdraw	Main	64,32,16,QF,SF,F	63
 21-64248	2	4	1	M	Men's Open Doubles	Backdraw 2	Main	F	1
 21-64282	1	2	1	M	Men's Open Singles	Main Singles	Main	64,32,16,QF,SF,F	63
+21-64282	1	4	1	M	Men's Open Singles	Backdraw	Main	32,16,QF,SF,F	31
 21-64282	1	101	1	M	Men's Open Singles	Qualifying Singles	Main	64,32,16,QF,SF,F	63
 21-64282	1	103	1	M	Men's Open Singles	Qualifying Singles Consolation	Main	32,16,QF,SF,F	31
 21-64282	2	2	1	M	Men's Open Doubles	Main Doubles	Main	32,16,QF,SF,F	31
@@ -2435,6 +2475,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-64584	4	1	1	W	Women's Open Doubles	Draw	Main	32,16,QF,SF,F	31
 21-64584	4	1	2	W	Women's Open Doubles	Draw	Consolation	16Q,16,QF,SF,F	23
 21-64957	1	1	1	M	Men's Open Singles	Draw	Main	32,16,QF,SF,F	31
+21-64957	1	2	1	M	Men's Open Singles	Men's Singles Consolation	Main	16,QF,SF,F	15
 21-64957	2	1	1	M	Men's Open Doubles	Draw	Main	16,QF,SF,F	15
 21-65691	1			M	Men's Open				
 21-65691	2			M	Men's Open Singles				
@@ -2601,6 +2642,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-68261	2	1	2	W	Women's Open Doubles	Draw	Consolation	16Q,16,QF,SF,F	23
 21-68924	1			W	Women's Open Singles				
 21-68924	2			W	Women's Open Doubles				
+21-68953	1	2	1	M	Men's Open Singles	MSU Men's FMC	Main	32,16,QF,SF,F	31
+21-68953	1	3	1	M	Men's Open Singles	Main Draw	Main	64,32,16,QF,SF,F	63
+21-68953	1	3	2	M	Men's Open Singles	Main Draw	Consolation	32Q,32,16,QF,SF,F	47
+21-68953	1	4	1	M	Men's Open Singles	Main Draw Consolation Matches	Main	32,16,QF,SF,F	31
 21-68953	1	101	1	M	Men's Open Singles	Qualifying Draw	Main	256,128,64,32,16,QF,SF,F	255
 21-68953	1	101	2	M	Men's Open Singles	Qualifying Draw	Consolation	128Q,128,64,32,16,QF,SF,F	191
 21-68953	2	1	1	M	Men's Open Doubles	Draw	Main	64,32,16,QF,SF,F	63
@@ -2617,8 +2662,12 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-69139	1	4	1	M	Men's Open Singles	Delaware	Main	R1,R2,R3	6
 21-69139	1	5	1	M	Men's Open Singles	Main draw	Main	32,16,QF,SF,F	31
 21-69139	1	5	2	M	Men's Open Singles	Main draw	Consolation	16Q,16,QF,SF,F	23
+21-69139	1	6	1	M	Men's Open Singles	Consolation	Main	16,QF,SF,F	15
+21-69139	1	6	2	M	Men's Open Singles	Consolation	Consolation	QQ,QF,SF,F	11
+21-69139	1	7	1	M	Men's Open Singles	Extra matches	Main	64,32,16,QF,SF,F	63
 21-69139	2	1	1	M	Men's Open Doubles	Draw	Main	16,QF,SF,F	15
 21-69139	2	1	2	M	Men's Open Doubles	Draw	Consolation	QQ,QF,SF,F	11
+21-69139	2	2	1	M	Men's Open Doubles	Extra matches	Main	SF,F	3
 21-69307	1	1	1	M	Men's Open Singles	Blue	East	32,16,QF,SF,F	31
 21-69307	1	1	2	M	Men's Open Singles	Blue	West	16,QF,SF,F	15
 21-69307	1	1	3	M	Men's Open Singles	Blue	North	QF,SF,F	7
@@ -3301,7 +3350,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-90634	2	5	3	W	Women's Open Doubles	Flight 3	Playoff 3-4	F	1
 21-90634	2	6	1	W	Women's Open Doubles	Flight 3 7/8	Main	F	1
 21-91007	1	1	1	W	Women's Open Singles	Main Draw	Main	32,16,QF,SF,F	31
-21-91007	2	1	1	W	Women's Open Doubles	Draw	Main	16,QF,SF,F	15
+21-91007	2	1	1	W	Women's Open Doubles	Main Draw	Main	16,QF,SF,F	15
 21-91236	1	1	1	M	Men's Open Singles	Eiu-uis	Main	R1,R2,R3	18
 21-91236	1	2	1	M	Men's Open Singles	Eiu-csu	Main	R1,R2,R3	18
 21-91236	1	3	1	M	Men's Open Singles	CSU-Lewis	Main	R1,R2,R3	18
@@ -3421,20 +3470,24 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-93245	2	2	1	M	Men's Open Doubles	Flight 2	Main	R1,R2,R3,R4,R5	15
 21-93245	2	3	1	M	Men's Open Doubles	Flight 3	Main	R1,R2,R3,R4,R5	15
 21-93245	2	4	1	M	Men's Open Doubles	Flight 4	Main	F	1
-21-93512	1	1	1	M	Men's Open Singles	Draw 1	Main	16,QF,SF,F	15
-21-93512	1	2	1	M	Men's Open Singles	Draw 3	Main	16,QF,SF,F	15
-21-93512	1	3	1	M	Men's Open Singles	Draw 2	Main	16,QF,SF,F	15
-21-93512	1	4	1	M	Men's Open Singles	Draw 5	Main	16,QF,SF,F	15
+21-93512	1	1	1	M	Men's Open Singles	Draw 3	Main	16,QF,SF,F	15
+21-93512	1	2	1	M	Men's Open Singles	Draw 2	Main	16,QF,SF,F	15
+21-93512	1	3	1	M	Men's Open Singles	Draw 5	Main	16,QF,SF,F	15
+21-93512	1	4	1	M	Men's Open Singles	Draw 1	Main	16,QF,SF,F	15
 21-93512	1	5	1	M	Men's Open Singles	Draw 4	Main	16,QF,SF,F	15
+21-93512	1	6	1	M	Men's Open Singles	Consolation Oct. 24	Main	16,QF,SF,F	15
 21-93512	2	1	1	W	Women's Open Singles	Draw 1	Main	16,QF,SF,F	15
 21-93512	2	2	1	W	Women's Open Singles	Draw 2	Main	16,QF,SF,F	15
 21-93512	2	3	1	W	Women's Open Singles	Draw 3	Main	16,QF,SF,F	15
 21-93512	2	4	1	W	Women's Open Singles	Draw 4	Main	16,QF,SF,F	15
 21-93512	2	5	1	W	Women's Open Singles	Draw 5	Main	16,QF,SF,F	15
-21-93512	3	1	1	M	Men's Open Doubles	Draw 1	Main	16,QF,SF,F	15
-21-93512	3	2	1	M	Men's Open Doubles	Draw 3	Main	QF,SF,F	7
+21-93512	3	1	1	M	Men's Open Doubles	Draw 3	Main	QF,SF,F	7
+21-93512	3	2	1	M	Men's Open Doubles	Draw 1	Main	16,QF,SF,F	15
+21-93512	3	3	1	M	Men's Open Doubles	Draw 2	Main	16,QF,SF,F	15
+21-93512	3	4	1	M	Men's Open Doubles	Consolation 1	Main	32,16,QF,SF,F	31
 21-93512	4	1	1	W	Women's Open Doubles	Draw 1	Main	16,QF,SF,F	15
 21-93512	4	2	1	W	Women's Open Doubles	Draw 2	Main	32,16,QF,SF,F	31
+21-93512	4	3	1	W	Women's Open Doubles	Consolation 1	Main	32,16,QF,SF,F	31
 21-93790	1	1	1	M	Men's Open Singles	Men's Open Draw	Main	128,64,32,16,QF,SF,F	127
 21-93790	1	1	2	M	Men's Open Singles	Men's Open Draw	Consolation	64Q,64,32,16,QF,SF,F	95
 21-93790	2	1	1	W	Women's Open Singles	Woman's Open Draw	Main	128,64,32,16,QF,SF,F	127
@@ -3653,9 +3706,13 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-97599	1	2	2	W	Women's Open Singles	Main Draw Singles	Consolation	64Q,64,32,16,QF,SF,F	95
 21-97599	1	3	1	W	Women's Open Singles	B Flight Singles	Main	16,QF,SF,F	15
 21-97599	1	3	2	W	Women's Open Singles	B Flight Singles	Consolation	QQ,QF,SF,F	11
+21-97599	1	4	1	W	Women's Open Singles	Saturday Consolation	Main	256,128,64,32,16,QF,SF,F	255
+21-97599	1	5	1	W	Women's Open Singles	Sunday Consolation	Main	256,128,64,32,16,QF,SF,F	255
 21-97599	1	101	1	W	Women's Open Singles	Qualifying Singles	Main	32,16,QF,SF,F	31
 21-97599	2	1	1	W	Women's Open Doubles	Main Draw	Main	64,32,16,QF,SF,F	63
 21-97599	2	1	2	W	Women's Open Doubles	Main Draw	Consolation	32Q,32,16,QF,SF,F	47
+21-97599	2	2	1	W	Women's Open Doubles	Saturday Consolation	Main	128,64,32,16,QF,SF,F	127
+21-97599	2	3	1	W	Women's Open Doubles	Sunday Consolation	Main	64,32,16,QF,SF,F	63
 21-98114	1	1	1	W	Women's Open Singles	Carolina Singles	East	16,QF,SF,F	15
 21-98114	1	1	2	W	Women's Open Singles	Carolina Singles	West	QF,SF,F	7
 21-98114	1	1	3	W	Women's Open Singles	Carolina Singles	North	SF,F	3
