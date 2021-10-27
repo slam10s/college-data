@@ -1,9 +1,9 @@
 ---
-tournaments: 346
-events: 770
+tournaments: 352
+events: 782
 eventsWithDraws: 541
-eventsWithoutDraws: 229
-draws: 2218
+eventsWithoutDraws: 241
+draws: 2221
 brackets: 4225
 results: 56254
 ---
@@ -976,6 +976,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-18330	2	1	1	M	Men's Open Doubles	SIC Doubles Day 1	Main	16,QF,SF,F	15
 21-18330	2	2	1	M	Men's Open Doubles	SIC Doubles Day 2	Main	16,QF,SF,F	15
 21-18330	2	3	1	M	Men's Open Doubles	SIC Doubles Day 3	Main	16,QF,SF,F	15
+21-18352	1			W	Women's Open Singles				
+21-18352	2			W	Women's Open Doubles				
 21-18906	1	1	1	W	Women's Open Singles	Green & Gold Draw	Main	32,16,QF,SF,F	31
 21-18906	1	2	1	W	Women's Open Singles	Green & Gold Draw	Main	32,16,QF,SF,F	31
 21-18906	1	3	1	W	Women's Open Singles	Green & Gold Draw	Main	32,16,QF,SF,F	31
@@ -1019,6 +1021,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-20521	1	2	1	W	Women's Open Singles	B Singles Draw	Main	64,32,16,QF,SF,F	63
 21-20521	2	1	1	W	Women's Open Doubles	Draw	Main	64,32,16,QF,SF,F	63
 21-20521	2	2	1	W	Women's Open Doubles	Extra Doubles	Main	SF,F	3
+21-20820	1			W	Women's Open Singles				
+21-20820	2			W	Women's Open Doubles				
 21-21713	1			W	Women's Open Singles				
 21-21713	2			W	Women's Open Doubles				
 21-21760	1			M	Men's Open Singles				
@@ -1409,6 +1413,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-26764	2	1	1	W	Women's Open Doubles	WVU v MU	Main	QF,SF,F	7
 21-26764	2	2	1	W	Women's Open Doubles	WVU v Villanova	Main	QF,SF,F	7
 21-26764	2	3	1	W	Women's Open Doubles	WVU v Radford	Main	QF,SF,F	7
+21-26801	1			M	Men's Open Singles				
+21-26801	2			M	Men's Open Doubles				
 21-26995	1	1	1	W	Women's Open Singles	Flight 1	Main	R1,R2,R3,R4,R5,R6,R7	84
 21-26995	1	2	1	W	Women's Open Singles	Flight 2	Main	R1,R2,R3,R4,R5,R6,R7	84
 21-26995	1	3	1	W	Women's Open Singles	Flight 3	Main	R1,R2,R3,R4,R5,R6,R7	84
@@ -1746,6 +1752,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-32980	2			W	Women's Open Singles				
 21-32980	3			M	Men's Open Doubles				
 21-32980	4			W	Women's Open Doubles				
+21-33216	1			W	Women's Open Singles				
+21-33216	2			W	Women's Open Doubles				
 21-33792	1			W	Women's Open Singles				
 21-33792	2			W	Women's Open Doubles				
 21-33851	1			M	Men's Open Singles				
@@ -2347,6 +2355,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-47703	2	3	1	W	Women's Open Doubles	Extra Matches #2	Main	32,16,QF,SF,F	31
 21-47919	1			W	Women's Open Singles				
 21-47919	2			W	Women's Open Doubles				
+21-48385	1			M	Men's Open Singles				
+21-48385	2			M	Men's Open Doubles				
 21-48654	1	1	1	W	Women's Open Singles	LU vs ECU, WM vs MU	Main	64,32,16,QF,SF,F	63
 21-48654	1	2	1	W	Women's Open Singles	LU vs MU, WM vs ECU	Main	64,32,16,QF,SF,F	63
 21-48654	1	3	1	W	Women's Open Singles	LU vs WM, MU vs ECU	Main	64,32,16,QF,SF,F	63
@@ -3434,6 +3444,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-77667	2	1	1	W	Women's Open Doubles	Day One Matches	Main	32,16,QF,SF,F	31
 21-77667	2	2	1	W	Women's Open Doubles	Day Two Matches	Main	32,16,QF,SF,F	31
 21-77667	2	3	1	W	Women's Open Doubles	Day Three Matches	Main	32,16,QF,SF,F	31
+21-78019	1			W	Women's Open Singles				
+21-78019	2			W	Women's Open Doubles				
 21-78857	1	1	1	W	Women's Open Singles	Draw	East	64,32,16,QF,SF,F	63
 21-78857	1	1	2	W	Women's Open Singles	Draw	West	32,16,QF,SF,F	31
 21-78857	1	1	3	W	Women's Open Singles	Draw	North	16,QF,SF,F	15
