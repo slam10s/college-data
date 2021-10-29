@@ -1,9 +1,9 @@
 ---
-tournaments: 238
-players: 4546
-matches: 4652
+tournaments: 242
+players: 4551
+matches: 4688
 completed: 4638
-scheduled: 14
+scheduled: 50
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	4	1	1	4	1	h9x3dr	by5ink	16dqvs	cfsbmp	F		Canete/Canete		Moosbacher/Farfan	61 63
@@ -1087,13 +1087,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-21828	4	1	1	4	1	v9gtyv	xqq8uk	bkpo3y	boyemm	SF	1	Coopersmith/Vidanov…	4	Barandas/Teodoro De…	81
 21-21828	4	1	1	4	1	vxwpyn	dn0jux	h5hb9b	ygu2qu	SF	2	Piccoliori/Puig Llo…	3	Morrissey/Sukkanha	Walkover
 21-21828	4	1	1	3	1	v9gtyv	xqq8uk	ttalcj	7oh47q	QF	1	Coopersmith/Vidanov…		Katzarkov/Yu	84
-21-21828	4	1	1	3	1	bkpo3y	boyemm	xxstm7	w1z3zn	QF	4	Barandas/Teodoro De…		Engelbrecht/Sorakubo	97
+21-21828	4	1	1	3	1	bkpo3y	boyemm	xxstm7	w1z3zn	QF	4	Barandas/Teodoro De…		Engelbrecht/Sorakudo	97
 21-21828	4	1	1	3	1	h5hb9b	ygu2qu	bq16rs	w7ozqx	QF	3	Morrissey/Sukkanha		Baptista/Damon	84
 21-21828	4	1	1	3	1	vxwpyn	dn0jux	w26gic	hkca0i	QF	2	Piccoliori/Puig Llo…		Araya/Peneda	84
 21-21828	4	1	1	2	1	v9gtyv	xqq8uk	td2xkz	xeh2rk	16	1	Coopersmith/Vidanov…		Ibanez Navarro/Maeh…	82
 21-21828	4	1	1	2	1	ttalcj	7oh47q	xag4ws	kowyge	16		Katzarkov/Yu		Netto Koop/Oliveira	82
 21-21828	4	1	1	2	1	bkpo3y	boyemm	7jx5tx	7ffxj9	16	4	Barandas/Teodoro De…		Matos/Santiago	84
-21-21828	4	1	1	2	1	xxstm7	w1z3zn	cmlenc	d0kys2	16		Engelbrecht/Sorakubo		Letizia/Picardi	86
+21-21828	4	1	1	2	1	xxstm7	w1z3zn	cmlenc	d0kys2	16		Engelbrecht/Sorakudo		Letizia/Picardi	86
 21-21828	4	1	1	2	1	bq16rs	w7ozqx	4wdofm	6ttbxn	16		Baptista/Damon		Botsford/Lewis	83
 21-21828	4	1	1	2	1	h5hb9b	ygu2qu	bdhrtn	ztc1ir	16	3	Morrissey/Sukkanha		Berghaus/Pena	85
 21-21828	4	1	1	2	1	w26gic	hkca0i	54h0be	9cp8jm	16		Araya/Peneda		Chang/Maier	82
@@ -1104,7 +1104,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-21828	4	1	1	1	1	bkpo3y	boyemm	j795h9	x44m8y	32	4	Barandas/Teodoro De…		Lopez Suero/Neiberl…	85
 21-21828	4	1	1	1	1	7jx5tx	7ffxj9	x4jghm	atvr3v	32		Matos/Santiago		Harris/Schnatz	83
 21-21828	4	1	1	1	1	cmlenc	d0kys2	qfsbmp	p44m8y	32		Letizia/Picardi		Cook/Piette	80
-21-21828	4	1	1	1	1	xxstm7	w1z3zn	cclc76	t4h0be	32		Engelbrecht/Sorakubo		Benn/Benn	86
+21-21828	4	1	1	1	1	xxstm7	w1z3zn	cclc76	t4h0be	32		Engelbrecht/Sorakudo		Benn/Benn	86
 21-21828	4	1	1	1	1	bq16rs	w7ozqx	zclc76	yffxj9	32		Baptista/Damon		Candiotto/Rodriguez…	Walkover
 21-21828	4	1	1	1	1	4wdofm	6ttbxn	3y7yts	fxdzdj	32		Botsford/Lewis		Guglielmetti/Medina	85
 21-21828	4	1	1	1	1	bdhrtn	ztc1ir	orxld9	kcnsde	32		Berghaus/Pena		Bobrowski/Hire	84
@@ -1290,6 +1290,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-22872	4	1	2	1	1	qse6q2	gc6iyi	mv6bwx	603od6	16Q		Jagger/Kwasnik		Williams/Robichaud	Walkover
 21-22872	4	1	2	1	1	sny3op	sla5s7	54yaqa	gfb17t	16Q		Kohoutkova/Tuells B…	5	Amaro/Garcia	84
 21-22872	4	1	2	1	1	v1trhz	wd6twf	38qqu2	9efmlc	16Q		Blanco Fernandez De…		Turro/Hartlohner	85
+21-24286	2	1	1	1		b2vil4	gtvr3v	3azuhw	txu9sf	QF		Smith/Salenko		Stelse/Kuo	Fri @ 08:45
+21-24286	2	1	1	1		mc8y4q	t9gtyv	bv2fkh	kvjpzd	QF		Rakita/Dimitriev		Kmoskova/Havlickova	Fri @ 08:45
+21-24286	2	1	1	1		kt856b	e6sk4g	owyu6y	hwuyui	QF		Flodin/Fitch		Lazarevic/Aly	Fri @ 08:45
+21-24286	2	1	1	1		p9kpab	jqkwcw	6mlenc	7jibk9	QF		Pukhaeva/Dukic		Lukyanova/Welch	Fri @ 09:30
+21-24286	2	2	1	1		jqkwcw	4b670l	mbcji9	hzknu5	QF		Dukic/Andres		Naves/Dmitrieva	Fri @ 09:30
+21-24286	2	2	1	1		r44m8y	6talcj	k1z3zn	zput83	QF		Odom/Le		Ross/Trella	Fri @ 09:30
+21-24286	2	2	1	1		gput83	977pb1	befmlc	b9x3dr	QF		Sueflohn/Hills		Glozman/Chao	Fri @ 10:15
+21-24286	2	2	1	1		iobsp2	ugbc5q	8c6iyi	u8709y	QF		Girbau/Skobkareva		Kaminski/Robinson	Fri @ 10:15
 21-24367	4	1	1	4	1	yktkfe	ufhdph	nfdhd1	f0iimu	F		Lindeboom/Zavala		Limauge/Lentisco	63
 21-24367	4	1	1	3	1	nfdhd1	f0iimu	pulu7o	tigkg4	SF		Limauge/Lentisco		Cabrera/Cincunegui	76(6)
 21-24367	4	1	1	3	1	yktkfe	ufhdph	tnwnih	q1ex8b	SF		Lindeboom/Zavala		Cremer/Kowalke	62
@@ -1521,6 +1529,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-28500	4	3	1	3	1	i7ozqx	17blnh	m5w5iz	r1itkr	R3		Chornei/Speiser		Dong/Wilson	62
 21-28500	4	3	1	2	1	i7ozqx	17blnh	krz1jh	gwj0xa	R2		Chornei/Speiser		Good/Smith	60
 21-28500	4	3	1	1	1	m5w5iz	r1itkr	krz1jh	gwj0xa	R1		Dong/Wilson		Good/Smith	63
+21-28680	2	1	1	1		5xy54v	9m2o28	xunadw	r7blnh	QF		Wilberg/Khomchenko		Goncharov/Snita	Fri @ 10:00
+21-28680	2	1	1	1		mjibk9	5efmlc	zzqzct	wo9cju	QF		Williams/Grib		Wagner/Bihel	Fri @ 10:00
+21-28680	2	1	1	1		r5jrfj	ylnjvn	e9i943	tw0ac6	QF		Roquebert/Harrelson		Kozar/Nosievici	Fri @ 10:00
+21-28680	2	2	1	1		lqmci4	1xstm7	ko9cju	ligkg4	QF		Khan/Follin-Arbelet		Busch/Dorsey	Fri @ 10:00
+21-28680	2	2	1	1		q387mh	fqosoc	w26gic	hkca0i	QF		Petrackova/Rana		Araya/Peneda	Fri @ 10:00
+21-28680	2	2	1	1		lgsmkm	ormng1	w1z3zn	xxstm7	QF		Palmgren/Tatini		Sorakudo/Engelbrecht	Fri @ 10:00
 21-29173	2	1	1	6	1	sefmlc	tho163	ewyu6y	dazuhw	F		Fordham/Plakk		Landells/Roarty	61 61
 21-29173	2	1	1	5	1	sefmlc	tho163	80emae	6g7gta	SF		Fordham/Plakk		Apsey/Holtzman	81
 21-29173	2	1	1	5	1	ewyu6y	dazuhw	5upqj4	cgbc5q	SF		Landells/Roarty		Libby/Ruiz Vega	82
@@ -3028,21 +3042,21 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-60580	2	1	3	1	1	zxstm7	drgbyd	ltalcj	ceww08	SF	4	De Oliveira/Dudeney	2	Leslie/Christians	63
 21-60580	2	1	5	2	1	8wyu6y	2r3xvx	1v0ze9	rpdjt7	F		Hubeaut/Sandy		Davis/Yardley	64
 21-60580	2	2	1	4	1	bvl55l	s8qqu2	x1ch23	u2cs00	F	2	Miletic/Velcea		Colmenares/Retortil…	85
-21-60580	2	2	1	3	1	x1ch23	u2cs00	rfqvgh	66dqvs	SF		Colmenares/Retortil…		Akbas/Morin-Kougoch…	62
+21-60580	2	2	1	3	1	x1ch23	u2cs00	rfqvgh	66dqvs	SF		Colmenares/Retortil…		Akbas/Morin-Kougouc…	62
 21-60580	2	2	1	3	1	bvl55l	s8qqu2	b501uf	5zoj6l	SF	2	Miletic/Velcea		Norin/Ossa	62
 21-60580	2	2	1	2	1	x1ch23	u2cs00	ki1q7g	9dln53	QF		Colmenares/Retortil…	1	Long/Lodzki	64
-21-60580	2	2	1	2	1	rfqvgh	66dqvs	fy7yts	qcaeay	QF		Akbas/Morin-Kougoch…		Garriguez/Timmermans	63
+21-60580	2	2	1	2	1	rfqvgh	66dqvs	fy7yts	qcaeay	QF		Akbas/Morin-Kougouc…		Garrigues Melendez/…	63
 21-60580	2	2	1	2	1	b501uf	5zoj6l	a1gdej	ed4dq7	QF		Norin/Ossa		Nash/Oliveira	63
 21-60580	2	2	1	2	1	bvl55l	s8qqu2	9xdzdj	2054je	QF	2	Miletic/Velcea		Mjos/Yaylali	63
 21-60580	2	2	1	1	1	x1ch23	u2cs00	p4lwnu	eazuhw	16		Colmenares/Retortil…		Matthews/Sommer	64
-21-60580	2	2	1	1	1	fy7yts	qcaeay	1jx5tx	h5fv33	16		Garriguez/Timmermans		Menten/Hammoud	62
+21-60580	2	2	1	1	1	fy7yts	qcaeay	1jx5tx	h5fv33	16		Garrigues Melendez/…		Menten/Hammoud	62
 21-60580	2	2	1	1	1	b501uf	5zoj6l	s0iimu	zmnutk	16		Norin/Ossa		Kentish/Smith	61
 21-60580	2	2	1	1	1	a1gdej	ed4dq7	3q7i9g	9la5s7	16		Nash/Oliveira		Salinas/Sumaia	62
 21-60580	2	2	1	1	1	9xdzdj	2054je	jc8y4q	jr3xvx	16		Mjos/Yaylali		Pasini/Rizk	61
 21-60580	2	2	2	2	1	p4lwnu	eazuhw	1jx5tx	h5fv33	SF		Matthews/Sommer		Menten/Hammoud	61
 21-60580	2	2	2	2	1	jc8y4q	jr3xvx	s0iimu	zmnutk	SF		Pasini/Rizk		Kentish/Smith	63
 21-60580	2	2	2	1	1	s0iimu	zmnutk	3q7i9g	9la5s7	QF		Kentish/Smith		Salinas/Sumaia	60
-21-60580	2	2	3	1	1	ki1q7g	9dln53	fy7yts	qcaeay	SF	1	Long/Lodzki		Garriguez/Timmermans	62
+21-60580	2	2	3	1	1	ki1q7g	9dln53	fy7yts	qcaeay	SF	1	Long/Lodzki		Garrigues Melendez/…	62
 21-60580	2	2	3	1	1	a1gdej	ed4dq7	9xdzdj	2054je	SF		Nash/Oliveira		Mjos/Yaylali	61
 21-62496	2	1	1	3	1	8fyn4d	19kpab	m834xi	rjgve1	R3		Tikhonko/Pastoret		Ganesan/Popma	62
 21-62496	2	1	1	3	1	u9zjjz	fwyu6y	bq3mx0	7e0sco	R3		Grau/Koo		Glazbrook/Patel	60
@@ -3372,6 +3386,14 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-68261	2	1	2	1	1	ofursx	azi7ox	bz5tlh	e6bapk	16Q	4	Kuczer/Adeshina		Lilien/Freeman	86
 21-68261	2	1	2	1	1	tb670l	e0g2gm	rd4dq7	2pohqf	16Q		Axon/Flach		Poppe/Conde Monfort	85
 21-68261	2	1	2	1	1	m9m5gj	c0kys2	3os24y	xp5r5b	16Q		Verden-Anderson/Pur…		Collard/Chervinsky	Walkover
+21-68401	2	1	1	1		6aik20	n5jrfj	hfb17t	o0iimu	QF		van Meeteren/Stange		Houston/Joao	Fri @ 13:00
+21-68401	2	1	1	1		yxffjr	7ii0mc	726gic	b3n1v5	QF		Rogers/Kirch		Allen/Galvin	Fri @ 13:00
+21-68401	2	1	1	1		hv0ze9	oi1q7g	734ba1	pm448g	QF		Cricchio/Manolescu		Exsted/Picazo	Fri @ 13:00
+21-68401	2	1	1	1		1cnsde	6yqoew	qfqvgh	xl8pmz	QF		Hackbirth/Husted		Archer/ODea	Fri @ 13:00
+21-68401	2	2	1	1		uy5ink	slrf73	nzoj6l	nag4ws	QF		Ball/Saldh		Radulova/Richtrova	Fri @ 13:00
+21-68401	2	2	1	1		yjcz2l	pur6pc	uzi7ox	r4h0be	QF		Fernald/Saric		Almborg/Burger	Fri @ 13:00
+21-68401	2	2	1	1		7qig6o	2trvrf	w9edsn	med6f4	QF		Alhach/Gurholt		Aksu/Cheng	Fri @ 13:00
+21-68401	2	2	1	1		9jvpnp	idj7zv	p8oaou	isi22i	QF		Hill/Gaines		Reding/Tanik	Fri @ 13:00
 21-68924	2	1	1	1	1	uh5blz	h6wggw	iupqj4	85hb9b	64		Maquet/Quiterio		Mayorova/Medvedeva	61
 21-68924	2	1	1	1	1	hybu58	opb3nz	qpohqf	vndxxd	64		Safont/Sawhney		DeSpain/Buyckx	75
 21-68924	2	1	1	1	1	8fb17t	rk6yiu	higkg4	kgsmkm	64		Hatton/Anttila		Dean/Petruzelova	62
@@ -3810,6 +3832,20 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-76964	4	1	1	1	1	uuawag	2bttx5	6w2qie	y5dfxv	16	3	VanOrman/Montaruli		White/Barry	81
 21-76964	4	1	1	1	1	8eww08	zfb17t	twj0xa	k6u0ao	16		Espino/Gregory		Sackx/Hu	85
 21-76964	4	1	1	1	1	62e868	im448g	q1gdej	4jef8t	16		White/Rennoult		Reade/Lee	83
+21-77110	2	1	1	1		fh7rr7	xcropu	czknu5	l6sk4g	QF		Schoppe/Snyder		Dickson/Dougah	Fri @ 2021-10-29T11:00
+21-77110	2	1	1	1		t9kpab	2z9pxx	934ba1	8szche	QF		Rice/Zukic		Delsol/Ristic	Fri @ 2021-10-29T11:00
+21-77110	2	1	1	1		50187y	b834xi	8xdzdj	56u0ao	QF		Li/Goetz		Muzik/Lee	Fri @ 2021-10-29T11:00
+21-77110	2	1	1	1		b8qqu2	lvnlbt	qh7rr7	12cs00	QF		Wilbur/Steryous		Sanchez Quesada/Pie…	Fri @ 2021-10-29T11:00
+21-77110	2	2	1	1		136rg9	65fv33	x1itkr	3nht9t	QF		Jardim/Hellberg		Watson/McPherron	Fri @ 2021-10-29T11:00
+21-77110	2	2	1	1		t7qfw5	d85k3q	fx9313	ftvr3v	QF		Ifidzhen/Loudili		Baykan/Schulson	Fri @ 2021-10-29T11:00
+21-77110	2	2	1	1		m5ylo7	mgq6ee	76u0ao	6kca0i	QF		Lacey/Leeman		Kim/Pinedo	Fri @ 2021-10-29T11:00
+21-77110	2	2	1	1		quawag	8vh9t5	q91zp7	1v6bwx	QF		Toglukdemir/Cartled…		Massie/Woods	Fri @ 2021-10-29T11:00
+21-77110	2	3	1	1		r6ywm4	fjzlz5	xvnlbt	0b8n6t	QF		Surcey/Roper		Shulman/Fatemi	Fri @ 2021-10-29T11:00
+21-77110	2	3	1	1		43rx7l	w8709y	37ozqx	eybu58	QF		Steenkamp/Siegel		Fischer/Sorensen	Fri @ 2021-10-29T11:00
+21-77110	2	3	1	1		kp5r5b	i28wok	eq7i9g	xv6bwx	QF		Brandow/Falk		Roslund/Watts	Fri @ 11:45
+21-77110	2	3	1	1		tp5r5b	1p77bj	ffyn4d	528wok	QF		Cantrell/Gottiparthy		Wilson/De Sousa	Fri @ 11:45
+21-77110	2	4	1	1		bsi22i	jjef8t	ivjpzd	pz79rp	QF		Vdovychenko/Humbert		Fyvie/Semmartin	Fri @ 11:45
+21-77110	2	4	1	1		eydabg	d28wok	dkpo3y	zktkfe	QF		Yoon/Falcon		Byers/Morkel	Fri @ 11:45
 21-77230	2	1	1	3	1	rvjpzd	hunadw	vq7i9g	6rxld9	F	2	Gonzalez/Griffiths	3	Spice/Chamoun	64
 21-77230	2	1	1	2	1	vq7i9g	6rxld9	eu4kss	5d4dq7	SF	3	Spice/Chamoun	1	Fleming/Richter	63
 21-77230	2	1	1	2	1	rvjpzd	hunadw	cz79rp	dscqku	SF	2	Gonzalez/Griffiths		Roca/Dias	64
