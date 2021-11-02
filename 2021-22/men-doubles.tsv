@@ -1,8 +1,8 @@
 ---
 tournaments: 264
 players: 4447
-matches: 4495
-completed: 4495
+matches: 4499
+completed: 4499
 scheduled: 0
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -3687,16 +3687,17 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-83735	2	104	1	1	1	xur6pc	8pqxwn	w1ex8b	oh3vfr	R1		Simonini/Iriu		Kendrick/Gembroys	61
 21-83735	2	104	1	1	1	2c6iyi	eunadw	ep77bj	9whkr2	R1		Kendrick/Fox		Hess/Morant	61
 21-84042	2	101	1	3	1	zcaeay	dc8y4q	1upqj4	sgq6ee	F		Tvedt/Penzlin		Minakata/Kryvchun	85
-21-84042	2	101	1	2	1	zcaeay	dc8y4q	w77pb1	xmjyh4	SF		Tvedt/Penzlin		Gomez Galvan/Hann	83
+21-84042	2	101	1	2	1	zcaeay	dc8y4q	w77pb1	xmjyh4	SF		Tvedt/Penzlin		Gomez Galvan/Hann	82
 21-84042	2	101	1	2	1	1upqj4	sgq6ee	vmhibw	3ndxxd	SF		Minakata/Kryvchun		Casino/Bascon	86
 21-84042	2	101	1	1	1	zcaeay	dc8y4q	m5hb9b	wwhkr2	QF		Tvedt/Penzlin		Moortgat/Marquardt	86
 21-84042	2	101	1	1	1	w77pb1	xmjyh4	ela5s7	dod8va	QF		Gomez Galvan/Hann		Stoeger/Martin	84
 21-84042	2	101	1	1	1	1upqj4	sgq6ee	fzoj6l	cvh9t5	QF		Minakata/Kryvchun		Ortega/Balce	84
 21-84042	2	101	1	1	1	vmhibw	3ndxxd	tlpz1v	8bv93d	QF		Casino/Bascon		Monteiro/Sitar	84
 21-84042	2	101	2	2	1	m5hb9b	wwhkr2	fzoj6l	cvh9t5	F		Moortgat/Marquardt		Ortega/Balce	82
-21-84042	2	101	2	1	1	m5hb9b	wwhkr2	ela5s7	dod8va	SF		Moortgat/Marquardt		Stoeger/Martin	87(3)
+21-84042	2	101	2	1	1	m5hb9b	wwhkr2	ela5s7	dod8va	SF		Moortgat/Marquardt		Stoeger/Martin	87(7)
 21-84042	2	101	2	1	1	fzoj6l	cvh9t5	tlpz1v	8bv93d	SF		Ortega/Balce		Monteiro/Sitar	85
 21-84042	2	101	3	1	1	vmhibw	3ndxxd	w77pb1	xmjyh4	F		Casino/Bascon		Gomez Galvan/Hann	84
+21-84042	2	101	4	1	1	tlpz1v	8bv93d	ela5s7	dod8va	F		Monteiro/Sitar		Stoeger/Martin	Walkover
 21-84042	2	102	1	3	1	g7ozqx	569ujc	y6q4y8	o8709y	F		de la Bassetiere/Br…		Andersson/Roider	87(4)
 21-84042	2	102	1	2	1	g7ozqx	569ujc	d91zp7	3jzlz5	SF		de la Bassetiere/Br…		Mueller/Sarlvik	86
 21-84042	2	102	1	2	1	y6q4y8	o8709y	oqq8uk	yxbj7b	SF		Andersson/Roider		Thielgaard/Hallgren	87(4)
@@ -3713,8 +3714,11 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-84042	2	103	1	1	1	ob670l	v1gdej	51ch23	uv6bwx	QF		Asenov/Ramesh		Dillon/Thomas	84
 21-84042	2	103	1	1	1	m8muim	a28wok	oh1f9j	b8qqu2	QF		Jesser/De Vries		Baldwin/Watkins	Walkover
 21-84042	2	103	1	1	1	qcaeay	bt856b	rqosoc	93n1v5	QF		Taylor/Duron		Paz/Grimes	86
+21-84042	2	103	2	2	1	rqosoc	93n1v5	p387mh	rfsbmp	F		Paz/Grimes		Plutat/Fernandez	Walkover
 21-84042	2	103	2	1	1	p387mh	rfsbmp	51ch23	uv6bwx	SF		Plutat/Fernandez		Dillon/Thomas	81
 21-84042	2	103	2	1	1	rqosoc	93n1v5	oh1f9j	b8qqu2	SF		Paz/Grimes		Baldwin/Watkins	Walkover
+21-84042	2	103	3	1	1	gxffjr	tmhibw	m8muim	a28wok	F		Sciglitano/Benn		Jesser/De Vries	84
+21-84042	2	104	1	1	1	tlpz1v	8bv93d	rqosoc	93n1v5	F		Monteiro/Sitar		Paz/Grimes	87(6)
 21-84230	2	101	1	3	1	v5dfxv	u9m5gj	6ybu58	p85k3q	R3		Butler/Spring		Salmeron/Mimata	60
 21-84230	2	101	1	3	1	fpohqf	jy9ez0	d0kys2	qpdjt7	R3		Dominguez Collado/M…		Pereira/Zamorano	60
 21-84230	2	101	1	3	1	t2t2fw	n91zp7	2zm30d	e3tddt	R3		Lemieux-Monette/Lep…		Koehler/Zamorano	64
