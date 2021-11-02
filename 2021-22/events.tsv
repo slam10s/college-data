@@ -1,7 +1,7 @@
 ---
-tournaments: 368
-events: 818
-eventsWithDraws: 814
+tournaments: 369
+events: 820
+eventsWithDraws: 816
 eventsWithoutDraws: 4
 draws: 2484
 brackets: 4753
@@ -375,6 +375,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-06527	2	100		W	Women's Open Doubles				
 21-07021	1	100		W	Women's Open Singles				
 21-07021	2	100		W	Women's Open Doubles				
+21-07533	1	100		M	Men's Open Singles				
+21-07533	2	100		M	Men's Open Doubles				
 21-07548	1	101	1	M	Men's Open Singles	Singles Flight A1	East	16,QF,SF,F	15
 21-07548	1	101	2	M	Men's Open Singles	Singles Flight A1	West	QF,SF,F	7
 21-07548	1	101	3	M	Men's Open Singles	Singles Flight A1	North	SF,F	3
