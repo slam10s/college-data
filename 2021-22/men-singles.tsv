@@ -1,8 +1,8 @@
 ---
-tournaments: 267
-players: 4651
-matches: 10635
-completed: 10629
+tournaments: 262
+players: 4639
+matches: 10549
+completed: 10543
 scheduled: 6
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -1072,9 +1072,9 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-12886	2	102	2	1	1	qjt9hh		60zs1q		SF		Aryaan Bhatia		Rohan Gupta	63 62
 21-12886	2	102	3	1	1	6qosoc		zffxj9		F		Pablo Perez Ramos		Daniils Snaiders	64 63
 21-12886	2	103	1	3	1	ebrdrx		nxy54v		F		Jonathan Garcia		Mike Thomas	63 60
-21-12886	2	103	1	2	1	ebrdrx		3rmng1		SF		Jonathan Garcia		Cheng Tang	61 Ret.
+21-12886	2	103	1	2	1	ebrdrx		3rmng1		SF		Jonathan Garcia		Rex Tang	61 Ret.
 21-12886	2	103	1	2	1	nxy54v		6d6twf		SF		Mike Thomas		Anshumat Srivastava	64 75
-21-12886	2	103	1	1	1	3rmng1		i8muim		QF		Cheng Tang		Jake Huarte	63 64
+21-12886	2	103	1	1	1	3rmng1		i8muim		QF		Rex Tang		Jake Huarte	63 64
 21-12886	2	103	1	1	1	ebrdrx		ai1q7g		QF		Jonathan Garcia		Charlie Levinson	63 64
 21-12886	2	103	1	1	1	6d6twf		qn2z05		QF		Anshumat Srivastava		Samuel Townes	63 64
 21-12886	2	103	1	1	1	nxy54v		d1trhz		QF		Mike Thomas		Carlos Carvalho	34 Ret.
@@ -1579,44 +1579,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-17274	1	104	1	1	1	h9zjjz		wpsd2v		16		Nathan Hollis		Marius Pion	61 61
 21-17274	1	104	1	1	1	kgoq86		1yqoew		16		Parker Collignon		Abraham Hougland	62 61
 21-17274	1	104	1	1	1	jc6iyi		u0emae		16		Mark Ivanov		Erik Aarthun	46 64 [6]
-21-17543	1	101	1	1	1	t7ozqx		8brdrx		32		Bruno Faletto		Denis Golubev	64 62
-21-17543	1	101	1	1	1	endxxd		wdhrtn		32		Nicolas Bacella		Mikkel Baumann	61 60
-21-17543	1	101	1	1	1	6n2z05		royemm		32		Vincent Thiel		Mortiz Stenzer	62 62
-21-17543	1	101	1	1	1	qm2o28		6p9nhr		32		Luis Iriarte		Phillip McMurray	61 60
-21-17543	1	101	1	1	1	81itkr		11gdej		32		Willem van den Akker		David Polo	60 61
-21-17543	1	101	1	1	1	k1gdej		l6dqvs		32		Hikaru Nagoshi		Jose Moreno	62 61
-21-17543	1	101	1	1	1	k1itkr		wsvg5y		32		Nikita Tatyanin		Valentin Hertweck	64 64
-21-17543	1	101	1	1	1	wu4kss		wys4k4		32		Oscar Del Granado		Eric Nordblom	61 62
-21-17543	1	101	1	1	1	z795h9		0mysqs		32		Philipp Lemken		Elliott Altman	60 60
-21-17543	1	101	1	1	1	zb670l		ah3vfr		32		Diego Amilibia		Chris Fok Kow	36 75 [10]
-21-17543	1	101	1	1	1	52vil4		sz1x91		32		Oscar Sohl		Max Berner	63 61
-21-17543	1	101	1	1	1	1igkg4		mfsbmp		32		Jacopo Denitto		Matteo Feggi	64 75
-21-17543	1	101	1	1	1	5rk7at		16u0ao		32		Brian Pham		Gabriel Korylco Bow…	46 61 [8]
-21-17543	1	102	1	1	1	t7ozqx		k1itkr		32		Bruno Faletto		Nikita Tatyanin	67(10) 63 60
-21-17543	1	102	1	1	1	endxxd		wu4kss		32		Nicolas Bacella		Oscar Del Granado	75 61
-21-17543	1	102	1	1	1	z795h9		6n2z05		32		Philipp Lemken		Vincent Thiel	76(1) 46 62
-21-17543	1	102	1	1	1	qm2o28		qtalcj		32		Luis Iriarte		Cedric Holzmann	61 63
-21-17543	1	102	1	1	1	81itkr		zb670l		32		Willem van den Akker		Diego Amilibia	64 63
-21-17543	1	102	1	1	1	l6dqvs		5rk7at		32		Jose Moreno		Brian Pham	63 76(6)
-21-17543	1	102	1	1	1	8brdrx		wsvg5y		32		Denis Golubev		Valentin Hertweck	75 76(5)
-21-17543	1	102	1	1	1	wdhrtn		ah3vfr		32		Mikkel Baumann		Chris Fok Kow	61 64
-21-17543	1	102	1	1	1	mfsbmp		6p9nhr		32		Matteo Feggi		Phillip McMurray	64 63
-21-17543	1	102	1	1	1	wys4k4		11gdej		32		Eric Nordblom		David Polo	64 60
-21-17543	1	102	1	1	1	1igkg4		0mysqs		32		Jacopo Denitto		Elliott Altman	64 76(4)
-21-17543	1	102	1	1	1	52vil4		16u0ao		32		Oscar Sohl		Gabriel Korylco Bow…	63 60
-21-17543	1	102	1	1	1	sz1x91		k1gdej		32		Max Berner		Hikaru Nagoshi	64 75
-21-17543	1	103	1	1	1	t7ozqx		52vil4		32		Bruno Faletto		Oscar Sohl	62 62
-21-17543	1	103	1	1	1	endxxd		mfsbmp		32		Nicolas Bacella		Matteo Feggi	61 63
-21-17543	1	103	1	1	1	6n2z05		wys4k4		32		Vincent Thiel		Eric Nordblom	64 62
-21-17543	1	103	1	1	1	wsvg5y		qm2o28		32		Valentin Hertweck		Luis Iriarte	46 64 [5]
-21-17543	1	103	1	1	1	81itkr		ah3vfr		32		Willem van den Akker		Chris Fok Kow	64 46 [9]
-21-17543	1	103	1	1	1	sz1x91		l6dqvs		32		Max Berner		Jose Moreno	61 63
-21-17543	1	103	1	1	1	8brdrx		k1itkr		32		Denis Golubev		Nikita Tatyanin	61 60
-21-17543	1	103	1	1	1	wu4kss		wdhrtn		32		Oscar Del Granado		Mikkel Baumann	63 61
-21-17543	1	103	1	1	1	z795h9		6p9nhr		32		Philipp Lemken		Phillip McMurray	63 60
-21-17543	1	103	1	1	1	qtalcj		11gdej		32		Cedric Holzmann		David Polo	60 60
-21-17543	1	103	1	1	1	1igkg4		k1gdej		32		Jacopo Denitto		Hikaru Nagoshi	63 63
-21-17543	1	103	1	1	1	zb670l		d0xcvi		32		Diego Amilibia		Jacob Baehr	62 62
 21-18330	1	101	1	1	1	1pdjt7		91trhz		64		Siem Woldeab		Trent Bryde	63 63
 21-18330	1	101	1	1	1	x52h0n		d9x3dr		64		Hamish Stewart		Micah Braswell	46 75 75
 21-18330	1	101	1	1	1	83n1v5		fl4taj		64		Cleeve Harper		Blake Croyder	63 63
@@ -2799,54 +2761,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-26119	1	108	1	3	1	3yukqc		j5w5iz		R3		Win Steveker		Gabriel Constantino	63 63
 21-26119	1	108	1	3	1	tazuhw		qpb3nz		R3		Alejandro Solares		Hugo Regner	62 63
 21-26119	1	108	1	2	1	qpb3nz		6rxld9		R2		Hugo Regner		Edoardo Cecere	64 67(1) [7]
-21-26801	1	101	1	1	1	1i36do		kd6twf		32		Frazier Rengifo		Dimosthenis Taramon…	75 64
-21-26801	1	101	1	1	1	jh1f9j		2dn3bb		32		Dimitri Badra		Guilherme Severin	63 57 63
-21-26801	1	101	1	1	1	pfursx		zkca0i		32		Yusuf Khamis		Konstantinos Raptis	60 62
-21-26801	1	101	1	1	1	affxj9		i2t2fw		32		Andres Silva		Hugo Lobo	75 64
-21-26801	1	101	1	1	1	i6wggw		hnfd3l		32		Thiago Pernas		Robert Hagen	62 61
-21-26801	1	101	1	1	1	dv6bwx		dxdzdj		32		Juan Jose Vargas		Raphael Mujan	62 46 75
-21-26801	1	101	1	1	1	kwlg3i		9aeoqk		32		Juan Sebastian Zaba…		Karlis Katlaps	62 60
-21-26801	1	101	1	1	1	7m2o28		4ac8kc		32		Francisco Lamas		William Crane	63 61
-21-26801	1	101	1	1	1	fjt9hh		7k8eo2		32		Bar Botzer		Ryan Fishback	64 64
-21-26801	1	101	1	1	1	bh7rr7		7jajwd		32		Gianni Ross		Alvaro Ariza	62 61
-21-26801	1	101	1	1	1	ivl55l		p5upcr		32		Hugo Maia		Jackson Allen	61 60
-21-26801	1	101	1	1	1	03rx7l		oydabg		32		Michael Shepheard		William Woodall	61 63
-21-26801	1	101	1	1	1	zd6twf		0nht9t		32		Frank Thompson		Juan Lombisano	62 63
-21-26801	1	101	1	1	1	ldhrtn		jm6keo		32		Ryan Bernstine		Dylan Whitehead	61 60
-21-26801	1	101	1	1	1	kp77bj		nd6twf		32		Matt Harper		Manfredi Vergine	63 26 76(5)
-21-26801	1	102	1	1	1	i6wggw		4z79rp		32		Thiago Pernas		Scott Sculley	60 60
-21-26801	1	102	1	1	1	phml0v		dv6bwx		32		Alex Ix		Juan Jose Vargas	63 75
-21-26801	1	103	1	1	1	fjt9hh		kd6twf		32		Bar Botzer		Dimosthenis Taramon…	61 75
-21-26801	1	103	1	1	1	bh7rr7		2dn3bb		32		Gianni Ross		Guilherme Severin	62 64
-21-26801	1	103	1	1	1	p5upcr		zkca0i		32		Jackson Allen		Konstantinos Raptis	64 46 75
-21-26801	1	103	1	1	1	oydabg		affxj9		32		William Woodall		Andres Silva	46 76(5) 76(5)
-21-26801	1	103	1	1	1	i2t2fw		hnfd3l		32		Hugo Lobo		Robert Hagen	63 64
-21-26801	1	103	1	1	1	phml0v		dxdzdj		32		Alex Ix		Raphael Mujan	63 60
-21-26801	1	103	1	1	1	kp77bj		9aeoqk		32		Matt Harper		Karlis Katlaps	26 62 63
-21-26801	1	103	1	1	1	ldhrtn		4ac8kc		32		Ryan Bernstine		William Crane	46 61 76(5)
-21-26801	1	103	1	1	1	0nht9t		nd6twf		32		Juan Lombisano		Manfredi Vergine	61 62
-21-26801	1	103	1	1	1	7k8eo2		1i36do		32		Ryan Fishback		Frazier Rengifo	75 64
-21-26801	1	103	1	1	1	ivl55l		jh1f9j		32		Hugo Maia		Dimitri Badra	64 64
-21-26801	1	103	1	1	1	pfursx		7jajwd		32		Yusuf Khamis		Alvaro Ariza	75 61
-21-26801	1	103	1	1	1	i6wggw		zd6twf		32		Thiago Pernas		Frank Thompson	62 63
-21-26801	1	104	1	1	1	i2t2fw		03rx7l		32		Hugo Lobo		Michael Shepheard	64 75
-21-26801	1	104	1	1	1	kwlg3i		phml0v		32		Juan Sebastian Zaba…		Alex Ix	64 76(4)
-21-26801	1	104	1	1	1	kp77bj		7m2o28		32		Matt Harper		Francisco Lamas	67(4) 64 61
-21-26801	1	104	1	1	1	ldhrtn		dv6bwx		32		Ryan Bernstine		Juan Jose Vargas	63 64
-21-26801	1	105	1	1	1	fjt9hh		1i36do		32		Bar Botzer		Frazier Rengifo	62 26 64
-21-26801	1	105	1	1	1	jh1f9j		p5upcr		32		Dimitri Badra		Jackson Allen	76(4) 75
-21-26801	1	105	1	1	1	pfursx		oydabg		32		Yusuf Khamis		William Woodall	62 26 76(1)
-21-26801	1	105	1	1	1	zkca0i		i2t2fw		32		Konstantinos Raptis		Hugo Lobo	75 64
-21-26801	1	105	1	1	1	i6wggw		affxj9		32		Thiago Pernas		Andres Silva	62 63
-21-26801	1	105	1	1	1	dv6bwx		4ac8kc		32		Juan Jose Vargas		William Crane	63 46 76(4)
-21-26801	1	105	1	1	1	7m2o28		nd6twf		32		Francisco Lamas		Manfredi Vergine	63 63
-21-26801	1	105	1	1	1	0nht9t		jm6keo		32		Juan Lombisano		Dylan Whitehead	63 61
-21-26801	1	105	1	1	1	7k8eo2		kd6twf		32		Ryan Fishback		Dimosthenis Taramon…	76(3) 61
-21-26801	1	105	1	1	1	ivl55l		2dn3bb		32		Hugo Maia		Guilherme Severin	76(4) 64
-21-26801	1	105	1	1	1	zd6twf		hnfd3l		32		Frank Thompson		Robert Hagen	61 26 75
-21-26801	1	105	1	1	1	kp77bj		dxdzdj		32		Matt Harper		Raphael Mujan	64 62
-21-26801	1	105	1	1	1	ldhrtn		9aeoqk		32		Ryan Bernstine		Karlis Katlaps	64 62
-21-26801	1	106	1	1	1	03rx7l		zkca0i		32		Michael Shepheard		Konstantinos Raptis	62 75
 21-27355	1	101	1	4	1	30emae		ch97xf		F		Michael Andre		Yasha Zemel	63 75
 21-27355	1	101	1	3	1	ch97xf		a8709y		SF		Yasha Zemel		Pawit Sornlaksup	16 62 63
 21-27355	1	101	1	3	1	30emae		v5ylo7		SF		Michael Andre		Josh Howard-Tripp	76(6) Ret.
@@ -3343,7 +3257,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-34853	1	1	1	2	1	hhqhcb		z6wggw		64	15	Michael Sun		Jonathan Olive-Blan…	64 46 62
 21-34853	1	1	1	2	1	ih97xf		p7ub8l		64	32	Aj Woodman		Jayden Templeman	60 36 64
 21-34853	1	1	1	2	1	nsi22i		kmnutk		64	30	Steven Sun		Diego Serra Sparrow	62 64
-21-34853	1	1	1	2	1	iaeoqk		3rmng1		64	2	Alex Kotzen		Cheng Tang	61 61
+21-34853	1	1	1	2	1	iaeoqk		3rmng1		64	2	Alex Kotzen		Rex Tang	61 61
 21-34853	1	1	1	1	1	neh2rk		gyqoew		128		Nicholas Lorenz		Diego Huttepain	26 63 76(4)
 21-34853	1	1	1	1	1	rwj0xa		69edsn		128		Jan Semerak		Manuel Alonso	62 60
 21-34853	1	1	1	1	1	8whkr2		e1ch23		128		David Lins		Zack Elliott	67(4) 63 76(5)
@@ -3375,7 +3289,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-34853	1	1	1	1	1	z6wggw		60zs1q		128		Jonathan Olive-Blan…		Rohan Gupta	63 57 75
 21-34853	1	1	1	1	1	p7ub8l		mv6bwx		128		Jayden Templeman		Daniel Webb	61 63
 21-34853	1	1	1	1	1	kmnutk		rv4vqp		128		Diego Serra Sparrow		Sebastian Pinos	62 63
-21-34853	1	1	1	1	1	3rmng1		1387mh		128		Cheng Tang		Stijn Paardekooper	64 60
+21-34853	1	1	1	1	1	3rmng1		1387mh		128		Rex Tang		Stijn Paardekooper	64 60
 21-34853	1	202	1	2	1	u2rm9o		lrk7at		32	1	Carl Gustavson		Jordan Paul	61 62
 21-34853	1	202	1	2	1	5d4dq7		7oyemm		32	2	Ishaan Ravichander		Pierce Widdecombe	64 63
 21-34853	1	202	1	2	1	flnjvn		6wyu6y		32		Jan Godfrey-Seno	15	Alan Kam	64 16 [7]
@@ -9421,12 +9335,12 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-93144	1	101	1	1	1	ytpfl7		191zp7		16		Justin Barki		Finn Macnamara	63 64
 21-93144	1	101	1	1	1	mq3mx0		ozi7ox		16		Santiago Galan		Filippos Astreinidis	64 63
 21-93144	1	101	1	1	1	prmng1		nl4taj		16		Simon Wibler		Bill Duo	06 63 76(8)
-21-93144	1	101	1	1	1	6wyu6y		3rmng1		16		Alan Kam		Cheng Tang	64 62
+21-93144	1	101	1	1	1	6wyu6y		3rmng1		16		Alan Kam		Rex Tang	64 62
 21-93144	1	101	1	1	1	j1v7n7		rigkg4		16		Jason Hildebrandt		Theo Dean	63 64
 21-93144	1	101	1	1	1	feww08		ci36do		16		Shervin Dehmoubed		Zach Smith	36 75 76(10)
 21-93144	1	102	1	1	1	nl4taj		tz79rp		16		Bill Duo		Robby Shymansky	46 63 [5]
 21-93144	1	102	1	1	1	2fdhd1		prmng1		16		Zachery Lim		Simon Wibler	64 64
-21-93144	1	102	1	1	1	3rmng1		ih3vfr		16		Cheng Tang		Tal Goodman	63 16 76(3)
+21-93144	1	102	1	1	1	3rmng1		ih3vfr		16		Rex Tang		Tal Goodman	63 16 76(3)
 21-93144	1	102	1	1	1	j1v7n7		191zp7		16		Jason Hildebrandt		Finn Macnamara	63 62
 21-93144	1	102	1	1	1	ci36do		mq3mx0		16		Zach Smith		Santiago Galan	46 62 64
 21-93144	1	102	1	1	1	ytpfl7		rigkg4		16		Justin Barki		Theo Dean	62 62
@@ -9437,7 +9351,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-93144	1	103	1	1	1	j1v7n7		ytpfl7		16		Jason Hildebrandt		Justin Barki	46 63 [7]
 21-93144	1	103	1	1	1	ci36do		ozi7ox		16		Zach Smith		Filippos Astreinidis	26 61 60
 21-93144	1	103	1	1	1	prmng1		tz79rp		16		Simon Wibler		Robby Shymansky	62 26 62
-21-93144	1	103	1	1	1	3rmng1		oeh2rk		16		Cheng Tang		Renaud Lefevre	76(3) 36 [8]
+21-93144	1	103	1	1	1	3rmng1		oeh2rk		16		Rex Tang		Renaud Lefevre	76(3) 36 [8]
 21-93144	1	104	1	1	1	nl4taj		oeh2rk		F		Bill Duo		Renaud Lefevre	63 62
 21-93144	1	105	1	1	1	nl4taj		ih3vfr		F		Bill Duo		Tal Goodman	63 61
 21-93245	1	101	1	7	1	f44m8y		hvl55l		R7		Michael Pawlowicz		Alex Mascioli	76(6) 62
