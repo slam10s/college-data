@@ -1,9 +1,9 @@
 ---
-tournaments: 264
-players: 4902
-matches: 11326
-completed: 11289
-scheduled: 37
+tournaments: 267
+players: 4912
+matches: 11419
+completed: 11375
+scheduled: 44
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	2	101	1	4	1	h1gdej		c1ch23		F	2	Stephanie Petit	1	Nicole Coopersmith	75 46 64
@@ -3227,6 +3227,53 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23829	1	120	1	1	1	m69ujc		9se6q2		SF		Wilma Bergqvist		Balsen Kaya	63 75
 21-23829	1	120	1	1	1	5hml0v		41itkr		SF		Yasmine Humbert		Mina Toglukdemir	63 26 [4]
 21-23829	1	120	2	1	1	41itkr		9se6q2		F		Mina Toglukdemir		Balsen Kaya	63 31 Ret.
+21-24286	1	101	1	2	1	xobsp2		4k8eo2		SF		Vivian Glozman		Erika Dimitriev	76(4) 61
+21-24286	1	101	1	2	1	78kece		f5hb9b		SF		Sydney Fitch		Diana Lukyanova	75 76(6)
+21-24286	1	101	1	1	1	xobsp2		m4262q		QF		Vivian Glozman		Jana Lazarevic	76(9) 62
+21-24286	1	101	1	1	1	4k8eo2		xtc1ir		QF		Erika Dimitriev		Kristina Pukhaeva	62 63
+21-24286	1	101	1	1	1	78kece		ui36do		QF		Sydney Fitch		Anastasiya Salenko	57 62 [7]
+21-24286	1	101	1	1	1	f5hb9b		54yaqa		QF		Diana Lukyanova		Habiba Aly	63 46 [5]
+21-24286	1	101	2	2	1	m4262q		ui36do		F		Jana Lazarevic		Anastasiya Salenko	62 63
+21-24286	1	101	2	1	1	m4262q		xtc1ir		SF		Jana Lazarevic		Kristina Pukhaeva	62 60
+21-24286	1	101	2	1	1	ui36do		54yaqa		SF		Anastasiya Salenko		Habiba Aly	Walkover
+21-24286	1	101	4	1	1	xtc1ir		54yaqa		F		Kristina Pukhaeva		Habiba Aly	Walkover
+21-24286	1	102	1	3	1	yaik20		x6ywm4		F		Hailey Stelse		Reagan Welch	16 62 [9]
+21-24286	1	102	1	2	1	yaik20		pffxj9		SF		Hailey Stelse		Casey Smith	61 63
+21-24286	1	102	1	2	1	x6ywm4		r5ylo7		SF		Reagan Welch		Alexandra Kuo	62 61
+21-24286	1	102	1	1	1	yaik20		pqosoc		QF		Hailey Stelse		Anastasia Rakita	Walkover
+21-24286	1	102	1	1	1	pffxj9		8tvr3v		QF		Casey Smith		Sonia Skobkareva	36 75 [7]
+21-24286	1	102	1	1	1	r5ylo7		i9gtyv		QF		Alexandra Kuo		Katarina Dukic	76(6) 26 [7]
+21-24286	1	102	1	1	1	x6ywm4		lv2fkh		QF		Reagan Welch		Natalie Kmoskova	Walkover
+21-24286	1	102	2	2	1	pqosoc		i9gtyv		F		Anastasia Rakita		Katarina Dukic	Walkover
+21-24286	1	102	2	1	1	pqosoc		8tvr3v		SF		Anastasia Rakita		Sonia Skobkareva	62 64
+21-24286	1	102	2	1	1	i9gtyv		lv2fkh		SF		Katarina Dukic		Natalie Kmoskova	Walkover
+21-24286	1	102	3	1	1	r5ylo7		pffxj9		F		Alexandra Kuo		Casey Smith	76 62
+21-24286	1	103	1	2	1	bm448g		2f9l1l		SF		Alexis Odom		Anna Marija Bukina	63 62
+21-24286	1	103	1	2	1	yixuv0		lur6pc		SF		Karina Chao		Christy Robinson	61 60
+21-24286	1	103	1	1	1	2f9l1l		4wwe0q		QF		Anna Marija Bukina		Iuliia Dmitrieva	64 36 [10]
+21-24286	1	103	1	1	1	bm448g		punadw		QF		Alexis Odom		Sage Hills	61 62
+21-24286	1	103	1	1	1	yixuv0		owf4lu		QF		Karina Chao		Beata Havlickova	63 61
+21-24286	1	103	1	1	1	lur6pc		r8iy66		QF		Christy Robinson		Susana Andres	63 60
+21-24286	1	103	2	1	1	4wwe0q		punadw		SF		Iuliia Dmitrieva		Sage Hills	76(1) 64
+21-24286	1	103	2	1	1	owf4lu		r8iy66		SF		Beata Havlickova		Susana Andres	62 61
+21-24286	1	103	4	1	1	punadw		r8iy66		F		Sage Hills		Susana Andres	06 76(2) [8]
+21-24286	1	104	1	3	1	hybu58		mrz1jh		F		Angelica Ross		Isabella Flodin	61 46 [1]
+21-24286	1	104	1	2	1	hybu58		41ex8b		SF		Angelica Ross		Andrea Le	36 76(5) [6]
+21-24286	1	104	1	2	1	mrz1jh		hl69gr		SF		Isabella Flodin		Julia Huette	61 60
+21-24286	1	104	1	1	1	41ex8b		5talcj		QF		Andrea Le		Danina Hughes	62 61
+21-24286	1	104	1	1	1	hybu58		u2e868		QF		Angelica Ross		Grace Sueflohn	63 61
+21-24286	1	104	1	1	1	mrz1jh		2dln53		QF		Isabella Flodin		Sarah Markun	60 60
+21-24286	1	104	1	1	1	hl69gr		h7qfw5		QF		Julia Huette		Gabriella Kaminski	26 62 [8]
+21-24286	1	104	2	2	1	u2e868		2dln53		F		Grace Sueflohn		Sarah Markun	61 60
+21-24286	1	104	2	1	1	u2e868		5talcj		SF		Grace Sueflohn		Danina Hughes	62 60
+21-24286	1	104	2	1	1	2dln53		h7qfw5		SF		Sarah Markun		Gabriella Kaminski	46 62 [3]
+21-24286	1	104	3	1	1	41ex8b		hl69gr		F		Andrea Le		Julia Huette	63 61
+21-24286	1	104	4	1	1	5talcj		h7qfw5		F		Danina Hughes		Gabriella Kaminski	62 67(5) [8]
+21-24286	1	105	1	1	1	ui36do		i9gtyv		16		Anastasiya Salenko		Katarina Dukic	67(5) 62 [7]
+21-24286	1	105	1	1	1	xobsp2		f5hb9b		16		Vivian Glozman		Diana Lukyanova	26 64 [5]
+21-24286	1	105	1	1	1	78kece		4k8eo2		16		Sydney Fitch		Erika Dimitriev	60 63
+21-24286	1	105	1	1	1	yixuv0		4wwe0q		16		Karina Chao		Iuliia Dmitrieva	40 42
+21-24286	1	105	1	1	1	bm448g		pqosoc		16		Alexis Odom		Anastasia Rakita	35 53 [5]
 21-24367	2	101	1	3	1	ikpo3y		mb8n6t		F		Diana Cabrera		Ghada Dirninger	62 61
 21-24367	2	101	1	2	1	ikpo3y		1oh47q		SF		Diana Cabrera		Ana Zavala	60 61
 21-24367	2	101	1	2	1	mb8n6t		dn2z05		SF		Ghada Dirninger		Rukshika Wijesooryia	63 63
@@ -3806,41 +3853,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-28500	2	105	1	1	1	j462e6		yejixs		QF		Larissa Wieser		Stefanie Rossmeier	61 75
 21-28500	2	105	2	2	1	oy7yts		yejixs		F		Lauren Good		Stefanie Rossmeier	64 61
 21-28500	2	105	3	1	1	g834xi		8trvrf		F		Harriet Glaves		Yureni Gomez	64 60
-21-28680	1	101	1	3	1	c1ch23		zjzlz5		F	1	Nicole Coopersmith		Maeva Roquebert	63 62
-21-28680	1	101	1	2	1	c1ch23		2xwpyn		SF	1	Nicole Coopersmith		Chantal Nosievici	Walkover
-21-28680	1	101	1	2	1	zjzlz5		l77pb1		SF		Maeva Roquebert		Ekaterina Grib	Walkover
-21-28680	1	101	1	1	1	c1ch23		u36rg9		QF	1	Nicole Coopersmith		Maria Khomchenko	62 61
-21-28680	1	101	1	1	1	2xwpyn		rd4dq7		QF		Chantal Nosievici		Giorgia Pigato	63 36 [7]
-21-28680	1	101	1	1	1	l77pb1		jbezoh		QF		Ekaterina Grib		Jacqueline Wagner	Walkover
-21-28680	1	101	1	1	1	zjzlz5		66u0ao		QF		Maeva Roquebert	2	Nika Kozar	60 16 [8]
-21-28680	1	101	2	1	1	rd4dq7		u36rg9		SF		Giorgia Pigato		Maria Khomchenko	64 75
-21-28680	1	101	2	1	1	66u0ao		jbezoh		SF	2	Nika Kozar		Jacqueline Wagner	Walkover
-21-28680	1	102	1	1	1	tu4kss		5u60y0		QF	1	Barbora Cibakova		Irina Lapustina	Walkover
-21-28680	1	102	1	1	1	z52h0n		rdpjhj		QF		Vanja Vidanovic		Savannah Williams	62 61
-21-28680	1	102	1	1	1	k9zjjz		1v6bwx		QF		Eva Goncharov		Anine Wilberg	64 46 [6]
-21-28680	1	102	1	1	1	3vjpzd		k4yaqa		QF	2	Diane Follin-Arbelet		Florencia Araya	61 62
-21-28680	1	102	2	1	1	rdpjhj		5u60y0		SF		Savannah Williams		Irina Lapustina	Walkover
-21-28680	1	102	2	1	1	1v6bwx		k4yaqa		SF		Anine Wilberg		Florencia Araya	60 75
-21-28680	1	103	1	3	1	zg50n2		eqkwcw		F	2	Anna Baranovski		Corbin Dorsey	61 36 [8]
-21-28680	1	103	1	2	1	eqkwcw		5kv0lm		SF		Corbin Dorsey	1	Karolina Snita	Walkover
-21-28680	1	103	1	2	1	zg50n2		aejixs		SF	2	Anna Baranovski		Kanon Sorakudo	63 63
-21-28680	1	103	1	1	1	5kv0lm		wbrdrx		QF	1	Karolina Snita		Tatiana Harrelson	61 64
-21-28680	1	103	1	1	1	eqkwcw		8st0zq		QF		Corbin Dorsey		Karyna Bihel	Walkover
-21-28680	1	103	1	1	1	aejixs		6387mh		QF		Kanon Sorakudo		Nicoline Palmgren	62 36 [8]
-21-28680	1	103	1	1	1	zg50n2		k44m8y		QF	2	Anna Baranovski		Madalena Peneda	62 63
-21-28680	1	103	2	1	1	wbrdrx		8st0zq		SF		Tatiana Harrelson		Karyna Bihel	Walkover
-21-28680	1	103	2	1	1	6387mh		k44m8y		SF		Nicoline Palmgren		Madalena Peneda	63 63
-21-28680	1	104	1	3	1	tn0jux		1st0zq		F	1	Eliska Petrackova		Dakota Busch	62 63
-21-28680	1	104	1	2	1	tn0jux		vqmci4		SF	1	Eliska Petrackova		Caitlyn Khan	61 76(4)
-21-28680	1	104	1	2	1	1st0zq		i44m8y		SF		Dakota Busch		Mahika Rana	61 63
-21-28680	1	104	1	1	1	vqmci4		p2rm9o		QF		Caitlyn Khan		Eleonora Guglielmet…	Walkover
-21-28680	1	104	1	1	1	i44m8y		2462e6		QF		Mahika Rana		Giulia Tatini	60 64
-21-28680	1	104	1	1	1	1st0zq		kos24y		QF		Dakota Busch	2	Anique Engelbrecht	63 60
-21-28680	1	104	2	1	1	2462e6		kos24y		SF		Giulia Tatini	2	Anique Engelbrecht	75 75
-21-28680	1	104	3	1	1	vqmci4		i44m8y		F		Caitlyn Khan		Mahika Rana	67(5) 75 [9]
-21-28680	1	105	1	2	1	z52h0n		k9zjjz		F		Vanja Vidanovic		Eva Goncharov	63 63
-21-28680	1	105	1	1	1	k9zjjz		tu4kss		SF		Eva Goncharov		Barbora Cibakova	Walkover
-21-28680	1	105	1	1	1	z52h0n		3vjpzd		SF		Vanja Vidanovic		Diane Follin-Arbelet	62 67(5) [7]
 21-29173	1	101	1	7	1	gfsbmp		gqosoc		R7		Eliza Clamor		Sarah Phung	82
 21-29173	1	101	1	6	1	nhml0v		jhqhcb		R6		Stephanie Kim		Mackenzie Wade	83
 21-29173	1	101	1	6	1	92rm9o		d34ba1		R6		Chloe Hansen		Jacqueline Drozd	81
@@ -4117,7 +4129,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-30664	1	101	1	2	1	hd0her		llrf73		64		Anca Craciun	24	Nastasya Semenovski	64 75
 21-30664	1	101	1	2	1	vxu9sf		bttbxn		64		Ana Jover	10	Lauren Lemonds	63 62
 21-30664	1	101	1	2	1	zvl55l		f4jghm		64	29	Justine Leong		Vasavi Ganesan	64 63
-21-30664	1	101	1	2	1	efyn4d		tcnsde		64	6	Denise Stoica		Calista Fuller	62 61
+21-30664	1	101	1	2	1	efyn4d		tcnsde		64	6	Denise Stoica		Cali Fuller	62 61
 21-30664	1	101	1	2	1	7wdofm		c2rm9o		64	27	Maria Olivia Castedo		Florencia Fuentes	63 62
 21-30664	1	101	1	2	1	kunadw		i9gtyv		64	14	Megan Heuser		Katarina Dukic	63 60
 21-30664	1	101	1	2	1	l7ub8l		cu8g48		64	30	Nicole Stephens		Maru Poppe	57 63 61
@@ -4146,7 +4158,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-30664	1	101	1	1	1	hd0her		wdln53		128		Anca Craciun		Allison McConnell	62 64
 21-30664	1	101	1	1	1	vxu9sf		c4h0be		128		Ana Jover		Sabina Brichackova	76(5) 61
 21-30664	1	101	1	1	1	f4jghm		5q3mx0		128		Vasavi Ganesan		Christine Gouws	64 64
-21-30664	1	101	1	1	1	tcnsde		pl4taj		128		Calista Fuller		Tara Damnjanovic	75 64
+21-30664	1	101	1	1	1	tcnsde		pl4taj		128		Cali Fuller		Tara Damnjanovic	75 64
 21-30664	1	101	1	1	1	c2rm9o		7tx793		128		Florencia Fuentes		Dagmar Zdrubecka	61 60
 21-30664	1	101	1	1	1	cu8g48		ke0sco		128		Maru Poppe		Kiley Rabjohns	36 63 61
 21-30664	1	101	1	1	1	mvjpzd		xtc1ir		128		Charlotte Gisclon		Kristina Pukhaeva	64 60
@@ -4171,6 +4183,79 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-30664	1	101	2	3	1	pl4taj		5q3mx0		32		Tara Damnjanovic		Christine Gouws	46 61 [10]
 21-30664	1	101	2	3	1	7tx793		i9gtyv		32		Dagmar Zdrubecka		Katarina Dukic	Walkover
 21-30664	1	101	2	3	1	ke0sco		xtc1ir		32		Kiley Rabjohns		Kristina Pukhaeva	Walkover
+21-30727	1	101	1	5	1	jejixs		qgbc5q		R5		Alexandria Rogers		Sam Scarlett	83
+21-30727	1	101	1	5	1	mwj0xa		z387mh		R5		Joslin Seaberg		Angelina Powers	63 26 [4]
+21-30727	1	101	1	4	1	mwj0xa		qgbc5q		R4		Joslin Seaberg		Sam Scarlett	60 61
+21-30727	1	101	1	4	1	z387mh		dwj0xa		R4		Angelina Powers		Natasha Sackx	61 60
+21-30727	1	101	1	3	1	dwj0xa		jejixs		R3		Natasha Sackx		Alexandria Rogers	Walkover
+21-30727	1	101	1	1	1	qgbc5q		dwj0xa		R1		Sam Scarlett		Natasha Sackx	61 61
+21-30727	1	101	1	1	1	mwj0xa		jejixs		R1		Joslin Seaberg		Alexandria Rogers	62 63
+21-30727	1	102	1	3	1	v81ora		l44m8y		F		Sara Beckman	1	Julia Ortega	06 64 [7]
+21-30727	1	102	1	2	1	l44m8y		qfdhd1		SF	1	Julia Ortega		Alice Marques	76(4) 60
+21-30727	1	102	1	2	1	v81ora		aulu7o		SF		Sara Beckman	2	Sanne Brull	61 64
+21-30727	1	102	1	1	1	l44m8y		mho163		QF	1	Julia Ortega		Annabelle Mulick	61 61
+21-30727	1	102	1	1	1	qfdhd1		97595t		QF		Alice Marques		Mari Carmen Bufkin	36 64 [7]
+21-30727	1	102	1	1	1	v81ora		rqkwcw		QF		Sara Beckman		Zoe Coggins	63 61
+21-30727	1	102	1	1	1	aulu7o		kclc76		QF	2	Sanne Brull		Deimante Bulatovaite	62 62
+21-30727	1	102	2	2	1	97595t		kclc76		F		Mari Carmen Bufkin		Deimante Bulatovaite	75 63
+21-30727	1	102	2	1	1	97595t		mho163		SF		Mari Carmen Bufkin		Annabelle Mulick	Walkover
+21-30727	1	102	2	1	1	kclc76		rqkwcw		SF		Deimante Bulatovaite		Zoe Coggins	62 62
+21-30727	1	102	3	1	1	qfdhd1		aulu7o		F		Alice Marques	2	Sanne Brull	76(11) 75
+21-30727	1	102	4	1	1	rqkwcw		mho163		F		Zoe Coggins		Annabelle Mulick	Walkover
+21-30727	1	103	1	3	1	nwwe0q		jrk7at		F	1	Lea Falentin	2	Audrey Rafols	63 61
+21-30727	1	103	1	2	1	nwwe0q		rtpfl7		SF	1	Lea Falentin		Maria Borodi	75 64
+21-30727	1	103	1	2	1	jrk7at		69x3dr		SF	2	Audrey Rafols		Maria Vittoria Casu…	64 67(3) [6]
+21-30727	1	103	1	1	1	nwwe0q		brevs5		QF	1	Lea Falentin		Paulina Alvarez	46 61 [5]
+21-30727	1	103	1	1	1	rtpfl7		u7ozqx		QF		Maria Borodi		Gina Dudley	26 63 [8]
+21-30727	1	103	1	1	1	69x3dr		zc6iyi		QF		Maria Vittoria Casu…		Amber Huk	61 63
+21-30727	1	103	1	1	1	jrk7at		uk8eo2		QF	2	Audrey Rafols		Alice Di Matteo	61 57 [5]
+21-30727	1	103	2	2	1	u7ozqx		uk8eo2		F		Gina Dudley		Alice Di Matteo	Walkover
+21-30727	1	103	2	1	1	u7ozqx		brevs5		SF		Gina Dudley		Paulina Alvarez	63 61
+21-30727	1	103	2	1	1	uk8eo2		zc6iyi		SF		Alice Di Matteo		Amber Huk	63 76(6)
+21-30727	1	103	3	1	1	rtpfl7		69x3dr		F		Maria Borodi		Maria Vittoria Casu…	62 61
+21-30727	1	103	4	1	1	brevs5		zc6iyi		F		Paulina Alvarez		Amber Huk	64 62
+21-30727	1	104	1	3	1	t85k3q		fn2z05		F		Elise Leik	1	Sylvie Van Cott	63 60
+21-30727	1	104	1	2	1	fn2z05		k03od6		SF	1	Sylvie Van Cott		Julia Rydel	63 75
+21-30727	1	104	1	2	1	t85k3q		a1trhz		SF		Elise Leik		Kate Bolton	60 61
+21-30727	1	104	1	1	1	fn2z05		i834xi		QF	1	Sylvie Van Cott		Anna Hoerter	61 61
+21-30727	1	104	1	1	1	k03od6		gz79rp		QF		Julia Rydel		Tanner Rowland	75 26 [6]
+21-30727	1	104	1	1	1	a1trhz		8unadw		QF		Kate Bolton		Luisa Garcia	61 61
+21-30727	1	104	1	1	1	t85k3q		c6ywm4		QF		Elise Leik	2	Natalie Sprenger	63 76(4)
+21-30727	1	104	2	2	1	c6ywm4		gz79rp		F	2	Natalie Sprenger		Tanner Rowland	64 26 [5]
+21-30727	1	104	2	1	1	gz79rp		i834xi		SF		Tanner Rowland		Anna Hoerter	63 63
+21-30727	1	104	2	1	1	c6ywm4		8unadw		SF	2	Natalie Sprenger		Luisa Garcia	63 63
+21-30727	1	104	3	1	1	a1trhz		k03od6		F		Kate Bolton		Julia Rydel	67(5) 63 [5]
+21-30727	1	104	4	1	1	8unadw		i834xi		F		Luisa Garcia		Anna Hoerter	36 62 [6]
+21-30727	1	105	1	3	1	x2rm9o		qll3pf		F	1	Brennan Foreman		Julia Azzi	61 64
+21-30727	1	105	1	2	1	x2rm9o		ktrvrf		SF	1	Brennan Foreman		Isabella Francis	75 61
+21-30727	1	105	1	2	1	qll3pf		9qq8uk		SF		Julia Azzi		Sylvana Talamantes	62 26 [6]
+21-30727	1	105	1	1	1	x2rm9o		2yukqc		QF	1	Brennan Foreman		Alyssa Tay	62 76(1)
+21-30727	1	105	1	1	1	ktrvrf		3s1snm		QF		Isabella Francis		Maya Young	67(3) 61 [6]
+21-30727	1	105	1	1	1	qll3pf		qla5s7		QF		Julia Azzi		Seraphine Vossen	63 60
+21-30727	1	105	1	1	1	9qq8uk		sxu9sf		QF		Sylvana Talamantes	2	Ella Lavender	63 64
+21-30727	1	105	2	2	1	sxu9sf		2yukqc		F	2	Ella Lavender		Alyssa Tay	75 61
+21-30727	1	105	2	1	1	2yukqc		3s1snm		SF		Alyssa Tay		Maya Young	57 62 [8]
+21-30727	1	105	2	1	1	sxu9sf		qla5s7		SF	2	Ella Lavender		Seraphine Vossen	62 63
+21-30727	1	105	3	1	1	9qq8uk		ktrvrf		F		Sylvana Talamantes		Isabella Francis	61 64
+21-30727	1	105	4	1	1	qla5s7		3s1snm		F		Seraphine Vossen		Maya Young	46 63 [3]
+21-30727	1	106	1	3	1	vx9313		ndn3bb		F	2	Lada Baglaeva		Antoinette Schreiber	60 26 [8]
+21-30727	1	106	1	2	1	ndn3bb		a0kys2		SF		Antoinette Schreiber		Sophia Nguyen	46 61 [3]
+21-30727	1	106	1	2	1	vx9313		25fv33		SF	2	Lada Baglaeva		Caro Groff	61 62
+21-30727	1	106	1	1	1	ndn3bb		ebpxlp		QF		Antoinette Schreiber	1	Zeynep Aynaci	62 46 [6]
+21-30727	1	106	1	1	1	a0kys2		z501uf		QF		Sophia Nguyen		Gionna Parsa	61 60
+21-30727	1	106	1	1	1	25fv33		2p77bj		QF		Caro Groff		Haley Garcia	64 62
+21-30727	1	106	1	1	1	vx9313		m0kys2		QF	2	Lada Baglaeva		Abigail Proktor	61 64
+21-30727	1	106	2	2	1	2p77bj		z501uf		F		Haley Garcia		Gionna Parsa	60 61
+21-30727	1	106	2	1	1	z501uf		ebpxlp		SF		Gionna Parsa	1	Zeynep Aynaci	Walkover
+21-30727	1	106	2	1	1	2p77bj		m0kys2		SF		Haley Garcia		Abigail Proktor	06 63 [3]
+21-30727	1	106	3	1	1	25fv33		a0kys2		F		Caro Groff		Sophia Nguyen	75 36 [7]
+21-30727	1	106	4	1	1	m0kys2		ebpxlp		F		Abigail Proktor	1	Zeynep Aynaci	75 64
+21-30727	1	107	1	3	1	n1ch23		n1trhz		R3		Daniela Christian		Isabella Chacon	60 64
+21-30727	1	107	1	3	1	w32v4t		pfdhd1		R3		Ghada Alajeely		Brynn Mckenzie	60 60
+21-30727	1	107	1	2	1	w32v4t		n1trhz		R2		Ghada Alajeely		Isabella Chacon	61 60
+21-30727	1	107	1	2	1	n1ch23		pfdhd1		R2		Daniela Christian		Brynn Mckenzie	61 60
+21-30727	1	107	1	1	1	w32v4t		n1ch23		R1		Ghada Alajeely		Daniela Christian	64 60
+21-30727	1	107	1	1	1	n1trhz		pfdhd1		R1		Isabella Chacon		Brynn Mckenzie	60 62
 21-31047	1	101	1	3	1	qc6iyi		s6sk4g		F		Hana Kvapilova		Maryjoe Crisologo	60 75
 21-31047	1	101	1	2	1	qc6iyi		f8qqu2		SF		Hana Kvapilova		Allison Stewart	63 62
 21-31047	1	101	1	2	1	s6sk4g		v4262q		SF		Maryjoe Crisologo		Rishona Israel-Lewis	36 63 [8]
@@ -4635,13 +4720,13 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-33894	1	105	1	3	1	kl4taj		1w0ac6		F		Olivia Czerwonka		Mariona Perez	64 64
 21-33894	1	105	1	2	1	1w0ac6		cfdhd1		SF		Mariona Perez		Bozana Lojpur	16 75 [5]
 21-33894	1	105	1	2	1	kl4taj		tjibk9		SF		Olivia Czerwonka		Giulia Turconi	61 61
-21-33894	1	105	1	1	1	1w0ac6		tcnsde		QF		Mariona Perez		Calista Fuller	26 61 [8]
+21-33894	1	105	1	1	1	1w0ac6		tcnsde		QF		Mariona Perez		Cali Fuller	26 61 [8]
 21-33894	1	105	1	1	1	cfdhd1		uc8y4q		QF		Bozana Lojpur		Gabrielle Ochalik	
 21-33894	1	105	1	1	1	kl4taj		5nu7c9		QF		Olivia Czerwonka		Alexandra Abyasova	60 46 [8]
 21-33894	1	105	1	1	1	tjibk9		aeyc6g		QF		Giulia Turconi		Yuliya Kizelbasheva	16 76(6) [7]
 21-33894	1	105	2	1	1	cfdhd1		tjibk9		F		Bozana Lojpur		Giulia Turconi	64 64
-21-33894	1	106	1	2	1	5nu7c9		tcnsde		F		Alexandra Abyasova		Calista Fuller	62 75
-21-33894	1	106	1	1	1	tcnsde		uc8y4q		SF		Calista Fuller		Gabrielle Ochalik	06 63
+21-33894	1	106	1	2	1	5nu7c9		tcnsde		F		Alexandra Abyasova		Cali Fuller	62 75
+21-33894	1	106	1	1	1	tcnsde		uc8y4q		SF		Cali Fuller		Gabrielle Ochalik	06 63
 21-33894	1	106	1	1	1	5nu7c9		aeyc6g		SF		Alexandra Abyasova		Yuliya Kizelbasheva	75 46 [3]
 21-33894	1	106	2	1	1	aeyc6g		uc8y4q		F		Yuliya Kizelbasheva		Gabrielle Ochalik	61 63
 21-33894	1	107	1	3	1	7jef8t		xtc1ir		F		Marija Jovicic		Kristina Pukhaeva	61 61
@@ -8179,6 +8264,62 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-68261	1	201	2	1	1	l9edsn		fnfd3l		32Q		Carolyn Ansari		Sarah-Maude Fortin	64 54 Ret.
 21-68261	1	201	2	1	1	iny3op		az5tlh		32Q		Shakhnoza Khatamova		Eleni Louka	63 62
 21-68261	1	201	2	1	1	qrgbyd		i501uf		32Q	5	Solymar Colling		Shura Poppe	64 64
+21-68401	1	101	1	3	1	f5jrfj		loyemm		F		Mila Saric		Sibel Tanik	63 61
+21-68401	1	101	1	2	1	f5jrfj		i7mjkp		SF		Mila Saric		Alexandra Almborg	61 62
+21-68401	1	101	1	2	1	loyemm		9ndxxd		SF		Sibel Tanik		Erika Cheng	61 75
+21-68401	1	101	1	1	1	f5jrfj		e6q4y8		QF		Mila Saric		Semra Aksu	61 60
+21-68401	1	101	1	1	1	i7mjkp		kq7i9g		QF		Alexandra Almborg		Lizette Reding	46 62 60
+21-68401	1	101	1	1	1	9ndxxd		w3ansp		QF		Erika Cheng		Elisa van Meeteren	61 62
+21-68401	1	101	1	1	1	loyemm		vhml0v		QF		Sibel Tanik		Jade Houston	76(5) 62
+21-68401	1	101	2	2	1	e6q4y8		w3ansp		F		Semra Aksu		Elisa van Meeteren	62 63
+21-68401	1	101	2	1	1	e6q4y8		kq7i9g		SF		Semra Aksu		Lizette Reding	64 64
+21-68401	1	101	2	1	1	w3ansp		vhml0v		SF		Elisa van Meeteren		Jade Houston	64 75
+21-68401	1	101	3	1	1	9ndxxd		i7mjkp		F		Erika Cheng		Alexandra Almborg	52 Ret.
+21-68401	1	101	4	1	1	kq7i9g		vhml0v		F		Lizette Reding		Jade Houston	60 63
+21-68401	1	102	1	3		pnu7c9		oxbj7b		F		Raffaela Alhach		Hedda Gurholt	
+21-68401	1	102	1	2	1	pnu7c9		1u8g48		SF		Raffaela Alhach		Dariya Radulova	64 63
+21-68401	1	102	1	2	1	oxbj7b		clrf73		SF		Hedda Gurholt		Victoria Saldh	62 60
+21-68401	1	102	1	1	1	1u8g48		cjt9hh		QF		Dariya Radulova		Julie Ball	Default
+21-68401	1	102	1	1	1	pnu7c9		881ora		QF		Raffaela Alhach		Maretha Burger	76(6) 46 63
+21-68401	1	102	1	1	1	oxbj7b		5vnlbt		QF		Hedda Gurholt		Sabina Richtrova	61 61
+21-68401	1	102	1	1	1	clrf73		p6bapk		QF		Victoria Saldh		Kennedy Hill	57 64 63
+21-68401	1	102	2	2	1	5vnlbt		881ora		F		Sabina Richtrova		Maretha Burger	62 61
+21-68401	1	102	2	1	1	881ora		cjt9hh		SF		Maretha Burger		Julie Ball	Walkover
+21-68401	1	102	2	1	1	5vnlbt		p6bapk		SF		Sabina Richtrova		Kennedy Hill	62 64
+21-68401	1	102	3	1		1u8g48		clrf73		F		Dariya Radulova		Victoria Saldh	
+21-68401	1	102	4	1	1	p6bapk		cjt9hh		F		Kennedy Hill		Julie Ball	Walkover
+21-68401	1	103	1	3		rl4taj		tm6keo		F		Emma Fernald		Ine Stange	
+21-68401	1	103	1	2	1	rl4taj		6bv93d		SF		Emma Fernald		Willa Rogers	16 61 62
+21-68401	1	103	1	2	1	tm6keo		pyms2g		SF		Ine Stange		Olivia Archer	76(5) 62
+21-68401	1	103	1	1	1	6bv93d		4trvrf		QF		Willa Rogers		Hannah Gaines	61 63
+21-68401	1	103	1	1	1	rl4taj		6m448g		QF		Emma Fernald		Alison ODea	76(5) 64
+21-68401	1	103	1	1	1	tm6keo		yho163		QF		Ine Stange		Maria Picazo	64 61
+21-68401	1	103	1	1	1	pyms2g		y7qfw5		QF		Olivia Archer		Kirsten Husted	57 63 61
+21-68401	1	103	2	2	1	y7qfw5		6m448g		F		Kirsten Husted		Alison ODea	62 62
+21-68401	1	103	2	1	1	6m448g		4trvrf		SF		Alison ODea		Hannah Gaines	64 61
+21-68401	1	103	2	1	1	y7qfw5		yho163		SF		Kirsten Husted		Maria Picazo	61 61
+21-68401	1	103	3	1		6bv93d		pyms2g		F		Willa Rogers		Olivia Archer	
+21-68401	1	103	4	1		4trvrf		yho163		F		Hannah Gaines		Maria Picazo	
+21-68401	1	104	1	1	1	hii0mc		8u60y0		16		Elsa Kirch		Anaiah Jones	62 61
+21-68401	1	104	1	1	1	4yo88o		95fv33		16		Kensie Cricchio		Shauna Galvin	Walkover
+21-68401	1	104	1	1	1	vaase4		uu4kss		16		Sarah Allen		Isabelle Exsted	06 61 64
+21-68401	1	104	1	1	1	ztrvrf		sv2fkh		16		Lisa Fukutoku		Lafilissa Joao	64 62
+21-68401	1	104	1	1	1	asxwb6		ng7gta		16		Alisia Manolescu		Lily Hackbirth	60 60
+21-68401	1	105	1	1	1	8u60y0		95fv33		16		Anaiah Jones		Shauna Galvin	Walkover
+21-68401	1	105	1	1	1	sv2fkh		ng7gta		16		Lafilissa Joao		Lily Hackbirth	61 63
+21-68401	1	105	1	1	1	asxwb6		uu4kss		16		Alisia Manolescu		Isabelle Exsted	75 62
+21-68401	1	105	1	1	1	vaase4		ztrvrf		16		Sarah Allen		Lisa Fukutoku	Walkover
+21-68401	1	105	1	1	1	hii0mc		4yo88o		16		Elsa Kirch		Kensie Cricchio	Default
+21-68401	1	106	1	1		95fv33		4yo88o		16		Shauna Galvin		Kensie Cricchio	
+21-68401	1	106	1	1	1	vaase4		ng7gta		16		Sarah Allen		Lily Hackbirth	62 64
+21-68401	1	106	1	1	1	sv2fkh		asxwb6		16		Lafilissa Joao		Alisia Manolescu	63 61
+21-68401	1	106	1	1	1	uu4kss		hii0mc		16		Isabelle Exsted		Elsa Kirch	64 76(5)
+21-68401	1	106	1	1		8u60y0		ztrvrf		16		Anaiah Jones		Lisa Fukutoku	
+21-68401	1	107	1	1	1	881ora		vaase4		16		Maretha Burger		Sarah Allen	62 63
+21-68401	1	107	1	1	1	oxbj7b		1u8g48		16		Hedda Gurholt		Dariya Radulova	76(5) 63
+21-68401	1	107	1	1	1	tm6keo		6bv93d		16		Ine Stange		Willa Rogers	46 60 62
+21-68401	1	107	1	1	1	rl4taj		pyms2g		16		Emma Fernald		Olivia Archer	62 64
+21-68401	1	107	1	1	1	pnu7c9		clrf73		16		Raffaela Alhach		Victoria Saldh	64 61
 21-68924	1	101	1	1	1	r85k3q		ffdhd1		128		Margaux Maquet		Cristina Mayorova	64 76(5)
 21-68924	1	101	1	1	1	b1xntf		kkca0i		128		Daniella Medvedeva		Lucia Quiterio	76(3) 62
 21-68924	1	101	1	1	1	1ybu58		chk5un		128		Rocio Safont		Ali DeSpain	64 64
@@ -9329,7 +9470,7 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-77667	1	101	1	1	1	4xhvpz		jx9313		64		Yashna Yellayi		Margaryta Bilokin	46 64 62
 21-77667	1	101	1	1	1	tz3df9		peww08		64		Samantha Gillas		Elisabeth Desmarais	62 63
 21-77667	1	101	1	1	1	21trhz		f5w5iz		64		Michelle Bacalla		Elizabeth Ferdman	64 62
-21-77667	1	101	1	1	1	bttbxn		tcnsde		64		Lauren Lemonds		Calista Fuller	63 62
+21-77667	1	101	1	1	1	bttbxn		tcnsde		64		Lauren Lemonds		Cali Fuller	63 62
 21-77667	1	101	1	1	1	mvjpzd		i9gtyv		64		Charlotte Gisclon		Katarina Dukic	64 64
 21-77667	1	101	1	1	1	yfw7y5		l4jghm		64		Tia Mukherjee		Lea Forste-Dinell	62 62
 21-77667	1	101	1	1	1	blpz1v		a36rg9		64		Tamara Malazonia		Monique Karoub	62 26 64
@@ -9623,54 +9764,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-80794	1	107	1	1	1	3azuhw		dwf4lu		R1		Claire Southern		Hannah Higgins	76(5) 36 [7]
 21-80794	1	107	1	1	1	1tehoz		xwf4lu		R1		Nique Ten Bos		Luciana Forma	62 64
 21-80794	1	107	1	1	1	i3llpx		ry9ez0		R1		Javi Brito		Milana Lewis	60 64
-21-82687	1	101	1	1	1	cwyu6y		nkeq6q		QF		Lesedi Jacobs		Luminita Tutunaru	63 63
-21-82687	1	101	1	1	1	otc1ir		g9gtyv		QF		Marta Perez Mur		Mackenzie Clark	64 46 [9]
-21-82687	1	101	1	1	1	n81ora		yl69gr		QF		Xinyu Cai		Rachel Krzyzak	75 62
-21-82687	1	102	1	1	1	ympazs		srxld9		QF		Lahari Yelamanchili		Mary Brumfield	62 64
-21-82687	1	102	1	1	1	9d2xkz		zz3df9		QF		Anaelle Leclercq-Fi…		Yu Fujioka	62 76(2)
-21-82687	1	102	1	1	1	howyge		x0kys2		QF		Sydney Pratt		Rita Pinto	61 61
-21-82687	1	102	1	1	1	qxdzdj		2owyge		QF		Ava Markham		Ola Pitak	62 64
-21-82687	1	103	1	1	1	kr1hpp		cybu58		QF		Hannah McColgan		Camila Romero	36 61 [9]
-21-82687	1	103	1	1	1	8yqoew		lxqdgz		QF		Nikola Kohoutova		Katie Andreini	62 60
-21-82687	1	103	1	1	1	ivh9t5		f85k3q		QF		Taylor Cataldi		Alexandra Mikhailuk	62 64
-21-82687	1	103	1	1	1	5saaem		wd4dq7		QF		Alice Amendola		Kasia Pitak	62 36 [4]
-21-82687	1	104	1	1	1	b1itkr		6v4vqp		QF		Alexandra Staicules…		Elysia Pool	26 64 [5]
-21-82687	1	104	1	1	1	sh5blz		f2t2fw		QF		Madeline Meredith		Emily Meyer	62 61
-21-82687	1	104	1	1	1	5vp1h1		2q16rs		QF		Jiayun Zhu		Charlotte Cartledge	62 63
-21-82687	1	104	1	1	1	j0emae		t0kys2		QF		Aino Alkio		Anna Parkhomenko	64 61
-21-82687	1	105	1	1	1	ag7gta		ascqku		QF		Lillian Gabrielsen		Sydney Clarke	62 46 [7]
-21-82687	1	105	1	1	1	mqkwcw		9wdofm		QF		Annie Clark		Kristen Borland	75 67(2) [8]
-21-82687	1	105	1	1	1	ompazs		ke0sco		QF		Monique Woog		Kiley Rabjohns	64 62
-21-82687	1	105	1	1	1	tsxwb6		cput83		QF		Mila Mejic		Lily Walther	64 63
-21-82687	1	106	1	1	1	6zqzct		5zknu5		QF		Brooke Theis		Marta Falceto	46 62 [6]
-21-82687	1	106	1	1	1	qxqdgz		ose6q2		QF		Otoha Aoki		Anastasiia Khokhlova	64 63
-21-82687	1	106	1	1	1	o1ex8b		tmlenc		QF		Xiaowei Hu		Vanessa Mellynchuk	64 26 [9]
-21-82687	1	106	1	1	1	626gic		lxu9sf		QF		Anastasia Astakhova		Ariel Johnson	75 64
-21-82687	1	107	1	1	1	4jef8t		i8qqu2		QF		Adelaide Lavery		Dolavee Tumthong	62 64
-21-82687	1	107	1	1	1	dtvr3v		3wf4lu		QF		Annalisa Smith		Sayda Hernandez	64 61
-21-82687	1	107	1	1	1	w4nct2		xyqoew		QF		Charlotte Russell		Kristina Kukaras	63 62
-21-82687	1	107	1	1	1	kn2z05		aq7i9g		QF		Lara van der Merwe		Chhinda Som	61 64
-21-82687	1	108	1	1	1	b2p63g		dzqzct		16		Cora Barber		Andrea Widing	67(5) 60 [7]
-21-82687	1	108	1	1	1	8pohqf		cbttx5		16		Alexandra Ferreira …		Sophia Mitchell	60 63
-21-82687	1	108	1	1	1	4e0sco		z8oaou		16		Sean Mullen		Enya Ratkic	75 75
-21-82687	1	108	1	1	1	v6wggw		l3llpx		16		Michelle Ncube		Ansley Cheshire	63 64
-21-82687	1	108	1	1	1	8qkwcw		btrvrf		16		Olivia Elliott		Michaela Hegarty	63 76(3)
-21-82687	1	109	1	1	1	ycropu		qxdzdj		128		Petra Sedlackova		Ava Markham	64 76(2)
-21-82687	1	109	1	1	1	lxqdgz		xyqoew		128		Katie Andreini		Kristina Kukaras	62 63
-21-82687	1	109	1	1	1	cybu58		626gic		128		Camila Romero		Anastasia Astakhova	64 64
-21-82687	1	109	1	1	1	b1itkr		mqkwcw		128		Alexandra Staicules…		Annie Clark	60 61
-21-82687	1	109	1	1	1	ompazs		tsxwb6		128		Monique Woog		Mila Mejic	62 62
-21-82687	1	109	1	1	1	sh5blz		lxu9sf		128		Madeline Meredith		Ariel Johnson	46 61 [7]
-21-82687	1	109	1	1	1	f2t2fw		wd4dq7		128		Emily Meyer		Kasia Pitak	63 63
-21-82687	1	109	1	1	1	dzqzct		i8qqu2		128		Andrea Widing		Dolavee Tumthong	26 63 [2]
-21-82687	1	109	1	1	1	2owyge		ivh9t5		128		Ola Pitak		Taylor Cataldi	62 62
-21-82687	1	109	1	1	1	l3llpx		btrvrf		128		Ansley Cheshire		Michaela Hegarty	61 61
-21-82687	1	109	1	1	1	3wf4lu		cbttx5		128		Sayda Hernandez		Sophia Mitchell	62 75
-21-82687	1	109	1	1	1	f85k3q		o1ex8b		128		Alexandra Mikhailuk		Xiaowei Hu	76(1) 60
-21-82687	1	109	1	1	1	tmlenc		8qkwcw		128		Vanessa Mellynchuk		Olivia Elliott	16 61 [5]
-21-82687	1	109	1	1	1	8pohqf		ose6q2		128		Alexandra Ferreira …		Anastasiia Khokhlova	63 64
-21-82687	1	109	1	1	1	2q16rs		5zknu5		128		Charlotte Cartledge		Marta Falceto	61 26 [8]
-21-82687	1	109	1	1	1	ascqku		v6wggw		128		Sydney Clarke		Michelle Ncube	76(6) 75
 21-82716	1	101	1	7	1	92e868		pii0mc		F		Sabrina Tang		Mary Hose	Default
 21-82716	1	101	1	6	1	92e868		gz1x91		SF		Sabrina Tang		Autum Bruno	61 61
 21-82716	1	101	1	6	1	pii0mc		f5upcr		SF		Mary Hose		Irene Agusti	62 57 63
