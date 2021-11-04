@@ -1,9 +1,9 @@
 ---
-tournaments: 267
-players: 4914
-matches: 11511
-completed: 11474
-scheduled: 37
+tournaments: 272
+players: 4923
+matches: 11656
+completed: 11599
+scheduled: 57
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
 21-00186	2	101	1	4	1	h1gdej		c1ch23		F	2	Stephanie Petit	1	Nicole Coopersmith	75 46 64
@@ -3853,6 +3853,41 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-28500	2	105	1	1	1	pfyn4d		yejixs		QF		Larissa Wieser		Stefanie Rossmeier	61 75
 21-28500	2	105	2	2	1	oy7yts		yejixs		F		Lauren Good		Stefanie Rossmeier	64 61
 21-28500	2	105	3	1	1	g834xi		8trvrf		F		Harriet Glaves		Yureni Gomez	64 60
+21-28680	1	101	1	3	1	c1ch23		zjzlz5		F	1	Nicole Coopersmith		Maeva Roquebert	63 62
+21-28680	1	101	1	2	1	c1ch23		2xwpyn		SF	1	Nicole Coopersmith		Chantal Nosievici	Walkover
+21-28680	1	101	1	2	1	zjzlz5		l77pb1		SF		Maeva Roquebert		Ekaterina Grib	Walkover
+21-28680	1	101	1	1	1	c1ch23		u36rg9		QF	1	Nicole Coopersmith		Maria Khomchenko	62 61
+21-28680	1	101	1	1	1	2xwpyn		rd4dq7		QF		Chantal Nosievici		Giorgia Pigato	63 36 [7]
+21-28680	1	101	1	1	1	l77pb1		jbezoh		QF		Ekaterina Grib		Jacqueline Wagner	Walkover
+21-28680	1	101	1	1	1	zjzlz5		66u0ao		QF		Maeva Roquebert	2	Nika Kozar	60 16 [8]
+21-28680	1	101	2	1	1	rd4dq7		u36rg9		SF		Giorgia Pigato		Maria Khomchenko	64 75
+21-28680	1	101	2	1	1	66u0ao		jbezoh		SF	2	Nika Kozar		Jacqueline Wagner	Walkover
+21-28680	1	102	1	1	1	tu4kss		5u60y0		QF	1	Barbora Cibakova		Irina Lapustina	Walkover
+21-28680	1	102	1	1	1	z52h0n		xoh47q		QF		Vanja Vidanovic		Savannah Williams	62 61
+21-28680	1	102	1	1	1	k9zjjz		ar5d15		QF		Eva Goncharov		Anine Wilberg	64 46 [6]
+21-28680	1	102	1	1	1	3vjpzd		k4yaqa		QF	2	Diane Follin-Arbelet		Florencia Araya	61 62
+21-28680	1	102	2	1	1	xoh47q		5u60y0		SF		Savannah Williams		Irina Lapustina	Walkover
+21-28680	1	102	2	1	1	ar5d15		k4yaqa		SF		Anine Wilberg		Florencia Araya	60 75
+21-28680	1	103	1	3	1	zg50n2		eqkwcw		F	2	Anna Baranovski		Corbin Dorsey	61 36 [8]
+21-28680	1	103	1	2	1	eqkwcw		5kv0lm		SF		Corbin Dorsey	1	Karolina Snita	Walkover
+21-28680	1	103	1	2	1	zg50n2		aejixs		SF	2	Anna Baranovski		Kanon Sorakudo	63 63
+21-28680	1	103	1	1	1	5kv0lm		wbrdrx		QF	1	Karolina Snita		Tatiana Harrelson	61 64
+21-28680	1	103	1	1	1	eqkwcw		8st0zq		QF		Corbin Dorsey		Karyna Bihel	Walkover
+21-28680	1	103	1	1	1	aejixs		6387mh		QF		Kanon Sorakudo		Nicoline Palmgren	62 36 [8]
+21-28680	1	103	1	1	1	zg50n2		k44m8y		QF	2	Anna Baranovski		Madalena Peneda	62 63
+21-28680	1	103	2	1	1	wbrdrx		8st0zq		SF		Tatiana Harrelson		Karyna Bihel	Walkover
+21-28680	1	103	2	1	1	6387mh		k44m8y		SF		Nicoline Palmgren		Madalena Peneda	63 63
+21-28680	1	104	1	3	1	tn0jux		1st0zq		F	1	Eliska Petrackova		Dakota Busch	62 63
+21-28680	1	104	1	2	1	tn0jux		vqmci4		SF	1	Eliska Petrackova		Caitlyn Khan	61 76(4)
+21-28680	1	104	1	2	1	1st0zq		i44m8y		SF		Dakota Busch		Mahika Rana	61 63
+21-28680	1	104	1	1	1	vqmci4		p2rm9o		QF		Caitlyn Khan		Eleonora Guglielmet…	Walkover
+21-28680	1	104	1	1	1	i44m8y		2462e6		QF		Mahika Rana		Giulia Tatini	60 64
+21-28680	1	104	1	1	1	1st0zq		kos24y		QF		Dakota Busch	2	Anique Engelbrecht	63 60
+21-28680	1	104	2	1	1	2462e6		kos24y		SF		Giulia Tatini	2	Anique Engelbrecht	75 75
+21-28680	1	104	3	1	1	vqmci4		i44m8y		F		Caitlyn Khan		Mahika Rana	67(5) 75 [9]
+21-28680	1	105	1	2	1	z52h0n		k9zjjz		F		Vanja Vidanovic		Eva Goncharov	63 63
+21-28680	1	105	1	1	1	k9zjjz		tu4kss		SF		Eva Goncharov		Barbora Cibakova	Walkover
+21-28680	1	105	1	1	1	z52h0n		3vjpzd		SF		Vanja Vidanovic		Diane Follin-Arbelet	62 67(5) [7]
 21-29173	1	101	1	7	1	gfsbmp		gqosoc		R7		Eliza Clamor		Sarah Phung	82
 21-29173	1	101	1	6	1	nhml0v		jhqhcb		R6		Stephanie Kim		Mackenzie Wade	83
 21-29173	1	101	1	6	1	92rm9o		d34ba1		R6		Chloe Hansen		Jacqueline Drozd	81
@@ -5518,6 +5553,22 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-38109	1	102	4	2	1	cjibk9		b9kpab		F		Caini Wang		Massiel Paredes	75 61
 21-38109	1	102	4	1	1	b9kpab		1hqhcb		SF		Massiel Paredes		Julia Terrazas	62 64
 21-38109	1	102	4	1	1	cjibk9		7z3df9		SF		Caini Wang		Olga Guillamon	61 62
+21-38622	2	101	1	1		lmjyh4		y6u0ao		32	1	Abigail Forbes		Karine-Marion Job	Thu @ 11:45
+21-38622	2	101	1	1		hhml0v		nmnutk		32		Mariia Kozyreva		Anna Riedmiller	Thu @ 12:30
+21-38622	2	101	1	1		ijt9hh		s5l7lr		32	5	Eryn Cayetano		Alexandra Yepifanova	Thu @ 11:15
+21-38622	2	101	1	1		8lpz1v		5ny3op		32		Cameron Morra		Petra Hule	Thu @ 11:15
+21-38622	2	101	1	1		fvjpzd		rsi22i		32	3	Sarah Hamner		Elza Tomase	Thu @ 12:30
+21-38622	2	101	1	1		ql4taj		cxstm7		32		Kylie Collns		Salma Ewing	Thu @ 09:00
+21-38622	2	101	1	1		lzoj6l		iqmci4		32	6	Alexa Noel		Victoria Hu	Thu @ 12:00
+21-38622	2	101	1	1		ejibk9		u8qqu2		32		Reilly Tran		Natasha Subhash	Thu @ 10:15
+21-38622	2	101	1	1		7hk5un		29zjjz		32		Abigail Desiatnikov		Alicia Herrero Lina…	Thu @ 10:15
+21-38622	2	101	1	1		sq16rs		qyms2g		32		Irina Cantos Siemers	8	Ayana Akli	Thu @ 09:00
+21-38622	2	101	1	1		kktkfe		1fsbmp		32		Kari Miller		Tiphanie Fiquet	Thu @ 12:00
+21-38622	2	101	1	1	1	bc8y4q		eltvdb		32		Mell Reasco	4	Lisa Zaar	76(7) 64
+21-38622	2	101	1	1	1	440qwi		eulu7o		32		Fiona Crawley		Safiya Carrington	36 62 61
+21-38622	2	101	1	1		kbttx5		33n1v5		32		Connie Ma	7	Snow Han	Thu @ 09:00
+21-38622	2	101	1	1		kpsd2v		4xdzdj		32		Thasaporn Naklo		Rebeka Mertena	Thu @ 11:45
+21-38622	2	101	1	1	1	13n1v5		9h1f9j		32	2	Daria Frayman		Elaine Chervinsky	61 62
 21-39692	1	101	1	1	1	0795h9		abezoh		32		Kelsey Mize		Manami Ukita	62 60
 21-39692	1	101	1	1	1	n8qqu2		tjgve1		32		Anna Turco		Sydney Oerfice	61 61
 21-39692	1	101	1	1	1	0aase4		exbj7b		32		Dinara Alloyarova		Eesha Gudiseva	61 63
@@ -8313,6 +8364,62 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-68261	1	201	2	1	1	l9edsn		fnfd3l		32Q		Carolyn Ansari		Sarah-Maude Fortin	64 54 Ret.
 21-68261	1	201	2	1	1	iny3op		az5tlh		32Q		Shakhnoza Khatamova		Eleni Louka	63 62
 21-68261	1	201	2	1	1	qrgbyd		i501uf		32Q	5	Solymar Colling		Shura Poppe	64 64
+21-68401	1	101	1	3	1	f5jrfj		loyemm		F		Mila Saric		Sibel Tanik	63 61
+21-68401	1	101	1	2	1	f5jrfj		i7mjkp		SF		Mila Saric		Alexandra Almborg	61 62
+21-68401	1	101	1	2	1	loyemm		9ndxxd		SF		Sibel Tanik		Erika Cheng	61 75
+21-68401	1	101	1	1	1	f5jrfj		e6q4y8		QF		Mila Saric		Semra Aksu	61 60
+21-68401	1	101	1	1	1	i7mjkp		kq7i9g		QF		Alexandra Almborg		Lizette Reding	46 62 60
+21-68401	1	101	1	1	1	9ndxxd		w3ansp		QF		Erika Cheng		Elisa van Meeteren	61 62
+21-68401	1	101	1	1	1	loyemm		vhml0v		QF		Sibel Tanik		Jade Houston	76(5) 62
+21-68401	1	101	2	2	1	e6q4y8		w3ansp		F		Semra Aksu		Elisa van Meeteren	62 63
+21-68401	1	101	2	1	1	e6q4y8		kq7i9g		SF		Semra Aksu		Lizette Reding	64 64
+21-68401	1	101	2	1	1	w3ansp		vhml0v		SF		Elisa van Meeteren		Jade Houston	64 75
+21-68401	1	101	3	1	1	9ndxxd		i7mjkp		F		Erika Cheng		Alexandra Almborg	52 Ret.
+21-68401	1	101	4	1	1	kq7i9g		vhml0v		F		Lizette Reding		Jade Houston	60 63
+21-68401	1	102	1	3		pnu7c9		oxbj7b		F		Raffaela Alhach		Hedda Gurholt	
+21-68401	1	102	1	2	1	pnu7c9		1u8g48		SF		Raffaela Alhach		Dariya Radulova	64 63
+21-68401	1	102	1	2	1	oxbj7b		clrf73		SF		Hedda Gurholt		Victoria Saldh	62 60
+21-68401	1	102	1	1	1	1u8g48		cjt9hh		QF		Dariya Radulova		Julie Ball	Default
+21-68401	1	102	1	1	1	pnu7c9		881ora		QF		Raffaela Alhach		Maretha Burger	76(6) 46 63
+21-68401	1	102	1	1	1	oxbj7b		5vnlbt		QF		Hedda Gurholt		Sabina Richtrova	61 61
+21-68401	1	102	1	1	1	clrf73		p6bapk		QF		Victoria Saldh		Kennedy Hill	57 64 63
+21-68401	1	102	2	2	1	5vnlbt		881ora		F		Sabina Richtrova		Maretha Burger	62 61
+21-68401	1	102	2	1	1	881ora		cjt9hh		SF		Maretha Burger		Julie Ball	Walkover
+21-68401	1	102	2	1	1	5vnlbt		p6bapk		SF		Sabina Richtrova		Kennedy Hill	62 64
+21-68401	1	102	3	1		1u8g48		clrf73		F		Dariya Radulova		Victoria Saldh	
+21-68401	1	102	4	1	1	p6bapk		cjt9hh		F		Kennedy Hill		Julie Ball	Walkover
+21-68401	1	103	1	3		rl4taj		tm6keo		F		Emma Fernald		Ine Stange	
+21-68401	1	103	1	2	1	rl4taj		6bv93d		SF		Emma Fernald		Willa Rogers	16 61 62
+21-68401	1	103	1	2	1	tm6keo		pyms2g		SF		Ine Stange		Olivia Archer	76(5) 62
+21-68401	1	103	1	1	1	6bv93d		4trvrf		QF		Willa Rogers		Hannah Gaines	61 63
+21-68401	1	103	1	1	1	rl4taj		6m448g		QF		Emma Fernald		Alison ODea	76(5) 64
+21-68401	1	103	1	1	1	tm6keo		yho163		QF		Ine Stange		Maria Picazo	64 61
+21-68401	1	103	1	1	1	pyms2g		y7qfw5		QF		Olivia Archer		Kirsten Husted	57 63 61
+21-68401	1	103	2	2	1	y7qfw5		6m448g		F		Kirsten Husted		Alison ODea	62 62
+21-68401	1	103	2	1	1	6m448g		4trvrf		SF		Alison ODea		Hannah Gaines	64 61
+21-68401	1	103	2	1	1	y7qfw5		yho163		SF		Kirsten Husted		Maria Picazo	61 61
+21-68401	1	103	3	1		6bv93d		pyms2g		F		Willa Rogers		Olivia Archer	
+21-68401	1	103	4	1		4trvrf		yho163		F		Hannah Gaines		Maria Picazo	
+21-68401	1	104	1	1	1	hii0mc		8u60y0		16		Elsa Kirch		Anaiah Jones	62 61
+21-68401	1	104	1	1	1	4yo88o		95fv33		16		Kensie Cricchio		Shauna Galvin	Walkover
+21-68401	1	104	1	1	1	vaase4		uu4kss		16		Sarah Allen		Isabelle Exsted	06 61 64
+21-68401	1	104	1	1	1	ztrvrf		sv2fkh		16		Lisa Fukutoku		Lafilissa Joao	64 62
+21-68401	1	104	1	1	1	asxwb6		ng7gta		16		Alisia Manolescu		Lily Hackbirth	60 60
+21-68401	1	105	1	1	1	8u60y0		95fv33		16		Anaiah Jones		Shauna Galvin	Walkover
+21-68401	1	105	1	1	1	sv2fkh		ng7gta		16		Lafilissa Joao		Lily Hackbirth	61 63
+21-68401	1	105	1	1	1	asxwb6		uu4kss		16		Alisia Manolescu		Isabelle Exsted	75 62
+21-68401	1	105	1	1	1	vaase4		ztrvrf		16		Sarah Allen		Lisa Fukutoku	Walkover
+21-68401	1	105	1	1	1	hii0mc		4yo88o		16		Elsa Kirch		Kensie Cricchio	Default
+21-68401	1	106	1	1		95fv33		4yo88o		16		Shauna Galvin		Kensie Cricchio	
+21-68401	1	106	1	1	1	vaase4		ng7gta		16		Sarah Allen		Lily Hackbirth	62 64
+21-68401	1	106	1	1	1	sv2fkh		asxwb6		16		Lafilissa Joao		Alisia Manolescu	63 61
+21-68401	1	106	1	1	1	uu4kss		hii0mc		16		Isabelle Exsted		Elsa Kirch	64 76(5)
+21-68401	1	106	1	1		8u60y0		ztrvrf		16		Anaiah Jones		Lisa Fukutoku	
+21-68401	1	107	1	1	1	881ora		vaase4		16		Maretha Burger		Sarah Allen	62 63
+21-68401	1	107	1	1	1	oxbj7b		1u8g48		16		Hedda Gurholt		Dariya Radulova	76(5) 63
+21-68401	1	107	1	1	1	tm6keo		6bv93d		16		Ine Stange		Willa Rogers	46 60 62
+21-68401	1	107	1	1	1	rl4taj		pyms2g		16		Emma Fernald		Olivia Archer	62 64
+21-68401	1	107	1	1	1	pnu7c9		clrf73		16		Raffaela Alhach		Victoria Saldh	64 61
 21-68924	1	101	1	1	1	r85k3q		ffdhd1		128		Margaux Maquet		Cristina Mayorova	64 76(5)
 21-68924	1	101	1	1	1	b1xntf		kkca0i		128		Daniella Medvedeva		Lucia Quiterio	76(3) 62
 21-68924	1	101	1	1	1	1ybu58		chk5un		128		Rocio Safont		Ali DeSpain	64 64
@@ -8535,6 +8642,44 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-71515	2	101	1	1	1	s26gic		6kv0lm		64		Laura Addey		Tiana Shelton	63 63
 21-71515	2	101	1	1	1	jnu7c9		xwdofm		64		Makenzie Archer		Rachel Carlson	76(2) 62
 21-71515	2	101	1	1	1	3bcji9		dsvg5y		64		Thamara Pinto		Alexis Gunn	62 62
+21-71605	1	101	1	1	1	3vyj81		s9i943		32		Maria Aguiar		Britany Lau	62 62
+21-71605	1	101	1	1	1	ty5ink		zod8va		32		Alexandra Benedetto		Laura Lopez	64 64
+21-71605	1	101	1	1	1	2eyc6g		wi36do		32		Natasha Irani		Sophia Reddy	76(4) 60
+21-71605	1	101	1	1	1	6fdhd1		n834xi		32		Muskan Mahajan		Lindsey Hofflander	64 64
+21-71605	1	101	1	1	1	ywwe0q		3dy18j		32		Sophie Edwards		Addison Ahlstrom	61 64
+21-71605	1	101	1	1	1	q3ph1d		yz9pxx		32		Olivia Mariotti		Hailey Wilcox	60 60
+21-71605	1	101	1	1	1	oydabg		a0g2gm		32		Sasha Wood		Rachel Eason	62 76(3)
+21-71605	1	101	1	1	1	9rxld9		3i1q7g		32		Akanksha Bhan		Mihaela Marculescu	64 64
+21-71605	1	101	1	1	1	rct4v2		d2vil4		32		Angel You		Melissa Sakar	62 63
+21-71605	1	101	1	1	1	d5ylo7		0fb17t		32		Jennifer Kerr		Sany Gawande	62 62
+21-71605	1	101	1	1	1	qttbxn		igdsby		32		Rachel Lim		Anna Zhang	64 64
+21-71605	1	101	1	1	1	tmpazs		h6f610		32		Michelle Xu		Demi Snyder	60 63
+21-71605	1	102	1	1	1	9rxld9		s9i943		32		Akanksha Bhan		Britany Lau	63 62
+21-71605	1	102	1	1	1	ty5ink		d2vil4		32		Alexandra Benedetto		Melissa Sakar	76(5) 46 [7]
+21-71605	1	102	1	1	1	wi36do		oydabg		32		Sophia Reddy		Sasha Wood	75 75
+21-71605	1	102	1	1	1	igdsby		n834xi		32		Anna Zhang		Lindsey Hofflander	63 64
+21-71605	1	102	1	1	1	gh5blz		q3ph1d		32		Clarine Lerby		Olivia Mariotti	64 76(6)
+21-71605	1	102	1	1	1	njajwd		3dy18j		32		Shivani Amineni		Addison Ahlstrom	64 64
+21-71605	1	102	1	1	1	tmpazs		5xwpyn		32		Michelle Xu		Ryan Peus	62 64
+21-71605	1	102	1	1	1	7n2z05		b7blnh		32		Sophia Strugnell		Gabriella Soliman	75 26 [6]
+21-71605	1	102	1	1	1	yz9pxx		3z9pxx		32		Hailey Wilcox		Selena Williams	60 60
+21-71605	1	102	1	1	1	3vyj81		a0g2gm		32		Maria Aguiar		Rachel Eason	76(5) 62
+21-71605	1	102	1	1	1	3i1q7g		6fdhd1		32		Mihaela Marculescu		Muskan Mahajan	63 64
+21-71605	1	102	1	1	1	zod8va		0fb17t		32		Laura Lopez		Sany Gawande	76(5) 76(4)
+21-71605	1	102	1	1	1	2eyc6g		qttbxn		32		Natasha Irani		Rachel Lim	62 36 [3]
+21-71605	1	102	1	1	1	ywwe0q		h6f610		32		Sophie Edwards		Demi Snyder	62 64
+21-71605	1	103	1	1	1	bb8n6t		ty5ink		32		Maxi Duncan		Alexandra Benedetto	62 62
+21-71605	1	103	1	1	1	wi36do		a0g2gm		32		Sophia Reddy		Rachel Eason	64 75
+21-71605	1	103	1	1	1	3i1q7g		s9i943		32		Mihaela Marculescu		Britany Lau	75 16 [7]
+21-71605	1	103	1	1	1	qttbxn		q3ph1d		32		Rachel Lim		Olivia Mariotti	63 63
+21-71605	1	103	1	1	1	0fb17t		b7blnh		32		Sany Gawande		Gabriella Soliman	62 26 [8]
+21-71605	1	103	1	1	1	3dy18j		h6f610		32		Addison Ahlstrom		Demi Snyder	57 63 [3]
+21-71605	1	103	1	1	1	igdsby		3vyj81		32		Anna Zhang		Maria Aguiar	61 62
+21-71605	1	103	1	1	1	2eyc6g		d5ylo7		32		Natasha Irani		Jennifer Kerr	63 36 [5]
+21-71605	1	103	1	1	1	d2vil4		zod8va		32		Melissa Sakar		Laura Lopez	63 75
+21-71605	1	103	1	1	1	gh5blz		ywwe0q		32		Clarine Lerby		Sophie Edwards	46 62 [5]
+21-71605	1	103	1	1	1	oydabg		6fdhd1		32		Sasha Wood		Muskan Mahajan	76 61
+21-71605	1	103	1	1	1	njajwd		yz9pxx		32		Shivani Amineni		Hailey Wilcox	62 63
 21-72007	1	101	1	4	1	e2rm9o		tkr496		SF	4	Jordan Harris	1	Leah Heimuli	Walkover
 21-72007	1	101	1	3	1	tkr496		thk5un		QF	1	Leah Heimuli	7	Caragh Courtney	75 36 60
 21-72007	1	101	1	3	1	e2rm9o		cxu9sf		QF	4	Jordan Harris		Yujia Huang	64 64
