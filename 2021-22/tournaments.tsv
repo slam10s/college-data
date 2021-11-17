@@ -1,12 +1,12 @@
 ---
-tournaments: 386
-withResults: 331
-completed: 382
-inProgress: 1
+tournaments: 387
+withResults: 335
+completed: 384
+inProgress: 0
 future: 3
-events: 859
-entrants: 24337
-results: 37270
+events: 861
+entrants: 24451
+results: 37597
 ---
 week	code	players	events	results	starts	ends	divisions	gender	name	organization	url
 35	21-02759	 74	2	132	2021-09-05	2021-09-06	DII,DIII,NAIA,JUCO	W	Mary Hosking Invitational Tournament	William Smith College (W)	https://colleges.wearecollegetennis.com/competitions/WilliamSmithCollegeW/Tournaments/Overview/1FB431EE-43C2-4942-BA44-E90A90A694C7
@@ -48,6 +48,7 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 37	21-78345	 86	2	139	2021-09-17	2021-09-19	DI                	W	2021 Columbia University Invitational	Columbia University (W)	https://colleges.wearecollegetennis.com/competitions/ColumbiaUniversityW/Tournaments/Overview/9FDEC948-881F-473B-8241-A518C1DBAB7D
 37	21-01301	 36	3	 66	2021-09-17	2021-09-19	DI                	M	Alabama Four-In-The-Fall	University of Alabama (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfAlabamaM/Tournaments/Overview/4146D367-412F-4187-9968-E9E6ABE251A4
 37	21-72298	 35	2	 59	2021-09-17	2021-09-19	DI                	M	Auburn Fall Invite	Auburn University (M)	https://colleges.wearecollegetennis.com/competitions/AuburnUniversityM/Tournaments/Overview/5CE93068-0A51-4941-853B-FC0571C04451
+37	21-04289	 78	4	135	2021-09-16	2021-09-19	DI                	MW	Battle in the Bay Classic	Univ. Of San Francisco (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfSanFranciscoW/Tournaments/Overview/1A506BE3-9443-469C-B392-592E0684A825
 37	21-69307	 61	2	149	2021-09-16	2021-09-18	DI                	M	Bedford Cup in the Mountains	U.S. Air Force Academy (M)	https://colleges.wearecollegetennis.com/competitions/USAirForceAcademyM/Tournaments/Overview/E8C14C9B-4222-480F-BC01-85183085A47E
 37	21-14330	 51	2	 98	2021-09-17	2021-09-19	DI                	W	Brown Invitational	Brown University (W)	https://colleges.wearecollegetennis.com/competitions/BrownUniversityW/Tournaments/Overview/8EA19D28-8C5F-436E-80F9-E515FC4507EA
 37	21-04953	 18	3	 36	2021-09-17	2021-09-19	DI                	M	Dale Short Shootout	Middle Tennessee State University (M)	https://colleges.wearecollegetennis.com/competitions/MiddleTennesseeStateUniversityM/Tournaments/Overview/8D17D1A4-3D6A-4D99-9858-4808AD3D6EAE
@@ -379,19 +380,19 @@ week	code	players	events	results	starts	ends	divisions	gender	name	organization	
 44	21-71023	 60	2	 48	2021-11-05	2021-11-07	DI                	W	Stetson Invite #2	Stetson University (W)	https://colleges.wearecollegetennis.com/competitions/StetsonUniversityW/Tournaments/Overview/C590F4B3-B589-4914-B27B-15E64C3D0E46
 44	21-37091	 30	2	 55	2021-11-05	2021-11-07	DI                	W	The Hurricane Invite	University Of Tulsa (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfTulsaW/Tournaments/Overview/9EC94FD0-CD14-417E-AF67-50993725A2A1
 44	21-08942	   	2	   	2021-11-05	2021-11-07	DI                	W	UB Fall Invite	University At Buffalo (SUNY) (W)	https://colleges.wearecollegetennis.com/competitions/UniversityAtBuffaloSUNYW/Tournaments/Overview/B0B719F8-A62E-4D29-A341-820B59C4A6C8
+44	21-27721	 31	2	 56	2021-11-05	2021-11-07	DI                	M	UCF Invite Hidden Dual	University Of Central Florida (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfCentralFloridaM/Tournaments/Overview/312E7653-F666-486E-8B90-123F7F8F8F9D
 44	21-91916	 84	2	198	2021-11-05	2021-11-07	DI                	M	Wake Forest Invite	Wake Forest University (M)	https://colleges.wearecollegetennis.com/competitions/WakeForestUniversityM/Tournaments/Overview/CDBF110F-C481-4F40-9B58-54D68D17F9A2
 44	21-31162	 42	2	 85	2021-11-05	2021-11-07	DI                	M	Yale Invitational	Yale University (M)	https://colleges.wearecollegetennis.com/competitions/YaleUniversityM/Tournaments/Overview/5278617F-5593-42A8-B7B3-52F442BE8917
 44	21-92061	 37	2	 53	2021-11-06	2021-11-07	DII,DIII,NAIA,JUCO	M	Buccaneers Invitational	Barry University (M)	https://colleges.wearecollegetennis.com/competitions/BarryUniversityM/Tournaments/Overview/66BDBB63-461D-4097-ACA4-DB44D0B1C672
 45	21-21713	 71	2	159	2021-11-12	2021-11-14	DI                	W	Csun Invitational 2021	California State University, Northridge (W)	https://colleges.wearecollegetennis.com/competitions/CaliforniaStateUniversityNorthridgeW/Tournaments/Overview/170B0D52-C31D-4AA5-A14A-C44E18B58FF4
 45	21-42872	 37	2	 70	2021-11-12	2021-11-14	DI                	M	Duck Invite	University Of Oregon (M)	https://colleges.wearecollegetennis.com/competitions/UniversityOfOregonM/Tournaments/Overview/530778D7-293A-4C49-A1E2-1FF11D725D81
-45	21-95529	 31	2	   	2021-11-12	2021-11-14	DI                	M	LMU Invite	Loyola Marymount University (M)	https://colleges.wearecollegetennis.com/competitions/LoyolaMarymountUniversityM/Tournaments/Overview/5B7216DB-15C4-4F1D-8629-8EAF987FE5AE
+45	21-95529	 31	2	 54	2021-11-12	2021-11-14	DI                	M	LMU Invite	Loyola Marymount University (M)	https://colleges.wearecollegetennis.com/competitions/LoyolaMarymountUniversityM/Tournaments/Overview/5B7216DB-15C4-4F1D-8629-8EAF987FE5AE
 45	21-77642	 43	2	 96	2021-11-12	2021-11-14	DI                	M	Navy Invitational	U.S. Naval Academy (M)	https://colleges.wearecollegetennis.com/competitions/USNavalAcademyM/Tournaments/Overview/398E1516-D93D-455D-B5B2-0D3057E5FCF8
-45	21-24494	   	2	   	2021-11-12	2021-11-14	DI                	W	SDSU Fall Tennis Classic # 2	San Diego State University (W)	https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC
+45	21-24494	 41	2	   	2021-11-12	2021-11-14	DI                	W	SDSU Fall Tennis Classic # 2	San Diego State University (W)	https://colleges.wearecollegetennis.com/competitions/SanDiegoStateUniversityW/Tournaments/Overview/1A40265D-8EC6-44FD-9EB9-1733C02C74CC
 45	21-89648	 38	2	 72	2021-11-12	2021-11-14	DI                	W	Texas A&M Invitational	Texas A&M University (M)	https://colleges.wearecollegetennis.com/competitions/TexasAMUniversityM/Tournaments/Overview/BF7768E0-4750-49B0-9B29-7EB1AC4016D9
-45	21-72331	 52	2	 91	2021-11-12	2021-11-14	DI                	W	UNF Fall Invite	Univ. Of North Florida (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A
-45	21-21145	 38	2	   	2021-11-12	2021-11-14	DI                	W	Watanabe Classic	Univ. Of Nevada, Las Vegas (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978
+45	21-72331	 52	2	 95	2021-11-12	2021-11-14	DI                	W	UNF Fall Invite	Univ. Of North Florida (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfNorthFloridaW/Tournaments/Overview/0890226F-0B4C-40E3-888D-5CE5DA25876A
+45	21-21145	 38	2	 78	2021-11-12	2021-11-14	DI                	W	Watanabe Classic	Univ. Of Nevada, Las Vegas (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/185CF1AE-D437-4098-91A9-6F597D244978
 45	21-67913	   	2	   	2021-11-12	2021-11-14	DI                	W	Western Michigan - Betsy Kuhle Invitational	Western Michigan University (W)	https://colleges.wearecollegetennis.com/competitions/WesternMichiganUniversityW/Tournaments/Overview/5D6A7D6E-4DFF-41D5-BA55-AEBEDA326663
-46	21-04289	 36	4	   	2021-11-15	2021-11-16	DI                	MW	Battle in the Bay Classic	Univ. Of San Francisco (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfSanFranciscoW/Tournaments/Overview/1A506BE3-9443-469C-B392-592E0684A825
 2	22-55194	   	2	   	2022-01-14	2022-01-16	DI                	W	2022 Cal Winter Invite	Univ. Of California, Berkeley (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfCaliforniaBerkeleyW/Tournaments/Overview/7B98BDE4-0E3A-4B19-924D-9A2B62E15408
 2	22-21959	   	2	   	2022-01-14	2022-01-16	DI                	W	Freeman Memorial	Univ. Of Nevada, Las Vegas (W)	https://colleges.wearecollegetennis.com/competitions/UnivOfNevadaLasVegasW/Tournaments/Overview/30D9E7F7-E3D2-4E97-BB9B-E0C931CA3C7A
 2	22-81460	   	2	   	2022-01-14	2022-01-16	DI                	W	Michigan Invitational	University Of Michigan (W)	https://colleges.wearecollegetennis.com/competitions/UniversityOfMichiganW/Tournaments/Overview/02E22DAF-29C9-4C6A-AED0-68EFB95B8911
