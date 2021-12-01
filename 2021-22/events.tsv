@@ -1,11 +1,11 @@
 ---
-tournaments: 392
-events: 875
-eventsWithDraws: 871
+tournaments: 393
+events: 879
+eventsWithDraws: 875
 eventsWithoutDraws: 4
-draws: 3241
-brackets: 5963
-results: 78825
+draws: 3253
+brackets: 6011
+results: 79309
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00186	1	101	1	M	Men's Open Singles	Division II	East	16,QF,SF,F	15
@@ -2060,6 +2060,10 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-28680	2	102	4	W	Women's Open Doubles	Flight B	South	F	1
 21-28680	2	103	1	W	Women's Open Doubles	Extra	Main	16,QF,SF,F	15
 21-28680	2	104	1	W	Women's Open Doubles	Extra 2	Main	F	1
+21-28798	1	100		M	Men's Open Singles				
+21-28798	2	100		W	Women's Open Singles				
+21-28798	3	100		M	Men's Open Doubles				
+21-28798	4	100		W	Women's Open Doubles				
 21-28912	1	101	1	M	Men's Open Singles	Flight A	East	16,QF,SF,F	15
 21-28912	1	101	2	M	Men's Open Singles	Flight A	West	QF,SF,F	7
 21-28912	1	101	3	M	Men's Open Singles	Flight A	North	SF,F	3
@@ -3875,8 +3879,13 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-66349	2	106	1	W	Women's Open Doubles	White	Main	R1,R2,R3,R4,R5	15
 21-66595	1	100		W	Women's Open Singles				
 21-66595	2	100		W	Women's Open Doubles				
-21-66816	1	100		W	Women's Open Singles				
-21-66816	2	100		W	Women's Open Doubles				
+21-66816	1	101	1	W	Women's Open Singles	Blue	Main	16,QF,SF,F	15
+21-66816	1	102	1	W	Women's Open Singles	White	Main	16,QF,SF,F	15
+21-66816	1	103	1	W	Women's Open Singles	Consolation Blue	Main	16,QF,SF,F	15
+21-66816	1	103	2	W	Women's Open Singles	Consolation Blue	Consolation	QQ,QF,SF,F	11
+21-66816	1	104	1	W	Women's Open Singles	Consolation White	Main	QF,SF,F	7
+21-66816	2	101	1	W	Women's Open Doubles	Round 1	Main	16,QF,SF,F	15
+21-66816	2	102	1	W	Women's Open Doubles	Round 2	Main	16,QF,SF,F	15
 21-66962	1	101	1	W	Women's Open Singles	SIUE vs WIU, Bradley vs EIU	Main	32,16,QF,SF,F	31
 21-66962	1	102	1	W	Women's Open Singles	SIUE vs Bradley, WIU vs EIU	Main	32,16,QF,SF,F	31
 21-66962	1	103	1	W	Women's Open Singles	SIUE vs EIU, WIU vs Bradley	Main	32,16,QF,SF,F	31
@@ -3932,8 +3941,47 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-67582	2	102	3	M	Men's Open Doubles	Flight B	3-4 Playoff	F	1
 21-67582	2	102	4	M	Men's Open Doubles	Flight B	South	F	1
 21-67582	2	103	1	M	Men's Open Doubles	Flight C	Main	R1,R2,R3	6
-21-67913	1	100		W	Women's Open Singles				
-21-67913	2	100		W	Women's Open Doubles				
+21-67913	1	101	1	W	Women's Open Singles	Friday R1	East	32,16,QF,SF,F	31
+21-67913	1	101	2	W	Women's Open Singles	Friday R1	West	16,QF,SF,F	15
+21-67913	1	101	3	W	Women's Open Singles	Friday R1	North	QF,SF,F	7
+21-67913	1	101	4	W	Women's Open Singles	Friday R1	Northeast	SF,F	3
+21-67913	1	101	5	W	Women's Open Singles	Friday R1	South	QF,SF,F	7
+21-67913	1	101	6	W	Women's Open Singles	Friday R1	Southwest	SF,F	3
+21-67913	1	101	7	W	Women's Open Singles	Friday R1	Northwest	SF,F	3
+21-67913	1	101	8	W	Women's Open Singles	Friday R1	Southeast	SF,F	3
+21-67913	1	102	1	W	Women's Open Singles	Friday R2	East	32,16,QF,SF,F	31
+21-67913	1	102	2	W	Women's Open Singles	Friday R2	West	16,QF,SF,F	15
+21-67913	1	102	3	W	Women's Open Singles	Friday R2	North	QF,SF,F	7
+21-67913	1	102	4	W	Women's Open Singles	Friday R2	Northeast	SF,F	3
+21-67913	1	102	5	W	Women's Open Singles	Friday R2	South	QF,SF,F	7
+21-67913	1	102	6	W	Women's Open Singles	Friday R2	Southwest	SF,F	3
+21-67913	1	102	7	W	Women's Open Singles	Friday R2	Northwest	SF,F	3
+21-67913	1	102	8	W	Women's Open Singles	Friday R2	Southeast	SF,F	3
+21-67913	1	103	1	W	Women's Open Singles	Saturday	East	32,16,QF,SF,F	31
+21-67913	1	103	2	W	Women's Open Singles	Saturday	West	16,QF,SF,F	15
+21-67913	1	103	3	W	Women's Open Singles	Saturday	North	QF,SF,F	7
+21-67913	1	103	4	W	Women's Open Singles	Saturday	Northeast	SF,F	3
+21-67913	1	103	5	W	Women's Open Singles	Saturday	South	QF,SF,F	7
+21-67913	1	103	6	W	Women's Open Singles	Saturday	Southwest	SF,F	3
+21-67913	1	103	7	W	Women's Open Singles	Saturday	Northwest	SF,F	3
+21-67913	1	103	8	W	Women's Open Singles	Saturday	Southeast	SF,F	3
+21-67913	2	101	1	W	Women's Open Doubles	Friday	Main	32,16,QF,SF,F	31
+21-67913	2	102	1	W	Women's Open Doubles	Saturday R1	East	32,16,QF,SF,F	31
+21-67913	2	102	2	W	Women's Open Doubles	Saturday R1	West	16,QF,SF,F	15
+21-67913	2	102	3	W	Women's Open Doubles	Saturday R1	North	QF,SF,F	7
+21-67913	2	102	4	W	Women's Open Doubles	Saturday R1	Northeast	SF,F	3
+21-67913	2	102	5	W	Women's Open Doubles	Saturday R1	South	QF,SF,F	7
+21-67913	2	102	6	W	Women's Open Doubles	Saturday R1	Southwest	SF,F	3
+21-67913	2	102	7	W	Women's Open Doubles	Saturday R1	Northwest	SF,F	3
+21-67913	2	102	8	W	Women's Open Doubles	Saturday R1	Southeast	SF,F	3
+21-67913	2	103	1	W	Women's Open Doubles	Saturday R2	East	32,16,QF,SF,F	31
+21-67913	2	103	2	W	Women's Open Doubles	Saturday R2	West	16,QF,SF,F	15
+21-67913	2	103	3	W	Women's Open Doubles	Saturday R2	North	QF,SF,F	7
+21-67913	2	103	4	W	Women's Open Doubles	Saturday R2	Northeast	SF,F	3
+21-67913	2	103	5	W	Women's Open Doubles	Saturday R2	South	QF,SF,F	7
+21-67913	2	103	6	W	Women's Open Doubles	Saturday R2	Southwest	SF,F	3
+21-67913	2	103	7	W	Women's Open Doubles	Saturday R2	Northwest	SF,F	3
+21-67913	2	103	8	W	Women's Open Doubles	Saturday R2	Southeast	SF,F	3
 21-67914	1	101	1	M	Men's Open Singles	Flight 1	East	QF,SF,F	7
 21-67914	1	101	2	M	Men's Open Singles	Flight 1	West	SF,F	3
 21-67914	1	101	3	M	Men's Open Singles	Flight 1	3-4 Playoff	F	1
