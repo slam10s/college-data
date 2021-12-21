@@ -1,8 +1,8 @@
 ---
-tournaments: 366
-players: 5046
-matches: 13664
-completed: 13654
+tournaments: 352
+players: 4789
+matches: 13045
+completed: 13035
 scheduled: 10
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -2766,47 +2766,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23395	1	104	1	1	1	128wok		oxdzdj		64		Matt Cardano		Alex Kim	62 64
 21-23395	1	104	1	1	1	qdpjhj		m6ywm4		64		Joshua Robinson		Conners OBrien	61 36 [11]
 21-23395	1	104	1	1	1	t4nct2		hcropu		64		Nicholas Nguyen		Ryan Nguyen	62 63
-21-23711	1	101	1	3	1	9ltvdb		3qso0s		F		Wikus Robbertse		Rian Ta	62 62
-21-23711	1	101	1	2	1	9ltvdb		fwyu6y		SF		Wikus Robbertse		Pontus Hallgren	63 63
-21-23711	1	101	1	2	1	3qso0s		smnutk		SF		Rian Ta		Zachary Matuszak	62 61
-21-23711	1	101	1	1	1	9ltvdb		vgbc5q		QF		Wikus Robbertse		Manuel Monteiro	63 46 64
-21-23711	1	101	1	1	1	fwyu6y		4p5r5b		QF		Pontus Hallgren		Michael Blando	64 62
-21-23711	1	101	1	1	1	smnutk		7nn5rh		QF		Zachary Matuszak		Josh Watkins	60 62
-21-23711	1	101	1	1	1	3qso0s		7wnw9q		QF		Rian Ta		Marcos Zelver	60 63
-21-23711	1	101	2	2	1	7wnw9q		vgbc5q		F		Marcos Zelver		Manuel Monteiro	64 64
-21-23711	1	101	2	1	1	vgbc5q		4p5r5b		SF		Manuel Monteiro		Michael Blando	62 62
-21-23711	1	101	2	1	1	7wnw9q		7nn5rh		SF		Marcos Zelver		Josh Watkins	63 62
-21-23711	1	102	1	4	1	4u60y0		tct4v2		F		Mathias Gavelin		Lawrence Sciglitano	62 61
-21-23711	1	102	1	3	1	4u60y0		jqosoc		SF		Mathias Gavelin		Patrick Kristensen	76(5) 64
-21-23711	1	102	1	3	1	tct4v2		kv4vqp		SF		Lawrence Sciglitano		Andreas Kramer	36 64 64
-21-23711	1	102	1	2	1	jqosoc		9bcji9		QF		Patrick Kristensen		Alex Lin	63 46 64
-21-23711	1	102	1	2	1	4u60y0		8c42sa		QF		Mathias Gavelin		Umit Ege Cankus	63 75
-21-23711	1	102	1	2	1	kv4vqp		vl2d4b		QF		Andreas Kramer		Brigham Andrus	61 76(3)
-21-23711	1	102	1	2	1	tct4v2		yioc40		QF		Lawrence Sciglitano		Patrik Trhac	76(5) Ret.
-21-23711	1	102	1	1	1	jqosoc		gclc76		16		Patrick Kristensen		Milo Benn	63 60
-21-23711	1	102	1	1	1	9bcji9		yulu7o		16		Alex Lin		Bradley Buckland	76(3) 64
-21-23711	1	102	1	1	1	4u60y0		tv6bwx		16		Mathias Gavelin		Aleksandar Petrovic	62 60
-21-23711	1	102	1	1	1	8c42sa		7kca0i		16		Umit Ege Cankus		Matheus Leite	57 76(5) 61
-21-23711	1	102	1	1	1	kv4vqp		est0zq		16		Andreas Kramer		Sam Baldwin	64 61
-21-23711	1	102	1	1	1	vl2d4b		defmlc		16		Brigham Andrus		Hiroki Fujita	75 64
-21-23711	1	102	1	1	1	tct4v2		7lnjvn		16		Lawrence Sciglitano		Zach Fuchs	62 62
-21-23711	1	102	1	1	1	yioc40		yed6f4		16		Patrik Trhac		Jayson Blando	64 61
-21-23711	1	102	2	2	1	tv6bwx		gclc76		SF		Aleksandar Petrovic		Milo Benn	63 76(5)
-21-23711	1	102	2	2	1	7lnjvn		defmlc		SF		Zach Fuchs		Hiroki Fujita	61 64
-21-23711	1	102	2	1	1	gclc76		yulu7o		QF		Milo Benn		Bradley Buckland	61 36 [6]
-21-23711	1	102	2	1	1	tv6bwx		7kca0i		QF		Aleksandar Petrovic		Matheus Leite	67(4) 75 [9]
-21-23711	1	102	2	1	1	defmlc		est0zq		QF		Hiroki Fujita		Sam Baldwin	76(5) 26 [8]
-21-23711	1	102	2	1	1	7lnjvn		yed6f4		QF		Zach Fuchs		Jayson Blando	67(3) 64 [4]
-21-23711	1	102	3	1	1	9bcji9		8c42sa		SF		Alex Lin		Umit Ege Cankus	62 64
-21-23711	1	102	3	1	1	vl2d4b		yioc40		SF		Brigham Andrus		Patrik Trhac	Walkover
-21-23711	1	102	5	2	1	yulu7o		yed6f4		F		Bradley Buckland		Jayson Blando	76(4) 76(4)
-21-23711	1	102	5	1	1	yulu7o		7kca0i		SF		Bradley Buckland		Matheus Leite	Walkover
-21-23711	1	102	5	1	1	yed6f4		est0zq		SF		Jayson Blando		Sam Baldwin	67(4) 62 [7]
-21-23711	1	102	6	1	1	defmlc		gclc76		F		Hiroki Fujita		Milo Benn	62 62
-21-23711	1	103	1	1	1	est0zq		tv6bwx		QF		Sam Baldwin		Aleksandar Petrovic	75 63
-21-23711	1	103	1	1	1	jqosoc		fwyu6y		QF		Patrick Kristensen		Pontus Hallgren	16 63 [11]
-21-23711	1	103	1	1	1	8c42sa		4p5r5b		QF		Umit Ege Cankus		Michael Blando	64 61
-21-23711	1	103	1	1	1	kv4vqp		yed6f4		QF		Andreas Kramer		Jayson Blando	61 46 [7]
 21-24046	1	101	1	6	1	kq9yfo		534ba1		F	2	Jeremias Rocco	1	Martin Carrizo	63 62
 21-24046	1	101	1	5	1	534ba1		q6hm78		SF	1	Martin Carrizo	5	Max Rozas	57 76(5) [4]
 21-24046	1	101	1	5	1	kq9yfo		elclyf		SF	2	Jeremias Rocco	3	Leo Sprovieri	63 61
@@ -3134,115 +3093,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-25425	1	102	3	1	1	digkg4		w5hb9b		QF		Lucas Cardoso		Wes Koehler	06 64 64
 21-25425	1	102	5	3	1	9hqhcb		cnlpl9		F		Kyle Praschan		Christian Rogerson	61 64
 21-25425	1	102	6	2	1	l28wok		7hk5un		F		Anthony Cassini		Christian Clair	60 62
-21-25873	1	101	1	5	1	e2acus		rkv0lm		F	1	Rami Hemaidan	2	Nyathi Motlojoa	84
-21-25873	1	101	1	4	1	e2acus		vrk7at		SF	1	Rami Hemaidan	4	Max Loen	87(9)
-21-25873	1	101	1	4	1	rkv0lm		jpsd2v		SF	2	Nyathi Motlojoa	3	Jon Lansing	81
-21-25873	1	101	1	3	1	e2acus		bnn5rh		QF	1	Rami Hemaidan	7	Bo Wilson	84
-21-25873	1	101	1	3	1	vrk7at		skzwx2		QF	4	Max Loen	5	Eli Young	85
-21-25873	1	101	1	3	1	jpsd2v		tlnjvn		QF	3	Jon Lansing		Joaquim Fernandes	87(5)
-21-25873	1	101	1	3	1	rkv0lm		li72p4		QF	2	Nyathi Motlojoa	8	Luke Westholder	Walkover
-21-25873	1	101	1	2	1	e2acus		3kv0lm		16	1	Rami Hemaidan		Jorge Melo	85
-21-25873	1	101	1	2	1	bnn5rh		2cnsde		16	7	Bo Wilson		Jackson Eells	83
-21-25873	1	101	1	2	1	vrk7at		ot856b		16	4	Max Loen		Ryan Carey	85
-21-25873	1	101	1	2	1	skzwx2		ntehoz		16	5	Eli Young		Jordan Oaks	81
-21-25873	1	101	1	2	1	tlnjvn		55hb9b		16		Joaquim Fernandes	6	Lucas Huffman	87(1)
-21-25873	1	101	1	2	1	jpsd2v		quv21s		16	3	Jon Lansing		Dylan Wiemers	83
-21-25873	1	101	1	2	1	li72p4		88709y		16	8	Luke Westholder		Nathan Meskell	84
-21-25873	1	101	1	2	1	rkv0lm		hla5s7		16	2	Nyathi Motlojoa		Graham Peterson	82
-21-25873	1	101	1	1	1	3kv0lm		h54x6v		32		Jorge Melo		Griffin Steiniger	62 60
-21-25873	1	101	1	1	1	bnn5rh		q6wggw		32	7	Bo Wilson		Danny Kramer	60 63
-21-25873	1	101	1	1	1	2cnsde		y6ywm4		32		Jackson Eells		Ricky Portilla	36 60 [5]
-21-25873	1	101	1	1	1	ot856b		x3rx7l		32		Ryan Carey		Trey Melvin	62 36 [8]
-21-25873	1	101	1	1	1	skzwx2		gtpfl7		32	5	Eli Young		Kevin Blomquist	62 63
-21-25873	1	101	1	1	1	ntehoz		0r7t7d		32		Jordan Oaks		Caleb Vasconez	61 61
-21-25873	1	101	1	1	1	tlnjvn		bfb17t		32		Joaquim Fernandes		Brad Dileo	62 61
-21-25873	1	101	1	1	1	quv21s		rkca0i		32		Dylan Wiemers		Tommy Linkenheld	62 62
-21-25873	1	101	1	1	1	88709y		9efmlc		32		Nathan Meskell		Tanner Finken	62 46 [5]
-21-25873	1	101	1	1	1	li72p4		azknu5		32	8	Luke Westholder		Cade Davis	61 62
-21-25873	1	101	1	1	1	hla5s7		vjt9hh		32		Graham Peterson		Ethan Beckerman	76(6) 60
-21-25873	1	102	1	6	1	94nct2		fcvk1a		F	1	Juan Navarrete		Nate Withers	85
-21-25873	1	102	1	5	1	94nct2		4x9313		SF	1	Juan Navarrete		Konnor Barth	83
-21-25873	1	102	1	5	1	fcvk1a		ri72p4		SF		Nate Withers	6	Peter Walkwitz	81
-21-25873	1	102	1	4	1	94nct2		by9ez0		QF	1	Juan Navarrete		Ethan Humble	80
-21-25873	1	102	1	4	1	4x9313		mba3c1		QF		Konnor Barth		Harry Hawbaker	81
-21-25873	1	102	1	4	1	ri72p4		eiqsa8		QF	6	Peter Walkwitz	3	Stefan Zrnic	85
-21-25873	1	102	1	4	1	fcvk1a		vobsp2		QF		Nate Withers		Ayden Fletcher	84
-21-25873	1	102	1	3	1	94nct2		hely30		16	1	Juan Navarrete		Nick Scott	81
-21-25873	1	102	1	3	1	by9ez0		d54x6v		16		Ethan Humble		Luke Smith	81
-21-25873	1	102	1	3	1	4x9313		smpazs		16		Konnor Barth		Juan Pablo Rosaldo	86
-21-25873	1	102	1	3	1	mba3c1		n2e868		16		Harry Hawbaker	5	Nile Petersen	81
-21-25873	1	102	1	3	1	ri72p4		5z79rp		16	6	Peter Walkwitz		Jeff Miller	82
-21-25873	1	102	1	3	1	eiqsa8		dikgsk		16	3	Stefan Zrnic		Cole Lohoefener	80
-21-25873	1	102	1	3	1	fcvk1a		27ub8l		16		Nate Withers	8	Aaron Price	82
-21-25873	1	102	1	3	1	vobsp2		wbezoh		16		Ayden Fletcher	2	Alex Palomar	81
-21-25873	1	102	1	2	1	94nct2		3pqxwn		32	1	Juan Navarrete		Hunter Gerhardt	62 60
-21-25873	1	102	1	2	1	hely30		7kxgru		32		Nick Scott		Joe Schneider	63 63
-21-25873	1	102	1	2	1	d54x6v		2ely30		32		Luke Smith	7	Brenden Schlader	Walkover
-21-25873	1	102	1	2	1	by9ez0		ecnsde		32		Ethan Humble		Matthew DenAdel	60 57 [6]
-21-25873	1	102	1	2	1	smpazs		p2e868		32		Juan Pablo Rosaldo	4	Will Olson	61 60
-21-25873	1	102	1	2	1	4x9313		jene98		32		Konnor Barth		Aj Wilkins	61 75
-21-25873	1	102	1	2	1	n2e868		99i943		32	5	Nile Petersen		Caleb Hamerlinck	63 62
-21-25873	1	102	1	2	1	mba3c1		hhk5un		32		Harry Hawbaker		Eian Coad	16 64 [5]
-21-25873	1	102	1	2	1	5z79rp		qxy54v		32		Jeff Miller		Dalton Pregon	63 63
-21-25873	1	102	1	2	1	ri72p4		m3ph1d		32	6	Peter Walkwitz		Aidan Hunter	76(2) 36 [7]
-21-25873	1	102	1	2	1	dikgsk		4lclyf		32		Cole Lohoefener		Sam Soon	Walkover
-21-25873	1	102	1	2	1	eiqsa8		sqmci4		32	3	Stefan Zrnic		Sean Gelski	61 46 [8]
-21-25873	1	102	1	2	1	fcvk1a		bkzwx2		32		Nate Withers		Jack Veber	63 60
-21-25873	1	102	1	2	1	27ub8l		usgmwa		32	8	Aaron Price		Desmond Looft	62 64
-21-25873	1	102	1	2	1	vobsp2		rz1x91		32		Ayden Fletcher		Daniel Bernhardsen	62 61
-21-25873	1	102	1	2	1	wbezoh		nny3op		32	2	Alex Palomar		Joseph Haag	60 75
-21-25873	1	102	1	1	1	3pqxwn		t5w5iz		64		Hunter Gerhardt		Bode Carter	86
-21-25873	1	102	1	1	1	d54x6v		dh1f9j		64		Luke Smith		Jacob Balfany	87(5)
-21-25873	1	102	1	1	1	smpazs		pzi7ox		64		Juan Pablo Rosaldo		Jacob Alden	82
-21-25873	1	102	1	1	1	99i943		js1snm		64		Caleb Hamerlinck		Hayden Retzlaff	85
-21-25873	1	102	1	1	1	m3ph1d		5xqdgz		64		Aidan Hunter		Rob Arbuckle	82
-21-25873	1	102	1	1	1	sqmci4		zgf8h6		64		Sean Gelski		Adam Velazquez	87(8)
-21-25873	1	102	1	1	1	usgmwa		ofjtvp		64		Desmond Looft		Ethan Weber	84
-21-25873	1	102	1	1	1	nny3op		w1xntf		64		Joseph Haag		Thomas Kampmier	83
-21-25873	1	103	1	6	1	vpb3nz		o4lwnu		F		Nico Martinez Biali		Kareem Kassas	87(3)
-21-25873	1	103	1	5	1	o4lwnu		ikr496		SF		Kareem Kassas		Connor Fuzzey	85
-21-25873	1	103	1	5	1	vpb3nz		hyqoew		SF		Nico Martinez Biali		Peter Heryla	83
-21-25873	1	103	1	4	1	ikr496		ceww08		QF		Connor Fuzzey		Jared Burstein	86
-21-25873	1	103	1	4	1	o4lwnu		197b7v		QF		Kareem Kassas		Sebastian Zavala Br…	87(5)
-21-25873	1	103	1	4	1	vpb3nz		i4r85i		QF		Nico Martinez Biali		Ryan Webb	83
-21-25873	1	103	1	4	1	hyqoew		iikgsk		QF		Peter Heryla		Kevin Lopez	84
-21-25873	1	103	1	3	1	ceww08		drz1jh		16		Jared Burstein		Kaleb Flenker	86
-21-25873	1	103	1	3	1	ikr496		x2p63g		16		Connor Fuzzey		Jake Brend	81
-21-25873	1	103	1	3	1	197b7v		b1v7n7		16		Sebastian Zavala Br…		Nils Empen	82
-21-25873	1	103	1	3	1	o4lwnu		h2p63g		16		Kareem Kassas		Brock Bruns	84
-21-25873	1	103	1	3	1	vpb3nz		slrf73		16		Nico Martinez Biali		Miles Meier	86
-21-25873	1	103	1	3	1	i4r85i		apb3nz		16		Ryan Webb		Gabe Matthias	85
-21-25873	1	103	1	3	1	iikgsk		hlclyf		16		Kevin Lopez		Nolan Teubel	87
-21-25873	1	103	1	3	1	hyqoew		jmnutk		16		Peter Heryla		Julian Nemers	82
-21-25873	1	103	1	2	1	drz1jh		b97b7v		32		Kaleb Flenker		Michael Turnley	63 75
-21-25873	1	103	1	2	1	ceww08		8vh9t5		32		Jared Burstein		Sam Brickley	36 60 [7]
-21-25873	1	103	1	2	1	ikr496		cazuhw		32		Connor Fuzzey		Brady McIntyre	60 60
-21-25873	1	103	1	2	1	x2p63g		bkpo3y		32		Jake Brend		Benjamen Austin	64 76(4)
-21-25873	1	103	1	2	1	b1v7n7		c5ylo7		32		Nils Empen		Gannon Harrington	61 60
-21-25873	1	103	1	2	1	197b7v		ay9ez0		32		Sebastian Zavala Br…		Garrett Janssen	62 61
-21-25873	1	103	1	2	1	o4lwnu		j8muim		32		Kareem Kassas		Chase Henry	63 60
-21-25873	1	103	1	2	1	h2p63g		sa1an4		32		Brock Bruns		Dylan Roseburrough	61 60
-21-25873	1	103	1	2	1	slrf73		pq5238		32		Miles Meier		Ryan Kiddle	62 64
-21-25873	1	103	1	2	1	vpb3nz		8yo88o		32		Nico Martinez Biali		Nash Christian	61 62
-21-25873	1	103	1	2	1	apb3nz		99x3dr		32		Gabe Matthias		Brett Batkoff	57 63 [2]
-21-25873	1	103	1	2	1	iikgsk		8d892n		32		Kevin Lopez		Sam Timp	60 61
-21-25873	1	103	1	2	1	hlclyf		0y7yts		32		Nolan Teubel		Diego Diaz	63 62
-21-25873	1	103	1	2	1	jmnutk		4i1q7g		32		Julian Nemers		Josh Husemann	61 62
-21-25873	1	103	1	2	1	hyqoew		u2acus		32		Peter Heryla		Martin Harrington	62 60
-21-25873	1	103	1	1	1	drz1jh		jcnsde		64		Kaleb Flenker		Dylan Determan	85
-21-25873	1	103	1	1	1	ceww08		7wj0xa		64		Jared Burstein		Jeremiah Montgomery	80
-21-25873	1	103	1	1	1	ikr496		xbv93d		64		Connor Fuzzey		Victor Nop	80
-21-25873	1	103	1	1	1	c5ylo7		izsfi1		64		Gannon Harrington		Luke Snyder	85
-21-25873	1	103	1	1	1	ay9ez0		goh47q		64		Garrett Janssen		Nick Rose	82
-21-25873	1	103	1	1	1	o4lwnu		c6ywm4		64		Kareem Kassas		Zach Norman	80
-21-25873	1	103	1	1	1	8yo88o		5aase4		64		Nash Christian		Jeremiah Allen	84
-21-25873	1	103	1	1	1	apb3nz		swnw9q		64		Gabe Matthias		Shimon Yonekura	86
-21-25873	1	103	1	1	1	hlclyf		d0zs1q		64		Nolan Teubel		Drake Downard	80
-21-25873	1	103	1	1	1	jmnutk		ph1f9j		64		Julian Nemers		Lucas Broom	83
-21-25873	1	103	1	1	1	hyqoew		pojkdy		64		Peter Heryla		Joshua Woolcott	81
-21-25873	1	104	1	1	1	vrk7at		jpsd2v		F	4	Max Loen	3	Jon Lansing	Walkover
-21-25873	1	105	1	1	1	ri72p4		4x9313		F	6	Peter Walkwitz		Konnor Barth	84
-21-25873	1	106	1	1	1	ikr496		hyqoew		F		Connor Fuzzey		Peter Heryla	84
 21-26104	2	101	1	3	1	escqku		1ouia6		F		Joao Ceolin		Cash Hanzlik	Walkover
 21-26104	2	101	1	2	1	1ouia6		1tpfl7		SF		Cash Hanzlik		Joaquin Bianchi	46 75 [7]
 21-26104	2	101	1	2	1	escqku		s6hm78		SF		Joao Ceolin		Tomas Reche	62 63
@@ -3895,83 +3745,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-29345	1	103	1	1	1	b7qfw5		datiz8		32		Eric Hadigian		Isaac Becroft	64 16 76(4)
 21-29345	1	103	1	1	1	cnfd3l		xz3df9		32		Pietro Fellin		Ian Esses	62 61
 21-29345	1	104	1	1	1	e6dqvs		b7qfw5		F		Andre Ilagan		Eric Hadigian	75 75
-21-30614	1	101	1	7	1	jxbj7b		v4ayqm		F	1	Francisco Faria	14	Andrin Zuellig	62 61
-21-30614	1	101	1	6	1	jxbj7b		75jrfj		SF	1	Francisco Faria	3	Alejandro Martinez	62 64
-21-30614	1	101	1	6	1	v4ayqm		62xyrc		SF	14	Andrin Zuellig	2	Patrick Shelepov	76 64
-21-30614	1	101	1	5	1	jxbj7b		y1v7n7		QF	1	Francisco Faria	7	Michael Delebois	64 36 [6]
-21-30614	1	101	1	5	1	75jrfj		bpfzzf		QF	3	Alejandro Martinez	5	Milos Vuckovic	75 75
-21-30614	1	101	1	5	1	v4ayqm		alvbjj		QF	14	Andrin Zuellig	9	Alexandre Veltkamp	75 67(5) [6]
-21-30614	1	101	1	5	1	62xyrc		em2o28		QF	2	Patrick Shelepov	6	Ben Grumley	75 62
-21-30614	1	101	1	4	1	jxbj7b		7od8va		16	1	Francisco Faria		Sam Kaplan	60 63
-21-30614	1	101	1	4	1	y1v7n7		6p5r5b		16	7	Michael Delebois		Juan Banuls	64 46 [8]
-21-30614	1	101	1	4	1	75jrfj		j8s60a		16	3	Alejandro Martinez	11	Vitek Subert	64 61
-21-30614	1	101	1	4	1	bpfzzf		m95v1n		16	5	Milos Vuckovic		Jasper Schaadt	61 64
-21-30614	1	101	1	4	1	alvbjj		c6sk4g		16	9	Alexandre Veltkamp	8	Pak Hong Chan	64 60
-21-30614	1	101	1	4	1	v4ayqm		ph97xf		16	14	Andrin Zuellig	4	Vaclav Schneider	36 62 [16]
-21-30614	1	101	1	4	1	em2o28		s07kpm		16	6	Ben Grumley	10	Alex Verdu	75 63
-21-30614	1	101	1	4	1	62xyrc		qd0her		16	2	Patrick Shelepov		Sanskar Choubey	61 61
-21-30614	1	101	1	3	1	jxbj7b		fys4k4		32	1	Francisco Faria		Kyle Lingle	60 60
-21-30614	1	101	1	3	1	7od8va		se4oo4		32		Sam Kaplan		Igor Theodorakopoul…	06 76(5) [12]
-21-30614	1	101	1	3	1	y1v7n7		eaik20		32	7	Michael Delebois		Dylan Ramsay	64 63
-21-30614	1	101	1	3	1	6p5r5b		1r5d15		32		Juan Banuls	12	Robert Schorr	64 63
-21-30614	1	101	1	3	1	75jrfj		u7ozqx		32	3	Alejandro Martinez		Carlo Cota	61 63
-21-30614	1	101	1	3	1	j8s60a		xazuhw		32	11	Vitek Subert		Ciaran McCarthy	64 63
-21-30614	1	101	1	3	1	bpfzzf		gxu9sf		32	5	Milos Vuckovic		Adrian Gomez	64 36 [5]
-21-30614	1	101	1	3	1	m95v1n		wlpz1v		32		Jasper Schaadt	15	Dimitri Ingrassia	76(2) 64
-21-30614	1	101	1	3	1	alvbjj		47d1tp		32	9	Alexandre Veltkamp		Marco Salamanca De …	63 62
-21-30614	1	101	1	3	1	c6sk4g		j60csc		32	8	Pak Hong Chan		Timofey Tokmakov	62 62
-21-30614	1	101	1	3	1	v4ayqm		itehoz		32	14	Andrin Zuellig		Mladen Novovic	62 61
-21-30614	1	101	1	3	1	ph97xf		8xstm7		32	4	Vaclav Schneider		Nathan Cooke	63 36 [9]
-21-30614	1	101	1	3	1	s07kpm		pcvk1a		32	10	Alex Verdu		Paul Wottgen	64 62
-21-30614	1	101	1	3	1	em2o28		13c3yx		32	6	Ben Grumley		Davi Toledo	62 62
-21-30614	1	101	1	3	1	qd0her		f3vtj1		32		Sanskar Choubey		Brian Victoria Ayala	62 64
-21-30614	1	101	1	3	1	62xyrc		2aik20		32	2	Patrick Shelepov		Nicolas Palacio	62 62
-21-30614	1	101	1	2	1	jxbj7b		thqhcb		64	1	Francisco Faria		Diego Quevedo	60 60
-21-30614	1	101	1	2	1	fys4k4		erz1jh		64		Kyle Lingle		Daniel Ezcurra	76(8) 46 [5]
-21-30614	1	101	1	2	1	7od8va		ost0zq		64		Sam Kaplan	13	Danail Banov	62 26 [14]
-21-30614	1	101	1	2	1	se4oo4		1imwys		64		Igor Theodorakopoul…		Dragan Omcikus	63 67(3) [6]
-21-30614	1	101	1	2	1	y1v7n7		rm2o28		64	7	Michael Delebois		Caden Hillman	62 61
-21-30614	1	101	1	2	1	eaik20		5hqhcb		64		Dylan Ramsay		Filip Petrovic	62 63
-21-30614	1	101	1	2	1	1r5d15		g6sk4g		64	12	Robert Schorr		James Cole	Walkover
-21-30614	1	101	1	2	1	6p5r5b		wupqj4		64		Juan Banuls		Chadd Kerrigan	63 62
-21-30614	1	101	1	2	1	75jrfj		jq3mx0		64	3	Alejandro Martinez		Aidan Flores	60 60
-21-30614	1	101	1	2	1	u7ozqx		n9kpab		64		Carlo Cota		Taiga Kurosu	61 61
-21-30614	1	101	1	2	1	j8s60a		r52h0n		64	11	Vitek Subert		William Page	57 61 [10]
-21-30614	1	101	1	2	1	xazuhw		srir4l		64		Ciaran McCarthy		Timothy Hidalgo	62 60
-21-30614	1	101	1	2	1	bpfzzf		wvjpzd		64	5	Milos Vuckovic		Javier Alonso Egea	76(4) 61
-21-30614	1	101	1	2	1	gxu9sf		836rg9		64		Adrian Gomez		John Hejl	61 62
-21-30614	1	101	1	2	1	wlpz1v		efb17t		64	15	Dimitri Ingrassia		Martin Fajardo	16 60 [7]
-21-30614	1	101	1	2	1	m95v1n		eikgsk		64		Jasper Schaadt		Erwan LeGuennec	62 62
-21-30614	1	101	1	2	1	47d1tp		eyukqc		64		Marco Salamanca De …		Bryce Ranchero	64 63
-21-30614	1	101	1	2	1	alvbjj		pf9l1l		64	9	Alexandre Veltkamp		James Bamberger	60 60
-21-30614	1	101	1	2	1	j60csc		d6f610		64		Timofey Tokmakov		Jaeden Mukkaladyil	63 75
-21-30614	1	101	1	2	1	c6sk4g		d7blnh		64	8	Pak Hong Chan		Alvaro Montijano	76(4) 75
-21-30614	1	101	1	2	1	itehoz		mely30		64		Mladen Novovic		Curt Seifert	46 61 [9]
-21-30614	1	101	1	2	1	v4ayqm		k0zs1q		64	14	Andrin Zuellig		Justin Friesen	62 75
-21-30614	1	101	1	2	1	8xstm7		ps1snm		64		Nathan Cooke		Hamza Shaikh	60 61
-21-30614	1	101	1	2	1	ph97xf		gjvpnp		64	4	Vaclav Schneider		Daniel Espinosa	63 61
-21-30614	1	101	1	2	1	pcvk1a		cv8r25		64		Paul Wottgen		Rafael Silva	75 63
-21-30614	1	101	1	2	1	s07kpm		7g7gta		64	10	Alex Verdu		Laurenz Flender	63 64
-21-30614	1	101	1	2	1	13c3yx		w5fv33		64		Davi Toledo		Luke Fleming	62 61
-21-30614	1	101	1	2	1	em2o28		qeww08		64	6	Ben Grumley		Robert Cercos	63 62
-21-30614	1	101	1	2	1	qd0her		28oaou		64		Sanskar Choubey		Ryan Lee	26 76(2) [3]
-21-30614	1	101	1	2	1	f3vtj1		ywdofm		64		Brian Victoria Ayala	16	Karel Blom	46 75 [11]
-21-30614	1	101	1	2	1	2aik20		z40qwi		64		Nicolas Palacio		James Carr	64 61
-21-30614	1	101	1	2	1	62xyrc		wu4kss		64	2	Patrick Shelepov		Kerwin Chong	75 62
-21-30614	1	101	1	1	1	7od8va		2eyc6g		128		Sam Kaplan		Dominic Gibson	60 61
-21-30614	1	101	1	1	1	rm2o28		9mhibw		128		Caden Hillman		Nicholas Bailey	61 36 [6]
-21-30614	1	101	1	1	1	5hqhcb		jo9cju		128		Filip Petrovic		Gavin Brown	62 62
-21-30614	1	101	1	1	1	6p5r5b		rl2d4b		128		Juan Banuls		Antoine Ageon	63 64
-21-30614	1	101	1	1	1	u7ozqx		0dj7zv		128		Carlo Cota		Donald Feick	60 61
-21-30614	1	101	1	1	1	r52h0n		h6wggw		128		William Page		Justin Magale	60 60
-21-30614	1	101	1	1	1	efb17t		bkv0lm		128		Martin Fajardo		Sam Musman	60 60
-21-30614	1	101	1	1	1	eyukqc		4g50n2		128		Bryce Ranchero		Esaias Backlund	64 64
-21-30614	1	101	1	1	1	d7blnh		rkxgru		128		Alvaro Montijano		Bruno Sentkar	62 63
-21-30614	1	101	1	1	1	8xstm7		gwlg3i		128		Nathan Cooke		Martin Rayos Del Sol	62 61
-21-30614	1	101	1	1	1	gjvpnp		pcnsde		128		Daniel Espinosa		Nicolas Fuentes	61 76(8)
-21-30614	1	101	1	1	1	w5fv33		gefmlc		128		Luke Fleming		Jalon Dunwoody	62 63
-21-30614	1	101	1	1	1	qeww08		mmnutk		128		Robert Cercos		Christian Medley	60 62
-21-30614	1	101	1	1	1	2aik20		hg7gta		128		Nicolas Palacio		Maxiilian Fortun	75 64
 21-30655	1	101	1	6	1	ntvr3v		7aik20		F	2	Nick Nienhaus	1	Chris Papa	62 63
 21-30655	1	101	1	5	1	7aik20		lwnw9q		SF	1	Chris Papa	4	Felix Veyhle	61 61
 21-30655	1	101	1	5	1	ntvr3v		s7ub8l		SF	2	Nick Nienhaus		Anthony Popyrin	64 63
@@ -5110,94 +4883,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-41868	1	109	1	1	1	lixuv0		f9gtyv		16		Mika Berghaus		Tao Castillo	75 61
 21-41868	1	109	1	1	1	s834xi		56dqvs		16		Pol Del Castillo		Evzen Holis	46 64 [5]
 21-41868	1	109	1	1	1	wpqxwn		cak088		16		Elias Grubert		Alex Suk	62 61
-21-42214	1	101	1	5	1	ojibk9		iaik20		F	1	Bruno Pessoa	3	Fernando Alejandro …	62 64
-21-42214	1	101	1	4	1	ojibk9		nlpz1v		SF	1	Bruno Pessoa	4	Nicholas Hofmeister	62 64
-21-42214	1	101	1	4	1	iaik20		f0ou4i		SF	3	Fernando Alejandro …	7	Bernardo Tajada	63 64
-21-42214	1	101	1	3	1	ojibk9		tlclyf		QF	1	Bruno Pessoa	8	Roy Stepanov	63 75
-21-42214	1	101	1	3	1	nlpz1v		doqmyq		QF	4	Nicholas Hofmeister		Thomas Andrews	60 26 [1]
-21-42214	1	101	1	3	1	iaik20		8jcz2l		QF	3	Fernando Alejandro …	6	Victor De Oliveira	63 63
-21-42214	1	101	1	3	1	f0ou4i		0wdofm		QF	7	Bernardo Tajada	2	Federico Barbon	Walkover
-21-42214	1	101	1	2	1	ojibk9		jlrf73		16	1	Bruno Pessoa		Enrique Martinez	62 61
-21-42214	1	101	1	2	1	tlclyf		4xwpyn		16	8	Roy Stepanov		Jerry Makela	61 62
-21-42214	1	101	1	2	1	doqmyq		zvp1h1		16		Thomas Andrews		Raul Safont Martinez	62 64
-21-42214	1	101	1	2	1	nlpz1v		9dj7zv		16	4	Nicholas Hofmeister		Richard Freemann	63 75
-21-42214	1	101	1	2	1	iaik20		w8qqu2		16	3	Fernando Alejandro …		Theodore Preiswerk	64 64
-21-42214	1	101	1	2	1	8jcz2l		m5dfxv		16	6	Victor De Oliveira		Guilherme Bento	75 64
-21-42214	1	101	1	2	1	f0ou4i		3vjpzd		16	7	Bernardo Tajada		Christian Della Cio…	76(5) 62
-21-42214	1	101	1	2	1	0wdofm		zv6bwx		16	2	Federico Barbon		Juan Patino Pabon	62 62
-21-42214	1	101	1	1	1	jlrf73		6xqdgz		32		Enrique Martinez		Tom Alias	76(5) 64
-21-42214	1	101	1	1	1	4xwpyn		vba3c1		32		Jerry Makela		Juan Ignacio Garcia	61 75
-21-42214	1	101	1	1	1	tlclyf		ln4f6d		32	8	Roy Stepanov		Alessandro Tabares	63 64
-21-42214	1	101	1	1	1	zvp1h1		mjef8t		32		Raul Safont Martinez	5	Sebastian Grijalva	61 76(5)
-21-42214	1	101	1	1	1	doqmyq		jp77bj		32		Thomas Andrews		Sebastian Fujita	36 61 [12]
-21-42214	1	101	1	1	1	9dj7zv		fi36do		32		Richard Freemann		Diego Menendez Vina	63 36 [11]
-21-42214	1	101	1	1	1	nlpz1v		j4psza		32	4	Nicholas Hofmeister		Lucas Ribas	61 60
-21-42214	1	101	1	1	1	iaik20		22acus		32	3	Fernando Alejandro …		Filipe Gil	62 63
-21-42214	1	101	1	1	1	w8qqu2		vnj9f1		32		Theodore Preiswerk		Sebastian Mezo	64 60
-21-42214	1	101	1	1	1	m5dfxv		h2zexk		32		Guilherme Bento		Jacob Turley	67(4) 76(2) [5]
-21-42214	1	101	1	1	1	8jcz2l		xla5s7		32	6	Victor De Oliveira		Davide Pelletti	63 46 [2]
-21-42214	1	101	1	1	1	f0ou4i		4o0usu		32	7	Bernardo Tajada		Carlos Thireau	61 36 [6]
-21-42214	1	101	1	1	1	3vjpzd		knu7c9		32		Christian Della Cio…		Adria Aguilar Guerr…	62 62
-21-42214	1	101	1	1	1	zv6bwx		rk6yiu		32		Juan Patino Pabon		Felipe Amorim	60 63
-21-42214	1	101	2	5	1	h2zexk		6xqdgz		F		Jacob Turley		Tom Alias	43 43
-21-42214	1	101	2	4	1	6xqdgz		fi36do		SF		Tom Alias		Diego Menendez Vina	41 41
-21-42214	1	101	2	4	1	h2zexk		4o0usu		SF		Jacob Turley		Carlos Thireau	41 43
-21-42214	1	101	2	3	1	6xqdgz		ln4f6d		QF		Tom Alias		Alessandro Tabares	34 43 [4]
-21-42214	1	101	2	3	1	fi36do		mjef8t		QF		Diego Menendez Vina	5	Sebastian Grijalva	34 40 [5]
-21-42214	1	101	2	3	1	h2zexk		vnj9f1		QF		Jacob Turley		Sebastian Mezo	42 34 [8]
-21-42214	1	101	2	3	1	4o0usu		rk6yiu		QF		Carlos Thireau		Felipe Amorim	43 42
-21-42214	1	101	2	1	1	ln4f6d		vba3c1		16Q		Alessandro Tabares		Juan Ignacio Garcia	Walkover
-21-42214	1	101	2	1	1	mjef8t		jp77bj		16Q	5	Sebastian Grijalva		Sebastian Fujita	42 42
-21-42214	1	101	2	1	1	fi36do		j4psza		16Q		Diego Menendez Vina		Lucas Ribas	41 41
-21-42214	1	101	2	1	1	vnj9f1		22acus		16Q		Sebastian Mezo		Filipe Gil	41 40
-21-42214	1	101	2	1	1	h2zexk		xla5s7		16Q		Jacob Turley		Davide Pelletti	41 Ret.
-21-42214	1	101	2	1	1	4o0usu		knu7c9		16Q		Carlos Thireau		Adria Aguilar Guerr…	43 42
-21-42214	1	102	1	5	1	rofo1i		z054je		F	2	Yosue Noa		Alvaro Saucedo	46 64 [6]
-21-42214	1	102	1	4	1	z054je		mi5mjw		SF		Alvaro Saucedo		Jan Risanek	75 75
-21-42214	1	102	1	4	1	rofo1i		xeh2rk		SF	2	Yosue Noa	3	Vincent Huynh	Walkover
-21-42214	1	102	1	3	1	mi5mjw		2kr496		QF		Jan Risanek		Domenico Denaro	26 75 [8]
-21-42214	1	102	1	3	1	z054je		xw0ac6		QF		Alvaro Saucedo		Hamish Lee	62 60
-21-42214	1	102	1	3	1	xeh2rk		dutmvk		QF	3	Vincent Huynh		Abraham Shaoul	63 62
-21-42214	1	102	1	3	1	rofo1i		haeoqk		QF	2	Yosue Noa		Miguel Herrera	62 62
-21-42214	1	102	1	2	1	2kr496		meww08		16		Domenico Denaro		Bryan Cajamarca	64 62
-21-42214	1	102	1	2	1	mi5mjw		vzsfi1		16		Jan Risanek		Nazareno Tauber	63 76(5)
-21-42214	1	102	1	2	1	xw0ac6		gt856b		16		Hamish Lee		Zander Cromwell	64 63
-21-42214	1	102	1	2	1	z054je		9q3mx0		16		Alvaro Saucedo		Luis Figueroa	60 61
-21-42214	1	102	1	2	1	xeh2rk		cx9313		16	3	Vincent Huynh		Adriel Bousquet	64 61
-21-42214	1	102	1	2	1	dutmvk		qse6q2		16		Abraham Shaoul		Graham Gibbs	61 Ret.
-21-42214	1	102	1	2	1	haeoqk		l9m5gj		16		Miguel Herrera		Leonardo Prado	61 61
-21-42214	1	102	1	2	1	rofo1i		kz9pxx		16	2	Yosue Noa		Alan Schmidt	60 60
-21-42214	1	102	1	1	1	2kr496		636rg9		32		Domenico Denaro	1	Tyler Glowaki	76(4) 16 [9]
-21-42214	1	102	1	1	1	meww08		m5fv33		32		Bryan Cajamarca		Miguel Ferreira	61 61
-21-42214	1	102	1	1	1	vzsfi1		zr3xvx		32		Nazareno Tauber		Nadal Nicolau Ferrer	75 Ret.
-21-42214	1	102	1	1	1	mi5mjw		8trvrf		32		Jan Risanek		Jake Edwards	Walkover
-21-42214	1	102	1	1	1	gt856b		6owyge		32		Zander Cromwell		Luca Mariot	63 63
-21-42214	1	102	1	1	1	xw0ac6		b1itkr		32		Hamish Lee		Alexander Nunez	62 61
-21-42214	1	102	1	1	1	9q3mx0		gf9l1l		32		Luis Figueroa		Nicolas Bueno	61 46 [4]
-21-42214	1	102	1	1	1	z054je		i1gdej		32		Alvaro Saucedo	4	Nicolas Lerdo	64 62
-21-42214	1	102	1	1	1	xeh2rk		uvh9t5		32	3	Vincent Huynh		Miguel Binnios	75 64
-21-42214	1	102	1	1	1	cx9313		f3ansp		32		Adriel Bousquet		Juan Ramirez	46 63 [5]
-21-42214	1	102	1	1	1	dutmvk		onj9f1		32		Abraham Shaoul		Ignacio Munoz	63 64
-21-42214	1	102	1	1	1	qse6q2		s0iimu		32		Graham Gibbs		Jules Grignon	63 Ret.
-21-42214	1	102	1	1	1	haeoqk		egu2qu		32		Miguel Herrera		Manuel Ramos	76(5) 63
-21-42214	1	102	1	1	1	l9m5gj		btc1ir		32		Leonardo Prado		Andres Kupersmit	76(4) 36 [8]
-21-42214	1	102	1	1	1	kz9pxx		fse6q2		32		Alan Schmidt		Simon Gonzalez	67(4) 61 [6]
-21-42214	1	102	1	1	1	rofo1i		5ac8kc		32	2	Yosue Noa		Dario Bustruc	62 62
-21-42214	1	102	2	5	1	636rg9		uvh9t5		F	1	Tyler Glowaki		Miguel Binnios	40 40
-21-42214	1	102	2	4	1	636rg9		i1gdej		SF	1	Tyler Glowaki	4	Nicolas Lerdo	43 41
-21-42214	1	102	2	4	1	uvh9t5		egu2qu		SF		Miguel Binnios		Manuel Ramos	41 42
-21-42214	1	102	2	3	1	636rg9		zr3xvx		QF	1	Tyler Glowaki		Nadal Nicolau Ferrer	Walkover
-21-42214	1	102	2	3	1	i1gdej		6owyge		QF	4	Nicolas Lerdo		Luca Mariot	41 41
-21-42214	1	102	2	3	1	uvh9t5		onj9f1		QF		Miguel Binnios		Ignacio Munoz	41 24 [5]
-21-42214	1	102	2	3	1	egu2qu		5ac8kc		QF		Manuel Ramos		Dario Bustruc	40 34 [7]
-21-42214	1	102	2	1	1	636rg9		m5fv33		16Q	1	Tyler Glowaki		Miguel Ferreira	40 43
-21-42214	1	102	2	1	1	zr3xvx		8trvrf		16Q		Nadal Nicolau Ferrer		Jake Edwards	Walkover
-21-42214	1	102	2	1	1	6owyge		b1itkr		16Q		Luca Mariot		Alexander Nunez	42 42
-21-42214	1	102	2	1	1	i1gdej		gf9l1l		16Q	4	Nicolas Lerdo		Nicolas Bueno	40 41
-21-42214	1	102	2	1	1	uvh9t5		f3ansp		16Q		Miguel Binnios		Juan Ramirez	42 41
-21-42214	1	102	2	1	1	onj9f1		s0iimu		16Q		Ignacio Munoz		Jules Grignon	Walkover
-21-42214	1	102	2	1	1	egu2qu		btc1ir		16Q		Manuel Ramos		Andres Kupersmit	43 42
-21-42214	1	102	2	1	1	5ac8kc		fse6q2		16Q		Dario Bustruc		Simon Gonzalez	41 41
 21-42333	1	1	1	7	1	s2i4io		mvh9t5		F	11	Andrew Zhang	7	Taha Baadi	57 61 61
 21-42333	1	1	1	6	1	s2i4io		xw46om		SF	11	Andrew Zhang	8	Connor Thomson	62 57 64
 21-42333	1	1	1	6	1	mvh9t5		pjgve1		SF	7	Taha Baadi	17	Connor Krug	64 76(5)
@@ -5772,40 +5457,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-45022	1	102	1	1	1	wuccgo		omjyh4		R1		Mason Spottek		Kenny Elliott	82
 21-45022	1	102	1	1	1	egdsby		5387mh		R1		Matthew Reinhold		Gerard Loras	81
 21-45022	1	103	1	1	1	ar1hpp		8d6twf		R1		Derek Jordan		Brody Pinto	83
-21-45244	1	101	1	1	1	9tx793		4gdsby		32		Emir Sendogan		Jordi Redelijk	64 46 62
-21-45244	1	101	1	1	1	66sk4g		h0xcvi		32		Louis Cloud		Wes Barnett	61 62
-21-45244	1	101	1	1	1	byw0wk		xyqoew		32		Ivan Thamma		Dylan Heap	67(2) 60 63
-21-45244	1	101	1	1	1	9j115d		chk5un		32		Campbell Salmon		Callaway Clark	64 76(5)
-21-45244	1	101	1	1	1	kmhibw		n3ph1d		32		Isaac Arevalo		Luc Hoeijmans	61 62
-21-45244	1	101	1	1	1	r6j2dg		bsi22i		32		Olle Wallin		Luka Petrovic	75 64
-21-45244	1	101	1	1	1	4bxp9l		hwhkr2		32		Takeyasu Sekiguchi		Benji Jacobson	62 61
-21-45244	1	101	1	1	1	7ski8q		4ski8q		32		Billy Suarez		Garrett Skelly	62 62
-21-45244	1	101	1	1	1	f5w5iz		rwyu6y		32		Rafael De Alba		Javier Gonzalez	76(4) 26 75
-21-45244	1	101	1	1	1	6ho163		escqku		32		Fynn Kuenkler		Joao Ceolin	62 63
-21-45244	1	101	1	1	1	sh1f9j		z5upcr		32		Charlie Barry		Miguel Alonso	61 61
-21-45244	1	101	1	1	1	x0iimu		11trhz		32		Maxim Groysman		Alex Bancila	62 64
-21-45244	1	102	1	1	1	h0xcvi		z5upcr		32		Wes Barnett		Miguel Alonso	64 64
-21-45244	1	102	1	1	1	escqku		xyqoew		32		Joao Ceolin		Dylan Heap	16 63 76(4)
-21-45244	1	102	1	1	1	9tx793		x0iimu		32		Emir Sendogan		Maxim Groysman	63 36 63
-21-45244	1	102	1	1	1	rwyu6y		ttalcj		32		Javier Gonzalez		Trinity Grear	62 61
-21-45244	1	102	1	1	1	4ski8q		9j115d		32		Garrett Skelly		Campbell Salmon	64 75
-21-45244	1	102	1	1	1	f5w5iz		byw0wk		32		Rafael De Alba		Ivan Thamma	26 63 76(7)
-21-45244	1	102	1	1	1	n3ph1d		r6j2dg		32		Luc Hoeijmans		Olle Wallin	64 75
-21-45244	1	102	1	1	1	kr3xvx		bsi22i		32		Adam Neff		Luka Petrovic	76(2) 61
-21-45244	1	102	1	1	1	sh1f9j		66sk4g		32		Charlie Barry		Louis Cloud	64 76(3)
-21-45244	1	102	1	1	1	kmhibw		6ho163		32		Isaac Arevalo		Fynn Kuenkler	26 76(4) 64
-21-45244	1	102	1	1	1	11trhz		chk5un		32		Alex Bancila		Callaway Clark	63 46 62
-21-45244	1	102	1	1	1	hwhkr2		nlclyf		32		Benji Jacobson		Eli Susser	63 75
-21-45244	1	103	1	1	1	xyqoew		f5w5iz		32		Dylan Heap		Rafael De Alba	63 36 60
-21-45244	1	103	1	1	1	9tx793		bsi22i		32		Emir Sendogan		Luka Petrovic	61 75
-21-45244	1	103	1	1	1	h0xcvi		n3ph1d		32		Wes Barnett		Luc Hoeijmans	67(4) 63 75
-21-45244	1	103	1	1	1	66sk4g		11trhz		32		Louis Cloud		Alex Bancila	75 60
-21-45244	1	103	1	1	1	sh1f9j		4ski8q		32		Charlie Barry		Garrett Skelly	63 Ret.
-21-45244	1	103	1	1	1	z5upcr		hwhkr2		32		Miguel Alonso		Benji Jacobson	36 63 64
-21-45244	1	103	1	1	1	byw0wk		escqku		32		Ivan Thamma		Joao Ceolin	64 36 62
-21-45244	1	103	1	1	1	x0iimu		chk5un		32		Maxim Groysman		Callaway Clark	64 67(5) 64
-21-45244	1	103	1	1	1	r6j2dg		4gdsby		32		Olle Wallin		Jordi Redelijk	63 63
-21-45244	1	103	1	1	1	4bxp9l		nlclyf		32		Takeyasu Sekiguchi		Eli Susser	60 61
 21-47231	1	101	1	5	1	rixuv0		yioc40		R5		Francisco Bastias		Patrik Trhac	63 57 60
 21-47231	1	101	1	5	1	e2e868		kydabg		R5		Matej Panik		Oisin Shaffrey	75 63
 21-47231	1	101	1	4	1	kydabg		yioc40		R4		Oisin Shaffrey		Patrik Trhac	67(4) 63 75
@@ -8266,76 +7917,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-67582	1	103	3	1	1	va1an4		2fyn4d		F	4	Joseph Schrader	3	Esteban Penagos	Walkover
 21-67582	1	103	4	1	1	nutmvk		8va78d		F		Collin Shick		Ben Zipay	75 76(5)
 21-67582	1	104	1	1	1	heugu0		pm448g		F		Joaquim Almeida		Hugo Lobo	63 63
-21-67914	1	101	1	3	1	wdrznr		caeoqk		F		Ramon Vilarroig Mar…		Arthur Hermange	63 76(6)
-21-67914	1	101	1	2	1	wdrznr		0ybu58		SF		Ramon Vilarroig Mar…		Daniel Moore	63 62
-21-67914	1	101	1	2	1	caeoqk		cag4ws		SF		Arthur Hermange		Myles Krzewinski	64 64
-21-67914	1	101	1	1	1	wdrznr		gf03al		QF		Ramon Vilarroig Mar…		Demetrios Triantafel	60 60
-21-67914	1	101	1	1	1	0ybu58		o9i943		QF		Daniel Moore		Ben Hart	61 60
-21-67914	1	101	1	1	1	cag4ws		1jgve1		QF		Myles Krzewinski		Clayton Maack	64 62
-21-67914	1	101	1	1	1	caeoqk		1bgfup		QF		Arthur Hermange		Javier Suarez Balse…	62 64
-21-67914	1	101	2	2	1	1bgfup		o9i943		F		Javier Suarez Balse…		Ben Hart	64 60
-21-67914	1	101	2	1	1	o9i943		gf03al		SF		Ben Hart		Demetrios Triantafel	60 63
-21-67914	1	101	2	1	1	1bgfup		1jgve1		SF		Javier Suarez Balse…		Clayton Maack	64 75
-21-67914	1	101	4	1	1	1jgve1		gf03al		F		Clayton Maack		Demetrios Triantafel	75 26 [3]
-21-67914	1	102	1	3	1	ehml0v		avrhn9		F		Guillermo Gonzalez …		Nicolas Welker	64 60
-21-67914	1	102	1	2	1	avrhn9		32zexk		SF		Nicolas Welker		Theodor Wolf	62 60
-21-67914	1	102	1	2	1	ehml0v		0mpazs		SF		Guillermo Gonzalez …		Tripp Schulte	64 75
-21-67914	1	102	1	1	1	avrhn9		rkpo3y		QF		Nicolas Welker		Carter Burk	60 60
-21-67914	1	102	1	1	1	32zexk		32acus		QF		Theodor Wolf		Andy Hinch	46 61 [7]
-21-67914	1	102	1	1	1	ehml0v		goyemm		QF		Guillermo Gonzalez …		Holden Owens	62 60
-21-67914	1	102	1	1	1	0mpazs		j2e868		QF		Tripp Schulte		Leonardo Panosso	63 26 [6]
-21-67914	1	102	2	2	1	j2e868		rkpo3y		F		Leonardo Panosso		Carter Burk	61 62
-21-67914	1	102	2	1	1	rkpo3y		32acus		SF		Carter Burk		Andy Hinch	64 63
-21-67914	1	102	2	1	1	j2e868		goyemm		SF		Leonardo Panosso		Holden Owens	62 61
-21-67914	1	102	3	1	1	32zexk		0mpazs		F		Theodor Wolf		Tripp Schulte	64 57 [5]
-21-67914	1	102	4	1	1	goyemm		32acus		F		Holden Owens		Andy Hinch	63 75
-21-67914	1	103	1	3	1	fmysqs		h13zb3		F		Yanozie Amadike		Deepak Vayara	63 63
-21-67914	1	103	1	2	1	fmysqs		an2z05		SF		Yanozie Amadike		Cole Phillips	62 63
-21-67914	1	103	1	2	1	h13zb3		rq9yfo		SF		Deepak Vayara		Matt Sengphommachanh	64 46 [6]
-21-67914	1	103	1	1	1	an2z05		2mnutk		QF		Cole Phillips		Ryan McCoy	64 60
-21-67914	1	103	1	1	1	fmysqs		autmvk		QF		Yanozie Amadike		Eliot Saint-Paul	61 63
-21-67914	1	103	1	1	1	rq9yfo		b77pb1		QF		Matt Sengphommachanh		Cory Erickson	60 62
-21-67914	1	103	1	1	1	h13zb3		tojkdy		QF		Deepak Vayara		Evan Turnbull	62 62
-21-67914	1	103	2	2	1	autmvk		tojkdy		F		Eliot Saint-Paul		Evan Turnbull	36 76(4) [6]
-21-67914	1	103	2	1	1	autmvk		2mnutk		SF		Eliot Saint-Paul		Ryan McCoy	62 62
-21-67914	1	103	2	1	1	tojkdy		b77pb1		SF		Evan Turnbull		Cory Erickson	63 60
-21-67914	1	103	3	1	1	rq9yfo		an2z05		F		Matt Sengphommachanh		Cole Phillips	63 76(7)
-21-67914	1	103	4	1	1	2mnutk		b77pb1		F		Ryan McCoy		Cory Erickson	61 64
-21-67914	1	104	1	2	1	savy5g		bh7rr7		SF		Cooper Ferruzzi		Steven Mears	63 75
-21-67914	1	104	1	2	1	ork7at		gely30		SF		Nick Marino		Morgan Red	26 63 [5]
-21-67914	1	104	1	1	1	savy5g		ymhibw		QF		Cooper Ferruzzi		Luke Barter	60 61
-21-67914	1	104	1	1	1	bh7rr7		reww08		QF		Steven Mears		Justin Caldwell	61 61
-21-67914	1	104	1	1	1	gely30		35w5iz		QF		Morgan Red		Justin Cassens	64 75
-21-67914	1	104	1	1	1	ork7at		ynj9f1		QF		Nick Marino		Shanku Nair	63 76(4)
-21-67914	1	104	2	2	1	35w5iz		ymhibw		F		Justin Cassens		Luke Barter	62 64
-21-67914	1	104	2	1	1	ymhibw		reww08		SF		Luke Barter		Justin Caldwell	64 60
-21-67914	1	104	2	1	1	35w5iz		ynj9f1		SF		Justin Cassens		Shanku Nair	75 63
-21-67914	1	104	4	1	1	ynj9f1		reww08		F		Shanku Nair		Justin Caldwell	60 61
-21-67914	1	105	1	3	1	8efmlc		u69ujc		F		Hayden Friese		Kyle Boudreau	76(6) 64
-21-67914	1	105	1	2	1	u69ujc		3qkwcw		SF		Kyle Boudreau		Ezekiel Cross	60 61
-21-67914	1	105	1	2	1	8efmlc		fm2o28		SF		Hayden Friese		Dieter Gonzales	76(7) 62
-21-67914	1	105	1	1	1	u69ujc		haxebo		QF		Kyle Boudreau		Ian Hofland	60 61
-21-67914	1	105	1	1	1	3qkwcw		2wdofm		QF		Ezekiel Cross		James Broach	62 62
-21-67914	1	105	1	1	1	fm2o28		xcnsde		QF		Dieter Gonzales		Jesse Dyer	75 62
-21-67914	1	105	1	1	1	8efmlc		xgbc5q		QF		Hayden Friese		Jack McCaffery	61 62
-21-67914	1	105	2	2	1	xcnsde		2wdofm		F		Jesse Dyer		James Broach	63 60
-21-67914	1	105	2	1	1	2wdofm		haxebo		SF		James Broach		Ian Hofland	46 61 [5]
-21-67914	1	105	2	1	1	xcnsde		xgbc5q		SF		Jesse Dyer		Jack McCaffery	64 75
-21-67914	1	105	3	1	1	fm2o28		3qkwcw		F		Dieter Gonzales		Ezekiel Cross	60 63
-21-67914	1	106	1	2	1	xj3hbl		rpb3nz		SF		Daniel Urraca Mozos		Reiss Naylor	60 64
-21-67914	1	106	1	2	1	aixuv0		7jkrqh		SF		Douglas Blomquist		Jordan Sibley-Diggs	61 61
-21-67914	1	106	1	1	1	xj3hbl		xqq8uk		QF		Daniel Urraca Mozos		Ben Pierson	60 60
-21-67914	1	106	1	1	1	rpb3nz		7z9pxx		QF		Reiss Naylor		Emilio Rodriguez	61 61
-21-67914	1	106	1	1	1	7jkrqh		7ak088		QF		Jordan Sibley-Diggs		Ryan Strupp	76(3) 64
-21-67914	1	106	1	1	1	aixuv0		0utmvk		QF		Douglas Blomquist		David Russ	61 63
-21-67914	1	106	2	2	1	0utmvk		xqq8uk		F		David Russ		Ben Pierson	62 26 [7]
-21-67914	1	106	2	1	1	xqq8uk		7z9pxx		SF		Ben Pierson		Emilio Rodriguez	76(4) 75
-21-67914	1	106	2	1	1	0utmvk		7ak088		SF		David Russ		Ryan Strupp	76(5) 61
-21-67914	1	106	3	1	1	rpb3nz		7jkrqh		F		Reiss Naylor		Jordan Sibley-Diggs	76(4) 63
-21-67914	1	106	4	1	1	7ak088		7z9pxx		F		Ryan Strupp		Emilio Rodriguez	62 61
-21-67914	1	107	1	3	1	ccaeay		dxstm7		R3		Jordan Nowell		Joshua Cortez	57 64 [6]
-21-67914	1	107	1	2	1	dxstm7		3bpxlp		R2		Joshua Cortez		Josiah Bailey	62 26 [5]
-21-67914	1	107	1	1	1	ccaeay		3bpxlp		R1		Jordan Nowell		Josiah Bailey	64 57
 21-67948	1	101	1	1	1	r4h0be		1795h9		32		Ryan Boland		Vansh Kapoor	85
 21-67948	1	101	1	1	1	nzm30d		loh47q		32		Anas Haddou		Gustavo Rotundo	84
 21-67948	1	101	1	1	1	z44m8y		mutmvk		32		Sebastian Lopez		Gilberto Rivera-Gor…	81
@@ -10157,65 +9738,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-75985	1	201	1	1	1	hrgbyd		tm2o28		64		Adrian Daoust		Henry Habib	61 61
 21-75985	1	201	1	1	1	5lclyf		nag4ws		64		Jan Simon		Danny Marsh	60 75
 21-75985	1	201	1	1	1	tsi22i		4dhrtn		64		Ryan Nuno		Josh Blinder	60 61
-21-76336	1	101	1	5	1	62p63g		g2gocg		F	3	Jeremy Attrill	2	Jaime Sion	85
-21-76336	1	101	1	4	1	62p63g		10iimu		SF	3	Jeremy Attrill	1	Parker Hansen	81
-21-76336	1	101	1	4	1	g2gocg		2ho163		SF	2	Jaime Sion		Cadyn Mannella	80
-21-76336	1	101	1	3	1	10iimu		6q5238		QF	1	Parker Hansen		Luke Johnson	84
-21-76336	1	101	1	3	1	62p63g		2se6q2		QF	3	Jeremy Attrill		Bradyn Heiss	80
-21-76336	1	101	1	3	1	2ho163		vgdsby		QF		Cadyn Mannella		Aaron Schorg	84
-21-76336	1	101	1	3	1	g2gocg		8azuhw		QF	2	Jaime Sion		Avery Martin	81
-21-76336	1	101	1	2	1	10iimu		jbv93d		16	1	Parker Hansen		Gavin Mulder	80
-21-76336	1	101	1	2	1	6q5238		x6u0ao		16		Luke Johnson		Josh Grosvenor	84
-21-76336	1	101	1	2	1	2se6q2		o3tddt		16		Bradyn Heiss	5	Manuel Rodriguez Be…	82
-21-76336	1	101	1	2	1	62p63g		sbttx5		16	3	Jeremy Attrill		Connor Kelley	80
-21-76336	1	101	1	2	1	2ho163		jfsbmp		16		Cadyn Mannella	4	Milo Ciotti	84
-21-76336	1	101	1	2	1	vgdsby		p0xcvi		16		Aaron Schorg		Logan Bornemeier	85
-21-76336	1	101	1	2	1	8azuhw		rx0la3		16		Avery Martin		Jared Thompson	84
-21-76336	1	101	1	2	1	g2gocg		l6ywm4		16	2	Jaime Sion		Zander Pacheco	80
-21-76336	1	101	1	1	1	jbv93d		jz1x91		32		Gavin Mulder		Pablo Arza	83
-21-76336	1	101	1	1	1	2ho163		5rxld9		32		Cadyn Mannella		Christian Ayala	97
-21-76336	1	101	2	3	1	x6u0ao		5rxld9		QF		Josh Grosvenor		Christian Ayala	84
-21-76336	1	101	2	3	1	o3tddt		sbttx5		QF	5	Manuel Rodriguez Be…		Connor Kelley	82
-21-76336	1	101	2	3	1	p0xcvi		jfsbmp		QF		Logan Bornemeier	4	Milo Ciotti	86
-21-76336	1	101	2	3	1	l6ywm4		rx0la3		QF		Zander Pacheco		Jared Thompson	86
-21-76336	1	101	2	2	1	jfsbmp		jz1x91		16	4	Milo Ciotti		Pablo Arza	84
-21-76336	1	102	1	4	1	ist0zq		md6twf		F		Donat Beke	3	Juan Rabellino	62 75
-21-76336	1	102	1	3	1	ist0zq		svl55l		SF		Donat Beke	1	Tycho Janssen	16 62 [6]
-21-76336	1	102	1	3	1	md6twf		nrgbyd		SF	3	Juan Rabellino	2	Sam Coy	57 62 [8]
-21-76336	1	102	1	2	1	svl55l		wnlpl9		QF	1	Tycho Janssen		Hayden Royal	62 76
-21-76336	1	102	1	2	1	ist0zq		k2gocg		QF		Donat Beke	4	Shawn Springer	76(5) 62
-21-76336	1	102	1	2	1	md6twf		e0iimu		QF	3	Juan Rabellino		Jake Gibson	63 63
-21-76336	1	102	1	2	1	nrgbyd		onn5rh		QF	2	Sam Coy		Nicolas VanRijs	63 64
-21-76336	1	102	1	1	1	wnlpl9		s9olmr		16		Hayden Royal		Caden Swaney	60 60
-21-76336	1	102	1	1	1	ist0zq		82zexk		16		Donat Beke		Kevin Woodrow	62 61
-21-76336	1	102	1	1	1	e0iimu		43vtj1		16		Jake Gibson		Thane Waite	64 64
-21-76336	1	102	1	1	1	onn5rh		huawag		16		Nicolas VanRijs		Giang Nyugen	64 63
-21-76336	1	103	1	4	1	pd892n		t48ike		F	1	Luca Struffi	3	Zachary Sodorff	46 60 [6]
-21-76336	1	103	1	3	1	pd892n		i9x3dr		SF	1	Luca Struffi	4	Joseph Bindl	64 46 [5]
-21-76336	1	103	1	3	1	t48ike		k5hb9b		SF	3	Zachary Sodorff	2	Federico Infante	46 63 [5]
-21-76336	1	103	1	2	1	pd892n		vpqxwn		QF	1	Luca Struffi		Collin Harmelink	60 60
-21-76336	1	103	1	2	1	i9x3dr		ma1an4		QF	4	Joseph Bindl		Henrique Sakoda	46 75 [7]
-21-76336	1	103	1	2	1	t48ike		eixuv0		QF	3	Zachary Sodorff		Bruno Brocanelli	67(5) 76(5) [4]
-21-76336	1	103	1	2	1	k5hb9b		g6dqvs		QF	2	Federico Infante		Jack Kitson	62 62
-21-76336	1	103	1	1	1	vpqxwn		648ike		16		Collin Harmelink		Alex Tennant	63 64
-21-76336	1	103	1	1	1	ma1an4		cccug6		16		Henrique Sakoda		Josh Sodorff	63 67(5) [13]
-21-76336	1	103	1	1	1	eixuv0		shqhcb		16		Bruno Brocanelli		Danny OBrien	61 60
-21-76336	1	103	1	1	1	g6dqvs		5vp1h1		16		Jack Kitson		Jack Roisum	61 64
-21-76336	1	104	1	4	1	zoqmyq		s5w5iz		F	1	Miguel Abete	2	Jorge Chevez	64 63
-21-76336	1	104	1	3	1	zoqmyq		6jef8t		SF	1	Miguel Abete	4	Esteban Gutierrez	26 63 [3]
-21-76336	1	104	1	3	1	s5w5iz		vr7t7d		SF	2	Jorge Chevez		Brian VandenBerg	61 64
-21-76336	1	104	1	2	1	zoqmyq		791zp7		QF	1	Miguel Abete		Isaac Howes	63 63
-21-76336	1	104	1	2	1	6jef8t		l6f610		QF	4	Esteban Gutierrez		Jaime Maza Martin	64 64
-21-76336	1	104	1	2	1	vr7t7d		a54x6v		QF		Brian VandenBerg	3	Nunzio Thiel	76(4) 62
-21-76336	1	104	1	2	1	s5w5iz		aqbelw		QF	2	Jorge Chevez		Jeronimo Wagner	60 76(6)
-21-76336	1	104	1	1	1	791zp7		qbpxlp		16		Isaac Howes		David Bomgaars	64 60
-21-76336	1	104	1	1	1	l6f610		2ydabg		16		Jaime Maza Martin		Hunter Royal	63 64
-21-76336	1	104	1	1	1	6jef8t		9ba3c1		16	4	Esteban Gutierrez		Zach Gonsor	64 64
-21-76336	1	104	1	1	1	a54x6v		9ski8q		16	3	Nunzio Thiel		Nick Smeltzer	61 61
-21-76336	1	104	1	1	1	vr7t7d		ns1snm		16		Brian VandenBerg		Eduardo Rojas	61 61
-21-76336	1	104	1	1	1	aqbelw		gy7yts		16		Jeronimo Wagner		Gabe DeLeo	61 60
-21-76336	1	104	2	1	1	2ydabg		9ba3c1		QQ		Hunter Royal		Zach Gonsor	97
-21-76336	1	104	2	1	1	ns1snm		9ski8q		QQ		Eduardo Rojas		Nick Smeltzer	85
 21-76964	1	101	1	6	1	jszche		6od8va		F	2	Ravi Nelson	1	Junyong Kim	64 32 Ret.
 21-76964	1	101	1	5	1	6od8va		8w2qie		SF	1	Junyong Kim	10	Parker Perdue	62 62
 21-76964	1	101	1	5	1	jszche		otx793		SF	2	Ravi Nelson	5	Robin Sharma	Walkover
@@ -10444,50 +9966,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-79025	1	110	1	1	1	uwyu6y		bpw9eb		QF		Jason Harris		Rien Solis	16 63 [8]
 21-79025	1	110	2	3	1	d7mjkp		bpw9eb		F		Adrian Alejandro		Rien Solis	63 62
 21-79025	1	110	2	2	1	bpw9eb		bw0ac6		SF		Rien Solis		Mikey Lopez	Walkover
-21-80073	1	101	1	4	1	yp5r5b		rh3vfr		F	1	Tristan Bradley		Andrew Finkelman	63 76(4)
-21-80073	1	101	1	3	1	yp5r5b		vpw9eb		SF	1	Tristan Bradley		Reid Staples	67(1) 76(3) [8]
-21-80073	1	101	1	3	1	rh3vfr		m3llpx		SF		Andrew Finkelman		Ethan Bradley	75 62
-21-80073	1	101	1	2	1	yp5r5b		ic2mm2		QF	1	Tristan Bradley		Peter Anker	76(2) 63
-21-80073	1	101	1	2	1	vpw9eb		g387mh		QF		Reid Staples	3	Noah Lilienthal	63 67(4) [8]
-21-80073	1	101	1	2	1	rh3vfr		nkzwx2		QF		Andrew Finkelman	4	Kian Yazdi	60 61
-21-80073	1	101	1	2	1	m3llpx		hr7t7d		QF		Ethan Bradley		Oscar Yang	76(5) 75
-21-80073	1	101	1	1	1	yp5r5b		utc1ir		16	1	Tristan Bradley		Ole Lepsoe	76(6) 61
-21-80073	1	101	1	1	1	ic2mm2		gs1snm		16		Peter Anker		Beekman Schaeffer	62 61
-21-80073	1	101	1	1	1	vpw9eb		rlvbjj		16		Reid Staples		Zihao Yuan	62 62
-21-80073	1	101	1	1	1	g387mh		fu60y0		16	3	Noah Lilienthal		Zach Hilty	64 62
-21-80073	1	101	1	1	1	nkzwx2		tg7gta		16	4	Kian Yazdi		Neel Epstein	61 64
-21-80073	1	101	1	1	1	rh3vfr		squ460		16		Andrew Finkelman		Wesley Zhang	60 64
-21-80073	1	101	1	1	1	hr7t7d		lmnutk		16		Oscar Yang		Ben Mitchell	61 61
-21-80073	1	101	1	1	1	m3llpx		kene98		16		Ethan Bradley	2	Robby Ward	26 76(5) [12]
-21-80073	1	102	1	4	1	4hqhcb		d9zjjz		F	4	Harry Portnoy	1	Jack Flores	75 26 [7]
-21-80073	1	102	1	3	1	d9zjjz		yys4k4		SF	1	Jack Flores	3	Joe Mairs	46 64 [4]
-21-80073	1	102	1	3	1	4hqhcb		05ylo7		SF	4	Harry Portnoy		Nicholas Garcia	63 00 Ret.
-21-80073	1	102	1	2	1	d9zjjz		x7qfw5		QF	1	Jack Flores		Jose Gonzalez	61 63
-21-80073	1	102	1	2	1	yys4k4		ztalcj		QF	3	Joe Mairs		Geoff Golan	63 61
-21-80073	1	102	1	2	1	4hqhcb		w8iy66		QF	4	Harry Portnoy		Brady Anderson	61 63
-21-80073	1	102	1	2	1	05ylo7		k3vtj1		QF		Nicholas Garcia		David Vilys	36 62 [5]
-21-80073	1	102	1	1	1	d9zjjz		ml4taj		16	1	Jack Flores		Clark Davis	60 60
-21-80073	1	102	1	1	1	x7qfw5		iaxebo		16		Jose Gonzalez		Max Kim	76(9) 75
-21-80073	1	102	1	1	1	ztalcj		c9kpab		16		Geoff Golan		Yasha Laskin	63 63
-21-80073	1	102	1	1	1	yys4k4		8psd2v		16	3	Joe Mairs		Max Lee	64 75
-21-80073	1	102	1	1	1	4hqhcb		r95v1n		16	4	Harry Portnoy		Bryan Schick	62 60
-21-80073	1	102	1	1	1	w8iy66		8wyu6y		16		Brady Anderson		Sujan Garapati	63 62
-21-80073	1	102	1	1	1	05ylo7		3jx5tx		16		Nicholas Garcia		Ryan Hyun	61 64
-21-80073	1	102	1	1	1	k3vtj1		9ixuv0		16		David Vilys	2	Pieter Breuker	76(4) 76(6)
-21-80073	1	103	1	3	1	9ixuv0		8wyu6y		F		Pieter Breuker		Sujan Garapati	62 60
-21-80073	1	103	1	2	1	9ixuv0		iaxebo		SF		Pieter Breuker		Max Kim	64 62
-21-80073	1	103	1	2	1	8wyu6y		8psd2v		SF		Sujan Garapati		Max Lee	76(4) 63
-21-80073	1	103	1	1	1	iaxebo		ml4taj		QF		Max Kim		Clark Davis	60 62
-21-80073	1	103	1	1	1	9ixuv0		3jx5tx		QF		Pieter Breuker		Ryan Hyun	64 60
-21-80073	1	103	1	1	1	8wyu6y		r95v1n		QF		Sujan Garapati		Bryan Schick	63 62
-21-80073	1	103	1	1	1	8psd2v		c9kpab		QF		Max Lee		Yasha Laskin	76(6) 64
-21-80073	1	104	1	3	1	utc1ir		lmnutk		F		Ole Lepsoe		Ben Mitchell	61 57 [9]
-21-80073	1	104	1	2	1	utc1ir		rlvbjj		SF		Ole Lepsoe		Zihao Yuan	Walkover
-21-80073	1	104	1	2	1	lmnutk		tg7gta		SF		Ben Mitchell		Neel Epstein	67(2) 64 [6]
-21-80073	1	104	1	1	1	utc1ir		fu60y0		QF		Ole Lepsoe		Zach Hilty	60 64
-21-80073	1	104	1	1	1	rlvbjj		tjvpnp		QF		Zihao Yuan		Clay Gaieski	62 62
-21-80073	1	104	1	1	1	tg7gta		squ460		QF		Neel Epstein		Wesley Zhang	67(6) 64 [7]
-21-80073	1	104	1	1	1	lmnutk		kene98		QF		Ben Mitchell		Robby Ward	67(7) 61 [8]
 21-80207	1	101	1	5	1	bmlenc		u4nct2		F		Kevin Huempfner	5	Antonio Muniz-Hidal…	76(4) 64
 21-80207	1	101	1	4	1	bmlenc		d6bapk		SF		Kevin Huempfner	5	Joshua Dous Karpens…	60 75
 21-80207	1	101	1	4	1	u4nct2		zxhvpz		SF	5	Antonio Muniz-Hidal…		Youcef Rihane	67(5) 41 Ret.
@@ -11038,65 +10516,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-84466	1	101	2	4	1	xiza18		j795h9		QF		Max Duzinkiewicz		Rubin Howard	26 Ret.
 21-84466	1	101	2	3	1	lqso0s		77d1tp		16		Matthew Sloan		Augustya Sharma	60 60
 21-84466	1	101	2	2	1	20kys2		j0ou4i		32		Guido Luna		Alan Toleu	61 60
-21-87113	1	101	1	6	1	xp9nhr		33llpx		F	6	Tom Jarry	10	Jonathan Berling	75 26 [5]
-21-87113	1	101	1	5	1	33llpx		se64uc		SF	10	Jonathan Berling	9	Zicheng Zeng	62 67(6) [6]
-21-87113	1	101	1	5	1	xp9nhr		v8qqu2		SF	6	Tom Jarry	8	Kareem Rashad	75 57 [9]
-21-87113	1	101	1	4	1	33llpx		a91zp7		QF	10	Jonathan Berling	13	Marko Jovanovic	63 61
-21-87113	1	101	1	4	1	se64uc		laik20		QF	9	Zicheng Zeng	11	Kacper Piekarek	62 60
-21-87113	1	101	1	4	1	xp9nhr		couia6		QF	6	Tom Jarry		Thomas Guy	75 64
-21-87113	1	101	1	4	1	v8qqu2		vwf4lu		QF	8	Kareem Rashad	15	Omar El Shehawey	61 61
-21-87113	1	101	1	3	1	a91zp7		73llpx		16	13	Marko Jovanovic		Moritz Borges	62 61
-21-87113	1	101	1	3	1	33llpx		fowyge		16	10	Jonathan Berling		Ivan Laiz	61 63
-21-87113	1	101	1	3	1	se64uc		6w46om		16	9	Zicheng Zeng		Eduard Simo	75 75
-21-87113	1	101	1	3	1	laik20		i4jghm		16	11	Kacper Piekarek	3	Carvalho Felipe	63 76(6)
-21-87113	1	101	1	3	1	couia6		fu4kss		16		Thomas Guy		Felipe Cruz	36 63 [3]
-21-87113	1	101	1	3	1	xp9nhr		x7wret		16	6	Tom Jarry		Ludovico Truffelli	64 62
-21-87113	1	101	1	3	1	v8qqu2		69olmr		16	8	Kareem Rashad		Fernando Torres	62 62
-21-87113	1	101	1	3	1	vwf4lu		wv0ze9		16	15	Omar El Shehawey		Slobodan Cejovic	62 62
-21-87113	1	101	1	2	1	73llpx		7lpz1v		32		Moritz Borges	1	Jared Howard	75 36 [9]
-21-87113	1	101	1	2	1	a91zp7		y07kpm		32	13	Marko Jovanovic		Julius Upel	62 63
-21-87113	1	101	1	2	1	33llpx		t2zexk		32	10	Jonathan Berling		Jose Williamson III	62 61
-21-87113	1	101	1	2	1	fowyge		8bttx5		32		Ivan Laiz		Ivan Kalchanov	62 60
-21-87113	1	101	1	2	1	6w46om		f7sv2d		32		Eduard Simo		Jack Kosiorowski	61 62
-21-87113	1	101	1	2	1	se64uc		8vjpzd		32	9	Zicheng Zeng		Kevin Denecheau	16 64 [3]
-21-87113	1	101	1	2	1	laik20		aa3qtc		32	11	Kacper Piekarek		Philipp Uhde	75 61
-21-87113	1	101	1	2	1	i4jghm		8054je		32	3	Carvalho Felipe		Oscar Serra	61 61
-21-87113	1	101	1	2	1	couia6		fnfd3l		32		Thomas Guy		Lucas Demuth	62 36 [9]
-21-87113	1	101	1	2	1	fu4kss		wdln53		32		Felipe Cruz		Jakob Kalteis	64 62
-21-87113	1	101	1	2	1	x7wret		xmhibw		32		Ludovico Truffelli	12	Ivan Bernal	75 64
-21-87113	1	101	1	2	1	xp9nhr		ll69gr		32	6	Tom Jarry		Francisco Gonzalez	62 61
-21-87113	1	101	1	2	1	v8qqu2		z9m5gj		32	8	Kareem Rashad		Jose Nunez	60 61
-21-87113	1	101	1	2	1	69olmr		l795h9		32		Fernando Torres		Maximilian Kendler	46 62 [5]
-21-87113	1	101	1	2	1	vwf4lu		769ujc		32	15	Omar El Shehawey		Gabriel Balestero	62 63
-21-87113	1	101	1	2	1	wv0ze9		rs1snm		32		Slobodan Cejovic		Guilherme Salim	16 76(4) [5]
-21-87113	1	101	1	1	1	7lpz1v		eb670l		64	1	Jared Howard		Anton Anderson	62 75
-21-87113	1	101	1	1	1	73llpx		2e0sco		64		Moritz Borges		Marcos Lee	64 26 [10]
-21-87113	1	101	1	1	1	y07kpm		pu8g48		64		Julius Upel		Zachary LaPlante	62 63
-21-87113	1	101	1	1	1	a91zp7		n5jrfj		64	13	Marko Jovanovic		Luke Nickerson	61 60
-21-87113	1	101	1	1	1	33llpx		m48ike		64	10	Jonathan Berling		Brandon Sze	64 61
-21-87113	1	101	1	1	1	t2zexk		l60csc		64		Jose Williamson III		Luke Stirling	63 64
-21-87113	1	101	1	1	1	fowyge		gz3df9		64		Ivan Laiz		Max Francis	64 62
-21-87113	1	101	1	1	1	8bttx5		bcaeay		64		Ivan Kalchanov	5	Tim Ostheimer	26 63 [4]
-21-87113	1	101	1	1	1	6w46om		74h0be		64		Eduard Simo	7	Mariano Bibiloni	61 61
-21-87113	1	101	1	1	1	f7sv2d		lvjpzd		64		Jack Kosiorowski		Hugo Evangelista	64 64
-21-87113	1	101	1	1	1	8vjpzd		zgma2y		64		Kevin Denecheau		Salomon Arce Lema	62 62
-21-87113	1	101	1	1	1	se64uc		inj9f1		64	9	Zicheng Zeng		Trent Newman	61 60
-21-87113	1	101	1	1	1	laik20		1xbj7b		64	11	Kacper Piekarek		Luis Devuyst	62 62
-21-87113	1	101	1	1	1	aa3qtc		co9cju		64		Philipp Uhde		Valentin Baranyi	64 76(4)
-21-87113	1	101	1	1	1	8054je		g501uf		64		Oscar Serra		Anthony Kwok	62 63
-21-87113	1	101	1	1	1	couia6		ptc1ir		64		Thomas Guy	4	Lennart Lehmann	64 64
-21-87113	1	101	1	1	1	fnfd3l		befmlc		64		Lucas Demuth		Christian Duffy	75 62
-21-87113	1	101	1	1	1	fu4kss		2nht9t		64		Felipe Cruz		Tony Khamassi	64 62
-21-87113	1	101	1	1	1	xmhibw		08709y		64	12	Ivan Bernal		Alen nGUYEN	63 76(3)
-21-87113	1	101	1	1	1	ll69gr		zyqoew		64		Francisco Gonzalez		Samuel Greco	61 60
-21-87113	1	101	1	1	1	xp9nhr		34jghm		64	6	Tom Jarry		Juan Estevez Hernan…	62 60
-21-87113	1	101	1	1	1	v8qqu2		d5w5iz		64	8	Kareem Rashad		Tanaka Chabata	61 61
-21-87113	1	101	1	1	1	z9m5gj		n7ozqx		64		Jose Nunez		Michael Butkus	61 62
-21-87113	1	101	1	1	1	l795h9		b834xi		64		Maximilian Kendler		Guillaume Duhil de …	61 46 [8]
-21-87113	1	101	1	1	1	69olmr		8c6iyi		64		Fernando Torres	16	Preston Gordon	62 40 Ret.
-21-87113	1	101	1	1	1	vwf4lu		26hm78		64	15	Omar El Shehawey		Heimraj Resaul	63 62
-21-87113	1	101	1	1	1	769ujc		c54x6v		64		Gabriel Balestero		Boris Stastny	64 36 [12]
-21-87113	1	101	1	1	1	rs1snm		r0187y		64		Guilherme Salim		Gustavo Kerber	36 64 [8]
 21-88210	1	101	1	4	1	vpfzzf		itx793		F		James Watt		Enrique Luque Rico	46 76(5) 64
 21-88210	1	101	1	3	1	vpfzzf		00ou4i		SF		James Watt		Corrado Summaria	76(4) 46 64
 21-88210	1	101	1	3	1	itx793		o93fvf		SF		Enrique Luque Rico		Pablo Masjuan	46 64 61
@@ -12054,44 +11473,6 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-93144	1	103	1	1	1	qhsxij		kzoj6l		16		Rex Tang		Renaud Lefevre	76(3) 36 [8]
 21-93144	1	104	1	1	1	s0zs1q		kzoj6l		F		Bill Duo		Renaud Lefevre	63 62
 21-93144	1	105	1	1	1	s0zs1q		8ouia6		F		Bill Duo		Tal Goodman	63 61
-21-93245	1	101	1	7	1	gtehoz		6cropu		R7		Michael Pawlowicz		Alex Mascioli	76(6) 62
-21-93245	1	101	1	6	1	i6u0ao		6cropu		R6		Erik Gran		Alex Mascioli	16 63 [8]
-21-93245	1	101	1	3	1	3fyn4d		i6u0ao		R3		Stijn Paardekooper		Erik Gran	61 63
-21-93245	1	101	1	2	1	3fyn4d		n44m8y		R2		Stijn Paardekooper		Kaipo Marshall	76(2) 64
-21-93245	1	101	1	2	1	i6u0ao		gtehoz		R2		Erik Gran		Michael Pawlowicz	76(7) 60
-21-93245	1	101	1	1	1	3fyn4d		gtehoz		R1		Stijn Paardekooper		Michael Pawlowicz	61 63
-21-93245	1	102	1	5	1	crmng1		juawag		R5		Dan Pergel		Javi Pla	36 76(2) [5]
-21-93245	1	102	1	4	1	juawag		4r5d15		R4		Javi Pla		Marco Rivolo	76(4) 62
-21-93245	1	102	1	2	1	zc42sa		4r5d15		R2		Jin Dassanayake		Marco Rivolo	61 64
-21-93245	1	102	1	2	1	n44m8y		crmng1		R2		Kaipo Marshall		Dan Pergel	64 62
-21-93245	1	102	1	1	1	crmng1		4r5d15		R1		Dan Pergel		Marco Rivolo	36 23 Ret.
-21-93245	1	102	1	1	1	16bapk		n44m8y		R1		Nathan Favier		Kaipo Marshall	75 62
-21-93245	1	103	1	7	1	16bapk		4gf8h6		R7		Nathan Favier		Shourya Verma	67(4) 62 [5]
-21-93245	1	103	1	6	1	4gf8h6		z2cs00		R6		Shourya Verma		Jean Marrero	63 64
-21-93245	1	103	1	3	1	4gf8h6		zc42sa		R3		Shourya Verma		Jin Dassanayake	63 62
-21-93245	1	103	1	3	1	asaaem		z2cs00		R3		David Alvarez Moreno		Jean Marrero	63 57 [4]
-21-93245	1	103	1	1	1	mc8y4q		zc42sa		R1		Clement Mainguy		Jin Dassanayake	61 61
-21-93245	1	103	1	1	1	z2cs00		9xbj7b		R1		Jean Marrero		William Everett	63 64
-21-93245	1	104	1	6	1	juawag		wbz5ft		R6		Javi Pla		Liam Wickwire	64 62
-21-93245	1	104	1	6	1	asaaem		d11j5v		R6		David Alvarez Moreno		William Schneideman	63 64
-21-93245	1	104	1	5	1	1m80kw		e9olmr		R5		Tamirlan Teberikov		Anshumat Srivastava	64 67(4) [4]
-21-93245	1	104	1	2	1	t3vtj1		d11j5v		R2		Kyle Weekes		William Schneideman	61 61
-21-93245	1	104	1	1	1	d11j5v		wbz5ft		R1		William Schneideman		Liam Wickwire	76(4) 64
-21-93245	1	104	1	1	1	mc8y4q		t3vtj1		R1		Clement Mainguy		Kyle Weekes	63 62
-21-93245	1	105	1	3	1	16bapk		hct4v2		R3		Nathan Favier		Luke Rieman	60 60
-21-93245	1	105	1	3	1	kimwys		hyo88o		R3		Asier Pena Ibanez		Courage Crawford	61 64
-21-93245	1	105	1	1	1	hct4v2		hyo88o		R1		Luke Rieman		Courage Crawford	63 62
-21-93245	1	106	1	7	1	bh3vfr		vxjbv7		R7		Charalampos Fouzas		Bode Vance	63 61
-21-93245	1	106	1	7	1	5p5r5b		3vrhn9		R7		Adi Ben Ari		Luke Young	16 75 [7]
-21-93245	1	106	1	6	1	bh3vfr		5p5r5b		R6		Charalampos Fouzas		Adi Ben Ari	60 61
-21-93245	1	106	1	3	1	3vrhn9		vxjbv7		R3		Luke Young		Bode Vance	63 63
-21-93245	1	106	1	2	1	mc8y4q		3vrhn9		R2		Clement Mainguy		Luke Young	62 61
-21-93245	1	106	1	1	1	vxjbv7		hyo88o		R1		Bode Vance		Courage Crawford	63 60
-21-93245	1	107	1	5	1	9xbj7b		e9olmr		R5		William Everett		Anshumat Srivastava	64 16 [7]
-21-93245	1	107	1	4	1	8wlg3i		g6f610		R4		Norka Sanchez		Joey Matthews	61 76(4)
-21-93245	1	107	1	2	1	8wlg3i		kimwys		R2		Norka Sanchez		Asier Pena Ibanez	63 64
-21-93245	1	107	1	1	1	e9olmr		8wlg3i		R1		Anshumat Srivastava		Norka Sanchez	62 64
-21-93245	1	107	1	1	1	5p5r5b		wbz5ft		R1		Adi Ben Ari		Liam Wickwire	64 61
 21-93292	1	101	1	4	1	88kece		0bgfup		F		Miroslav Cvjetan		Yudai Teruyama	84
 21-93292	1	101	1	3	1	0bgfup		azb535		SF		Yudai Teruyama		Abraham Yohannes	87(3)
 21-93292	1	101	1	3	1	88kece		gffxj9		SF		Miroslav Cvjetan		Andrea Moro	84
