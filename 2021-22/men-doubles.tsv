@@ -1,8 +1,8 @@
 ---
-tournaments: 360
-players: 4854
-matches: 5778
-completed: 5778
+tournaments: 361
+players: 4872
+matches: 5814
+completed: 5814
 scheduled: 0
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -3619,6 +3619,42 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-67582	2	103	1	2	1	i4262q	7pfzzf	8z5tlh	e4262q	R2		Harris/Van Wyk		Kam/Guell	76(4)
 21-67582	2	103	1	1	1	8z5tlh	e4262q	2fyn4d	8va78d	R1		Kam/Guell		Penagos/Zipay	61
 21-67582	2	103	1	1	1	kfhdph	pm448g	i4262q	7pfzzf	R1		Rengifo/Lobo		Harris/Van Wyk	61
+21-67914	2	101	1	3	1	wdrznr	1bgfup	savy5g	cag4ws	F		Vilarroig Martinez/…		Ferruzzi/Krzewinski	87(6)
+21-67914	2	101	1	2	1	savy5g	cag4ws	caeoqk	j2e868	SF		Ferruzzi/Krzewinski		Hermange/Panosso	84
+21-67914	2	101	1	2	1	wdrznr	1bgfup	fmysqs	0ybu58	SF		Vilarroig Martinez/…		Amadike/Moore	87(3)
+21-67914	2	101	1	1	1	savy5g	cag4ws	ehml0v	32acus	QF		Ferruzzi/Krzewinski		Gonzalez Fernandez/…	87(5)
+21-67914	2	101	1	1	1	caeoqk	j2e868	rkpo3y	gf03al	QF		Hermange/Panosso		Burk/Triantafel	84
+21-67914	2	101	1	1	1	wdrznr	1bgfup	an2z05	32zexk	QF		Vilarroig Martinez/…		Phillips/Wolf	87(3)
+21-67914	2	101	1	1	1	fmysqs	0ybu58	35w5iz	o9i943	QF		Amadike/Moore		Cassens/Hart	82
+21-67914	2	101	2	2	1	ehml0v	32acus	an2z05	32zexk	F		Gonzalez Fernandez/…		Phillips/Wolf	83
+21-67914	2	101	2	1	1	ehml0v	32acus	rkpo3y	gf03al	SF		Gonzalez Fernandez/…		Burk/Triantafel	84
+21-67914	2	101	2	1	1	an2z05	32zexk	35w5iz	o9i943	SF		Phillips/Wolf		Cassens/Hart	83
+21-67914	2	101	3	1	1	fmysqs	0ybu58	caeoqk	j2e868	F		Amadike/Moore		Hermange/Panosso	83
+21-67914	2	101	4	1	1	35w5iz	o9i943	rkpo3y	gf03al	F		Cassens/Hart		Burk/Triantafel	81
+21-67914	2	102	1	3	1	0mpazs	avrhn9	goyemm	1jgve1	F		Schulte/Welker		Owens/Maack	84
+21-67914	2	102	1	2	1	goyemm	1jgve1	rq9yfo	gely30	SF		Owens/Maack		Sengphommachanh/Red	80
+21-67914	2	102	1	2	1	0mpazs	avrhn9	2wdofm	b77pb1	SF		Schulte/Welker		Broach/Erickson	81
+21-67914	2	102	1	1	1	goyemm	1jgve1	tojkdy	3qkwcw	QF		Owens/Maack		Turnbull/Cross	80
+21-67914	2	102	1	1	1	rq9yfo	gely30	u69ujc	h13zb3	QF		Sengphommachanh/Red		Boudreau/Vayara	85
+21-67914	2	102	1	1	1	2wdofm	b77pb1	haxebo	ymhibw	QF		Broach/Erickson		Hofland/Barter	84
+21-67914	2	102	1	1	1	0mpazs	avrhn9	ynj9f1	2mnutk	QF		Schulte/Welker		Nair/McCoy	80
+21-67914	2	102	2	2	1	u69ujc	h13zb3	ynj9f1	2mnutk	F		Boudreau/Vayara		Nair/McCoy	81
+21-67914	2	102	2	1	1	u69ujc	h13zb3	tojkdy	3qkwcw	SF		Boudreau/Vayara		Turnbull/Cross	83
+21-67914	2	102	2	1	1	ynj9f1	2mnutk	haxebo	ymhibw	SF		Nair/McCoy		Hofland/Barter	81
+21-67914	2	102	3	1	1	rq9yfo	gely30	2wdofm	b77pb1	F		Sengphommachanh/Red		Broach/Erickson	83
+21-67914	2	102	4	1	1	tojkdy	3qkwcw	haxebo	ymhibw	F		Turnbull/Cross		Hofland/Barter	80
+21-67914	2	103	1	3	1	ork7at	8efmlc	aixuv0	bh7rr7	F		Marino/Friese		Blomquist/Mears	81
+21-67914	2	103	1	2	1	ork7at	8efmlc	reww08	rpb3nz	SF		Marino/Friese		Caldwell/Naylor	80
+21-67914	2	103	1	2	1	aixuv0	bh7rr7	xcnsde	autmvk	SF		Blomquist/Mears		Dyer/Saint-Paul	86
+21-67914	2	103	1	1	1	ork7at	8efmlc	fm2o28	xj3hbl	QF		Marino/Friese		Gonzales/Urraca Moz…	83
+21-67914	2	103	1	1	1	reww08	rpb3nz	ccaeay	xqq8uk	QF		Caldwell/Naylor		Nowell/Pierson	83
+21-67914	2	103	1	1	1	xcnsde	autmvk	7jkrqh	dxstm7	QF		Dyer/Saint-Paul		Sibley-Diggs/Cortez	82
+21-67914	2	103	1	1	1	aixuv0	bh7rr7	xgbc5q	7ak088	QF		Blomquist/Mears		McCaffery/Strupp	81
+21-67914	2	103	2	2	1	fm2o28	xj3hbl	xgbc5q	7ak088	F		Gonzales/Urraca Moz…		McCaffery/Strupp	82
+21-67914	2	103	2	1	1	fm2o28	xj3hbl	ccaeay	xqq8uk	SF		Gonzales/Urraca Moz…		Nowell/Pierson	80
+21-67914	2	103	2	1	1	xgbc5q	7ak088	7jkrqh	dxstm7	SF		McCaffery/Strupp		Sibley-Diggs/Cortez	85
+21-67914	2	103	3	1	1	xcnsde	autmvk	reww08	rpb3nz	F		Dyer/Saint-Paul		Caldwell/Naylor	84
+21-67914	2	103	4	1	1	7jkrqh	dxstm7	ccaeay	xqq8uk	F		Sibley-Diggs/Cortez		Nowell/Pierson	82
 21-67948	2	101	1	1	1	1795h9	nzm30d	r4h0be	loh47q	16		Kapoor/Haddou		Boland/Rotundo	62
 21-67948	2	101	1	1	1	z44m8y	simwys	mutmvk	zejixs	16		Lopez/Rachal		Rivera-Gordillo/Mast	61
 21-67948	2	101	1	1	1	y7595t	e0g2gm	yfhdph	zgu2qu	16		Brandherm/De Medeir…		Rompere/Quintana	61

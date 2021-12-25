@@ -1,8 +1,8 @@
 ---
-tournaments: 365
-players: 5025
-matches: 13594
-completed: 13584
+tournaments: 366
+players: 5046
+matches: 13664
+completed: 13654
 scheduled: 10
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -8266,6 +8266,76 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-67582	1	103	3	1	1	va1an4		2fyn4d		F	4	Joseph Schrader	3	Esteban Penagos	Walkover
 21-67582	1	103	4	1	1	nutmvk		8va78d		F		Collin Shick		Ben Zipay	75 76(5)
 21-67582	1	104	1	1	1	heugu0		pm448g		F		Joaquim Almeida		Hugo Lobo	63 63
+21-67914	1	101	1	3	1	wdrznr		caeoqk		F		Ramon Vilarroig Mar…		Arthur Hermange	63 76(6)
+21-67914	1	101	1	2	1	wdrznr		0ybu58		SF		Ramon Vilarroig Mar…		Daniel Moore	63 62
+21-67914	1	101	1	2	1	caeoqk		cag4ws		SF		Arthur Hermange		Myles Krzewinski	64 64
+21-67914	1	101	1	1	1	wdrznr		gf03al		QF		Ramon Vilarroig Mar…		Demetrios Triantafel	60 60
+21-67914	1	101	1	1	1	0ybu58		o9i943		QF		Daniel Moore		Ben Hart	61 60
+21-67914	1	101	1	1	1	cag4ws		1jgve1		QF		Myles Krzewinski		Clayton Maack	64 62
+21-67914	1	101	1	1	1	caeoqk		1bgfup		QF		Arthur Hermange		Javier Suarez Balse…	62 64
+21-67914	1	101	2	2	1	1bgfup		o9i943		F		Javier Suarez Balse…		Ben Hart	64 60
+21-67914	1	101	2	1	1	o9i943		gf03al		SF		Ben Hart		Demetrios Triantafel	60 63
+21-67914	1	101	2	1	1	1bgfup		1jgve1		SF		Javier Suarez Balse…		Clayton Maack	64 75
+21-67914	1	101	4	1	1	1jgve1		gf03al		F		Clayton Maack		Demetrios Triantafel	75 26 [3]
+21-67914	1	102	1	3	1	ehml0v		avrhn9		F		Guillermo Gonzalez …		Nicolas Welker	64 60
+21-67914	1	102	1	2	1	avrhn9		32zexk		SF		Nicolas Welker		Theodor Wolf	62 60
+21-67914	1	102	1	2	1	ehml0v		0mpazs		SF		Guillermo Gonzalez …		Tripp Schulte	64 75
+21-67914	1	102	1	1	1	avrhn9		rkpo3y		QF		Nicolas Welker		Carter Burk	60 60
+21-67914	1	102	1	1	1	32zexk		32acus		QF		Theodor Wolf		Andy Hinch	46 61 [7]
+21-67914	1	102	1	1	1	ehml0v		goyemm		QF		Guillermo Gonzalez …		Holden Owens	62 60
+21-67914	1	102	1	1	1	0mpazs		j2e868		QF		Tripp Schulte		Leonardo Panosso	63 26 [6]
+21-67914	1	102	2	2	1	j2e868		rkpo3y		F		Leonardo Panosso		Carter Burk	61 62
+21-67914	1	102	2	1	1	rkpo3y		32acus		SF		Carter Burk		Andy Hinch	64 63
+21-67914	1	102	2	1	1	j2e868		goyemm		SF		Leonardo Panosso		Holden Owens	62 61
+21-67914	1	102	3	1	1	32zexk		0mpazs		F		Theodor Wolf		Tripp Schulte	64 57 [5]
+21-67914	1	102	4	1	1	goyemm		32acus		F		Holden Owens		Andy Hinch	63 75
+21-67914	1	103	1	3	1	fmysqs		h13zb3		F		Yanozie Amadike		Deepak Vayara	63 63
+21-67914	1	103	1	2	1	fmysqs		an2z05		SF		Yanozie Amadike		Cole Phillips	62 63
+21-67914	1	103	1	2	1	h13zb3		rq9yfo		SF		Deepak Vayara		Matt Sengphommachanh	64 46 [6]
+21-67914	1	103	1	1	1	an2z05		2mnutk		QF		Cole Phillips		Ryan McCoy	64 60
+21-67914	1	103	1	1	1	fmysqs		autmvk		QF		Yanozie Amadike		Eliot Saint-Paul	61 63
+21-67914	1	103	1	1	1	rq9yfo		b77pb1		QF		Matt Sengphommachanh		Cory Erickson	60 62
+21-67914	1	103	1	1	1	h13zb3		tojkdy		QF		Deepak Vayara		Evan Turnbull	62 62
+21-67914	1	103	2	2	1	autmvk		tojkdy		F		Eliot Saint-Paul		Evan Turnbull	36 76(4) [6]
+21-67914	1	103	2	1	1	autmvk		2mnutk		SF		Eliot Saint-Paul		Ryan McCoy	62 62
+21-67914	1	103	2	1	1	tojkdy		b77pb1		SF		Evan Turnbull		Cory Erickson	63 60
+21-67914	1	103	3	1	1	rq9yfo		an2z05		F		Matt Sengphommachanh		Cole Phillips	63 76(7)
+21-67914	1	103	4	1	1	2mnutk		b77pb1		F		Ryan McCoy		Cory Erickson	61 64
+21-67914	1	104	1	2	1	savy5g		bh7rr7		SF		Cooper Ferruzzi		Steven Mears	63 75
+21-67914	1	104	1	2	1	ork7at		gely30		SF		Nick Marino		Morgan Red	26 63 [5]
+21-67914	1	104	1	1	1	savy5g		ymhibw		QF		Cooper Ferruzzi		Luke Barter	60 61
+21-67914	1	104	1	1	1	bh7rr7		reww08		QF		Steven Mears		Justin Caldwell	61 61
+21-67914	1	104	1	1	1	gely30		35w5iz		QF		Morgan Red		Justin Cassens	64 75
+21-67914	1	104	1	1	1	ork7at		ynj9f1		QF		Nick Marino		Shanku Nair	63 76(4)
+21-67914	1	104	2	2	1	35w5iz		ymhibw		F		Justin Cassens		Luke Barter	62 64
+21-67914	1	104	2	1	1	ymhibw		reww08		SF		Luke Barter		Justin Caldwell	64 60
+21-67914	1	104	2	1	1	35w5iz		ynj9f1		SF		Justin Cassens		Shanku Nair	75 63
+21-67914	1	104	4	1	1	ynj9f1		reww08		F		Shanku Nair		Justin Caldwell	60 61
+21-67914	1	105	1	3	1	8efmlc		u69ujc		F		Hayden Friese		Kyle Boudreau	76(6) 64
+21-67914	1	105	1	2	1	u69ujc		3qkwcw		SF		Kyle Boudreau		Ezekiel Cross	60 61
+21-67914	1	105	1	2	1	8efmlc		fm2o28		SF		Hayden Friese		Dieter Gonzales	76(7) 62
+21-67914	1	105	1	1	1	u69ujc		haxebo		QF		Kyle Boudreau		Ian Hofland	60 61
+21-67914	1	105	1	1	1	3qkwcw		2wdofm		QF		Ezekiel Cross		James Broach	62 62
+21-67914	1	105	1	1	1	fm2o28		xcnsde		QF		Dieter Gonzales		Jesse Dyer	75 62
+21-67914	1	105	1	1	1	8efmlc		xgbc5q		QF		Hayden Friese		Jack McCaffery	61 62
+21-67914	1	105	2	2	1	xcnsde		2wdofm		F		Jesse Dyer		James Broach	63 60
+21-67914	1	105	2	1	1	2wdofm		haxebo		SF		James Broach		Ian Hofland	46 61 [5]
+21-67914	1	105	2	1	1	xcnsde		xgbc5q		SF		Jesse Dyer		Jack McCaffery	64 75
+21-67914	1	105	3	1	1	fm2o28		3qkwcw		F		Dieter Gonzales		Ezekiel Cross	60 63
+21-67914	1	106	1	2	1	xj3hbl		rpb3nz		SF		Daniel Urraca Mozos		Reiss Naylor	60 64
+21-67914	1	106	1	2	1	aixuv0		7jkrqh		SF		Douglas Blomquist		Jordan Sibley-Diggs	61 61
+21-67914	1	106	1	1	1	xj3hbl		xqq8uk		QF		Daniel Urraca Mozos		Ben Pierson	60 60
+21-67914	1	106	1	1	1	rpb3nz		7z9pxx		QF		Reiss Naylor		Emilio Rodriguez	61 61
+21-67914	1	106	1	1	1	7jkrqh		7ak088		QF		Jordan Sibley-Diggs		Ryan Strupp	76(3) 64
+21-67914	1	106	1	1	1	aixuv0		0utmvk		QF		Douglas Blomquist		David Russ	61 63
+21-67914	1	106	2	2	1	0utmvk		xqq8uk		F		David Russ		Ben Pierson	62 26 [7]
+21-67914	1	106	2	1	1	xqq8uk		7z9pxx		SF		Ben Pierson		Emilio Rodriguez	76(4) 75
+21-67914	1	106	2	1	1	0utmvk		7ak088		SF		David Russ		Ryan Strupp	76(5) 61
+21-67914	1	106	3	1	1	rpb3nz		7jkrqh		F		Reiss Naylor		Jordan Sibley-Diggs	76(4) 63
+21-67914	1	106	4	1	1	7ak088		7z9pxx		F		Ryan Strupp		Emilio Rodriguez	62 61
+21-67914	1	107	1	3	1	ccaeay		dxstm7		R3		Jordan Nowell		Joshua Cortez	57 64 [6]
+21-67914	1	107	1	2	1	dxstm7		3bpxlp		R2		Joshua Cortez		Josiah Bailey	62 26 [5]
+21-67914	1	107	1	1	1	ccaeay		3bpxlp		R1		Jordan Nowell		Josiah Bailey	64 57
 21-67948	1	101	1	1	1	r4h0be		1795h9		32		Ryan Boland		Vansh Kapoor	85
 21-67948	1	101	1	1	1	nzm30d		loh47q		32		Anas Haddou		Gustavo Rotundo	84
 21-67948	1	101	1	1	1	z44m8y		mutmvk		32		Sebastian Lopez		Gilberto Rivera-Gor…	81
