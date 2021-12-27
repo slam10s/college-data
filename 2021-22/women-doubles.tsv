@@ -1,8 +1,8 @@
 ---
-tournaments: 257
-players: 4352
-matches: 4745
-completed: 4726
+tournaments: 361
+players: 5135
+matches: 6525
+completed: 6506
 scheduled: 19
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
@@ -4751,3 +4751,1783 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-70129	2	101	1	1	1	40kys2	rh7rr7	m0zs1q	fxffjr	64		Le/Mazurek		Espejo/Ndunduma	86
 21-70129	2	101	1	1	1	3g50n2	r2acus	tyqoew	bwnw9q	64		Baur/Gonzalez		Haag/Vassalluzzo	98(4)
 21-70129	2	101	1	1	1	zgsmkm	h1ch23	znlpl9	4unadw	64		Loria/Carra		Scime/Del Leon	81
+21-71023	2	101	1	1	1	iefmlc	bc42sa	ei5mjw	u9i943	SF		Gabriel/Cohen		Schmidt/Gupta	63
+21-71023	2	101	1	1	1	havy5g	uz3df9	9pdjt7	uwwe0q	SF		Foster/Di Francesco		Salinas/Clayton	63
+21-71023	2	102	1	1	1	havy5g	uz3df9	ei5mjw	u9i943	SF		Foster/Di Francesco		Schmidt/Gupta	75
+21-71023	2	102	1	1	1	iefmlc	bc42sa	0yms2g	5kpo3y	SF		Gabriel/Cohen		Alexis/Barnard	60
+21-71023	2	103	1	1	1	0h5blz	oe4oo4	te28iw	k2acus	SF		Hubeaut/Sumaia		Pasini/Hammoud	64
+21-71023	2	103	1	1	1	tupqj4	144m8y	te28iw	a2xyrc	SF		Jamir/Landstrom		Pasini/Rizk	64
+21-71023	2	104	1	1	1	0yms2g	5kpo3y	te28iw	a2xyrc	SF		Alexis/Barnard		Pasini/Rizk	64
+21-71023	2	104	1	1	1	k2acus	32gocg	9pdjt7	uwwe0q	SF		Hammoud/Talbert		Salinas/Clayton	61
+21-71023	2	105	1	1	1	havy5g	uz3df9	mz5tlh	sfyn4d	SF		Foster/Di Francesco		Klapman/Pax	63
+21-71023	2	105	1	1	1	9pdjt7	uwwe0q	w9zjjz	qtvr3v	SF		Salinas/Clayton		DeNardo/Menten	75
+21-71023	2	106	1	1	1	0h5blz	oe4oo4	q7wret	h36rg9	SF		Hubeaut/Sumaia		Spurka/Gasser	75
+21-71023	2	106	1	1	1	psvg5y	a2xyrc	9pdjt7	uwwe0q	SF		Dovgopolyi/Rizk		Salinas/Clayton	61
+21-71023	2	107	1	1	1	ei5mjw	u9i943	4n2z05	jfursx	SF		Schmidt/Gupta		Porter/Harden	61
+21-71023	2	107	1	1	1	0yms2g	5kpo3y	9pdjt7	uwwe0q	SF		Alexis/Barnard		Salinas/Clayton	62
+21-71023	2	108	1	1	1	9pdjt7	uwwe0q	z9x3dr	yr3xvx	SF		Salinas/Clayton		Barnard/Mauro	62
+21-71023	2	108	1	1	1	0yms2g	5kpo3y	0h5blz	oe4oo4	SF		Alexis/Barnard		Hubeaut/Sumaia	76(4)
+21-71023	2	109	1	1	1	ei5mjw	u9i943	9pdjt7	uwwe0q	SF		Schmidt/Gupta		Salinas/Clayton	64
+21-71023	2	109	1	1	1	4n2z05	jfursx	z9x3dr	yr3xvx	SF		Porter/Harden		Barnard/Mauro	64
+21-71515	4	101	1	5	1	87ub8l	ula5s7	vffxj9	d9m5gj	F		Pinto/Novati		Mundo/Paradise	64 61
+21-71515	4	101	1	4	1	vffxj9	d9m5gj	kaeoqk	73ph1d	SF		Mundo/Paradise		Goranova/Hrnjak	84
+21-71515	4	101	1	4	1	87ub8l	ula5s7	dg9wzi	5put83	SF		Pinto/Novati		Khoroshveskaya/Ortiz	82
+21-71515	4	101	1	3	1	vffxj9	d9m5gj	0st0zq	ys38tu	QF		Mundo/Paradise		Brubacher/Wait	85
+21-71515	4	101	1	3	1	kaeoqk	73ph1d	8x0la3	4ro3m9	QF		Goranova/Hrnjak		Straznicky/Souvannn…	84
+21-71515	4	101	1	3	1	dg9wzi	5put83	ge0sco	h5w5iz	QF		Khoroshveskaya/Ortiz		Loving/Coe	86
+21-71515	4	101	1	3	1	87ub8l	ula5s7	x0kys2	g3n1v5	QF		Pinto/Novati		Lumanog/Do Lago	84
+21-71515	4	101	1	2	1	0st0zq	ys38tu	ztvr3v	42rm9o	16		Brubacher/Wait		Morales/Ferrel	84
+21-71515	4	101	1	2	1	vffxj9	d9m5gj	vwwe0q	ahipof	16		Mundo/Paradise		Chakraborty/Addey	81
+21-71515	4	101	1	2	1	8x0la3	4ro3m9	re0sco	9qbelw	16		Straznicky/Souvannn…		Lima/Weston	84
+21-71515	4	101	1	2	1	kaeoqk	73ph1d	f462e6	a8qqu2	16		Goranova/Hrnjak		Powers/Ochoa	82
+21-71515	4	101	1	2	1	ge0sco	h5w5iz	fojkdy	ap77bj	16		Loving/Coe		Wolfe/Ferraz-Porto	84
+21-71515	4	101	1	2	1	dg9wzi	5put83	2gsmkm	pxffjr	16		Khoroshveskaya/Ortiz		Krehbiel/Nemi	85
+21-71515	4	101	1	2	1	x0kys2	g3n1v5	p2cs00	a7blnh	16		Lumanog/Do Lago		Maples/Maxey	82
+21-71515	4	101	1	2	1	87ub8l	ula5s7	wqbelw	0e0sco	16		Pinto/Novati		Van der Torre/Macke	80
+21-71515	4	101	1	1	1	0st0zq	ys38tu	abpxlp	hd2xkz	32		Brubacher/Wait		Bradshaw-Douglas/Gr…	80
+21-71515	4	101	1	1	1	ztvr3v	42rm9o	0psd2v	3b8n6t	32		Morales/Ferrel		Marin/Castro Medina	82
+21-71515	4	101	1	1	1	vffxj9	d9m5gj	c7d1tp	c6hm78	32		Mundo/Paradise		Shelton/Richard	82
+21-71515	4	101	1	1	1	vwwe0q	ahipof	cgf8h6	23vtj1	32		Chakraborty/Addey		Williams/Wood	82
+21-71515	4	101	1	1	1	re0sco	9qbelw	uwf4lu	k834xi	32		Lima/Weston		Felder/Fanton	80
+21-71515	4	101	1	1	1	8x0la3	4ro3m9	fgdsby	tzi7ox	32		Straznicky/Souvannn…		Selwesiuk/Archer	83
+21-71515	4	101	1	1	1	f462e6	a8qqu2	vc8y4q	cgbc5q	32		Powers/Ochoa		Krivek/McGrown	82
+21-71515	4	101	1	1	1	kaeoqk	73ph1d	myukqc	ntc1ir	32		Goranova/Hrnjak		Payton/Mahoney	86
+21-71515	4	101	1	1	1	ge0sco	h5w5iz	uscqku	xscqku	32		Loving/Coe		Carlson/Comley	82
+21-71515	4	101	1	1	1	fojkdy	ap77bj	m32v4t	ld0her	32		Wolfe/Ferraz-Porto		Acena/Chiasson	83
+21-71515	4	101	1	1	1	2gsmkm	pxffjr	hxwpyn	ifw7y5	32		Krehbiel/Nemi		Lauby/Kucera	82
+21-71515	4	101	1	1	1	dg9wzi	5put83	34nct2	j4262q	32		Khoroshveskaya/Ortiz		Noel/Gunn	82
+21-71515	4	101	1	1	1	x0kys2	g3n1v5	sw2qie	xvh9t5	32		Lumanog/Do Lago		Phan/Burk	81
+21-71515	4	101	1	1	1	p2cs00	a7blnh	6xffjr	uh7rr7	32		Maples/Maxey		Moore/Moore	84
+21-71515	4	101	1	1	1	wqbelw	0e0sco	g0xcvi	lhk5un	32		Van der Torre/Macke		Benson/Crowe	86
+21-71515	4	101	1	1	1	87ub8l	ula5s7	0se6q2	msvg5y	32		Pinto/Novati		Glosser/Fox	82
+21-71605	2	101	1	1	1	zag4ws	31a1wv	ojgve1	z2p63g	16		Lopez/Aguiar		Lau/Benedetto	62
+21-71605	2	101	1	1	1	zjx5tx	wxqdgz	kfb17t	bd4dq7	16		Hofflander/Ahlstrom		Edwards/Mahajan	64
+21-71605	2	101	1	1	1	yput83	iag4ws	jqbelw	7q5238	16		Peus/Mariotti		Wilcox/Irani	61
+21-71605	2	101	1	1	1	j9kpab	ann5rh	drxld9	ydap8v	16		Marculescu/You		Bhan/Zhang	75
+21-71605	2	101	1	1	1	qjx5tx	x1a1wv	fxbj7b	y0kys2	16		Kerr/Amineni		Eason/Lim	63
+21-71605	2	101	1	1	1	ggq6ee	uro3m9	ucvk1a	t7wret	16		Gawande/Snyder		Xu/Tewolde	62
+21-71605	2	102	1	1	1	drxld9	ydap8v	ojgve1	z2p63g	16		Bhan/Zhang		Lau/Benedetto	63
+21-71605	2	102	1	1	1	qjx5tx	x1a1wv	yput83	iag4ws	16		Kerr/Amineni		Peus/Mariotti	75
+21-71605	2	102	1	1	1	y5l7lr	zjx5tx	ucvk1a	t7wret	16		Reddy/Hofflander		Xu/Tewolde	64
+21-71605	2	102	1	1	1	qbz5ft	vo0usu	vkv0lm	wxqdgz	16		Wood/Strugnell		Newman/Ahlstrom	63
+21-71605	2	102	1	1	1	zag4ws	31a1wv	y0kys2	ggq6ee	16		Lopez/Aguiar		Lim/Gawande	64
+21-71605	2	102	1	1	1	kfb17t	bd4dq7	j9kpab	uro3m9	16		Edwards/Mahajan		Marculescu/Snyder	63
+21-71605	2	103	1	1	1	ytrvrf	bscqku	ojgve1	z2p63g	16		Duncan/Daujotaite		Lau/Benedetto	63
+21-71605	2	103	1	1	1	y5l7lr	zjx5tx	y0kys2	ggq6ee	16		Reddy/Hofflander		Lim/Gawande	75
+21-71605	2	103	1	1	1	yput83	iag4ws	j9kpab	uro3m9	16		Peus/Mariotti		Marculescu/Snyder	63
+21-71605	2	103	1	1	1	zag4ws	31a1wv	drxld9	ydap8v	16		Lopez/Aguiar		Bhan/Zhang	64
+21-71605	2	103	1	1	1	qjx5tx	x1a1wv	kfb17t	bd4dq7	16		Kerr/Amineni		Edwards/Mahajan	63
+21-71605	2	103	1	1	1	qbz5ft	vo0usu	jqbelw	7q5238	16		Wood/Strugnell		Wilcox/Irani	60
+21-72007	2	101	1	4	1	kny3op	cwhkr2	fcp8jm	exdzdj	F	1	Giavara/Ivanov		Honer/Khatamova	86
+21-72007	2	101	1	3	1	kny3op	cwhkr2	glpz1v	5gf8h6	SF	1	Giavara/Ivanov		Jankowski/Turkovic	83
+21-72007	2	101	1	3	1	fcp8jm	exdzdj	zccug6	1kpo3y	SF		Honer/Khatamova		Thamchaiwat/Arnold	86
+21-72007	2	101	1	2	1	kny3op	cwhkr2	zc2mm2	6y9ez0	QF	1	Giavara/Ivanov		Abramyan/Huang	86
+21-72007	2	101	1	2	1	glpz1v	5gf8h6	spqxwn	iq5238	QF		Jankowski/Turkovic	4	Goncharova/Huang	87(7)
+21-72007	2	101	1	2	1	fcp8jm	exdzdj	kg50n2	by7yts	QF		Honer/Khatamova	3	Argyrokastriti/Gall…	86
+21-72007	2	101	1	2	1	zccug6	1kpo3y	26j2dg	grevs5	QF		Thamchaiwat/Arnold	2	Viller Moeller/Also…	87(6)
+21-72007	2	101	1	1	1	kny3op	cwhkr2	zybu58	603od6	16	1	Giavara/Ivanov		Mushika/Martinez Va…	84
+21-72007	2	101	1	1	1	zc2mm2	6y9ez0	9u8g48	4zi7ox	16		Abramyan/Huang		Lee/Alter	80
+21-72007	2	101	1	1	1	spqxwn	iq5238	sag4ws	1bxp9l	16	4	Goncharova/Huang		Kosan/Ruja	81
+21-72007	2	101	1	1	1	glpz1v	5gf8h6	kp9nhr	i13zb3	16		Jankowski/Turkovic		Ko/Tsukamoto	81
+21-72007	2	101	1	1	1	fcp8jm	exdzdj	mxqdgz	dll3pf	16		Honer/Khatamova		Ackerman/Bhunu	85
+21-72007	2	101	1	1	1	kg50n2	by7yts	emlenc	m3ansp	16	3	Argyrokastriti/Gall…		Kalinic/Petty	83
+21-72007	2	101	1	1	1	zccug6	1kpo3y	6ii0mc	82t2fw	16		Thamchaiwat/Arnold		Harris/Hovda	83
+21-72007	2	101	1	1	1	26j2dg	grevs5	cc42sa	gyqoew	16	2	Viller Moeller/Also…		Charalampidi/Genkova	83
+21-72007	2	101	2	3	1	kp9nhr	i13zb3	zybu58	603od6	SF		Ko/Tsukamoto		Mushika/Martinez Va…	87(6)
+21-72007	2	101	2	3	1	mxqdgz	dll3pf	6ii0mc	82t2fw	SF		Ackerman/Bhunu		Harris/Hovda	84
+21-72007	2	101	2	1	1	zybu58	603od6	9u8g48	4zi7ox	QQ		Mushika/Martinez Va…		Lee/Alter	82
+21-72007	2	101	2	1	1	kp9nhr	i13zb3	sag4ws	1bxp9l	QQ		Ko/Tsukamoto		Kosan/Ruja	84
+21-72007	2	101	2	1	1	mxqdgz	dll3pf	emlenc	m3ansp	QQ		Ackerman/Bhunu		Kalinic/Petty	81
+21-72007	2	101	2	1	1	6ii0mc	82t2fw	cc42sa	gyqoew	QQ		Harris/Hovda		Charalampidi/Genkova	85
+21-72007	2	102	1	4	1	mzm30d	oeww08	ztpfl7	p3tddt	F	3	Hayes/Courtney		Bruu-Syversen/Reuter	85
+21-72007	2	102	1	3	1	mzm30d	oeww08	ziza18	c6u0ao	SF	3	Hayes/Courtney	1	Galerkin/Gurevich	84
+21-72007	2	102	1	3	1	ztpfl7	p3tddt	bltvdb	3g7gta	SF		Bruu-Syversen/Reuter		Schwartzberg/Evloeva	83
+21-72007	2	102	1	2	1	ziza18	c6u0ao	i11j5v	lcnsde	QF	1	Galerkin/Gurevich		Schroer/Fileva	86
+21-72007	2	102	1	2	1	mzm30d	oeww08	julu7o	nw46om	QF	3	Hayes/Courtney		Brown/Tevez	87(3)
+21-72007	2	102	1	2	1	ztpfl7	p3tddt	i8qqu2	wx21gb	QF		Bruu-Syversen/Reuter	4	Pesqueira/Zlotnik	84
+21-72007	2	102	1	2	1	bltvdb	3g7gta	0xstm7	8r7t7d	QF		Schwartzberg/Evloeva	2	Carmichael/Wiese	86
+21-72007	2	102	1	1	1	i11j5v	lcnsde	abrdrx	hxhvpz	16		Schroer/Fileva		Del Barrio/Sarcelet	84
+21-72007	2	102	1	1	1	julu7o	nw46om	qtx793	qgf8h6	16		Brown/Tevez		Sam/Zamora	87(4)
+21-72007	2	102	1	1	1	ztpfl7	p3tddt	4kxgru	i60csc	16		Bruu-Syversen/Reuter		Rook/Silva	86
+21-72007	2	102	1	1	1	i8qqu2	wx21gb	h4nct2	4cvk1a	16	4	Pesqueira/Zlotnik		McSkimming/Yotova	86
+21-72007	2	102	2	4	1	4kxgru	i60csc	qtx793	qgf8h6	F		Rook/Silva		Sam/Zamora	84
+21-72007	2	102	2	3	1	qtx793	qgf8h6	abrdrx	hxhvpz	SF		Sam/Zamora		Del Barrio/Sarcelet	80
+21-72007	2	102	2	3	1	4kxgru	i60csc	0xstm7	8r7t7d	SF		Rook/Silva	2	Carmichael/Wiese	84
+21-72007	2	102	2	1	1	4kxgru	i60csc	h4nct2	4cvk1a	QQ		Rook/Silva		McSkimming/Yotova	81
+21-72007	2	103	1	4	1	ompazs	4uccgo	4q5238	80iimu	F	4	Richardson/Thiel	2	Kiss/Gonzalez-Ballbe	85
+21-72007	2	103	1	3	1	ompazs	4uccgo	b6f610	y95v1n	SF	4	Richardson/Thiel		Massey/Ronney	84
+21-72007	2	103	1	3	1	4q5238	80iimu	h7ub8l	a28wok	SF	2	Kiss/Gonzalez-Ballbe		Qiu/Chhabra	84
+21-72007	2	103	1	2	1	b6f610	y95v1n	236rg9	rnwnih	QF		Massey/Ronney	1	Gamracy/Colyer	84
+21-72007	2	103	1	2	1	ompazs	4uccgo	mp77bj	wny3op	QF	4	Richardson/Thiel		Dunyon/Heimuli	86
+21-72007	2	103	1	2	1	h7ub8l	a28wok	rxwpyn	3kauua	QF		Qiu/Chhabra		Lee/Hill	87(6)
+21-72007	2	103	1	2	1	4q5238	80iimu	sofo1i	j0meya	QF	2	Kiss/Gonzalez-Ballbe		Nadozie/Pitts	84
+21-72007	2	103	1	1	1	236rg9	rnwnih	em448g	7kv0lm	16	1	Gamracy/Colyer		Luneva/Moll Alles	83
+21-72007	2	103	1	1	1	b6f610	y95v1n	4hbn3n	5v0ze9	16		Massey/Ronney		Ung/Clydesdale-Eber…	86
+21-72007	2	103	1	1	1	ompazs	4uccgo	luawag	sgbc5q	16	4	Richardson/Thiel		Page/Maunupau	86
+21-72007	2	103	1	1	1	mp77bj	wny3op	d0187y	mz3df9	16		Dunyon/Heimuli		Johnson/Ferreros	82
+21-72007	2	103	1	1	1	h7ub8l	a28wok	gouia6	k4262q	16		Qiu/Chhabra		Hayer/Gordon	86
+21-72007	2	103	1	1	1	rxwpyn	3kauua	0ys4k4	qmhibw	16		Lee/Hill	3	LeRoy/Brilhante	80
+21-72007	2	103	1	1	1	sofo1i	j0meya	0d892n	va3qtc	16		Nadozie/Pitts		Stavropoulos/Zell	86
+21-72007	2	103	1	1	1	4q5238	80iimu	yx9313	wsgmwa	16	2	Kiss/Gonzalez-Ballbe		Bente/LaMette	87(4)
+21-72007	2	103	2	4	1	yx9313	wsgmwa	4hbn3n	5v0ze9	F		Bente/LaMette		Ung/Clydesdale-Eber…	85
+21-72007	2	103	2	3	1	4hbn3n	5v0ze9	luawag	sgbc5q	SF		Ung/Clydesdale-Eber…		Page/Maunupau	82
+21-72007	2	103	2	3	1	yx9313	wsgmwa	gouia6	k4262q	SF		Bente/LaMette		Hayer/Gordon	83
+21-72007	2	103	2	1	1	4hbn3n	5v0ze9	em448g	7kv0lm	QQ		Ung/Clydesdale-Eber…		Luneva/Moll Alles	85
+21-72007	2	103	2	1	1	luawag	sgbc5q	d0187y	mz3df9	QQ		Page/Maunupau		Johnson/Ferreros	82
+21-72007	2	103	2	1	1	gouia6	k4262q	0ys4k4	qmhibw	QQ		Hayer/Gordon	3	LeRoy/Brilhante	87(3)
+21-72007	2	103	2	1	1	yx9313	wsgmwa	0d892n	va3qtc	QQ		Bente/LaMette		Stavropoulos/Zell	83
+21-72007	2	104	1	1	1	spqxwn	iq5238	9u8g48	4zi7ox	QF		Goncharova/Huang		Lee/Alter	84
+21-72331	2	101	1	3	1	uyms2g	evnlbt	1d2xkz	kqq8uk	F		Ansari/Meredith		Gulihur/Oliveira	75
+21-72331	2	101	1	2	1	1d2xkz	kqq8uk	jtx793	4kv0lm	SF		Gulihur/Oliveira		Sharma/Mattel	76(5)
+21-72331	2	101	1	2	1	uyms2g	evnlbt	bkr496	oz9pxx	SF		Ansari/Meredith		Dudeney/Shelton	63
+21-72331	2	101	1	1	1	jtx793	4kv0lm	x8s60a	gqosoc	QF		Sharma/Mattel		Thompson/Louka	62
+21-72331	2	101	1	1	1	1d2xkz	kqq8uk	5axebo	tc2mm2	QF		Gulihur/Oliveira		Jacobs/Allen	62
+21-72331	2	101	1	1	1	uyms2g	evnlbt	ewdofm	jn4f6d	QF		Ansari/Meredith		Berry/Shumacher	62
+21-72331	2	101	1	1	1	bkr496	oz9pxx	ga1an4	3dpjhj	QF		Dudeney/Shelton		Sawhney/Schech	75
+21-72331	2	101	2	1	1	5axebo	tc2mm2	x8s60a	gqosoc	SF		Jacobs/Allen		Thompson/Louka	62
+21-72331	2	101	2	1	1	ga1an4	3dpjhj	ewdofm	jn4f6d	SF		Sawhney/Schech		Berry/Shumacher	64
+21-72331	2	101	3	1	1	bkr496	oz9pxx	jtx793	4kv0lm	F		Dudeney/Shelton		Sharma/Mattel	76(3)
+21-72331	2	102	1	3	1	5bezoh	tkxgru	znwnih	393fvf	F		Petruzelova/Safont		Buyckx/Mayorova	62
+21-72331	2	102	1	2	1	znwnih	393fvf	734ba1	xtgxu7	SF		Buyckx/Mayorova		Dahlstrom/Spee	64
+21-72331	2	102	1	2	1	5bezoh	tkxgru	rdn3bb	5tznfb	SF		Petruzelova/Safont		Nash/Yardley	64
+21-72331	2	102	1	1	1	734ba1	xtgxu7	jp5r5b	cb8n6t	QF		Dahlstrom/Spee		Borland/Clark	63
+21-72331	2	102	1	1	1	znwnih	393fvf	j4jghm	2kv0lm	QF		Buyckx/Mayorova		Eland/Mjos	63
+21-72331	2	102	1	1	1	5bezoh	tkxgru	97ub8l	qgwiw2	QF		Petruzelova/Safont		Pellicer Perello/Ti…	62
+21-72331	2	102	1	1	1	rdn3bb	5tznfb	cgdsby	tpfzzf	QF		Nash/Yardley		Russell/Yelamanchili	64
+21-72331	2	102	2	1	1	jp5r5b	cb8n6t	j4jghm	2kv0lm	SF		Borland/Clark		Eland/Mjos	64
+21-72331	2	102	2	1	1	cgdsby	tpfzzf	97ub8l	qgwiw2	SF		Russell/Yelamanchili		Pellicer Perello/Ti…	63
+21-72331	2	102	3	1	1	734ba1	xtgxu7	rdn3bb	5tznfb	F		Dahlstrom/Spee		Nash/Yardley	62
+21-72331	2	103	1	4	1	c1gdej	pgsmkm	nw0ac6	tpw9eb	R4		Long/Lodzki		Lavery/Theis	63
+21-72331	2	103	1	3	1	yd0her	mc42sa	nw0ac6	tpw9eb	R3		Davis/Chen		Lavery/Theis	63
+21-72331	2	103	1	2	1	yd0her	mc42sa	vr3xvx	lmagq4	R2		Davis/Chen		Mullen/Zhu	64
+21-72331	2	103	1	1	1	nw0ac6	tpw9eb	faase4	wwdofm	R1		Lavery/Theis		Amendola/Arkadianou	75
+21-72331	2	103	1	1	1	c1gdej	pgsmkm	vr3xvx	lmagq4	R1		Long/Lodzki		Mullen/Zhu	64
+21-72331	2	104	1	1	1	tc2mm2	wwdofm	ga1an4	3dpjhj	F		Allen/Arkadianou		Sawhney/Schech	64
+21-72331	2	105	1	1	1	x8s60a	gqosoc	jp5r5b	cb8n6t	F		Thompson/Louka		Borland/Clark	64
+21-72331	2	106	1	1	1	cgdsby	tpfzzf	jn4f6d	qgwiw2	F		Russell/Yelamanchili		Shumacher/Timmermans	62
+21-72331	2	107	1	1	1	yd0her	c1gdej	j4jghm	2kv0lm	F		Davis/Long		Eland/Mjos	76(3)
+21-72331	2	108	1	1	1	3gf8h6	lmagq4	ewdofm	ktvr3v	SF		Walther/Zhu		Berry/Mokhtari	63
+21-72331	2	108	1	1	1	5axebo	faase4	c1gdej	pgsmkm	SF		Jacobs/Amendola		Long/Lodzki	60
+21-72676	2	101	1	1	1	inht9t	6e4oo4	k3tddt	ntalcj	32		Karg/Silveira		Resor/Hadler	63
+21-72676	2	101	1	1	1	9hsxij	fnht9t	7p5r5b	o2cs00	32		Tsadari/Iglesias		Arquette/Krygier	64
+21-72676	2	101	1	1	1	7i36do	3zb535	1462e6	8dhrtn	32		Neuman/Vetter		Pereyra/Brito	62
+21-72676	2	101	1	1	1	ntpfl7	hjt9hh	86wggw	d91zp7	32		Barrett/Avram		Liong/Komar	76(3)
+21-72676	2	101	1	1	1	8t856b	u11j5v	5iza18	ln2z05	32		Cazacu/Ruyssen		Foster/Peace	63
+21-72676	2	101	1	1	1	n054je	cw0ac6	wowyge	1kr496	32		Shetty/Lepinay		Mandair/Douglas	64
+21-72676	2	102	1	1	1	7p5r5b	o2cs00	86wggw	8t856b	32		Arquette/Krygier		Liong/Cazacu	75
+21-72676	2	102	1	1	1	u11j5v	d91zp7	k3tddt	ntalcj	32		Ruyssen/Komar		Resor/Hadler	62
+21-72676	2	102	1	1	1	wowyge	1kr496	8dhrtn	mi36do	32		Mandair/Douglas		Brito/Nieto Soto	76(5)
+21-72676	2	102	1	1	1	inht9t	6e4oo4	ntpfl7	hjt9hh	32		Karg/Silveira		Barrett/Avram	64
+21-72676	2	102	1	1	1	n054je	cw0ac6	9hsxij	fnht9t	32		Shetty/Lepinay		Tsadari/Iglesias	63
+21-72676	2	102	1	1	1	7i36do	gla5s7	57blnh	5iza18	32		Neuman/Poppe		Matich-Reynolds/Fos…	62
+21-72676	2	103	1	1	1	cw0ac6	ntpfl7	7p5r5b	o2cs00	32		Lepinay/Barrett		Arquette/Krygier	63
+21-72676	2	103	1	1	1	k3tddt	ntalcj	hjt9hh	5iza18	32		Resor/Hadler		Avram/Foster	75
+21-72676	2	103	1	1	1	57blnh	ln2z05	1462e6	mi36do	32		Matich-Reynolds/Pea…		Pereyra/Nieto Soto	62
+21-72676	2	103	1	1	1	inht9t	6e4oo4	u11j5v	d91zp7	32		Karg/Silveira		Ruyssen/Komar	62
+21-72676	2	103	1	1	1	9hsxij	fnht9t	wowyge	1kr496	32		Tsadari/Iglesias		Mandair/Douglas	61
+21-72676	2	103	1	1	1	7i36do	3zb535	2p9nhr	z6wggw	32		Neuman/Vetter		Jewell/Laynes	63
+21-72773	2	101	1	1	1	ibxp9l	ab670l	4mjyh4	3efmlc	32		Richardson/Achong		Duong/Frazier	61
+21-72773	2	101	1	1	1	3e4oo4	vjx5tx	mse6q2	h3vtj1	32		Tahan/Khodan		Heuser/Yeah	75
+21-72773	2	101	1	1	1	9vh9t5	s8qqu2	ssvg5y	m8s60a	32		Boch-Collins/Pfennig		Ferrari/Treiber	63
+21-72773	2	101	1	1	1	sd6twf	njkrqh	s0g2gm	wr1hpp	32		Popova/Trbeznik		Casati/Ingle	60
+21-72773	2	101	1	1	1	p0187y	84lwnu	xm448g	mhsxij	32		Hsieh/Kezuka		Kourkina/Stevens	64
+21-72773	2	101	1	1	1	vx9313	rqmci4	3fhdph	2bgfup	32		Arrese/Gonzalez		Ross/Staff	76
+21-72773	2	101	1	1	1	09kpab	4q9yfo	3uv21s	4e4oo4	32		Long/Rompf		Urrutia/Stevens	64
+21-72773	2	101	1	1	1	x8oaou	xrgbyd	n1z3zn	p5ylo7	32		Lee/Cruz		Morante/Girbau	62
+21-74651	2	101	1	1	1	t07kpm	1z5tlh	ycp8jm	um448g	16		Tutunaru/Kohoutova		Janse van Rensburg/…	64
+21-74651	2	101	1	1	1	uaase4	k4r85i	5w46om	ybv93d	16		Aoki/van der Merwe		Song/Nanere	75
+21-74651	2	101	1	1	1	v4r85i	o6dqvs	l6dqvs	fuccgo	16		Zaprianov/Jablonski		Klienhans/Taknishi	62
+21-74651	2	101	1	1	1	64r85i	lpb3nz	sd6twf	njkrqh	16		Xin/Nonoyama		Popova/Trbeznik	61
+21-74651	2	101	1	1	1	ttznfb	1r1hpp	04jghm	4brdrx	16		Vasupongchai/Ishimu…		Diachenko/Dobranos	62
+21-74651	2	101	1	1	1	uny3op	rfw7y5	dwhkr2	dndxxd	16		Gledic/Lee		Howard/Bandy	64
+21-74651	2	101	1	1	1	9fursx	nh3vfr	8pfzzf	oa1an4	16		Hamanaga/Engback		Zakordonic/Richter	64
+21-74651	2	102	1	1	1	sd6twf	njkrqh	ycp8jm	um448g	16		Popova/Trbeznik		Janse van Rensburg/…	76(4)
+21-74651	2	102	1	1	1	04jghm	4brdrx	5w46om	ybv93d	16		Diachenko/Dobranos		Song/Nanere	75
+21-74651	2	102	1	1	1	v4r85i	o6dqvs	dwhkr2	dndxxd	16		Zaprianov/Jablonski		Howard/Bandy	64
+21-74651	2	102	1	1	1	t07kpm	1z5tlh	64r85i	lpb3nz	16		Tutunaru/Kohoutova		Xin/Nonoyama	64
+21-74651	2	102	1	1	1	uaase4	k4r85i	ttznfb	1r1hpp	16		Aoki/van der Merwe		Vasupongchai/Ishimu…	63
+21-74651	2	102	1	1	1	uny3op	rfw7y5	l6dqvs	fuccgo	16		Gledic/Lee		Klienhans/Taknishi	63
+21-74651	2	102	1	1	1	42acus	b7fhzx	8pfzzf	oa1an4	16		Hayduk/Waddles		Zakordonic/Richter	63
+21-74651	2	102	1	1	1	ws38tu	7zoj6l	9fursx	nh3vfr	16		Wood/Maras		Hamanaga/Engback	76(4)
+21-74651	2	103	1	1	1	ycp8jm	um448g	64r85i	lpb3nz	16		Janse van Rensburg/…		Xin/Nonoyama	61
+21-74651	2	103	1	1	1	ttznfb	1r1hpp	5w46om	ybv93d	16		Vasupongchai/Ishimu…		Song/Nanere	63
+21-74651	2	103	1	1	1	v4r85i	o6dqvs	uny3op	rfw7y5	16		Zaprianov/Jablonski		Gledic/Lee	64
+21-74651	2	103	1	1	1	42acus	b7fhzx	9fursx	nh3vfr	16		Hayduk/Waddles		Hamanaga/Engback	61
+21-74651	2	103	1	1	1	t07kpm	1z5tlh	sd6twf	njkrqh	16		Tutunaru/Kohoutova		Popova/Trbeznik	63
+21-74651	2	103	1	1	1	uaase4	k4r85i	04jghm	4brdrx	16		Aoki/van der Merwe		Diachenko/Dobranos	64
+21-74651	2	103	1	1	1	l6dqvs	fuccgo	dwhkr2	dndxxd	16		Klienhans/Taknishi		Howard/Bandy	61
+21-74684	4	101	1	5	1	g8qqu2	b89gf6	ccnsde	469ujc	F	2	Ragona/Shiau	1	Emery/Brascia	86
+21-74684	4	101	1	4	1	ccnsde	469ujc	m7ozqx	elnjvn	SF	1	Emery/Brascia		Carvajal/Fager	86
+21-74684	4	101	1	4	1	g8qqu2	b89gf6	jazuhw	65ylo7	SF	2	Ragona/Shiau	5	Neuburger-Higby/Her…	84
+21-74684	4	101	1	3	1	ccnsde	469ujc	vst0zq	2fjtvp	QF	1	Emery/Brascia	8	Brooner/Wong	86
+21-74684	4	101	1	3	1	m7ozqx	elnjvn	th3vfr	ybezoh	QF		Carvajal/Fager	7	Dudley/Rafols	85
+21-74684	4	101	1	3	1	jazuhw	65ylo7	g9kpab	k3ph1d	QF	5	Neuburger-Higby/Her…	3	Liga/Kane	83
+21-74684	4	101	1	3	1	g8qqu2	b89gf6	f6ywm4	ttpfl7	QF	2	Ragona/Shiau	6	Pearson/Audelo	Walkover
+21-74684	4	101	1	2	1	ccnsde	469ujc	tltvdb	39gtyv	16	1	Emery/Brascia		Romero/Coman	82
+21-74684	4	101	1	2	1	vst0zq	2fjtvp	ubpxlp	oiza18	16	8	Brooner/Wong		Brull/Di Matteo	82
+21-74684	4	101	1	2	1	m7ozqx	elnjvn	kpqxwn	0m448g	16		Carvajal/Fager		Hellbe/Leth	85
+21-74684	4	101	1	2	1	th3vfr	ybezoh	9m08w0	z8oaou	16	7	Dudley/Rafols		Casucci/Marques	84
+21-74684	4	101	1	2	1	jazuhw	65ylo7	sbz5ft	wqosoc	16	5	Neuburger-Higby/Her…		Waldburger/Livingst…	Walkover
+21-74684	4	101	1	2	1	g9kpab	k3ph1d	thk5un	os1snm	16	3	Liga/Kane		Carrillo/Richards	82
+21-74684	4	101	1	2	1	f6ywm4	ttpfl7	rtgxu7	qu4kss	16	6	Pearson/Audelo		Stienemeier/Cool	82
+21-74684	4	101	1	2	1	g8qqu2	b89gf6	ke28iw	bvh9t5	16	2	Ragona/Shiau		Olmos/Barnes	84
+21-74684	4	101	1	1	1	tltvdb	39gtyv	oltvdb	0a1an4	32		Romero/Coman		Rogers/Schreiber	81
+21-74684	4	101	1	1	1	vst0zq	2fjtvp	wc8y4q	z7blnh	32	8	Brooner/Wong		Mann/Mcneill	85
+21-74684	4	101	1	1	1	ubpxlp	oiza18	zi1q7g	7jzlz5	32		Brull/Di Matteo		Huk/Mulick	83
+21-74684	4	101	1	1	1	kpqxwn	0m448g	qh3vfr	kffxj9	32		Hellbe/Leth	4	Friedrich/Neilson	86
+21-74684	4	101	1	1	1	m7ozqx	elnjvn	1mhibw	7qosoc	32		Carvajal/Fager		Borodi/Leik	86
+21-74684	4	101	1	1	1	th3vfr	ybezoh	0ely30	e5w5iz	32	7	Dudley/Rafols		Richards/Campos	87(4)
+21-74684	4	101	1	1	1	9m08w0	z8oaou	e1gdej	xybu58	32		Casucci/Marques		Lam/Mayo	86
+21-74684	4	101	1	1	1	sbz5ft	wqosoc	30xcvi	bag4ws	32		Waldburger/Livingst…		Bulatovaite/Lavender	81
+21-74684	4	101	1	1	1	jazuhw	65ylo7	dvrhn9	etpfl7	32	5	Neuburger-Higby/Her…		Zayat/Arksey	85
+21-74684	4	101	1	1	1	thk5un	os1snm	u501uf	fs1snm	32		Carrillo/Richards		Letzring/Sepulveda	81
+21-74684	4	101	1	1	1	rtgxu7	qu4kss	23llpx	fhbn3n	32		Stienemeier/Cool		Bolton/Young	82
+21-74684	4	101	1	1	1	f6ywm4	ttpfl7	c795h9	dc6iyi	32	6	Pearson/Audelo		Jolin/Gorges	80
+21-74684	4	101	1	1	1	ke28iw	bvh9t5	rgwiw2	j7wret	32		Olmos/Barnes		Talamantes/Tay	80
+21-74684	4	101	2	5	1	1mhibw	7qosoc	dvrhn9	etpfl7	F		Borodi/Leik		Zayat/Arksey	85
+21-74684	4	101	2	4	1	1mhibw	7qosoc	oltvdb	0a1an4	SF		Borodi/Leik		Rogers/Schreiber	Walkover
+21-74684	4	101	2	4	1	dvrhn9	etpfl7	23llpx	fhbn3n	SF		Zayat/Arksey		Bolton/Young	82
+21-74684	4	101	2	3	1	oltvdb	0a1an4	wc8y4q	z7blnh	QF		Rogers/Schreiber		Mann/Mcneill	Walkover
+21-74684	4	101	2	3	1	1mhibw	7qosoc	e1gdej	xybu58	QF		Borodi/Leik		Lam/Mayo	85
+21-74684	4	101	2	3	1	dvrhn9	etpfl7	u501uf	fs1snm	QF		Zayat/Arksey		Letzring/Sepulveda	Walkover
+21-74684	4	101	2	3	1	23llpx	fhbn3n	rgwiw2	j7wret	QF		Bolton/Young		Talamantes/Tay	85
+21-74684	4	101	2	1	1	wc8y4q	z7blnh	zi1q7g	7jzlz5	16Q		Mann/Mcneill		Huk/Mulick	87(2)
+21-74684	4	101	2	1	1	1mhibw	7qosoc	qh3vfr	kffxj9	16Q		Borodi/Leik	4	Friedrich/Neilson	86
+21-74684	4	101	2	1	1	e1gdej	xybu58	0ely30	e5w5iz	16Q		Lam/Mayo		Richards/Campos	85
+21-74684	4	101	2	1	1	dvrhn9	etpfl7	30xcvi	bag4ws	16Q		Zayat/Arksey		Bulatovaite/Lavender	82
+21-74684	4	101	2	1	1	23llpx	fhbn3n	c795h9	dc6iyi	16Q		Bolton/Young		Jolin/Gorges	84
+21-74781	4	101	1	4	1	c5jrfj	ozi7ox	c7mjkp	7yfqho	F	1	Martins/Anzalotta		Apisah/Wild	61 64
+21-74781	4	101	1	3	1	c5jrfj	ozi7ox	d8709y	mkpo3y	SF	1	Martins/Anzalotta		Michalkova/Bugaienko	Walkover
+21-74781	4	101	1	3	1	c7mjkp	7yfqho	daxebo	ukca0i	SF		Apisah/Wild	2	Khurstaleva/Markovic	81
+21-74781	4	101	1	2	1	c5jrfj	ozi7ox	x13zb3	3mhibw	QF	1	Martins/Anzalotta		Vaillant/Baughman-S…	80
+21-74781	4	101	1	2	1	d8709y	mkpo3y	mxffjr	4qosoc	QF		Michalkova/Bugaienko		Milojevic/Kononovych	Walkover
+21-74781	4	101	1	2	1	c7mjkp	7yfqho	c5fv33	gxwpyn	QF		Apisah/Wild		Fedorova/Li	83
+21-74781	4	101	1	2	1	daxebo	ukca0i	dct4v2	2ys4k4	QF	2	Khurstaleva/Markovic		Shah/Kramarova	81
+21-74781	4	101	1	1	1	x13zb3	3mhibw	1jt9hh	pba3c1	16		Vaillant/Baughman-S…		Ballado/Giraldi	84
+21-74781	4	101	1	1	1	c5fv33	gxwpyn	aq9yfo	sq16rs	16		Fedorova/Li		Ristanovic/Brandt	84
+21-74781	4	101	2	4	1	aq9yfo	sq16rs	1jt9hh	pba3c1	F		Ristanovic/Brandt		Ballado/Giraldi	84
+21-74781	4	101	2	3	1	1jt9hh	pba3c1	mxffjr	4qosoc	SF		Ballado/Giraldi		Milojevic/Kononovych	Walkover
+21-74781	4	101	2	3	1	aq9yfo	sq16rs	dct4v2	2ys4k4	SF		Ristanovic/Brandt		Shah/Kramarova	Walkover
+21-74915	2	101	1	6	1	5yo88o	uofo1i	jd0her	ultvdb	F		Buzkova/Mihaljevic		Dalla-Bona/Richtero…	62 64
+21-74915	2	101	1	5	1	jd0her	ultvdb	ugu2qu	mpfzzf	SF		Dalla-Bona/Richtero…	1	Pursell/Verden-Ande…	76(3) 61
+21-74915	2	101	1	5	1	5yo88o	uofo1i	h8709y	5ikgsk	SF		Buzkova/Mihaljevic		Morett/Kuo	63 64
+21-74915	2	101	1	4	1	ugu2qu	mpfzzf	zc2mm2	wny3op	QF	1	Pursell/Verden-Ande…	5	Abramyan/Heimuli	86
+21-74915	2	101	1	4	1	jd0her	ultvdb	pfsbmp	3jm7wp	QF		Dalla-Bona/Richtero…		Challa/Zhu	86
+21-74915	2	101	1	4	1	h8709y	5ikgsk	4kauua	5aeoqk	QF		Morett/Kuo		Haugen/Goheen	86
+21-74915	2	101	1	4	1	5yo88o	uofo1i	e0emae	1wdofm	QF		Buzkova/Mihaljevic	2	Aher/Asano	87(4)
+21-74915	2	101	1	3	1	ugu2qu	mpfzzf	lu8g48	v5hb9b	16	1	Pursell/Verden-Ande…		Kovacs/Hu	87(4)
+21-74915	2	101	1	3	1	zc2mm2	wny3op	4kr496	7ene98	16	5	Abramyan/Heimuli		Fernandez Villa/Zeh…	86
+21-74915	2	101	1	3	1	jd0her	ultvdb	gq16rs	eeyc6g	16		Dalla-Bona/Richtero…		Azran/Helgesson	85
+21-74915	2	101	1	3	1	pfsbmp	3jm7wp	rszche	5vh9t5	16		Challa/Zhu		Melville/Beltran	84
+21-74915	2	101	1	3	1	h8709y	5ikgsk	4ceame	2brdrx	16		Morett/Kuo		Zhao/Fang	86
+21-74915	2	101	1	3	1	4kauua	5aeoqk	nxbj7b	j3c3yx	16		Haugen/Goheen		Forster/Stanojevic	87(5)
+21-74915	2	101	1	3	1	5yo88o	uofo1i	gh1f9j	i8709y	16		Buzkova/Mihaljevic	7	Bland/Millard	85
+21-74915	2	101	1	3	1	e0emae	1wdofm	efyn4d	qxdzdj	16	2	Aher/Asano		Oliveira/Jhang	82
+21-74915	2	101	1	2	1	ugu2qu	mpfzzf	rimwys	se0sco	32	1	Pursell/Verden-Ande…		Odom/Le	83
+21-74915	2	101	1	2	1	lu8g48	v5hb9b	gm08w0	sg7gta	32		Kovacs/Hu		Davies/Ferreira	82
+21-74915	2	101	1	2	1	zc2mm2	wny3op	j4h0be	3caeay	32	5	Abramyan/Heimuli		Balzert/Pozo	85
+21-74915	2	101	1	2	1	4kr496	7ene98	wy9ez0	h3ph1d	32		Fernandez Villa/Zeh…		Horwood/Hung	84
+21-74915	2	101	1	2	1	jd0her	ultvdb	c0xcvi	ylclyf	32		Dalla-Bona/Richtero…	4	Baptista/Stewart	87(4)
+21-74915	2	101	1	2	1	gq16rs	eeyc6g	whqhcb	raxebo	32		Azran/Helgesson		Palma/Horacek	85
+21-74915	2	101	1	2	1	pfsbmp	3jm7wp	spqxwn	iq5238	32		Challa/Zhu	8	Goncharova/Huang	83
+21-74915	2	101	1	2	1	rszche	5vh9t5	jwf4lu	z2gocg	32		Melville/Beltran		Flodin/Stelse	82
+21-74915	2	101	1	2	1	h8709y	5ikgsk	8fb17t	ipqxwn	32		Morett/Kuo		Fitch/Glozman	85
+21-74915	2	101	1	2	1	4ceame	2brdrx	rq16rs	zfhdph	32		Zhao/Fang	6	Burger/Riedmiller	87(6)
+21-74915	2	101	1	2	1	nxbj7b	j3c3yx	hjvpnp	e3llpx	32		Forster/Stanojevic		Duhl/Beazley	87(4)
+21-74915	2	101	1	2	1	4kauua	5aeoqk	frz1jh	wak088	32		Haugen/Goheen	3	Dush/Tattini	86
+21-74915	2	101	1	2	1	5yo88o	uofo1i	z1ex8b	k0kys2	32		Buzkova/Mihaljevic		Hersh/Lamoreaux	87(5)
+21-74915	2	101	1	2	1	gh1f9j	i8709y	i69ujc	9501uf	32	7	Bland/Millard		Astle/Lin	86
+21-74915	2	101	1	2	1	efyn4d	qxdzdj	chqhcb	lazuhw	32		Oliveira/Jhang		Oosterbaan/Mitkova	87(4)
+21-74915	2	101	1	2	1	e0emae	1wdofm	kc42sa	uc6iyi	32	2	Aher/Asano		Cuquerella/Garcia-R…	84
+21-74915	2	101	1	1	1	rimwys	se0sco	lpohqf	79kpab	64		Odom/Le		Cho/Lang Gould	86
+21-74915	2	101	1	1	1	gm08w0	sg7gta	wkxgru	grz1jh	64		Davies/Ferreira		Shah/Discenza	84
+21-74915	2	101	1	1	1	lu8g48	v5hb9b	gyqoew	cc42sa	64		Kovacs/Hu		Genkova/Charalampidi	84
+21-74915	2	101	1	1	1	j4h0be	3caeay	glnjvn	s28wok	64		Balzert/Pozo		Dittmann/Davis	85
+21-74915	2	101	1	1	1	wy9ez0	h3ph1d	ac6iyi	jjx5tx	64		Horwood/Hung		Hildreth/Hsu	82
+21-74915	2	101	1	1	1	4kr496	7ene98	scnsde	4qso0s	64		Fernandez Villa/Zeh…		Dunlap/Sterk	85
+21-74915	2	101	1	1	1	jd0her	ultvdb	qrgbyd	krz1jh	64		Dalla-Bona/Richtero…		Campos/Ecton	82
+21-74915	2	101	1	1	1	gq16rs	eeyc6g	ezb535	k97b7v	64		Azran/Helgesson		Van Baelen/Villarejo	84
+21-74915	2	101	1	1	1	whqhcb	raxebo	cv4vqp	o1ch23	64		Palma/Horacek		Longson/Damron	83
+21-74915	2	101	1	1	1	spqxwn	iq5238	c6f610	iys4k4	64	8	Goncharova/Huang		Neyestani/Markova	83
+21-74915	2	101	1	1	1	pfsbmp	3jm7wp	6nwnih	yp77bj	64		Challa/Zhu		County/Dekkers	82
+21-74915	2	101	1	1	1	jwf4lu	z2gocg	xcp8jm	wx9313	64		Flodin/Stelse		Kaftanova/Brink	87(4)
+21-74915	2	101	1	1	1	rszche	5vh9t5	jgwiw2	j85k3q	64		Melville/Beltran		Smith/Kong	83
+21-74915	2	101	1	1	1	8fb17t	ipqxwn	6y9ez0	e5hb9b	64		Fitch/Glozman		Huang/Jiao	85
+21-74915	2	101	1	1	1	h8709y	5ikgsk	u2e868	l1gdej	64		Morett/Kuo		Oreshkina/Malinak	86
+21-74915	2	101	1	1	1	4ceame	2brdrx	9mlenc	a5ylo7	64		Zhao/Fang		Kalaga/Gavino	87(4)
+21-74915	2	101	1	1	1	hjvpnp	e3llpx	4fb17t	lu4kss	64		Duhl/Beazley		Ernstberger/Conde V…	84
+21-74915	2	101	1	1	1	nxbj7b	j3c3yx	op9nhr	fr5d15	64		Forster/Stanojevic		Huchet/Redondo	84
+21-74915	2	101	1	1	1	4kauua	5aeoqk	7kv0lm	em448g	64		Haugen/Goheen		Moll Alles/Luneva	86
+21-74915	2	101	1	1	1	z1ex8b	k0kys2	0wwe0q	z7sv2d	64		Hersh/Lamoreaux		Chao/Kuo	85
+21-74915	2	101	1	1	1	5yo88o	uofo1i	ui1q7g	snwnih	64		Buzkova/Mihaljevic		Huang/Chen	83
+21-74915	2	101	1	1	1	i69ujc	9501uf	c7ub8l	7kg6cy	64		Astle/Lin		Puzak/Tokac	83
+21-74915	2	101	1	1	1	gh1f9j	i8709y	tvyj81	2m448g	64	7	Bland/Millard		Abriola/Krause	87(5)
+21-74915	2	101	1	1	1	efyn4d	qxdzdj	taik20	zla5s7	64		Oliveira/Jhang		O Lideadha/O Lidead…	80
+21-74915	2	101	1	1	1	chqhcb	lazuhw	91z3zn	91xntf	64		Oosterbaan/Mitkova		Mellor/Honczaruk	87(5)
+21-74915	2	101	1	1	1	kc42sa	uc6iyi	2eww08	z52h0n	64		Cuquerella/Garcia-R…		De Luna/Pope	85
+21-74915	2	102	1	1	1	8fb17t	jwf4lu	i69ujc	9501uf	64		Fitch/Flodin		Astle/Lin	63
+21-74915	2	102	1	1	1	ylclyf	grz1jh	c6f610	iys4k4	64		Stewart/Discenza		Neyestani/Markova	62
+21-74915	2	102	1	1	1	em448g	gyqoew	1pb3nz	rq16rs	64		Luneva/Genkova		Nelson/Burger	63
+21-74915	2	102	1	1	1	hjvpnp	e3llpx	frz1jh	h3ph1d	64		Duhl/Beazley		Dush/Hung	64
+21-74915	2	102	1	1	1	chqhcb	lazuhw	whqhcb	raxebo	64		Oosterbaan/Mitkova		Palma/Horacek	61
+21-74915	2	102	1	1	1	6y9ez0	e5hb9b	ezb535	k97b7v	64		Huang/Jiao		Van Baelen/Villarejo	64
+21-74915	2	102	1	1	1	0wwe0q	rimwys	vc42sa	2m448g	64		Chao/Odom		Cormier/Krause	61
+21-74915	2	102	1	1	1	91z3zn	91xntf	9mlenc	a5ylo7	64		Mellor/Honczaruk		Kalaga/Gavino	64
+21-74915	2	102	1	1	1	otc1ir	gm08w0	taik20	zla5s7	64		Lombardi/Davies		O Lideadha/O Lidead…	63
+21-74915	2	102	1	1	1	spqxwn	epsd2v	qrgbyd	krz1jh	64		Goncharova/Lamoreaux		Campos/Ecton	64
+21-74915	2	102	1	1	1	ipqxwn	z7sv2d	u2e868	l1gdej	64		Glozman/Kuo		Oreshkina/Malinak	62
+21-74915	2	102	1	1	1	lpohqf	79kpab	ac6iyi	jjx5tx	64		Cho/Lang Gould		Hildreth/Hsu	64
+21-74915	2	102	1	1	1	op9nhr	fr5d15	k0kys2	wy9ez0	64		Huchet/Redondo		Lamoreaux/Horwood	62
+21-74915	2	102	1	1	1	cv4vqp	o1ch23	2eww08	z52h0n	64		Longson/Damron		De Luna/Pope	76(4)
+21-74915	2	102	1	1	1	jgwiw2	j85k3q	7kv0lm	cc42sa	64		Smith/Kong		Moll Alles/Charalam…	62
+21-74915	2	102	1	1	1	kc42sa	uc6iyi	4fb17t	lu4kss	64		Cuquerella/Garcia-R…		Ernstberger/Conde V…	75
+21-74915	2	102	1	1	1	c7ub8l	7kg6cy	se0sco	z2gocg	64		Puzak/Tokac		Le/Stelse	61
+21-74915	2	103	1	1	1	2m448g	u2e868	i69ujc	9501uf	64		Krause/Oreshkina		Astle/Lin	63
+21-74915	2	103	1	1	1	6y9ez0	e5hb9b	z2gocg	0wwe0q	64		Huang/Jiao		Stelse/Chao	64
+21-74915	2	103	1	1	1	gq16rs	v5hb9b	91z3zn	91xntf	64		Azran/Hu		Mellor/Honczaruk	61
+21-74915	2	103	1	1	1	1pb3nz	rq16rs	e0emae	1wdofm	64		Nelson/Burger		Aher/Asano	63
+21-74915	2	103	1	1	1	nxbj7b	j3c3yx	4ceame	2brdrx	64		Forster/Stanojevic		Zhao/Fang	62
+21-74915	2	103	1	1	1	spqxwn	z1ex8b	ipqxwn	z7sv2d	64		Goncharova/Hersh		Glozman/Kuo	61
+21-74915	2	103	1	1	1	xcp8jm	wx9313	kc42sa	uc6iyi	64		Kaftanova/Brink		Cuquerella/Garcia-R…	64
+21-74915	2	103	1	1	1	rszche	5vh9t5	4kr496	7ene98	64		Melville/Beltran		Fernandez Villa/Zeh…	63
+21-74915	2	103	1	1	1	frz1jh	epsd2v	8fb17t	jwf4lu	64		Dush/Lamoreaux		Fitch/Flodin	75
+21-74915	2	103	1	1	1	zc2mm2	wny3op	j4h0be	krz1jh	64		Abramyan/Heimuli		Balzert/Ecton	63
+21-74915	2	103	1	1	1	cv4vqp	o1ch23	ezb535	k97b7v	64		Longson/Damron		Van Baelen/Villarejo	64
+21-74915	2	103	1	1	1	2eww08	z52h0n	ac6iyi	jjx5tx	64		De Luna/Pope		Hildreth/Hsu	64
+21-74915	2	103	1	1	1	jgwiw2	j85k3q	vc42sa	tvyj81	64		Smith/Kong		Cormier/Abriola	63
+21-74915	2	103	1	1	1	otc1ir	gm08w0	rimwys	se0sco	64		Lombardi/Davies		Odom/Le	63
+21-74915	2	103	1	1	1	k0kys2	h3ph1d	c7ub8l	7kg6cy	64		Lamoreaux/Hung		Puzak/Tokac	64
+21-75174	2	101	1	1	1	ifhdph	de4oo4	z28wok	y834xi	16		Rutowska/Tcherkes-Z…		Coetzee/Fraile Tobo…	63
+21-75174	2	101	1	1	1	rl8pmz	ftc1ir	rzm30d	6r7t7d	16		Lee/Lee		Hedrzak/Turchak	63
+21-75174	2	101	1	1	1	3vnlbt	o4r85i	q7qfw5	5i72p4	16		Miroshnichenko/Vora…		Han/Willson	64
+21-75174	2	101	1	1	1	8r1hpp	2qq8uk	66hm78	sh7rr7	16		Koenig/Piper		Rogozinska-Dzik/Nik…	75
+21-75174	2	101	1	1	1	fjzlz5	877pb1	fcp8jm	4q5238	16		McBride/Desiatnikov		Honer/Kiss	63
+21-75174	2	101	1	1	1	ztpfl7	m2t2fw	qyo88o	fxdzdj	16		Bruu-Syversen/Janik…		De Las Heras/Kalait…	62
+21-75174	2	101	1	1	1	cp9nhr	stznfb	1bz5ft	j4nct2	16		Johnson/Wagle		Wilkins/Nevenhoven	63
+21-75174	2	101	1	1	1	em08w0	f4r85i	hs1snm	3nwnih	16		Catanzarite/Vagramov		Ryngler/Castillo	64
+21-75174	2	102	1	1	1	fjzlz5	877pb1	rl8pmz	ftc1ir	16		McBride/Desiatnikov		Lee/Lee	62
+21-75174	2	102	1	1	1	ifhdph	de4oo4	qyo88o	fxdzdj	16		Rutowska/Tcherkes-Z…		De Las Heras/Kalait…	64
+21-75174	2	102	1	1	1	j3ansp	cp9nhr	q7qfw5	5i72p4	16		Ong/Johnson		Han/Willson	62
+21-75174	2	102	1	1	1	stznfb	f4r85i	4nj9f1	2qq8uk	16		Wagle/Vagramov		Morra/Piper	62
+21-75174	2	102	1	1	1	z28wok	y834xi	fcp8jm	4q5238	16		Coetzee/Fraile Tobo…		Honer/Kiss	64
+21-75174	2	102	1	1	1	ztpfl7	m2t2fw	wvp1h1	rzm30d	16		Bruu-Syversen/Janik…		Repina/Hedrzak	63
+21-75174	2	102	1	1	1	3vnlbt	o4r85i	1bz5ft	3nwnih	16		Miroshnichenko/Vora…		Wilkins/Castillo	64
+21-75174	2	103	1	1	1	5i72p4	2qq8uk	hs1snm	1bz5ft	16		Willson/Piper		Ryngler/Wilkins	64
+21-75174	2	103	1	1	1	rl8pmz	ftc1ir	3nwnih	j4nct2	16		Lee/Lee		Castillo/Nevenhoven	63
+21-75174	2	103	1	1	1	3vnlbt	66hm78	z28wok	y834xi	16		Miroshnichenko/Rogo…		Coetzee/Fraile Tobo…	63
+21-75174	2	103	1	1	1	wvp1h1	rzm30d	o4r85i	de4oo4	16		Repina/Hedrzak		Voracek/Tcherkes-Za…	76(4)
+21-75174	2	103	1	1	1	f4r85i	j3ansp	fjzlz5	877pb1	16		Vagramov/Ong		McBride/Desiatnikov	63
+21-75174	2	103	1	1	1	ifhdph	de4oo4	fcp8jm	4q5238	16		Rutowska/Tcherkes-Z…		Honer/Kiss	64
+21-75174	2	103	1	1	1	q7qfw5	k6u0ao	ztpfl7	m2t2fw	16		Han/Games		Bruu-Syversen/Janik…	60
+21-75174	2	104	1	1	1	ifhdph	de4oo4	j4nct2	hs1snm	F		Rutowska/Tcherkes-Z…		Nevenhoven/Ryngler	75
+21-76092	2	101	1	6	1	btalcj	6zoj6l	gpsd2v	nv2fkh	F	2	Herrero Linana/Kryw…	1	Makarova/Goldsmith	75 75
+21-76092	2	101	1	5	1	gpsd2v	nv2fkh	tm08w0	9wwe0q	SF	1	Makarova/Goldsmith	5	Chavatipon/Collns	76(3) 64
+21-76092	2	101	1	5	1	btalcj	6zoj6l	y1a1wv	13n1v5	SF	2	Herrero Linana/Kryw…		Adams/Devier	62 62
+21-76092	2	101	1	4	1	gpsd2v	nv2fkh	sttbxn	gjt9hh	QF	1	Makarova/Goldsmith	7	Keberle/Bartolome	86
+21-76092	2	101	1	4	1	tm08w0	9wwe0q	im6keo	20ou4i	QF	5	Chavatipon/Collns	14	Orav/Smirnova	80
+21-76092	2	101	1	4	1	y1a1wv	13n1v5	og50n2	k5nnrz	QF		Adams/Devier	10	Baranano/Zamburek	85
+21-76092	2	101	1	4	1	btalcj	6zoj6l	1dj7zv	mw46om	QF	2	Herrero Linana/Kryw…	12	El Jardi/Trevisan	85
+21-76092	2	101	1	3	1	gpsd2v	nv2fkh	pjcz2l	sd892n	16	1	Makarova/Goldsmith	16	Cortijo Parreno/Tre…	86
+21-76092	2	101	1	3	1	sttbxn	gjt9hh	punadw	v5fv33	16	7	Keberle/Bartolome		Fulgenzi/Fulgenzi	81
+21-76092	2	101	1	3	1	tm08w0	9wwe0q	l8s60a	kbgfup	16	5	Chavatipon/Collns	11	Skriabina/Tiglea	86
+21-76092	2	101	1	3	1	im6keo	20ou4i	v9i943	l7ozqx	16	14	Orav/Smirnova		Gorinsek/Chileno	85
+21-76092	2	101	1	3	1	y1a1wv	13n1v5	1nht9t	g1gdej	16		Adams/Devier	13	Komac/Main	84
+21-76092	2	101	1	3	1	og50n2	k5nnrz	rla5s7	xm80kw	16	10	Baranano/Zamburek	6	Pielet/Stoiana	87(7)
+21-76092	2	101	1	3	1	1dj7zv	mw46om	lp77bj	atx793	16	12	El Jardi/Trevisan	8	Evans/Sayfetdinova	87(9)
+21-76092	2	101	1	3	1	btalcj	6zoj6l	rvjpzd	f0meya	16	2	Herrero Linana/Kryw…	15	Dzemeshkevich/Pedem…	85
+21-76092	2	101	1	2	1	gpsd2v	nv2fkh	38qqu2	yf03al	32	1	Makarova/Goldsmith		Peet/Stepp	83
+21-76092	2	101	1	2	1	pjcz2l	sd892n	tgf8h6	fwdofm	32	16	Cortijo Parreno/Tre…		Vutukuru/Basson	82
+21-76092	2	101	1	2	1	punadw	v5fv33	wpw9eb	e62syk	32		Fulgenzi/Fulgenzi	9	Smirnova/Zipoli	86
+21-76092	2	101	1	2	1	sttbxn	gjt9hh	2utmvk	kg9wzi	32	7	Keberle/Bartolome		Reinertsen/Jimenez	83
+21-76092	2	101	1	2	1	tm08w0	9wwe0q	qmagq4	bi72p4	32	5	Chavatipon/Collns		Zlatarova/Weir	83
+21-76092	2	101	1	2	1	l8s60a	kbgfup	bene98	4w2qie	32	11	Skriabina/Tiglea		Vehvilainen/Oyama	81
+21-76092	2	101	1	2	1	im6keo	20ou4i	yrk7at	k6sk4g	32	14	Orav/Smirnova		Kortikere/Cusano	80
+21-76092	2	101	1	2	1	v9i943	l7ozqx	bjibk9	7jvpnp	32		Gorinsek/Chileno	3	Nylander/Doyle	85
+21-76092	2	101	1	2	1	y1a1wv	13n1v5	8j3hbl	28bwle	32		Adams/Devier	4	Zamarripa/Zamarripa	Walkover
+21-76092	2	101	1	2	1	1nht9t	g1gdej	yvl55l	zh5blz	32	13	Komac/Main		Huth/Jakeway	86
+21-76092	2	101	1	2	1	og50n2	k5nnrz	t0meya	67ub8l	32	10	Baranano/Zamburek		Pons/Novikova	87(6)
+21-76092	2	101	1	2	1	rla5s7	xm80kw	92vil4	im80kw	32	6	Pielet/Stoiana		McCain/Starr	83
+21-76092	2	101	1	2	1	lp77bj	atx793	x91zp7	5ll3pf	32	8	Evans/Sayfetdinova		Honore/Aucagne	82
+21-76092	2	101	1	2	1	1dj7zv	mw46om	wp9nhr	tvl55l	32	12	El Jardi/Trevisan		Kalava/Hummel	80
+21-76092	2	101	1	2	1	rvjpzd	f0meya	aszche	ylrf73	32	15	Dzemeshkevich/Pedem…		Morris/Mavor	86
+21-76092	2	101	1	2	1	btalcj	6zoj6l	gbcji9	1lpz1v	32	2	Herrero Linana/Kryw…		Kvapilova/Israel-Le…	84
+21-76092	2	101	1	1	1	38qqu2	yf03al	5gwiw2	v9olmr	64		Peet/Stepp		Townsend/Shumeika	85
+21-76092	2	101	1	1	1	punadw	v5fv33	3pypkj	he28iw	64		Fulgenzi/Fulgenzi		Zhou/Ponomareva	82
+21-76092	2	101	1	1	1	2utmvk	kg9wzi	nrz1jh	inwnih	64		Reinertsen/Jimenez		Fortuno/Chan	83
+21-76092	2	101	1	1	1	qmagq4	bi72p4	eyqoew	e03od6	64		Zlatarova/Weir		Guerrero/Mocciola	84
+21-76092	2	101	1	1	1	bene98	4w2qie	yag4ws	e2vil4	64		Vehvilainen/Oyama		Malazonia/McCutcheon	83
+21-76092	2	101	1	1	1	v9i943	l7ozqx	948ike	1xu9sf	64		Gorinsek/Chileno		Slisane/Giraldo	86
+21-76092	2	101	1	1	1	y1a1wv	13n1v5	ad892n	sxstm7	64		Adams/Devier		Stewart/Crisologo	84
+21-76092	2	101	1	1	1	t0meya	67ub8l	h0187y	76sk4g	64		Pons/Novikova		Kauders/Cerda	82
+21-76092	2	101	1	1	1	92vil4	im80kw	2e64uc	iwwe0q	64		McCain/Starr		Zivkovic/Damera	Walkover
+21-76092	2	101	1	1	1	x91zp7	5ll3pf	3m08w0	ccp8jm	64		Honore/Aucagne		Chobanyan/Kaszas	84
+21-76092	2	101	1	1	1	wp9nhr	tvl55l	1caeay	w5dfxv	64		Kalava/Hummel		Omoworare/Beyebach	83
+21-76092	2	101	1	1	1	aszche	ylrf73	v1gdej	ysgmwa	64		Morris/Mavor		Marcinkevica/Makant…	85
+21-76092	2	101	1	1	1	gbcji9	1lpz1v	fi1q7g	tz3df9	64		Kvapilova/Israel-Le…		Horiguchi/Dumitrescu	82
+21-76161	2	101	1	3	1	hl4taj	iefmlc	qc6iyi	lp9nhr	R3		Darley/Gabriel		Heimen/Keranen	75
+21-76161	2	101	1	3	1	uz3df9	havy5g	46j2dg	u7595t	R3		Di Francesco/Foster		Young/Billman	63
+21-76161	2	101	1	2	1	hl4taj	iefmlc	46j2dg	u7595t	R2		Darley/Gabriel		Young/Billman	63
+21-76161	2	102	1	3	1	6795h9	y13zb3	qc6iyi	lp9nhr	R3		Kashyap/Yoshimura		Heimen/Keranen	76(4)
+21-76161	2	102	1	1	1	46j2dg	u7595t	6795h9	y13zb3	R1		Young/Billman		Kashyap/Yoshimura	76(9)
+21-76161	2	103	1	3	1	dbezoh	307kpm	jnn5rh	crxld9	R3		Raquin/Urchoeguia		van Hee/Bosman	62
+21-76161	2	103	1	1	1	jnn5rh	crxld9	uz3df9	havy5g	R1		van Hee/Bosman		Di Francesco/Foster	64
+21-76161	2	103	1	1	1	dbezoh	307kpm	gtalcj	c34ba1	R1		Raquin/Urchoeguia		Hijos/Daniel	62
+21-76161	2	104	1	1	1	jnn5rh	crxld9	bc42sa	te28iw	F		van Hee/Bosman		Cohen/Pasini	61
+21-76161	2	105	1	1	1	bc42sa	te28iw	gtalcj	c34ba1	F		Cohen/Pasini		Hijos/Daniel	64
+21-76161	2	106	1	1	1	psvg5y	bc42sa	tdy18j	qyqoew	16		Dovgopolyi/Cohen		Abel/Gibbens	64
+21-76161	2	106	1	1	1	amjyh4	skimi6	psvg5y	a2xyrc	16		Dobrilova/Zheng		Dovgopolyi/Rizk	76(7)
+21-76161	2	106	1	1	1	4dln53	lclc76	qtvr3v	a2xyrc	16		Holmes/Bergqvist		Menten/Rizk	61
+21-76161	2	107	1	1	1	46j2dg	4dln53	psvg5y	a2xyrc	16		Young/Holmes		Dovgopolyi/Rizk	63
+21-76161	2	107	1	1	1	amjyh4	nm2o28	qtvr3v	a2xyrc	16		Dobrilova/Harvey		Menten/Rizk	61
+21-76161	2	107	1	1	1	psvg5y	bc42sa	qyqoew	lclc76	16		Dovgopolyi/Cohen		Gibbens/Bergqvist	61
+21-76161	2	108	1	1	1	qc6iyi	lp9nhr	2szche	knfd3l	F		Heimen/Keranen		McCormack/DeNardo	64
+21-76161	2	109	1	1	1	hl4taj	iefmlc	2szche	knfd3l	F		Darley/Gabriel		McCormack/DeNardo	62
+21-76161	2	110	1	1	1	4dln53	qyqoew	crxld9	jzsfi1	F		Holmes/Gibbens		Bosman/Siegel	61
+21-76161	2	111	1	1	1	gtalcj	c34ba1	381ora	jzsfi1	F		Hijos/Daniel		Boeckman/Siegel	61
+21-76161	2	112	1	1	1	uz3df9	havy5g	2szche	knfd3l	F		Di Francesco/Foster		McCormack/DeNardo	61
+21-76161	2	113	1	1	1	crxld9	46j2dg	n5hb9b	jzsfi1	F		Bosman/Young		Kauwla/Siegel	62
+21-76161	2	114	1	1	1	psvg5y	bc42sa	jzsfi1	xffxj9	F		Dovgopolyi/Cohen		Siegel/Menkowitz	62
+21-76161	2	115	1	1	1	tdy18j	qyqoew	amjyh4	skimi6	F		Abel/Gibbens		Dobrilova/Zheng	64
+21-76161	2	116	1	1	1	gs38tu	lclc76	tjcz2l	n5hb9b	F		Young/Bergqvist		Dann/Kauwla	60
+21-76161	2	117	1	1	1	k2acus	qtvr3v	tjcz2l	381ora	F		Hammoud/Menten		Dann/Boeckman	61
+21-76336	4	101	1	4	1	re0sco	9qbelw	g3n1v5	x0kys2	F	1	Lima/Weston	2	Do Lago/Lumanog	75
+21-76336	4	101	1	3	1	re0sco	9qbelw	s2t2fw	kbz5ft	SF	1	Lima/Weston	4	Hurst/Zakrzewski	64
+21-76336	4	101	1	3	1	g3n1v5	x0kys2	m32v4t	qwj0xa	SF	2	Do Lago/Lumanog		Acena/Negrete	64
+21-76336	4	101	1	2	1	re0sco	9qbelw	k834xi	uwf4lu	QF	1	Lima/Weston		Fanton/Felder	62
+21-76336	4	101	1	2	1	s2t2fw	kbz5ft	42rm9o	ztvr3v	QF	4	Hurst/Zakrzewski		Ferrel/Morales	63
+21-76336	4	101	1	2	1	m32v4t	qwj0xa	msgmwa	3gdsby	QF		Acena/Negrete		Kutz/Robinson	63
+21-76336	4	101	1	2	1	g3n1v5	x0kys2	0e0sco	wqbelw	QF	2	Do Lago/Lumanog		Macke/Van der Torre	62
+21-76336	4	101	1	1	1	k834xi	uwf4lu	atrvrf	1wnw9q	16		Fanton/Felder		DeLaO/Vandersall	60
+21-76336	4	101	1	1	1	42rm9o	ztvr3v	7ba3c1	zho163	16		Ferrel/Morales		Hansen/Lewis	64
+21-76336	4	101	1	1	1	s2t2fw	kbz5ft	6c8y4q	c054je	16	4	Hurst/Zakrzewski		Markle/Richards	62
+21-76336	4	101	1	1	1	msgmwa	3gdsby	j13zb3	wqq8uk	16		Kutz/Robinson	3	Worthington/Price	61
+21-76336	4	101	1	1	1	m32v4t	qwj0xa	aclc76	8ktkfe	16		Acena/Negrete		Blough/Hosick	61
+21-76336	4	101	1	1	1	0e0sco	wqbelw	0v0ze9	btx793	16		Macke/Van der Torre		Clotfelter/Sadowska	61
+21-76336	4	101	1	1	1	g3n1v5	x0kys2	l2p63g	30iimu	16	2	Do Lago/Lumanog		Badger/Gonsor	64
+21-76336	4	101	2	3	1	7ba3c1	zho163	atrvrf	1wnw9q	SF		Hansen/Lewis		DeLaO/Vandersall	60
+21-76336	4	101	2	1	1	7ba3c1	zho163	6c8y4q	c054je	QQ		Hansen/Lewis		Markle/Richards	62
+21-76336	4	101	2	1	1	j13zb3	wqq8uk	aclc76	8ktkfe	QQ	3	Worthington/Price		Blough/Hosick	63
+21-76336	4	101	2	1	1	0v0ze9	btx793	l2p63g	30iimu	QQ		Clotfelter/Sadowska		Badger/Gonsor	61
+21-76336	4	102	1	4	1	ifw7y5	hxwpyn	p2gocg	ibv93d	F	1	Kucera/Lauby	2	Stalder/Ngo	61
+21-76336	4	102	1	3	1	ifw7y5	hxwpyn	ld0her	ghsxij	SF	1	Kucera/Lauby		Chiasson/Swanson	62
+21-76336	4	102	1	3	1	p2gocg	ibv93d	0se6q2	msvg5y	SF	2	Stalder/Ngo	3	Glosser/Fox	63
+21-76336	4	102	1	2	1	ifw7y5	hxwpyn	3v0ze9	2z5tlh	QF	1	Kucera/Lauby		Davison/Ketcham	63
+21-76336	4	102	1	2	1	ld0her	ghsxij	lqmci4	v054je	QF		Chiasson/Swanson		Groski/Ruiz-Martinez	64
+21-76336	4	102	1	2	1	0se6q2	msvg5y	57595t	ti5mjw	QF	3	Glosser/Fox		Benitez/Schwarzkopf	61
+21-76336	4	102	1	2	1	p2gocg	ibv93d	s97b7v	h8bwle	QF	2	Stalder/Ngo		Wilson/Twelmeyer	61
+21-76336	4	102	1	1	1	3v0ze9	2z5tlh	1r3xvx	7ac8kc	16		Davison/Ketcham		Montenegro/Coppock	63
+21-76336	4	102	1	1	1	ld0her	ghsxij	m81ora	j5hb9b	16		Chiasson/Swanson		Buck/Johnson	62
+21-76336	4	102	1	1	1	lqmci4	v054je	htalcj	x2gocg	16		Groski/Ruiz-Martinez	4	Hastings/Thompson	64
+21-76336	4	102	1	1	1	0se6q2	msvg5y	yv6bwx	e1v7n7	16	3	Glosser/Fox		Phillips/Freudenburg	64
+21-76336	4	102	1	1	1	57595t	ti5mjw	7ybu58	tq9yfo	16		Benitez/Schwarzkopf		McDowall/Sae-eurng	64
+21-76336	4	102	1	1	1	s97b7v	h8bwle	wq3mx0	752h0n	16		Wilson/Twelmeyer		Dose/Olson	62
+21-76336	4	102	1	1	1	p2gocg	ibv93d	69x3dr	rs38tu	16	2	Stalder/Ngo		Brown-Love/Wohl	61
+21-76336	4	102	2	1	1	htalcj	x2gocg	m81ora	j5hb9b	QQ	4	Hastings/Thompson		Buck/Johnson	60
+21-76336	4	102	2	1	1	yv6bwx	e1v7n7	7ybu58	tq9yfo	QQ		Phillips/Freudenburg		McDowall/Sae-eurng	63
+21-76336	4	102	2	1	1	wq3mx0	752h0n	69x3dr	rs38tu	QQ		Dose/Olson		Brown-Love/Wohl	76(4)
+21-76964	4	101	1	4	1	5kzwx2	pm6keo	icvk1a	p5jrfj	F	1	Vossen/Proktor	3	VanOrman/Montaruli	50 Ret.
+21-76964	4	101	1	3	1	5kzwx2	pm6keo	e1trhz	swdofm	SF	1	Vossen/Proktor	4	Boliscar/Branch	86
+21-76964	4	101	1	3	1	icvk1a	p5jrfj	5xu9sf	33rx7l	SF	3	VanOrman/Montaruli	2	Greenwell/Mazzola	83
+21-76964	4	101	1	2	1	5kzwx2	pm6keo	lyms2g	btvr3v	QF	1	Vossen/Proktor		Aguilar/McShane	81
+21-76964	4	101	1	2	1	e1trhz	swdofm	gb8n6t	mm08w0	QF	4	Boliscar/Branch		Crismon/Crismon	81
+21-76964	4	101	1	2	1	icvk1a	p5jrfj	a834xi	5rir4l	QF	3	VanOrman/Montaruli		Espino/Gregory	82
+21-76964	4	101	1	2	1	5xu9sf	33rx7l	rzb535	2ct4v2	QF	2	Greenwell/Mazzola		White/Rennoult	82
+21-76964	4	101	1	1	1	lyms2g	btvr3v	8rz1jh	qz79rp	16		Aguilar/McShane		Fleming/Mestre	81
+21-76964	4	101	1	1	1	gb8n6t	mm08w0	lhqhcb	bgsmkm	16		Crismon/Crismon		Pearson/Laursen	82
+21-76964	4	101	1	1	1	e1trhz	swdofm	50g2gm	tod8va	16	4	Boliscar/Branch		Cowan/Jacobs	82
+21-76964	4	101	1	1	1	icvk1a	p5jrfj	qi72p4	aed6f4	16	3	VanOrman/Montaruli		White/Barry	81
+21-76964	4	101	1	1	1	a834xi	5rir4l	twlg3i	7r1hpp	16		Espino/Gregory		Sackx/Hu	85
+21-76964	4	101	1	1	1	rzb535	2ct4v2	ytx793	8jgve1	16		White/Rennoult		Reade/Lee	83
+21-77110	2	101	1	3	1	grk7at	5gq6ee	5g7gta	jnfd3l	F		Li/Goetz		Dickson/Dougah	76(2)
+21-77110	2	101	1	2	1	5g7gta	jnfd3l	1vp1h1	d1mpw7	SF		Dickson/Dougah		Rice/Zukic	61
+21-77110	2	101	1	2	1	grk7at	5gq6ee	1tznfb	gccug6	SF		Li/Goetz		Wilbur/Steryous	64
+21-77110	2	101	1	1	1	5g7gta	jnfd3l	p5l7lr	ulclyf	QF		Dickson/Dougah		Schoppe/Snyder	62
+21-77110	2	101	1	1	1	1vp1h1	d1mpw7	x834xi	mct4v2	QF		Rice/Zukic		Delsol/Ristic	63
+21-77110	2	101	1	1	1	grk7at	5gq6ee	bejixs	lys4k4	QF		Li/Goetz		Muzik/Lee	76(3)
+21-77110	2	101	1	1	1	1tznfb	gccug6	j7d1tp	fzqzct	QF		Wilbur/Steryous		Sanchez Quesada/Pie…	61
+21-77110	2	101	2	2	1	p5l7lr	ulclyf	j7d1tp	fzqzct	F		Schoppe/Snyder		Sanchez Quesada/Pie…	64
+21-77110	2	101	2	1	1	p5l7lr	ulclyf	x834xi	mct4v2	SF		Schoppe/Snyder		Delsol/Ristic	Walkover
+21-77110	2	101	2	1	1	j7d1tp	fzqzct	bejixs	lys4k4	SF		Sanchez Quesada/Pie…		Muzik/Lee	75
+21-77110	2	101	3	1	1	1vp1h1	d1mpw7	1tznfb	gccug6	F		Rice/Zukic		Wilbur/Steryous	76(5)
+21-77110	2	101	4	1	1	bejixs	lys4k4	x834xi	mct4v2	F		Muzik/Lee		Delsol/Ristic	Walkover
+21-77110	2	102	1	3	1	19olmr	4ac8kc	vvrhn9	5i36do	F		Toglukdemir/Cartled…		Watson/McPherron	62
+21-77110	2	102	1	2	1	vvrhn9	5i36do	9cp8jm	gw0ac6	SF		Watson/McPherron		Ifidzhen/Loudili	76(4)
+21-77110	2	102	1	2	1	19olmr	4ac8kc	cttbxn	kbezoh	SF		Toglukdemir/Cartled…		Kim/Pinedo	76(5)
+21-77110	2	102	1	1	1	vvrhn9	5i36do	4bttx5	q0iimu	QF		Watson/McPherron		Jardim/Hellberg	62
+21-77110	2	102	1	1	1	9cp8jm	gw0ac6	wulu7o	cely30	QF		Ifidzhen/Loudili		Baykan/Schulson	61
+21-77110	2	102	1	1	1	cttbxn	kbezoh	fc8y4q	22cs00	QF		Kim/Pinedo		Lacey/Leeman	64
+21-77110	2	102	1	1	1	19olmr	4ac8kc	hh7rr7	2lvbjj	QF		Toglukdemir/Cartled…		Massie/Woods	64
+21-77110	2	102	2	2	1	fc8y4q	22cs00	wulu7o	cely30	F		Lacey/Leeman		Baykan/Schulson	62
+21-77110	2	102	2	1	1	wulu7o	cely30	4bttx5	q0iimu	SF		Baykan/Schulson		Jardim/Hellberg	64
+21-77110	2	102	2	1	1	fc8y4q	22cs00	hh7rr7	2lvbjj	SF		Lacey/Leeman		Massie/Woods	64
+21-77110	2	102	3	1	1	cttbxn	kbezoh	9cp8jm	gw0ac6	F		Kim/Pinedo		Ifidzhen/Loudili	60
+21-77110	2	102	4	1	1	hh7rr7	2lvbjj	4bttx5	q0iimu	F		Massie/Woods		Jardim/Hellberg	63
+21-77110	2	103	1	3	1	01k9qz	do0usu	mf9l1l	w6bapk	F		Steenkamp/Siegel		Brandow/Falk	64
+21-77110	2	103	1	2	1	01k9qz	do0usu	t2gocg	mh97xf	SF		Steenkamp/Siegel		Surcey/Roper	76
+21-77110	2	103	1	2	1	mf9l1l	w6bapk	nfjtvp	eos24y	SF		Brandow/Falk		Wilson/De Sousa	75
+21-77110	2	103	1	1	1	t2gocg	mh97xf	dccug6	pq3mx0	QF		Surcey/Roper		Shulman/Fatemi	62
+21-77110	2	103	1	1	1	01k9qz	do0usu	lunadw	4f03al	QF		Steenkamp/Siegel		Fischer/Sorensen	75
+21-77110	2	103	1	1	1	mf9l1l	w6bapk	rtx793	uene98	QF		Brandow/Falk		Roslund/Watts	63
+21-77110	2	103	1	1	1	nfjtvp	eos24y	1k8eo2	pm2o28	QF		Wilson/De Sousa		Cantrell/Gottiparthy	64
+21-77110	2	103	2	2	1	lunadw	4f03al	1k8eo2	pm2o28	F		Fischer/Sorensen		Cantrell/Gottiparthy	76
+21-77110	2	103	2	1	1	lunadw	4f03al	dccug6	pq3mx0	SF		Fischer/Sorensen		Shulman/Fatemi	62
+21-77110	2	103	2	1	1	1k8eo2	pm2o28	rtx793	uene98	SF		Cantrell/Gottiparthy		Roslund/Watts	63
+21-77110	2	103	3	1	1	nfjtvp	eos24y	t2gocg	mh97xf	F		Wilson/De Sousa		Surcey/Roper	64
+21-77110	2	103	4	1	1	rtx793	uene98	dccug6	pq3mx0	F		Roslund/Watts		Shulman/Fatemi	64
+21-77110	2	104	1	3	1	597b7v	5nht9t	atznfb	2nfd3l	F		Vdovychenko/Humbert		Yoon/Falcon	63
+21-77110	2	104	1	2	1	597b7v	5nht9t	1ii0mc	9o9cju	SF		Vdovychenko/Humbert		Hardeman/Brennan	75
+21-77110	2	104	1	2	1	atznfb	2nfd3l	24nct2	w3n1v5	SF		Yoon/Falcon		McClure/Dennett	62
+21-77110	2	104	1	1	1	597b7v	5nht9t	ovjpzd	lltvdb	QF		Vdovychenko/Humbert		Fyvie/Semmartin	60
+21-77110	2	104	1	1	1	atznfb	2nfd3l	hk8eo2	4tvr3v	QF		Yoon/Falcon		Byers/Morkel	75
+21-77110	2	104	2	2	1	hk8eo2	4tvr3v	ovjpzd	lltvdb	F		Byers/Morkel		Fyvie/Semmartin	63
+21-77110	2	104	3	1	1	1ii0mc	9o9cju	24nct2	w3n1v5	F		Hardeman/Brennan		McClure/Dennett	63
+21-77230	2	101	1	3	1	9talcj	s6u0ao	fkg6cy	jyo88o	F	2	Gonzalez/Griffiths	3	Spice/Chamoun	64
+21-77230	2	101	1	2	1	fkg6cy	jyo88o	kjvpnp	iz9pxx	SF	3	Spice/Chamoun	1	Fleming/Richter	63
+21-77230	2	101	1	2	1	9talcj	s6u0ao	84psza	i1v7n7	SF	2	Gonzalez/Griffiths		Roca/Dias	64
+21-77230	2	101	1	1	1	fkg6cy	jyo88o	ciza18	zyms2g	QF	3	Spice/Chamoun		Elsborg/Aramni	60
+21-77230	2	101	1	1	1	84psza	i1v7n7	ytznfb	d6ywm4	QF		Roca/Dias	4	Vendrell/Prinz	61
+21-77230	2	101	1	1	1	9talcj	s6u0ao	ty7yts	mtpfl7	QF	2	Gonzalez/Griffiths		Enderink/Berger	62
+21-77230	2	101	2	2	1	ciza18	zyms2g	ytznfb	d6ywm4	F		Elsborg/Aramni	4	Vendrell/Prinz	75
+21-77230	2	101	2	1	1	ytznfb	d6ywm4	ty7yts	mtpfl7	SF	4	Vendrell/Prinz		Enderink/Berger	63
+21-77230	2	101	3	1	1	kjvpnp	iz9pxx	84psza	i1v7n7	F	1	Fleming/Richter		Roca/Dias	64
+21-77230	2	102	1	3	1	fl4taj	vv2fkh	amnutk	2pw9eb	F	1	Castaneda/Harfield	2	Morrison/Shing	64
+21-77230	2	102	1	2	1	fl4taj	vv2fkh	tdhrtn	4rgbyd	SF	1	Castaneda/Harfield		Bowie/Chhabra	60
+21-77230	2	102	1	2	1	amnutk	2pw9eb	uhml0v	gi1q7g	SF	2	Morrison/Shing	4	Glogowski-Watson/Kl…	63
+21-77230	2	102	1	1	1	tdhrtn	4rgbyd	tpm1k7	eupqj4	QF		Bowie/Chhabra	3	Acco/Ineson	64
+21-77230	2	102	1	1	1	uhml0v	gi1q7g	cigkg4	ad4dq7	QF	4	Glogowski-Watson/Kl…		Chapman/Kos	62
+21-77230	2	102	1	1	1	amnutk	2pw9eb	377pb1	sl4taj	QF	2	Morrison/Shing		Demiguel/Croda	63
+21-77230	2	102	2	2	1	tpm1k7	eupqj4	377pb1	sl4taj	F	3	Acco/Ineson		Demiguel/Croda	64
+21-77230	2	102	2	1	1	377pb1	sl4taj	cigkg4	ad4dq7	SF		Demiguel/Croda		Chapman/Kos	63
+21-77230	2	102	3	1	1	tdhrtn	4rgbyd	uhml0v	gi1q7g	F		Bowie/Chhabra	4	Glogowski-Watson/Kl…	64
+21-77230	2	103	1	3	1	kbv93d	844m8y	5ktkfe	qv8r25	F	4	Mocher/Manero	3	Katsoudas/Srodulski	64
+21-77230	2	103	1	2	1	5ktkfe	qv8r25	dny3op	y2xyrc	SF	3	Katsoudas/Srodulski	1	Gunter/Sakakibara	76(5)
+21-77230	2	103	1	2	1	kbv93d	844m8y	91ex8b	oybu58	SF	4	Mocher/Manero	2	Hill/Newsome	60
+21-77230	2	103	1	1	1	5ktkfe	qv8r25	6wuyui	5dhrtn	QF	3	Katsoudas/Srodulski		Aparicio/Benefield	Walkover
+21-77230	2	103	1	1	1	kbv93d	844m8y	gaase4	iwlg3i	QF	4	Mocher/Manero		Adair/Santanders	76(3)
+21-77230	2	103	1	1	1	91ex8b	oybu58	89m5gj	lst0zq	QF	2	Hill/Newsome		Pall/Braziel	64
+21-77230	2	103	2	2	1	gaase4	iwlg3i	6wuyui	5dhrtn	F		Adair/Santanders		Aparicio/Benefield	Walkover
+21-77230	2	103	2	1	1	gaase4	iwlg3i	89m5gj	lst0zq	SF		Adair/Santanders		Pall/Braziel	60
+21-77230	2	103	3	1	1	dny3op	y2xyrc	91ex8b	oybu58	F	1	Gunter/Sakakibara	2	Hill/Newsome	64
+21-77667	2	101	1	1	1	g0g2gm	o0187y	htgxu7	kac8kc	32		Coleman/Jackson		Stephens/Can	64
+21-77667	2	101	1	1	1	c4h0be	jfyn4d	75dfxv	z07kpm	32		Bilokin/Omirou		Beckman/Yellayi	62
+21-77667	2	101	1	1	1	jii0mc	ybpxlp	q4jghm	hbrdrx	32		Gillas/Bacalla		Desmarais/Ferdman	62
+21-77667	2	101	1	1	1	p501uf	jouia6	jdj7zv	nunadw	32		Lemonds/Gisclon		Fuller/Dukic	64
+21-77667	2	101	1	1	1	35dfxv	n4r85i	aa1an4	4z79rp	32		Badawi/Weise		Sedovich/Morgoshia	63
+21-77667	2	101	1	1	1	s44m8y	ebpxlp	zod8va	d0emae	32		Koscielski/Arendt		Hughes/Andres	60
+21-77667	2	101	1	1	1	owyu6y	jvl55l	gw2qie	wnj9f1	32		Hermanny/Hrabalova		Rabjohns/McColgan	76(3)
+21-77667	2	101	1	1	1	iba3c1	mvl55l	w0kys2	mazuhw	32		Gustafsson/Jover		Mannix/Mehra	64
+21-77667	2	101	1	1	1	2put83	jhsxij	p795h9	fupqj4	32		Pratt/Shusharina		Kojcic/Hopman	61
+21-77667	2	101	1	1	1	tpsd2v	0ag4ws	rfursx	48kece	32		Lazic/Leong		Ghosh/Coleman	62
+21-77667	2	101	1	1	1	6jx5tx	1kv0lm	bbrdrx	f2cs00	32		Karoub/Mukherjee		Forste-Dinell/Malaz…	63
+21-77667	2	102	1	1	1	q4jghm	hbrdrx	owyu6y	jvl55l	32		Desmarais/Ferdman		Hermanny/Hrabalova	64
+21-77667	2	102	1	1	1	rfursx	48kece	htgxu7	kac8kc	32		Ghosh/Coleman		Stephens/Can	63
+21-77667	2	102	1	1	1	iba3c1	mvl55l	p501uf	jouia6	32		Gustafsson/Jover		Lemonds/Gisclon	61
+21-77667	2	102	1	1	1	w0kys2	mazuhw	ebpxlp	nunadw	32		Mannix/Mehra		Arendt/Dukic	63
+21-77667	2	102	1	1	1	quccgo	s44m8y	bbrdrx	f2cs00	32		Streng/Koscielski		Forste-Dinell/Malaz…	64
+21-77667	2	102	1	1	1	35dfxv	n4r85i	zod8va	d0emae	32		Badawi/Weise		Hughes/Andres	64
+21-77667	2	102	1	1	1	p795h9	fupqj4	75dfxv	z07kpm	32		Kojcic/Hopman		Beckman/Yellayi	75
+21-77667	2	102	1	1	1	g0g2gm	o0187y	tpsd2v	0ag4ws	32		Coleman/Jackson		Lazic/Leong	62
+21-77667	2	102	1	1	1	jii0mc	ybpxlp	gw2qie	wnj9f1	32		Gillas/Bacalla		Rabjohns/McColgan	64
+21-77667	2	102	1	1	1	c4h0be	jfyn4d	2put83	jhsxij	32		Bilokin/Omirou		Pratt/Shusharina	63
+21-77667	2	102	1	1	1	6jx5tx	1kv0lm	aa1an4	4z79rp	32		Karoub/Mukherjee		Sedovich/Morgoshia	61
+21-77667	2	103	1	1	1	g0g2gm	o0187y	2put83	jhsxij	32		Coleman/Jackson		Pratt/Shusharina	63
+21-77667	2	103	1	1	1	htgxu7	kac8kc	75dfxv	z07kpm	32		Stephens/Can		Beckman/Yellayi	76(4)
+21-77667	2	103	1	1	1	rfursx	48kece	p795h9	fupqj4	32		Ghosh/Coleman		Kojcic/Hopman	76(4)
+21-77667	2	103	1	1	1	c4h0be	jfyn4d	tpsd2v	0ag4ws	32		Bilokin/Omirou		Lazic/Leong	62
+21-77667	2	103	1	1	1	gw2qie	wnj9f1	p501uf	jouia6	32		Rabjohns/McColgan		Lemonds/Gisclon	64
+21-77667	2	103	1	1	1	quccgo	s44m8y	bbrdrx	f2cs00	32		Streng/Koscielski		Forste-Dinell/Malaz…	75
+21-77667	2	103	1	1	1	w0kys2	mazuhw	q4jghm	hbrdrx	32		Mannix/Mehra		Desmarais/Ferdman	62
+21-77667	2	103	1	1	1	iba3c1	mvl55l	jii0mc	ybpxlp	32		Gustafsson/Jover		Gillas/Bacalla	62
+21-77667	2	103	1	1	1	6jx5tx	1kv0lm	35dfxv	n4r85i	32		Karoub/Mukherjee		Badawi/Weise	64
+21-78019	2	101	1	1	1	ugu2qu	mpfzzf	il8pmz	jys4k4	32		Pursell/Verden-Ande…		Krzyzak/Machalova	63
+21-78019	2	101	1	1	1	cpm1k7	gqq8uk	gkxgru	na1an4	32		Antonaki/Racine		Reayer/Romero	63
+21-78019	2	101	1	1	1	o2p63g	p6dqvs	0fursx	o95v1n	32		Bilchev/Hrastar		Graham/Roggenburk	61
+21-78019	2	101	1	1	1	f501uf	vr5d15	swlg3i	y5nnrz	32		Lee/Sharabura		Sawyer/Verma	62
+21-78019	2	101	1	1	1	rszche	1pb3nz	hp9nhr	8wnw9q	32		Melville/Nelson		Jones/Woog	75
+21-78019	2	101	1	1	1	u0zs1q	lsgmwa	7lrf73	054x6v	32		Gabrielsen/Leclerq-…		Meyer/Teixido-Garcia	61
+21-78019	2	101	1	1	1	ml2d4b	ui36do	wwyu6y	nccug6	32		Adaloglou/Mikhailuk		Gorchanyuk/Simova	63
+21-78019	2	101	1	1	1	78kece	t6dqvs	5vh9t5	rq16rs	32		Dedaj/Jain		Beltran/Burger	60
+21-78019	2	101	1	1	1	h8qqu2	qyfqho	r1ex8b	ij3hbl	32		Pool/Zadori		Grosmann/Tumthong	62
+21-78019	2	101	1	1	1	j9gtyv	q1v7n7	zxy54v	854x6v	32		Cirotte/Falceto		Nwaozuzu/Smith	63
+21-78019	2	101	1	1	1	cl69gr	tvp1h1	dzknu5	i5l7lr	32		Garcia Gross/Sassoli		Chaika/Richardson	62
+21-78019	2	102	1	1	1	cpm1k7	gqq8uk	ugu2qu	mpfzzf	32		Antonaki/Racine		Pursell/Verden-Ande…	62
+21-78019	2	102	1	1	1	il8pmz	jys4k4	gkxgru	na1an4	32		Krzyzak/Machalova		Reayer/Romero	63
+21-78019	2	102	1	1	1	f501uf	vr5d15	0fursx	o95v1n	32		Lee/Sharabura		Graham/Roggenburk	62
+21-78019	2	102	1	1	1	o2p63g	p6dqvs	swlg3i	y5nnrz	32		Bilchev/Hrastar		Sawyer/Verma	62
+21-78019	2	102	1	1	1	7lrf73	054x6v	rszche	1pb3nz	32		Meyer/Teixido-Garcia		Melville/Nelson	75
+21-78019	2	102	1	1	1	hp9nhr	8wnw9q	u0zs1q	lsgmwa	32		Jones/Woog		Gabrielsen/Leclerq-…	64
+21-78019	2	102	1	1	1	ml2d4b	ui36do	5vh9t5	rq16rs	32		Adaloglou/Mikhailuk		Beltran/Burger	63
+21-78019	2	102	1	1	1	78kece	t6dqvs	wwyu6y	nccug6	32		Dedaj/Jain		Gorchanyuk/Simova	60
+21-78019	2	102	1	1	1	j9gtyv	q1v7n7	dzknu5	i5l7lr	32		Cirotte/Falceto		Chaika/Richardson	64
+21-78019	2	102	1	1	1	h8qqu2	qyfqho	zxy54v	854x6v	32		Pool/Zadori		Nwaozuzu/Smith	61
+21-78019	2	102	1	1	1	r1ex8b	ij3hbl	cl69gr	tvp1h1	32		Grosmann/Tumthong		Garcia Gross/Sassoli	75
+21-78019	2	103	1	1	1	cpm1k7	q1v7n7	5vh9t5	rszche	32		Antonaki/Falceto		Beltran/Melville	60
+21-78019	2	103	1	1	1	ml2d4b	j9gtyv	78kece	t6dqvs	32		Adaloglou/Cirotte		Dedaj/Jain	62
+21-78019	2	103	1	1	1	ui36do	gqq8uk	r1ex8b	ij3hbl	32		Mikhailuk/Racine		Grosmann/Tumthong	60
+21-78019	2	103	1	1	1	ugu2qu	mpfzzf	dzknu5	i5l7lr	32		Pursell/Verden-Ande…		Chaika/Richardson	62
+21-78019	2	103	1	1	1	u0zs1q	lsgmwa	rq16rs	1pb3nz	32		Gabrielsen/Leclerq-…		Burger/Nelson	75
+21-78019	2	103	1	1	1	hp9nhr	na1an4	zxy54v	854x6v	32		Jones/Romero		Nwaozuzu/Smith	61
+21-78019	2	103	1	1	1	o2p63g	p6dqvs	7lrf73	gkxgru	32		Bilchev/Hrastar		Meyer/Reayer	63
+21-78019	2	103	1	1	1	054x6v	8wnw9q	wwyu6y	nccug6	32		Teixido-Garcia/Woog		Gorchanyuk/Simova	61
+21-78019	2	103	1	1	1	il8pmz	jys4k4	f501uf	vr5d15	32		Krzyzak/Machalova		Lee/Sharabura	76(4)
+21-78019	2	103	1	1	1	h8qqu2	qyfqho	cl69gr	tvp1h1	32		Pool/Zadori		Garcia Gross/Sassoli	61
+21-78019	2	103	1	1	1	0fursx	o95v1n	swlg3i	y5nnrz	32		Graham/Roggenburk		Sawyer/Verma	61
+21-78345	2	101	1	3	1	xfhdph	dely30	0jibk9	l4h0be	F		Salvi/Sandra		Ordonez/Breunich	64
+21-78345	2	101	1	2	1	xfhdph	dely30	o6q4y8	oqso0s	SF		Salvi/Sandra		Alferova/Sullivan	62
+21-78345	2	101	1	2	1	0jibk9	l4h0be	frmng1	l4ayqm	SF		Ordonez/Breunich		Raiszadeh/Ziff	64
+21-78345	2	101	1	1	1	frmng1	l4ayqm	chbn3n	44lwnu	QF		Raiszadeh/Ziff		Watton/Jorjoliani	61
+21-78345	2	102	1	3	1	ifb17t	ey9ez0	bmhibw	5kauua	F		Fonte/Kanapatskaya		Bouzgarrou/Haakanss…	62
+21-78345	2	102	1	2	1	ifb17t	ey9ez0	v52h0n	skv0lm	SF		Fonte/Kanapatskaya		Perez Mur/Miranda	63
+21-78345	2	102	1	2	1	bmhibw	5kauua	tgdsby	gz9pxx	SF		Bouzgarrou/Haakanss…		Rimondini/Sakar	64
+21-78345	2	102	1	1	1	ifb17t	ey9ez0	v07kpm	tkxgru	QF		Fonte/Kanapatskaya		Wilkins/Safont	63
+21-78345	2	102	1	1	1	v52h0n	skv0lm	lsaaem	t3c3yx	QF		Perez Mur/Miranda		Adiaconitei/Stein	63
+21-78345	2	102	1	1	1	tgdsby	gz9pxx	s387mh	c9gtyv	QF		Rimondini/Sakar		Kuzina/Dancenco	64
+21-78345	2	102	1	1	1	bmhibw	5kauua	am2o28	etgxu7	QF		Bouzgarrou/Haakanss…		Gong/Shrivistava	63
+21-78345	2	102	2	1	1	lsaaem	t3c3yx	v07kpm	tkxgru	SQ		Adiaconitei/Stein		Wilkins/Safont	76(7)
+21-78345	2	102	2	1	1	s387mh	c9gtyv	am2o28	etgxu7	SQ		Kuzina/Dancenco		Gong/Shrivistava	76(9)
+21-78345	2	103	1	3	1	v4h0be	vo0usu	qtalcj	f7d1tp	F		Brodsky/Strugnell		Gallo/Roshkoff	64
+21-78345	2	103	1	2	1	v4h0be	vo0usu	0xwpyn	ph3vfr	SF		Brodsky/Strugnell		Lopez/Devarakonda	75
+21-78345	2	103	1	2	1	qtalcj	f7d1tp	c81ora	zefmlc	SF		Gallo/Roshkoff		Brumfield/Feodorov	75
+21-78345	2	103	1	1	1	v4h0be	vo0usu	mo0usu	xnn5rh	QF		Brodsky/Strugnell		Soyer/Walle	61
+21-78345	2	103	1	1	1	0xwpyn	ph3vfr	7o9cju	ydpjhj	QF		Lopez/Devarakonda		Balog/Savu	62
+21-78345	2	103	1	1	1	c81ora	zefmlc	oj115d	xulu7o	QF		Brumfield/Feodorov		Saravanan/Badawi	62
+21-78345	2	103	1	1	1	qtalcj	f7d1tp	wzsfi1	9eww08	QF		Gallo/Roshkoff		Storkaas/Compuesto	75
+21-78345	2	103	2	1	1	mo0usu	xnn5rh	7o9cju	ydpjhj	SQ		Soyer/Walle		Balog/Savu	64
+21-78345	2	103	2	1	1	oj115d	xulu7o	wzsfi1	9eww08	SQ		Saravanan/Badawi		Storkaas/Compuesto	64
+21-78345	2	104	1	3	1	x1a1wv	qjx5tx	cqosoc	ucvk1a	F		Amineni/Kerr		Lerby/Xu	64
+21-78345	2	104	1	2	1	x1a1wv	qjx5tx	5w0ac6	8n4f6d	SF		Amineni/Kerr		Maheshwari/Smith	64
+21-78345	2	104	1	2	1	cqosoc	ucvk1a	nj115d	r2xyrc	SF		Lerby/Xu		Seah/Semenovski	76(2)
+21-78345	2	104	1	1	1	x1a1wv	qjx5tx	tavy5g	b1gdej	QF		Amineni/Kerr		Erechtchenko/Maduel	75
+21-78345	2	104	1	1	1	5w0ac6	8n4f6d	w34ba1	b7blnh	QF		Maheshwari/Smith		de Lucas/Nielsen	63
+21-78345	2	104	1	1	1	cqosoc	ucvk1a	g81ora	mwwe0q	QF		Lerby/Xu		Bach/Cadar	63
+21-78345	2	104	1	1	1	nj115d	r2xyrc	ci36do	prz1jh	QF		Seah/Semenovski		Nguyen/El Ashram	61
+21-78345	2	104	2	1	1	w34ba1	b7blnh	tavy5g	b1gdej	SQ		de Lucas/Nielsen		Erechtchenko/Maduel	76(1)
+21-78345	2	104	2	1	1	g81ora	mwwe0q	ci36do	prz1jh	SQ		Bach/Cadar		Nguyen/El Ashram	61
+21-78345	2	105	1	2	1	a7qfw5	qbz5ft	zh1f9j	8a3qtc	SF		Haynes/Wood		Bryzgalova/Wang	76(7)
+21-78345	2	105	1	2	1	6tx793	1v0ze9	66dqvs	d795h9	SF		Rutlauka/Chan		Kimoto/Ito	63
+21-78345	2	105	1	1	1	zh1f9j	8a3qtc	ynfd3l	37595t	QF		Bryzgalova/Wang		Dunleavy/Bretkelly	76(8)
+21-78345	2	105	1	1	1	a7qfw5	qbz5ft	wpohqf	7vnlbt	QF		Haynes/Wood		Cataldi/Mukhortova	64
+21-78345	2	105	1	1	1	6tx793	1v0ze9	vd4dq7	3dpjhj	QF		Rutlauka/Chan		Maquet/Schech	63
+21-78345	2	105	1	1	1	66dqvs	d795h9	uod8va	p6f610	QF		Kimoto/Ito		Huang/Mi	60
+21-78345	2	105	2	1	1	wpohqf	7vnlbt	ynfd3l	37595t	SQ		Cataldi/Mukhortova		Dunleavy/Bretkelly	64
+21-78345	2	105	2	1	1	vd4dq7	3dpjhj	uod8va	p6f610	SQ		Maquet/Schech		Huang/Mi	62
+21-78423	2	101	1	1	1	j5w5iz	tro3m9	se28iw	z9i943	16		Carbone/Stejskalova		Petushkova/Haagensen	84
+21-78423	2	101	1	1	1	zbrdrx	r7ub8l	z6q4y8	2e4oo4	16		Dimitriev/Rakita		Absisan/Tiemeyer	85
+21-78423	2	101	1	1	1	cfyn4d	gmnutk	57wret	m07kpm	16		Perova/Milner		Stephani/Walczak	87(5)
+21-78423	2	101	1	1	1	syfqho	rpsd2v	0avy5g	uur6pc	16		Welch/Lukyanova		Di Giulio/Miller	84
+21-78423	2	101	1	1	1	rjvpnp	45nnrz	tp9nhr	nkauua	16		Durham/Tylek		Hunt/Gaskell	84
+21-78423	2	101	1	1	1	4h3vfr	rvnlbt	2v4vqp	m0187y	16		Dmitrieva/Naves		Linscott/Kelley	82
+21-78423	2	102	1	1	1	se28iw	57wret	0avy5g	uur6pc	16		Petushkova/Stephani		Di Giulio/Miller	85
+21-78423	2	102	1	1	1	j5w5iz	tro3m9	zbrdrx	r7ub8l	16		Carbone/Stejskalova		Dimitriev/Rakita	84
+21-78423	2	102	1	1	1	z6q4y8	m0187y	z9i943	nak088	16		Absisan/Kelley		Haagensen/Stepan	85
+21-78423	2	102	1	1	1	syfqho	rpsd2v	cfyn4d	45nnrz	16		Welch/Lukyanova		Perova/Tylek	83
+21-78423	2	102	1	1	1	m07kpm	kn0jux	2v4vqp	2e4oo4	16		Walczak/Lee		Linscott/Tiemeyer	83
+21-78423	2	102	1	1	1	rjvpnp	8zknu5	4h3vfr	rvnlbt	16		Durham/Cavestro		Dmitrieva/Naves	86
+21-78423	2	103	1	1	1	se28iw	m07kpm	zbrdrx	r7ub8l	16		Petushkova/Walczak		Dimitriev/Rakita	83
+21-78423	2	103	1	1	1	z6q4y8	0avy5g	j5w5iz	tro3m9	16		Absisan/Di Giulio		Carbone/Stejskalova	86
+21-78423	2	103	1	1	1	57wret	nak088	syfqho	rpsd2v	16		Stephani/Stepan		Welch/Lukyanova	83
+21-78423	2	103	1	1	1	cfyn4d	gmnutk	2v4vqp	uur6pc	16		Perova/Milner		Linscott/Miller	85
+21-78423	2	103	1	1	1	z9i943	7cropu	4h3vfr	rvnlbt	16		Haagensen/Neville		Dmitrieva/Naves	82
+21-78423	2	103	1	1	1	45nnrz	8zknu5	m0187y	2e4oo4	16		Tylek/Cavestro		Kelley/Tiemeyer	86
+21-78857	2	101	1	1	1	gjt9hh	sttbxn	im80kw	92vil4	32		Bartolome/Keberle		Starr/McCain	75
+21-78857	2	101	1	1	1	idrznr	q91zp7	fe0sco	k5nnrz	32		Turco/Job		Malm/Zamburek	64
+21-78857	2	101	1	1	1	9iza18	ktgxu7	mc42sa	09x3dr	32		Deming/Titova		Chen/Astakhova	63
+21-78857	2	101	1	1	1	64r85i	lpb3nz	lp77bj	atx793	32		Xin/Nonoyama		Evans/Sayfetdinova	62
+21-78857	2	101	1	1	1	bjibk9	7jvpnp	1r1hpp	ttznfb	32		Nylander/Doyle		Ishimura/Vasupongch…	75
+21-78857	2	101	1	1	1	qmagq4	bi72p4	xe4oo4	eoyemm	32		Zlatarova/Weir		Thompson/Pinto	63
+21-78857	2	101	1	1	1	f0kys2	7501uf	gazuhw	9z3df9	32		Lagarde/Manyoma Vel…		Minetti/Dohnalova	64
+21-78857	2	101	1	1	1	1nht9t	g1gdej	r2xyrc	6ag4ws	32		Komac/Main		Semenovski/Larrain	61
+21-78857	2	101	1	1	1	rfw7y5	uny3op	0jgve1	38qqu2	32		Lee/Gledic		Marinkov/Peet	64
+21-78857	2	101	1	1	1	1caeay	w5dfxv	rnht9t	p5hb9b	32		Omoworare/Beyebach		Klevisar/Ishibashi	63
+21-78857	2	101	1	1	1	nj115d	7vnlbt	v5fv33	punadw	32		Seah/Mukhortova		Fulgenzi/Fulgenzi	60
+21-78857	2	101	1	1	1	7yfqho	c7mjkp	aiza18	o2e868	32		Wild/Apisah		Franco Salcedo/Park…	64
+21-78857	2	101	1	1	1	yf03al	nvyj81	9fursx	nh3vfr	32		Stepp/Alloyarova		Hamanaga/Engback	61
+21-78857	2	102	1	1	1	gjt9hh	sttbxn	idrznr	q91zp7	32		Bartolome/Keberle		Turco/Job	61
+21-78857	2	102	1	1	1	9iza18	ktgxu7	64r85i	lpb3nz	32		Deming/Titova		Xin/Nonoyama	63
+21-78857	2	102	1	1	1	lp77bj	atx793	mc42sa	09x3dr	32		Evans/Sayfetdinova		Chen/Astakhova	62
+21-78857	2	102	1	1	1	fe0sco	k5nnrz	im80kw	92vil4	32		Malm/Zamburek		Starr/McCain	76(4)
+21-78857	2	102	1	1	1	qmagq4	bi72p4	bjibk9	7jvpnp	32		Zlatarova/Weir		Nylander/Doyle	63
+21-78857	2	102	1	1	1	1nht9t	g1gdej	f0kys2	7501uf	32		Komac/Main		Lagarde/Manyoma Vel…	62
+21-78857	2	102	1	1	1	gazuhw	9z3df9	r2xyrc	6ag4ws	32		Minetti/Dohnalova		Semenovski/Larrain	76(4)
+21-78857	2	102	1	1	1	1r1hpp	ttznfb	xe4oo4	eoyemm	32		Ishimura/Vasupongch…		Thompson/Pinto	63
+21-78857	2	102	1	1	1	rfw7y5	uny3op	1caeay	w5dfxv	32		Lee/Gledic		Omoworare/Beyebach	61
+21-78857	2	102	1	1	1	ozi7ox	c5jrfj	v5fv33	punadw	32		Anzalotta/Martins		Fulgenzi/Fulgenzi	62
+21-78857	2	102	1	1	1	rnht9t	p5hb9b	0jgve1	38qqu2	32		Klevisar/Ishibashi		Marinkov/Peet	62
+21-78857	2	102	1	1	1	yf03al	nvyj81	aiza18	o2e868	32		Stepp/Alloyarova		Franco Salcedo/Park…	61
+21-78857	2	102	1	1	1	7yfqho	c7mjkp	9fursx	nh3vfr	32		Wild/Apisah		Hamanaga/Engback	63
+21-78857	2	103	1	1	1	9iza18	ktgxu7	gjt9hh	sttbxn	32		Deming/Titova		Bartolome/Keberle	64
+21-78857	2	103	1	1	1	lp77bj	atx793	fe0sco	k5nnrz	32		Evans/Sayfetdinova		Malm/Zamburek	75
+21-78857	2	103	1	1	1	mc42sa	09x3dr	im80kw	92vil4	32		Chen/Astakhova		Starr/McCain	61
+21-78857	2	103	1	1	1	idrznr	q91zp7	64r85i	lpb3nz	32		Turco/Job		Xin/Nonoyama	60
+21-78857	2	103	1	1	1	qmagq4	bi72p4	1nht9t	g1gdej	32		Zlatarova/Weir		Komac/Main	64
+21-78857	2	103	1	1	1	gazuhw	9z3df9	1r1hpp	ttznfb	32		Minetti/Dohnalova		Ishimura/Vasupongch…	62
+21-78857	2	103	1	1	1	bjibk9	7jvpnp	f0kys2	7501uf	32		Nylander/Doyle		Lagarde/Manyoma Vel…	62
+21-78857	2	103	1	1	1	r2xyrc	6ag4ws	xe4oo4	eoyemm	32		Semenovski/Larrain		Thompson/Pinto	76(3)
+21-78857	2	103	1	1	1	ozi7ox	c5jrfj	rfw7y5	uny3op	32		Anzalotta/Martins		Lee/Gledic	76(4)
+21-78857	2	103	1	1	1	nj115d	7vnlbt	rnht9t	p5hb9b	32		Seah/Mukhortova		Klevisar/Ishibashi	63
+21-78857	2	103	1	1	1	v5fv33	punadw	1caeay	w5dfxv	32		Fulgenzi/Fulgenzi		Omoworare/Beyebach	63
+21-78857	2	103	1	1	1	yf03al	nvyj81	7yfqho	c7mjkp	32		Stepp/Alloyarova		Wild/Apisah	62
+21-78857	2	103	1	1	1	aiza18	o2e868	9fursx	nh3vfr	32		Franco Salcedo/Park…		Hamanaga/Engback	61
+21-79025	4	101	1	3	1	wm6keo	2uv21s	v6bapk	wscqku	F		Penshorn/Vigil		Flores/Cushing	64
+21-79025	4	101	1	2	1	wm6keo	2uv21s	v5fv33	punadw	SF		Penshorn/Vigil		Fulgenzi/Fulgenzi	76(6)
+21-79025	4	101	1	2	1	v6bapk	wscqku	ce0sco	5hml0v	SF		Flores/Cushing		Leslie/Gaskins	63
+21-79025	4	101	1	1	1	v5fv33	punadw	254x6v	lkv0lm	QF		Fulgenzi/Fulgenzi		Sprayberry/Nave	60
+21-79025	4	101	1	1	1	wm6keo	2uv21s	f6u0ao	6i1q7g	QF		Penshorn/Vigil		Hill/Kim	64
+21-79025	4	101	1	1	1	v6bapk	wscqku	oxhvpz	v6hm78	QF		Flores/Cushing		Rodriquez/Ruiz	60
+21-79025	4	101	1	1	1	ce0sco	5hml0v	5834xi	gatiz8	QF		Leslie/Gaskins		Enloe/Brancaleon	61
+21-79025	4	101	2	2	1	f6u0ao	6i1q7g	oxhvpz	v6hm78	F		Hill/Kim		Rodriquez/Ruiz	60
+21-79025	4	101	2	1	1	f6u0ao	6i1q7g	254x6v	lkv0lm	SF		Hill/Kim		Sprayberry/Nave	60
+21-79025	4	101	2	1	1	oxhvpz	v6hm78	5834xi	gatiz8	SF		Rodriquez/Ruiz		Enloe/Brancaleon	61
+21-79025	4	101	3	1	1	v5fv33	punadw	ce0sco	5hml0v	F		Fulgenzi/Fulgenzi		Leslie/Gaskins	62
+21-79025	4	101	4	1	1	254x6v	lkv0lm	5834xi	gatiz8	F		Sprayberry/Nave		Enloe/Brancaleon	75
+21-79025	4	102	1	3	1	03vtj1	jjef8t	uac8kc	u60csc	F		Vargas/Garcia		Carpenter/Teran	61
+21-79025	4	102	1	2	1	uac8kc	u60csc	aiza18	o2e868	SF		Carpenter/Teran		Franco Salcedo/Park…	62
+21-79025	4	102	1	2	1	03vtj1	jjef8t	5z5tlh	nq7i9g	SF		Vargas/Garcia		Hughes/Miller	61
+21-79025	4	102	1	1	1	aiza18	o2e868	oqq8uk	2efmlc	QF		Franco Salcedo/Park…		Parrott/Denton	60
+21-79025	4	102	1	1	1	uac8kc	u60csc	54nct2	txy54v	QF		Carpenter/Teran		Morales/Orvis	62
+21-79025	4	102	1	1	1	03vtj1	jjef8t	t5hb9b	obttx5	QF		Vargas/Garcia		Jonescue/Johnson	60
+21-79025	4	102	1	1	1	5z5tlh	nq7i9g	mktkfe	ojx5tx	QF		Hughes/Miller		Janssen/Hudson	64
+21-79025	4	102	2	2	1	mktkfe	ojx5tx	54nct2	txy54v	F		Janssen/Hudson		Morales/Orvis	63
+21-79025	4	102	2	1	1	54nct2	txy54v	oqq8uk	2efmlc	SF		Morales/Orvis		Parrott/Denton	63
+21-79025	4	102	2	1	1	mktkfe	ojx5tx	t5hb9b	obttx5	SF		Janssen/Hudson		Jonescue/Johnson	60
+21-79025	4	102	3	1	1	5z5tlh	nq7i9g	aiza18	o2e868	F		Hughes/Miller		Franco Salcedo/Park…	64
+21-79025	4	102	4	1	1	oqq8uk	2efmlc	t5hb9b	obttx5	F		Parrott/Denton		Jonescue/Johnson	61
+21-79025	4	103	1	3	1	h9olmr	ji1q7g	ihbn3n	k8s60a	F		Thane/Ioannou		Vogelmann/Stafford	63
+21-79025	4	103	1	2	1	ihbn3n	k8s60a	fn0jux	kigkg4	SF		Vogelmann/Stafford		Lee/Cummings	75
+21-79025	4	103	1	2	1	h9olmr	ji1q7g	9xdzdj	2rk7at	SF		Thane/Ioannou		Kermet/Landaluce	62
+21-79025	4	103	1	1	1	ihbn3n	k8s60a	1a1an4	wgdsby	QF		Vogelmann/Stafford		Sanchez/Sanchez	60
+21-79025	4	103	1	1	1	h9olmr	ji1q7g	bc6iyi	6vp1h1	QF		Thane/Ioannou		Hatchett/Richard	62
+21-79025	4	103	1	1	1	9xdzdj	2rk7at	ul8pmz	hnlpl9	QF		Kermet/Landaluce		Madamba/Rompel	61
+21-79025	4	103	2	2	1	bc6iyi	6vp1h1	1a1an4	wgdsby	F		Hatchett/Richard		Sanchez/Sanchez	61
+21-79025	4	103	2	1	1	bc6iyi	6vp1h1	ul8pmz	hnlpl9	SF		Hatchett/Richard		Madamba/Rompel	60
+21-79025	4	103	3	1	1	9xdzdj	2rk7at	fn0jux	kigkg4	F		Kermet/Landaluce		Lee/Cummings	60
+21-79025	4	104	1	3	1	c1z3zn	f93fvf	3hk5un	7tehoz	F		Munoz/Navarro-Cavaz…		Castleberry/Omeire	62
+21-79025	4	104	1	2	1	3hk5un	7tehoz	6se6q2	nr1hpp	SF		Castleberry/Omeire		Gardner/Hoffman	60
+21-79025	4	104	1	2	1	c1z3zn	f93fvf	h0meya	vtalcj	SF		Munoz/Navarro-Cavaz…		Nutt/Garcia	60
+21-80794	2	101	1	3	1	02zexk	cnn5rh	zg7gta	8h97xf	F		Voloshyna/Weber		Dule/Rescia	84
+21-80794	2	101	1	2	1	02zexk	cnn5rh	je0sco	tag4ws	SF		Voloshyna/Weber		Kronsbein/Maher	81
+21-80794	2	101	1	2	1	zg7gta	8h97xf	cwj0xa	qs1snm	SF		Dule/Rescia		Montserrat/Schipper	85
+21-80794	2	101	1	1	1	02zexk	cnn5rh	5dpjhj	ojzlz5	QF		Voloshyna/Weber		Romero/Mille	82
+21-80794	2	101	1	1	1	je0sco	tag4ws	vn0jux	b387mh	QF		Kronsbein/Maher		Laney/Lewis	83
+21-80794	2	101	1	1	1	cwj0xa	qs1snm	zc8y4q	d4lwnu	QF		Montserrat/Schipper		Lawrence/Kidd	81
+21-80794	2	101	1	1	1	zg7gta	8h97xf	ksgmwa	u44m8y	QF		Dule/Rescia		Lippens/Lombardt	87(4)
+21-80794	2	101	2	1	1	vn0jux	b387mh	5dpjhj	ojzlz5	SF		Laney/Lewis		Romero/Mille	84
+21-80794	2	101	2	1	1	zc8y4q	d4lwnu	ksgmwa	u44m8y	SF		Lawrence/Kidd		Lippens/Lombardt	85
+21-80794	2	101	3	1	1	je0sco	tag4ws	cwj0xa	qs1snm	F		Kronsbein/Maher		Montserrat/Schipper	84
+21-80794	2	102	1	3	1	pcp8jm	gcnsde	37fhzx	g2p63g	F		Howeler/Fernandez		Yuksel/Aylward	84
+21-80794	2	102	1	2	1	pcp8jm	gcnsde	6501uf	kq16rs	SF		Howeler/Fernandez		Krusling/Beasley	86
+21-80794	2	102	1	2	1	37fhzx	g2p63g	jutmvk	czoj6l	SF		Yuksel/Aylward		Schoorsmans/Mariotti	84
+21-80794	2	102	1	1	1	pcp8jm	gcnsde	7c6iyi	dj3hbl	QF		Howeler/Fernandez		Gunning/Zeilstra	82
+21-80794	2	102	1	1	1	6501uf	kq16rs	ved6f4	s7ozqx	QF		Krusling/Beasley		Balko/Caddick	87(4)
+21-80794	2	102	1	1	1	37fhzx	g2p63g	58qqu2	5m08w0	QF		Yuksel/Aylward		Nwokolo/Caballero	83
+21-80794	2	102	1	1	1	jutmvk	czoj6l	1ofo1i	yxffjr	QF		Schoorsmans/Mariotti		Martinez/Matute	87(3)
+21-80794	2	102	2	2	1	58qqu2	5m08w0	ved6f4	s7ozqx	F		Nwokolo/Caballero		Balko/Caddick	86
+21-80794	2	102	2	1	1	ved6f4	s7ozqx	7c6iyi	dj3hbl	SF		Balko/Caddick		Gunning/Zeilstra	82
+21-80794	2	102	2	1	1	58qqu2	5m08w0	1ofo1i	yxffjr	SF		Nwokolo/Caballero		Martinez/Matute	84
+21-80794	2	102	3	1	1	6501uf	kq16rs	jutmvk	czoj6l	F		Krusling/Beasley		Schoorsmans/Mariotti	84
+21-80794	2	102	4	1	1	7c6iyi	dj3hbl	1ofo1i	yxffjr	F		Gunning/Zeilstra		Martinez/Matute	86
+21-80794	2	103	1	3	1	soh47q	aofo1i	7l69gr	updjt7	F		Ray/Mehn		Garcia/Ryhsen	86
+21-80794	2	103	1	2	1	7l69gr	updjt7	ty9ez0	19m5gj	SF		Garcia/Ryhsen		Katoudi/Pita	85
+21-80794	2	103	1	2	1	soh47q	aofo1i	o7wret	a9olmr	SF		Ray/Mehn		Ten Bos/Sjostrom Kr…	83
+21-80794	2	103	1	1	1	7l69gr	updjt7	mt856b	hsvg5y	QF		Garcia/Ryhsen		Collins/Forma	83
+21-80794	2	103	1	1	1	ty9ez0	19m5gj	mtalcj	0z79rp	QF		Katoudi/Pita		Hays/Miines	81
+21-80794	2	103	1	1	1	o7wret	a9olmr	ehqhcb	hst0zq	QF		Ten Bos/Sjostrom Kr…		Pratt/Bird	83
+21-80794	2	103	1	1	1	soh47q	aofo1i	ha3qtc	sl69gr	QF		Ray/Mehn		Willocks/Higgins	83
+21-80794	2	103	2	1	1	mt856b	hsvg5y	mtalcj	0z79rp	SF		Collins/Forma		Hays/Miines	82
+21-80794	2	103	2	1	1	ehqhcb	hst0zq	ha3qtc	sl69gr	SF		Pratt/Bird		Willocks/Higgins	85
+21-80794	2	103	3	1	1	o7wret	a9olmr	ty9ez0	19m5gj	F		Ten Bos/Sjostrom Kr…		Katoudi/Pita	86
+21-80794	2	104	1	3	1	e5ylo7	kbttx5	gxy54v	s5hb9b	R3		Goodall/Impalea		Pope/Kelly	81
+21-80794	2	104	1	2	1	e5ylo7	kbttx5	uq16rs	nv4vqp	R2		Goodall/Impalea		Bellamy/Lewis	80
+21-80794	2	104	1	1	1	gxy54v	s5hb9b	uq16rs	nv4vqp	R1		Pope/Kelly		Bellamy/Lewis	82
+21-82687	2	101	1	1	1	8wnw9q	ij3hbl	0gma2y	gw2qie	16		Woog/Tumthong		Alkio/Rabjohns	64
+21-82687	2	101	1	1	1	uaase4	k4r85i	l1itkr	ym08w0	16		Aoki/van der Merwe		Oerfice/Cheshire	76(6)
+21-82687	2	101	1	1	1	egwiw2	pla5s7	x2vil4	8l69gr	16		Smith/Ratkic		Mitchell/Hegarty	63
+21-82687	2	101	1	1	1	upsd2v	3bv93d	3gf8h6	iz1x91	16		Kukaras/Ncube		Walther/Barber	62
+21-82687	2	102	1	1	1	uaase4	k4r85i	8wnw9q	ij3hbl	16		Aoki/van der Merwe		Woog/Tumthong	63
+21-82687	2	102	1	1	1	egwiw2	pla5s7	upsd2v	3bv93d	16		Smith/Ratkic		Kukaras/Ncube	63
+21-82687	2	102	1	1	1	3gf8h6	iz1x91	x2vil4	8l69gr	16		Walther/Barber		Mitchell/Hegarty	61
+21-82687	2	103	1	3	1	2put83	wnj9f1	dv6bwx	7keq6q	F		Pratt/McColgan		Pitak/Pitak	62
+21-82687	2	103	1	2	1	dv6bwx	7keq6q	cb8n6t	jp5r5b	SF		Pitak/Pitak		Clark/Borland	64
+21-82687	2	103	1	2	1	2put83	wnj9f1	0nwnih	2w2qie	SF		Pratt/McColgan		Danailova/Pinto	61
+21-82687	2	103	1	1	1	dv6bwx	7keq6q	faase4	5axebo	QF		Pitak/Pitak		Amendola/Jacobs	76(4)
+21-82687	2	103	1	1	1	cb8n6t	jp5r5b	y6sk4g	wpohqf	QF		Clark/Borland		Cai/Cataldi	62
+21-82687	2	103	1	1	1	0nwnih	2w2qie	na1an4	7lrf73	QF		Danailova/Pinto		Romero/Meyer	75
+21-82687	2	103	1	1	1	2put83	wnj9f1	il8pmz	lsgmwa	QF		Pratt/McColgan		Krzyzak/Leclerq-Fic…	61
+21-82687	2	103	2	2	1	il8pmz	lsgmwa	y6sk4g	wpohqf	F		Krzyzak/Leclerq-Fic…		Cai/Cataldi	63
+21-82687	2	103	2	1	1	y6sk4g	wpohqf	faase4	5axebo	SF		Cai/Cataldi		Amendola/Jacobs	61
+21-82687	2	103	2	1	1	il8pmz	lsgmwa	na1an4	7lrf73	SF		Krzyzak/Leclerq-Fic…		Romero/Meyer	64
+21-82687	2	103	3	1	1	cb8n6t	jp5r5b	0nwnih	2w2qie	F		Clark/Borland		Danailova/Pinto	61
+21-82687	2	103	4	1	1	na1an4	7lrf73	faase4	5axebo	F		Romero/Meyer		Amendola/Jacobs	63
+21-82687	2	104	1	3	1	tpw9eb	nw0ac6	fcropu	yrz1jh	F		Theis/Lavery		Mellynchuk/Ferreira…	61
+21-82687	2	104	1	2	1	fcropu	yrz1jh	evnlbt	09x3dr	SF		Mellynchuk/Ferreira…		Meredith/Astakhova	75
+21-82687	2	104	1	2	1	tpw9eb	nw0ac6	uqosoc	pmlenc	SF		Theis/Lavery		Markham/Johnson	64
+21-82687	2	104	1	1	1	evnlbt	09x3dr	vpohqf	tgwiw2	QF		Meredith/Astakhova		Clark/Som	76(5)
+21-82687	2	104	1	1	1	fcropu	yrz1jh	00iimu	05hb9b	QF		Mellynchuk/Ferreira…		Hernandez/Hu	63
+21-82687	2	104	1	1	1	tpw9eb	nw0ac6	1upqj4	8xjbv7	QF		Theis/Lavery		Khokhlova/Widing	64
+21-82687	2	104	1	1	1	uqosoc	pmlenc	ui36do	q1v7n7	QF		Markham/Johnson		Mikhailuk/Falceto	75
+21-82687	2	104	2	2	1	vpohqf	tgwiw2	ui36do	q1v7n7	F		Clark/Som		Mikhailuk/Falceto	63
+21-82687	2	104	2	1	1	vpohqf	tgwiw2	00iimu	05hb9b	SF		Clark/Som		Hernandez/Hu	64
+21-82687	2	104	2	1	1	ui36do	q1v7n7	1upqj4	8xjbv7	SF		Mikhailuk/Falceto		Khokhlova/Widing	63
+21-82687	2	104	3	1	1	evnlbt	09x3dr	uqosoc	pmlenc	F		Meredith/Astakhova		Markham/Johnson	76(5)
+21-82687	2	104	4	1	1	1upqj4	8xjbv7	00iimu	05hb9b	F		Khokhlova/Widing		Hernandez/Hu	64
+21-82687	2	105	1	1	1	8wnw9q	ij3hbl	egwiw2	pla5s7	QF		Woog/Tumthong		Smith/Ratkic	62
+21-82687	2	105	1	1	1	uaase4	k4r85i	upsd2v	3bv93d	QF		Aoki/van der Merwe		Kukaras/Ncube	64
+21-82687	2	105	1	1	1	0gma2y	gw2qie	3gf8h6	iz1x91	QF		Alkio/Rabjohns		Walther/Barber	61
+21-82687	2	105	1	1	1	lmagq4	vr3xvx	x2vil4	8l69gr	QF		Zhu/Mullen		Mitchell/Hegarty	61
+21-82687	2	106	1	3	1	yoh47q	cgu2qu	h8qqu2	u0zs1q	F		Sedlackova/Parkhome…		Pool/Gabrielsen	61
+21-82687	2	106	1	2	1	h8qqu2	u0zs1q	t07kpm	73n1v5	SF		Pool/Gabrielsen		Tutunaru/Fujioka	63
+21-82687	2	106	1	2	1	yoh47q	cgu2qu	vjkrqh	yq7i9g	SF		Sedlackova/Parkhome…		Staiculescu/Mejic	60
+21-82687	2	106	1	1	1	t07kpm	73n1v5	v52h0n	c81ora	QF		Tutunaru/Fujioka		Perez Mur/Brumfield	63
+21-82687	2	106	1	1	1	h8qqu2	u0zs1q	7pm1k7	yzknu5	QF		Pool/Gabrielsen		Andreini/Cartledge	64
+21-82687	2	106	1	1	1	vjkrqh	yq7i9g	igoq86	ewnw9q	QF		Staiculescu/Mejic		Clarke/White	63
+21-82687	2	106	1	1	1	yoh47q	cgu2qu	tpfzzf	cgdsby	QF		Sedlackova/Parkhome…		Yelamanchili/Russell	64
+21-82687	2	106	2	2	1	tpfzzf	cgdsby	7pm1k7	yzknu5	F		Yelamanchili/Russell		Andreini/Cartledge	60
+21-82687	2	106	2	1	1	7pm1k7	yzknu5	v52h0n	c81ora	SF		Andreini/Cartledge		Perez Mur/Brumfield	64
+21-82687	2	106	2	1	1	tpfzzf	cgdsby	igoq86	ewnw9q	SF		Yelamanchili/Russell		Clarke/White	63
+21-82687	2	106	3	1	1	t07kpm	73n1v5	vjkrqh	yq7i9g	F		Tutunaru/Fujioka		Staiculescu/Mejic	63
+21-82687	2	106	4	1	1	igoq86	ewnw9q	v52h0n	c81ora	F		Clarke/White		Perez Mur/Brumfield	63
+21-82716	2	101	1	6	1	idhrtn	lgsmkm	7aeoqk	ry7yts	F		Bruno/Lee		Henderson/Franta	63 63
+21-82716	2	101	1	5	1	idhrtn	lgsmkm	5kxgru	fdpjhj	SF		Bruno/Lee		Riermann/Rott	84
+21-82716	2	101	1	5	1	7aeoqk	ry7yts	kavy5g	fwnw9q	SF		Henderson/Franta		Dorr/Walker	85
+21-82716	2	101	1	4	1	5kxgru	fdpjhj	e6sk4g	8gsmkm	QF		Riermann/Rott		De Los Reyes/Mancha…	81
+21-82716	2	101	1	4	1	idhrtn	lgsmkm	lxy54v	f2e868	QF		Bruno/Lee		Potockova/Oda	83
+21-82716	2	101	1	4	1	7aeoqk	ry7yts	wgwiw2	lbrdrx	QF		Henderson/Franta		Tarrolly/Fredericks	83
+21-82716	2	101	1	4	1	kavy5g	fwnw9q	s4psza	upqxwn	QF		Dorr/Walker		Rosentreter/Hernand…	83
+21-82716	2	101	1	3	1	5kxgru	fdpjhj	m2p63g	8ely30	16		Riermann/Rott		Budewitz/Samuta	86
+21-82716	2	101	1	3	1	e6sk4g	8gsmkm	tuccgo	1n4f6d	16		De Los Reyes/Mancha…		Trebil/Stutz	86
+21-82716	2	101	1	3	1	idhrtn	lgsmkm	vy5ink	76f610	16		Bruno/Lee		Brooks/Nelson	82
+21-82716	2	101	1	3	1	lxy54v	f2e868	71ch23	uazuhw	16		Potockova/Oda		Carew/Murphy	82
+21-82716	2	101	1	3	1	7aeoqk	ry7yts	26bapk	00zs1q	16		Henderson/Franta		Egge/Forknell	86
+21-82716	2	101	1	3	1	wgwiw2	lbrdrx	90g2gm	vi5mjw	16		Tarrolly/Fredericks		Day/Rueth	84
+21-82716	2	101	1	3	1	kavy5g	fwnw9q	nltvdb	ela5s7	16		Dorr/Walker		Sackett/Olimpio	86
+21-82716	2	101	1	3	1	s4psza	upqxwn	ojvpnp	41gdej	16		Rosentreter/Hernand…		Gaedtke/LaBelle	85
+21-82716	2	101	1	2	1	5kxgru	fdpjhj	pjt9hh	6bpxlp	32		Riermann/Rott		Bigelow/Bigelow	81
+21-82716	2	101	1	2	1	m2p63g	8ely30	zaase4	w7ub8l	32		Budewitz/Samuta		Apostoli/Ramsey	87(2)
+21-82716	2	101	1	2	1	e6sk4g	8gsmkm	q0g2gm	7o0usu	32		De Los Reyes/Mancha…		Cook/Smith	85
+21-82716	2	101	1	2	1	tuccgo	1n4f6d	rw0ac6	493fvf	32		Trebil/Stutz		Lindow/Nikoleit	85
+21-82716	2	101	1	2	1	vy5ink	76f610	tx0la3	y2acus	32		Brooks/Nelson		Steinert/Hierl	87(8)
+21-82716	2	101	1	2	1	idhrtn	lgsmkm	8pm1k7	cbcji9	32		Bruno/Lee		Agusti/Marin	81
+21-82716	2	101	1	2	1	lxy54v	f2e868	25nnrz	5p9nhr	32		Potockova/Oda		Wanek/King	82
+21-82716	2	101	1	2	1	71ch23	uazuhw	v89gf6	4nn5rh	32		Carew/Murphy		Reynolds/Ulrich	87(4)
+21-82716	2	101	1	2	1	26bapk	00zs1q	4caeay	pyms2g	32		Egge/Forknell		Phillips/Andrae	86
+21-82716	2	101	1	2	1	7aeoqk	ry7yts	fmlenc	o1itkr	32		Henderson/Franta		Jarvis/Perrin	86
+21-82716	2	101	1	2	1	wgwiw2	lbrdrx	vz3df9	4s38tu	32		Tarrolly/Fredericks		Fuchs/Verbauwhede	86
+21-82716	2	101	1	2	1	90g2gm	vi5mjw	02rm9o	g7wret	32		Day/Rueth		Ellison/Sorajja	86
+21-82716	2	101	1	2	1	nltvdb	ela5s7	n34ba1	e2t2fw	32		Sackett/Olimpio		Covek/Koepp	86
+21-82716	2	101	1	2	1	kavy5g	fwnw9q	qimwys	1avy5g	32		Dorr/Walker		Palen/Fuchs	86
+21-82716	2	101	1	2	1	s4psza	upqxwn	qikgsk	5qmci4	32		Rosentreter/Hernand…		Kraft/Ha	84
+21-82716	2	101	1	2	1	ojvpnp	41gdej	wski8q	r9i943	32		Gaedtke/LaBelle		Tang/Giannakou	86
+21-82716	2	101	1	1	1	pjt9hh	6bpxlp	zimwys	sjzlz5	64		Bigelow/Bigelow		Peterson/Morgan	85
+21-82716	2	101	1	1	1	m2p63g	8ely30	4qq8uk	dfyn4d	64		Budewitz/Samuta		Ostrander/Papp	83
+21-82716	2	101	1	1	1	e6sk4g	8gsmkm	7wwe0q	qrmng1	64		De Los Reyes/Mancha…		Dekan/Presler	81
+21-82716	2	101	1	1	1	rw0ac6	493fvf	cfw7y5	w3tddt	64		Lindow/Nikoleit		Larson/Schirm	80
+21-82716	2	101	1	1	1	tuccgo	1n4f6d	20xcvi	kxdzdj	64		Trebil/Stutz		Bailey/Kalinka	84
+21-82716	2	101	1	1	1	vy5ink	76f610	n4262q	wbxp9l	64		Brooks/Nelson		Hastings/Rubbelke	81
+21-82716	2	101	1	1	1	8pm1k7	cbcji9	95w5iz	mak088	64		Agusti/Marin		Callaway/Syverson	80
+21-82716	2	101	1	1	1	25nnrz	5p9nhr	ym448g	6ixuv0	64		Wanek/King		Makatsaria/Bell	87(3)
+21-82716	2	101	1	1	1	71ch23	uazuhw	l4psza	5lpz1v	64		Carew/Murphy		Schepper/Joly	86
+21-82716	2	101	1	1	1	26bapk	00zs1q	wazuhw	644m8y	64		Egge/Forknell		Metcalf/Larson	82
+21-82716	2	101	1	1	1	fmlenc	o1itkr	4fw7y5	sdln53	64		Jarvis/Perrin		Maier/Jankila	84
+21-82716	2	101	1	1	1	vz3df9	4s38tu	7vjpzd	6v6bwx	64		Fuchs/Verbauwhede		Douglas/Norman	83
+21-82716	2	101	1	1	1	90g2gm	vi5mjw	wac8kc	2bcji9	64		Day/Rueth		da Silva/Manojlovic	83
+21-82716	2	101	1	1	1	nltvdb	ela5s7	5q9yfo	1qmci4	64		Sackett/Olimpio		Riegle/Graf	86
+21-82716	2	101	1	1	1	n34ba1	e2t2fw	1h1f9j	gak088	64		Covek/Koepp		Bierbaum/Thole	83
+21-82716	2	101	1	1	1	qimwys	1avy5g	1q5238	enfd3l	64		Palen/Fuchs		Johnson/Dosser	80
+21-82716	2	101	1	1	1	s4psza	upqxwn	nyfqho	nm6keo	64		Rosentreter/Hernand…		Weddle/Orvis	83
+21-82716	2	102	1	4	1	bd2xkz	oavy5g	y4h0be	5dj7zv	F		Haddorff/Elofson		Barretto/Ferguson	87
+21-82716	2	102	1	3	1	y4h0be	5dj7zv	aro3m9	pe28iw	SF		Barretto/Ferguson		Sinnwell/Ono	86
+21-82716	2	102	1	3	1	bd2xkz	oavy5g	23rx7l	4gq6ee	SF		Haddorff/Elofson		Merkatoris/Grimes	81
+21-82716	2	102	1	2	1	y4h0be	5dj7zv	k36rg9	cfb17t	QF		Barretto/Ferguson		Guevara/Fuqua	Walkover
+21-82716	2	102	1	2	1	aro3m9	pe28iw	osvg5y	ehbn3n	QF		Sinnwell/Ono		Ellefsen/Valentini	Walkover
+21-82716	2	102	1	2	1	bd2xkz	oavy5g	xjvpnp	dn4f6d	QF		Haddorff/Elofson		Dodge/Smith	81
+21-82716	2	102	1	2	1	23rx7l	4gq6ee	2d892n	ky5ink	QF		Merkatoris/Grimes		Shogren/Armstrong	86
+21-82716	2	102	1	1	1	k36rg9	cfb17t	jv0ze9	v3vtj1	16		Guevara/Fuqua		Dahl/van Tol	84
+21-82716	2	102	1	1	1	osvg5y	ehbn3n	0ac8kc	yur6pc	16		Ellefsen/Valentini		Burkeland/Morgan	86
+21-82716	2	102	1	1	1	aro3m9	pe28iw	el8pmz	bq9yfo	16		Sinnwell/Ono		Manders/Shepherd	82
+21-82716	2	102	1	1	1	bd2xkz	oavy5g	u4r85i	nzb535	16		Haddorff/Elofson		Vang/Vyskocil	85
+21-82716	2	102	1	1	1	xjvpnp	dn4f6d	t85k3q	aod8va	16		Dodge/Smith		Hoffer/Holmes	83
+21-82716	2	102	1	1	1	2d892n	ky5ink	75ylo7	7kimi6	16		Shogren/Armstrong		Hanson/Zurn	82
+21-82716	2	102	1	1	1	23rx7l	4gq6ee	m91zp7	6brdrx	16		Merkatoris/Grimes		Hutchison/Flynn	82
+21-82716	2	103	1	4	1	f44m8y	n2cs00	fxy54v	vvnlbt	F		Lindrud/Laux		Ramirez Mainou/Mart…	87(7)
+21-82716	2	103	1	3	1	f44m8y	n2cs00	jz5tlh	eur6pc	SF		Lindrud/Laux		Johnson/Moen	80
+21-82716	2	103	1	3	1	fxy54v	vvnlbt	u0xcvi	djef8t	SF		Ramirez Mainou/Mart…		Bourget/Girard	87(2)
+21-82716	2	103	1	2	1	f44m8y	n2cs00	l8muim	e6bapk	QF		Lindrud/Laux		Grimm/DenHartog	84
+21-82716	2	103	1	2	1	jz5tlh	eur6pc	i6f610	jac8kc	QF		Johnson/Moen		Munster/Chait	86
+21-82716	2	103	1	2	1	u0xcvi	djef8t	1s38tu	5ski8q	QF		Bourget/Girard		Wright/Tranquilino	83
+21-82716	2	103	1	2	1	fxy54v	vvnlbt	hzm30d	qa1an4	QF		Ramirez Mainou/Mart…		Haskell/Schmidt	83
+21-82716	2	103	1	1	1	l8muim	e6bapk	7rk7at	wla5s7	16		Grimm/DenHartog		Lapray/Pinto	83
+21-82716	2	103	1	1	1	jz5tlh	eur6pc	drgbyd	bxjbv7	16		Johnson/Moen		Coopmans/Tweet	85
+21-82716	2	103	1	1	1	i6f610	jac8kc	d2t2fw	8lpz1v	16		Munster/Chait		Hu/Knigge	83
+21-82716	2	103	1	1	1	u0xcvi	djef8t	kwyu6y	5q16rs	16		Bourget/Girard		Han/Barker	84
+21-82716	2	103	1	1	1	1s38tu	5ski8q	bl4taj	guv21s	16		Wright/Tranquilino		Buswell/Wentland	82
+21-82716	2	103	1	1	1	hzm30d	qa1an4	guawag	1uawag	16		Haskell/Schmidt		Owa/Olson	84
+21-82716	2	104	1	4	1	0ho163	md0her	9u60y0	58oaou	F		Lassen/Carter-Johns…		Geske/Magnani	86
+21-82716	2	104	1	3	1	0ho163	md0her	kkv0lm	q2t2fw	SF		Lassen/Carter-Johns…		Martin/Kalra	85
+21-82716	2	104	1	3	1	9u60y0	58oaou	cv0ze9	bjvpnp	SF		Geske/Magnani		Carlson/Enright	85
+21-82716	2	104	1	2	1	kkv0lm	q2t2fw	idpjhj	zoyemm	QF		Martin/Kalra		Schurmann/Peterson	87(3)
+21-82716	2	104	1	2	1	0ho163	md0her	lnn5rh	58709y	QF		Lassen/Carter-Johns…		Witt/Nicholson	85
+21-82716	2	104	1	2	1	9u60y0	58oaou	9jx5tx	rbv93d	QF		Geske/Magnani		Hopkins/Mcalpine	83
+21-82716	2	104	1	2	1	cv0ze9	bjvpnp	9sxwb6	lho163	QF		Carlson/Enright		Kaiser/LaDuke	83
+21-82716	2	104	1	1	1	idpjhj	zoyemm	ud0her	52e868	16		Schurmann/Peterson		Costa/O Donnell	84
+21-82716	2	104	1	1	1	0ho163	md0her	hu60y0	4054je	16		Lassen/Carter-Johns…		Hacker/Savageau	84
+21-82716	2	104	1	1	1	lnn5rh	58709y	zkpo3y	uv4vqp	16		Witt/Nicholson		Belschner/Kuecker	80
+21-82716	2	104	1	1	1	9u60y0	58oaou	9v6bwx	yr7t7d	16		Geske/Magnani		Pearson/Werning	83
+21-82716	2	104	1	1	1	9jx5tx	rbv93d	po9cju	8yqoew	16		Hopkins/Mcalpine		Boomgaarden/Hand	83
+21-82716	2	104	1	1	1	9sxwb6	lho163	y0187y	y8s60a	16		Kaiser/LaDuke		Jarchow/Swigart	81
+21-82716	2	104	1	1	1	cv0ze9	bjvpnp	760csc	p1k9qz	16		Carlson/Enright		Smith/Sturm	85
+21-82716	2	105	1	4	1	ohk5un	6dln53	g8s60a	7f9l1l	F		Carlson/Karrow		Skorich/Borchard	85
+21-82716	2	105	1	3	1	g8s60a	7f9l1l	z97b7v	wl8pmz	SF		Skorich/Borchard		Voss/Legel	82
+21-82716	2	105	1	3	1	ohk5un	6dln53	a3n1v5	993fvf	SF		Carlson/Karrow		Dunning/Nolan	84
+21-82716	2	105	1	2	1	z97b7v	wl8pmz	hi1q7g	x4lwnu	QF		Voss/Legel		Kearney/Kleinke	86
+21-82716	2	105	1	2	1	g8s60a	7f9l1l	j6wggw	dv4vqp	QF		Skorich/Borchard		Leithold/Leithold	86
+21-82716	2	105	1	2	1	a3n1v5	993fvf	nm448g	x5dfxv	QF		Dunning/Nolan		Marquardt/Baumgarn	83
+21-82716	2	105	1	2	1	ohk5un	6dln53	5g9wzi	4r3xvx	QF		Carlson/Karrow		Jacobs/Nissen	85
+21-82716	2	105	1	1	1	z97b7v	wl8pmz	nx0la3	6z1x91	16		Voss/Legel		Sundermann/Bilkey	85
+21-82716	2	105	1	1	1	g8s60a	7f9l1l	2fb17t	tw0ac6	16		Skorich/Borchard		Frerking/Kunze	86
+21-82716	2	105	1	1	1	j6wggw	dv4vqp	w0zs1q	dq16rs	16		Leithold/Leithold		Fanciullo/Borchard	83
+21-82716	2	105	1	1	1	a3n1v5	993fvf	u6dqvs	2gq6ee	16		Dunning/Nolan		Hubbard/Helmer	83
+21-82716	2	105	1	1	1	5g9wzi	4r3xvx	t7blnh	8a1an4	16		Jacobs/Nissen		Miller/Robinson	83
+21-82716	2	106	1	5	1	qikgsk	5qmci4	y2acus	kxdzdj	F		Kraft/Ha		Hierl/Kalinka	80
+21-82716	2	106	1	4	1	qikgsk	5qmci4	2lnjvn	sjzlz5	SF		Kraft/Ha		Frye/Morgan	82
+21-82716	2	106	1	4	1	y2acus	kxdzdj	5q9yfo	1qmci4	SF		Hierl/Kalinka		Riegle/Graf	84
+21-82716	2	106	1	3	1	qikgsk	5qmci4	8lpz1v	x4lwnu	QF		Kraft/Ha		Knigge/Kleinke	80
+21-82716	2	106	1	3	1	2lnjvn	sjzlz5	xjvpnp	dn4f6d	QF		Frye/Morgan		Dodge/Smith	87(3)
+21-82716	2	106	1	3	1	5q9yfo	1qmci4	l4psza	5lpz1v	QF		Riegle/Graf		Schepper/Joly	86
+21-82716	2	106	1	3	1	y2acus	kxdzdj	8a1an4	2d892n	QF		Hierl/Kalinka		Robinson/Shogren	80
+21-82716	2	106	1	2	1	qikgsk	5qmci4	k36rg9	cfb17t	16		Kraft/Ha		Guevara/Fuqua	84
+21-82716	2	106	1	2	1	8lpz1v	x4lwnu	1q5238	enfd3l	16		Knigge/Kleinke		Johnson/Dosser	85
+21-82716	2	106	1	2	1	2lnjvn	sjzlz5	u4r85i	nzb535	16		Frye/Morgan		Vang/Vyskocil	87(3)
+21-82716	2	106	1	2	1	xjvpnp	dn4f6d	1uawag	95w5iz	16		Dodge/Smith		Olson/Callaway	83
+21-82716	2	106	1	2	1	l4psza	5lpz1v	n34ba1	dv4vqp	16		Schepper/Joly		Covek/Leithold	81
+21-82716	2	106	1	2	1	5q9yfo	1qmci4	5p9nhr	5ski8q	16		Riegle/Graf		King/Tranquilino	86
+21-82716	2	106	1	2	1	8a1an4	2d892n	mak088	75ylo7	16		Robinson/Shogren		Syverson/Hanson	87(2)
+21-82716	2	106	1	2	1	y2acus	kxdzdj	5g9wzi	4r3xvx	16		Hierl/Kalinka		Jacobs/Nissen	81
+21-82716	2	106	1	1	1	k36rg9	cfb17t	drgbyd	bxjbv7	32		Guevara/Fuqua		Coopmans/Tweet	86
+21-82716	2	106	1	1	1	1q5238	enfd3l	y8s60a	nm448g	32		Johnson/Dosser		Swigart/Marquardt	82
+21-82716	2	106	1	1	1	8lpz1v	x4lwnu	1s38tu	bupqj4	32		Knigge/Kleinke		Wright/Kinghorn	85
+21-82716	2	106	1	1	1	u4r85i	nzb535	guawag	7kimi6	32		Vang/Vyskocil		Owa/Zurn	83
+21-82716	2	106	1	1	1	2lnjvn	sjzlz5	hu60y0	rnn5rh	32		Frye/Morgan		Hacker/Westrum	84
+21-82716	2	106	1	1	1	xjvpnp	dn4f6d	0ac8kc	yur6pc	32		Dodge/Smith		Burkeland/Morgan	82
+21-82716	2	106	1	1	1	1uawag	95w5iz	bq9yfo	zkpo3y	32		Olson/Callaway		Shepherd/Belschner	84
+21-82716	2	106	1	1	1	n34ba1	dv4vqp	lnn5rh	58709y	32		Covek/Leithold		Witt/Nicholson	85
+21-82716	2	106	1	1	1	l4psza	5lpz1v	7rk7at	6z1x91	32		Schepper/Joly		Lapray/Bilkey	81
+21-82716	2	106	1	1	1	5q9yfo	1qmci4	9v6bwx	yr7t7d	32		Riegle/Graf		Pearson/Werning	81
+21-82716	2	106	1	1	1	5p9nhr	5ski8q	m91zp7	6brdrx	32		King/Tranquilino		Hutchison/Flynn	85
+21-82716	2	106	1	1	1	mak088	75ylo7	uv4vqp	fy5ink	32		Syverson/Hanson		Kuecker/Burgmeier	83
+21-82716	2	106	1	1	1	8a1an4	2d892n	t85k3q	jx9313	32		Robinson/Shogren		Hoffer/Becker	84
+21-82716	2	106	1	1	1	5g9wzi	4r3xvx	nyfqho	nm6keo	32		Jacobs/Nissen		Weddle/Orvis	84
+21-82716	2	106	1	1	1	y2acus	kxdzdj	l8muim	e6bapk	32		Hierl/Kalinka		Grimm/DenHartog	82
+21-82907	2	101	1	1	1	0z1x91	oac8kc	rrevs5	2vnlbt	QF		Bossi/Chang		Afanasyeva/Moulin	64
+21-82907	2	101	1	1	1	tzoj6l	ogf8h6	1mlenc	alrf73	QF		Los Arcos/Voloh		Hsieh/Nagato	76(4)
+21-82907	2	101	1	1	1	l3rx7l	9xffjr	xgsmkm	oqosoc	QF		Moulin/Nord		Kovick/Kucharova	64
+21-82907	2	102	1	1	1	lput83	bd0her	swlg3i	nccug6	QF		OGorman/Chekhlystova		Sawyer/Simova	76(5)
+21-82907	2	102	1	1	1	wy7yts	ov4vqp	i5l7lr	dzknu5	QF		Friedland/Lasorda		Richardson/Chaika	60
+21-82907	2	102	1	1	1	0upqj4	cydabg	r28wok	y5nnrz	QF		Hirsch/Ryan		Callwood/Verma	76(4)
+21-82907	2	103	1	1	1	0z1x91	oac8kc	wy7yts	ov4vqp	QF		Bossi/Chang		Friedland/Lasorda	60
+21-82907	2	103	1	1	1	lput83	bd0her	1mlenc	alrf73	QF		OGorman/Chekhlystova		Hsieh/Nagato	60
+21-82907	2	103	1	1	1	xgsmkm	oqosoc	tlvbjj	cydabg	QF		Kovick/Kucharova		Weinberg/Ryan	62
+21-82907	2	104	1	1	1	rrevs5	2vnlbt	swlg3i	nccug6	QF		Afanasyeva/Moulin		Sawyer/Simova	75
+21-82907	2	104	1	1	1	tzoj6l	ogf8h6	i5l7lr	dzknu5	QF		Los Arcos/Voloh		Richardson/Chaika	62
+21-82907	2	104	1	1	1	r28wok	y5nnrz	l3rx7l	9xffjr	QF		Callwood/Verma		Moulin/Nord	63
+21-82907	2	105	1	1	1	0z1x91	oac8kc	swlg3i	nccug6	QF		Bossi/Chang		Sawyer/Simova	64
+21-82907	2	105	1	1	1	xgsmkm	oqosoc	i5l7lr	dzknu5	QF		Kovick/Kucharova		Richardson/Chaika	64
+21-82907	2	105	1	1	1	n81ora	alrf73	r28wok	y5nnrz	QF		Bovolskaia/Nagato		Callwood/Verma	62
+21-82907	2	106	1	1	1	lput83	bd0her	rrevs5	2vnlbt	QF		OGorman/Chekhlystova		Afanasyeva/Moulin	61
+21-82907	2	106	1	1	1	cydabg	wy7yts	tzoj6l	ogf8h6	QF		Ryan/Friedland		Los Arcos/Voloh	62
+21-82907	2	106	1	1	1	l3rx7l	9xffjr	0upqj4	ov4vqp	QF		Moulin/Nord		Hirsch/Lasorda	61
+21-84365	4	101	1	4	1	8pohqf	exjbv7	jbttx5	8ie4aw	F	1	De Mata/Warham		Johnson/Anderson	62 60
+21-84365	4	101	1	3	1	8pohqf	exjbv7	6gsmkm	kf03al	SF	1	De Mata/Warham		Lara Gonzalez/Smith	82
+21-84365	4	101	1	3	1	jbttx5	8ie4aw	az3df9	a1itkr	SF		Johnson/Anderson		del Sordo/Ostrander	81
+21-84365	4	101	1	2	1	8pohqf	exjbv7	umhibw	xgu2qu	QF	1	De Mata/Warham		Atchley/Pager	82
+21-84365	4	101	1	2	1	6gsmkm	kf03al	713zb3	cwnw9q	QF		Lara Gonzalez/Smith	4	Vanegas/Tsaura	97
+21-84365	4	101	1	2	1	az3df9	a1itkr	vpdjt7	zfw7y5	QF		del Sordo/Ostrander	3	Rodriguez/Madrid	84
+21-84365	4	101	1	2	1	jbttx5	8ie4aw	1jx5tx	o8muim	QF		Johnson/Anderson	2	Kaome/Hensarling	86
+21-84365	4	101	1	1	1	umhibw	xgu2qu	hos24y	r6dqvs	16		Atchley/Pager		Chelette/Kent	84
+21-84365	4	101	1	1	1	6gsmkm	kf03al	8i5mjw	6h5blz	16		Lara Gonzalez/Smith		Seward/Hoddinghaus	97
+21-84365	4	101	1	1	1	az3df9	a1itkr	uk8eo2	7tx793	16		del Sordo/Ostrander		Cline/Rodriguez	82
+21-84365	4	101	1	1	1	jbttx5	8ie4aw	jpw9eb	6ioc40	16		Johnson/Anderson		Teague/Steed	86
+21-84365	4	101	2	4	1	8i5mjw	6h5blz	1jx5tx	o8muim	F		Seward/Hoddinghaus	2	Kaome/Hensarling	61 61
+21-84365	4	101	2	3	1	8i5mjw	6h5blz	hos24y	r6dqvs	SF		Seward/Hoddinghaus		Chelette/Kent	81
+21-84365	4	101	2	3	1	1jx5tx	o8muim	vpdjt7	zfw7y5	SF	2	Kaome/Hensarling	3	Rodriguez/Madrid	Walkover
+21-84365	4	101	2	2	1	8i5mjw	6h5blz	713zb3	cwnw9q	QF		Seward/Hoddinghaus	4	Vanegas/Tsaura	81
+21-84365	4	101	2	2	1	vpdjt7	zfw7y5	uk8eo2	7tx793	QF	3	Rodriguez/Madrid		Cline/Rodriguez	82
+21-84365	4	101	2	2	1	1jx5tx	o8muim	jpw9eb	6ioc40	QF	2	Kaome/Hensarling		Teague/Steed	84
+21-84365	4	102	1	4	1	32xyrc	9tehoz	fvp1h1	2uccgo	F		Salter/Powell		Ross/Smith	60 16 [8]
+21-84365	4	102	1	3	1	fvp1h1	2uccgo	cq5238	nxjbv7	SF		Ross/Smith		Ivory/Williams	86
+21-84365	4	102	1	3	1	32xyrc	9tehoz	emnutk	kxffjr	SF		Salter/Powell		Nealon/Nealon	84
+21-84365	4	102	1	2	1	cq5238	nxjbv7	h6bapk	h85k3q	QF		Ivory/Williams		Endt/James	86
+21-84365	4	102	1	2	1	fvp1h1	2uccgo	w4h0be	bf9l1l	QF		Ross/Smith		Boles/Bryan	82
+21-84365	4	102	1	2	1	32xyrc	9tehoz	bll3pf	t5ylo7	QF		Salter/Powell		Bruntlett/Gregg	81
+21-84365	4	102	1	2	1	emnutk	kxffjr	n7fhzx	l7wret	QF		Nealon/Nealon		Turner/Spears	98(3)
+21-84365	4	102	1	1	1	h6bapk	h85k3q	zvl55l	ufb17t	16		Endt/James		Holifield/Embry	83
+21-84365	4	102	1	1	1	w4h0be	bf9l1l	71a1wv	1p5r5b	16		Boles/Bryan		Angle/Ball	84
+21-84365	4	102	1	1	1	fvp1h1	2uccgo	cd892n	zr7t7d	16		Ross/Smith		Simmons/Vuyovich	Walkover
+21-84365	4	102	1	1	1	bll3pf	t5ylo7	c1trhz	y8bwle	16		Bruntlett/Gregg		Askin/Wine	84
+21-84365	4	102	1	1	1	32xyrc	9tehoz	681ora	pct4v2	16		Salter/Powell		Athas/Sanders	81
+21-84365	4	102	1	1	1	emnutk	kxffjr	91v7n7	gpb3nz	16		Nealon/Nealon		Franks/Nipp	80
+21-84365	4	102	2	4	1	71a1wv	1p5r5b	n7fhzx	l7wret	F		Angle/Ball		Turner/Spears	62 61
+21-84365	4	102	2	3	1	71a1wv	1p5r5b	zvl55l	ufb17t	SF		Angle/Ball		Holifield/Embry	83
+21-84365	4	102	2	3	1	n7fhzx	l7wret	c1trhz	y8bwle	SF		Turner/Spears		Askin/Wine	Walkover
+21-84365	4	102	2	2	1	n7fhzx	l7wret	91v7n7	gpb3nz	QF		Turner/Spears		Franks/Nipp	82
+21-84365	4	102	2	1	1	71a1wv	1p5r5b	cd892n	zr7t7d	QQ		Angle/Ball		Simmons/Vuyovich	Walkover
+21-84365	4	102	2	1	1	c1trhz	y8bwle	681ora	pct4v2	QQ		Askin/Wine		Athas/Sanders	86
+21-84466	4	101	1	4	1	mnfd3l	skauua	ssgmwa	af03al	F		Fernandez/Genovese		Koplova/Siska	97
+21-84466	4	101	1	3	1	ssgmwa	af03al	eii0mc	zq3mx0	SF		Koplova/Siska		Gilich/Fernandez	80
+21-84466	4	101	1	3	1	mnfd3l	skauua	p387mh	rxy54v	SF		Fernandez/Genovese		Lysykh/Pichler	86
+21-84466	4	101	1	2	1	ssgmwa	af03al	tkca0i	32vil4	QF		Koplova/Siska		Kurz/Mendoza	81
+21-84466	4	101	1	2	1	eii0mc	zq3mx0	kii0mc	munadw	QF		Gilich/Fernandez		Gallman/Espinosa	82
+21-84466	4	101	1	2	1	mnfd3l	skauua	wmnutk	cqbelw	QF		Fernandez/Genovese		Mesa/Tsuji	80
+21-84466	4	101	1	2	1	p387mh	rxy54v	ao9cju	3bttx5	QF		Lysykh/Pichler		Blinouskaya/Kakkar	82
+21-84466	4	101	1	1	1	tkca0i	32vil4	htx793	q2acus	16		Kurz/Mendoza		Romero/Guaglianone	85
+21-84466	4	101	1	1	1	kii0mc	munadw	v1k9qz	gag4ws	16		Gallman/Espinosa		Standing/Le Roux	86
+21-84466	4	101	1	1	1	eii0mc	zq3mx0	n7595t	b95v1n	16		Gilich/Fernandez		Brunzlow/Scobernatti	81
+21-84466	4	101	1	1	1	mnfd3l	skauua	hndxxd	yc2mm2	16		Fernandez/Genovese		Benjumeda/Alvarez	84
+21-84466	4	101	1	1	1	wmnutk	cqbelw	ixwpyn	vejixs	16		Mesa/Tsuji		Kruger/Nelson	81
+21-84466	4	101	1	1	1	ao9cju	3bttx5	twyu6y	cybu58	16		Blinouskaya/Kakkar		Herrera/McKenzie	80
+21-84466	4	101	1	1	1	p387mh	rxy54v	wwwe0q	ptehoz	16		Lysykh/Pichler		Canadas/Piquero	80
+21-85102	2	101	1	2	1	ynfd3l	3u8g48	6cvk1a	2trvrf	16		Dunleavy/Lin		Weber/Fahrmeier	76(11)
+21-85102	2	101	1	2	1	olpz1v	dos24y	efjtvp	ak8eo2	16		Kim/Cardenas		Wang/Cheng	61
+21-85102	2	101	1	2	1	56u0ao	8gu2qu	37595t	ig9wzi	16		Hess/Okpara		Bretkelly/Kim	62
+21-85102	2	101	1	1	1	e6j2dg	ozoj6l	56u0ao	junadw	32		Zahare/Lopez		Hess/Dewire	64
+21-85102	2	101	1	1	1	y7fhzx	tkg6cy	d1ex8b	efjtvp	32		Yoo/Swaffer-Selff		Gillinov/Wang	64
+21-85102	2	101	1	1	1	ynfd3l	3u8g48	ozoj6l	ewf4lu	32		Dunleavy/Lin		Lopez/Fisher	62
+21-85102	2	101	1	1	1	olpz1v	dos24y	ev6bwx	35hb9b	32		Kim/Cardenas		Peng/Jupalli	76(6)
+21-85102	2	101	1	1	1	37595t	ig9wzi	l0g2gm	junadw	32		Bretkelly/Kim		Conard/Dewire	62
+21-85102	2	101	1	1	1	etgxu7	ak8eo2	2sgmwa	5r1hpp	32		Shrivistava/Cheng		Krasakova/Jonglerta…	76(9)
+21-85102	2	101	1	1	1	l0g2gm	2trvrf	vjvpnp	5r1hpp	32		Conard/Fahrmeier		Farima/Jonglertakul	63
+21-85102	2	101	1	1	1	8gu2qu	y7fhzx	2sgmwa	k2e868	32		Okpara/Yoo		Krasakova/Okuyama	63
+21-85102	2	101	1	1	1	58muim	k2e868	olpz1v	e6j2dg	32		Hack/Okuyama		Kim/Zahare	61
+21-85102	2	102	1	1	1	ozoj6l	ewf4lu	vjvpnp	mjzlz5	32		Lopez/Fisher		Farima/Napadiy	61
+21-85102	2	102	1	1	1	2sgmwa	5r1hpp	dos24y	dz5tlh	32		Krasakova/Jonglerta…		Cardenas/Kaplan	64
+21-85102	2	102	1	1	1	ynfd3l	3u8g48	vjvpnp	k2e868	32		Dunleavy/Lin		Farima/Okuyama	64
+21-87840	2	101	1	1	1	d77pb1	ob8n6t	2trvrf	6cvk1a	QF		Di Battista/Carlsten		Fahrmeier/Weber	64
+21-87840	2	101	1	1	1	e1k9qz	c3vtj1	56u0ao	8gu2qu	QF		Tan/Yaloz		Hess/Okpara	64
+21-87840	2	101	1	1	1	9ktkfe	3fw7y5	y7fhzx	l0g2gm	QF		Kleynerman/Kostirko		Yoo/Conard	62
+21-87840	2	101	1	1	1	z93fvf	0fhdph	junadw	35hb9b	QF		Nguyen/Sharma		Dewire/Jupalli	62
+21-88258	2	101	1	1	1	ab670l	ibxp9l	drxld9	ydap8v	QF		Achong/Richardson		Bhan/Zhang	75
+21-88258	2	101	1	1	1	vjx5tx	3e4oo4	qjx5tx	x1a1wv	QF		Khodan/Tahan		Kerr/Amineni	60
+21-88258	2	101	1	1	1	qbz5ft	vo0usu	9vh9t5	s8qqu2	QF		Wood/Strugnell		Boch-Collins/Pfennig	64
+21-88258	2	102	1	1	1	p5ylo7	3uv21s	gz9pxx	tgdsby	F		Girbau/Urrutia		Sakar/Rimondini	63
+21-88258	2	103	1	1	1	8mhibw	c4h0be	4e4oo4	v4nct2	F		Beck/Bilokin		Stevens/Molina	62
+21-88258	2	104	1	1	1	obrdrx	migkg4	odhrtn	10187y	F		Drummy/Chen		Bosnjak/Khazan	64
+21-88258	2	105	1	1	1	7brdrx	c2vil4	vx9313	rqmci4	F		Farfan/Moosbacher		Arrese/Gonzalez	62
+21-88258	2	106	1	1	1	cqosoc	a7qfw5	h0zs1q	xuv21s	F		Lerby/Haynes		Engelmann/Versier	64
+21-88258	2	107	1	1	1	4e4oo4	v4nct2	ab670l	ibxp9l	QF		Stevens/Molina		Achong/Richardson	64
+21-88258	2	107	1	1	1	vjx5tx	3e4oo4	vx9313	rqmci4	QF		Khodan/Tahan		Arrese/Gonzalez	61
+21-88258	2	107	1	1	1	9vh9t5	s8qqu2	p5ylo7	3uv21s	QF		Boch-Collins/Pfennig		Girbau/Urrutia	62
+21-88258	2	108	1	1	1	8mhibw	c4h0be	drxld9	ydap8v	F		Beck/Bilokin		Bhan/Zhang	63
+21-88258	2	109	1	1	1	8mhibw	c4h0be	odhrtn	10187y	SF		Beck/Bilokin		Bosnjak/Khazan	61
+21-88258	2	109	1	1	1	qbz5ft	vo0usu	h0zs1q	xuv21s	SF		Wood/Strugnell		Engelmann/Versier	63
+21-88258	2	110	1	1	1	7brdrx	c2vil4	a7qfw5	x1a1wv	F		Farfan/Moosbacher		Haynes/Amineni	76(6)
+21-89648	2	101	1	1	1	4sxwb6	t8s60a	46f610	xm80kw	16		Joyce/Sung		Mireles/Stoiana	64
+21-89648	2	101	1	1	1	r5jrfj	rla5s7	v3c3yx	yyw0wk	16		McBryde/Pielet		Shvets/Sorokko	62
+21-89648	2	101	1	1	1	w054je	9gq6ee	cwf4lu	7e28iw	16		Rodilosso/Grishuk		Di Laura/Pittman	64
+21-89648	2	101	1	1	1	og50n2	6zoj6l	589gf6	iski8q	16		Baranano/Krywoj		Rijkers/Stara	64
+21-89648	2	101	1	1	1	ms1snm	03tddt	4st0zq	fos24y	16		Sahdiieva/Shcherbin…		Babic/Cubitt	63
+21-89648	2	101	1	1	1	vkxgru	xtehoz	kh1f9j	yzqzct	16		Rice/ODonnell		Bridges/Rabinowitz	64
+21-89648	2	101	1	1	1	fe0sco	k5nnrz	gp9nhr	muccgo	16		Malm/Zamburek		Keller/Southerland	62
+21-89648	2	101	1	1	1	eoyemm	xe4oo4	7d2xkz	fwlg3i	16		Pinto/Thompson		Gownder/Robbins	63
+21-89648	2	102	1	1	1	xm80kw	r5jrfj	vkxgru	xtehoz	16		Stoiana/McBryde		Rice/ODonnell	75
+21-89648	2	102	1	1	1	kh1f9j	yzqzct	rla5s7	46f610	16		Bridges/Rabinowitz		Pielet/Mireles	64
+21-89648	2	102	1	1	1	7e28iw	fwlg3i	gp9nhr	muccgo	16		Pittman/Robbins		Keller/Southerland	64
+21-89648	2	102	1	1	1	v3c3yx	w054je	btalcj	og50n2	16		Shvets/Rodilosso		Herrero Linana/Bara…	62
+21-89648	2	102	1	1	1	4sxwb6	yyw0wk	ms1snm	03tddt	16		Joyce/Sorokko		Sahdiieva/Shcherbin…	64
+21-89648	2	102	1	1	1	9gq6ee	t8s60a	fe0sco	k5nnrz	16		Grishuk/Sung		Malm/Zamburek	62
+21-89648	2	102	1	1	1	4st0zq	fos24y	589gf6	iski8q	16		Babic/Cubitt		Rijkers/Stara	62
+21-89648	2	102	1	1	1	4ii0mc	cwf4lu	eoyemm	xe4oo4	16		Geissler/Di Laura		Pinto/Thompson	61
+21-89648	2	103	1	1	1	xm80kw	rla5s7	6zoj6l	fe0sco	16		Stoiana/Pielet		Krywoj/Malm	64
+21-89648	2	103	1	1	1	v3c3yx	w054je	589gf6	iski8q	16		Shvets/Rodilosso		Rijkers/Stara	64
+21-89648	2	103	1	1	1	4st0zq	4ii0mc	4sxwb6	yyw0wk	16		Babic/Geissler		Joyce/Sorokko	60
+21-89648	2	103	1	1	1	ms1snm	03tddt	kh1f9j	yzqzct	16		Sahdiieva/Shcherbin…		Bridges/Rabinowitz	62
+21-89648	2	103	1	1	1	btalcj	og50n2	vkxgru	xtehoz	16		Herrero Linana/Bara…		Rice/ODonnell	63
+21-89648	2	103	1	1	1	r5jrfj	46f610	gp9nhr	muccgo	16		McBryde/Mireles		Keller/Southerland	60
+21-89648	2	103	1	1	1	cwf4lu	7e28iw	9gq6ee	t8s60a	16		Di Laura/Pittman		Grishuk/Sung	63
+21-90634	2	101	1	3	1	qikgsk	5qmci4	qimwys	7aeoqk	F		Kraft/Ha		Palen/Henderson	87(5)
+21-90634	2	101	1	2	1	qikgsk	5qmci4	8gsmkm	e6sk4g	SF		Kraft/Ha		Manchanda/De Los Re…	83
+21-90634	2	101	1	2	1	qimwys	7aeoqk	y2acus	kxdzdj	SF		Palen/Henderson		Hierl/Kalinka	82
+21-90634	2	101	1	1	1	qikgsk	5qmci4	e28wok	6xy54v	QF		Kraft/Ha		Cooper/Poehls	81
+21-90634	2	101	1	1	1	8gsmkm	e6sk4g	w7ub8l	2bcji9	QF		Manchanda/De Los Re…		Ramsey/Manojlovic	81
+21-90634	2	101	1	1	1	y2acus	kxdzdj	p2acus	yaik20	QF		Hierl/Kalinka		Hanulikova/Oda	84
+21-90634	2	101	1	1	1	qimwys	7aeoqk	a6ywm4	3szche	QF		Palen/Henderson		Pattee/Nolde	80
+21-90634	2	101	2	3	1	w7ub8l	2bcji9	p2acus	yaik20	F		Ramsey/Manojlovic		Hanulikova/Oda	87(3)
+21-90634	2	101	2	1	1	w7ub8l	2bcji9	e28wok	6xy54v	SQ		Ramsey/Manojlovic		Cooper/Poehls	82
+21-90634	2	101	2	1	1	p2acus	yaik20	a6ywm4	3szche	SQ		Hanulikova/Oda		Pattee/Nolde	82
+21-90634	2	101	3	1	1	8gsmkm	e6sk4g	y2acus	kxdzdj	F		Manchanda/De Los Re…		Hierl/Kalinka	83
+21-90634	2	102	1	1	1	a6ywm4	3szche	e28wok	6xy54v	F		Pattee/Nolde		Cooper/Poehls	82
+21-90634	2	103	1	3	1	r9i943	kkv0lm	vi5mjw	90g2gm	F		Giannakou/Martin		Rueth/Day	84
+21-90634	2	103	1	2	1	r9i943	kkv0lm	hi1q7g	d2t2fw	SF		Giannakou/Martin		Kearney/Hu	82
+21-90634	2	103	1	2	1	vi5mjw	90g2gm	0q9yfo	xct4v2	SF		Rueth/Day		Rider/Reese	80
+21-90634	2	103	1	1	1	r9i943	kkv0lm	vy5ink	u0xcvi	QF		Giannakou/Martin		Brooks/Bourget	80
+21-90634	2	103	1	1	1	hi1q7g	d2t2fw	wba3c1	shml0v	QF		Kearney/Hu		Heller/Hagler	83
+21-90634	2	103	1	1	1	0q9yfo	xct4v2	0fsbmp	rhsxij	QF		Rider/Reese		Carini/Stitt	83
+21-90634	2	103	1	1	1	vi5mjw	90g2gm	k4yaqa	rmnutk	QF		Rueth/Day		Anderson/Mendes	81
+21-90634	2	103	2	3	1	vy5ink	u0xcvi	k4yaqa	rmnutk	F		Brooks/Bourget		Anderson/Mendes	84
+21-90634	2	103	2	1	1	vy5ink	u0xcvi	wba3c1	shml0v	SQ		Brooks/Bourget		Heller/Hagler	82
+21-90634	2	103	2	1	1	k4yaqa	rmnutk	0fsbmp	rhsxij	SQ		Anderson/Mendes		Carini/Stitt	80
+21-90634	2	103	3	1	1	hi1q7g	d2t2fw	0q9yfo	xct4v2	F		Kearney/Hu		Rider/Reese	80
+21-90634	2	104	1	1	1	wba3c1	shml0v	0fsbmp	rhsxij	F		Heller/Hagler		Carini/Stitt	83
+21-90634	2	105	1	3	1	fmlenc	o1itkr	6bpxlp	pjt9hh	F		Jarvis/Perrin		Bigelow/Bigelow	82
+21-90634	2	105	1	2	1	6bpxlp	pjt9hh	58oaou	9u60y0	SF		Bigelow/Bigelow		Magnani/Geske	83
+21-90634	2	105	1	2	1	fmlenc	o1itkr	5dj7zv	y4h0be	SF		Jarvis/Perrin		Ferguson/Barretto	83
+21-90634	2	105	1	1	1	6bpxlp	pjt9hh	x4lwnu	8lpz1v	QF		Bigelow/Bigelow		Kleinke/Knigge	82
+21-90634	2	105	1	1	1	58oaou	9u60y0	83llpx	407kpm	QF		Magnani/Geske		Beth/Yerges	85
+21-90634	2	105	1	1	1	5dj7zv	y4h0be	dvnlbt	m8oaou	QF		Ferguson/Barretto		Molloy/Li	80
+21-90634	2	105	1	1	1	fmlenc	o1itkr	76f610	djef8t	QF		Jarvis/Perrin		Nelson/Girard	81
+21-90634	2	105	2	3	1	76f610	djef8t	x4lwnu	8lpz1v	F		Nelson/Girard		Kleinke/Knigge	80
+21-90634	2	105	2	1	1	x4lwnu	8lpz1v	83llpx	407kpm	SQ		Kleinke/Knigge		Beth/Yerges	86
+21-90634	2	105	2	1	1	76f610	djef8t	dvnlbt	m8oaou	SQ		Nelson/Girard		Molloy/Li	80
+21-90634	2	105	3	1	1	58oaou	9u60y0	5dj7zv	y4h0be	F		Magnani/Geske		Ferguson/Barretto	84
+21-90634	2	106	1	1	1	83llpx	407kpm	dvnlbt	m8oaou	F		Beth/Yerges		Molloy/Li	81
+21-91007	2	1	1	4	1	17ub8l	v9gtyv	wnj9f1	2put83	F		Ratliff/Cantos Siem…		McColgan/Pratt	81
+21-91007	2	1	1	3	1	wnj9f1	2put83	hwuyui	0h1f9j	SF		McColgan/Pratt	1	Allen/Boulais	85
+21-91007	2	1	1	3	1	17ub8l	v9gtyv	fn2z05	hkca0i	SF		Ratliff/Cantos Siem…	2	Pietrowicz/Lewis	83
+21-91007	2	1	1	2	1	hwuyui	0h1f9j	1revs5	6m80kw	QF	1	Allen/Boulais		Alcala/Teske	82
+21-91007	2	1	1	2	1	wnj9f1	2put83	7wdofm	hlrf73	QF		McColgan/Pratt		Brown/Miller	87(3)
+21-91007	2	1	1	2	1	17ub8l	v9gtyv	4mjyh4	3efmlc	QF		Ratliff/Cantos Siem…		Duong/Frazier	84
+21-91007	2	1	1	2	1	fn2z05	hkca0i	psaaem	75dfxv	QF	2	Pietrowicz/Lewis		Andreach/Beckman	87(7)
+21-91007	2	1	1	1	1	hwuyui	0h1f9j	r2xyrc	wpohqf	16	1	Allen/Boulais		Semenovski/Cataldi	82
+21-91007	2	1	1	1	1	1revs5	6m80kw	m8s60a	ssvg5y	16		Alcala/Teske		Treiber/Ferrari	86
+21-91007	2	1	1	1	1	7wdofm	hlrf73	mse6q2	h3vtj1	16		Brown/Miller		Heuser/Yeah	83
+21-91007	2	1	1	1	1	wnj9f1	2put83	32rm9o	asgmwa	16		McColgan/Pratt	4	Freeman/Lilien	84
+21-91007	2	1	1	1	1	17ub8l	v9gtyv	wc6iyi	3eww08	16		Ratliff/Cantos Siem…	3	Hand/Crowley	82
+21-91007	2	1	1	1	1	4mjyh4	3efmlc	ap9nhr	ob670l	16		Duong/Frazier		Kizelbasheva/Antoni…	86
+21-91007	2	1	1	1	1	psaaem	75dfxv	7vnlbt	3x0la3	16		Andreach/Beckman		Mukhortova/Stoica	86
+21-91007	2	1	1	1	1	fn2z05	hkca0i	7avy5g	yaxebo	16	2	Pietrowicz/Lewis		Fliegner/Kelly	87(3)
+21-91007	2	102	1	1	1	ap9nhr	ob670l	m8s60a	ssvg5y	F		Kizelbasheva/Antoni…		Treiber/Ferrari	86
+21-91243	2	101	1	4	1	lh3vfr	4sxwb6	5owyge	am2o28	F		Frayman/Joyce		Kung/Gong	64 16 [6]
+21-91243	2	101	1	3	1	lh3vfr	4sxwb6	29gtyv	zh1f9j	SF		Frayman/Joyce		Curnic/Bryzgalova	61 62
+21-91243	2	101	1	3	1	5owyge	am2o28	6tx793	1v0ze9	SF		Kung/Gong		Rutlauka/Chan	62 64
+21-91243	2	101	1	2	1	29gtyv	zh1f9j	ytrvrf	bscqku	QF		Curnic/Bryzgalova		Duncan/Daujotaite	36 62 [6]
+21-91243	2	101	1	2	1	lh3vfr	4sxwb6	lsaaem	t3c3yx	QF		Frayman/Joyce		Adiaconitei/Stein	62 63
+21-91243	2	101	1	2	1	5owyge	am2o28	ceh2rk	t2acus	QF		Kung/Gong		Jackson/Herremans	76(5) 64
+21-91243	2	101	1	2	1	6tx793	1v0ze9	5j3hbl	n387mh	QF		Rutlauka/Chan		Wei/Kulhava	62 64
+21-91243	2	101	1	1	1	29gtyv	zh1f9j	gct4v2	cvnlbt	16		Curnic/Bryzgalova		Rondini/Munson	63 63
+21-91243	2	101	1	1	1	ytrvrf	bscqku	n7d1tp	68iy66	16		Duncan/Daujotaite		Schwarz/Antoniou-Ka…	62 63
+21-91243	2	101	1	1	1	lh3vfr	4sxwb6	w34ba1	b7blnh	16		Frayman/Joyce		de Lucas/Nielsen	60 62
+21-91243	2	101	1	1	1	lsaaem	t3c3yx	etgxu7	ynfd3l	16		Adiaconitei/Stein		Shrivistava/Dunleavy	75 57 [5]
+21-91243	2	101	1	1	1	5owyge	am2o28	5r1hpp	58muim	16		Kung/Gong		Jonglertakul/Hack	62 57 [8]
+21-91243	2	101	1	1	1	ceh2rk	t2acus	v3c3yx	w054je	16		Jackson/Herremans		Shvets/Rodilosso	16 76(5) [3]
+21-91243	2	101	1	1	1	5j3hbl	n387mh	d795h9	66dqvs	16		Wei/Kulhava		Ito/Kimoto	62 64
+21-91243	2	101	1	1	1	6tx793	1v0ze9	31a1wv	zag4ws	16		Rutlauka/Chan		Aguiar/Lopez	36 75 [9]
+21-91602	4	101	1	1	1	0szche	rski8q	r4262q	tr7t7d	QF		Moore/Taggart		Hinrichs/Weiland	60
+21-91602	4	101	1	1	1	pv0ze9	pvl55l	dur6pc	deh2rk	QF		Corpuz/Komarraju		Muljat/Hrudka	61
+21-91602	4	101	1	1	1	j0meya	aazuhw	fccug6	cuccgo	QF		Pitts/Morin		Tabares/Snissarenko	63
+21-91602	4	101	1	1	1	ci72p4	n5l7lr	nxhvpz	yyfqho	QF		Von Tersch Pohrer/R…		Sabile/Wagner	76(4)
+21-91602	4	102	1	1	1	pv0ze9	pvl55l	ci72p4	n5l7lr	QF		Corpuz/Komarraju		Von Tersch Pohrer/R…	76(5)
+21-91602	4	102	1	1	1	0szche	rski8q	j0meya	aazuhw	QF		Moore/Taggart		Pitts/Morin	62
+21-91602	4	102	1	1	1	nxhvpz	yyfqho	dur6pc	deh2rk	QF		Sabile/Wagner		Muljat/Hrudka	63
+21-91602	4	102	1	1	1	fccug6	cuccgo	r4262q	tr7t7d	QF		Tabares/Snissarenko		Hinrichs/Weiland	63
+21-91616	2	101	1	1	1	aavy5g	zclc76	okxgru	4nht9t	F		DiStaulo/Boyd		Ryan-Bovey/Jansen	75
+21-91616	2	102	1	1	1	av4vqp	8e28iw	cwyu6y	9tgxu7	F		Kopecka/Pennings		Gladstone/Truluck	62
+21-91616	2	103	1	1	1	w1itkr	834ba1	8fursx	ye28iw	F		Ranaivo/Cook		Heiderscheit/Patter…	64
+21-91616	2	104	1	1	1	d2rm9o	qdn3bb	i054je	ioqmyq	QF		Fullana/Marti		Shea/Anyanwu	61
+21-91616	2	104	1	1	1	3z5tlh	oz79rp	4tehoz	j6u0ao	QF		Jusufbegovic/Murphy		Porges/Gines	75
+21-91616	2	104	1	1	1	3z5tlh	zclc76	ioqmyq	4tehoz	QF		Jusufbegovic/Boyd		Anyanwu/Porges	62
+21-91616	2	105	1	1	1	9rk7at	qdn3bb	8fursx	9tgxu7	F		Man/Marti		Heiderscheit/Truluck	75
+21-91616	2	106	1	1	1	d2rm9o	b8s60a	i054je	4tehoz	F		Fullana/Singh		Shea/Porges	63
+21-91616	2	107	1	1	1	3z5tlh	zclc76	ye28iw	cwyu6y	F		Jusufbegovic/Boyd		Patterson/Gladstone	60
+21-91616	2	108	1	1	1	834ba1	av4vqp	oz79rp	95fv33	F		Cook/Kopecka		Murphy/Dodridge	63
+21-91616	2	109	1	1	1	w1itkr	j6u0ao	4nht9t	oie4aw	F		Ranaivo/Gines		Jansen/Aleshina	64
+21-91616	2	110	1	1	1	9rk7at	qdn3bb	8e28iw	834ba1	F		Man/Marti		Pennings/Cook	63
+21-91616	2	111	1	1	1	85w5iz	zaik20	av4vqp	w1itkr	F		Cauthen/Pyritz		Kopecka/Ranaivo	61
+21-91616	2	112	1	1	1	cwyu6y	9tgxu7	okxgru	4nht9t	F		Gladstone/Truluck		Ryan-Bovey/Jansen	64
+21-91616	2	113	1	1	1	oz79rp	95fv33	8fursx	i054je	F		Murphy/Dodridge		Heiderscheit/Shea	63
+21-91737	2	101	1	4	1	rrevs5	2vnlbt	7pm1k7	vpohqf	F		Afanasyeva/Moulin		Andreini/Clark	83
+21-91737	2	101	1	3	1	7pm1k7	vpohqf	2w2qie	ge28iw	SF		Andreini/Clark		Pinto/Radulova	83
+21-91737	2	101	1	3	1	rrevs5	2vnlbt	49gtyv	tgwiw2	SF		Afanasyeva/Moulin		Cheng/Som	83
+21-91737	2	101	1	2	1	2w2qie	ge28iw	2ixuv0	n7blnh	QF		Pinto/Radulova		Bakhodirova/Morales	81
+21-91737	2	101	1	2	1	7pm1k7	vpohqf	ogf8h6	l3rx7l	QF		Andreini/Clark		Voloh/Moulin	85
+21-91737	2	101	1	2	1	rrevs5	2vnlbt	5b8n6t	pavy5g	QF		Afanasyeva/Moulin		Davidescu/Draskovic	84
+21-91737	2	101	1	2	1	49gtyv	tgwiw2	wy7yts	1f2jgt	QF		Cheng/Som		Friedland/Zuffova	84
+21-91737	2	101	1	1	1	2w2qie	ge28iw	17ozqx	2dln53	16		Pinto/Radulova		Chakraborty/Jimenez	82
+21-91737	2	101	1	1	1	7pm1k7	vpohqf	vv8r25	46wggw	16		Andreini/Clark		Stankovska/Lebedeva	86
+21-91737	2	101	1	1	1	ogf8h6	l3rx7l	gw0ac6	9cp8jm	16		Voloh/Moulin		Loudili/Ifidzhen	82
+21-91737	2	101	1	1	1	5b8n6t	pavy5g	lf9l1l	evp1h1	16		Davidescu/Draskovic		Burger/Sampaio	86
+21-91737	2	101	1	1	1	rrevs5	2vnlbt	gwwe0q	0kr496	16		Afanasyeva/Moulin		Carvajal/Elizarraras	86
+21-91737	2	101	1	1	1	49gtyv	tgwiw2	mf9l1l	w6bapk	16		Cheng/Som		Brandow/Falk	85
+21-91737	2	101	1	1	1	wy7yts	1f2jgt	zx0la3	xhbn3n	16		Friedland/Zuffova		Solomon/Wallin	82
+21-91737	2	101	2	3	1	gwwe0q	0kr496	vv8r25	46wggw	F		Carvajal/Elizarraras		Stankovska/Lebedeva	82
+21-91737	2	101	2	2	1	vv8r25	46wggw	17ozqx	2dln53	SF		Stankovska/Lebedeva		Chakraborty/Jimenez	83
+21-91737	2	101	2	2	1	gwwe0q	0kr496	mf9l1l	w6bapk	SF		Carvajal/Elizarraras		Brandow/Falk	83
+21-91737	2	101	2	1	1	vv8r25	46wggw	gw0ac6	9cp8jm	QF		Stankovska/Lebedeva		Loudili/Ifidzhen	82
+21-91737	2	101	2	1	1	gwwe0q	0kr496	lf9l1l	evp1h1	QF		Carvajal/Elizarraras		Burger/Sampaio	86
+21-91737	2	101	2	1	1	mf9l1l	w6bapk	zx0la3	xhbn3n	QF		Brandow/Falk		Solomon/Wallin	85
+21-91737	2	101	3	2	1	2ixuv0	n7blnh	wy7yts	1f2jgt	F		Bakhodirova/Morales		Friedland/Zuffova	83
+21-91737	2	101	3	1	1	2ixuv0	n7blnh	ogf8h6	l3rx7l	SF		Bakhodirova/Morales		Voloh/Moulin	83
+21-91737	2	101	3	1	1	wy7yts	1f2jgt	5b8n6t	pavy5g	SF		Friedland/Zuffova		Davidescu/Draskovic	85
+21-91737	2	101	5	2	1	gw0ac6	9cp8jm	lf9l1l	evp1h1	F		Loudili/Ifidzhen		Burger/Sampaio	86
+21-91737	2	101	5	1	1	lf9l1l	evp1h1	zx0la3	xhbn3n	SF		Burger/Sampaio		Solomon/Wallin	84
+21-91737	2	102	1	4	1	9xffjr	m6f610	q1gdej	ih5blz	F		Nord/Nikolopoulou		Manjanna/Karlova	85
+21-91737	2	102	1	3	1	q1gdej	ih5blz	ympazs	ivyj81	SF		Manjanna/Karlova		Rivera/Alfaro	82
+21-91737	2	102	1	3	1	9xffjr	m6f610	yzknu5	0wlg3i	SF		Nord/Nikolopoulou		Cartledge/Richtrova	85
+21-91737	2	102	1	2	1	q1gdej	ih5blz	sq5238	8l69gr	QF		Manjanna/Karlova		Husted/Hegarty	83
+21-91737	2	102	1	2	1	ympazs	ivyj81	7d6twf	tzoj6l	QF		Rivera/Alfaro		Prudente/Los Arcos	86
+21-91737	2	102	1	2	1	9xffjr	m6f610	tlvbjj	0upqj4	QF		Nord/Nikolopoulou		Weinberg/Hirsch	84
+21-91737	2	102	1	2	1	yzknu5	0wlg3i	r0kys2	ckv0lm	QF		Cartledge/Richtrova		Malo/Moore	81
+21-91737	2	102	1	1	1	sq5238	8l69gr	aeyc6g	5nwnih	16		Husted/Hegarty		Haidari/Daszkiewicz	86
+21-91737	2	102	1	1	1	ympazs	ivyj81	wz79rp	5j115d	16		Rivera/Alfaro		McCarthy/Rolland	82
+21-91737	2	102	1	1	1	7d6twf	tzoj6l	ktznfb	uv0ze9	16		Prudente/Los Arcos		Zanotti/Courdi	82
+21-91737	2	102	1	1	1	9xffjr	m6f610	bjef8t	x2vil4	16		Nord/Nikolopoulou		Hackbirth/Mitchell	81
+21-91737	2	102	1	1	1	tlvbjj	0upqj4	i89gf6	bod8va	16		Weinberg/Hirsch		Saraty/Kirch	Walkover
+21-91737	2	102	1	1	1	r0kys2	ckv0lm	mfw7y5	24nct2	16		Malo/Moore		Leahy/McClure	84
+21-91737	2	102	1	1	1	yzknu5	0wlg3i	bnlpl9	45w5iz	16		Cartledge/Richtrova		Saez-Raez/Cabral	80
+21-91737	2	102	2	3	1	mfw7y5	24nct2	aeyc6g	5nwnih	F		Leahy/McClure		Haidari/Daszkiewicz	82
+21-91737	2	102	2	2	1	aeyc6g	5nwnih	wz79rp	5j115d	SF		Haidari/Daszkiewicz		McCarthy/Rolland	87(6)
+21-91737	2	102	2	2	1	mfw7y5	24nct2	bjef8t	x2vil4	SF		Leahy/McClure		Hackbirth/Mitchell	81
+21-91737	2	102	2	1	1	wz79rp	5j115d	ktznfb	uv0ze9	QF		McCarthy/Rolland		Zanotti/Courdi	87(5)
+21-91737	2	102	2	1	1	bjef8t	x2vil4	i89gf6	bod8va	QF		Hackbirth/Mitchell		Saraty/Kirch	Walkover
+21-91737	2	102	2	1	1	mfw7y5	24nct2	bnlpl9	45w5iz	QF		Leahy/McClure		Saez-Raez/Cabral	84
+21-91737	2	102	3	2	1	7d6twf	tzoj6l	tlvbjj	0upqj4	F		Prudente/Los Arcos		Weinberg/Hirsch	85
+21-91737	2	102	3	1	1	7d6twf	tzoj6l	sq5238	8l69gr	SF		Prudente/Los Arcos		Husted/Hegarty	83
+21-91737	2	102	3	1	1	tlvbjj	0upqj4	r0kys2	ckv0lm	SF		Weinberg/Hirsch		Malo/Moore	85
+21-91737	2	102	4	1	1	ympazs	ivyj81	yzknu5	0wlg3i	F		Rivera/Alfaro		Cartledge/Richtrova	85
+21-91737	2	102	5	1	1	bnlpl9	45w5iz	i89gf6	bod8va	SF		Saez-Raez/Cabral		Saraty/Kirch	Walkover
+21-92191	2	101	1	3	1	qxdzdj	efyn4d	grz1jh	ylclyf	F		Jhang/Oliveira		Discenza/Stewart	86
+21-92191	2	101	1	2	1	qxdzdj	efyn4d	t52h0n	qc8y4q	SF		Jhang/Oliveira		Quintana/Kraleva	86
+21-92191	2	101	1	2	1	grz1jh	ylclyf	bzoj6l	yp77bj	SF		Discenza/Stewart		Kung/Dekkers	85
+21-92191	2	101	1	1	1	t52h0n	qc8y4q	e44m8y	hgsmkm	QF		Quintana/Kraleva		Ly-Nguyen/Kumhom	85
+21-92191	2	101	1	1	1	qxdzdj	efyn4d	0brdrx	5dn3bb	QF		Jhang/Oliveira		Gabuzyan/Mathews	82
+21-92191	2	101	1	1	1	grz1jh	ylclyf	jdpjhj	3m6keo	QF		Discenza/Stewart		Sanoner/Ohara	84
+21-92191	2	101	1	1	1	bzoj6l	yp77bj	lazuhw	chqhcb	QF		Kung/Dekkers		Mitkova/Oosterbaan	87(3)
+21-92191	2	101	2	2	1	e44m8y	hgsmkm	jdpjhj	3m6keo	F		Ly-Nguyen/Kumhom		Sanoner/Ohara	85
+21-92191	2	101	2	1	1	e44m8y	hgsmkm	0brdrx	5dn3bb	SF		Ly-Nguyen/Kumhom		Gabuzyan/Mathews	85
+21-92191	2	101	2	1	1	jdpjhj	3m6keo	lazuhw	chqhcb	SF		Sanoner/Ohara		Mitkova/Oosterbaan	86
+21-92191	2	101	3	1	1	t52h0n	qc8y4q	bzoj6l	yp77bj	F		Quintana/Kraleva		Kung/Dekkers	86
+21-92191	2	101	4	1	1	lazuhw	chqhcb	0brdrx	5dn3bb	F		Mitkova/Oosterbaan		Gabuzyan/Mathews	85
+21-92191	2	102	1	3	1	4qso0s	scnsde	9w2qie	6mnutk	F		Sterk/Dunlap		Ozturk/Millan	85
+21-92191	2	102	1	2	1	4qso0s	scnsde	u2rm9o	njvpnp	SF		Sterk/Dunlap		Fehr/Dimova	86
+21-92191	2	102	1	2	1	9w2qie	6mnutk	7ttbxn	zdj7zv	SF		Ozturk/Millan		Kida/Foshee	84
+21-92191	2	102	1	1	1	4qso0s	scnsde	lq9yfo	2mhibw	QF		Sterk/Dunlap		Rees/Beukers	82
+21-92191	2	102	1	1	1	u2rm9o	njvpnp	qkr496	whqhcb	QF		Fehr/Dimova		Egan/Palma	84
+21-92191	2	102	1	1	1	9w2qie	6mnutk	lu4kss	qouia6	QF		Ozturk/Millan		Conde Vendrell/Heff…	87(6)
+21-92191	2	102	1	1	1	7ttbxn	zdj7zv	op9nhr	fr5d15	QF		Kida/Foshee		Huchet/Redondo	87(4)
+21-92191	2	102	2	2	1	op9nhr	fr5d15	lq9yfo	2mhibw	F		Huchet/Redondo		Rees/Beukers	Walkover
+21-92191	2	102	2	1	1	lq9yfo	2mhibw	qkr496	whqhcb	SF		Rees/Beukers		Egan/Palma	84
+21-92191	2	102	2	1	1	op9nhr	fr5d15	lu4kss	qouia6	SF		Huchet/Redondo		Conde Vendrell/Heff…	87(4)
+21-92191	2	102	3	1	1	7ttbxn	zdj7zv	u2rm9o	njvpnp	F		Kida/Foshee		Fehr/Dimova	85
+21-92191	2	103	1	2	1	4d2xkz	5aeoqk	0h7rr7	6hml0v	F		Hietala/Goheen		Milenkoski/Hernandez	84
+21-92191	2	103	1	1	1	4d2xkz	5aeoqk	6nwnih	rlnjvn	SF		Hietala/Goheen		County/Demerath	84
+21-92191	2	103	1	1	1	0h7rr7	6hml0v	e9kpab	10kys2	SF		Milenkoski/Hernandez		Mann/Mansouri	84
+21-92191	2	103	2	1	1	6nwnih	rlnjvn	e9kpab	10kys2	F		County/Demerath		Mann/Mansouri	83
+21-92220	2	101	1	3	1	x834xi	mct4v2	mnht9t	vdln53	R3		Delsol/Ristic		Kiszner/Khriapko	63
+21-92220	2	101	1	3	1	q0iimu	4bttx5	x8qqu2	ks38tu	R3		Hellberg/Jardim		Picinini/Valentini	63
+21-92220	2	101	1	3	1	rwf4lu	4si22i	ovjpzd	rtx793	R3		Dolfi/Radu		Fyvie/Roslund	63
+21-92220	2	101	1	2	1	x834xi	mct4v2	tpm1k7	gaase4	R2		Delsol/Ristic		Acco/Adair	62
+21-92220	2	101	1	2	1	q0iimu	4bttx5	ciza18	eupqj4	R2		Hellberg/Jardim		Elsborg/Ineson	60
+21-92220	2	101	1	2	1	e8qqu2	zyms2g	rwf4lu	4si22i	R2		Panchal/Aramni		Dolfi/Radu	60
+21-92220	2	101	1	1	1	x834xi	mct4v2	uhml0v	gi1q7g	R1		Delsol/Ristic		Glogowski-Watson/Kl…	62
+21-92220	2	101	1	1	1	tpm1k7	gaase4	mnht9t	vdln53	R1		Acco/Adair		Kiszner/Khriapko	63
+21-92220	2	101	1	1	1	ciza18	eupqj4	x8qqu2	ks38tu	R1		Elsborg/Ineson		Picinini/Valentini	61
+21-92220	2	101	1	1	1	q0iimu	4bttx5	ytznfb	d6ywm4	R1		Hellberg/Jardim		Vendrell/Prinz	60
+21-92220	2	101	1	1	1	rwf4lu	4si22i	6wuyui	5dhrtn	R1		Dolfi/Radu		Aparicio/Benefield	63
+21-92220	2	101	1	1	1	e8qqu2	zyms2g	ovjpzd	rtx793	R1		Panchal/Aramni		Fyvie/Roslund	76(5)
+21-92220	2	101	1	1	1	uene98	lltvdb	lst0zq	wzb535	R1		Watts/Semmartin		Braziel/White	60
+21-92387	2	101	1	1	1	bscqku	ytrvrf	d77pb1	ob8n6t	QF		Daujotaite/Duncan		Di Battista/Carlsten	64
+21-92387	2	101	1	1	1	c3vtj1	e1k9qz	y0kys2	ann5rh	QF		Yaloz/Tan		Lim/You	61
+21-92387	2	101	1	1	1	r5fv33	tb670l	9ktkfe	3fw7y5	QF		Fischer/Arbitman		Kleynerman/Kostirko	62
+21-92387	2	101	1	1	1	z93fvf	0fhdph	uro3m9	j9kpab	QF		Nguyen/Sharma		Snyder/Marculescu	64
+21-92398	2	101	1	1	1	dxffjr	sro3m9	3efmlc	h3vtj1	16		McGiffin/Symons		Frazier/Yeah	63
+21-92398	2	101	1	1	1	vzb535	jxffjr	p5ylo7	9svg5y	16		Wooten/Martinelli		Girbau/Eades	63
+21-92398	2	101	1	1	1	juccgo	3vyj81	4mjyh4	m8s60a	16		Tomase/Adeshina		Duong/Treiber	75
+21-92398	2	101	1	1	1	x1ch23	3c42sa	vx9313	rqmci4	16		Campana/Campana		Arrese/Gonzalez	64
+21-92398	2	101	1	1	1	6n0jux	pnj9f1	s0g2gm	ssvg5y	16		Kuczer/Molinaro		Casati/Ferrari	60
+21-92398	2	101	1	1	1	3uv21s	v4nct2	k9kpab	4ffxj9	16		Urrutia/Molina		Lynch/Nihalani	64
+21-92398	2	102	1	2	1	juccgo	3vyj81	mhsxij	09kpab	QF		Tomase/Adeshina		Stevens/Long	62
+21-92398	2	102	1	2	1	xm448g	4q9yfo	6n0jux	pnj9f1	QF		Kourkina/Rompf		Kuczer/Molinaro	64
+21-92398	2	102	1	1	1	dxffjr	sro3m9	3uv21s	v4nct2	16		McGiffin/Symons		Urrutia/Molina	64
+21-92398	2	102	1	1	1	2bgfup	x8oaou	jxffjr	u0meya	16		Staff/Lee		Martinelli/Pesavento	63
+21-92398	2	102	1	1	1	juccgo	3vyj81	p5ylo7	9svg5y	16		Tomase/Adeshina		Girbau/Eades	62
+21-92398	2	102	1	1	1	mhsxij	09kpab	x1ch23	3c42sa	16		Stevens/Long		Campana/Campana	62
+21-92398	2	102	1	1	1	6n0jux	pnj9f1	vx9313	rqmci4	16		Kuczer/Molinaro		Arrese/Gonzalez	61
+21-92398	2	102	1	1	1	xm448g	4q9yfo	4ffxj9	nvh9t5	16		Kourkina/Rompf		Nihalani/Brylin	76(5)
+21-92398	2	103	1	1	1	2bgfup	xrgbyd	dxffjr	sro3m9	QF		Staff/Cruz		McGiffin/Symons	64
+21-92398	2	103	1	1	1	4mjyh4	3efmlc	3uv21s	v4nct2	QF		Duong/Frazier		Urrutia/Molina	63
+21-92398	2	103	1	1	1	vx9313	9svg5y	h3vtj1	s0g2gm	QF		Arrese/Eades		Yeah/Casati	62
+21-92398	2	103	1	1	1	m8s60a	ssvg5y	p5ylo7	rqmci4	QF		Treiber/Ferrari		Girbau/Gonzalez	64
+21-92398	2	104	1	1	1	dxffjr	sro3m9	vzb535	jxffjr	16		McGiffin/Symons		Wooten/Martinelli	64
+21-92398	2	104	1	1	1	juccgo	3vyj81	x1ch23	3c42sa	16		Tomase/Adeshina		Campana/Campana	64
+21-92398	2	104	1	1	1	6n0jux	pnj9f1	nvh9t5	u0meya	16		Kuczer/Molinaro		Brylin/Pesavento	63
+21-92398	2	104	1	1	1	k9kpab	4ffxj9	s9gtyv	h1v7n7	16		Lynch/Nihalani		Creath/Duckworth	75
+21-92398	2	104	1	1	1	2bgfup	x8oaou	vx9313	v4nct2	16		Staff/Lee		Arrese/Molina	62
+21-92398	2	104	1	1	1	xrgbyd	xm448g	p5ylo7	rqmci4	16		Cruz/Kourkina		Girbau/Gonzalez	64
+21-92623	2	101	1	1	1	y5l7lr	ojgve1	xnn5rh	mo0usu	QF		Reddy/Lau		Walle/Soyer	63
+21-92623	2	101	1	1	1	z2p63g	yput83	tyw0wk	ej115d	QF		Benedetto/Peus		Solagnier/Sanchez	62
+21-92623	2	101	1	1	1	tene98	zjx5tx	4a1an4	pzsfi1	QF		Williams/Hofflander		Ray/Tonuzi	61
+21-92623	2	102	1	1	1	5owyge	am2o28	8nj9f1	sed6f4	QF		Kung/Gong		Nella/Bradley	60
+21-92623	2	102	1	1	1	mtc1ir	74r85i	3u8g48	37595t	QF		Koscielski/Wilbur		Lin/Bretkelly	62
+21-92623	2	102	1	1	1	ynfd3l	etgxu7	06j2dg	gc8y4q	QF		Dunleavy/Shrivistava		Williams/Koo	60
+21-92623	2	102	1	1	1	ak8eo2	yzoj6l	65nnrz	xikgsk	QF		Cheng/Lou		Williams/Luehrman	62
+21-92623	2	103	1	1	1	5owyge	am2o28	xnn5rh	mo0usu	16		Kung/Gong		Walle/Soyer	64
+21-92623	2	103	1	1	1	3u8g48	37595t	tyw0wk	ej115d	16		Lin/Bretkelly		Solagnier/Sanchez	60
+21-92623	2	103	1	1	1	ynfd3l	etgxu7	4a1an4	pzsfi1	16		Dunleavy/Shrivistava		Ray/Tonuzi	60
+21-92623	2	103	1	1	1	ig9wzi	ak8eo2	kz3df9	yj3hbl	16		Kim/Cheng		Desai/Yhang	60
+21-92623	2	103	1	1	1	efjtvp	d1ex8b	cc8y4q	h5fv33	16		Wang/Gillinov		Madigan/Ferguson	61
+21-92623	2	104	1	1	1	rw46om	8nj9f1	y5l7lr	ojgve1	QF		Truden/Nella		Reddy/Lau	75
+21-92623	2	104	1	1	1	z2p63g	yput83	mtc1ir	74r85i	QF		Benedetto/Peus		Koscielski/Wilbur	63
+21-92623	2	104	1	1	1	tene98	zjx5tx	sed6f4	06j2dg	QF		Williams/Hofflander		Bradley/Williams	64
+21-92623	2	105	1	1	1	rw46om	8nj9f1	xnn5rh	mo0usu	16		Truden/Nella		Walle/Soyer	61
+21-92623	2	105	1	1	1	mtc1ir	74r85i	tyw0wk	ej115d	16		Koscielski/Wilbur		Solagnier/Sanchez	62
+21-92623	2	105	1	1	1	sed6f4	gc8y4q	4a1an4	pzsfi1	16		Bradley/Koo		Ray/Tonuzi	60
+21-92623	2	105	1	1	1	ozb535	06j2dg	kz3df9	yj3hbl	16		Vasile/Williams		Desai/Yhang	62
+21-92623	2	105	1	1	1	cc8y4q	h5fv33	65nnrz	xikgsk	16		Madigan/Ferguson		Williams/Luehrman	76(5)
+21-92623	2	106	1	1	1	5owyge	am2o28	z2p63g	yput83	QF		Kung/Gong		Benedetto/Peus	62
+21-92623	2	106	1	1	1	ynfd3l	etgxu7	ojgve1	vkv0lm	QF		Dunleavy/Shrivistava		Lau/Newman	63
+21-92623	2	106	1	1	1	3u8g48	37595t	y5l7lr	zjx5tx	QF		Lin/Bretkelly		Reddy/Hofflander	60
+21-93292	4	101	1	4	1	pl69gr	nkeq6q	dz3df9	joyemm	F		Gumerova/Petrova		El Khalifi/Plana Ve…	76(6)
+21-93292	4	101	1	3	1	dz3df9	joyemm	kscqku	2szche	SF		El Khalifi/Plana Ve…		Campbell/McCormack	75
+21-93292	4	101	1	3	1	pl69gr	nkeq6q	0eh2rk	iuv21s	SF		Gumerova/Petrova		Karlsson-Hantzis/Va…	61
+21-93292	4	101	1	2	1	dz3df9	joyemm	78muim	i2e868	QF		El Khalifi/Plana Ve…		Giralt/Perkins	63
+21-93292	4	101	1	2	1	kscqku	2szche	x44m8y	pii0mc	QF		Campbell/McCormack		Koster/Garcia	76(2)
+21-93292	4	101	1	2	1	0eh2rk	iuv21s	32p63g	utpfl7	QF		Karlsson-Hantzis/Va…		Boggiali/Brown	75
+21-93292	4	101	1	2	1	pl69gr	nkeq6q	v834xi	l5nnrz	QF		Gumerova/Petrova		Eklund/Wolf	63
+21-93292	4	101	1	1	1	dz3df9	joyemm	f1z3zn	29i943	16		El Khalifi/Plana Ve…		Mayet/Gamble	63
+21-93292	4	102	1	3	1	yfw7y5	vwnw9q	381ora	ipsd2v	F		Koniaev/Viswanath		Boeckman/Lesnick	63
+21-93292	4	102	1	2	1	381ora	ipsd2v	55ylo7	kn4f6d	SF		Boeckman/Lesnick		Garofoli/Thuilot	64
+21-93292	4	102	1	2	1	yfw7y5	vwnw9q	ppsd2v	8jzlz5	SF		Koniaev/Viswanath		Kronson/Moen	63
+21-93292	4	102	1	1	1	381ora	ipsd2v	kse6q2	b8bwle	QF		Boeckman/Lesnick		Gonzalez Monroy/Vel…	61
+21-93292	4	102	1	1	1	55ylo7	kn4f6d	i0xcvi	xm08w0	QF		Garofoli/Thuilot		Atallah/Condas	63
+21-93292	4	102	1	1	1	ppsd2v	8jzlz5	8atiz8	wwj0xa	QF		Kronson/Moen		Baziv/Mudry	63
+21-93292	4	102	1	1	1	yfw7y5	vwnw9q	b0xcvi	brk7at	QF		Koniaev/Viswanath		Ben-Shmuel/Levenson	62
+21-93292	4	103	1	3	1	3axebo	bd6twf	p69ujc	cpdjt7	F		Kempinski/O Donovan		Borg/Shea	62
+21-93292	4	103	1	2	1	3axebo	bd6twf	h91zp7	p89gf6	SF		Kempinski/O Donovan		Humiston/Rodriguez	75
+21-93292	4	103	1	2	1	p69ujc	cpdjt7	leww08	fla5s7	SF		Borg/Shea		Castro/Rajesh	62
+21-93292	4	103	1	1	1	h91zp7	p89gf6	yjef8t	ufw7y5	QF		Humiston/Rodriguez		Gautier/Madeiros	Walkover
+21-93292	4	103	1	1	1	3axebo	bd6twf	xffxj9	jzsfi1	QF		Kempinski/O Donovan		Menkowitz/Siegel	62
+21-93292	4	103	1	1	1	leww08	fla5s7	bm448g	6n4f6d	QF		Castro/Rajesh		Laub/Sullivan	Walkover
+21-93292	4	103	1	1	1	p69ujc	cpdjt7	knfd3l	ro0usu	QF		Borg/Shea		DeNardo/Sparhawk	64
+21-93512	4	101	1	4	1	8tc1ir	207kpm	r8iy66	dojkdy	F		Ly/Vidnere		Amaro/Vandeputte	64
+21-93512	4	101	1	3	1	8tc1ir	207kpm	cene98	vod8va	SF		Ly/Vidnere		Tuells Bonet/Kohout…	63 63
+21-93512	4	101	1	3	1	r8iy66	dojkdy	5ny3op	xx0la3	SF		Amaro/Vandeputte		Garza/Takanishi	64 64
+21-93512	4	101	1	2	1	8tc1ir	207kpm	9od8va	3nj9f1	QF		Ly/Vidnere		Ibarra/Navarro	62
+21-93512	4	101	1	2	1	cene98	vod8va	a3tddt	497b7v	QF		Tuells Bonet/Kohout…		Recuenco/Wagner	63
+21-93512	4	101	1	2	1	r8iy66	dojkdy	nk8eo2	a5nnrz	QF		Amaro/Vandeputte		Daud/Yigin	62
+21-93512	4	101	1	2	1	5ny3op	xx0la3	t6j2dg	hhml0v	QF		Garza/Takanishi		Turro/Hartlohner	62
+21-93512	4	101	1	1	1	9od8va	3nj9f1	j93fvf	4vnlbt	16		Ibarra/Navarro		Martinez/Medel	63
+21-93512	4	101	1	1	1	8tc1ir	207kpm	pb670l	0igkg4	16		Ly/Vidnere		Alas/Cota	60
+21-93512	4	101	1	1	1	cene98	vod8va	f7ub8l	ag7gta	16		Tuells Bonet/Kohout…		Ozzor/Dirr	61
+21-93512	4	101	1	1	1	a3tddt	497b7v	97blnh	s1itkr	16		Recuenco/Wagner		Menendez/Portalier	61
+21-93512	4	101	1	1	1	r8iy66	dojkdy	82e868	6bgfup	16		Amaro/Vandeputte		Pepe/Subias	61
+21-93512	4	101	1	1	1	nk8eo2	a5nnrz	ncp8jm	5o9cju	16		Daud/Yigin		Jones/Blachon	63
+21-93512	4	101	1	1	1	t6j2dg	hhml0v	xszche	dkauua	16		Turro/Hartlohner		Mazzella/Garcia	76(5)
+21-93512	4	101	1	1	1	5ny3op	xx0la3	h2rm9o	kmrq50	16		Garza/Takanishi		Didkovska/Valiaeva	62
+21-93512	4	102	1	5	1	613zb3	u8s60a	ue0sco	1a3qtc	F		Vorobiova/Starreveld		Marin/Wooten	60
+21-93512	4	102	1	4	1	ue0sco	1a3qtc	4utmvk	ygdsby	SF		Marin/Wooten		Saving/Rivoal	64 64
+21-93512	4	102	1	4	1	613zb3	u8s60a	pq9yfo	xnlpl9	SF		Vorobiova/Starreveld		Rodriguez/Roberts	64 64
+21-93512	4	102	1	3	1	4utmvk	ygdsby	rx9313	61trhz	QF		Saving/Rivoal		Breedlove/Barfoot	61 61
+21-93512	4	102	1	3	1	ue0sco	1a3qtc	qsi22i	xba3c1	QF		Marin/Wooten		Piltaver/Hamilton	64
+21-93512	4	102	1	3	1	613zb3	u8s60a	jv2fkh	irgbyd	QF		Vorobiova/Starreveld		Garcia/Costa	61
+21-93512	4	102	1	3	1	pq9yfo	xnlpl9	g1trhz	aq16rs	QF		Rodriguez/Roberts		Barrio/Barrio	64
+21-93512	4	102	1	2	1	4utmvk	ygdsby	yybu58	j5jrfj	16		Saving/Rivoal		Nikolaeva/Mulkey-Da…	64
+21-93512	4	102	1	2	1	rx9313	61trhz	8y5ink	hkpo3y	16		Breedlove/Barfoot		Beau/Bryjarsdottir	76(4)
+21-93512	4	102	1	2	1	qsi22i	xba3c1	63rx7l	e7qfw5	16		Piltaver/Hamilton		Moore/Gallman	61
+21-93512	4	102	1	2	1	ue0sco	1a3qtc	6t856b	33c3yx	16		Marin/Wooten		Cota/Stockett	64
+21-93512	4	102	1	2	1	jv2fkh	irgbyd	6p9nhr	5ys4k4	16		Garcia/Costa		Karm/Lewis	60
+21-93512	4	102	1	2	1	613zb3	u8s60a	5oh47q	rbrdrx	16		Vorobiova/Starreveld		Sacco/Fioravanti	63
+21-93512	4	102	1	2	1	g1trhz	aq16rs	qx9313	nx9313	16		Barrio/Barrio		Arevalo/Bishop	75
+21-93512	4	102	1	2	1	pq9yfo	xnlpl9	cimwys	m52h0n	16		Rodriguez/Roberts		Novis/Owen	60
+21-93512	4	102	1	1	1	4utmvk	ygdsby	81ch23	unht9t	32		Saving/Rivoal		De La Torre/Izco	64
+21-93512	4	102	1	1	1	g1trhz	aq16rs	kzqzct	qqbelw	32		Barrio/Barrio		Pinto/Villalvazo	75
+21-93512	4	102	1	1	1	qx9313	nx9313	a6u0ao	rct4v2	32		Arevalo/Bishop		Hesterlee/Roberts	62
+21-93512	4	103	1	1	1	a3tddt	497b7v	81ch23	unht9t	32		Recuenco/Wagner		De La Torre/Izco	60 60
+21-93512	4	103	1	1	1	9od8va	3nj9f1	97blnh	s1itkr	32		Ibarra/Navarro		Menendez/Portalier	60 60
+21-93512	4	103	1	1	1	pb670l	0igkg4	jv2fkh	irgbyd	32		Alas/Cota		Garcia/Costa	60 60
+21-93512	4	103	1	1	1	f7ub8l	ag7gta	nk8eo2	a5nnrz	32		Ozzor/Dirr		Daud/Yigin	62 62
+21-93512	4	103	1	1	1	h2rm9o	kmrq50	qsi22i	xba3c1	32		Didkovska/Valiaeva		Piltaver/Hamilton	Walkover
+21-93512	4	103	1	1	1	g1trhz	aq16rs	ncp8jm	5o9cju	32		Barrio/Barrio		Jones/Blachon	62 62
+21-93512	4	103	1	1	1	5oh47q	rbrdrx	6t856b	33c3yx	32		Sacco/Fioravanti		Cota/Stockett	64 64
+21-93512	4	103	1	1	1	j93fvf	4vnlbt	rx9313	61trhz	32		Martinez/Medel		Breedlove/Barfoot	75
+21-93512	4	103	1	1	1	xszche	dkauua	82e868	6bgfup	32		Mazzella/Garcia		Pepe/Subias	64
+21-93512	4	103	1	1	1	8y5ink	hkpo3y	a6u0ao	rct4v2	32		Beau/Bryjarsdottir		Hesterlee/Roberts	61
+21-93512	4	103	1	1	1	kzqzct	qqbelw	yybu58	j5jrfj	32		Pinto/Villalvazo		Nikolaeva/Mulkey-Da…	75
+21-93512	4	103	1	1	1	6p9nhr	5ys4k4	cimwys	m52h0n	32		Karm/Lewis		Novis/Owen	62
+21-93512	4	103	1	1	1	qx9313	nx9313	63rx7l	e7qfw5	32		Arevalo/Bishop		Moore/Gallman	60
+21-93512	4	104	1	1	1	cene98	vod8va	jv2fkh	irgbyd	QF		Tuells Bonet/Kohout…		Garcia/Costa	60
+21-93512	4	104	1	1	1	h2rm9o	kmrq50	g1trhz	aq16rs	QF		Didkovska/Valiaeva		Barrio/Barrio	63
+21-93512	4	104	1	1	1	xszche	dkauua	j93fvf	4vnlbt	QF		Mazzella/Garcia		Martinez/Medel	75
+21-93512	4	104	1	1	1	9od8va	3nj9f1	pb670l	0igkg4	QF		Ibarra/Navarro		Alas/Cota	64
+21-93512	4	105	1	1	1	4utmvk	ygdsby	6p9nhr	5ys4k4	SF		Saving/Rivoal		Karm/Lewis	75
+21-93512	4	105	1	1	1	8y5ink	hkpo3y	f7ub8l	ag7gta	SF		Beau/Bryjarsdottir		Ozzor/Dirr	61
+21-93790	4	101	1	6	1	si1q7g	q387mh	jyo88o	fkg6cy	F	3	Jorge/Lippert		Chamoun/Spice	85
+21-93790	4	101	1	5	1	jyo88o	fkg6cy	le28iw	h9edsn	SF		Chamoun/Spice	9	Ramirez/Abrile	85
+21-93790	4	101	1	5	1	si1q7g	q387mh	8pdjt7	zbgfup	SF	3	Jorge/Lippert	2	Schlagenhauf/Traub	85
+21-93790	4	101	1	4	1	le28iw	h9edsn	f89gf6	hjef8t	QF	9	Ramirez/Abrile		Robeson/Greer	83
+21-93790	4	101	1	4	1	jyo88o	fkg6cy	zp77bj	8imwys	QF		Chamoun/Spice	9	Forrest/Price	86
+21-93790	4	101	1	4	1	si1q7g	q387mh	1sxwb6	sgdsby	QF	3	Jorge/Lippert	7	Hrda/Rosberg	81
+21-93790	4	101	1	4	1	8pdjt7	zbgfup	fl4taj	9talcj	QF	2	Schlagenhauf/Traub	9	Castaneda/Gonzalez	84
+21-93790	4	101	1	3	1	f89gf6	hjef8t	iwj0xa	acvk1a	16		Robeson/Greer	9	Mikael/Wise	82
+21-93790	4	101	1	3	1	le28iw	h9edsn	ygbc5q	nybu58	16	9	Ramirez/Abrile	6	Nissen/Massardo	83
+21-93790	4	101	1	3	1	zp77bj	8imwys	nulu7o	fr7t7d	16	9	Forrest/Price		Axelsson/Veselinova	97
+21-93790	4	101	1	3	1	jyo88o	fkg6cy	hho163	eyfqho	16		Chamoun/Spice	9	Markvartova/Villanu…	98(2)
+21-93790	4	101	1	3	1	1sxwb6	sgdsby	02zexk	cnn5rh	16	7	Hrda/Rosberg	9	Voloshyna/Weber	84
+21-93790	4	101	1	3	1	si1q7g	q387mh	iz9pxx	kjvpnp	16	3	Jorge/Lippert	9	Richter/Fleming	82
+21-93790	4	101	1	3	1	fl4taj	9talcj	dm08w0	dtalcj	16	9	Castaneda/Gonzalez	5	Ciaccia/Gunfaus	97
+21-93790	4	101	1	3	1	8pdjt7	zbgfup	2pw9eb	tdhrtn	16	2	Schlagenhauf/Traub		Shing/Bowie	97
+21-93790	4	101	1	2	1	f89gf6	hjef8t	fsgmwa	jiqsa8	32		Robeson/Greer	1	Linnikova/Zuddy	86
+21-93790	4	101	1	2	1	iwj0xa	acvk1a	lkxgru	9f03al	32	9	Mikael/Wise		Reeves/Speiser	85
+21-93790	4	101	1	2	1	ygbc5q	nybu58	r7595t	nu8g48	32	6	Nissen/Massardo		Baechler/Loretz	82
+21-93790	4	101	1	2	1	le28iw	h9edsn	qs1snm	cwj0xa	32	9	Ramirez/Abrile		Schipper/Montserrat	80
+21-93790	4	101	1	2	1	nulu7o	fr7t7d	x0meya	8bezoh	32		Axelsson/Veselinova	4	Ramirez/Ramon	82
+21-93790	4	101	1	2	1	zp77bj	8imwys	k4lwnu	dixuv0	32	9	Forrest/Price		Jipescu/Ascarrunz	85
+21-93790	4	101	1	2	1	jyo88o	fkg6cy	e6q4y8	meugu0	32		Chamoun/Spice	8	Aguirre/Alvarez Tel…	82
+21-93790	4	101	1	2	1	hho163	eyfqho	103od6	jy9ez0	32	9	Markvartova/Villanu…		Martincova/Karatant…	82
+21-93790	4	101	1	2	1	02zexk	cnn5rh	bqbelw	5zqzct	32	9	Voloshyna/Weber		Vaughan/Peterson	85
+21-93790	4	101	1	2	1	1sxwb6	sgdsby	qp9nhr	8vyj81	32	7	Hrda/Rosberg		Kharb/Aguirre	80
+21-93790	4	101	1	2	1	iz9pxx	kjvpnp	cst0zq	oys4k4	32	9	Richter/Fleming		Binzari/Macias	86
+21-93790	4	101	1	2	1	si1q7g	q387mh	vv2fkh	s6u0ao	32	3	Jorge/Lippert		Harfield/Griffiths	84
+21-93790	4	101	1	2	1	fl4taj	9talcj	x6sk4g	xqmci4	32	9	Castaneda/Gonzalez		Castillon/Ghosh	82
+21-93790	4	101	1	2	1	dm08w0	dtalcj	es1snm	ycvk1a	32	5	Ciaccia/Gunfaus		Resende/Ulloa	83
+21-93790	4	101	1	2	1	2pw9eb	tdhrtn	br1hpp	w2zexk	32		Shing/Bowie	9	Jacobs/Valtere	97
+21-93790	4	101	1	2	1	8pdjt7	zbgfup	likgsk	obcji9	32	2	Schlagenhauf/Traub		Kosmrlj/Lopez	84
+21-93790	4	101	1	1	1	f89gf6	hjef8t	74262q	hvyj81	64		Robeson/Greer		Hendricks/Aranyos	82
+21-93790	4	101	1	1	1	lkxgru	9f03al	3l69gr	1zoj6l	64		Reeves/Speiser		Heed/Krieg	83
+21-93790	4	101	1	1	1	r7595t	nu8g48	tag4ws	je0sco	64		Baechler/Loretz		Maher/Kronsbein	84
+21-93790	4	101	1	1	1	qs1snm	cwj0xa	xh1f9j	hh5blz	64		Schipper/Montserrat		Batth/King	85
+21-93790	4	101	1	1	1	nulu7o	fr7t7d	nmjyh4	sg50n2	64		Axelsson/Veselinova		Ferenczy/Bentz	82
+21-93790	4	101	1	1	1	k4lwnu	dixuv0	977pb1	5cvk1a	64		Jipescu/Ascarrunz		Freke/Wilson	84
+21-93790	4	101	1	1	1	jyo88o	fkg6cy	qr7t7d	1scqku	64		Chamoun/Spice		Valls Lopes/Dahlstr…	82
+21-93790	4	101	1	1	1	103od6	jy9ez0	ygwiw2	f9kpab	64		Martincova/Karatant…		Southwick/Luiz	97
+21-93790	4	101	1	1	1	bqbelw	5zqzct	8ny3op	r6sk4g	64		Vaughan/Peterson		Guerrero/Chistov	84
+21-93790	4	101	1	1	1	qp9nhr	8vyj81	jaik20	eh3vfr	64		Kharb/Aguirre		Ratiu/Dong	84
+21-93790	4	101	1	1	1	cst0zq	oys4k4	gn0jux	5zsfi1	64		Binzari/Macias		Labonte-Frey/Teteri…	86
+21-93790	4	101	1	1	1	vv2fkh	s6u0ao	w4nct2	l4nct2	64		Harfield/Griffiths		Menyhart/Mitso	83
+21-93790	4	101	1	1	1	x6sk4g	xqmci4	rho163	ywwe0q	64		Castillon/Ghosh		Kotsiou/Croes	82
+21-93790	4	101	1	1	1	es1snm	ycvk1a	m6j2dg	33vtj1	64		Resende/Ulloa		Wahlberg/Whelan	97
+21-93790	4	101	1	1	1	2pw9eb	tdhrtn	p77pb1	k8muim	64		Shing/Bowie		Floeth/Hansen	86
+21-93790	4	101	1	1	1	likgsk	obcji9	m44m8y	o81ora	64		Kosmrlj/Lopez		Labat/Bigotti	84
+21-94974	4	101	1	3	1	ciza18	iwlg3i	ch5blz	hv8r25	R3		Elsborg/Santanders		Kilbourne/Sinclaire	62
+21-94974	4	101	1	3	1	zyms2g	tpm1k7	0r5d15	mgq6ee	R3		Aramni/Acco		Sheldrick/Hidalgo	62
+21-94974	4	102	1	2	1	dm08w0	e11j5v	d054je	tdrznr	R2		Ciaccia/Sambyakugari		Shamsuddin/Yang	61
+21-94974	4	102	1	2	1	1tx793	lq5238	y0g2gm	6bttx5	R2		Ruetten/Kadyk		Cakirer/Hiramatsu	64
+21-94974	4	103	1	2	1	m0meya	oi1q7g	y4262q	rx9313	R2		Ocampo/Ivanova		Hafner/Breedlove	63
+21-94974	4	103	1	2	1	t6j2dg	hhml0v	tdrznr	y0g2gm	R2		Turro/Hartlohner		Yang/Cakirer	63
+21-94974	4	104	1	1	1	ciza18	tpm1k7	5pw9eb	dg7gta	R1		Elsborg/Acco		Steiner/Farmer	63
+21-94974	4	104	1	1	1	xeyc6g	eupqj4	5zqzct	y6hm78	R1		Gerbino/Ineson		Peterson/Seib	64
+21-94974	4	105	1	1	1	idy18j	p2t2fw	0qso0s	nwf4lu	R1		Allard/Khramtsova		Socarras/Galeano	64
+21-94974	4	105	1	1	1	ch5blz	652h0n	5pw9eb	joh47q	R1		Kilbourne/Parker		Steiner/Schott	63
+21-94974	4	106	1	3	1	e11j5v	9wdofm	0qso0s	nwf4lu	R3		Sambyakugari/Berggr…		Socarras/Galeano	61
+21-94974	4	106	1	3	1	dhml0v	1tx793	bqbelw	74262q	R3		Guidantoni/Ruetten		Vaughan/Hendricks	75
+21-94974	4	107	1	3	1	lq5238	9wdofm	vd2xkz	61trhz	R3		Kadyk/Berggren		Hanzek/Barfoot	64
+21-94974	4	107	1	3	1	likgsk	dtalcj	f7ub8l	ag7gta	R3		Kosmrlj/Gunfaus		Ozzor/Dirr	75
+21-94974	4	108	1	3	1	y0g2gm	6bttx5	652h0n	fyukqc	R3		Cakirer/Hiramatsu		Parker/Pradip	61
+21-94974	4	108	1	3	1	d054je	tdrznr	0r5d15	mgq6ee	R3		Shamsuddin/Yang		Sheldrick/Hidalgo	61
+21-94974	4	109	1	2	1	t6j2dg	hhml0v	0qso0s	nwf4lu	R2		Turro/Hartlohner		Socarras/Galeano	61
+21-94974	4	109	1	2	1	qsi22i	xba3c1	52gocg	86u0ao	R2		Piltaver/Hamilton		Sommariva/Gonzalez	63
+21-94974	4	110	1	2	1	6bttx5	g07kpm	xeyc6g	iwlg3i	R2		Hiramatsu/Wells		Gerbino/Santanders	63
+21-94974	4	110	1	2	1	eupqj4	zyms2g	d054je	oi1q7g	R2		Ineson/Aramni		Shamsuddin/Ivanova	63
+21-94974	4	111	1	1	1	qsi22i	vd2xkz	j2acus	5l8pmz	R1		Piltaver/Hanzek		Hencken/Lopez	62
+21-94974	4	111	1	1	1	f7ub8l	ag7gta	0qso0s	nwf4lu	R1		Ozzor/Dirr		Socarras/Galeano	64
+21-95059	2	101	1	3	1	z9i943	nak088	0t856b	byms2g	F		Haagensen/Stepan		Damnjanovic/Abreu	85
+21-95059	2	101	1	2	1	0t856b	byms2g	8tznfb	a8s60a	SF		Damnjanovic/Abreu		Villalba Rubio/Sou	83
+21-95059	2	101	1	2	1	z9i943	nak088	e2p63g	dc2mm2	SF		Haagensen/Stepan		Bezmenova/Andrade	84
+21-95059	2	101	1	1	1	8tznfb	a8s60a	tt856b	wll3pf	QF		Villalba Rubio/Sou		Carr/Brkic	87(5)
+21-95059	2	101	1	1	1	e2p63g	dc2mm2	91k9qz	dj115d	QF		Bezmenova/Andrade		Tabanera/Schoolcraft	85
+21-95059	2	101	1	1	1	z9i943	nak088	rv4vqp	2r1hpp	QF		Haagensen/Stepan		Lukacova/Houston	82
+21-95059	2	101	2	3	1	91k9qz	dj115d	rv4vqp	2r1hpp	F		Tabanera/Schoolcraft		Lukacova/Houston	86
+21-95059	2	101	2	1	1	91k9qz	dj115d	tt856b	wll3pf	SQ		Tabanera/Schoolcraft		Carr/Brkic	84
+21-95059	2	101	3	1	1	e2p63g	dc2mm2	8tznfb	a8s60a	F		Bezmenova/Andrade		Villalba Rubio/Sou	86
+21-95059	2	102	1	3	1	5hipof	qcnsde	c3rx7l	w2e868	F		Abyasova/Fitzgerald		Miley/Presot	83
+21-95059	2	102	1	2	1	5hipof	qcnsde	1qosoc	cla5s7	SF		Abyasova/Fitzgerald		Lojpur/Perlwitz	87(7)
+21-95059	2	102	1	2	1	c3rx7l	w2e868	7cropu	8h3vfr	SF		Miley/Presot		Neville/Ehn	83
+21-95059	2	102	1	1	1	5hipof	qcnsde	w85k3q	ekv0lm	QF		Abyasova/Fitzgerald		Jhaveri/McConnell	86
+21-95059	2	102	1	1	1	c3rx7l	w2e868	b93fvf	84jghm	QF		Miley/Presot		Moreira/Fain	86
+21-95059	2	102	1	1	1	7cropu	8h3vfr	scp8jm	faxebo	QF		Neville/Ehn		Joshi/Jayakrishna	80
+21-95059	2	102	2	3	1	b93fvf	84jghm	scp8jm	faxebo	F		Moreira/Fain		Joshi/Jayakrishna	86
+21-95059	2	102	2	1	1	b93fvf	84jghm	w85k3q	ekv0lm	SQ		Moreira/Fain		Jhaveri/McConnell	84
+21-95059	2	102	3	1	1	7cropu	8h3vfr	1qosoc	cla5s7	F		Neville/Ehn		Lojpur/Perlwitz	86
+21-95059	2	103	1	3	1	2rgbyd	wgoq86	e0qaaq	r8qqu2	F		Czerwonka/Czerwonka		Zlatanovic/Potsi	84
+21-95059	2	103	1	2	1	e0qaaq	r8qqu2	se28iw	57wret	SF		Zlatanovic/Potsi		Petushkova/Stephani	81
+21-95059	2	103	1	2	1	2rgbyd	wgoq86	l7sv2d	m0iimu	SF		Czerwonka/Czerwonka		Maletin/Hailey	84
+21-95059	2	103	1	1	1	se28iw	57wret	7rgbyd	77ozqx	QF		Petushkova/Stephani		Dalecka/Cardoso	83
+21-95059	2	103	1	1	1	l7sv2d	m0iimu	pn2z05	amlenc	QF		Maletin/Hailey		Piskulic/Jarmond	86
+21-95059	2	103	1	1	1	2rgbyd	wgoq86	kqso0s	4jzlz5	QF		Czerwonka/Czerwonka		Sreeves/Medved	84
+21-95059	2	103	2	3	1	kqso0s	4jzlz5	pn2z05	amlenc	F		Sreeves/Medved		Piskulic/Jarmond	86
+21-95059	2	103	2	1	1	pn2z05	amlenc	7rgbyd	77ozqx	SQ		Piskulic/Jarmond		Dalecka/Cardoso	84
+21-95059	2	103	3	1	1	l7sv2d	m0iimu	se28iw	57wret	F		Maletin/Hailey		Petushkova/Stephani	Walkover
+21-95134	2	101	1	1	1	3psd2v	4h7rr7	126gic	hmhibw	QF		Leder/Morris		Andrews/Bishop	64
+21-95134	2	101	1	1	1	hwyu6y	4ag4ws	6f03al	d7wret	QF		Going/Loubser		Torrealba/Topalovic	76(4)
+21-95134	2	101	1	1	1	ew2qie	gv0ze9	j2rm9o	q89gf6	QF		Paladini- Jennings/…		Flesch/Reilly	62
+21-95134	2	102	1	1	1	ew2qie	4h7rr7	8tc1ir	207kpm	QF		Paladini- Jennings/…		Ly/Vidnere	64
+21-95134	2	102	1	1	1	3psd2v	gkv0lm	xx0la3	ywf4lu	QF		Leder/Nakanishi		Takanishi/Franco	76(3)
+21-95134	2	102	1	1	1	gv0ze9	6f03al	qx9313	nx9313	QF		Cheng/Torrealba		Arevalo/Bishop	75
+21-95134	2	103	1	1	1	8tc1ir	207kpm	126gic	hmhibw	QF		Ly/Vidnere		Andrews/Bishop	64
+21-95134	2	103	1	1	1	hwyu6y	j2rm9o	xx0la3	ywf4lu	QF		Going/Flesch		Takanishi/Franco	61
+21-95134	2	103	1	1	1	4ag4ws	q89gf6	qx9313	nx9313	QF		Loubser/Reilly		Arevalo/Bishop	63
+21-95444	2	101	1	1	1	gjt9hh	sttbxn	9ho163	9jt9hh	16		Bartolome/Keberle		Linn/Boesing	61
+21-95444	2	101	1	1	1	7jvpnp	hxy54v	c2xyrc	ced6f4	16		Doyle/Petchey		Schurhamer/Bruetting	62
+21-95444	2	101	1	1	1	bjibk9	zh5blz	8st0zq	17595t	16		Nylander/Jakeway		Beavin/Balthazor	75
+21-95444	2	101	1	1	1	yaxebo	hac8kc	2h1f9j	2a3qtc	16		Kelly/Craciun		Beavin/White	60
+21-95444	2	101	1	1	1	ab8n6t	souia6	olrf73	hwuyui	16		Davies/Gretkowski		Marzal/Allen	62
+21-95444	2	101	1	1	1	h3rx7l	0mrq50	7avy5g	erir4l	16		Mills/Tulenko		Fliegner/Hammond	62
+21-95444	2	101	1	1	1	1wj0xa	xxstm7	17ub8l	oz1x91	16		Mulville/Cruz		Ratliff/Atway	63
+21-95444	2	101	1	1	1	rjzlz5	u1ch23	n6dqvs	j054je	16		Narboni/Couch		Jones/Schoenly	62
+21-95444	2	102	1	1	1	0h1f9j	17ub8l	gjt9hh	sttbxn	16		Boulais/Ratliff		Bartolome/Keberle	60
+21-95444	2	102	1	1	1	olrf73	hwuyui	7jvpnp	hxy54v	16		Marzal/Allen		Doyle/Petchey	64
+21-95444	2	102	1	1	1	bjibk9	zh5blz	7avy5g	erir4l	16		Nylander/Jakeway		Fliegner/Hammond	60
+21-95444	2	102	1	1	1	yaxebo	hac8kc	n6dqvs	oz1x91	16		Kelly/Craciun		Jones/Atway	63
+21-95444	2	102	1	1	1	ab8n6t	souia6	9ho163	9jt9hh	16		Davies/Gretkowski		Linn/Boesing	61
+21-95444	2	102	1	1	1	h3rx7l	0mrq50	c2xyrc	ced6f4	16		Mills/Tulenko		Schurhamer/Bruetting	76(7)
+21-95444	2	102	1	1	1	1wj0xa	xxstm7	8st0zq	17595t	16		Mulville/Cruz		Beavin/Balthazor	75
+21-95444	2	102	1	1	1	rjzlz5	u1ch23	2h1f9j	2a3qtc	16		Narboni/Couch		Beavin/White	62
+21-95444	2	103	1	1	1	ab8n6t	souia6	gjt9hh	sttbxn	16		Davies/Gretkowski		Bartolome/Keberle	63
+21-95444	2	103	1	1	1	7jvpnp	hxy54v	h3rx7l	0mrq50	16		Doyle/Petchey		Mills/Tulenko	63
+21-95444	2	103	1	1	1	1wj0xa	xxstm7	bjibk9	zh5blz	16		Mulville/Cruz		Nylander/Jakeway	64
+21-95444	2	103	1	1	1	rjzlz5	u1ch23	yaxebo	hac8kc	16		Narboni/Couch		Kelly/Craciun	64
+21-95444	2	103	1	1	1	0h1f9j	17ub8l	9ho163	9jt9hh	16		Boulais/Ratliff		Linn/Boesing	60
+21-95444	2	103	1	1	1	7avy5g	erir4l	c2xyrc	ced6f4	16		Fliegner/Hammond		Schurhamer/Bruetting	60
+21-95444	2	103	1	1	1	8st0zq	17595t	hwuyui	n6dqvs	16		Beavin/Balthazor		Allen/Jones	63
+21-95444	2	103	1	1	1	oz1x91	j054je	2h1f9j	2a3qtc	16		Atway/Schoenly		Beavin/White	61
+21-96874	2	101	1	4	1	wuv21s	qac8kc	fv0ze9	iqmci4	F		Wandling/de Souza		Combs/Garcia-Molina	83
+21-96874	2	101	1	3	1	wuv21s	qac8kc	utvr3v	vaeoqk	SF		Wandling/de Souza		Moody/Gish	82
+21-96874	2	101	1	3	1	fv0ze9	iqmci4	80emae	czm30d	SF		Combs/Garcia-Molina		Anderson/Harris	85
+21-96874	2	101	1	2	1	wuv21s	qac8kc	cnht9t	hn4f6d	QF		Wandling/de Souza		Kimble/Stepleman	82
+21-96874	2	101	1	2	1	utvr3v	vaeoqk	s7ozqx	b387mh	QF		Moody/Gish		Caddick/Lewis	83
+21-96874	2	101	1	2	1	fv0ze9	iqmci4	zc8y4q	d4lwnu	QF		Combs/Garcia-Molina		Lawrence/Kidd	83
+21-96874	2	101	1	2	1	80emae	czm30d	cjkrqh	tkeq6q	QF		Anderson/Harris		Simhambhalta/Patino	80
+21-96874	2	101	1	1	1	wuv21s	qac8kc	soyemm	62zexk	16		Wandling/de Souza		Rabensdorf/Vasher	80
+21-96874	2	101	1	1	1	cnht9t	hn4f6d	tqmci4	7g9wzi	16		Kimble/Stepleman		Hersh/Kogoy	84
+21-96874	2	101	1	1	1	s7ozqx	b387mh	tl8pmz	afjtvp	16		Caddick/Lewis		Marsh/Venham	85
+21-96874	2	101	1	1	1	utvr3v	vaeoqk	7ny3op	oe28iw	16		Moody/Gish		Hardesty/Pascadlo	86
+21-96874	2	101	1	1	1	fv0ze9	iqmci4	xccug6	nffxj9	16		Combs/Garcia-Molina		Sloyan/McSpadden	83
+21-96874	2	101	1	1	1	zc8y4q	d4lwnu	p36rg9	cd0her	16		Lawrence/Kidd		Guilarte/Caro	84
+21-96874	2	101	1	1	1	cjkrqh	tkeq6q	xrk7at	dhbn3n	16		Simhambhalta/Patino		Laidman/Vincent	86
+21-96874	2	101	1	1	1	80emae	czm30d	1ofo1i	ehqhcb	16		Anderson/Harris		Martinez/Pratt	81
+21-96874	2	101	2	3	1	tqmci4	7g9wzi	tl8pmz	afjtvp	SF		Hersh/Kogoy		Marsh/Venham	81
+21-96874	2	101	2	3	1	xrk7at	dhbn3n	p36rg9	cd0her	SF		Laidman/Vincent		Guilarte/Caro	76(3)
+21-96874	2	101	2	1	1	tqmci4	7g9wzi	soyemm	62zexk	QQ		Hersh/Kogoy		Rabensdorf/Vasher	82
+21-96874	2	101	2	1	1	tl8pmz	afjtvp	7ny3op	oe28iw	QQ		Marsh/Venham		Hardesty/Pascadlo	86
+21-96874	2	101	2	1	1	p36rg9	cd0her	xccug6	nffxj9	QQ		Guilarte/Caro		Sloyan/McSpadden	83
+21-96874	2	101	2	1	1	xrk7at	dhbn3n	1ofo1i	ehqhcb	QQ		Laidman/Vincent		Martinez/Pratt	83
+21-96874	2	102	1	3	1	xys4k4	eaxebo	d8s60a	jjkrqh	F		Kotany/Kamara		Teefey/Teefey	87(6)
+21-96874	2	102	1	2	1	xys4k4	eaxebo	sb8n6t	0bttx5	SF		Kotany/Kamara		Cherwien/Hudak	82
+21-96874	2	102	1	2	1	d8s60a	jjkrqh	jnu7c9	69edsn	SF		Teefey/Teefey		Andrade/Alfaro	86
+21-96874	2	102	1	1	1	sb8n6t	0bttx5	xh3vfr	0hqhcb	QF		Cherwien/Hudak		Evans/Perry	86
+21-96874	2	102	1	1	1	xys4k4	eaxebo	0z79rp	ha3qtc	QF		Kotany/Kamara		Miines/Willocks	87
+21-96874	2	102	1	1	1	d8s60a	jjkrqh	089gf6	a0meya	QF		Teefey/Teefey		Richardson/Patton	80
+21-96874	2	102	1	1	1	jnu7c9	69edsn	b3c3yx	c9m5gj	QF		Andrade/Alfaro		Trantham/Perry	87(2)
+21-96874	2	102	2	1	1	0z79rp	ha3qtc	xh3vfr	0hqhcb	SQ		Miines/Willocks		Evans/Perry	84
+21-96874	2	102	2	1	1	b3c3yx	c9m5gj	089gf6	a0meya	SQ		Trantham/Perry		Richardson/Patton	82
+21-96874	2	103	1	2	1	qv6bwx	qgu2qu	jr7t7d	ie0sco	F		Oliver/Pinola		Washburn/Lassiter	81
+21-96874	2	103	1	1	1	qv6bwx	qgu2qu	uq16rs	nv4vqp	SF		Oliver/Pinola		Bellamy/Lewis	80
+21-96874	2	103	1	1	1	jr7t7d	ie0sco	ydln53	dkzwx2	SF		Washburn/Lassiter		Hurt/Wrenn	84
+21-96874	2	103	2	2	1	ydln53	dkzwx2	uq16rs	nv4vqp	F		Hurt/Wrenn		Bellamy/Lewis	83
+21-97501	4	101	1	1	1	j8oaou	kyw0wk	qp5r5b	zydabg	32		Krueger/Shukla		Becerra/Sherikulova	76(4)
+21-97501	4	101	1	1	1	4c6iyi	vcvk1a	qo9cju	8drznr	32		Gener/Wilcox		Bernthal/Zamorano	62
+21-97501	4	101	1	1	1	a1ex8b	2caeay	pjx5tx	8z79rp	32		Hatouka/Ranaivo		Kongara/Negin	64
+21-97501	4	101	1	1	1	smhibw	gd6twf	82acus	vgu2qu	32		Benson/OConnor		Gannavaram/Plachy	75
+21-97501	4	101	1	1	1	hii0mc	dpb3nz	77ozqx	7rgbyd	32		Hadjigeorgiou/Monko		Cardoso/Dalecka	60
+21-97501	4	101	1	1	1	sjx5tx	b26gic	wll3pf	tt856b	32		Jancikova/Arce Viey…		Brkic/Carr	64
+21-97501	4	101	1	1	1	use6q2	a1xntf	84jghm	b93fvf	32		Granson/Kistanova		Fain/Moreira	75
+21-97501	4	101	1	1	1	z6q4y8	buawag	cobsp2	om80kw	32		Absisan/Osborn		ElNemr/Snezhko	63
+21-97501	4	101	1	1	1	rrxld9	jkeq6q	0avy5g	h3n1v5	32		Bremel/Paradise		Di Giulio/Gallegos	75
+21-97501	4	101	1	1	1	teww08	uur6pc	daeoqk	xro3m9	32		Covington/Miller		Hapuku/Talavera	61
+21-97501	4	101	1	1	1	2v4vqp	2e4oo4	lg50n2	51ex8b	32		Linscott/Tiemeyer		Bremel/Hatch	61
+21-97501	4	102	1	1	1	j8oaou	kyw0wk	77ozqx	7rgbyd	32		Krueger/Shukla		Cardoso/Dalecka	75
+21-97501	4	102	1	1	1	4c6iyi	vcvk1a	wll3pf	tt856b	32		Gener/Wilcox		Brkic/Carr	62
+21-97501	4	102	1	1	1	pjx5tx	8z79rp	84jghm	b93fvf	32		Kongara/Negin		Fain/Moreira	62
+21-97501	4	102	1	1	1	smhibw	gd6twf	82acus	vgu2qu	32		Benson/OConnor		Gannavaram/Plachy	62
+21-97501	4	102	1	1	1	0avy5g	z6q4y8	qp5r5b	zydabg	32		Di Giulio/Absisan		Becerra/Sherikulova	76(4)
+21-97501	4	102	1	1	1	qo9cju	8drznr	buawag	2e4oo4	32		Bernthal/Zamorano		Osborn/Tiemeyer	64
+21-97501	4	102	1	1	1	teww08	uur6pc	a1ex8b	2caeay	32		Covington/Miller		Hatouka/Ranaivo	63
+21-97501	4	102	1	1	1	hii0mc	dpb3nz	rrxld9	jkeq6q	32		Hadjigeorgiou/Monko		Bremel/Paradise	76(3)
+21-97501	4	102	1	1	1	daeoqk	om80kw	sjx5tx	b26gic	32		Hapuku/Snezhko		Jancikova/Arce Viey…	76(7)
+21-97501	4	102	1	1	1	use6q2	a1xntf	cobsp2	xro3m9	32		Granson/Kistanova		ElNemr/Talavera	63
+21-97599	2	1	1	6	1	iybu58	dvp1h1	v4nct2	4e4oo4	F		Masic/Schneider	5	Molina/Stevens	63 62
+21-97599	2	1	1	5	1	v4nct2	4e4oo4	9svg5y	p5ylo7	SF	5	Molina/Stevens		Eades/Girbau	63 16 [10]
+21-97599	2	1	1	5	1	iybu58	dvp1h1	utrvrf	y5nnrz	SF		Masic/Schneider	2	Di Palma/Verma	62 60
+21-97599	2	1	1	4	1	v4nct2	4e4oo4	o95v1n	0fursx	QF	5	Molina/Stevens		Roggenburk/Graham	83
+21-97599	2	1	1	4	1	9svg5y	p5ylo7	qbv93d	juccgo	QF		Eades/Girbau	9	Mertena/Tomase	84
+21-97599	2	1	1	4	1	iybu58	dvp1h1	gwwe0q	0kr496	QF		Masic/Schneider		Carvajal/Elizarraras	84
+21-97599	2	1	1	4	1	utrvrf	y5nnrz	dxffjr	sro3m9	QF	2	Di Palma/Verma	5	McGiffin/Symons	84
+21-97599	2	1	1	3	1	o95v1n	0fursx	2ixuv0	n7blnh	16		Roggenburk/Graham		Bakhodirova/Morales	86
+21-97599	2	1	1	3	1	v4nct2	4e4oo4	mhsxij	4q9yfo	16	5	Molina/Stevens	9	Stevens/Rompf	84
+21-97599	2	1	1	3	1	qbv93d	juccgo	xrgbyd	xm448g	16	9	Mertena/Tomase	4	Cruz/Kourkina	81
+21-97599	2	1	1	3	1	9svg5y	p5ylo7	854x6v	zxy54v	16		Eades/Girbau		Smith/Nwaozuzu	81
+21-97599	2	1	1	3	1	iybu58	dvp1h1	vx9313	rqmci4	16		Masic/Schneider	5	Arrese/Gonzalez	87(5)
+21-97599	2	1	1	3	1	gwwe0q	0kr496	2bgfup	x8oaou	16		Carvajal/Elizarraras	3	Staff/Lee	86
+21-97599	2	1	1	3	1	dxffjr	sro3m9	gs38tu	u7595t	16	5	McGiffin/Symons		Young/Billman	82
+21-97599	2	1	1	3	1	utrvrf	y5nnrz	srk7at	w1gdej	16	2	Di Palma/Verma		Kyle/Lyman	83
+21-97599	2	1	1	2	1	2ixuv0	n7blnh	8wnw9q	hp9nhr	32		Bakhodirova/Morales		Woog/Jones	86
+21-97599	2	1	1	2	1	o95v1n	0fursx	vjkrqh	00iimu	32		Roggenburk/Graham		Staiculescu/Hernand…	84
+21-97599	2	1	1	2	1	v4nct2	4e4oo4	wxjbv7	q3vtj1	32	5	Molina/Stevens		Zalukar/Valentinsson	82
+21-97599	2	1	1	2	1	mhsxij	4q9yfo	tdy18j	qyqoew	32	9	Stevens/Rompf		Abel/Gibbens	85
+21-97599	2	1	1	2	1	xrgbyd	xm448g	ei5mjw	u9i943	32	4	Cruz/Kourkina		Schmidt/Gupta	87(4)
+21-97599	2	1	1	2	1	qbv93d	juccgo	jnn5rh	crxld9	32	9	Mertena/Tomase		van Hee/Bosman	83
+21-97599	2	1	1	2	1	854x6v	zxy54v	9kca0i	gi5mjw	32		Smith/Nwaozuzu		Kothakota/Rosenberg…	Walkover
+21-97599	2	1	1	2	1	9svg5y	p5ylo7	u03od6	cl8pmz	32		Eades/Girbau	9	Milic/Larranaga	82
+21-97599	2	1	1	2	1	iybu58	dvp1h1	bse6q2	b4jghm	32		Masic/Schneider		Gasparin/Galindo	83
+21-97599	2	1	1	2	1	vx9313	rqmci4	h1v7n7	s9gtyv	32	5	Arrese/Gonzalez		Duckworth/Creath	86
+21-97599	2	1	1	2	1	gwwe0q	0kr496	fgf8h6	on0jux	32		Carvajal/Elizarraras		Ushio/Long	87(1)
+21-97599	2	1	1	2	1	2bgfup	x8oaou	timwys	40g2gm	32	3	Staff/Lee		Polishchuk/Davies	84
+21-97599	2	1	1	2	1	gs38tu	u7595t	wxwpyn	1qkwcw	32		Young/Billman		Lee/Carelli	85
+21-97599	2	1	1	2	1	dxffjr	sro3m9	xxy54v	pr1hpp	32	5	McGiffin/Symons		Peeler/Kaplan	83
+21-97599	2	1	1	2	1	srk7at	w1gdej	o834xi	tvjpzd	32		Kyle/Lyman	9	Fodor/Gallardo Guev…	85
+21-97599	2	1	1	2	1	utrvrf	y5nnrz	3psd2v	gkv0lm	32	2	Di Palma/Verma		Leder/Nakanishi	81
+21-97599	2	1	1	1	1	8wnw9q	hp9nhr	3vyj81	6n0jux	64		Woog/Jones	1	Adeshina/Kuczer	86
+21-97599	2	1	1	1	1	2ixuv0	n7blnh	b60csc	dyukqc	64		Bakhodirova/Morales		Steif/Ondo	83
+21-97599	2	1	1	1	1	vjkrqh	00iimu	swlg3i	nccug6	64		Staiculescu/Hernand…	9	Sawyer/Simova	86
+21-97599	2	1	1	1	1	o95v1n	0fursx	sd6twf	njkrqh	64		Roggenburk/Graham		Popova/Trbeznik	85
+21-97599	2	1	1	1	1	v4nct2	4e4oo4	x2acus	xjkrqh	64	5	Molina/Stevens		Getty/Trondson	81
+21-97599	2	1	1	1	1	wxjbv7	q3vtj1	lulu7o	m1gdej	64		Zalukar/Valentinsson		Bernard/Lounsbury	84
+21-97599	2	1	1	1	1	mhsxij	4q9yfo	yr3xvx	z9x3dr	64	9	Stevens/Rompf		Mauro/Barnard	84
+21-97599	2	1	1	1	1	tdy18j	qyqoew	17qfw5	73rx7l	64		Abel/Gibbens		Guna/Miceli	83
+21-97599	2	1	1	1	1	xrgbyd	xm448g	e0zs1q	uutmvk	64	4	Cruz/Kourkina		Denysiewicz-Slowek/…	82
+21-97599	2	1	1	1	1	ei5mjw	u9i943	x6wggw	3vh9t5	64		Schmidt/Gupta		Lukacs/Braun	85
+21-97599	2	1	1	1	1	qbv93d	juccgo	4h7rr7	6f03al	64	9	Mertena/Tomase		Morris/Torrealba	85
+21-97599	2	1	1	1	1	jnn5rh	crxld9	eefmlc	tazuhw	64		van Hee/Bosman		Flanagan/Niehaus	84
+21-97599	2	1	1	1	1	854x6v	zxy54v	054x6v	7lrf73	64		Smith/Nwaozuzu	5	Teixido-Garcia/Meyer	86
+21-97599	2	1	1	1	1	9kca0i	gi5mjw	i5l7lr	r28wok	64		Kothakota/Rosenberg…		Richardson/Callwood	87(4)
+21-97599	2	1	1	1	1	u03od6	cl8pmz	tm80kw	3va78d	64	9	Milic/Larranaga		Solomon/Zholdakova	83
+21-97599	2	1	1	1	1	9svg5y	p5ylo7	17595t	8st0zq	64		Eades/Girbau		Balthazor/Beavin	86
+21-97599	2	1	1	1	1	iybu58	dvp1h1	46j2dg	lclc76	64		Masic/Schneider		Young/Bergqvist	81
+21-97599	2	1	1	1	1	bse6q2	b4jghm	gkxgru	na1an4	64		Gasparin/Galindo	9	Reayer/Romero	84
+21-97599	2	1	1	1	1	h1v7n7	s9gtyv	ixu9sf	r6hm78	64		Duckworth/Creath		Henry/Roberts	87(5)
+21-97599	2	1	1	1	1	vx9313	rqmci4	gv0ze9	ew2qie	64	5	Arrese/Gonzalez		Cheng/Paladini- Jen…	85
+21-97599	2	1	1	1	1	fgf8h6	on0jux	dwhkr2	dndxxd	64		Ushio/Long		Howard/Bandy	86
+21-97599	2	1	1	1	1	gwwe0q	0kr496	upb3nz	wyukqc	64		Carvajal/Elizarraras	9	Mclay/Pendergast	84
+21-97599	2	1	1	1	1	timwys	40g2gm	mn0jux	o5ylo7	64		Polishchuk/Davies		Koo/Grau	87(2)
+21-97599	2	1	1	1	1	2bgfup	x8oaou	hofo1i	ymjyh4	64	3	Staff/Lee		Niedzialowski/Espin…	80
+21-97599	2	1	1	1	1	wxwpyn	1qkwcw	5kpo3y	0yms2g	64		Lee/Carelli		Barnard/Alexis	87(3)
+21-97599	2	1	1	1	1	gs38tu	u7595t	ffyn4d	o4psza	64		Young/Billman	9	Ramasamy/Rico	83
+21-97599	2	1	1	1	1	xxy54v	pr1hpp	9jt9hh	2h1f9j	64		Peeler/Kaplan		Boesing/Beavin	80
+21-97599	2	1	1	1	1	dxffjr	sro3m9	r1ex8b	ij3hbl	64	5	McGiffin/Symons		Grosmann/Tumthong	85
+21-97599	2	1	1	1	1	srk7at	w1gdej	04jghm	4brdrx	64		Kyle/Lyman		Diachenko/Dobranos	87(1)
+21-97599	2	1	1	1	1	o834xi	tvjpzd	sltvdb	78iy66	64	9	Fodor/Gallardo Guev…		Sakurai/Albersmeier	83
+21-97599	2	1	1	1	1	3psd2v	gkv0lm	4xy54v	3ba3c1	64		Leder/Nakanishi		Ochalik/Grubb	82
+21-97599	2	1	1	1	1	utrvrf	y5nnrz	ivyj81	ql69gr	64	2	Di Palma/Verma		Alfaro/Gorbunova	83
+21-97599	2	102	1	1	1	054x6v	7lrf73	tm80kw	3va78d	128		Teixido-Garcia/Meyer		Solomon/Zholdakova	81
+21-97599	2	102	1	1	1	x6wggw	3vh9t5	sd6twf	njkrqh	128		Lukacs/Braun		Popova/Trbeznik	84
+21-97599	2	102	1	1	1	3vyj81	6n0jux	ivyj81	ql69gr	128		Adeshina/Kuczer		Alfaro/Gorbunova	84
+21-97599	2	102	1	1	1	yr3xvx	z9x3dr	dwhkr2	dndxxd	128		Mauro/Barnard		Howard/Bandy	84
+21-97599	2	102	1	1	1	b60csc	dyukqc	x2acus	xjkrqh	128		Steif/Ondo		Getty/Trondson	85
+21-97599	2	102	1	1	1	e0zs1q	uutmvk	04jghm	4brdrx	128		Denysiewicz-Slowek/…		Diachenko/Dobranos	84
+21-97599	2	102	1	1	1	ixu9sf	r6hm78	r1ex8b	ij3hbl	128		Henry/Roberts		Grosmann/Tumthong	86
+21-97599	2	102	1	1	1	4h7rr7	6f03al	sltvdb	78iy66	128		Morris/Torrealba		Sakurai/Albersmeier	86
+21-97599	2	102	1	1	1	hofo1i	ymjyh4	gv0ze9	ew2qie	128		Niedzialowski/Espin…		Cheng/Paladini- Jen…	87(5)
+21-97599	2	103	1	1	1	3vyj81	6n0jux	ei5mjw	u9i943	64		Adeshina/Kuczer		Schmidt/Gupta	84
+21-97599	2	103	1	1	1	vjkrqh	6tc1ir	sltvdb	78iy66	64		Staiculescu/Kubas		Sakurai/Albersmeier	87(5)
+21-97599	2	103	1	1	1	yr3xvx	z9x3dr	b60csc	dyukqc	64		Mauro/Barnard		Steif/Ondo	83
+21-98114	2	101	1	4	1	jxffjr	vzb535	w3llpx	bkr496	F		Martinelli/Wooten		Briggs/Dudeney	62
+21-98114	2	101	1	3	1	w3llpx	bkr496	jfyn4d	g0g2gm	SF		Briggs/Dudeney		Omirou/Coleman	64
+21-98114	2	101	1	3	1	jxffjr	vzb535	bhk5un	b4r85i	SF		Martinelli/Wooten		Crawley/Yarlagadda	75
+21-98114	2	101	1	2	1	w3llpx	bkr496	3eww08	wc6iyi	QF		Briggs/Dudeney		Crowley/Hand	64
+21-98114	2	101	1	2	1	jfyn4d	g0g2gm	zscqku	fos24y	QF		Omirou/Coleman		Carrington/Cubitt	64
+21-98114	2	101	1	2	1	bhk5un	b4r85i	7501uf	uxffjr	QF		Crawley/Yarlagadda		Manyoma Velasquez/N…	62
+21-98114	2	101	1	2	1	jxffjr	vzb535	4st0zq	kh1f9j	QF		Martinelli/Wooten		Babic/Bridges	61
+21-98114	2	101	1	1	1	3eww08	wc6iyi	z1itkr	eq7i9g	16		Crowley/Hand		Patel/McClure	60
+21-98114	2	101	1	1	1	w3llpx	bkr496	mc42sa	83n1v5	16		Briggs/Dudeney		Chen/Flach	62
+21-98114	2	101	1	1	1	zscqku	fos24y	tzqzct	3dpjhj	16		Carrington/Cubitt		Quiterio/Schech	76(3)
+21-98114	2	101	1	1	1	jfyn4d	g0g2gm	03ph1d	kr7t7d	16		Omirou/Coleman		Johnson/Viktorovich	61
+21-98114	2	101	1	1	1	bhk5un	b4r85i	oed6f4	6s38tu	16		Crawley/Yarlagadda		Biran/Yakubovich	62
+21-98114	2	101	1	1	1	7501uf	uxffjr	9la5s7	71z3zn	16		Manyoma Velasquez/N…		ODell/Munera	Default
+21-98114	2	101	1	1	1	jxffjr	vzb535	d7d1tp	t8s60a	16		Martinelli/Wooten		Schrage/Sung	61
+21-98114	2	101	1	1	1	4st0zq	kh1f9j	m8kece	94lwnu	16		Babic/Bridges		Cabezas/Kadleckova	75
+21-98114	2	101	2	3	1	tzqzct	3dpjhj	m8kece	94lwnu	F		Quiterio/Schech		Cabezas/Kadleckova	63
+21-98114	2	101	2	2	1	tzqzct	3dpjhj	mc42sa	83n1v5	SF		Quiterio/Schech		Chen/Flach	62
+21-98114	2	101	2	2	1	m8kece	94lwnu	oed6f4	6s38tu	SF		Cabezas/Kadleckova		Biran/Yakubovich	64
+21-98114	2	101	2	1	1	mc42sa	83n1v5	z1itkr	eq7i9g	QF		Chen/Flach		Patel/McClure	Default
+21-98114	2	101	2	1	1	tzqzct	3dpjhj	03ph1d	kr7t7d	QF		Quiterio/Schech		Johnson/Viktorovich	61
+21-98114	2	101	2	1	1	oed6f4	6s38tu	9la5s7	71z3zn	QF		Biran/Yakubovich		ODell/Munera	Default
+21-98114	2	101	2	1	1	m8kece	94lwnu	d7d1tp	t8s60a	QF		Cabezas/Kadleckova		Schrage/Sung	62
+21-98114	2	101	3	2	1	3eww08	wc6iyi	7501uf	uxffjr	F		Crowley/Hand		Manyoma Velasquez/N…	63
+21-98114	2	101	3	1	1	3eww08	wc6iyi	zscqku	fos24y	SF		Crowley/Hand		Carrington/Cubitt	76(6)
+21-98114	2	101	3	1	1	7501uf	uxffjr	4st0zq	kh1f9j	SF		Manyoma Velasquez/N…		Babic/Bridges	62
+21-98114	2	101	4	1	1	bhk5un	b4r85i	jfyn4d	g0g2gm	F		Crawley/Yarlagadda		Omirou/Coleman	63
+21-98114	2	101	5	2	1	d7d1tp	t8s60a	03ph1d	kr7t7d	F		Schrage/Sung		Johnson/Viktorovich	63
+21-98114	2	101	5	1	1	03ph1d	kr7t7d	z1itkr	eq7i9g	SF		Johnson/Viktorovich		Patel/McClure	Default
+21-98114	2	101	5	1	1	d7d1tp	t8s60a	9la5s7	71z3zn	SF		Schrage/Sung		ODell/Munera	Default
+21-98114	2	101	6	1	1	mc42sa	83n1v5	oed6f4	6s38tu	F		Chen/Flach		Biran/Yakubovich	63
+21-98114	2	102	1	4	1	zct4v2	cbgfup	f0kys2	f9olmr	F		Sasnouskaya/Starodu…		Lagarde/Smagina	76(6)
+21-98114	2	102	1	3	1	f0kys2	f9olmr	putmvk	zn4f6d	SF		Lagarde/Smagina		Sanford/Tran	75
+21-98114	2	102	1	3	1	zct4v2	cbgfup	uyms2g	vrxld9	SF		Sasnouskaya/Starodu…		Ansari/Arseneault	61
+21-98114	2	102	1	2	1	putmvk	zn4f6d	p0187y	a3rx7l	QF		Sanford/Tran		Hsieh/Naklo	64
+21-98114	2	102	1	2	1	f0kys2	f9olmr	hr5d15	uhipof	QF		Lagarde/Smagina		Saric/Alhach	63
+21-98114	2	102	1	2	1	uyms2g	vrxld9	go9cju	migkg4	QF		Ansari/Arseneault		Berankova/Chen	Default
+21-98114	2	102	1	2	1	zct4v2	cbgfup	txu9sf	r9q1sz	QF		Sasnouskaya/Starodu…		Harvey/Zink	64
+21-98114	2	102	1	1	1	p0187y	a3rx7l	7nht9t	qyyg2s	16		Hsieh/Naklo		Kiefer/Ziodato	60
+21-98114	2	102	1	1	1	hr5d15	uhipof	2ny3op	jhsxij	16		Saric/Alhach		Hand/Shusharina	64
+21-98114	2	102	1	1	1	f0kys2	f9olmr	xst0zq	p5nnrz	16		Lagarde/Smagina		Berlin/Zein	76(5)
+21-98114	2	102	1	1	1	uyms2g	vrxld9	28kece	xtgxu7	16		Ansari/Arseneault		De Oliveira/Spee	76(5)
+21-98114	2	102	1	1	1	txu9sf	r9q1sz	4ii0mc	yzqzct	16		Harvey/Zink		Geissler/Rabinowitz	62
+21-98114	2	102	1	1	1	zct4v2	cbgfup	28iy66	4ffxj9	16		Sasnouskaya/Starodu…		Ahmad/Nihalani	60
+21-98114	2	102	2	3	1	2ny3op	jhsxij	4ii0mc	yzqzct	F		Hand/Shusharina		Geissler/Rabinowitz	64
+21-98114	2	102	2	2	1	2ny3op	jhsxij	7nht9t	qyyg2s	SF		Hand/Shusharina		Kiefer/Ziodato	62
+21-98114	2	102	2	2	1	4ii0mc	yzqzct	28kece	xtgxu7	SF		Geissler/Rabinowitz		De Oliveira/Spee	64
+21-98114	2	102	2	1	1	2ny3op	jhsxij	xst0zq	p5nnrz	QF		Hand/Shusharina		Berlin/Zein	64
+21-98114	2	102	2	1	1	4ii0mc	yzqzct	28iy66	4ffxj9	QF		Geissler/Rabinowitz		Ahmad/Nihalani	61
+21-98114	2	102	3	2	1	p0187y	a3rx7l	txu9sf	r9q1sz	F		Hsieh/Naklo		Harvey/Zink	60
+21-98114	2	102	3	1	1	p0187y	a3rx7l	hr5d15	uhipof	SF		Hsieh/Naklo		Saric/Alhach	63
+21-98114	2	102	3	1	1	txu9sf	r9q1sz	go9cju	migkg4	SF		Harvey/Zink		Berankova/Chen	Default
+21-98114	2	102	4	1	1	putmvk	zn4f6d	uyms2g	vrxld9	F		Sanford/Tran		Ansari/Arseneault	62
+21-98114	2	102	5	2	1	28iy66	4ffxj9	xst0zq	p5nnrz	F		Ahmad/Nihalani		Berlin/Zein	63
+21-98114	2	102	6	1	1	7nht9t	qyyg2s	28kece	xtgxu7	F		Kiefer/Ziodato		De Oliveira/Spee	64
+21-98128	2	101	1	1	1	y834xi	z28wok	b3vtj1	gyqoew	32		Fraile Toboso/Coetz…		Turulja/Genkova	62
+21-98128	2	101	1	1	1	em448g	abrdrx	rzm30d	0nlpl9	32		Luneva/Del Barrio		Hedrzak/Santibanez …	63
+21-98128	2	101	1	1	1	kg7gta	7hqhcb	hxhvpz	ny7yts	32		Dorian/ONeill		Sarcelet/Feng	64
+21-98128	2	101	1	1	1	k4262q	emlenc	236rg9	g3llpx	32		Gordon/Kalinic		Gamracy/Bui	63
+21-98128	2	101	1	1	1	gouia6	m3ansp	a28wok	oeww08	32		Hayer/Petty		Chhabra/Courtney	63
+21-98128	2	101	1	1	1	wx21gb	i11j5v	mzm30d	xwnw9q	32		Zlotnik/Schroer		Hayes/Yue	62
+21-98128	2	101	1	1	1	y95v1n	6ii0mc	b89gf6	g8qqu2	32		Ronney/Harris		Shiau/Ragona	62
+21-98128	2	101	1	1	1	nw46om	b6f610	kpqxwn	9m08w0	32		Tevez/Massey		Hellbe/Casucci	62
+21-98128	2	101	1	1	1	82t2fw	4kxgru	0v6bwx	svyj81	32		Hovda/Rook		Ortega/Alvarez	63
+21-98128	2	101	1	1	1	paase4	7n0jux	sag4ws	0ys4k4	32		Andrieieva/Marco Mas		Kosan/LeRoy	63
+21-98128	2	101	1	1	1	4hbn3n	qtx793	fbz5ft	ged6f4	32		Ung/Sam		Youseva/Babic	75
+21-98128	2	101	1	1	1	2cvk1a	rm6keo	8r7t7d	qmhibw	32		Villan Pereira/Pedr…		Wiese/Brilhante	60
+21-98128	2	102	1	1	1	gouia6	m3ansp	y95v1n	6ii0mc	32		Hayer/Petty		Ronney/Harris	63
+21-98128	2	102	1	1	1	k4262q	emlenc	i60csc	b6f610	32		Gordon/Kalinic		Silva/Massey	63
+21-98128	2	102	1	1	1	lcnsde	i11j5v	nw46om	82t2fw	32		Fileva/Schroer		Tevez/Hovda	75
+21-98128	2	102	1	1	1	em448g	abrdrx	kpqxwn	b89gf6	32		Luneva/Del Barrio		Hellbe/Shiau	76(5)
+21-98128	2	102	1	1	1	b3vtj1	gyqoew	svyj81	9m08w0	32		Turulja/Genkova		Alvarez/Casucci	60
+21-98128	2	102	1	1	1	ny7yts	wx21gb	4kxgru	hxhvpz	32		Feng/Zlotnik		Rook/Sarcelet	63
+21-98128	2	102	1	1	1	y834xi	z28wok	sag4ws	0ys4k4	32		Fraile Toboso/Coetz…		Kosan/LeRoy	64
+21-98128	2	102	1	1	1	4hbn3n	qtx793	rzm30d	0nlpl9	32		Ung/Sam		Hedrzak/Santibanez …	64
+21-98128	2	102	1	1	1	236rg9	rnwnih	paase4	7n0jux	32		Gamracy/Colyer		Andrieieva/Marco Mas	64
+21-98128	2	102	1	1	1	oeww08	mzm30d	2cvk1a	rm6keo	32		Courtney/Hayes		Villan Pereira/Pedr…	62
+21-98128	2	102	1	1	1	fbz5ft	ged6f4	5v0ze9	xwnw9q	32		Youseva/Babic		Clydesdale-Eberle/Y…	64
+21-98128	2	103	1	1	1	k4262q	emlenc	y834xi	z28wok	32		Gordon/Kalinic		Fraile Toboso/Coetz…	76(4)
+21-98128	2	103	1	1	1	gouia6	m3ansp	rzm30d	kg7gta	32		Hayer/Petty		Hedrzak/Dorian	63
+21-98128	2	103	1	1	1	4hbn3n	qtx793	lcnsde	wx21gb	32		Ung/Sam		Fileva/Zlotnik	75
+21-98128	2	103	1	1	1	i11j5v	ny7yts	qgf8h6	qmhibw	32		Schroer/Feng		Zamora/Brilhante	63
+21-98128	2	103	1	1	1	5v0ze9	1bxp9l	i8qqu2	9m08w0	32		Clydesdale-Eberle/R…		Pesqueira/Casucci	63
+21-98128	2	103	1	1	1	kpqxwn	b89gf6	sag4ws	0ys4k4	32		Hellbe/Shiau		Kosan/LeRoy	76(4)
+21-98128	2	103	1	1	1	em448g	abrdrx	fbz5ft	paase4	32		Luneva/Del Barrio		Youseva/Andrieieva	64
+21-98128	2	103	1	1	1	03rx7l	ged6f4	b3vtj1	gyqoew	32		Muradyan/Babic		Turulja/Genkova	75
+21-98128	2	103	1	1	1	6ii0mc	nw46om	rnwnih	603od6	32		Harris/Tevez		Colyer/Martinez Vaq…	60
+21-98128	2	103	1	1	1	b6f610	4kxgru	zybu58	xwnw9q	32		Massey/Rook		Mushika/Yue	75
+21-98128	2	103	1	1	1	mzm30d	236rg9	82t2fw	i60csc	32		Hayes/Gamracy		Hovda/Silva	63
+21-98528	4	101	1	5	1	37fhzx	aofo1i	g2p63g	kbttx5	R5		Yuksel/Mehn		Aylward/Impalea	Walkover
+21-98528	4	101	1	5	1	h4h0be	dnwnih	ojzlz5	5dpjhj	R5		Blackwell/Chambers		Mille/Romero	Walkover
+21-98528	4	101	1	4	1	g2p63g	kbttx5	ojzlz5	5dpjhj	R4		Aylward/Impalea		Mille/Romero	Walkover
+21-98528	4	101	1	4	1	gcnsde	pcp8jm	h4h0be	dnwnih	R4		Fernandez/Howeler		Blackwell/Chambers	60
+21-98528	4	101	1	3	1	gcnsde	pcp8jm	37fhzx	aofo1i	R3		Fernandez/Howeler		Yuksel/Mehn	61
+21-98528	4	101	1	3	1	g2p63g	kbttx5	h4h0be	dnwnih	R3		Aylward/Impalea		Blackwell/Chambers	62
+21-98528	4	101	1	2	1	gcnsde	pcp8jm	ojzlz5	5dpjhj	R2		Fernandez/Howeler		Mille/Romero	76(2)
+21-98528	4	101	1	2	1	37fhzx	aofo1i	h4h0be	dnwnih	R2		Yuksel/Mehn		Blackwell/Chambers	60
+21-98528	4	101	1	1	1	gcnsde	pcp8jm	g2p63g	kbttx5	R1		Fernandez/Howeler		Aylward/Impalea	62
+21-98528	4	101	1	1	1	37fhzx	aofo1i	ojzlz5	5dpjhj	R1		Yuksel/Mehn		Mille/Romero	63
+21-98528	4	102	1	5	1	tag4ws	je0sco	cnn5rh	02zexk	F		Maher/Kronsbein	1	Weber/Voloshyna	64
+21-98528	4	102	1	4	1	cnn5rh	02zexk	xh1f9j	hh5blz	SF	1	Weber/Voloshyna	4	Batth/King	61
+21-98528	4	102	1	4	1	tag4ws	je0sco	8ny3op	r6sk4g	SF		Maher/Kronsbein		Guerrero/Chistov	64
+21-98528	4	102	1	3	1	cnn5rh	02zexk	qs1snm	cwj0xa	QF	1	Weber/Voloshyna		Schipper/Montserrat	75
+21-98528	4	102	1	3	1	xh1f9j	hh5blz	58qqu2	5m08w0	QF	4	Batth/King		Nwokolo/Caballero	75
+21-98528	4	102	1	3	1	tag4ws	je0sco	9qso0s	bj3hbl	QF		Maher/Kronsbein		Still/Vukovic	62
+21-98528	4	102	1	3	1	8ny3op	r6sk4g	br1hpp	w2zexk	QF		Guerrero/Chistov	2	Jacobs/Valtere	63
+21-98528	4	102	1	2	1	cnn5rh	02zexk	8vyj81	qp9nhr	16	1	Weber/Voloshyna		Aguirre/Kharb	75
+21-98528	4	102	1	2	1	qs1snm	cwj0xa	56sk4g	9goq86	16		Schipper/Montserrat		Crawford/Cassetori	60
+21-98528	4	102	1	2	1	xh1f9j	hh5blz	ty7yts	ad4dq7	16	4	Batth/King		Enderink/Kos	64
+21-98528	4	102	1	2	1	58qqu2	5m08w0	48bwle	ekxgru	16		Nwokolo/Caballero		Weng/Rozados	64
+21-98528	4	102	1	2	1	tag4ws	je0sco	91ex8b	mtpfl7	16		Maher/Kronsbein		Hill/Berger	63
+21-98528	4	102	1	2	1	9qso0s	bj3hbl	l3n1v5	cz9pxx	16		Still/Vukovic	3	Donecker/Rogel	62
+21-98528	4	102	1	2	1	8ny3op	r6sk4g	acvk1a	iwj0xa	16		Guerrero/Chistov		Wise/Mikael	63
+21-98528	4	102	1	2	1	br1hpp	w2zexk	eak088	jffxj9	16	2	Jacobs/Valtere		Smith/Martinez	60
+21-98528	4	102	1	1	1	8vyj81	qp9nhr	12e868	ty9ez0	32		Aguirre/Kharb		Prudencio/Katoudi	62
+21-98528	4	102	1	1	1	qs1snm	cwj0xa	ct856b	s0kys2	32		Schipper/Montserrat	5	Clayton/Lowe	61
+21-98528	4	102	1	1	1	56sk4g	9goq86	dg7gta	j2acus	32		Crawford/Cassetori		Farmer/Hencken	75
+21-98528	4	102	1	1	1	ty7yts	ad4dq7	6501uf	kq16rs	32		Enderink/Kos		Krusling/Beasley	75
+21-98528	4	102	1	1	1	48bwle	ekxgru	jy9ez0	103od6	32		Weng/Rozados	8	Karatantcheva/Marti…	63
+21-98528	4	102	1	1	1	58qqu2	5m08w0	cigkg4	y2xyrc	32		Nwokolo/Caballero		Chapman/Sakakibara	60
+21-98528	4	102	1	1	1	91ex8b	mtpfl7	gac8kc	5l8pmz	32		Hill/Berger		Davis/Lopez	64
+21-98528	4	102	1	1	1	tag4ws	je0sco	bqbelw	joh47q	32		Maher/Kronsbein	6	Vaughan/Schott	64
+21-98528	4	102	1	1	1	9qso0s	bj3hbl	w40qwi	k7fhzx	32		Still/Vukovic		Cunningham/White	61
+21-98528	4	102	1	1	1	8ny3op	r6sk4g	sg50n2	nmjyh4	32		Guerrero/Chistov		Bentz/Ferenczy	63
+21-98528	4	102	1	1	1	acvk1a	iwj0xa	5zqzct	y6hm78	32		Wise/Mikael	7	Peterson/Seib	61
+21-98528	4	102	1	1	1	eak088	jffxj9	ywwe0q	rho163	32		Smith/Martinez		Croes/Kotsiou	Walkover
