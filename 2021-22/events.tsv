@@ -3,9 +3,9 @@ tournaments: 397
 events: 891
 eventsWithDraws: 889
 eventsWithoutDraws: 2
-draws: 3354
-brackets: 6184
-results: 81916
+draws: 3352
+brackets: 6185
+results: 81947
 ---
 tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	rounds	results
 21-00186	1	101	1	M	Men's Open Singles	Division II	East	16,QF,SF,F	15
@@ -2512,7 +2512,7 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-33851	2	101	7	W	Women's Open Singles	Women's Singles Draw	Northwest	QF,SF,F	7
 21-33851	2	101	8	W	Women's Open Singles	Women's Singles Draw	Southeast	QF,SF,F	7
 21-33851	3	101	1	M	Men's Open Doubles	Men's Doubles	Main	16,QF,SF,F	15
-21-33851	4	100		W	Women's Open Doubles				
+21-33851	4	101	1	W	Women's Open Doubles	Draw	Main	32,16,QF,SF,F	31
 21-33883	1	101	1	M	Men's Open Singles	Draw	Main	32,16,QF,SF,F	31
 21-33883	1	101	2	M	Men's Open Singles	Draw	Consolation	16Q,16,QF,SF,F	23
 21-33883	2	101	1	W	Women's Open Singles	Draw	Main	16,QF,SF,F	15
