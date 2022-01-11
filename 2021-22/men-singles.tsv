@@ -1,11 +1,101 @@
 ---
-tournaments: 358
-players: 5000
-matches: 12948
-completed: 12940
-scheduled: 8
+tournaments: 369
+players: 5087
+matches: 13758
+completed: 13747
+scheduled: 11
 ---
 tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	partner2	round	seed1	line1	seed2	line2	score
+21-00186	1	101	1	4	1	pr5d15		yx9313		F	1	Alvaro Regalado		Joaquin Benoit	62 62
+21-00186	1	101	1	3	1	pr5d15		r3ej45		SF	1	Alvaro Regalado	4	Andrea Zamurri	63 64
+21-00186	1	101	1	3	1	yx9313		z8709y		SF		Joaquin Benoit		Alex Martinez Roca	63 46 62
+21-00186	1	101	1	2	1	pr5d15		moyemm		QF	1	Alvaro Regalado		Ryan Nuno	57 61 61
+21-00186	1	101	1	2	1	r3ej45		llpz1v		QF	4	Andrea Zamurri		Sander Jans	36 62 62
+21-00186	1	101	1	2	1	z8709y		16sk4g		QF		Alex Martinez Roca		Brennan Cimpeanu	61 63
+21-00186	1	101	1	2	1	yx9313		chqhcb		QF		Joaquin Benoit		Francisco Oliveira	75 64
+21-00186	1	101	1	1	1	pr5d15		4jef8t		16	1	Alvaro Regalado		Sebastian Herrera	61 62
+21-00186	1	101	1	1	1	moyemm		l3ph1d		16		Ryan Nuno		Tom Jarry	64 62
+21-00186	1	101	1	1	1	r3ej45		ap77bj		16	4	Andrea Zamurri		Gonzalo Fernandez	76(5) 64
+21-00186	1	101	1	1	1	llpz1v		i6wggw		16		Sander Jans		Daniel Llorente	64 75
+21-00186	1	101	1	1	1	z8709y		dsi22i		16		Alex Martinez Roca		Franco Oliva	76(5) 62
+21-00186	1	101	1	1	1	16sk4g		9r3xvx		16		Brennan Cimpeanu	3	Marko Nikoliuk	76(6) 63
+21-00186	1	101	1	1	1	yx9313		1ndxxd		16		Joaquin Benoit		Joaquin Bianchi	62 63
+21-00186	1	101	1	1	1	chqhcb		e0187y		16		Francisco Oliveira	2	Alejandro Ibanez	63 63
+21-00186	1	101	2	2	1	ap77bj		4jef8t		SF		Gonzalo Fernandez		Sebastian Herrera	64 63
+21-00186	1	101	2	2	1	1ndxxd		dsi22i		SF		Joaquin Bianchi		Franco Oliva	76(2) 62
+21-00186	1	101	2	1	1	4jef8t		l3ph1d		QF		Sebastian Herrera		Tom Jarry	63 64
+21-00186	1	101	2	1	1	ap77bj		i6wggw		QF		Gonzalo Fernandez		Daniel Llorente	36 63 62
+21-00186	1	101	2	1	1	dsi22i		9r3xvx		QF		Franco Oliva	3	Marko Nikoliuk	57 64 62
+21-00186	1	101	2	1	1	1ndxxd		3x9313		QF		Joaquin Bianchi		Jonathan Berling	63 61
+21-00186	1	101	3	1	1	moyemm		llpz1v		SF		Ryan Nuno		Sander Jans	62 64
+21-00186	1	101	3	1	1	chqhcb		16sk4g		SF		Francisco Oliveira		Brennan Cimpeanu	76(8) 63
+21-00186	1	101	5	1	1	i6wggw		l3ph1d		SF		Daniel Llorente		Tom Jarry	61 76(6)
+21-00186	1	101	5	1		9r3xvx		3x9313		SF	3	Marko Nikoliuk		Jonathan Berling	
+21-00186	1	102	1	4	1	kgbc5q		y9gtyv		F		Stan Morris	3	Chase Cohen	26 63 61
+21-00186	1	102	1	3	1	kgbc5q		mrevs5		SF		Stan Morris		Jhonny Acosta	64 64
+21-00186	1	102	1	3	1	y9gtyv		qski8q		SF	3	Chase Cohen		Jordan Theron	16 75 62
+21-00186	1	102	1	2	1	mrevs5		k0187y		QF		Jhonny Acosta	1	James Hopper	57 64 00 Ret.
+21-00186	1	102	1	2	1	kgbc5q		vfw7y5		QF		Stan Morris	4	Robert Liu	26 75 75
+21-00186	1	102	1	2	1	y9gtyv		oz9pxx		QF	3	Chase Cohen		Ansh Shah	46 60 60
+21-00186	1	102	1	2	1	qski8q		9i1q7g		QF		Jordan Theron		Moses Hutchison	76(3) 76(2)
+21-00186	1	102	1	1	1	k0187y		ahsxij		16	1	James Hopper		Yudai Teruyama	63 62
+21-00186	1	102	1	1	1	mrevs5		jojkdy		16		Jhonny Acosta		Thomas Yu	62 62
+21-00186	1	102	1	1	1	vfw7y5		o0kys2		16	4	Robert Liu		Luke Lemaitre	62 63
+21-00186	1	102	1	1	1	kgbc5q		y1mpw7		16		Stan Morris		John Zakowski	62 62
+21-00186	1	102	1	1	1	oz9pxx		2uawag		16		Ansh Shah		John Rado	26 62 63
+21-00186	1	102	1	1	1	y9gtyv		nos24y		16	3	Chase Cohen		Ethan Carroll	62 62
+21-00186	1	102	1	1	1	9i1q7g		q9kpab		16		Moses Hutchison		Cole Lindwall	63 62
+21-00186	1	102	1	1	1	qski8q		il8pmz		16		Jordan Theron	2	Cameron Krimbill	62 26 60
+21-00186	1	102	2	2	1	jojkdy		y1mpw7		SF		Thomas Yu		John Zakowski	62 60
+21-00186	1	102	2	2	1	il8pmz		2uawag		SF	2	Cameron Krimbill		John Rado	64 63
+21-00186	1	102	2	1	1	jojkdy		ahsxij		QF		Thomas Yu		Yudai Teruyama	63 60
+21-00186	1	102	2	1	1	y1mpw7		o0kys2		QF		John Zakowski		Luke Lemaitre	64 63
+21-00186	1	102	2	1	1	2uawag		nos24y		QF		John Rado		Ethan Carroll	64 76(3)
+21-00186	1	102	2	1	1	il8pmz		q9kpab		QF	2	Cameron Krimbill		Cole Lindwall	61 64
+21-00186	1	102	3	2		vfw7y5		9i1q7g		F	4	Robert Liu		Moses Hutchison	
+21-00186	1	102	3	1	1	vfw7y5		k0187y		SF	4	Robert Liu	1	James Hopper	Walkover
+21-00186	1	102	3	1	1	9i1q7g		oz9pxx		SF		Moses Hutchison		Ansh Shah	64 61
+21-00186	1	102	5	2		o0kys2		nos24y		F		Luke Lemaitre		Ethan Carroll	
+21-00186	1	102	5	1	1	o0kys2		ahsxij		SF		Luke Lemaitre		Yudai Teruyama	61 60
+21-00186	1	102	5	1	1	nos24y		q9kpab		SF		Ethan Carroll		Cole Lindwall	64 61
+21-00186	1	103	1	4	1	i2gocg		pq3mx0		F		Agustin Tamagnone		Francisco Faria	64 46 75
+21-00186	1	103	1	3	1	i2gocg		2sxwb6		SF		Agustin Tamagnone	4	Daniil Klimov	67(4) 64 76(5)
+21-00186	1	103	1	3	1	pq3mx0		oxhvpz		SF		Francisco Faria		Jeremias Rocco	64 Ret.
+21-00186	1	103	1	2	1	i2gocg		s60csc		QF		Agustin Tamagnone	1	Luke Simkiss	61 64
+21-00186	1	103	1	2	1	2sxwb6		6hqhcb		QF	4	Daniil Klimov		Chris Papa	57 64 75
+21-00186	1	103	1	2	1	pq3mx0		zktkfe		QF		Francisco Faria		Yassir Kilani	64 63
+21-00186	1	103	1	2	1	oxhvpz		cc6iyi		QF		Jeremias Rocco	2	Alex Gurmendi	64 64
+21-00186	1	103	1	1	1	s60csc		0jkrqh		16	1	Luke Simkiss		Leo Sprovieri	61 16 76(6)
+21-00186	1	103	1	1	1	i2gocg		5ro3m9		16		Agustin Tamagnone		Jan Silhavy	62 62
+21-00186	1	103	1	1	1	2sxwb6		vt856b		16	4	Daniil Klimov		Daniel Czepielewski	63 62
+21-00186	1	103	1	1	1	6hqhcb		b28wok		16		Chris Papa		Martin Carrizo	60 61
+21-00186	1	103	1	1	1	pq3mx0		he64uc		16		Francisco Faria		Thomas Zych	75 75
+21-00186	1	103	1	1	1	zktkfe		ly5ink		16		Yassir Kilani	3	Leo Bresson	63 76(2)
+21-00186	1	103	1	1	1	oxhvpz		r6f610		16		Jeremias Rocco		Nick Nienhaus	64 36 62
+21-00186	1	103	1	1	1	cc6iyi		mzqzct		16	2	Alex Gurmendi		Gabriel Ortiz	64 57 64
+21-00186	1	103	2	3	1	0jkrqh		r6f610		F		Leo Sprovieri		Nick Nienhaus	64 64
+21-00186	1	103	2	2	1	0jkrqh		b28wok		SF		Leo Sprovieri		Martin Carrizo	Walkover
+21-00186	1	103	2	2	1	r6f610		ly5ink		SF		Nick Nienhaus	3	Leo Bresson	Walkover
+21-00186	1	103	2	1	1	0jkrqh		5ro3m9		QF		Leo Sprovieri		Jan Silhavy	62 61
+21-00186	1	103	2	1	1	b28wok		vt856b		QF		Martin Carrizo		Daniel Czepielewski	62 63
+21-00186	1	103	2	1	1	ly5ink		he64uc		QF	3	Leo Bresson		Thomas Zych	Walkover
+21-00186	1	103	2	1	1	r6f610		mzqzct		QF		Nick Nienhaus		Gabriel Ortiz	Walkover
+21-00186	1	103	3	1	1	s60csc		6hqhcb		SF	1	Luke Simkiss		Chris Papa	62 64
+21-00186	1	103	3	1	1	zktkfe		cc6iyi		SF		Yassir Kilani	2	Alex Gurmendi	Walkover
+21-00186	1	103	5	1	1	5ro3m9		vt856b		SF		Jan Silhavy		Daniel Czepielewski	Walkover
+21-00186	1	103	5	1	1	he64uc		y7ub8l		SF		Thomas Zych		Bruno Pessoa	Walkover
+21-00186	1	104	1	3	1	dqso0s		w1k9qz		F	2	Takeshi Taco	4	Boruch Skierkier	63 76(1)
+21-00186	1	104	1	2	1	w1k9qz		vxstm7		SF	4	Boruch Skierkier	1	Gaston Cantero	61 36 52 Ret.
+21-00186	1	104	1	2	1	dqso0s		iqkwcw		SF	2	Takeshi Taco	3	Diego Dalisay	63 63
+21-00186	1	104	1	1	1	vxstm7		02vil4		QF	1	Gaston Cantero		Ravi Nelson	64 62
+21-00186	1	104	1	1	1	w1k9qz		cuv21s		QF	4	Boruch Skierkier		Emilio Vila	61 60
+21-00186	1	104	1	1	1	iqkwcw		3nj9f1		QF	3	Diego Dalisay		Tomas Nader	62 62
+21-00186	1	104	1	1	1	dqso0s		sj3hbl		QF	2	Takeshi Taco		Cheng En Tsai	62 61
+21-00186	1	104	2	2	1	sj3hbl		02vil4		F		Cheng En Tsai		Ravi Nelson	61 62
+21-00186	1	104	2	1	1	02vil4		cuv21s		SF		Ravi Nelson		Emilio Vila	64 75
+21-00186	1	104	2	1	1	sj3hbl		3nj9f1		SF		Cheng En Tsai		Tomas Nader	63 63
+21-00186	1	104	3	1	1	vxstm7		iqkwcw		F	1	Gaston Cantero	3	Diego Dalisay	50 Ret.
+21-00186	1	104	4	1	1	cuv21s		3nj9f1		F		Emilio Vila		Tomas Nader	62 61
 21-00238	1	101	1	3	1	0pqxwn		8xbj7b		F		Cash Hanzlik		Luciano Fisicaro	63 62
 21-00238	1	101	1	2	1	0pqxwn		ect4v2		SF		Cash Hanzlik		Kyllian Savary	61 61
 21-00238	1	101	1	2	1	8xbj7b		1ndxxd		SF		Luciano Fisicaro		Joaquin Bianchi	52 Ret.
@@ -188,6 +278,65 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-03884	1	103	1	1	1	6se6q2		ewlg3i		16		Raul Garcia		Mattia Ros	62 61
 21-03884	1	103	1	1	1	1xdzdj		7fhdph		16		Sergio Ingles Garre		Peter Sallay	61 63
 21-03884	1	103	1	1	1	t8oaou		qu4kss		16		Daniel Krulig		Harvey Conway	Walkover
+21-04289	1	4	1	5	1	vxbj7b		vh3vfr		F		Stefan Dostanic		Bradley Frye	64 76(2)
+21-04289	1	4	1	4	1	vh3vfr		hg9wzi		SF		Bradley Frye		Philip Hjorth	46 75 76(7)
+21-04289	1	4	1	4	1	vxbj7b		8ffxj9		SF		Stefan Dostanic		Lui Maxted	63 62
+21-04289	1	4	1	3	1	hg9wzi		v7ozqx		QF		Philip Hjorth		Richard Ciamarra	Walkover
+21-04289	1	4	1	3	1	vh3vfr		oefmlc		QF		Bradley Frye		Luc Fomba	63 36 63
+21-04289	1	4	1	3	1	8ffxj9		077pb1		QF		Lui Maxted		Jacob Fearnley	23 Ret.
+21-04289	1	4	1	3	1	vxbj7b		qyyg2s		QF		Stefan Dostanic		Tim Zeitvogel	64 64
+21-04289	1	4	1	2	1	hg9wzi		usaaem		16		Philip Hjorth		Baptiste Anselmo	76(3) 46 [9]
+21-04289	1	4	1	2	1	oefmlc		4ely30		16		Luc Fomba		Andrew Rogers	63 76(2)
+21-04289	1	4	1	2	1	vh3vfr		197b7v		16		Bradley Frye		Gavin Young	64 62
+21-04289	1	4	1	2	1	077pb1		0p5r5b		16		Jacob Fearnley		Mason Beiler	26 60 [7]
+21-04289	1	4	1	2	1	8ffxj9		90xcvi		16		Lui Maxted		Micah Braswell	62 64
+21-04289	1	4	1	2	1	qyyg2s		t91zp7		16		Tim Zeitvogel		Yuta Kikuchi	64 76(4)
+21-04289	1	4	1	2	1	vxbj7b		7q5238		16		Stefan Dostanic		Andre Ilagan	64 76(3)
+21-04289	1	4	1	1	1	hg9wzi		aefmlc		32		Philip Hjorth		Jonas Eriksson Zive…	76(6) 26 [6]
+21-04289	1	4	1	1	1	usaaem		xod8va		32		Baptiste Anselmo		Phillip Jordan	76(2) 61
+21-04289	1	4	1	1	1	v7ozqx		c4psza		32		Richard Ciamarra		Sam Rubell	63 61
+21-04289	1	4	1	1	1	oefmlc		8f9l1l		32		Luc Fomba		Noah Berry	62 64
+21-04289	1	4	1	1	1	4ely30		ly9ez0		32		Andrew Rogers		Phuc Huynh	75 62
+21-04289	1	4	1	1	1	vh3vfr		tely30		32		Bradley Frye		Tim Ruehl	36 61 [5]
+21-04289	1	4	1	1	1	197b7v		utalcj		32		Gavin Young		Nil Giraldez	62 75
+21-04289	1	4	1	1	1	077pb1		27595t		32		Jacob Fearnley		Nevin Arimilli	62 63
+21-04289	1	4	1	1	1	0p5r5b		kd6twf		32		Mason Beiler		Carl Emil Overbeck	63 57 [5]
+21-04289	1	4	1	1	1	8ffxj9		i54x6v		32		Lui Maxted		Colton Smith	64 64
+21-04289	1	4	1	1	1	90xcvi		aa3qtc		32		Micah Braswell		Stefano Tsorotiotis	61 63
+21-04289	1	4	1	1	1	t91zp7		i93fvf		32		Yuta Kikuchi		Evin McDonald	63 63
+21-04289	1	4	1	1	1	qyyg2s		dq9yfo		32		Tim Zeitvogel		Fabien Salle	62 46 [8]
+21-04289	1	4	1	1	1	7q5238		2h1f9j		32		Andre Ilagan		Nick Beaty	36 62 [3]
+21-04289	1	4	1	1	1	vxbj7b		qa1an4		32		Stefan Dostanic		Marvin Schaber	63 63
+21-04289	1	4	2	5	1	i54x6v		xod8va		F		Colton Smith		Phillip Jordan	63 26 [10]
+21-04289	1	4	2	4	1	xod8va		ly9ez0		SF		Phillip Jordan		Phuc Huynh	76(5) 62
+21-04289	1	4	2	4	1	i54x6v		dq9yfo		SF		Colton Smith		Fabien Salle	63 76(5)
+21-04289	1	4	2	3	1	xod8va		c4psza		QF		Phillip Jordan		Sam Rubell	26 76(2) [2]
+21-04289	1	4	2	3	1	ly9ez0		utalcj		QF		Phuc Huynh		Nil Giraldez	Walkover
+21-04289	1	4	2	3	1	i54x6v		27595t		QF		Colton Smith		Nevin Arimilli	62 62
+21-04289	1	4	2	3	1	dq9yfo		2h1f9j		QF		Fabien Salle		Nick Beaty	75 57 [4]
+21-04289	1	4	2	1	1	xod8va		aefmlc		16Q		Phillip Jordan		Jonas Eriksson Zive…	62 64
+21-04289	1	4	2	1	1	ly9ez0		8f9l1l		16Q		Phuc Huynh		Noah Berry	64 75
+21-04289	1	4	2	1	1	utalcj		tely30		16Q		Nil Giraldez		Tim Ruehl	Walkover
+21-04289	1	4	2	1	1	27595t		kd6twf		16Q		Nevin Arimilli		Carl Emil Overbeck	62 75
+21-04289	1	4	2	1	1	i54x6v		aa3qtc		16Q		Colton Smith		Stefano Tsorotiotis	63 64
+21-04289	1	4	2	1	1	dq9yfo		i93fvf		16Q		Fabien Salle		Evin McDonald	64 63
+21-04289	1	4	2	1	1	2h1f9j		qa1an4		16Q		Nick Beaty		Marvin Schaber	63 46 [5]
+21-04289	1	102	1	1	1	uyqoew		aefmlc		16		Stevie Gould		Jonas Eriksson Zive…	Walkover
+21-04289	1	102	1	1	1	qa1an4		sndxxd		16		Marvin Schaber		Paul Barretto	64 63
+21-04289	1	102	1	1	1	kc8y4q		bse6q2		16		Axel Labrunie		Johan Garpered	61 10 Ret.
+21-04289	1	102	1	1	1	5fdhd1		a2cs00		16		Mitchell Johnson		Lucas Magnaudet	64 62
+21-04289	1	102	1	1	1	7q5238		usaaem		16		Andre Ilagan		Baptiste Anselmo	62 63
+21-04289	1	102	1	1	1	0p5r5b		t91zp7		16		Mason Beiler		Yuta Kikuchi	64 62
+21-04289	1	103	1	3	1	kc8y4q		tj3hbl		R3		Axel Labrunie		David Woodland	61 63
+21-04289	1	103	1	2	1	sndxxd		tj3hbl		R2		Paul Barretto		David Woodland	61 62
+21-04289	1	105	1	1	1	c4psza		5fdhd1		F		Sam Rubell		Mitchell Johnson	63 62
+21-04289	1	201	1	1	1	hg9wzi		mfsbmp		16		Philip Hjorth		Will Davies	63 63
+21-04289	1	201	1	1	1	8f9l1l		a2cs00		16		Noah Berry		Lucas Magnaudet	60 62
+21-04289	1	201	1	1	1	c4psza		uyqoew		16		Sam Rubell		Stevie Gould	61 26 [3]
+21-04289	1	201	1	1	1	aa3qtc		kc8y4q		16		Stefano Tsorotiotis		Axel Labrunie	75 64
+21-04289	1	201	1	1	1	i93fvf		hsvg5y		16		Evin McDonald		Fernando Fonseca	57 34 Ret.
+21-04289	1	201	1	1	1	27595t		pk8eo2		16		Nevin Arimilli		Nicola Cigna	75 61
+21-04289	1	201	1	1	1	utalcj		sndxxd		16		Nil Giraldez		Paul Barretto	16 64 [9]
 21-04953	2	101	1	1	1	qkca0i		j03od6		QF		Tomas Luis		David Mizrahi	76(3) 63
 21-04953	2	101	1	1	1	i834xi		wjcz2l		QF		Matthew Fung		Diego Castro	62 26 64
 21-04953	2	101	1	1	1	15nnrz		7ejixs		QF		Alex Wesbrooks		Taisei Miyamoto	75 76(3)
@@ -2617,6 +2766,47 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-23395	1	104	1	1	1	71ch23		nmlenc		64		Matt Cardano		Alex Kim	62 64
 21-23395	1	104	1	1	1	ds1snm		qjibk9		64		Joshua Robinson		Conners OBrien	61 36 [11]
 21-23395	1	104	1	1	1	gpb3nz		4xffjr		64		Nicholas Nguyen		Ryan Nguyen	62 63
+21-23711	1	101	1	3	1	w054je		dw46om		F		Wikus Robbertse		Rian Ta	62 62
+21-23711	1	101	1	2	1	w054je		3gq6ee		SF		Wikus Robbertse		Pontus Hallgren	63 63
+21-23711	1	101	1	2	1	dw46om		3r3xvx		SF		Rian Ta		Zachary Matuszak	62 61
+21-23711	1	101	1	1	1	w054je		blrf73		QF		Wikus Robbertse		Manuel Monteiro	63 46 64
+21-23711	1	101	1	1	1	3gq6ee		aulu7o		QF		Pontus Hallgren		Michael Blando	64 62
+21-23711	1	101	1	1	1	3r3xvx		hnn5rh		QF		Zachary Matuszak		Josh Watkins	60 62
+21-23711	1	101	1	1	1	dw46om		8pypkj		QF		Rian Ta		Marcos Zelver	60 63
+21-23711	1	101	2	2	1	8pypkj		blrf73		F		Marcos Zelver		Manuel Monteiro	64 64
+21-23711	1	101	2	1	1	blrf73		aulu7o		SF		Manuel Monteiro		Michael Blando	62 62
+21-23711	1	101	2	1	1	8pypkj		hnn5rh		SF		Marcos Zelver		Josh Watkins	63 62
+21-23711	1	102	1	4	1	46u0ao		r2xyrc		F		Mathias Gavelin		Lawrence Sciglitano	62 61
+21-23711	1	102	1	3	1	46u0ao		oqosoc		SF		Mathias Gavelin		Patrick Kristensen	76(5) 64
+21-23711	1	102	1	3	1	r2xyrc		pv4vqp		SF		Lawrence Sciglitano		Andreas Kramer	36 64 64
+21-23711	1	102	1	2	1	oqosoc		w8oaou		QF		Patrick Kristensen		Alex Lin	63 46 64
+21-23711	1	102	1	2	1	46u0ao		pscqku		QF		Mathias Gavelin		Umit Ege Cankus	63 75
+21-23711	1	102	1	2	1	pv4vqp		p4yaqa		QF		Andreas Kramer		Brigham Andrus	61 76(3)
+21-23711	1	102	1	2	1	r2xyrc		0s38tu		QF		Lawrence Sciglitano		Patrik Trhac	76(5) Ret.
+21-23711	1	102	1	1	1	oqosoc		g69ujc		16		Patrick Kristensen		Milo Benn	63 60
+21-23711	1	102	1	1	1	w8oaou		yixuv0		16		Alex Lin		Bradley Buckland	76(3) 64
+21-23711	1	102	1	1	1	46u0ao		3jibk9		16		Mathias Gavelin		Aleksandar Petrovic	62 60
+21-23711	1	102	1	1	1	pscqku		uho163		16		Umit Ege Cankus		Matheus Leite	57 76(5) 61
+21-23711	1	102	1	1	1	pv4vqp		p3llpx		16		Andreas Kramer		Sam Baldwin	64 61
+21-23711	1	102	1	1	1	p4yaqa		clnjvn		16		Brigham Andrus		Hiroki Fujita	75 64
+21-23711	1	102	1	1	1	r2xyrc		vbrdrx		16		Lawrence Sciglitano		Zach Fuchs	62 62
+21-23711	1	102	1	1	1	0s38tu		4jt9hh		16		Patrik Trhac		Jayson Blando	64 61
+21-23711	1	102	2	2	1	3jibk9		g69ujc		SF		Aleksandar Petrovic		Milo Benn	63 76(5)
+21-23711	1	102	2	2	1	vbrdrx		clnjvn		SF		Zach Fuchs		Hiroki Fujita	61 64
+21-23711	1	102	2	1	1	g69ujc		yixuv0		QF		Milo Benn		Bradley Buckland	61 36 [6]
+21-23711	1	102	2	1	1	3jibk9		uho163		QF		Aleksandar Petrovic		Matheus Leite	67(4) 75 [9]
+21-23711	1	102	2	1	1	clnjvn		p3llpx		QF		Hiroki Fujita		Sam Baldwin	76(5) 26 [8]
+21-23711	1	102	2	1	1	vbrdrx		4jt9hh		QF		Zach Fuchs		Jayson Blando	67(3) 64 [4]
+21-23711	1	102	3	1	1	w8oaou		pscqku		SF		Alex Lin		Umit Ege Cankus	62 64
+21-23711	1	102	3	1	1	p4yaqa		0s38tu		SF		Brigham Andrus		Patrik Trhac	Walkover
+21-23711	1	102	5	2	1	yixuv0		4jt9hh		F		Bradley Buckland		Jayson Blando	76(4) 76(4)
+21-23711	1	102	5	1	1	yixuv0		uho163		SF		Bradley Buckland		Matheus Leite	Walkover
+21-23711	1	102	5	1	1	4jt9hh		p3llpx		SF		Jayson Blando		Sam Baldwin	67(4) 62 [7]
+21-23711	1	102	6	1	1	clnjvn		g69ujc		F		Hiroki Fujita		Milo Benn	62 62
+21-23711	1	103	1	1	1	p3llpx		3jibk9		QF		Sam Baldwin		Aleksandar Petrovic	75 63
+21-23711	1	103	1	1	1	oqosoc		3gq6ee		QF		Patrick Kristensen		Pontus Hallgren	16 63 [11]
+21-23711	1	103	1	1	1	pscqku		aulu7o		QF		Umit Ege Cankus		Michael Blando	64 61
+21-23711	1	103	1	1	1	pv4vqp		4jt9hh		QF		Andreas Kramer		Jayson Blando	61 46 [7]
 21-24046	1	101	1	6	1	oxhvpz		b28wok		F	2	Jeremias Rocco	1	Martin Carrizo	63 62
 21-24046	1	101	1	5	1	b28wok		0oh47q		SF	1	Martin Carrizo	5	Max Rozas	57 76(5) [4]
 21-24046	1	101	1	5	1	oxhvpz		0jkrqh		SF	2	Jeremias Rocco	3	Leo Sprovieri	63 61
@@ -3964,6 +4154,38 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-32980	1	101	7	2	1	cv8r25		c3n1v5		F		Hayden Shoemake		Will Fullett	Walkover
 21-32980	1	101	7	1	1	cv8r25		u3tddt		SF		Hayden Shoemake		Callum Rendle	Walkover
 21-32980	1	101	7	1	1	c3n1v5		fq5238		SF		Will Fullett		Bryce Keim	Walkover
+21-33883	1	101	1	5	1	dqso0s		w1k9qz		F	1	Takeshi Taco	3	Boruch Skierkier	26 75 62
+21-33883	1	101	1	4	1	dqso0s		axy54v		SF	1	Takeshi Taco		Luke Quaynor	63 30 Ret.
+21-33883	1	101	1	4	1	w1k9qz		8xbj7b		SF	3	Boruch Skierkier	2	Luciano Fisicaro	63 62
+21-33883	1	101	1	3	1	dqso0s		qxu9sf		QF	1	Takeshi Taco	8	Juan Gonzalez	63 64
+21-33883	1	101	1	3	1	axy54v		ect4v2		QF		Luke Quaynor	4	Kyllian Savary	63 64
+21-33883	1	101	1	3	1	w1k9qz		6ho163		QF	3	Boruch Skierkier	6	Karlo Krolo	64 64
+21-33883	1	101	1	3	1	8xbj7b		m6bapk		QF	2	Luciano Fisicaro		Gaston Erhardt	62 64
+21-33883	1	101	1	2	1	dqso0s		kunadw		16	1	Takeshi Taco		Enzo Frequelin	62 63
+21-33883	1	101	1	2	1	qxu9sf		x0g2gm		16	8	Juan Gonzalez		Carlos Castillo	61 76(7)
+21-33883	1	101	1	2	1	ect4v2		i3ph1d		16	4	Kyllian Savary		Taiyo Hirano	61 26 62
+21-33883	1	101	1	2	1	axy54v		xyo88o		16		Luke Quaynor	5	Harry Collins	64 60
+21-33883	1	101	1	2	1	6ho163		7dhrtn		16	6	Karlo Krolo		David Arrieta	64 62
+21-33883	1	101	1	2	1	w1k9qz		77ub8l		16	3	Boruch Skierkier		Arthur Praud	60 60
+21-33883	1	101	1	2	1	m6bapk		ztpfl7		16		Gaston Erhardt	7	Aymeric Bruno	67(5) 62 42 Ret.
+21-33883	1	101	1	2	1	8xbj7b		22i4io		16	2	Luciano Fisicaro		Leandro Zgraggen	61 61
+21-33883	1	101	1	1	1	kunadw		vffxj9		32		Enzo Frequelin		Zamani Moyo	61 75
+21-33883	1	101	1	1	1	x0g2gm		2387mh		32		Carlos Castillo		Nolan Laduree	60 61
+21-33883	1	101	1	1	1	i3ph1d		j0zs1q		32		Taiyo Hirano		Dante Despontin	64 60
+21-33883	1	101	1	1	1	axy54v		jobsp2		32		Luke Quaynor		Theo Devals	62 61
+21-33883	1	101	1	1	1	7dhrtn		6xy54v		32		David Arrieta		Eduardo Pires Do Pr…	62 57 63
+21-33883	1	101	1	1	1	77ub8l		gi36do		32		Arthur Praud		Jonas Mathiason	63 62
+21-33883	1	101	1	1	1	m6bapk		ojajwd		32		Gaston Erhardt		Martins Abamu	64 57 60
+21-33883	1	101	1	1	1	22i4io		l1v7n7		32		Leandro Zgraggen		Nicholas Espinoza	62 62
+21-33883	1	101	2	5	1	ojajwd		2387mh		F		Martins Abamu		Nolan Laduree	63 62
+21-33883	1	101	2	4	1	2387mh		j0zs1q		SF		Nolan Laduree		Dante Despontin	63 62
+21-33883	1	101	2	4	1	ojajwd		6xy54v		SF		Martins Abamu		Eduardo Pires Do Pr…	36 64 [2]
+21-33883	1	101	2	3	1	2387mh		vffxj9		QF		Nolan Laduree		Zamani Moyo	76(3) 61
+21-33883	1	101	2	3	1	j0zs1q		jobsp2		QF		Dante Despontin		Theo Devals	64 76(4)
+21-33883	1	101	2	3	1	6xy54v		gi36do		QF		Eduardo Pires Do Pr…		Jonas Mathiason	Walkover
+21-33883	1	101	2	3	1	ojajwd		l1v7n7		QF		Martins Abamu		Nicholas Espinoza	64 62
+21-33883	1	101	2	2	1	jobsp2		xyo88o		16		Theo Devals	5	Harry Collins	Walkover
+21-33883	1	101	2	2	1	ojajwd		ztpfl7		16		Martins Abamu	7	Aymeric Bruno	Walkover
 21-34853	1	1	1	7	1	yz1x91		vcvk1a		F	1	Alafia Ayeni	8	Max Westphal	67(7) 76(5) 63
 21-34853	1	1	1	6	1	yz1x91		dgf8h6		SF	1	Alafia Ayeni	4	Harris Walker	76(8) 62
 21-34853	1	1	1	6	1	vcvk1a		z03od6		SF	8	Max Westphal	26	Daniel Milavsky	61 60
@@ -8789,6 +9011,53 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-72013	1	102	2	2	1	euesmw		29x3dr		32		Alfonso Zerpa		Matt Bolen	63 26 [2]
 21-72013	1	102	2	2	1	8pfzzf		nct4v2		32		Ting-yu Yen		Andrew Shand	Walkover
 21-72013	1	102	2	2	1	k9x3dr		o6u0ao		32		Nicholas Balaci		Felipe Girondi	Default
+21-72298	1	101	1	1	1	o0iimu		3od8va		32		Teodor Giusca		Bojan Jankulovski	36 61 61
+21-72298	1	101	1	1	1	s69ujc		j93fvf		32		Ryuhei Azuma		Dan Martin	46 76(4) 64
+21-72298	1	101	1	1	1	b9m5gj		g91zp7		32		Jorge Plans Gonzalez		Juan Martin Jalif	46 76(4) 76(5)
+21-72298	1	101	1	1	1	e34ba1		nd6twf		32		Casper Christensen		Matt Pitts	76(9) 06 40 Ret.
+21-72298	1	101	1	1	1	1qosoc		hfsbmp		32		Yizhou Liu		Ilarion Danilchenko	64 60
+21-72298	1	101	1	1	1	pj3hbl		z4h0be		32		Spencer Whitaker		Franco Aubone	61 61
+21-72298	1	101	1	1	1	9a3qtc		bpw9eb		32		Oren Vasser		Maxwell Smith	61 61
+21-72298	1	101	1	1	1	7gdsby		gqq8uk		32		Jackson Ross		Andrew Puscas	76(6) 61
+21-72298	1	101	1	1	1	748ike		9yukqc		32		Trey Stinchcomb		Josh Raab	67(4) 62 75
+21-72298	1	101	1	1	1	tba3c1		8qosoc		32		Spencer Gray		Daniel Labrador	64 76(4)
+21-72298	1	102	1	1	1	j2gocg		g6u0ao		16		Tyler Stice		George Harwell	61 62
+21-72298	1	102	1	1	1	8xdzdj		e1ex8b		16		Joubert Klopper		Jan Galka	76(2) 61
+21-72298	1	102	1	1	1	xdj7zv		3fb17t		16		Raul Dobai		Marcus Ferreira	36 60 62
+21-72298	1	102	1	1	1	1nj9f1		j2xyrc		16		Tad McClean		Michael Ross	63 57 62
+21-72298	1	102	1	1	1	nn2z05		wy7yts		16		Will Nolan		Maxwell Freeman	61 62
+21-72298	1	102	1	1	1	7gdsby		qpdjt7		16		Jackson Ross		Connor Robb-Wilcox	62 61
+21-72298	1	102	1	1	1	egwiw2		tba3c1		16		Macsen Sisam		Spencer Gray	26 75 75
+21-72298	1	103	1	1	1	o0iimu		8xdzdj		16		Teodor Giusca		Joubert Klopper	63 76(1)
+21-72298	1	103	1	1	1	g6u0ao		s69ujc		16		George Harwell		Ryuhei Azuma	64 36 64
+21-72298	1	103	1	1	1	b9m5gj		3fb17t		16		Jorge Plans Gonzalez		Marcus Ferreira	64 46 76(1)
+21-72298	1	103	1	1	1	1qosoc		j2xyrc		16		Yizhou Liu		Michael Ross	63 36 64
+21-72298	1	103	1	1	1	pj3hbl		egwiw2		16		Spencer Whitaker		Macsen Sisam	63 75
+21-72298	1	103	1	1	1	nd6twf		wy7yts		16		Matt Pitts		Maxwell Freeman	61 62
+21-72298	1	103	1	1	1	qpdjt7		748ike		16		Connor Robb-Wilcox		Trey Stinchcomb	75 75
+21-72298	1	104	1	1	1	j2gocg		g91zp7		16		Tyler Stice		Juan Martin Jalif	64 63
+21-72298	1	104	1	1	1	4azuhw		3od8va		16		Finn Murgett		Bojan Jankulovski	64 46 63
+21-72298	1	104	1	1	1	e1ex8b		j93fvf		16		Jan Galka		Dan Martin	64 26 63
+21-72298	1	104	1	1	1	9a3qtc		xdj7zv		16		Oren Vasser		Raul Dobai	67(5) 64 63
+21-72298	1	104	1	1	1	nn2z05		e34ba1		16		Will Nolan		Casper Christensen	60 62
+21-72298	1	104	1	1	1	1nj9f1		z4h0be		16		Tad McClean		Franco Aubone	36 76(3) 61
+21-72298	1	104	1	1	1	7gdsby		8qosoc		16		Jackson Ross		Daniel Labrador	64 63
+21-72298	1	104	1	1	1	tba3c1		bpw9eb		16		Spencer Gray		Maxwell Smith	46 64 63
+21-72298	1	105	1	1	1	g6u0ao		3od8va		16		George Harwell		Bojan Jankulovski	62 62
+21-72298	1	105	1	1	1	3fb17t		g91zp7		16		Marcus Ferreira		Juan Martin Jalif	75 75
+21-72298	1	105	1	1	1	8xdzdj		9a3qtc		16		Joubert Klopper		Oren Vasser	62 64
+21-72298	1	105	1	1	1	j93fvf		j2xyrc		16		Dan Martin		Michael Ross	76(6) 75
+21-72298	1	105	1	1	1	z4h0be		qpdjt7		16		Franco Aubone		Connor Robb-Wilcox	62 57 64
+21-72298	1	105	1	1	1	e34ba1		wy7yts		16		Casper Christensen		Maxwell Freeman	16 64 63
+21-72298	1	105	1	1	1	egwiw2		hfsbmp		16		Macsen Sisam		Ilarion Danilchenko	61 63
+21-72298	1	106	1	1	1	j2gocg		o0iimu		16		Tyler Stice		Teodor Giusca	26 62 75
+21-72298	1	106	1	1	1	1nj9f1		bpw9eb		16		Tad McClean		Maxwell Smith	57 64 64
+21-72298	1	106	1	1	1	b9m5gj		4azuhw		16		Jorge Plans Gonzalez		Finn Murgett	64 67(1) 61
+21-72298	1	106	1	1	1	e1ex8b		1qosoc		16		Jan Galka		Yizhou Liu	60 63
+21-72298	1	106	1	1	1	xdj7zv		nd6twf		16		Raul Dobai		Matt Pitts	75 63
+21-72298	1	106	1	1	1	nn2z05		gqq8uk		16		Will Nolan		Andrew Puscas	67(6) 63 61
+21-72298	1	106	1	1	1	7gdsby		748ike		16		Jackson Ross		Trey Stinchcomb	63 76(5)
+21-72298	1	106	1	1	1	tba3c1		8qosoc		16		Spencer Gray		Daniel Labrador	60 60
 21-72414	1	101	1	6	1	o0kys2		rfw7y5		F	3	Luke Lemaitre	2	Will Leach	62 61
 21-72414	1	101	1	5	1	o0kys2		ph7rr7		SF	3	Luke Lemaitre	1	Reyn Miyagawa	61 61
 21-72414	1	101	1	5	1	rfw7y5		x7wret		SF	2	Will Leach	4	Mason Tran	62 76(7)
@@ -8943,6 +9212,494 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-72834	1	104	1	1	1	l40qwi		19kpab		QF		Sahil Dayal		Justin Lee	60 60
 21-72834	1	104	1	1	1	8utmvk		awf4lu		QF		Kunal Seetha		Nathan Englehart	62 64
 21-72834	1	104	1	1	1	1fdhd1		2cnsde		QF		Pranav Ikkurthy		Ben Echikson	61 60
+21-73796	1	5	1	6	1	27wret		385k3q		F		Ben Shelton		August Holmgren	63 64
+21-73796	1	5	1	5	1	27wret		99gtyv		SF		Ben Shelton		Clement Chidekh	63 60
+21-73796	1	5	1	5	1	385k3q		7q5238		SF		August Holmgren	Q	Andre Ilagan	64 63
+21-73796	1	5	1	4	1	27wret		xd892n		QF		Ben Shelton	Q	JJ Tracy	76(7) 75
+21-73796	1	5	1	4	1	99gtyv		6xbj7b		QF		Clement Chidekh	6	Gabriel Diallo	61 36 64
+21-73796	1	5	1	4	1	7q5238		8387mh		QF	Q	Andre Ilagan		Alex Kotzen	16 61 62
+21-73796	1	5	1	4	1	385k3q		0p5r5b		QF		August Holmgren		Mason Beiler	62 64
+21-73796	1	5	1	3	1	27wret		4dln53		16		Ben Shelton	9	Ronnie Hohmann	63 62
+21-73796	1	5	1	3	1	xd892n		wdpjhj		16	Q	JJ Tracy		Alexandre Reco	76(5) 46 64
+21-73796	1	5	1	3	1	99gtyv		vxbj7b		16		Clement Chidekh	Q	Stefan Dostanic	46 63 63
+21-73796	1	5	1	3	1	6xbj7b		7tvr3v		16	6	Gabriel Diallo		Andres Martin	76(1) 62
+21-73796	1	5	1	3	1	7q5238		gupqj4		16	Q	Andre Ilagan		Cannon Kingsley	64 62
+21-73796	1	5	1	3	1	8387mh		zfhdph		16		Alex Kotzen	4	Finn Reynolds	63 64
+21-73796	1	5	1	3	1	0p5r5b		v69ujc		16		Mason Beiler		Jacob Bickersteth	64 57 61
+21-73796	1	5	1	3	1	385k3q		0gbc5q		16		August Holmgren	2	Johannus Monday	46 76(5) 63
+21-73796	1	5	1	2	1	27wret		ofhdph		32		Ben Shelton	1	Daniel Rodrigues	63 20 Ret.
+21-73796	1	5	1	2	1	4dln53		l6bapk		32	9	Ronnie Hohmann		Arthur Fery	63 76(5)
+21-73796	1	5	1	2	1	wdpjhj		bx9313		32		Alexandre Reco	5	Trent Bryde	76(4) 60
+21-73796	1	5	1	2	1	xd892n		px0la3		32	Q	JJ Tracy	9	Nikola Slavic	63 63
+21-73796	1	5	1	2	1	vxbj7b		0j115d		32	Q	Stefan Dostanic		Francisco Rocha	46 63 61
+21-73796	1	5	1	2	1	99gtyv		npqxwn		32		Clement Chidekh		Ryan Goetz	64 62
+21-73796	1	5	1	2	1	6xbj7b		qscqku		32	6	Gabriel Diallo	Q	Daniel De Jonge	26 63 76(2)
+21-73796	1	5	1	2	1	7tvr3v		86f610		32		Andres Martin	Q	Filippo Moroni	61 62
+21-73796	1	5	1	2	1	7q5238		ec2mm2		32	Q	Andre Ilagan	9	Juan Carlos Aguilar	62 62
+21-73796	1	5	1	2	1	gupqj4		qzqzct		32		Cannon Kingsley		Kody Pearson	36 76(2) 61
+21-73796	1	5	1	2	1	8387mh		quccgo		32		Alex Kotzen	9	Hamish Stewart	76(3) 63
+21-73796	1	5	1	2	1	zfhdph		i8oaou		32	4	Finn Reynolds	LL	Joshua Lapadat	64 26 63
+21-73796	1	5	1	2	1	0p5r5b		72gocg		32		Mason Beiler	9	Connor Thomson	16 64 61
+21-73796	1	5	1	2	1	v69ujc		0c6iyi		32		Jacob Bickersteth	8	Philip Henning	60 26 64
+21-73796	1	5	1	2	1	385k3q		90xcvi		32		August Holmgren	9	Micah Braswell	64 62
+21-73796	1	5	1	2	1	0gbc5q		p5dfxv		32	2	Johannus Monday		Florian Broska	61 76(5)
+21-73796	1	5	1	1	1	ofhdph		ckimi6		64	1	Daniel Rodrigues		Tyler Zink	63 64
+21-73796	1	5	1	1	1	27wret		pgu2qu		64		Ben Shelton		Martim Prata	64 62
+21-73796	1	5	1	1	1	4dln53		mjzlz5		64	9	Ronnie Hohmann	Q	Francois Musitelli	36 63 64
+21-73796	1	5	1	1	1	l6bapk		h69ujc		64		Arthur Fery	LL	Justin Barki	62 61
+21-73796	1	5	1	1	1	bx9313		s7d1tp		64	5	Trent Bryde	Q	Henry Schulenburg	61 26 64
+21-73796	1	5	1	1	1	wdpjhj		6hk5un		64		Alexandre Reco	LL	Emmanuel Coste	64 26 76(2)
+21-73796	1	5	1	1	1	px0la3		r34ba1		64	9	Nikola Slavic		James Davis	63 64
+21-73796	1	5	1	1	1	xd892n		k8muim		64	Q	JJ Tracy		Stefan Hampe	61 64
+21-73796	1	5	1	1	1	0j115d		oefmlc		64		Francisco Rocha	3	Luc Fomba	76(4) 64
+21-73796	1	5	1	1	1	vxbj7b		v28wok		64	Q	Stefan Dostanic		Brian Cernoch	64 60
+21-73796	1	5	1	1	1	npqxwn		yyfqho		64		Ryan Goetz	9	Matej Vocel	36 62 63
+21-73796	1	5	1	1	1	99gtyv		aefmlc		64		Clement Chidekh		Jonas Eriksson Zive…	63 62
+21-73796	1	5	1	1	1	6xbj7b		efw7y5		64	6	Gabriel Diallo		Nemanja Malesevic	76(2) 64
+21-73796	1	5	1	1	1	qscqku		p6wggw		64	Q	Daniel De Jonge		Raphael Lambling	36 76(4) 75
+21-73796	1	5	1	1	1	86f610		j2gocg		64	Q	Filippo Moroni	9	Tyler Stice	46 62 64
+21-73796	1	5	1	1	1	7tvr3v		s9m5gj		64		Andres Martin	Q	Tadeas Paroulek	61 62
+21-73796	1	5	1	1	1	7q5238		owj0xa		64	Q	Andre Ilagan		Marcus McDaniel	63 60
+21-73796	1	5	1	1	1	ec2mm2		a8muim		64	9	Juan Carlos Aguilar	Q	Eric Hadigian	76(5) 62
+21-73796	1	5	1	1	1	gupqj4		pgoq86		64		Cannon Kingsley		Franco Capalbo	62 62
+21-73796	1	5	1	1	1	qzqzct		v9edsn		64		Kody Pearson	7	Andres Andrade	62 76
+21-73796	1	5	1	1	1	8387mh		844m8y		64		Alex Kotzen		Luca Maldoner	57 62 61
+21-73796	1	5	1	1	1	quccgo		oltvdb		64	9	Hamish Stewart	Q	Chris Rodesch	64 62
+21-73796	1	5	1	1	1	i8oaou		iwlg3i		64	LL	Joshua Lapadat	Q	Toby Samuel	76(12) 63
+21-73796	1	5	1	1	1	zfhdph		39kpab		64	4	Finn Reynolds	LL	Holden Koons	76(4) 63
+21-73796	1	5	1	1	1	0p5r5b		jybu58		64		Mason Beiler		Axel Nefve	63 75
+21-73796	1	5	1	1	1	72gocg		bx0la3		64	9	Connor Thomson	LL	Vito Tonejc	64 67(3) 62
+21-73796	1	5	1	1	1	v69ujc		5bpxlp		64		Jacob Bickersteth	Q	Tristan Boyer	67(4) 75 15 Def.
+21-73796	1	5	1	1	1	0c6iyi		1nj9f1		64	8	Philip Henning	Q	Tad McClean	62 62
+21-73796	1	5	1	1	1	385k3q		me28iw		64		August Holmgren		Karl Poling	75 46 61
+21-73796	1	5	1	1	1	90xcvi		d97b7v		64	9	Micah Braswell	Q	Lodewijk Weststrate	62 64
+21-73796	1	5	1	1	1	p5dfxv		lzm30d		64		Florian Broska	Q	Trey Hilderbrand	61 63
+21-73796	1	5	1	1	1	0gbc5q		qyyg2s		64	2	Johannus Monday	Q	Tim Zeitvogel	46 63 62
+21-73796	1	5	2	6	1	yyfqho		oltvdb		F	9	Matej Vocel	Q	Chris Rodesch	64 57 75
+21-73796	1	5	2	5	1	yyfqho		s7d1tp		SF	9	Matej Vocel	Q	Henry Schulenburg	76(3) 61
+21-73796	1	5	2	5	1	oltvdb		me28iw		SF	Q	Chris Rodesch		Karl Poling	16 63 64
+21-73796	1	5	2	4	1	s7d1tp		h69ujc		QF	Q	Henry Schulenburg	LL	Justin Barki	43 Ret.
+21-73796	1	5	2	4	1	yyfqho		s9m5gj		QF	9	Matej Vocel	Q	Tadeas Paroulek	46 62 64
+21-73796	1	5	2	4	1	oltvdb		v9edsn		QF	Q	Chris Rodesch	7	Andres Andrade	62 64
+21-73796	1	5	2	4	1	me28iw		1nj9f1		QF		Karl Poling	Q	Tad McClean	63 60
+21-73796	1	5	2	3	1	h69ujc		ckimi6		16	LL	Justin Barki		Tyler Zink	76(5) 62
+21-73796	1	5	2	3	1	s7d1tp		r34ba1		16	Q	Henry Schulenburg		James Davis	63 61
+21-73796	1	5	2	3	1	yyfqho		oefmlc		16	9	Matej Vocel	3	Luc Fomba	76 63
+21-73796	1	5	2	3	1	s9m5gj		p6wggw		16	Q	Tadeas Paroulek		Raphael Lambling	64 61
+21-73796	1	5	2	3	1	v9edsn		a8muim		16	7	Andres Andrade	Q	Eric Hadigian	60 60
+21-73796	1	5	2	3	1	oltvdb		iwlg3i		16	Q	Chris Rodesch	Q	Toby Samuel	62 62
+21-73796	1	5	2	3	1	1nj9f1		jybu58		16	Q	Tad McClean		Axel Nefve	62 75
+21-73796	1	5	2	3	1	me28iw		qyyg2s		16		Karl Poling	Q	Tim Zeitvogel	64 31 Ret.
+21-73796	1	5	2	1	1	ckimi6		pgu2qu		32Q		Tyler Zink		Martim Prata	75 75
+21-73796	1	5	2	1	1	h69ujc		mjzlz5		32Q	LL	Justin Barki	Q	Francois Musitelli	52 Ret.
+21-73796	1	5	2	1	1	s7d1tp		6hk5un		32Q	Q	Henry Schulenburg	LL	Emmanuel Coste	Walkover
+21-73796	1	5	2	1	1	r34ba1		k8muim		32Q		James Davis		Stefan Hampe	46 62 63
+21-73796	1	5	2	1	1	oefmlc		v28wok		32Q	3	Luc Fomba		Brian Cernoch	62 75
+21-73796	1	5	2	1	1	yyfqho		aefmlc		32Q	9	Matej Vocel		Jonas Eriksson Zive…	64 62
+21-73796	1	5	2	1	1	p6wggw		efw7y5		32Q		Raphael Lambling		Nemanja Malesevic	Walkover
+21-73796	1	5	2	1	1	s9m5gj		j2gocg		32Q	Q	Tadeas Paroulek	9	Tyler Stice	61 61
+21-73796	1	5	2	1	1	a8muim		owj0xa		32Q	Q	Eric Hadigian		Marcus McDaniel	64 75
+21-73796	1	5	2	1	1	v9edsn		pgoq86		32Q	7	Andres Andrade		Franco Capalbo	62 75
+21-73796	1	5	2	1	1	oltvdb		844m8y		32Q	Q	Chris Rodesch		Luca Maldoner	64 62
+21-73796	1	5	2	1	1	iwlg3i		39kpab		32Q	Q	Toby Samuel	LL	Holden Koons	62 62
+21-73796	1	5	2	1	1	jybu58		bx0la3		32Q		Axel Nefve	LL	Vito Tonejc	Walkover
+21-73796	1	5	2	1	1	1nj9f1		5bpxlp		32Q	Q	Tad McClean	Q	Tristan Boyer	Walkover
+21-73796	1	5	2	1	1	me28iw		d97b7v		32Q		Karl Poling	Q	Lodewijk Weststrate	61 Ret.
+21-73796	1	5	2	1	1	qyyg2s		lzm30d		32Q	Q	Tim Zeitvogel	Q	Trey Hilderbrand	62 76(4)
+21-73796	1	203	1	3	1	qscqku		t91zp7		64		Daniel De Jonge		Yuta Kikuchi	61 75
+21-73796	1	203	1	3	1	iwlg3i		h69ujc		64	2	Toby Samuel		Justin Barki	64 64
+21-73796	1	203	1	3	1	oltvdb		bx0la3		64		Chris Rodesch	17	Vito Tonejc	63 75
+21-73796	1	203	1	3	1	a8muim		i8oaou		64	Q	Eric Hadigian	17	Joshua Lapadat	64 64
+21-73796	1	203	1	3	1	qyyg2s		540qwi		64		Tim Zeitvogel		Geronimo Busleiman	63 46 76(3)
+21-73796	1	203	1	3	1	mjzlz5		5revs5		64		Francois Musitelli		Simon Arca Costas	63 61
+21-73796	1	203	1	3	1	xd892n		9ll3pf		64	17	JJ Tracy		Max Basing	76(4) 60
+21-73796	1	203	1	3	1	lzm30d		3wwe0q		64		Trey Hilderbrand		Blake Croyder	63 36 64
+21-73796	1	203	1	3	1	7q5238		dzsfi1		64		Andre Ilagan		Stijn Slump	62 57 60
+21-73796	1	203	1	3	1	s9m5gj		197b7v		64		Tadeas Paroulek		Gavin Young	64 64
+21-73796	1	203	1	3	1	86f610		dgf8h6		64	Q	Filippo Moroni		Harris Walker	64 75
+21-73796	1	203	1	3	1	s7d1tp		6hk5un		64		Henry Schulenburg	12	Emmanuel Coste	63 64
+21-73796	1	203	1	3	1	5bpxlp		qn2z05		64		Tristan Boyer		Bogdan Pavel	64 62
+21-73796	1	203	1	3	1	1nj9f1		12cs00		64		Tad McClean		John Hallquist Lith…	76(5) 64
+21-73796	1	203	1	3	1	vxbj7b		39kpab		64	15	Stefan Dostanic		Holden Koons	64 75
+21-73796	1	203	1	3	1	d97b7v		6ccug6		64		Lodewijk Weststrate		Rayane Stable	62 64
+21-73796	1	203	1	2	1	t91zp7		bcnsde		128		Yuta Kikuchi	1	Chase Ferguson	61 63
+21-73796	1	203	1	2	1	qscqku		iyw0wk		128		Daniel De Jonge		Luca Staeheli	63 61
+21-73796	1	203	1	2	1	iwlg3i		4pb3nz		128	2	Toby Samuel		Nicholas McKinney	63 61
+21-73796	1	203	1	2	1	h69ujc		68oaou		128		Justin Barki		Vlad Lobak	61 64
+21-73796	1	203	1	2	1	oltvdb		uy9ez0		128		Chris Rodesch	3	Garrett Johns	67(5) 76(6) 64
+21-73796	1	203	1	2	1	bx0la3		vdn3bb		128	17	Vito Tonejc	Q	Guido Marson	Walkover
+21-73796	1	203	1	2	1	a8muim		dq9yfo		128	Q	Eric Hadigian	4	Fabien Salle	75 26 75
+21-73796	1	203	1	2	1	i8oaou		j1xntf		128	17	Joshua Lapadat	Q	Welsh Hotard	64 63
+21-73796	1	203	1	2	1	qyyg2s		xc42sa		128		Tim Zeitvogel		Murphy Cassone	61 64
+21-73796	1	203	1	2	1	540qwi		0mhibw		128		Geronimo Busleiman	Q	Thomas Brown	76(4) 57 61
+21-73796	1	203	1	2	1	mjzlz5		ojt9hh		128		Francois Musitelli		Justin Boulais	64 62
+21-73796	1	203	1	2	1	5revs5		kw0ac6		128		Simon Arca Costas		Filip Malbasic	26 75 75
+21-73796	1	203	1	2	1	9ll3pf		ip77bj		128		Max Basing		Connor Di Marco	62 64
+21-73796	1	203	1	2	1	xd892n		48muim		128	17	JJ Tracy	Q	Carlos Hassey	16 64 61
+21-73796	1	203	1	2	1	3wwe0q		puv21s		128		Blake Croyder	8	Siem Woldeab	76(4) 75
+21-73796	1	203	1	2	1	lzm30d		kd6twf		128		Trey Hilderbrand	LL	Carl Emil Overbeck	64 36 64
+21-73796	1	203	1	2	1	7q5238		to9cju		128		Andre Ilagan		Jacob Brumm	64 62
+21-73796	1	203	1	2	1	dzsfi1		8ffxj9		128		Stijn Slump		Lui Maxted	61 62
+21-73796	1	203	1	2	1	s9m5gj		tpdjt7		128		Tadeas Paroulek		Ezequiel Santalla	62 46 63
+21-73796	1	203	1	2	1	197b7v		e1xntf		128		Gavin Young		Alexander Hoogmarte…	75 64
+21-73796	1	203	1	2	1	86f610		2wlg3i		128	Q	Filippo Moroni	11	Noah Schachter	46 64 63
+21-73796	1	203	1	2	1	dgf8h6		70kys2		128		Harris Walker		Ewen Lumsden	26 61 61
+21-73796	1	203	1	2	1	6hk5un		p56dc3		128	12	Emmanuel Coste	LL	Kevin Zhu	63 60
+21-73796	1	203	1	2	1	s7d1tp		i54x6v		128		Henry Schulenburg		Colton Smith	62 16 63
+21-73796	1	203	1	2	1	qn2z05		0v2fkh		128		Bogdan Pavel	13	Cleeve Harper	63 75
+21-73796	1	203	1	2	1	5bpxlp		mi72p4		128		Tristan Boyer		Pedro Vives Marcos	76(4) 76(2)
+21-73796	1	203	1	2	1	1nj9f1		5x0la3		128		Tad McClean		Mattias Siimar	60 62
+21-73796	1	203	1	2	1	12cs00		jkxgru		128		John Hallquist Lith…	17	Alexandre Rotsaert	64 60
+21-73796	1	203	1	2	1	vxbj7b		vybu58		128	15	Stefan Dostanic		Shunsuke Mitsui	16 76(3) 75
+21-73796	1	203	1	2	1	39kpab		lct4v2		128		Holden Koons	17	Pierce Rollins	26 61 64
+21-73796	1	203	1	2	1	6ccug6		8h3vfr		128		Rayane Stable		Chris Edge	60 76(1)
+21-73796	1	203	1	2	1	d97b7v		olrf73		128		Lodewijk Weststrate		Alex Martinez	62 62
+21-73796	1	203	1	1	1	bcnsde		jfw7y5		256	1	Chase Ferguson	Q	Mark Mandlik	75 16 75
+21-73796	1	203	1	1	1	t91zp7		8o0usu		256		Yuta Kikuchi		Abedallah Shelbayh	63 63
+21-73796	1	203	1	1	1	qscqku		5owyge		256		Daniel De Jonge		Kyryll Kryvchun	64 62
+21-73796	1	203	1	1	1	iyw0wk		q0ou4i		256		Luca Staeheli	17	David Stevenson	26 62 61
+21-73796	1	203	1	1	1	iwlg3i		6n2z05		256	2	Toby Samuel		Sema Pankin	46 64 62
+21-73796	1	203	1	1	1	4pb3nz		qxhvpz		256		Nicholas McKinney		Johannes Seeman	62 67(6) 76(3)
+21-73796	1	203	1	1	1	h69ujc		fwdofm		256		Justin Barki		Jake Finn Bass	64 63
+21-73796	1	203	1	1	1	68oaou		ls38tu		256		Vlad Lobak	17	Kento Yamada	60 46 76(3)
+21-73796	1	203	1	1	1	uy9ez0		6ene98		256	3	Garrett Johns		Ilgiz Valiev	61 62
+21-73796	1	203	1	1	1	oltvdb		vatiz8		256		Chris Rodesch		Alex Brown	64 61
+21-73796	1	203	1	1	1	vdn3bb		4od8va		256	Q	Guido Marson	Q	Matt Hulme	63 36 60
+21-73796	1	203	1	1	1	bx0la3		t7blnh		256	17	Vito Tonejc		Jett Middleton	64 75
+21-73796	1	203	1	1	1	dq9yfo		zmrq50		256	4	Fabien Salle		Quinn Vandecasteele	26 76(7) 75
+21-73796	1	203	1	1	1	a8muim		3ct4v2		256	Q	Eric Hadigian		Sean Sculley	63 76(5)
+21-73796	1	203	1	1	1	j1xntf		jv2fkh		256	Q	Welsh Hotard	Q	Conor Gannon	75 64
+21-73796	1	203	1	1	1	i8oaou		ryw0wk		256	17	Joshua Lapadat		Matt Summers	36 75 61
+21-73796	1	203	1	1	1	qyyg2s		3tpfl7		256		Tim Zeitvogel	5	Dimitri Badra	61 36 62
+21-73796	1	203	1	1	1	xc42sa		dm2o28		256		Murphy Cassone		Nathan Han	46 60 64
+21-73796	1	203	1	1	1	0mhibw		0xqdgz		256	Q	Thomas Brown		Carles Anton	36 76(1) 75
+21-73796	1	203	1	1	1	540qwi		jn2z05		256		Geronimo Busleiman	17	Loris Pourroy	63 36 62
+21-73796	1	203	1	1	1	ojt9hh		jely30		256		Justin Boulais	6	Nicolas Rousset	61 61
+21-73796	1	203	1	1	1	mjzlz5		qamgeg		256		Francois Musitelli		Andrew Zhang	61 62
+21-73796	1	203	1	1	1	kw0ac6		aak088		256		Filip Malbasic	Q	Inigo Torre Martin	63 26 64
+21-73796	1	203	1	1	1	5revs5		nktkfe		256		Simon Arca Costas	17	Emile Hudd	67(3) 64 61
+21-73796	1	203	1	1	1	9ll3pf		ud892n		256		Max Basing	7	James Story	76(9) 76(5)
+21-73796	1	203	1	1	1	ip77bj		3834xi		256		Connor Di Marco		Kyle Frankel	63 16 64
+21-73796	1	203	1	1	1	48muim		5y9ez0		256	Q	Carlos Hassey		Ronan Jachuck	36 63 63
+21-73796	1	203	1	1	1	xd892n		cq9yfo		256	17	JJ Tracy	Q	Justin Schlageter	63 62
+21-73796	1	203	1	1	1	puv21s		o6ywm4		256	8	Siem Woldeab	Q	Oscar Pinto Sansano	62 60
+21-73796	1	203	1	1	1	3wwe0q		cll3pf		256		Blake Croyder		Thomas Bosancic	62 64
+21-73796	1	203	1	1	1	lzm30d		rlnjvn		256		Trey Hilderbrand		Marin Delmas	36 63 63
+21-73796	1	203	1	1	1	kd6twf		uktkfe		256	LL	Carl Emil Overbeck		Mac Kiger	67(4) 61 75
+21-73796	1	203	1	1	1	7q5238		7v2fkh		256		Andre Ilagan	9	Joshua Goodger	61 64
+21-73796	1	203	1	1	1	to9cju		tpb3nz		256		Jacob Brumm	Q	Dusan Milanovic	64 36 61
+21-73796	1	203	1	1	1	dzsfi1		xltvdb		256		Stijn Slump		Timothy Sah	75 26 63
+21-73796	1	203	1	1	1	8ffxj9		zwf4lu		256		Lui Maxted	17	Andrew Fenty	62 64
+21-73796	1	203	1	1	1	tpdjt7		v7ozqx		256		Ezequiel Santalla	10	Richard Ciamarra	62 75
+21-73796	1	203	1	1	1	s9m5gj		t5ylo7		256		Tadeas Paroulek		Edoardo Graziani	63 64
+21-73796	1	203	1	1	1	197b7v		56f610		256		Gavin Young	LL	Max McKennon	64 36 63
+21-73796	1	203	1	1	1	e1xntf		9pohqf		256		Alexander Hoogmarte…	17	Leyton Cronje	46 61 62
+21-73796	1	203	1	1	1	2wlg3i		4azuhw		256	11	Noah Schachter		Finn Murgett	64 63
+21-73796	1	203	1	1	1	86f610		sst0zq		256	Q	Filippo Moroni		Athell Bennett	62 61
+21-73796	1	203	1	1	1	70kys2		vh3vfr		256		Ewen Lumsden		Bradley Frye	63 75
+21-73796	1	203	1	1	1	dgf8h6		hu4kss		256		Harris Walker	17	Joshua Charlton	75 61
+21-73796	1	203	1	1	1	6hk5un		vzknu5		256	12	Emmanuel Coste		Oscar Cutting	64 46 64
+21-73796	1	203	1	1	1	p56dc3		r7ozqx		256	LL	Kevin Zhu	Q	Luke Casper	76(3) 64
+21-73796	1	203	1	1	1	i54x6v		7hbn3n		256		Colton Smith		Mark Wallner	61 62
+21-73796	1	203	1	1	1	s7d1tp		n13zb3		256		Henry Schulenburg	17	James Trotter	26 61 62
+21-73796	1	203	1	1	1	0v2fkh		6la5s7		256	13	Cleeve Harper	LL	Francisco Pini	63 62
+21-73796	1	203	1	1	1	qn2z05		0kzwx2		256		Bogdan Pavel		Nicola Vidal	62 62
+21-73796	1	203	1	1	1	mi72p4		dm448g		256		Pedro Vives Marcos		Patrick Maloney	61 46 64
+21-73796	1	203	1	1	1	5bpxlp		dr5d15		256		Tristan Boyer	17	Matthis Ross	63 46 63
+21-73796	1	203	1	1	1	5x0la3		v8kece		256		Mattias Siimar	14	Joao Ceolin	16 76(4) 64
+21-73796	1	203	1	1	1	1nj9f1		kejixs		256		Tad McClean		Rafael Marques Da S…	64 62
+21-73796	1	203	1	1	1	12cs00		wndxxd		256		John Hallquist Lith…		Charles Bertimon	61 60
+21-73796	1	203	1	1	1	jkxgru		z0zs1q		256	17	Alexandre Rotsaert		Callum Gale	64 62
+21-73796	1	203	1	1	1	vxbj7b		1n0jux		256	15	Stefan Dostanic		Liam Krall	76(3) 61
+21-73796	1	203	1	1	1	vybu58		emlenc		256		Shunsuke Mitsui	Q	Simon Junk	60 63
+21-73796	1	203	1	1	1	39kpab		bkg6cy		256		Holden Koons		Daniel Siddall	62 62
+21-73796	1	203	1	1	1	lct4v2		1ejixs		256	17	Pierce Rollins		Pavel Motl	64 62
+21-73796	1	203	1	1	1	8h3vfr		ni1q7g		256		Chris Edge	16	Magnus Johnson	63 75
+21-73796	1	203	1	1	1	6ccug6		5z3df9		256		Rayane Stable		Adham Gaber	26 60 76(1)
+21-73796	1	203	1	1	1	d97b7v		tobsp2		256		Lodewijk Weststrate	Q	Gabriel Diaz Freire	76(4) 46 75
+21-73796	1	203	1	1	1	olrf73		zttbxn		256		Alex Martinez	17	Rafael Iziquierdo L…	63 26 41 Ret.
+21-73796	1	204	1	1	1	vh3vfr		3834xi		64		Bradley Frye		Kyle Frankel	64 26 76(3)
+21-73796	1	204	1	1	1	ni1q7g		vatiz8		64		Magnus Johnson		Alex Brown	60 62
+21-73796	1	204	1	1	1	7hbn3n		6ene98		64		Mark Wallner		Ilgiz Valiev	46 62 75
+21-73796	1	204	1	1	1	jv2fkh		5y9ez0		64		Conor Gannon		Ronan Jachuck	76(4) 26 62
+21-73796	1	204	1	1	1	q0ou4i		5owyge		64		David Stevenson		Kyryll Kryvchun	63 64
+21-73796	1	204	1	1	1	vzknu5		ebpxlp		64		Oscar Cutting		Sebastian Arcila	62 64
+21-73796	1	204	1	1	1	xltvdb		jn2z05		64		Timothy Sah		Loris Pourroy	67(3) 61 63
+21-73796	1	204	1	1	1	dr5d15		4azuhw		64		Matthis Ross		Finn Murgett	67(5) 62 61
+21-73796	1	204	1	1	1	9pohqf		kejixs		64		Leyton Cronje		Rafael Marques Da S…	63 46 62
+21-73796	1	204	1	1	1	zmrq50		wndxxd		64		Quinn Vandecasteele		Charles Bertimon	76(6) 62
+21-73796	1	204	1	1	1	hu4kss		0xqdgz		64		Joshua Charlton		Carles Anton	76(3) 62
+21-73796	1	204	1	1	1	qamgeg		8o0usu		64		Andrew Zhang		Abedallah Shelbayh	16 75 63
+21-73796	1	204	1	1	1	v7ozqx		t5ylo7		64		Richard Ciamarra		Edoardo Graziani	63 63
+21-73796	1	204	1	1	1	v8kece		3ct4v2		64		Joao Ceolin		Sean Sculley	64 62
+21-73796	1	204	1	1	1	0kzwx2		7v2fkh		64		Nicola Vidal		Joshua Goodger	64 62
+21-73796	1	204	1	1	1	fwdofm		ls38tu		64		Jake Finn Bass		Kento Yamada	46 52 Ret.
+21-73796	1	204	1	1	1	jely30		3tpfl7		64		Nicolas Rousset		Dimitri Badra	61 62
+21-73796	1	204	1	1	1	nktkfe		6la5s7		64		Emile Hudd		Francisco Pini	62 62
+21-73796	1	204	1	1	1	n13zb3		r7ozqx		64		James Trotter		Luke Casper	62 63
+21-73796	1	204	1	1	1	tpb3nz		1n0jux		64		Dusan Milanovic		Liam Krall	75 36 63
+21-73796	1	204	1	1	1	ud892n		6n2z05		64		James Story		Sema Pankin	63 63
+21-73796	1	204	1	1	1	cll3pf		sst0zq		64		Thomas Bosancic		Athell Bennett	76(4) 61
+21-73796	1	204	1	1	1	5z3df9		qxhvpz		64		Adham Gaber		Johannes Seeman	75 60
+21-73796	1	204	1	1	1	dm448g		z0zs1q		64		Patrick Maloney		Callum Gale	64 63
+21-73796	1	204	1	1	1	1ejixs		bkg6cy		64		Pavel Motl		Daniel Siddall	63 75
+21-73796	1	204	1	1	1	jfw7y5		t7blnh		64		Mark Mandlik		Jett Middleton	62 46 75
+21-73796	1	204	1	1	1	dm2o28		ryw0wk		64		Nathan Han		Matt Summers	62 62
+21-73796	1	301	1	4	1	tobsp2		kd6twf		32		Gabriel Diaz Freire	17	Carl Emil Overbeck	46 63 64
+21-73796	1	301	1	4	1	0mhibw		6la5s7		32	17	Thomas Brown		Francisco Pini	62 63
+21-73796	1	301	1	4	1	o6ywm4		pgwiw2		32		Oscar Pinto Sansano	3	Brian Shi	62 62
+21-73796	1	301	1	4	1	4od8va		xos24y		32		Matt Hulme	17	Robert Cash	64 57 61
+21-73796	1	301	1	4	1	jfw7y5		4ely30		32	17	Mark Mandlik	5	Andrew Rogers	26 61 75
+21-73796	1	301	1	4	1	a8muim		56f610		32		Eric Hadigian		Max McKennon	64 76(5)
+21-73796	1	301	1	4	1	aak088		rhsxij		32		Inigo Torre Martin	17	Julian Steinhausen	64 63
+21-73796	1	301	1	4	1	48muim		6yo88o		32		Carlos Hassey		Guillaume Dalmasso	75 64
+21-73796	1	301	1	4	1	86f610		qp9nhr		32		Filippo Moroni	17	Ivailo Keremedchiev	76(5) 61
+21-73796	1	301	1	4	1	tpb3nz		u7wret		32	17	Dusan Milanovic		Eban Straker-Meads	64 62
+21-73796	1	301	1	4	1	vdn3bb		ounadw		32		Guido Marson	9	Angel Diaz	63 61
+21-73796	1	301	1	4	1	jv2fkh		m5dfxv		32		Conor Gannon	9	Maxwell Benson	46 64 60
+21-73796	1	301	1	4	1	emlenc		jag4ws		32		Simon Junk	17	Andrew Lutschaunig	61 76(5)
+21-73796	1	301	1	4	1	j1xntf		qii0mc		32		Welsh Hotard		Zion Heaven	63 61
+21-73796	1	301	1	4	1	r7ozqx		ws38tu		32		Luke Casper		Josh Wilson	67(5) 63 76(5)
+21-73796	1	301	1	4	1	cq9yfo		p56dc3		32	9	Justin Schlageter		Kevin Zhu	61 62
+21-73796	1	301	1	3	1	tobsp2		6pqxwn		64		Gabriel Diaz Freire		Sviatoslav Gulin	64 51 Ret.
+21-73796	1	301	1	3	1	kd6twf		agsmkm		64	17	Carl Emil Overbeck		Stefan Leustian	62 36 64
+21-73796	1	301	1	3	1	6la5s7		mf2jgt		64		Francisco Pini	2	Volodymyr Zakharov	62 61
+21-73796	1	301	1	3	1	0mhibw		hg9wzi		64	17	Thomas Brown		Philip Hjorth	Walkover
+21-73796	1	301	1	3	1	pgwiw2		9uesmw		64	3	Brian Shi		Logan Zapp	46 76(6) 75
+21-73796	1	301	1	3	1	o6ywm4		8obsp2		64		Oscar Pinto Sansano		Chen Dong	64 75
+21-73796	1	301	1	3	1	4od8va		tltvdb		64		Matt Hulme	4	Tomas Rodriguez	60 63
+21-73796	1	301	1	3	1	xos24y		k69ujc		64	17	Robert Cash		Markus Bolin	75 62
+21-73796	1	301	1	3	1	4ely30		txstm7		64	5	Andrew Rogers		Louis Cloud	62 46 75
+21-73796	1	301	1	3	1	jfw7y5		jgsmkm		64	17	Mark Mandlik		Michal Lusovsky	60 64
+21-73796	1	301	1	3	1	56f610		dmpazs		64		Max McKennon	6	Riccardo Roberto	62 61
+21-73796	1	301	1	3	1	a8muim		hiza18		64		Eric Hadigian		Lukas Engelhardt	64 60
+21-73796	1	301	1	3	1	aak088		m81ora		64		Inigo Torre Martin		Aleksa Bucan	63 46 75
+21-73796	1	301	1	3	1	rhsxij		blvbjj		64	17	Julian Steinhausen		Sasha Trkulja	64 62
+21-73796	1	301	1	3	1	48muim		xzsfi1		64		Carlos Hassey	8	Mikhail Sokolovskiy	63 63
+21-73796	1	301	1	3	1	6yo88o		2y5ink		64		Guillaume Dalmasso	17	Maxence Bertimon	76(7) 62
+21-73796	1	301	1	3	1	86f610		ajef8t		64		Filippo Moroni		Jordan Hasson	57 64 63
+21-73796	1	301	1	3	1	qp9nhr		jtalcj		64	17	Ivailo Keremedchiev		Louis Gorregues	62 62
+21-73796	1	301	1	3	1	u7wret		w8bwle		64		Eban Straker-Meads		Joe Tyler	63 62
+21-73796	1	301	1	3	1	tpb3nz		a93fvf		64	17	Dusan Milanovic		Peter Murphy	61 16 63
+21-73796	1	301	1	3	1	ounadw		cz9pxx		64	9	Angel Diaz		Andre Rodeia	63 76(5)
+21-73796	1	301	1	3	1	vdn3bb		6zsfi1		64		Guido Marson	17	George Stoupe	64 26 63
+21-73796	1	301	1	3	1	m5dfxv		tfjtvp		64	9	Maxwell Benson		Anuj Watane	75 26 62
+21-73796	1	301	1	3	1	jv2fkh		yktkfe		64		Conor Gannon		Herman Hoeyeraal	62 63
+21-73796	1	301	1	3	1	emlenc		27595t		64		Simon Junk		Nevin Arimilli	63 46 63
+21-73796	1	301	1	3	1	jag4ws		rtrvrf		64	17	Andrew Lutschaunig		Goncalo Ferreira	63 63
+21-73796	1	301	1	3	1	qii0mc		113zb3		64		Zion Heaven	9	Carlos Vicente	67(2) 62 63
+21-73796	1	301	1	3	1	j1xntf		ov6bwx		64		Welsh Hotard	17	Giulio Perego	75 75
+21-73796	1	301	1	3	1	ws38tu		7atiz8		64		Josh Wilson		Udayan Bhakar	16 64 64
+21-73796	1	301	1	3	1	r7ozqx		kqkwcw		64		Luke Casper	17	Keshav Chopra	62 62
+21-73796	1	301	1	3	1	cq9yfo		pqosoc		64	9	Justin Schlageter		Alex Mandma	63 76(1)
+21-73796	1	301	1	3	1	p56dc3		5bezoh		64		Kevin Zhu	17	Raphael Perot	16 64 64
+21-73796	1	301	1	2	1	tobsp2		e85k3q		128		Gabriel Diaz Freire	1	Jesper Klov-Nilsson	46 75 [8]
+21-73796	1	301	1	2	1	6pqxwn		w0iimu		128		Sviatoslav Gulin		Luke Hammond	26 76(2) [5]
+21-73796	1	301	1	2	1	agsmkm		l4psza		128		Stefan Leustian		Alan Sau	67(3) 63 [0]
+21-73796	1	301	1	2	1	kd6twf		i93fvf		128	17	Carl Emil Overbeck		Evin McDonald	76(2) 62
+21-73796	1	301	1	2	1	mf2jgt		oouia6		128	2	Volodymyr Zakharov		Will Gleason	64 63
+21-73796	1	301	1	2	1	6la5s7		0vp1h1		128		Francisco Pini		Damian Rodriguez	46 62 [8]
+21-73796	1	301	1	2	1	hg9wzi		gkca0i		128		Philip Hjorth		Juan Lopez De Azcona	63 67(2) [7]
+21-73796	1	301	1	2	1	0mhibw		211j5v		128	17	Thomas Brown		Takeyasu Sekiguchi	61 63
+21-73796	1	301	1	2	1	pgwiw2		k0kys2		128	3	Brian Shi		Nick Lagaev	75 62
+21-73796	1	301	1	2	1	9uesmw		nsgmwa		128		Logan Zapp		Maxime Mareschal-Hay	62 64
+21-73796	1	301	1	2	1	o6ywm4		bgma2y		128		Oscar Pinto Sansano		Rafael AbdulSalam	75 26 [8]
+21-73796	1	301	1	2	1	8obsp2		4iqsa8		128		Chen Dong	17	Patrick Zahraj	63 64
+21-73796	1	301	1	2	1	tltvdb		y6j2dg		128	4	Tomas Rodriguez		Tripp Tuff	64 61
+21-73796	1	301	1	2	1	4od8va		4y5ink		128		Matt Hulme		Arda Azkara	64 62
+21-73796	1	301	1	2	1	k69ujc		dsxwb6		128		Markus Bolin		Momin Khan	62 63
+21-73796	1	301	1	2	1	xos24y		9pw9eb		128	17	Robert Cash		Dhruv Sunish	62 61
+21-73796	1	301	1	2	1	4ely30		0a1an4		128	5	Andrew Rogers		Jeremy Schifris	64 76(4)
+21-73796	1	301	1	2	1	txstm7		rc6iyi		128		Louis Cloud		Jan Soren Hain	40 Ret.
+21-73796	1	301	1	2	1	jgsmkm		0l2d4b		128		Michal Lusovsky		Pelayo Antuna	67(4) 64 [6]
+21-73796	1	301	1	2	1	jfw7y5		1q9yfo		128	17	Mark Mandlik		Blaz Seric	63 36 [7]
+21-73796	1	301	1	2	1	dmpazs		bm80kw		128	6	Riccardo Roberto		Guillaume Tattevin	61 62
+21-73796	1	301	1	2	1	56f610		po9cju		128		Max McKennon		Nate Bonetto	64 63
+21-73796	1	301	1	2	1	hiza18		jo0usu		128		Lukas Engelhardt		Matthew Thomson	36 63 [4]
+21-73796	1	301	1	2	1	a8muim		a9x3dr		128		Eric Hadigian	17	Demetris Azoides	67(7) 75 [3]
+21-73796	1	301	1	2	1	m81ora		3fsbmp		128		Aleksa Bucan	7	Reed Collier	64 61
+21-73796	1	301	1	2	1	aak088		usaaem		128		Inigo Torre Martin		Baptiste Anselmo	16 63 [6]
+21-73796	1	301	1	2	1	blvbjj		w9m5gj		128		Sasha Trkulja		Nam Pham	63 46 [7]
+21-73796	1	301	1	2	1	rhsxij		tc8y4q		128	17	Julian Steinhausen		Christian Lerby	64 64
+21-73796	1	301	1	2	1	xzsfi1		jzqzct		128	8	Mikhail Sokolovskiy		Jared Pratt	75 61
+21-73796	1	301	1	2	1	48muim		jz9pxx		128		Carlos Hassey		Alp Sentay	30 Ret.
+21-73796	1	301	1	2	1	6yo88o		3clc76		128		Guillaume Dalmasso		Christopher Bulus	63 36 [7]
+21-73796	1	301	1	2	1	2y5ink		m4lwnu		128	17	Maxence Bertimon		Evzen Holis	63 64
+21-73796	1	301	1	2	1	86f610		qwwe0q		128		Filippo Moroni	9	Robin Catry	Walkover
+21-73796	1	301	1	2	1	ajef8t		v1gdej		128		Jordan Hasson		Laurentiu Mandocescu	62 63
+21-73796	1	301	1	2	1	jtalcj		igsmkm		128		Louis Gorregues		Melvin Manuel	62 16 [8]
+21-73796	1	301	1	2	1	qp9nhr		uhudor		128	17	Ivailo Keremedchiev		Maciej Ziomber	62 62
+21-73796	1	301	1	2	1	w8bwle		na1an4		128		Joe Tyler	9	Sebastian Rodriguez	60 61
+21-73796	1	301	1	2	1	u7wret		gp77bj		128		Eban Straker-Meads		Mikael Erler	62 63
+21-73796	1	301	1	2	1	a93fvf		1h3vfr		128		Peter Murphy		Patrick Fletchall	63 64
+21-73796	1	301	1	2	1	tpb3nz		69zjjz		128	17	Dusan Milanovic		Rahul Dhokia	26 64 [7]
+21-73796	1	301	1	2	1	ounadw		hzb535		128	9	Angel Diaz		Luuk Wassenaar	36 63 [2]
+21-73796	1	301	1	2	1	cz9pxx		butmvk		128		Andre Rodeia		Matthew Rodriguez	64 60
+21-73796	1	301	1	2	1	vdn3bb		41v7n7		128		Guido Marson		Evan Fragistas	75 36 [5]
+21-73796	1	301	1	2	1	6zsfi1		40meya		128	17	George Stoupe		Nathan Perrone	26 64 [7]
+21-73796	1	301	1	2	1	m5dfxv		nkauua		128	9	Maxwell Benson		Zach Garner	62 62
+21-73796	1	301	1	2	1	tfjtvp		tjajwd		128		Anuj Watane		Austin Abbrat	62 62
+21-73796	1	301	1	2	1	yktkfe		uaase4		128		Herman Hoeyeraal		Axel Vila Antuna	64 61
+21-73796	1	301	1	2	1	jv2fkh		12acus		128		Conor Gannon	17	Kaya Gore	62 64
+21-73796	1	301	1	2	1	emlenc		sm2o28		128		Simon Junk	9	Carson Haskins	76(5) 62
+21-73796	1	301	1	2	1	27595t		3tvr3v		128		Nevin Arimilli		Olimjon Nabiev	64 36 [7]
+21-73796	1	301	1	2	1	rtrvrf		734ba1		128		Goncalo Ferreira		Milos Dabic	76(1) 61
+21-73796	1	301	1	2	1	jag4ws		jm2o28		128	17	Andrew Lutschaunig		Yaron Guberman	76(3) 64
+21-73796	1	301	1	2	1	113zb3		m54x6v		128	9	Carlos Vicente		Walker Stearns	63 36 [7]
+21-73796	1	301	1	2	1	qii0mc		30emae		128		Zion Heaven		Simao Alves	64 62
+21-73796	1	301	1	2	1	j1xntf		72e868		128		Welsh Hotard		Hugo Piles	64 63
+21-73796	1	301	1	2	1	ov6bwx		9tpfl7		128	17	Giulio Perego		Jacob Bullard	63 64
+21-73796	1	301	1	2	1	7atiz8		f8bwle		128		Udayan Bhakar	9	Luka Vukovic	Walkover
+21-73796	1	301	1	2	1	ws38tu		3sgmwa		128		Josh Wilson		Kilian Maitre	76(4) 67(9) [5]
+21-73796	1	301	1	2	1	r7ozqx		30g2gm		128		Luke Casper		Christopher Cahour	63 61
+21-73796	1	301	1	2	1	kqkwcw		l48ike		128	17	Keshav Chopra		Ivan Thamma	64 63
+21-73796	1	301	1	2	1	cq9yfo		pk8eo2		128	9	Justin Schlageter		Nicola Cigna	63 63
+21-73796	1	301	1	2	1	pqosoc		kr5d15		128		Alex Mandma		Tomas Reche	26 62 [7]
+21-73796	1	301	1	2	1	p56dc3		14jghm		128		Kevin Zhu		Nickolas Frisk	61 62
+21-73796	1	301	1	2	1	5bezoh		kc8y4q		128	17	Raphael Perot		Axel Labrunie	63 62
+21-73796	1	301	1	1	1	tobsp2		qy9ez0		256		Gabriel Diaz Freire		Kerim Hyatt	64 63
+21-73796	1	301	1	1	1	6pqxwn		n4nct2		256		Sviatoslav Gulin		Shunya Maruyama	60 26 [9]
+21-73796	1	301	1	1	1	w0iimu		qbpxlp		256		Luke Hammond		Rithvik Bollipalli	Walkover
+21-73796	1	301	1	1	1	l4psza		9ccug6		256		Alan Sau		Matthan Tharakan	64 63
+21-73796	1	301	1	1	1	agsmkm		27ub8l		256		Stefan Leustian		Roman Postolka	76(4) 64
+21-73796	1	301	1	1	1	i93fvf		4nht9t		256		Evin McDonald		Marino Jakic	63 62
+21-73796	1	301	1	1	1	oouia6		eba3c1		256		Will Gleason		Javier Gonzalez	57 62 [18]
+21-73796	1	301	1	1	1	0vp1h1		7wyu6y		256		Damian Rodriguez		Alexander Gima	64 62
+21-73796	1	301	1	1	1	6la5s7		9h7rr7		256		Francisco Pini		Charles Morkel	64 64
+21-73796	1	301	1	1	1	gkca0i		xur6pc		256		Juan Lopez De Azcona		Ethan Muza	63 62
+21-73796	1	301	1	1	1	hg9wzi		czsfi1		256		Philip Hjorth		Anish Sriniketh	61 67(2) [2]
+21-73796	1	301	1	1	1	211j5v		xtalcj		256		Takeyasu Sekiguchi		Eric Hahn	Walkover
+21-73796	1	301	1	1	1	k0kys2		ojibk9		256		Nick Lagaev		Brandon Perez	76(4) 64
+21-73796	1	301	1	1	1	9uesmw		hupqj4		256		Logan Zapp		William Karpinski	64 46 [10]
+21-73796	1	301	1	1	1	nsgmwa		mla5s7		256		Maxime Mareschal-Hay		Nicolas Pesoli	64 62
+21-73796	1	301	1	1	1	bgma2y		d1a1wv		256		Rafael AbdulSalam		Daichi Akiyoshi	61 61
+21-73796	1	301	1	1	1	o6ywm4		spfzzf		256		Oscar Pinto Sansano		Facundo Tumosa	64 75
+21-73796	1	301	1	1	1	8obsp2		kn4f6d		256		Chen Dong		Tom Thelwall Jones	60 62
+21-73796	1	301	1	1	1	y6j2dg		meww08		256		Tripp Tuff		Jakob Cadonau	76(5) 62
+21-73796	1	301	1	1	1	4od8va		trir4l		256		Matt Hulme		Hunter Harrison	63 67(2) [9]
+21-73796	1	301	1	1	1	4y5ink		78iy66		256		Arda Azkara		Ricardo Alban	62 64
+21-73796	1	301	1	1	1	dsxwb6		wobsp2		256		Momin Khan		Jonathan Evans	61 61
+21-73796	1	301	1	1	1	k69ujc		oy7yts		256		Markus Bolin		Omar El Kadi	61 61
+21-73796	1	301	1	1	1	9pw9eb		qqq8uk		256		Dhruv Sunish		Sammr Raina	61 62
+21-73796	1	301	1	1	1	0a1an4		ah97xf		256		Jeremy Schifris		Rithik Sardana	64 63
+21-73796	1	301	1	1	1	rc6iyi		pvrhn9		256		Jan Soren Hain		Krzystof Wetoszka	46 60 [7]
+21-73796	1	301	1	1	1	txstm7		q8s60a		256		Louis Cloud		Meg Siritaworachan	60 63
+21-73796	1	301	1	1	1	jgsmkm		0nfd3l		256		Michal Lusovsky		Warren Fulgenzi	61 76(2)
+21-73796	1	301	1	1	1	0l2d4b		d60csc		256		Pelayo Antuna		Anton Shepp	67(4) 60 [9]
+21-73796	1	301	1	1	1	1q9yfo		8svg5y		256		Blaz Seric		Eladio Fabregas	Default
+21-73796	1	301	1	1	1	bm80kw		tyfqho		256		Guillaume Tattevin		Ignacio Vinas	62 76(5)
+21-73796	1	301	1	1	1	56f610		aaik20		256		Max McKennon		Vojtech Podzemny	62 62
+21-73796	1	301	1	1	1	po9cju		1pb3nz		256		Nate Bonetto		Thomas Navarro	62 60
+21-73796	1	301	1	1	1	jo0usu		mv8r25		256		Matthew Thomson		Nicolas Simkin	60 64
+21-73796	1	301	1	1	1	hiza18		ur7t7d		256		Lukas Engelhardt		Sebastian Vile	64 61
+21-73796	1	301	1	1	1	a8muim		8n4f6d		256		Eric Hadigian		Victor Sklenka	63 75
+21-73796	1	301	1	1	1	m81ora		xq9yfo		256		Aleksa Bucan		Jordan Sauer	64 63
+21-73796	1	301	1	1	1	usaaem		39gtyv		256		Baptiste Anselmo		Karl Collins	61 61
+21-73796	1	301	1	1	1	aak088		y0zs1q		256		Inigo Torre Martin		Rudra Dixit	75 62
+21-73796	1	301	1	1	1	blvbjj		aski8q		256		Sasha Trkulja		Rafael Tosetto	64 64
+21-73796	1	301	1	1	1	w9m5gj		wvrhn9		256		Nam Pham		Maxim Verboven	64 61
+21-73796	1	301	1	1	1	tc8y4q		fouia6		256		Christian Lerby		Jason Hildebrandt	62 26 [8]
+21-73796	1	301	1	1	1	jzqzct		axhvpz		256		Jared Pratt		Leo Raquin	62 64
+21-73796	1	301	1	1	1	48muim		kikgsk		256		Carlos Hassey		Simon Labbe	61 62
+21-73796	1	301	1	1	1	jz9pxx		z9x3dr		256		Alp Sentay		Yannai Barkai	67(2) 76(5) [8]
+21-73796	1	301	1	1	1	3clc76		w4262q		256		Christopher Bulus		Marko Galic	62 36 [6]
+21-73796	1	301	1	1	1	6yo88o		nq5238		256		Guillaume Dalmasso		Dario Huber	76(5) 62
+21-73796	1	301	1	1	1	m4lwnu		zt6p03		256		Evzen Holis		Leighton Allen	26 64 [4]
+21-73796	1	301	1	1	1	86f610		8xwpyn		256		Filippo Moroni		Adam Kovac	63 64
+21-73796	1	301	1	1	1	ajef8t		bqmci4		256		Jordan Hasson		William Grant	46 76(5) [5]
+21-73796	1	301	1	1	1	v1gdej		spohqf		256		Laurentiu Mandocescu		Solano Caffarena	60 63
+21-73796	1	301	1	1	1	jtalcj		itgxu7		256		Louis Gorregues		Ivan Smith	64 62
+21-73796	1	301	1	1	1	igsmkm		zsi22i		256		Melvin Manuel		Jan Pucalka	Walkover
+21-73796	1	301	1	1	1	uhudor		0uccgo		256		Maciej Ziomber		Stefan Storch	64 46 [4]
+21-73796	1	301	1	1	1	w8bwle		11z3zn		256		Joe Tyler		Adam Neff	36 76(4) [3]
+21-73796	1	301	1	1	1	u7wret		3d4dq7		256		Eban Straker-Meads		Diego Le Gal Perez	63 75
+21-73796	1	301	1	1	1	gp77bj		mfw7y5		256		Mikael Erler		Davis Lawley	75 61
+21-73796	1	301	1	1	1	1h3vfr		2g9wzi		256		Patrick Fletchall		Dario Kmet	61 67(6) [8]
+21-73796	1	301	1	1	1	a93fvf		mqkwcw		256		Peter Murphy		Miguel Cabrera	62 62
+21-73796	1	301	1	1	1	69zjjz		4c6iyi		256		Rahul Dhokia		Peyton Gatti	63 36 [7]
+21-73796	1	301	1	1	1	hzb535		5387mh		256		Luuk Wassenaar		Thando Longwe-Smit	36 64 [8]
+21-73796	1	301	1	1	1	cz9pxx		ojkrqh		256		Andre Rodeia		Chris Tasker	16 63 [5]
+21-73796	1	301	1	1	1	butmvk		cdhrtn		256		Matthew Rodriguez		Jackson Atherton	60 62
+21-73796	1	301	1	1	1	vdn3bb		dkr496		256		Guido Marson		Thibault Frumholz	63 36 [6]
+21-73796	1	301	1	1	1	41v7n7		ul69gr		256		Evan Fragistas		Aditya Gupta	76(5) 76(3)
+21-73796	1	301	1	1	1	40meya		5aase4		256		Nathan Perrone		Huntley Allen	61 52 Ret.
+21-73796	1	301	1	1	1	nkauua		le4oo4		256		Zach Garner		Vikash Singh	36 63 [7]
+21-73796	1	301	1	1	1	tjajwd		zjx5tx		256		Austin Abbrat		Arvid Hjalte	63 62
+21-73796	1	301	1	1	1	tfjtvp		lnht9t		256		Anuj Watane		Matthew Hollingworth	75 61
+21-73796	1	301	1	1	1	yktkfe		c1xntf		256		Herman Hoeyeraal		Oliver Johansson	36 63 [5]
+21-73796	1	301	1	1	1	uaase4		q1trhz		256		Axel Vila Antuna		Nick Beamish	63 63
+21-73796	1	301	1	1	1	jv2fkh		qhbn3n		256		Conor Gannon		Jonah Wilson	64 61
+21-73796	1	301	1	1	1	emlenc		abpxlp		256		Simon Junk		Spencer Brachman	67(2) 61 [9]
+21-73796	1	301	1	1	1	27595t		egoq86		256		Nevin Arimilli		Victor Castro	46 64 [8]
+21-73796	1	301	1	1	1	3tvr3v		uclc76		256		Olimjon Nabiev		Pol Botifoll Rius	62 64
+21-73796	1	301	1	1	1	rtrvrf		nnj9f1		256		Goncalo Ferreira		Arthur Neuhaus	67(2) 63 [4]
+21-73796	1	301	1	1	1	734ba1		58kece		256		Milos Dabic		Ryan Charles	75 63
+21-73796	1	301	1	1	1	jm2o28		nqso0s		256		Yaron Guberman		Kenner Taylor	57 61 [8]
+21-73796	1	301	1	1	1	m54x6v		lxwpyn		256		Walker Stearns		Christopher Li	Walkover
+21-73796	1	301	1	1	1	30emae		g6ywm4		256		Simao Alves		Anton Ornberg	61 62
+21-73796	1	301	1	1	1	qii0mc		zy5ink		256		Zion Heaven		Antoine Audrain	46 61 [5]
+21-73796	1	301	1	1	1	j1xntf		w11j5v		256		Welsh Hotard		Jordi Redelijk	62 57 [6]
+21-73796	1	301	1	1	1	72e868		dro3m9		256		Hugo Piles		Tyler Stewart	76(4) 63
+21-73796	1	301	1	1	1	9tpfl7		iwyu6y		256		Jacob Bullard		Ignacio Garcia	46 62 [6]
+21-73796	1	301	1	1	1	7atiz8		v9kpab		256		Udayan Bhakar		Daniel Linkuns-Moro…	76(4) 63
+21-73796	1	301	1	1	1	ws38tu		4nwnih		256		Josh Wilson		Patrick Cacciatore	60 63
+21-73796	1	301	1	1	1	3sgmwa		qd2xkz		256		Kilian Maitre		Jack Hambrook	61 60
+21-73796	1	301	1	1	1	r7ozqx		sxdzdj		256		Luke Casper		Moritz Hoffmann	46 60 [4]
+21-73796	1	301	1	1	1	l48ike		o9m5gj		256		Ivan Thamma		Philip Olsson	63 63
+21-73796	1	301	1	1	1	pk8eo2		jccug6		256		Nicola Cigna		Deji Thomas-Smith	61 64
+21-73796	1	301	1	1	1	kr5d15		ebrdrx		256		Tomas Reche		Juan Sebastian Domi…	64 63
+21-73796	1	301	1	1	1	pqosoc		fwwe0q		256		Alex Mandma		Savan Chhabra	61 61
+21-73796	1	301	1	1	1	14jghm		cb8n6t		256		Nickolas Frisk		Tom Ciszewski	36 62 [3]
+21-73796	1	301	1	1	1	p56dc3		orgbyd		256		Kevin Zhu		Callaway Clark	62 63
+21-73796	1	301	1	1	1	kc8y4q		2zsfi1		256		Axel Labrunie		Pawit Sornlaksup	64 36 [7]
+21-73796	1	302	1	1	1	xur6pc		4nht9t		128		Ethan Muza		Marino Jakic	60 63
+21-73796	1	302	1	1	1	czsfi1		spfzzf		128		Anish Sriniketh		Facundo Tumosa	75 61
+21-73796	1	302	1	1	1	trir4l		d1a1wv		128		Hunter Harrison		Daichi Akiyoshi	76(2) 61
+21-73796	1	302	1	1	1	qy9ez0		8n4f6d		128		Kerim Hyatt		Victor Sklenka	64 61
+21-73796	1	302	1	1	1	meww08		78iy66		128		Jakob Cadonau		Ricardo Alban	75 61
+21-73796	1	302	1	1	1	n4nct2		q1trhz		128		Shunya Maruyama		Nick Beamish	61 60
+21-73796	1	302	1	1	1	d60csc		ah97xf		128		Anton Shepp		Rithik Sardana	26 75 63
+21-73796	1	302	1	1	1	mqkwcw		oy7yts		128		Miguel Cabrera		Omar El Kadi	60 62
+21-73796	1	302	1	1	1	aaik20		eba3c1		128		Vojtech Podzemny		Javier Gonzalez	63 36 64
+21-73796	1	302	1	1	1	27ub8l		ojibk9		128		Roman Postolka		Brandon Perez	61 62
+21-73796	1	302	1	1	1	mv8r25		wobsp2		128		Nicolas Simkin		Jonathan Evans	61 60
+21-73796	1	302	1	1	1	aski8q		mla5s7		128		Rafael Tosetto		Nicolas Pesoli	64 63
+21-73796	1	302	1	1	1	1pb3nz		qqq8uk		128		Thomas Navarro		Sammr Raina	62 62
+21-73796	1	302	1	1	1	xq9yfo		wvrhn9		128		Jordan Sauer		Maxim Verboven	26 64 64
+21-73796	1	302	1	1	1	7wyu6y		zt6p03		128		Alexander Gima		Leighton Allen	64 64
+21-73796	1	302	1	1	1	axhvpz		itgxu7		128		Leo Raquin		Ivan Smith	62 75
+21-73796	1	302	1	1	1	0nfd3l		9h7rr7		128		Warren Fulgenzi		Charles Morkel	63 61
+21-73796	1	302	1	1	1	pvrhn9		q8s60a		128		Krzystof Wetoszka		Meg Siritaworachan	64 75
+21-73796	1	302	1	1	1	fouia6		bqmci4		128		Jason Hildebrandt		William Grant	60 63
+21-73796	1	302	1	1	1	ul69gr		tyfqho		128		Aditya Gupta		Ignacio Vinas	62 63
+21-73796	1	302	1	1	1	11z3zn		4c6iyi		128		Adam Neff		Peyton Gatti	64 63
+21-73796	1	302	1	1	1	5aase4		5387mh		128		Huntley Allen		Thando Longwe-Smit	76(4) 64
+21-73796	1	302	1	1	1	w11j5v		58kece		128		Jordi Redelijk		Ryan Charles	76(4) 76(7)
+21-73796	1	302	1	1	1	ebrdrx		o9m5gj		128		Juan Sebastian Domi…		Philip Olsson	62 20 Ret.
+21-73796	1	302	1	1	1	nnj9f1		0uccgo		128		Arthur Neuhaus		Stefan Storch	57 61 61
+21-73796	1	302	1	1	1	2g9wzi		iwyu6y		128		Dario Kmet		Ignacio Garcia	61 62
+21-73796	1	302	1	1	1	3d4dq7		cdhrtn		128		Diego Le Gal Perez		Jackson Atherton	61 64
+21-73796	1	302	1	1	1	nqso0s		39gtyv		128		Kenner Taylor		Karl Collins	75 75
+21-73796	1	302	1	1	1	y0zs1q		dro3m9		128		Rudra Dixit		Tyler Stewart	36 63 76(4)
+21-73796	1	302	1	1	1	v9kpab		abpxlp		128		Daniel Linkuns-Moro…		Spencer Brachman	64 42 Ret.
+21-73796	1	302	1	1	1	mfw7y5		8xwpyn		128		Davis Lawley		Adam Kovac	36 76(4) 64
+21-73796	1	302	1	1	1	211j5v		zjx5tx		128		Takeyasu Sekiguchi		Arvid Hjalte	60 62
+21-73796	1	302	1	1	1	lnht9t		egoq86		128		Matthew Hollingworth		Victor Castro	75 67(5) 62
+21-73796	1	302	1	1	1	kikgsk		uclc76		128		Simon Labbe		Pol Botifoll Rius	62 64
+21-73796	1	302	1	1	1	nq5238		w4262q		128		Dario Huber		Marko Galic	64 64
+21-73796	1	302	1	1	1	dkr496		ojkrqh		128		Thibault Frumholz		Chris Tasker	64 62
+21-73796	1	302	1	1	1	po9cju		qhbn3n		128		Nate Bonetto		Jonah Wilson	67(6) 63 63
+21-73796	1	302	1	1	1	4nwnih		qd2xkz		128		Patrick Cacciatore		Jack Hambrook	60 60
+21-73796	1	302	1	1	1	3fsbmp		e85k3q		128		Reed Collier		Jesper Klov-Nilsson	62 46 76(7)
+21-73796	1	302	1	1	1	4iqsa8		g6ywm4		128		Patrick Zahraj		Anton Ornberg	63 61
+21-73796	1	302	1	1	1	ur7t7d		kn4f6d		128		Sebastian Vile		Tom Thelwall Jones	64 62
+21-73796	1	302	1	1	1	hupqj4		9ccug6		128		William Karpinski		Matthan Tharakan	60 63
+21-73796	1	302	1	1	1	jccug6		zy5ink		128		Deji Thomas-Smith		Antoine Audrain	76(2) 62
+21-73796	1	302	1	1	1	orgbyd		cb8n6t		128		Callaway Clark		Tom Ciszewski	75 36 64
+21-73796	1	302	1	1	1	2zsfi1		a9x3dr		128		Pawit Sornlaksup		Demetris Azoides	75 64
+21-73796	1	302	1	1	1	na1an4		igsmkm		128		Sebastian Rodriguez		Melvin Manuel	62 46 76(7)
+21-73796	1	302	1	1	1	1q9yfo		m54x6v		128		Blaz Seric		Walker Stearns	64 62
+21-73796	1	302	1	1	1	12acus		30g2gm		128		Kaya Gore		Christopher Cahour	67(3) 60 64
 21-74251	1	1	1	6	1	mrevs5		qski8q		F		Jhonny Acosta		Jordan Theron	62 76(4)
 21-74251	1	1	1	5	1	qski8q		za1an4		SF		Jordan Theron		Nolan Shah	62 64
 21-74251	1	1	1	5	1	mrevs5		a4nct2		SF		Jhonny Acosta		Antonio Mora	64 61
@@ -9500,6 +10257,59 @@ tournamentCode	eventId	drawId	bracketId	roundId	winner	player1	partner1	player2	
 21-76336	1	104	1	1	1	84r85i		lmjyh4		16		Jeronimo Wagner		Gabe DeLeo	61 60
 21-76336	1	104	2	1	1	cgdsby		l9i943		QQ		Hunter Royal		Zach Gonsor	97
 21-76336	1	104	2	1	1	mtx793		j48ike		QQ		Eduardo Rojas		Nick Smeltzer	85
+21-76964	1	101	1	6	1	02vil4		5dln53		F	2	Ravi Nelson	1	Junyong Kim	64 32 Ret.
+21-76964	1	101	1	5	1	5dln53		ikeq6q		SF	1	Junyong Kim	10	Parker Perdue	62 62
+21-76964	1	101	1	5	1	02vil4		b2xyrc		SF	2	Ravi Nelson	5	Robin Sharma	Walkover
+21-76964	1	101	1	4	1	5dln53		4ro3m9		QF	1	Junyong Kim	8	DJ Sobrepena	62 64
+21-76964	1	101	1	4	1	ikeq6q		gdj7zv		QF	10	Parker Perdue	3	Micah Erwin	63 06 [4]
+21-76964	1	101	1	4	1	b2xyrc		ugu2qu		QF	5	Robin Sharma	4	Zac Prince	75 63
+21-76964	1	101	1	4	1	02vil4		x8oaou		QF	2	Ravi Nelson	7	Justin Le	62 60
+21-76964	1	101	1	3	1	5dln53		dtrvrf		16	1	Junyong Kim		Jason Eissayou	61 60
+21-76964	1	101	1	3	1	4ro3m9		97d1tp		16	8	DJ Sobrepena		Kyle Sahara	60 60
+21-76964	1	101	1	3	1	ikeq6q		36sk4g		16	10	Parker Perdue	6	Diego Camarillo	60 60
+21-76964	1	101	1	3	1	gdj7zv		0upqj4		16	3	Micah Erwin		Spencer Hill	62 60
+21-76964	1	101	1	3	1	ugu2qu		cmhibw		16	4	Zac Prince	15	Gage Biery	61 61
+21-76964	1	101	1	3	1	b2xyrc		kmhibw		16	5	Robin Sharma		Connor Ard	60 62
+21-76964	1	101	1	3	1	x8oaou		tz9pxx		16	7	Justin Le		Tarish Sharma	60 55 Def.
+21-76964	1	101	1	3	1	02vil4		uh7rr7		16	2	Ravi Nelson		Brendan Moley	61 61
+21-76964	1	101	1	2	1	5dln53		oag4ws		32	1	Junyong Kim		Aaron Macagba	60 61
+21-76964	1	101	1	2	1	dtrvrf		xlpz1v		32		Jason Eissayou	13	Jason Hom	76(5) 57 [8]
+21-76964	1	101	1	2	1	97d1tp		s81ora		32		Kyle Sahara	9	Hunter Bradac	64 76(4)
+21-76964	1	101	1	2	1	4ro3m9		nttbxn		32	8	DJ Sobrepena		Sam Kassis	64 61
+21-76964	1	101	1	2	1	36sk4g		udn3bb		32	6	Diego Camarillo		Wyatt McCune	62 61
+21-76964	1	101	1	2	1	ikeq6q		mrqjsh		32	10	Parker Perdue		Yurro Zabala	61 60
+21-76964	1	101	1	2	1	0upqj4		t95v1n		32		Spencer Hill	14	Diego Rodriguez	75 64
+21-76964	1	101	1	2	1	gdj7zv		585k3q		32	3	Micah Erwin		Allen Karp	60 60
+21-76964	1	101	1	2	1	ugu2qu		ill3pf		32	4	Zac Prince		Julian Bilbao	61 63
+21-76964	1	101	1	2	1	cmhibw		7lrf73		32	15	Gage Biery		Marcos Mendoza	64 57 [1]
+21-76964	1	101	1	2	1	kmhibw		n7mjkp		32		Connor Ard		Justin Allen	60 60
+21-76964	1	101	1	2	1	b2xyrc		7tznfb		32	5	Robin Sharma		Patrick Wall	62 62
+21-76964	1	101	1	2	1	x8oaou		3ny3op		32	7	Justin Le		Ruben Grigoryan	62 61
+21-76964	1	101	1	2	1	tz9pxx		huawag		32		Tarish Sharma		Eli Norgauer	76(3) 63
+21-76964	1	101	1	2	1	uh7rr7		jdn3bb		32		Brendan Moley	16	Forrest Mesina	62 62
+21-76964	1	101	1	2	1	02vil4		kwyu6y		32	2	Ravi Nelson		Zubaidullah Hamidi	62 60
+21-76964	1	101	1	1	1	oag4ws		ukzwx2		64		Aaron Macagba		Dave Ward	60 60
+21-76964	1	101	1	1	1	dtrvrf		armng1		64		Jason Eissayou		James Pullin	60 61
+21-76964	1	101	1	1	1	xlpz1v		aqkwcw		64	13	Jason Hom		Clark Chen	61 63
+21-76964	1	101	1	1	1	97d1tp		g054je		64		Kyle Sahara		Brodie Rogers	60 62
+21-76964	1	101	1	1	1	nttbxn		7xwpyn		64		Sam Kassis		Logan Lan	60 60
+21-76964	1	101	1	1	1	udn3bb		rrqjsh		64		Wyatt McCune		Kevin Zarneger	63 64
+21-76964	1	101	1	1	1	mrqjsh		9qq8uk		64		Yurro Zabala		Ronnie Oseguera	61 64
+21-76964	1	101	1	1	1	ikeq6q		bxdzdj		64	10	Parker Perdue		Jim Jacob	60 60
+21-76964	1	101	1	1	1	t95v1n		h52h0n		64	14	Diego Rodriguez		Markus Ong	60 60
+21-76964	1	101	1	1	1	0upqj4		4a3qtc		64		Spencer Hill		Elijah Vang	60 60
+21-76964	1	101	1	1	1	585k3q		ggwiw2		64		Allen Karp		Troy Temple	75 75
+21-76964	1	101	1	1	1	ill3pf		kh7rr7		64		Julian Bilbao		Eli Miranda	60 61
+21-76964	1	101	1	1	1	cmhibw		828wok		64	15	Gage Biery		Ben Curtin	60 60
+21-76964	1	101	1	1	1	n7mjkp		fgu2qu		64		Justin Allen	12	Brandon Ponce	61 61
+21-76964	1	101	1	1	1	kmhibw		wla5s7		64		Connor Ard		Loic Picard	60 60
+21-76964	1	101	1	1	1	7tznfb		5upqj4		64		Patrick Wall		Jordan Hjelm	75 60
+21-76964	1	101	1	1	1	3ny3op		asi22i		64		Ruben Grigoryan		Caleb Poling	61 60
+21-76964	1	101	1	1	1	tz9pxx		ynj9f1		64		Tarish Sharma		Kyle Murphy	60 60
+21-76964	1	101	1	1	1	huawag		dtznfb		64		Eli Norgauer	11	Carlos Vicencio	62 63
+21-76964	1	101	1	1	1	jdn3bb		iyfqho		64	16	Forrest Mesina		Jackson Wanlass	60 61
+21-76964	1	101	1	1	1	uh7rr7		xed6f4		64		Brendan Moley		Arshbir Brar	61 60
+21-76964	1	101	1	1	1	kwyu6y		9c8y4q		64		Zubaidullah Hamidi		Evan Leal	60 60
 21-77642	1	101	1	5	1	87ozqx		dikgsk		R5		Guillerme De Medeir…		Eric Liu	62 62
 21-77642	1	101	1	5	1	gpb3nz		7d2xkz		R5		Nicholas Nguyen		Nicholas Gore	60 62
 21-77642	1	101	1	4	1	87ozqx		7d2xkz		R4		Guillerme De Medeir…		Nicholas Gore	Walkover

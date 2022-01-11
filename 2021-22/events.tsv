@@ -1,9 +1,9 @@
 ---
-tournaments: 397
-events: 891
-eventsWithDraws: 889
+tournaments: 399
+events: 895
+eventsWithDraws: 893
 eventsWithoutDraws: 2
-draws: 3352
+draws: 3353
 brackets: 6185
 results: 81947
 ---
@@ -5983,6 +5983,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 21-95655	2	102	1	M	Men's Open Doubles	R2	Main	32,16,QF,SF,F	31
 21-95655	2	103	1	M	Men's Open Doubles	R3-a	Main	QF,SF,F	7
 21-95655	2	104	1	M	Men's Open Doubles	R3-b	Main	F	1
+21-95937	1	100		W	Women's Open Singles				
+21-95937	2	100		W	Women's Open Doubles				
 21-96062	1	101	1	M	Men's Open Singles	Purdue/IUPUI, Ball St./DePaul	Main	64,32,16,QF,SF,F	63
 21-96062	1	102	1	M	Men's Open Singles	Purdue/DePaul, IUPUI/Ball St.	Main	64,32,16,QF,SF,F	63
 21-96062	1	103	1	M	Men's Open Singles	Petrovic/Sellers	Main	F	1
@@ -6257,6 +6259,8 @@ tournamentCode	eventId	drawId	bracketId	gender	eventName	drawName	bracketName	ro
 22-19950	4	102	1	W	Women's Open Doubles	Flight B	Main	32,16,QF,SF,F	31
 22-21959	1	100		W	Women's Open Singles				
 22-21959	2	100		W	Women's Open Doubles				
+22-33360	1	100		W	Women's Open Singles				
+22-33360	2	100		W	Women's Open Doubles				
 22-38092	1	100		M	Men's Open Singles				
 22-38092	2	100		M	Men's Open Doubles				
 22-55194	1	100		W	Women's Open Singles				
