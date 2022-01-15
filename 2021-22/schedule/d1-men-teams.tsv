@@ -1,0 +1,1122 @@
+---
+division: d1
+gender: M
+matches: 1116
+---
+date	time	rank	team	at	oppRank	opponent	outcome	score	location	conference	gender	division	teamId	opponentId	dualId
+2021-09-10	19:30	  	HC   	vs	  	FPC  	L	2-5	H	 	M	d1/d2  	d5c611d8-396c-463d-add1-7e0239e69610	bb0a86b5-f7ec-49a8-8c21-aa64df285ccd	97f173d6-3277-4d06-a68e-4ab4523dd9ef
+2021-09-12	18:00	  	NIA  	vs	  	WAL  	W	4-2	H	 	M	d1/d2  	d7e4d000-c496-492b-85a0-a6b015c03760	85c0b59f-cc61-46b8-9ef9-e77353a2e775	7411eef6-cecb-4bde-bfdf-35ec0d26b3b9
+2021-09-15	19:02	  	HC   	vs	  	BABS 	L	1-6	H	 	M	d1/d3  	d5c611d8-396c-463d-add1-7e0239e69610	138a8a79-1e71-4007-8985-a717ba29c4a9	1688e9f8-fba9-42b0-b891-645e792ee31d
+2021-09-22	14:00	  	WAG  	at	  	MONM 	L	0-7	A	 	M	d1     	f991f38e-e02f-404f-846f-5987baf42957	9e74d368-e8a8-43fa-ade6-fd2c06c09660	ac27c112-8073-44f3-804c-37f39513fcbc
+2021-09-22	17:30	  	SHU  	at	  	MONM 	L	1-6	A	 	M	d1     	420446c8-df50-4290-a204-29ca7bbde631	9e74d368-e8a8-43fa-ade6-fd2c06c09660	e302fe57-e052-4011-bffb-1750fb1b22f2
+2021-09-25	16:00	  	SHU  	at	  	HC   	 	   	A	 	M	d1     	420446c8-df50-4290-a204-29ca7bbde631	d5c611d8-396c-463d-add1-7e0239e69610	dc303daf-9a1e-4362-98a6-18b74aeb69bc
+2021-09-26	21:00	  	SHU  	at	  	SIEN 	L	2-5	A	 	M	d1     	420446c8-df50-4290-a204-29ca7bbde631	3d1fc2b5-5baa-4ac5-ba43-e8ec11f5873a	8e5b537b-5ea5-41b2-804c-81f3c5a37448
+2021-10-01	13:00	  	UIC  	vs	  	GVSU 	L	2-5	H	 	M	d1/d2  	a02d87f6-90ff-4327-bc08-b4575f51e03d	e816ada9-351c-494b-84cd-3c2aadbaae3d	1f540dfb-a8d2-4a09-b3a9-01409fed6eca
+2021-10-09	15:00	  	FORD 	at	  	WAG  	W	7-0	A	 	M	d1     	833d05eb-0bc8-4444-99b5-36d23037d74d	f991f38e-e02f-404f-846f-5987baf42957	69bb5551-6298-4eb9-befb-6fa56db3a586
+2021-10-09	15:00	  	RIDER	at	  	LAF  	L	1-6	A	 	M	d1     	04af8b21-64e9-45fe-8b13-9b33af61d998	5038ae5d-e4bd-4486-b8e6-f270d1359e13	26281da1-56b8-4fc5-b811-699a81393187
+2021-10-09	15:00	  	NIA  	vs	  	LOC  	W	4-3	H	 	M	d1/d2  	d7e4d000-c496-492b-85a0-a6b015c03760	de3f4bcc-f081-4c8f-bc2d-5cf69e8c7d88	05c2a1df-cef0-4f45-a68d-a00fbc9e8ea3
+2021-10-09	17:00	  	SFU  	at	  	BUP  	W	6-1	A	 	M	d1/d2  	bd8d7b73-91a3-45a1-9166-f678da686816	4cd7f448-c50c-48bf-a74c-f722eec9ee81	1e58f139-d9a3-4236-b704-de774ac9191b
+2021-10-10	15:00	  	SIEN 	at	  	HC   	W	4-3	A	 	M	d1     	3d1fc2b5-5baa-4ac5-ba43-e8ec11f5873a	d5c611d8-396c-463d-add1-7e0239e69610	1f37334c-a933-4bff-a1e3-dfc3c021a5c7
+2021-10-10	21:00	  	WAG  	vs	  	NJCU 	 	   	N	 	M	d1/d3  	f991f38e-e02f-404f-846f-5987baf42957	cee000ce-6925-4bdf-a8a2-d6822af415a8	f483b949-4d9b-4fff-9554-da3a577ba249
+2021-10-19	18:00	  	FORD 	vs	  	ADEL 	W	5-2	H	 	M	d1/d2  	833d05eb-0bc8-4444-99b5-36d23037d74d	f7f728b3-927f-4c55-ba6d-04c5c39e8640	2bd58daf-3a65-45df-b2c4-86b07b21e9f2
+2021-10-23	16:00	  	SHU  	at	  	FAIR 	 	   	A	 	M	d1     	420446c8-df50-4290-a204-29ca7bbde631	0a9b327d-9b24-43f0-a8cb-35c533702d53	0edf5b1c-29f3-4080-9509-669c3204ecf6
+2021-10-23	16:00	  	WAG  	at	  	RIDER	L	3-4	A	 	M	d1     	f991f38e-e02f-404f-846f-5987baf42957	04af8b21-64e9-45fe-8b13-9b33af61d998	d2dffb15-5e94-45f1-86e9-a455cdcefd3e
+2021-10-24	15:00	  	NIA  	vs	  	DAEMN	W	7-0	H	 	M	d1/d2  	d7e4d000-c496-492b-85a0-a6b015c03760	08db4a9f-1d70-4475-bb00-ea2fe99bdb20	f7f1172f-4466-4610-92b8-af9872988393
+2021-10-30	14:00	  	GWEBB	at	  	FUR  	L	0-1	A	 	M	d1     	6f6164dc-ce2a-4008-9e0d-65f8cf093470	227ef7d0-2d9a-4698-bed1-45933908a82a	48460384-025d-4b34-9240-ae795efcad26
+2021-10-30	14:00	  	WOF  	at	  	FUR  	W	4-2	A	 	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	227ef7d0-2d9a-4698-bed1-45933908a82a	b571e695-22cf-4aa6-9dd1-f01b2dbb1481
+2021-10-31	14:45	  	WOF  	at	  	FUR  	L	1-0	A	 	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	227ef7d0-2d9a-4698-bed1-45933908a82a	299b8872-d1ef-4ff2-8420-29e1de36468e
+2021-10-31	15:30	  	GWEBB	at	  	FUR  	W	4-2	A	 	M	d1     	6f6164dc-ce2a-4008-9e0d-65f8cf093470	227ef7d0-2d9a-4698-bed1-45933908a82a	357a9300-a54f-45ce-80fd-18086e4c772c
+2022-01-12	15:00	  	ETSU 	at	 4	TENN 	L	0-7	A	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	4458bc13-c379-4847-b5cc-c752cdeb97bf	4cefe077-1105-432e-b1ee-4f94e380875b
+2022-01-12	20:00	  	ETSU 	at	 4	TENN 	L	0-4	A	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	4458bc13-c379-4847-b5cc-c752cdeb97bf	7a6a1dec-2970-44ec-92db-4ddad20b2f49
+2022-01-12	19:00	  	ARK  	vs	  	OMAHA	 	   	H	 	M	d1     	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	cc9a8522-d6da-4077-9673-5ad6d4e08638	7c51c065-b37b-4159-80c9-bb8dfd95e68e
+2022-01-13	 0:00	  	UTRGV	at	 5	TCU  	L	1-6	A	 	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	96f36c2b-99a2-4795-9e32-84a32742fdee	c73d7ba5-e5b4-483f-9483-3fa3befdd033
+2022-01-13	 0:00	  	SEA  	at	  	WASH 	 	   	A	 	M	d1     	eba51fbd-1cba-4a05-a89b-33fa7a5d1bbe	120192a9-3571-49b1-aec9-b9e7ece54af2	0f9aba41-c323-4910-8081-1abb5ce59810
+2022-01-13	16:00	  	PVA&M	at	  	SMU  	 	   	A	 	M	d1     	0f2d3577-681d-46e4-994f-3637fbb28aa5	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	782dbeca-67c1-4a35-a049-83f565585190
+2022-01-13	20:00	  	PVA&M	at	  	SMU  	 	   	A	 	M	d1     	0f2d3577-681d-46e4-994f-3637fbb28aa5	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	02a5ca0f-152d-43c5-9334-fa158f9271ea
+2022-01-13	21:30	  	UTRGV	at	  	TTU  	L	0-7	A	 	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	8169af92-629d-4274-964f-efa6320d0b9e	0b45ec28-00e0-42fc-9a23-58ee8c8a3b6e
+2022-01-14	18:00	  	UTSA 	at	 3	TEX  	L	1-6	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	e71bce99-4132-47ae-8006-5372d54ffda9	0f62ac79-0fc1-4d9a-a770-8f337e2a1697
+2022-01-14	15:00	  	BRY  	vs	  	LAMAR	 	   	N	 	M	d1     	791e25d1-b248-4d38-89ac-421004a9dc26	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	ff232b85-9bee-4fb0-9a91-065cf0d475c1
+2022-01-14	19:00	  	LAMAR	at	  	OKST 	 	   	A	 	M	d1     	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	ce99ed51-d0dc-468b-810c-e084f0b8edcd	59452867-aba7-471e-974b-7bdd70e1bf0c
+2022-01-14	20:00	  	KENN 	at	  	WOF  	W	6-1	A	 	M	d1     	2a3e1088-184b-4a4f-b220-da2b4f1de0e6	67596492-ca8a-4a21-bfaf-6312c57bfd25	a20e7736-67a2-4d74-b24f-54d6dd62ac3f
+2022-01-14	21:00	  	VT   	at	  	MSU  	L	2-2	A	 	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	58f0b75c-c78a-4142-aa5d-4683c18e1164	015326a2-3e29-4206-82b9-e089deac374e
+2022-01-14	21:00	  	AFA  	at	  	MTST 	 	   	A	 	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	0e9c11b8-b7a0-4456-89cf-fa422075d587	98d1d61f-9a2e-44aa-8449-ff0bbfd64b99
+2022-01-14	22:00	  	GCU  	at	  	AZST 	L	0-6	A	 	M	d1     	9ee74ce3-1e1a-457d-8fe8-a52b5c63f17a	80cfa0c6-e529-4b50-83cd-14c3845501ae	0937d0b9-916c-4a54-be28-4a75a4377f5f
+2022-01-14	22:00	  	BING 	at	  	FGCU 	 	   	A	 	M	d1     	eb759aee-7fbe-4884-87c8-93d087bfcf3d	09fa2def-947b-4629-b20b-c7df3f0f5669	70502390-8d44-4d14-9a40-421cd643fc79
+2022-01-14	23:00	  	BOISE	vs	  	PRST 	 	   	N	 	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	6f7117af-11d9-4594-9116-fde01c7b2198	e2a1a720-2854-4618-93f6-aca3488318e5
+2022-01-14	23:00	  	BRY  	at	  	OKST 	 	   	A	 	M	d1     	791e25d1-b248-4d38-89ac-421004a9dc26	ce99ed51-d0dc-468b-810c-e084f0b8edcd	7f02fd88-6b1e-4372-ad43-f8523f0332d0
+2022-01-15	 0:00	 1	FLA  	at	 5	TCU  	 	   	A	 	M	d1     	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	96f36c2b-99a2-4795-9e32-84a32742fdee	fff93dfb-1cfe-4a20-b49c-90937030b6ff
+2022-01-15	18:00	  	ULLAF	at	 2	BAY  	 	   	A	 	M	d1     	b17ab4d3-c010-46c9-9e92-6d3c6e043da6	c98c90ae-39d9-4a59-a427-6f7414841709	d19ecd87-fa18-46ae-80f5-85470ea76f0a
+2022-01-15	19:00	  	IWORD	at	24	OKLA 	 	   	A	 	M	d1     	5a6a5b42-06f4-4854-8dfa-622e48d22c71	1c9c888b-631c-4c23-a1b3-c035f56249b4	bb4b6b5e-3b6c-422b-8d01-e5fa5821818b
+2022-01-15	23:00	  	BRY  	at	24	OKLA 	 	   	A	 	M	d1     	791e25d1-b248-4d38-89ac-421004a9dc26	1c9c888b-631c-4c23-a1b3-c035f56249b4	aafdf6a7-f9d4-48fb-bfa1-5de8778b5bcf
+2022-01-15	 1:00	  	EIU  	at	  	MSU  	 	   	A	 	M	d1     	916e07e3-f959-40be-8c70-de5e85a51eaa	58f0b75c-c78a-4142-aa5d-4683c18e1164	9594ee5c-a039-4239-bbbc-92a0e076aa0e
+2022-01-15	15:00	  	BUTL 	at	  	WMU  	 	   	A	 	M	d1     	f45eb031-245d-4b02-836a-293e7ceb3318	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	93387325-5f26-4998-a303-dc601fdbad4d
+2022-01-15	16:00	  	UND  	at	  	NEB  	 	   	A	 	M	d1     	ad8fc18d-c5f9-442b-b17e-0981a7e5ae4c	df63a514-e637-4161-9cc6-351d66e2c018	082751dd-3a21-4d4b-a83a-2bdd72eee938
+2022-01-15	17:00	  	IDST 	at	  	UTAH 	 	   	A	 	M	d1     	da33685c-db57-428e-8da8-8ff3c1523306	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	9dfbc6e8-7ad5-4f59-9909-7c320b8f718f
+2022-01-15	19:00	  	BOISE	at	  	ORE  	 	   	A	 	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	83b5face-98d6-481c-969f-65c294b836e8	3664db5c-eaca-476f-832f-8065bbf64906
+2022-01-15	19:00	  	AFA  	vs	  	EWU  	 	   	N	 	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	2d6889e5-5499-4be4-9739-e40a15a9d8de	00ffcaa5-54bb-4b82-9662-c36c01c3e8a1
+2022-01-15	19:00	  	MER  	at	  	BAMA 	 	   	A	 	M	d1     	83007027-7d20-42e6-a72e-3389c48e74c1	9b87115c-def8-48fb-a3d6-25887547fcbb	fcec5a26-2d08-4f34-9df6-7a088f77c482
+2022-01-15	19:00	  	PUR  	at	  	SMU  	 	   	A	 	M	d1     	a543fdbb-635e-49f3-9db7-131479ee826e	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	178b0d28-9d1a-42f6-b909-990388ba5b8e
+2022-01-15	19:30	  	KENN 	at	  	PRES 	 	   	A	 	M	d1     	2a3e1088-184b-4a4f-b220-da2b4f1de0e6	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	38755f66-607f-408c-bc12-40a943b01876
+2022-01-15	22:00	  	TROY 	at	  	FGCU 	 	   	A	 	M	d1     	e0e0f0a7-001f-4d1a-ae38-29b9ff35b877	09fa2def-947b-4629-b20b-c7df3f0f5669	c0d7da54-eacd-4591-93f5-534ef8024a33
+2022-01-15	22:00	  	UCSB 	at	  	WASH 	 	   	A	 	M	d1     	911fc75e-825e-4361-8c2b-eb8d074c3293	120192a9-3571-49b1-aec9-b9e7ece54af2	9b42c2a7-e490-4a66-a141-34634e48c227
+2022-01-15	22:00	  	NEB  	vs	  	OMAHA	 	   	H	 	M	d1     	df63a514-e637-4161-9cc6-351d66e2c018	cc9a8522-d6da-4077-9673-5ad6d4e08638	2aea53a3-e747-4557-a1f7-b00d9bce9fb1
+2022-01-15	23:00	  	IDST 	at	  	UTAH 	 	   	A	 	M	d1     	da33685c-db57-428e-8da8-8ff3c1523306	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	0c328c34-442f-4735-a0c7-9ea2976ce490
+2022-01-15	20:00	  	WMU  	vs	  	FERR 	 	   	H	 	M	d1/d2  	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	8bb86959-1ce8-4c94-a7db-0f9250c276b8	d9addd6b-9742-4055-813d-09758d01f8cf
+2022-01-15	20:30	  	NKU  	at	  	TMORE	 	   	A	 	M	d1/naia	2425ab7d-7429-4b4d-ab72-fd88c53d701c	90e4defa-f84b-48c2-8280-6280f7de7bca	0e6ad91b-416a-4808-9ab4-37140a6c4526
+2022-01-16	18:00	 1	FLA  	at	 3	TEX  	 	   	A	 	M	d1     	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	e71bce99-4132-47ae-8006-5372d54ffda9	42c14902-d326-4997-8290-61d76d7afb14
+2022-01-16	 0:00	  	ABCHR	at	 2	BAY  	 	   	A	 	M	d1     	8a699b87-0ce9-4ba4-802f-20cc4be4b314	c98c90ae-39d9-4a59-a427-6f7414841709	18ab84a9-d350-4cb7-9add-d4e5b5d114df
+2022-01-16	18:00	 4	TENN 	at	 5	TCU  	 	   	A	 	M	d1     	4458bc13-c379-4847-b5cc-c752cdeb97bf	96f36c2b-99a2-4795-9e32-84a32742fdee	9c4c0e73-c199-48ec-b6df-4ef64e7447e2
+2022-01-16	18:00	  	VCU  	at	 7	UVA  	 	   	A	 	M	d1     	06471a92-4609-433c-bbb9-cd1cc8b44b31	ea538604-050f-4d44-9f6b-7cfaef251022	24477791-8a74-4bb1-9b3f-993d7068b8ec
+2022-01-16	21:00	  	VT   	at	17	MICH 	 	   	A	 	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	36d44c05-1bb6-4b49-a2d1-b2f00e27821e	92e28621-b96b-468f-8719-da7c59e72e49
+2022-01-16	 0:00	  	SAM  	at	  	BAMA 	 	   	A	 	M	d1     	15a64e5f-aa11-4935-afce-b43f84e45cdc	9b87115c-def8-48fb-a3d6-25887547fcbb	5ecc9724-cbe0-4a66-a3de-1d5a06dc85d2
+2022-01-16	 1:00	  	CAL  	at	  	TULSA	 	   	A	 	M	d1     	821d45ba-9b76-4bc5-8f40-68dfaee763a5	c45e9ee0-09e1-4acd-8fbc-056f21ba43ee	004a69c9-8044-436a-86dc-965f50773987
+2022-01-16	15:00	  	UND  	at	  	CRE  	 	   	A	 	M	d1     	ad8fc18d-c5f9-442b-b17e-0981a7e5ae4c	8f5d16e2-da67-430e-8211-e7131e57aee6	4ee2962f-4628-4efe-9df6-51566e1efcf6
+2022-01-16	16:00	  	SLU  	at	  	ND   	 	   	A	 	M	d1     	12ee6f9b-504d-4012-aa05-046bed0d49e6	804abb9d-ce89-4455-b47c-5b8b88d8443b	86540e6b-0b9c-44fe-a2bb-28216d4ea849
+2022-01-16	18:00	  	PSU  	at	  	ODU  	 	   	A	 	M	d1     	fb7dbb61-bb92-4e5c-9acd-e7415ef014d1	58a905af-7bde-4917-aaee-96c1c08a1e55	67fdf2f8-4bd9-4c88-acc4-f1242f0e57eb
+2022-01-16	19:00	  	DEN  	at	  	RICE 	 	   	A	 	M	d1     	ea541053-cc64-4334-9bad-d032bac0a507	31894235-e994-4660-a773-50d353f245b0	a86af36a-cae2-48c7-84c9-7b2029aa5644
+2022-01-16	19:00	  	AFA  	at	  	MONT 	 	   	A	 	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	562fbb01-5445-4962-8c24-ba692bfee723	9201db8a-dc0a-4ce6-a876-b49bebb6425e
+2022-01-16	19:00	  	ULLAF	at	  	UTSA 	 	   	A	 	M	d1     	b17ab4d3-c010-46c9-9e92-6d3c6e043da6	b03a8dee-7b47-4eaf-91f8-87e112633989	a4eb85ee-815c-45e5-b839-4d45823a19d0
+2022-01-16	20:30	  	SLU  	at	  	ND   	 	   	A	 	M	d1     	12ee6f9b-504d-4012-aa05-046bed0d49e6	804abb9d-ce89-4455-b47c-5b8b88d8443b	0ec8b91a-1eca-4284-aed8-8095eb2bef2e
+2022-01-17	22:00	  	SMU  	at	 2	BAY  	 	   	A	 	M	d1     	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	c98c90ae-39d9-4a59-a427-6f7414841709	fd75cc77-6568-4ba7-8711-003df7cd1263
+2022-01-17	18:00	 8	UGA  	at	11	UCF  	 	   	A	 	M	d1     	f81b9e62-3331-41dc-9a41-365b04b4da5f	554755e6-c18c-4936-9cae-3e20507dbbe5	cd9d46c0-eb23-465d-b9d7-8b89c7d33f62
+2022-01-17	18:00	  	PUR  	at	24	OKLA 	 	   	A	 	M	d1     	a543fdbb-635e-49f3-9db7-131479ee826e	1c9c888b-631c-4c23-a1b3-c035f56249b4	1e20c724-05a8-4bdd-b108-c62991fd3db8
+2022-01-17	16:00	  	NW   	at	  	NCST 	 	   	A	 	M	d1     	f0f65ff6-3eab-4489-851d-855a9d36b5a4	df9a8e27-9fa3-413b-9028-442efef29ffd	50163e32-67a8-4425-8c80-187d738d3c6c
+2022-01-17	19:00	  	BOISE	at	  	WASH 	 	   	A	 	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	120192a9-3571-49b1-aec9-b9e7ece54af2	59ce3ad0-2aa4-4f58-b5ad-6d2dc5eccf05
+2022-01-17	19:00	  	OKST 	at	  	ARK  	 	   	A	 	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	8bba619e-3ec7-4d17-a42d-bb9faaf04614
+2022-01-17	20:00	  	PRST 	at	  	ORE  	 	   	A	 	M	d1     	6f7117af-11d9-4594-9116-fde01c7b2198	83b5face-98d6-481c-969f-65c294b836e8	dbd54ee4-1e7f-4a89-a3db-c28ee31c4e0c
+2022-01-17	21:00	  	PRES 	at	  	NCST 	 	   	A	 	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	df9a8e27-9fa3-413b-9028-442efef29ffd	91f470ff-39e5-4503-bd22-ca097c8194ea
+2022-01-17	21:00	  	CAL  	at	  	TULN 	 	   	A	 	M	d1     	821d45ba-9b76-4bc5-8f40-68dfaee763a5	f02eef55-0142-475c-a01e-4d4f94735285	9f78ad24-a80d-495b-b63d-02709711546f
+2022-01-18	22:00	  	BC   	at	21	HARV 	 	   	A	 	M	d1     	fc92b93f-2d30-4b64-be6b-7cfd8126222d	9d7e8d65-7878-47e7-9f33-fcb748be886f	fd2bbb24-49be-4590-b065-2e6980b3d18b
+2022-01-18	 1:00	  	PRST 	at	  	ORE  	 	   	A	 	M	d1     	6f7117af-11d9-4594-9116-fde01c7b2198	83b5face-98d6-481c-969f-65c294b836e8	e5b210d6-626c-4fe2-90a6-525007c257ea
+2022-01-19	20:00	19	A&M  	at	  	AZST 	 	   	A	 	M	d1     	702d4d29-6636-4f06-a35c-f22e3953ae0c	80cfa0c6-e529-4b50-83cd-14c3845501ae	d7d81b92-bcba-41f4-93b5-58fa7f5243c4
+2022-01-19	22:00	  	WMU  	at	  	ND   	 	   	A	 	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	804abb9d-ce89-4455-b47c-5b8b88d8443b	f4466019-dc28-4431-9ebe-e60a4eb941a6
+2022-01-20	23:00	 2	BAY  	at	  	NEB  	 	   	A	 	M	d1     	c98c90ae-39d9-4a59-a427-6f7414841709	df63a514-e637-4161-9cc6-351d66e2c018	61399516-cc2b-4c89-92a3-84f1d6544977
+2022-01-20	17:00	  	LIB  	at	 7	UVA  	 	   	A	 	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	ea538604-050f-4d44-9f6b-7cfaef251022	17f17b49-bed5-49b4-a6cf-f917c6066629
+2022-01-20	22:00	  	RICH 	at	 7	UVA  	 	   	A	 	M	d1     	9db9fc0d-3e90-4735-8780-ba55fb808c97	ea538604-050f-4d44-9f6b-7cfaef251022	8c2b5f12-5570-4a65-8536-f23b6203bc1b
+2022-01-20	17:00	  	PRIN 	at	  	NCST 	 	   	A	 	M	d1     	b39276ed-a8c8-4fa3-98a9-f915107798e7	df9a8e27-9fa3-413b-9028-442efef29ffd	e5c32304-8c75-42a3-9462-b086c6569cd1
+2022-01-20	18:00	  	NW   	at	  	VANDY	 	   	A	 	M	d1     	f0f65ff6-3eab-4489-851d-855a9d36b5a4	592aafc0-8320-4fb0-8161-842be0124a4d	9052e6c3-4b62-4a76-b4dc-037742062b82
+2022-01-20	22:00	  	QUIN 	at	  	BROWN	 	   	A	 	M	d1     	32240be1-db07-48e8-af5f-243c03c81bfe	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	308db4dc-f53a-4e6e-9306-554d851ff918
+2022-01-20	22:00	  	CAMP 	at	  	NCST 	 	   	A	 	M	d1     	815e2c01-7a93-46c1-a48e-822e6738739b	df9a8e27-9fa3-413b-9028-442efef29ffd	c677a360-c56b-4579-9095-25cdd15abc7c
+2022-01-20	19:00	  	JVST 	at	  	LEE  	 	   	A	 	M	d1/d2  	3b004ff1-9778-41e0-916c-fd50361b9489	0ecfab2b-eec0-46d9-8460-7db0be15a657	42200d32-9644-47b7-9071-8f6e9d9aa025
+2022-01-21	21:00	 3	TEX  	at	15	ARIZ 	 	   	A	 	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	ab3f5fab-38c0-4eb7-980a-1dc1cce5e928	3f7f4625-00c6-4c5e-8da3-b9ae9d37168c
+2022-01-21	18:00	  	UCD  	at	 9	USC  	 	   	A	 	M	d1     	d5605ec8-ca90-4ff2-9165-7caeaa90593d	a9bceb19-dac7-4b1a-8093-356440403f7b	271060ac-2183-484a-b455-64af60fcd99b
+2022-01-21	22:00	 9	USC  	vs	  	CMS  	 	   	H	 	M	d1/d3  	a9bceb19-dac7-4b1a-8093-356440403f7b	2c1e0011-48e4-4b73-ba97-0e0f32792d17	23d93813-34bc-411a-bf73-c5230c7739b1
+2022-01-21	14:00	  	PRES 	at	13	SCAR 	 	   	A	 	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	1a7ceae0-50e2-4311-84a4-ff857da8fb42	96268f94-ae31-4bd6-8b86-fa6c46f40cc8
+2022-01-21	21:00	  	CIT  	at	13	SCAR 	 	   	A	 	M	d1     	bfef7e8c-0da8-42a8-ae69-11d28e53eab5	1a7ceae0-50e2-4311-84a4-ff857da8fb42	d459c359-155e-4e40-a598-3af5765ea68c
+2022-01-21	23:00	  	WMU  	at	17	MICH 	 	   	A	 	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	36d44c05-1bb6-4b49-a2d1-b2f00e27821e	0a74e29d-29c0-4da9-b3ea-7c543e2506a7
+2022-01-21	21:00	21	HARV 	at	  	VT   	 	   	A	 	M	d1     	9d7e8d65-7878-47e7-9f33-fcb748be886f	326c560b-3bb3-4be7-ba93-35e5c67470fd	e67072ae-14e9-408b-ba10-4bb1d3f2b35d
+2022-01-21	16:00	  	JVST 	at	  	CHAT 	 	   	A	 	M	d1     	3b004ff1-9778-41e0-916c-fd50361b9489	797d7406-7b39-468a-89ae-147b676855b0	39981bb6-ac8e-4f8c-b6e3-ee3749946c23
+2022-01-21	17:00	  	CIT  	vs	  	PRES 	 	   	N	 	M	d1     	bfef7e8c-0da8-42a8-ae69-11d28e53eab5	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	761477fe-f978-48ef-a969-3832d555900f
+2022-01-21	18:00	  	FGCU 	at	  	MIA  	 	   	A	 	M	d1     	09fa2def-947b-4629-b20b-c7df3f0f5669	f3bfc7c5-86d6-4af3-9377-c84209a35968	b5b327a0-d959-4a83-bf89-d961a90c53cf
+2022-01-21	20:30	  	SF   	at	  	CPOLY	 	   	A	 	M	d1     	99671a37-b72b-4c34-8b56-3b8c0ec3f701	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	32cab006-4f18-4cf5-8785-717876a7886f
+2022-01-21	22:00	  	BUCK 	at	  	JMU  	 	   	A	 	M	d1     	1f53a886-d9c1-4074-a93e-90383e6ceae0	de3fdef6-26af-455a-923a-50c877976d03	77d78418-00c8-4e56-b8e3-26fc975e3678
+2022-01-21	22:00	  	SALA 	vs	  	STET 	 	   	N	 	M	d1     	1c22c233-d8f0-44da-8c75-8c9c470b59d0	05c8a8b6-b11b-4cba-b77a-28390bead223	d5fb4454-145c-4ec8-aaae-cdf7c1958d38
+2022-01-21	22:00	  	UCI  	at	  	USD  	 	   	A	 	M	d1     	e1b7b68b-58b9-4d19-9761-2e5bc89a816c	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	00dcb7a3-333d-442b-82aa-5b7b9e108589
+2022-01-21	23:00	  	SBU  	at	  	LOY  	 	   	A	 	M	d1     	3ec0edd9-2076-4ef3-93f9-b00dd3138b57	8852f3b3-fbb2-4d3a-a274-9852282508c7	d457e5de-9a3e-4fe6-9247-ec91c6a77c19
+2022-01-21	23:30	  	CRE  	at	  	AFA  	 	   	A	 	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	856ab29e-aa05-4bc3-a2d9-89f16556173d
+2022-01-21	23:30	  	UND  	at	  	WIS  	 	   	A	 	M	d1     	ad8fc18d-c5f9-442b-b17e-0981a7e5ae4c	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	e2b3c6ff-998e-48c0-8e03-6ab8b0b7f66e
+2022-01-22	17:30	11	UCF  	at	 1	FLA  	 	   	A	 	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	d7a29d38-4630-4bd2-815e-3350d7bd8a64
+2022-01-22	17:00	 6	OSU  	at	23	ILL  	 	   	A	 	M	d1     	207d4b1b-1e63-4e78-bb86-ddaf39559295	a9d92d42-3f88-4848-9408-52d767937662	ab03aa5c-21da-477a-8c7c-8d6b646d1826
+2022-01-22	19:30	12	UK   	at	  	NKU  	 	   	A	 	M	d1     	6b435f63-1b41-4988-b46b-964b883547c5	2425ab7d-7429-4b4d-ab72-fd88c53d701c	5d7a60b3-ed06-4e38-9c5a-3b77aeaac37b
+2022-01-22	23:00	12	UK   	at	  	NKU  	 	   	A	 	M	d1     	6b435f63-1b41-4988-b46b-964b883547c5	2425ab7d-7429-4b4d-ab72-fd88c53d701c	0c435ebf-79be-4aaa-b34b-33bd1f34ae3c
+2022-01-22	 0:00	  	OKST 	at	18	MISS 	 	   	A	 	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	50878027-90b4-4884-b6f6-af89c0ca04d9	00b3194b-4cea-4132-95e9-c42ad93c9bd1
+2022-01-22	 0:00	  	OKST 	at	18	MISS 	 	   	A	 	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	50878027-90b4-4884-b6f6-af89c0ca04d9	321c8263-9582-44a4-915a-79369aa54dc8
+2022-01-22	18:00	  	ABCHR	at	24	OKLA 	 	   	A	 	M	d1     	8a699b87-0ce9-4ba4-802f-20cc4be4b314	1c9c888b-631c-4c23-a1b3-c035f56249b4	a8fa43b7-d2bf-472c-be0c-58a3de418f49
+2022-01-22	 1:00	  	UTAH 	at	  	DEN  	 	   	A	 	M	d1     	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	ea541053-cc64-4334-9bad-d032bac0a507	c7066748-83b7-4368-afd3-37df1dc6a945
+2022-01-22	15:00	  	DREX 	at	  	BROWN	 	   	A	 	M	d1     	5bdb61af-3a9c-475b-8724-82cb40339a51	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	268b8f55-b567-4098-8687-be60689d0e6e
+2022-01-22	15:00	  	CLEV 	at	  	MSU  	 	   	A	 	M	d1     	c77b519d-0e04-4a9e-bae6-44e8229e52e6	58f0b75c-c78a-4142-aa5d-4683c18e1164	c3af7f37-6013-487f-8c95-d5f50a655b7a
+2022-01-22	15:00	  	MTST 	at	  	GONZ 	 	   	A	 	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	3c323468-362c-4b72-b754-fd7d9e0dc220	347d37ca-00fe-4aa6-82fe-f184f8c57845
+2022-01-22	15:00	  	SAM  	vs	  	STET 	 	   	N	 	M	d1     	15a64e5f-aa11-4935-afce-b43f84e45cdc	05c8a8b6-b11b-4cba-b77a-28390bead223	8146b742-9bfa-4e78-a397-0d76cf610954
+2022-01-22	16:00	  	LAMAR	at	  	RICE 	 	   	A	 	M	d1     	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	31894235-e994-4660-a773-50d353f245b0	fd686b52-e7f2-439a-abf5-32b3abf878b5
+2022-01-22	18:00	  	W&M  	at	  	LIB  	 	   	A	 	M	d1     	04a904aa-24a6-4c97-9ec3-a47c58f6811e	8227948e-4130-481f-bbdd-44e9614dd4b9	f3ac94aa-5db4-4ab6-9dc6-d802ea0616f6
+2022-01-22	18:00	  	FGCU 	at	  	FAU  	 	   	A	 	M	d1     	09fa2def-947b-4629-b20b-c7df3f0f5669	94c921f4-008b-4e88-b2ea-bb61c878e795	3f09557a-418b-46a8-9610-ff13af93f8ef
+2022-01-22	19:00	  	CRE  	vs	  	GCU  	 	   	N	 	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	9ee74ce3-1e1a-457d-8fe8-a52b5c63f17a	86f12d68-07ba-4855-b9cf-983835386f3e
+2022-01-22	19:00	  	STET 	at	  	FSU  	 	   	A	 	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	9c25db90-c2f2-438d-b418-1e31df40e351	36a4a310-10ea-48cd-86bf-9c1c37d38bb7
+2022-01-22	19:00	  	SFU  	at	  	NAVY 	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	05616340-eaab-41a5-9dc7-137f06712c1a	38db44ca-5871-40fa-b900-3e174a5187d3
+2022-01-22	19:00	  	TTU  	at	  	SMU  	 	   	A	 	M	d1     	8169af92-629d-4274-964f-efa6320d0b9e	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	10fe4c84-d922-45ff-b87d-f9905b29f1bf
+2022-01-22	20:00	  	SHU  	at	  	BROWN	 	   	A	 	M	d1     	420446c8-df50-4290-a204-29ca7bbde631	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	bcf53607-08db-488e-b7d9-311f59b15c8c
+2022-01-22	20:00	  	ORE  	at	  	WASH 	 	   	A	 	M	d1     	83b5face-98d6-481c-969f-65c294b836e8	120192a9-3571-49b1-aec9-b9e7ece54af2	d7b2b68e-ead0-40ea-a57a-fe0e8f2011e3
+2022-01-22	21:00	  	IUPUI	at	  	MSU  	 	   	A	 	M	d1     	5f6673ec-6d78-47f9-bfcc-04b3434ba826	58f0b75c-c78a-4142-aa5d-4683c18e1164	5eecf15d-bca0-4871-b580-c8ed9db9aa01
+2022-01-22	21:30	  	SMCC 	at	  	CAL  	 	   	A	 	M	d1     	ccbb6602-fa03-42ac-a3f5-1d62f7967c27	821d45ba-9b76-4bc5-8f40-68dfaee763a5	d0d95efa-6991-4c70-a9f2-e52acf0a19f9
+2022-01-22	22:00	  	DEP  	at	  	WIS  	 	   	A	 	M	d1     	c24bc9e5-ebb9-4b64-9075-76f3e7e3780c	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	00d6305a-387e-4e1e-a80a-2a0c11ff618e
+2022-01-22	22:00	  	SBU  	at	  	NAVY 	 	   	A	 	M	d1     	3ec0edd9-2076-4ef3-93f9-b00dd3138b57	05616340-eaab-41a5-9dc7-137f06712c1a	9e224868-aaa9-48b6-963c-1b311b2d9314
+2022-01-22	22:00	  	SCLAR	vs	  	HNU  	 	   	H	 	M	d1/d2  	12da963f-db09-4430-8238-0c5972bd0aae	15009607-42bc-4ed9-a2a5-621b43ec313d	7f241321-6c0a-4024-9567-e0c7b92c2293
+2022-01-22	18:00	  	SCLAR	vs	  	UCSC 	 	   	H	 	M	d1/d3  	12da963f-db09-4430-8238-0c5972bd0aae	91b81904-b804-432b-aa46-be061862ac7e	34a9adcf-6f11-4fd7-a20d-7e88b8823edf
+2022-01-22	21:00	  	MTST 	at	  	WHITW	 	   	A	 	M	d1/d3  	0e9c11b8-b7a0-4456-89cf-fa422075d587	ad583a8a-278c-4732-b22d-311a29a16574	f1cf6103-8f23-4b50-a315-3ebb6da398a1
+2022-01-23	20:00	 3	TEX  	at	  	AZST 	 	   	A	 	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	80cfa0c6-e529-4b50-83cd-14c3845501ae	b4e83061-032e-44fe-909f-e3fbcc3214db
+2022-01-23	17:00	10	WAKE 	at	 4	TENN 	 	   	A	 	M	d1     	0a89a4fe-5bf5-4e60-8708-989d07766f35	4458bc13-c379-4847-b5cc-c752cdeb97bf	8187c153-a9fd-407a-81d1-bbb46b13920b
+2022-01-23	21:00	  	TNTC 	at	 4	TENN 	 	   	A	 	M	d1     	97ef8721-31f3-4c23-913f-e88a2013538e	4458bc13-c379-4847-b5cc-c752cdeb97bf	c46a8693-9a37-44ac-8d0e-1627bf286e83
+2022-01-23	18:00	21	HARV 	at	 7	UVA  	 	   	A	 	M	d1     	9d7e8d65-7878-47e7-9f33-fcb748be886f	ea538604-050f-4d44-9f6b-7cfaef251022	5ae233e7-ceee-4083-b7bc-21600f02af4b
+2022-01-23	23:00	  	UCI  	at	 9	USC  	 	   	A	 	M	d1     	e1b7b68b-58b9-4d19-9761-2e5bc89a816c	a9bceb19-dac7-4b1a-8093-356440403f7b	8b493cef-49fa-48a8-9bab-84af9d17d0a0
+2022-01-23	15:00	  	CHAR 	at	13	SCAR 	 	   	A	 	M	d1     	e4edd8f3-3396-4b0e-ad73-271bae2a061e	1a7ceae0-50e2-4311-84a4-ff857da8fb42	e522bdcb-d7dd-466c-a454-ccbf8d0307d9
+2022-01-23	18:00	  	CoC  	at	13	SCAR 	 	   	A	 	M	d1     	5a824920-fdbc-4379-b89a-f39a69f4f2b1	1a7ceae0-50e2-4311-84a4-ff857da8fb42	6967d1e2-cb77-41a8-ad38-c7b5c71c3514
+2022-01-23	19:00	24	OKLA 	vs	  	OMAHA	 	   	H	 	M	d1     	1c9c888b-631c-4c23-a1b3-c035f56249b4	cc9a8522-d6da-4077-9673-5ad6d4e08638	aafcfe19-9cd8-417f-a8e6-079c84979c6e
+2022-01-23	 6:00	  	NEB  	at	24	OKLA 	 	   	A	 	M	d1     	df63a514-e637-4161-9cc6-351d66e2c018	1c9c888b-631c-4c23-a1b3-c035f56249b4	4a793cc1-4090-449c-be04-46ca59ccf351
+2022-01-23	 0:00	  	OKST 	at	  	BAMA 	 	   	A	 	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	9b87115c-def8-48fb-a3d6-25887547fcbb	400b60e8-03f6-4c3f-9c65-100323d33ec6
+2022-01-23	14:00	  	CHAT 	at	  	VT   	 	   	A	 	M	d1     	797d7406-7b39-468a-89ae-147b676855b0	326c560b-3bb3-4be7-ba93-35e5c67470fd	59903fe0-a420-462d-a622-9cb291e05386
+2022-01-23	16:00	  	AUB  	at	  	ODU  	 	   	A	 	M	d1     	dc80d974-5c75-47d8-a3a3-6361ea0c1c7c	58a905af-7bde-4917-aaee-96c1c08a1e55	b70ee93e-a84c-4ea7-a6ec-32eab6cb4ac1
+2022-01-23	16:00	  	WOF  	at	  	GAST 	 	   	A	 	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	7c56399b-6bf2-4dcd-96dc-6eca8afe09b0	135bd69e-5c07-4f0f-9af3-77d90493dad1
+2022-01-23	16:00	  	GCU  	at	  	AFA  	 	   	A	 	M	d1     	9ee74ce3-1e1a-457d-8fe8-a52b5c63f17a	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	b0f50773-cc02-44b1-9975-efd243b5a54e
+2022-01-23	17:00	  	ETSU 	at	  	CLEM 	 	   	A	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	24f244b6-deb6-4fab-80fd-7ac5227f4832	90f859dd-4a8a-426b-b079-2f99b2780a5c
+2022-01-23	17:00	  	MEM  	at	  	ND   	 	   	A	 	M	d1     	2c645dc8-b625-479e-8cb3-cdcd76cf90ca	804abb9d-ce89-4455-b47c-5b8b88d8443b	a51486e5-b4c5-44a0-87d6-f23a86cc9952
+2022-01-23	18:00	  	IDST 	at	  	USU  	 	   	A	 	M	d1     	da33685c-db57-428e-8da8-8ff3c1523306	ecb50842-dc98-4073-8259-44a1bad6604f	2ec7ceaa-dcde-41bf-8a15-f9d754f283c8
+2022-01-23	18:00	  	IDAHO	vs	  	UNLV 	 	   	N	 	M	d1     	6323c0ec-c161-4aec-be54-42c46fdc44ee	25354489-c31f-4294-88f6-b7f5a5dccc87	f9b8d1f9-c763-416c-ba2b-dd49a7ccac0a
+2022-01-23	19:00	  	UTAH 	at	  	UNM  	 	   	A	 	M	d1     	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	d2f3db23-1bde-47a4-b5e7-1f1878c5bdf1
+2022-01-23	20:00	  	SACST	at	  	CPOLY	 	   	A	 	M	d1     	44f14f0d-5ba1-4743-8372-2d709304738b	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	22bb3782-f4f9-4e62-8771-f066d5106425
+2022-01-23	22:00	  	GTWN 	at	  	VT   	 	   	A	 	M	d1     	ce967c2c-2cf7-4456-8e81-c94a82136e06	326c560b-3bb3-4be7-ba93-35e5c67470fd	53a4cd4d-ec65-4471-8a51-50aba9c60678
+2022-01-23	22:00	  	TOL  	at	  	ND   	 	   	A	 	M	d1     	43f36f5b-2163-450e-878e-9971da0dbf52	804abb9d-ce89-4455-b47c-5b8b88d8443b	69f3bec1-24ab-4bb3-af37-f96eeb0f21ef
+2022-01-23	 5:00	  	MTST 	at	  	EWU  	 	   	A	C	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	2d6889e5-5499-4be4-9739-e40a15a9d8de	1b9e0ec5-3371-46d3-a3a8-624f89674346
+2022-01-23	 7:00	  	ABCHR	vs	  	BOISE	 	   	N	 	M	d1     	8a699b87-0ce9-4ba4-802f-20cc4be4b314	60678f32-a44d-4006-96d9-f745d2b5e785	23a72fa2-fc69-433c-870f-b78da6404e9e
+2022-01-24	22:00	  	BOISE	at	 2	BAY  	 	   	A	 	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	c98c90ae-39d9-4a59-a427-6f7414841709	3e38e2e3-9688-48c7-b6a3-4b7f6175d8e6
+2022-01-24	 0:00	  	SFU  	at	  	MORG 	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	4b48f0c2-48de-467b-8e5c-ee18dd9b5ada	7a355353-9cf3-40e0-958f-2988a2959724
+2022-01-25	21:00	  	SMCC 	at	25	UCLA 	 	   	A	 	M	d1     	ccbb6602-fa03-42ac-a3f5-1d62f7967c27	697a7501-5c60-4b68-9cdf-10f194e275e9	158550b0-12ce-4ee0-b657-898e6bab5200
+2022-01-25	17:00	  	LAMAR	vs	  	UNO  	 	   	H	 	M	d1     	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	8f4b8ae4-5cff-45da-99d9-4ae4175acf1f	b5e53bd8-dedf-4d6b-bae5-38dc077989fb
+2022-01-26	19:30	  	WOF  	at	  	GWEBB	 	   	A	 	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	6f6164dc-ce2a-4008-9e0d-65f8cf093470	eccba370-4659-4004-a7e5-5cdf60feb4fd
+2022-01-26	23:00	  	TEM  	at	  	PENN 	 	   	A	 	M	d1     	9206c498-1f17-4a78-ac21-42ca7319faa9	9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302	563cb9c1-d3c1-472c-97ea-d4f438e648d5
+2022-01-27	20:00	  	ABCHR	at	 5	TCU  	 	   	A	 	M	d1     	8a699b87-0ce9-4ba4-802f-20cc4be4b314	96f36c2b-99a2-4795-9e32-84a32742fdee	b84eb1d9-5dbe-4b69-bef7-d32934749ab6
+2022-01-28	18:00	  	ODU  	at	 4	TENN 	 	   	A	 	M	d1     	58a905af-7bde-4917-aaee-96c1c08a1e55	4458bc13-c379-4847-b5cc-c752cdeb97bf	c6115e9c-f9d0-4732-a009-51af365067d8
+2022-01-28	 5:00	23	ILL  	vs	  	NCST 	 	   	N	 	M	d1     	a9d92d42-3f88-4848-9408-52d767937662	df9a8e27-9fa3-413b-9028-442efef29ffd	4d15ea09-944e-440e-a2e1-56e0aa3179a2
+2022-01-28	19:00	  	SEA  	at	  	MTST 	 	   	A	 	M	d1     	eba51fbd-1cba-4a05-a89b-33fa7a5d1bbe	0e9c11b8-b7a0-4456-89cf-fa422075d587	abf96f51-1cc8-41ff-a21a-d60e31532398
+2022-01-28	19:00	  	ND   	vs	  	SMU  	 	   	N	 	M	d1     	804abb9d-ce89-4455-b47c-5b8b88d8443b	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	f03a4c5c-1840-4f24-843e-f9fb404d329b
+2022-01-28	20:00	  	HAW  	at	  	UNLV 	 	   	A	 	M	d1     	f397dbcc-9ec5-4643-9bfe-401d9659496c	25354489-c31f-4294-88f6-b7f5a5dccc87	8746908e-2a3e-4ebd-9420-16df7070dd74
+2022-01-28	21:00	  	BUFF 	at	  	YALE 	 	   	A	 	M	d1     	329f8010-4943-4f10-a356-7f8f65459f19	64305e8d-015d-473a-8b96-6949b90e1fa5	8949ee1d-021c-432d-8729-b4ee39484309
+2022-01-28	16:00	  	AFA  	vs	  	MSUD 	 	   	H	 	M	d1/d2  	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	66b70714-d038-4741-ae14-ac3ab2ede669	8b1ab0e5-2ee7-4485-9ae1-55368b27df92
+2022-01-28	19:00	  	PRES 	at	  	EMM  	 	   	A	 	M	d1/d2  	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	bf21aa5e-fb08-4278-8b7c-a389e0e03433	99e7c1c8-7bce-4d91-93d4-91109b52eb10
+2022-01-28	23:00	  	AFA  	vs	  	MSUD 	 	   	H	 	M	d1/d2  	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	66b70714-d038-4741-ae14-ac3ab2ede669	bea7ee2a-9c6e-41e4-81ca-37b50e0039be
+2022-01-28	20:00	  	STET 	vs	  	FNU  	 	   	H	 	M	d1/naia	05c8a8b6-b11b-4cba-b77a-28390bead223	f95f10b0-8ed2-44ff-a642-ef1d30019c18	d3d71375-49dc-4bc7-892a-c1265eb81a70
+2022-01-29	19:00	  	PRIN 	at	 1	FLA  	 	   	A	 	M	d1     	b39276ed-a8c8-4fa3-98a9-f915107798e7	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	015f1914-89e7-43f1-912d-4c981768013a
+2022-01-29	17:00	  	CLMB 	at	 3	TEX  	 	   	A	 	M	d1     	06f842c2-f8dd-4ccd-9abb-a4853dd2761f	e71bce99-4132-47ae-8006-5372d54ffda9	567dbfcf-4e91-4d0b-a1cb-2e54eba0e27c
+2022-01-29	 6:00	  	PORT 	at	 5	TCU  	 	   	A	 	M	d1     	85ed0419-2cc6-4a5e-8266-4bc05cd114cd	96f36c2b-99a2-4795-9e32-84a32742fdee	49427b25-288a-4dba-8c1e-c0aa734b462b
+2022-01-29	17:00	  	BALL 	at	 7	UVA  	 	   	A	 	M	d1     	76487a7a-de11-448c-bed1-006f9b605564	ea538604-050f-4d44-9f6b-7cfaef251022	50663147-19cc-4ce9-bb37-1d75667b5769
+2022-01-29	18:00	21	HARV 	at	 9	USC  	 	   	A	 	M	d1     	9d7e8d65-7878-47e7-9f33-fcb748be886f	a9bceb19-dac7-4b1a-8093-356440403f7b	cfec6a44-b7ea-4094-bcbb-f9d68d600cdf
+2022-01-29	18:00	  	LSU  	at	13	SCAR 	 	   	A	 	M	d1     	ee4edb63-ebba-41bc-b47c-3380f94d02a7	1a7ceae0-50e2-4311-84a4-ff857da8fb42	c4d41f36-72c3-408e-9d73-0de22746adcf
+2022-01-29	20:00	18	MISS 	vs	24	OKLA 	 	   	N	 	M	d1     	50878027-90b4-4884-b6f6-af89c0ca04d9	1c9c888b-631c-4c23-a1b3-c035f56249b4	e5226165-c2d6-4268-b315-82aeb43d4ebc
+2022-01-29	20:00	25	UCLA 	at	19	A&M  	 	   	A	 	M	d1     	697a7501-5c60-4b68-9cdf-10f194e275e9	702d4d29-6636-4f06-a35c-f22e3953ae0c	0851fb49-11fb-460f-a92e-68e59e590663
+2022-01-29	 0:00	  	HAW  	vs	  	UCR  	 	   	N	 	M	d1     	f397dbcc-9ec5-4643-9bfe-401d9659496c	e398ab66-d246-4ba9-96bd-89a7db4f1181	f2b370d4-c32d-42dd-9ccf-2af278166e94
+2022-01-29	 1:00	  	USU  	at	  	WASH 	 	   	A	 	M	d1     	ecb50842-dc98-4073-8259-44a1bad6604f	120192a9-3571-49b1-aec9-b9e7ece54af2	b9a35cd1-6f10-4f8d-ba8c-2be244c32283
+2022-01-29	15:00	  	TOL  	at	  	MSU  	 	   	A	 	M	d1     	43f36f5b-2163-450e-878e-9971da0dbf52	58f0b75c-c78a-4142-aa5d-4683c18e1164	f0618851-c70d-4d2f-9e44-151443ee3237
+2022-01-29	15:00	  	SFC  	at	  	NAVY 	 	   	A	 	M	d1     	fdfbfde3-2780-4e58-8be2-f6ba1e84c60e	05616340-eaab-41a5-9dc7-137f06712c1a	fd9a2d35-ae82-48be-acd7-ec8d4d39b735
+2022-01-29	16:00	  	ALA&M	at	  	MER  	 	   	A	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	83007027-7d20-42e6-a72e-3389c48e74c1	b0187c56-8c05-4ba8-9268-69dbd194cc00
+2022-01-29	16:00	  	CRE  	at	  	NEB  	 	   	A	 	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	df63a514-e637-4161-9cc6-351d66e2c018	d68f0e0e-df2f-473c-853e-bef2aa078004
+2022-01-29	16:00	  	LU   	at	  	SFU  	 	   	A	 	M	d1     	c1d8fe55-db12-4865-8d8b-5a212d7ca16f	bd8d7b73-91a3-45a1-9166-f678da686816	517a942f-6dd6-4df4-9340-d09527d7f322
+2022-01-29	16:00	  	UTRGV	at	  	RICE 	 	   	A	 	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	31894235-e994-4660-a773-50d353f245b0	79aaafcc-7163-453a-8f69-2ca79d9d9ce9
+2022-01-29	16:00	  	TEM  	at	  	YALE 	 	   	A	 	M	d1     	9206c498-1f17-4a78-ac21-42ca7319faa9	64305e8d-015d-473a-8b96-6949b90e1fa5	6e5ceb00-815e-477b-aa8a-821149623ed7
+2022-01-29	17:00	  	OKST 	vs	  	ORE  	 	   	N	 	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	83b5face-98d6-481c-969f-65c294b836e8	79c6af95-c3e5-4078-acc4-4a66ffa780bb
+2022-01-29	17:00	  	VANDY	vs	  	WIS  	 	   	N	 	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	3e61a676-66c2-4186-939d-31bcaffb4425
+2022-01-29	18:00	  	BING 	at	  	BROWN	 	   	A	 	M	d1     	eb759aee-7fbe-4884-87c8-93d087bfcf3d	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	21eaddbd-735a-4553-bab0-eecbcf5c0b47
+2022-01-29	18:00	  	DUKE 	vs	  	LIB  	 	   	N	 	M	d1     	4b118544-8956-46b9-b4fb-6bf1ee2998e9	8227948e-4130-481f-bbdd-44e9614dd4b9	e613b583-d7bc-4f7b-8b09-2da8f4a5c9cd
+2022-01-29	18:00	  	WOF  	at	  	STET 	 	   	A	 	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	05c8a8b6-b11b-4cba-b77a-28390bead223	51ef89cb-5240-46af-9fd5-1f0918cd4086
+2022-01-29	19:00	  	YSU  	at	  	NAVY 	 	   	A	 	M	d1     	9d17282b-42c2-4414-bfd8-4154c00fbff7	05616340-eaab-41a5-9dc7-137f06712c1a	2f7b4d36-57db-4170-a080-e9d0b7083063
+2022-01-29	20:00	  	SMCC 	at	  	CPOLY	 	   	A	 	M	d1     	ccbb6602-fa03-42ac-a3f5-1d62f7967c27	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	629aff69-9fe5-469b-95a8-dd209963a949
+2022-01-29	20:00	  	UCSB 	vs	  	UTAH 	 	   	N	 	M	d1     	911fc75e-825e-4361-8c2b-eb8d074c3293	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	2fd46fea-16aa-4b9a-ac7e-af9944672f83
+2022-01-29	21:30	  	FAIR 	at	  	YALE 	 	   	A	 	M	d1     	0a9b327d-9b24-43f0-a8cb-35c533702d53	64305e8d-015d-473a-8b96-6949b90e1fa5	b8925eed-1a86-4de9-9322-66db75cd3b72
+2022-01-29	22:00	  	SACST	at	  	SCLAR	 	   	A	 	M	d1     	44f14f0d-5ba1-4743-8372-2d709304738b	12da963f-db09-4430-8238-0c5972bd0aae	4aaafb23-d386-4e6c-82a4-b93f02fabbd3
+2022-01-29	22:00	  	IDAHO	vs	  	USU  	 	   	N	 	M	d1     	6323c0ec-c161-4aec-be54-42c46fdc44ee	ecb50842-dc98-4073-8259-44a1bad6604f	2854c632-61e6-43e8-9c77-23212ce33470
+2022-01-29	23:00	  	BUCK 	at	  	MSU  	 	   	A	 	M	d1     	1f53a886-d9c1-4074-a93e-90383e6ceae0	58f0b75c-c78a-4142-aa5d-4683c18e1164	a1ad5549-58ec-4723-8a49-475f1a29feee
+2022-01-29	19:30	  	MER  	vs	  	YOUNG	 	   	H	 	M	d1/d2  	83007027-7d20-42e6-a72e-3389c48e74c1	0ca6cc60-011b-4c8b-a28f-c7a6582a2374	260ee24d-d962-40b7-946f-13f35bd929f2
+2022-01-29	22:30	  	UCD  	vs	  	ARC  	 	   	H	 	M	d1/juco	d5605ec8-ca90-4ff2-9165-7caeaa90593d	24fd9f4c-50e7-4848-be24-5f3e93b604fd	94de2410-00ba-49e1-be56-9fbfd4a2479a
+2022-01-29	17:00	  	NAU  	vs	  	AZCHR	 	   	H	 	M	d1/naia	2208dc75-3067-4e1f-9796-d4bc324ce9ad	f3644cc2-7369-47e6-95e0-3bd2aad9fced	3ae6a446-b32d-46fd-acf7-bb31b39716ff
+2022-01-29	21:00	  	NAU  	vs	  	AZCHR	 	   	H	 	M	d1/naia	2208dc75-3067-4e1f-9796-d4bc324ce9ad	f3644cc2-7369-47e6-95e0-3bd2aad9fced	623f7d33-aed1-45f8-a918-ded38d3467fc
+2022-01-30	15:00	  	LOU  	at	11	UCF  	 	   	A	 	M	d1     	c9ca8b99-867b-4c0f-a57e-3445ef22d5a6	554755e6-c18c-4936-9cae-3e20507dbbe5	a56324c9-20a7-4251-a247-0237f0514598
+2022-01-30	 0:00	  	HAW  	vs	  	WEBER	 	   	N	 	M	d1     	f397dbcc-9ec5-4643-9bfe-401d9659496c	3d7d14f4-b808-4b04-95b5-0852733f5fd4	4471f5c7-3115-4f81-9ede-d24edb7eac51
+2022-01-30	15:00	  	FORD 	at	  	BROWN	 	   	A	 	M	d1     	833d05eb-0bc8-4444-99b5-36d23037d74d	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	21fc3f3c-c447-49ad-a082-79aafa2e3a20
+2022-01-30	15:00	  	IND  	vs	  	VANDY	 	   	N	 	M	d1     	21baaa68-c3b5-4eab-b424-ea430fe572e3	592aafc0-8320-4fb0-8161-842be0124a4d	5381d83d-4c82-46c2-9b01-783dca0c7bee
+2022-01-30	15:00	  	LIPST	at	  	NJIT 	 	   	A	 	M	d1     	6534e529-f354-403f-84c5-0a8db650e16e	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	df8b3441-1c43-454f-aff9-4b909f92e600
+2022-01-30	15:00	  	USF  	vs	  	VT   	 	   	N	 	M	d1     	193a4fb2-4a26-4724-ad0b-188cb862c8b4	326c560b-3bb3-4be7-ba93-35e5c67470fd	d1b10203-09d6-4678-9c4d-dcb4f5869f0f
+2022-01-30	16:00	  	PRES 	at	  	CHAR 	 	   	A	 	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	e4edd8f3-3396-4b0e-ad73-271bae2a061e	93661167-18ce-466c-a796-33a863e021aa
+2022-01-30	18:00	  	WIS  	at	  	AUB  	 	   	A	 	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	dc80d974-5c75-47d8-a3a3-6361ea0c1c7c	b751489e-318b-491d-8b06-8cc9835fee39
+2022-01-30	19:00	  	UTAH 	at	  	LOYM 	 	   	A	 	M	d1     	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	d5480368-b1c4-4a44-8918-b6f2a954538b	ecdcc08a-bee6-42e7-aee1-b99d57a66f63
+2022-01-30	19:00	  	ORU  	at	  	MTST 	 	   	A	 	M	d1     	45f83d63-5aa0-4b8c-88ac-69216f826c05	0e9c11b8-b7a0-4456-89cf-fa422075d587	de16616a-cd00-450f-aa38-969f66370980
+2022-01-30	20:00	  	SIEN 	at	  	BROWN	 	   	A	 	M	d1     	3d1fc2b5-5baa-4ac5-ba43-e8ec11f5873a	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	9c9bea87-5892-4b73-9266-a362e114b45d
+2022-01-30	20:00	  	HAW  	vs	  	NMSU 	 	   	N	 	M	d1     	f397dbcc-9ec5-4643-9bfe-401d9659496c	0586d52b-52a3-43bc-9fd2-40311f2d1e24	188a5d7d-b488-4813-bde9-80302dad14d5
+2022-01-30	20:00	  	UTRGV	at	  	UTSA 	 	   	A	 	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	b03a8dee-7b47-4eaf-91f8-87e112633989	cb03da19-d4e3-46a5-8512-de642c782e07
+2022-01-30	20:00	  	IDAHO	at	  	WASH 	 	   	A	 	M	d1     	6323c0ec-c161-4aec-be54-42c46fdc44ee	120192a9-3571-49b1-aec9-b9e7ece54af2	fb5ab189-daff-40ff-8e91-ef73a78723f9
+2022-01-30	15:30	  	UTRGV	at	  	SMTX 	 	   	A	 	M	d1/d2  	9bd9be97-8ec4-442e-ba85-81b5182b6e96	b20fe68f-ea90-4a00-8e29-fa360d480e12	c867f69d-5c33-47af-b3f3-97b98b0c90d3
+2022-01-30	17:00	  	NAU  	vs	  	WNMU 	 	   	H	 	M	d1/d2  	2208dc75-3067-4e1f-9796-d4bc324ce9ad	682e2d41-39f2-4e9b-957a-f6c0b3f85e8f	0aa16f4e-4032-42e8-a2e2-bc490b82b85f
+2022-01-30	21:00	  	NAU  	vs	  	WNMU 	 	   	H	 	M	d1/d2  	2208dc75-3067-4e1f-9796-d4bc324ce9ad	682e2d41-39f2-4e9b-957a-f6c0b3f85e8f	1ccab777-bdce-4fd4-8564-c52197f6b6f4
+2022-01-30	15:30	  	MER  	vs	  	ABRA 	 	   	H	 	M	d1/juco	83007027-7d20-42e6-a72e-3389c48e74c1	f8b981e2-248e-48d6-aba1-0467c42150b8	76d9765a-ec9f-467d-84a9-f7a7414c8e5f
+2022-01-30	18:00	  	SACST	vs	  	ARC  	 	   	H	 	M	d1/juco	44f14f0d-5ba1-4743-8372-2d709304738b	24fd9f4c-50e7-4848-be24-5f3e93b604fd	f5c1a122-b611-4de8-9083-348f943e412a
+2022-02-01	 5:00	  	ALCN 	at	18	MISS 	 	   	A	 	M	d1     	43c0e313-f7be-467d-b0d1-4bf808849c4c	50878027-90b4-4884-b6f6-af89c0ca04d9	d39309d8-c6ca-4125-9b16-de5a2be28334
+2022-02-01	 6:00	  	ALCN 	at	18	MISS 	 	   	A	 	M	d1     	43c0e313-f7be-467d-b0d1-4bf808849c4c	50878027-90b4-4884-b6f6-af89c0ca04d9	9c778ca3-027e-4955-9de7-3c0f8b64b004
+2022-02-02	18:00	  	UTRGV	at	  	A&MCC	 	   	A	 	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	9dc67f17-e663-49ec-ab20-9d4d1f4de2bc	301aac39-0958-4406-be2f-9e69381a73b3
+2022-02-02	18:00	  	WOF  	at	  	UNCW 	 	   	A	 	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	ec283ff7-abfb-4d78-afd2-75d104bd8415	83b026f6-1f82-46a7-8aaf-06d493193c5d
+2022-02-02	19:00	  	JVST 	vs	  	YOUNG	 	   	H	 	M	d1/d2  	3b004ff1-9778-41e0-916c-fd50361b9489	0ca6cc60-011b-4c8b-a28f-c7a6582a2374	e76a2397-8c23-4aa6-b396-e85eaf6d644d
+2022-02-03	22:00	  	BRY  	at	  	BROWN	 	   	A	 	M	d1     	791e25d1-b248-4d38-89ac-421004a9dc26	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	78dbd687-771e-4bef-b6e8-5f168ae76037
+2022-02-04	20:00	 7	UVA  	at	12	UK   	 	   	A	 	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	6b435f63-1b41-4988-b46b-964b883547c5	47cf2dcc-2ca6-4ee3-acce-954d44f492e5
+2022-02-04	22:30	 8	UGA  	at	  	NCST 	 	   	A	 	M	d1     	f81b9e62-3331-41dc-9a41-365b04b4da5f	df9a8e27-9fa3-413b-9028-442efef29ffd	9a9db470-022c-4b37-a4a1-61b61f1c8296
+2022-02-04	22:00	11	UCF  	at	10	WAKE 	 	   	A	 	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	0a89a4fe-5bf5-4e60-8708-989d07766f35	959b8d9e-5198-4d5b-bc68-a514c959f74e
+2022-02-04	23:00	10	WAKE 	vs	  	NCWES	 	   	H	 	M	d1/d3  	0a89a4fe-5bf5-4e60-8708-989d07766f35	937d5342-65a5-408d-ae53-e7b492d45ed4	a261ede7-d142-4fd0-a593-35c00c3c276c
+2022-02-04	22:00	  	CLEM 	at	13	SCAR 	 	   	A	 	M	d1     	24f244b6-deb6-4fab-80fd-7ac5227f4832	1a7ceae0-50e2-4311-84a4-ff857da8fb42	5bc14c2a-ac8f-4dda-8f98-85534723442a
+2022-02-04	22:00	  	USD  	at	15	ARIZ 	 	   	A	 	M	d1     	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	ab3f5fab-38c0-4eb7-980a-1dc1cce5e928	59e8098f-bc06-4b24-b6cb-5012fdc568eb
+2022-02-04	23:00	22	PEPP 	at	  	OKST 	 	   	A	 	M	d1     	25d26c49-1008-4b55-8440-fc23552b5144	ce99ed51-d0dc-468b-810c-e084f0b8edcd	71c7d86f-18e1-4d9d-a606-f88289514ddc
+2022-02-04	15:00	  	MSM  	at	  	DUQ  	 	   	A	 	M	d1     	bc77be1f-40d8-42ae-beb3-5ac0f29d7716	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	c8d9f4dc-9757-4a9e-907d-d3d3a3729b82
+2022-02-04	16:00	  	ORU  	at	  	LAMAR	 	   	A	 	M	d1     	45f83d63-5aa0-4b8c-88ac-69216f826c05	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	4d0a75df-9251-4347-b6e9-008b56a4c238
+2022-02-04	17:00	  	IDAHO	at	  	AFA  	 	   	A	 	M	d1     	6323c0ec-c161-4aec-be54-42c46fdc44ee	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	abe60089-7781-47db-a0b6-be8a58efea77
+2022-02-04	18:00	  	LIB  	at	  	ELON 	 	   	A	 	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	eec765ae-0eac-40f4-a2b6-749afede93fe	8cd04da1-6d01-413a-808c-853928ccab17
+2022-02-04	18:00	  	IDST 	vs	  	UTRGV	 	   	N	 	M	d1     	da33685c-db57-428e-8da8-8ff3c1523306	9bd9be97-8ec4-442e-ba85-81b5182b6e96	6e3924ec-f6f3-4b2e-9897-45867391238a
+2022-02-04	19:00	  	YALE 	at	  	BUTL 	 	   	A	 	M	d1     	64305e8d-015d-473a-8b96-6949b90e1fa5	f45eb031-245d-4b02-836a-293e7ceb3318	ec540794-c4d7-49b5-bf16-fc2348d9a79b
+2022-02-04	19:00	  	GTWN 	at	  	JMU  	 	   	A	 	M	d1     	ce967c2c-2cf7-4456-8e81-c94a82136e06	de3fdef6-26af-455a-923a-50c877976d03	4a021bb7-345c-418b-b83a-943b5f97ef6c
+2022-02-04	20:00	  	ALA&M	at	  	TROY 	 	   	A	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	e0e0f0a7-001f-4d1a-ae38-29b9ff35b877	4f3c54e5-a216-40d1-a25e-041f54195847
+2022-02-04	20:00	  	DRAKE	at	  	VANDY	 	   	A	 	M	d1     	f7a61dcf-6c2b-498d-ab59-d18796b65533	592aafc0-8320-4fb0-8161-842be0124a4d	8bc740fe-3ee3-4a9b-a563-fae7c473b5cb
+2022-02-04	20:00	  	PRES 	at	  	ETSU 	 	   	A	 	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	7d084cdf-ec82-4f40-99de-75524f7c1268	9104613e-0552-4d89-b29c-24f19dc9d5ab
+2022-02-04	20:00	  	LOYM 	at	  	UTAH 	 	   	A	 	M	d1     	d5480368-b1c4-4a44-8918-b6f2a954538b	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	e1b4cb75-e1be-4977-80db-98959fd3afbd
+2022-02-04	23:30	  	MARQ 	at	  	WIS  	 	   	A	 	M	d1     	4d9be433-3ce7-4ac6-9f75-a0000272ee4c	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	dbc2ace2-fe92-414b-8118-0c68b98a62b3
+2022-02-04	20:00	  	BC   	vs	  	SNHU 	 	   	H	 	M	d1/d2  	fc92b93f-2d30-4b64-be6b-7cfd8126222d	13a21cd6-aea2-4912-9ec3-e3bc4329a0dd	666d81de-6c39-4ba4-a26e-e859deab95c9
+2022-02-04	22:00	  	FGCU 	vs	  	KEISR	 	   	H	 	M	d1/naia	09fa2def-947b-4629-b20b-c7df3f0f5669	bdc9f9f9-c735-467f-b710-e4a9420b292f	6fad4e61-527a-4ab2-9441-cfa8ef4bf0d6
+2022-02-05	22:00	 1	FLA  	vs	  	FSU  	 	   	N	 	M	d1     	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	9c25db90-c2f2-438d-b418-1e31df40e351	a9433321-70dc-4e1e-9163-c296cc0241fe
+2022-02-05	 0:00	 3	TEX  	at	 2	BAY  	 	   	A	 	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	c98c90ae-39d9-4a59-a427-6f7414841709	7f772d72-9838-494e-aac1-6f61cf225ff3
+2022-02-05	21:00	 9	USC  	at	16	STAN 	 	   	A	 	M	d1     	a9bceb19-dac7-4b1a-8093-356440403f7b	28e9c099-0f9e-4c8e-b8a6-374479b1c04e	b53f3bef-28d2-4904-8ebb-9d0834d18693
+2022-02-05	 0:00	  	WICH 	at	24	OKLA 	 	   	A	 	M	d1     	59cd7fa7-ac23-49f3-aea1-6b0eb434d55e	1c9c888b-631c-4c23-a1b3-c035f56249b4	420f096e-3f86-4105-a4f5-43dea9b5b50b
+2022-02-05	21:00	25	UCLA 	at	  	CAL  	 	   	A	 	M	d1     	697a7501-5c60-4b68-9cdf-10f194e275e9	821d45ba-9b76-4bc5-8f40-68dfaee763a5	9a0f6ef1-1d40-481d-ad63-064eea28cbd2
+2022-02-05	 0:00	  	BELL 	at	  	NKU  	 	   	A	 	M	d1     	822847fc-9ebf-4a65-8cce-3a9455652188	2425ab7d-7429-4b4d-ab72-fd88c53d701c	d2d61caa-f649-4792-bf33-1a3bd07707a2
+2022-02-05	 0:00	  	MONT 	at	  	BOISE	 	   	A	 	M	d1     	562fbb01-5445-4962-8c24-ba692bfee723	60678f32-a44d-4006-96d9-f745d2b5e785	d679fa20-3710-4bc5-8468-2cce26c88a48
+2022-02-05	 0:00	  	UNM  	at	  	GONZ 	 	   	A	 	M	d1     	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	3c323468-362c-4b72-b754-fd7d9e0dc220	917e08cd-a970-453f-b591-22d593d79623
+2022-02-05	 0:00	  	NAU  	at	  	DEN  	 	   	A	 	M	d1     	2208dc75-3067-4e1f-9796-d4bc324ce9ad	ea541053-cc64-4334-9bad-d032bac0a507	d60f18d7-94a4-40a2-b2fd-a98513e6d4c9
+2022-02-05	 0:00	  	SDSU 	at	  	WASH 	 	   	A	 	M	d1     	35c09d02-006a-4078-bff0-c2edf554545d	120192a9-3571-49b1-aec9-b9e7ece54af2	6cd728b9-ec01-4d59-a41e-58ce5f32d720
+2022-02-05	 0:30	  	AFA  	vs	  	OMAHA	 	   	H	 	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	cc9a8522-d6da-4077-9673-5ad6d4e08638	086d4a1a-7f90-41f8-8dd2-baf5d8a7057a
+2022-02-05	15:00	  	JOES 	at	  	NAVY 	 	   	A	 	M	d1     	4b0560a2-5de5-4807-9756-55d2e6814828	05616340-eaab-41a5-9dc7-137f06712c1a	2688e84d-cad9-4c7b-8570-874b01981e23
+2022-02-05	16:00	  	YALE 	at	  	BUTL 	 	   	A	 	M	d1     	64305e8d-015d-473a-8b96-6949b90e1fa5	f45eb031-245d-4b02-836a-293e7ceb3318	ca4fc0d8-edf9-48fe-be46-b29f5ce8a8eb
+2022-02-05	16:00	  	NJIT 	at	  	DREX 	 	   	A	 	M	d1     	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	5bdb61af-3a9c-475b-8724-82cb40339a51	8e3fe004-7e3f-48c4-bcc5-31f9b77a70da
+2022-02-05	17:00	  	NAU  	vs	  	OMAHA	 	   	N	 	M	d1     	2208dc75-3067-4e1f-9796-d4bc324ce9ad	cc9a8522-d6da-4077-9673-5ad6d4e08638	009ac862-e7d4-4453-b922-2e070b9302ca
+2022-02-05	17:00	  	NAVY 	at	  	PENN 	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302	fbbbddb3-a886-4534-b236-259d72a95770
+2022-02-05	18:00	  	PAC  	at	  	CPOLY	 	   	A	 	M	d1     	0bf79a9f-4f88-450b-baff-46a4cabb32c9	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	a6810ed5-ff5e-4a9e-a482-1eb353b8e250
+2022-02-05	18:00	  	STET 	at	  	MER  	 	   	A	 	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	83007027-7d20-42e6-a72e-3389c48e74c1	b48d5e0d-0932-4df6-ab9e-5d48ad64fc93
+2022-02-05	18:00	  	SBU  	at	  	VT   	 	   	A	 	M	d1     	3ec0edd9-2076-4ef3-93f9-b00dd3138b57	326c560b-3bb3-4be7-ba93-35e5c67470fd	380dde64-cdf5-4113-8221-60aaa9177297
+2022-02-05	19:00	  	UTSA 	at	  	UCSB 	 	   	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	911fc75e-825e-4361-8c2b-eb8d074c3293	b66f73f6-2968-4cce-a32c-309427e82584
+2022-02-05	20:00	  	ODU  	at	  	CLMB 	 	   	A	 	M	d1     	58a905af-7bde-4917-aaee-96c1c08a1e55	06f842c2-f8dd-4ccd-9abb-a4853dd2761f	2d1ffb04-80ae-430a-ad06-795fdbfcb34b
+2022-02-05	20:00	  	MSU  	at	  	WMU  	 	   	A	 	M	d1     	58f0b75c-c78a-4142-aa5d-4683c18e1164	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	fa13d16c-a642-4c3c-bfbb-3eb09f7988f0
+2022-02-05	21:00	  	RICH 	at	  	DUQ  	 	   	A	C	M	d1     	9db9fc0d-3e90-4735-8780-ba55fb808c97	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	98f13a44-6197-4300-ae88-4be871c8e92b
+2022-02-05	21:00	  	WAG  	at	  	MONM 	 	   	A	 	M	d1     	f991f38e-e02f-404f-846f-5987baf42957	9e74d368-e8a8-43fa-ade6-fd2c06c09660	5c805860-9803-47f9-9830-2f3b436b7a96
+2022-02-05	22:00	  	DAV  	at	  	VT   	 	   	A	 	M	d1     	89e5371a-c936-4f5b-94b6-55ddcc8009ce	326c560b-3bb3-4be7-ba93-35e5c67470fd	8555b9a7-0d2e-404d-a939-7ffd80419614
+2022-02-05	 7:00	  	MEM  	at	  	BAMA 	 	   	A	 	M	d1     	2c645dc8-b625-479e-8cb3-cdcd76cf90ca	9b87115c-def8-48fb-a3d6-25887547fcbb	940db610-7ecc-46e6-8ba0-14dafac56bf4
+2022-02-05	 7:00	  	USU  	at	  	WEBER	 	   	A	 	M	d1     	ecb50842-dc98-4073-8259-44a1bad6604f	3d7d14f4-b808-4b04-95b5-0852733f5fd4	75b42c02-3ad2-481e-8f62-06f159f85e47
+2022-02-05	 8:00	  	PORT 	vs	  	SDSU 	 	   	N	 	M	d1     	85ed0419-2cc6-4a5e-8266-4bc05cd114cd	35c09d02-006a-4078-bff0-c2edf554545d	61f8531d-f196-4704-bf7f-ab6f3201c64a
+2022-02-05	 0:00	  	TOL  	vs	  	WSU  	 	   	H	 	M	d1/d2  	43f36f5b-2163-450e-878e-9971da0dbf52	4f6afebb-1b43-4ac3-908f-cbe94fa4551d	aab0e578-cf45-4f33-96fa-6a43f8b44d30
+2022-02-05	 0:00	  	EWU  	vs	  	WHITW	 	   	H	 	M	d1/d3  	2d6889e5-5499-4be4-9739-e40a15a9d8de	ad583a8a-278c-4732-b22d-311a29a16574	286c6e02-87db-47c1-94c2-bf3fa16f1ac6
+2022-02-05	15:00	  	SFU  	at	  	CMU  	 	   	A	 	M	d1/d3  	bd8d7b73-91a3-45a1-9166-f678da686816	8d265662-9c08-4660-a94c-8590d497a660	748b7eb2-8fb6-47e5-ae15-ddb0132a673b
+2022-02-06	18:00	  	IDST 	at	 2	BAY  	 	   	A	 	M	d1     	da33685c-db57-428e-8da8-8ff3c1523306	c98c90ae-39d9-4a59-a427-6f7414841709	284402f1-c0cc-4b3b-be8b-f777d838d2c1
+2022-02-06	23:00	  	IWORD	at	 2	BAY  	 	   	A	 	M	d1     	5a6a5b42-06f4-4854-8dfa-622e48d22c71	c98c90ae-39d9-4a59-a427-6f7414841709	454fcd47-71cb-4226-8c8b-ac1939d9735c
+2022-02-06	18:00	18	MISS 	at	 5	TCU  	 	   	A	 	M	d1     	50878027-90b4-4884-b6f6-af89c0ca04d9	96f36c2b-99a2-4795-9e32-84a32742fdee	0ac3a9e7-78a8-4975-9eb8-fcc394807ed8
+2022-02-06	17:00	 7	UVA  	at	 6	OSU  	 	   	A	 	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	207d4b1b-1e63-4e78-bb86-ddaf39559295	4aa62e9f-d661-44d1-ad55-b118ab7ea98e
+2022-02-06	21:00	 9	USC  	at	  	CAL  	 	   	A	 	M	d1     	a9bceb19-dac7-4b1a-8093-356440403f7b	821d45ba-9b76-4bc5-8f40-68dfaee763a5	daf65538-ccd2-452d-a544-c46c001cbf11
+2022-02-06	19:00	11	UCF  	at	  	NCST 	 	   	A	 	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	df9a8e27-9fa3-413b-9028-442efef29ffd	795fc9de-9544-4515-80b2-5a95f89b06fe
+2022-02-06	18:00	  	VCU  	at	12	UK   	 	   	A	 	M	d1     	06471a92-4609-433c-bbb9-cd1cc8b44b31	6b435f63-1b41-4988-b46b-964b883547c5	9c9230d6-8dcb-42f7-afa5-8d59032d77ed
+2022-02-06	17:00	  	GT   	at	13	SCAR 	 	   	A	 	M	d1     	8f398642-3995-428a-84be-ce55c55bc5fd	1a7ceae0-50e2-4311-84a4-ff857da8fb42	2691b448-a551-472c-a7c8-33e15c39fe68
+2022-02-06	21:00	25	UCLA 	at	16	STAN 	 	   	A	 	M	d1     	697a7501-5c60-4b68-9cdf-10f194e275e9	28e9c099-0f9e-4c8e-b8a6-374479b1c04e	3b45398a-2589-408c-bb5c-fefc3c4c9d7c
+2022-02-06	17:00	17	MICH 	at	21	HARV 	 	   	A	 	M	d1     	36d44c05-1bb6-4b49-a2d1-b2f00e27821e	9d7e8d65-7878-47e7-9f33-fcb748be886f	22d532c8-02d9-476d-ae00-042343310ffa
+2022-02-06	19:00	  	ARK  	at	24	OKLA 	 	   	A	 	M	d1     	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	1c9c888b-631c-4c23-a1b3-c035f56249b4	b176ac1c-6939-49f8-9b6d-a57ef6f28bbb
+2022-02-06	 0:00	  	UAB  	at	  	BAMA 	 	   	A	 	M	d1     	8bfea102-b1bc-437d-b717-6f5cee3d66b3	9b87115c-def8-48fb-a3d6-25887547fcbb	c2e401ea-2163-49b4-b819-e0b197b6cff8
+2022-02-06	 1:00	  	IDAHO	vs	  	OMAHA	 	   	N	 	M	d1     	6323c0ec-c161-4aec-be54-42c46fdc44ee	cc9a8522-d6da-4077-9673-5ad6d4e08638	b78c80b4-04b0-4a75-b270-0f6c3f72da72
+2022-02-06	14:00	  	COPP 	at	  	NAVY 	 	   	A	 	M	d1     	bbad712f-8d4a-482a-818b-e775f739993d	05616340-eaab-41a5-9dc7-137f06712c1a	bc16856b-b749-4e5b-8d77-3ff36e6553cb
+2022-02-06	15:00	  	LIP  	at	  	VANDY	 	   	A	 	M	d1     	a2baf051-4021-4f55-af9c-b2f4adae0076	592aafc0-8320-4fb0-8161-842be0124a4d	87275194-b98c-479d-b97c-98570c630016
+2022-02-06	16:00	  	COLG 	at	  	SFU  	 	   	A	 	M	d1     	2c41c78e-f6d3-4b46-a274-21bf9acfaae2	bd8d7b73-91a3-45a1-9166-f678da686816	86292dcb-f472-4648-8d9f-2926f93343f6
+2022-02-06	16:00	  	PVA&M	at	  	LAMAR	 	   	A	 	M	d1     	0f2d3577-681d-46e4-994f-3637fbb28aa5	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	857e4fd4-cd80-4066-90e1-131c6643a2f1
+2022-02-06	16:00	  	NAU  	at	  	AFA  	 	   	A	 	M	d1     	2208dc75-3067-4e1f-9796-d4bc324ce9ad	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	778350bf-3e1f-4004-99ba-c275e58a764a
+2022-02-06	16:00	  	PAC  	vs	  	UTSA 	 	   	N	 	M	d1     	0bf79a9f-4f88-450b-baff-46a4cabb32c9	b03a8dee-7b47-4eaf-91f8-87e112633989	5c834f29-c9fa-4325-a8f5-b21df0bc9a89
+2022-02-06	17:00	  	SEA  	at	  	BOISE	 	   	A	 	M	d1     	eba51fbd-1cba-4a05-a89b-33fa7a5d1bbe	60678f32-a44d-4006-96d9-f745d2b5e785	29f7730f-e0f9-4ab5-9f05-46514c50635f
+2022-02-06	17:00	  	STET 	at	  	GAST 	 	   	A	 	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	7c56399b-6bf2-4dcd-96dc-6eca8afe09b0	244c7bab-1669-417b-b409-c2068539a64a
+2022-02-06	18:00	  	DRAKE	at	  	WIS  	 	   	A	 	M	d1     	f7a61dcf-6c2b-498d-ab59-d18796b65533	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	0a5bd246-6ce0-4361-8fbc-cd8e31f523be
+2022-02-06	18:00	  	ODU  	at	  	SJU  	 	   	A	 	M	d1     	58a905af-7bde-4917-aaee-96c1c08a1e55	c7ca88a5-8ac0-4476-9af9-c93d9c2dd777	55cbd0e0-8ddc-4087-8cdc-ab05fd570266
+2022-02-06	19:00	  	TTU  	at	  	UTAH 	 	   	A	 	M	d1     	8169af92-629d-4274-964f-efa6320d0b9e	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	1039821d-a44b-46ef-94cd-14cd2b370faa
+2022-02-06	20:00	  	PVA&M	at	  	LAMAR	 	   	A	 	M	d1     	0f2d3577-681d-46e4-994f-3637fbb28aa5	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	d94c37c5-b0c5-4220-aa55-d488d15efb54
+2022-02-06	21:00	  	USD  	at	  	AZST 	 	   	A	 	M	d1     	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	80cfa0c6-e529-4b50-83cd-14c3845501ae	92860c6c-cbca-4aab-a925-037e91725972
+2022-02-06	21:00	  	GMU  	at	  	JMU  	 	   	A	 	M	d1     	dc6c3807-278e-4207-8406-e84a46dea6de	de3fdef6-26af-455a-923a-50c877976d03	f9351297-d3a0-444d-9d51-110ea52342fd
+2022-02-06	21:00	  	GTWN 	at	  	NAVY 	 	   	A	 	M	d1     	ce967c2c-2cf7-4456-8e81-c94a82136e06	05616340-eaab-41a5-9dc7-137f06712c1a	ac14a489-1aa3-45d1-aa4f-7054c2cc7ff5
+2022-02-06	21:00	  	NEB  	at	  	DEN  	 	   	A	 	M	d1     	df63a514-e637-4161-9cc6-351d66e2c018	ea541053-cc64-4334-9bad-d032bac0a507	66a93505-e865-440f-adc5-42aeba90dc89
+2022-02-06	23:00	  	UND  	at	  	BOISE	 	   	A	 	M	d1     	ad8fc18d-c5f9-442b-b17e-0981a7e5ae4c	60678f32-a44d-4006-96d9-f745d2b5e785	8ff8de4a-748d-4bfa-a1ed-54a8a602d9bd
+2022-02-06	 0:30	  	MONM 	vs	  	QUE  	 	   	H	 	M	d1/d2  	9e74d368-e8a8-43fa-ade6-fd2c06c09660	c5e460bb-0c0f-4852-849b-109171ce65da	08262d98-0956-437f-bb17-81415c379c35
+2022-02-09	19:00	  	WOF  	at	14	UNC  	 	   	A	 	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	8544d2ac-773a-409d-b22e-6af0ee807c63	dada4b6c-5853-4cb5-a42d-bac45d74cc12
+2022-02-09	20:00	  	PRES 	at	  	FUR  	 	   	A	 	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	227ef7d0-2d9a-4698-bed1-45933908a82a	016aead9-de31-4efe-9c7b-9067e4cfce7a
+2022-02-09	21:00	  	BC   	at	  	BROWN	 	   	A	 	M	d1     	fc92b93f-2d30-4b64-be6b-7cfd8126222d	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	14b7b1de-8523-49d2-9aad-83e50b2b33bd
+2022-02-10	22:00	10	WAKE 	at	13	SCAR 	 	   	A	 	M	d1     	0a89a4fe-5bf5-4e60-8708-989d07766f35	1a7ceae0-50e2-4311-84a4-ff857da8fb42	21770c9d-5c2f-48e1-b641-92a98e6f4c3f
+2022-02-11	20:00	  	TULSA	at	 2	BAY  	 	   	A	 	M	d1     	c45e9ee0-09e1-4acd-8fbc-056f21ba43ee	c98c90ae-39d9-4a59-a427-6f7414841709	d3615705-9689-4327-8401-18ddf9ca2146
+2022-02-11	23:00	  	RICE 	at	 3	TEX  	 	   	A	 	M	d1     	31894235-e994-4660-a773-50d353f245b0	e71bce99-4132-47ae-8006-5372d54ffda9	ea5864d9-07d5-46a0-8a4c-70915db69ae5
+2022-02-11	22:00	11	UCF  	at	  	FSU  	 	   	A	 	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	9c25db90-c2f2-438d-b418-1e31df40e351	bbced47c-7ce0-49ae-bd81-00c674e3e41b
+2022-02-11	23:30	  	BAMA 	at	24	OKLA 	 	   	A	 	M	d1     	9b87115c-def8-48fb-a3d6-25887547fcbb	1c9c888b-631c-4c23-a1b3-c035f56249b4	59d6cd4e-1f1c-4b54-aafd-1840ee7f7d93
+2022-02-11	18:00	  	COR  	at	  	OKST 	 	   	A	 	M	d1     	479ca8ce-37c4-4f3e-9b97-b59da1625496	ce99ed51-d0dc-468b-810c-e084f0b8edcd	41622eae-3ed0-4de6-ab61-6b3101c414c2
+2022-02-11	18:00	  	GONZ 	at	  	USU  	 	   	A	 	M	d1     	3c323468-362c-4b72-b754-fd7d9e0dc220	ecb50842-dc98-4073-8259-44a1bad6604f	404c99a9-649a-48c3-8bc4-112fb6ef44aa
+2022-02-11	18:00	  	LU   	at	  	JMU  	 	   	A	 	M	d1     	c1d8fe55-db12-4865-8d8b-5a212d7ca16f	de3fdef6-26af-455a-923a-50c877976d03	d35324d5-9b41-49b4-99b7-781d906d7a42
+2022-02-11	19:00	  	CRE  	at	  	WICH 	 	   	A	 	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	59cd7fa7-ac23-49f3-aea1-6b0eb434d55e	8b32c0b7-cdf1-4948-b330-93fbb58b2b4f
+2022-02-11	20:00	  	LOYM 	at	  	CPOLY	 	   	A	 	M	d1     	d5480368-b1c4-4a44-8918-b6f2a954538b	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	9c31ce13-23f9-494a-b927-e2f2e07d50b6
+2022-02-11	22:00	  	ETSU 	at	  	IND  	 	   	A	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	21baaa68-c3b5-4eab-b424-ea430fe572e3	f9c8e4a3-0777-438b-8797-8d58c89827d0
+2022-02-11	22:00	  	UAB  	at	  	FGCU 	 	   	A	 	M	d1     	8bfea102-b1bc-437d-b717-6f5cee3d66b3	09fa2def-947b-4629-b20b-c7df3f0f5669	f76ab3be-8205-4d7f-a25b-d36aa1b59ae0
+2022-02-11	22:00	  	LIB  	at	  	PSU  	 	   	A	 	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	fb7dbb61-bb92-4e5c-9acd-e7415ef014d1	401f15fa-7fa1-49c3-a928-77aa81bf976d
+2022-02-11	22:00	  	VT   	at	  	MTSU 	 	   	A	 	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	c33f86fb-c98b-4fbc-83cc-95e2582a1215	d438e80c-de0d-485a-8b60-f8a7af59ea1f
+2022-02-11	22:00	  	WIS  	at	  	PRIN 	 	   	A	 	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	b39276ed-a8c8-4fa3-98a9-f915107798e7	bb883886-77c3-4f40-8a14-3181dc66e025
+2022-02-11	22:00	  	SCLAR	at	  	UNM  	 	   	A	 	M	d1     	12da963f-db09-4430-8238-0c5972bd0aae	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	b0288c52-2f31-4e05-9647-09648dfb91d9
+2022-02-11	23:00	  	VCU  	at	  	DUKE 	 	   	A	 	M	d1     	06471a92-4609-433c-bbb9-cd1cc8b44b31	4b118544-8956-46b9-b4fb-6bf1ee2998e9	001a2cab-e3ad-4252-9da9-9185d913270c
+2022-02-11	 7:00	  	BOISE	at	  	BYU  	 	   	A	 	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	53f1c9be-0b9c-49da-ab3c-832d384f56aa	fcc4e2a8-b384-4909-a587-163ef117a208
+2022-02-11	18:00	  	HAW  	vs	  	CUI  	 	   	H	 	M	d1/d2  	f397dbcc-9ec5-4643-9bfe-401d9659496c	ab9c8875-e0bd-4906-8325-906398715f76	d7f63566-7298-417f-9cae-acbe127c3800
+2022-02-11	18:00	  	PRST 	vs	  	GFOX 	 	   	H	 	M	d1/d3  	6f7117af-11d9-4594-9116-fde01c7b2198	e0dcd54a-554a-41dd-8e68-b786e67595dd	f674f27b-8e71-4071-b59c-ae613cbd14b2
+2022-02-11	19:00	  	LAMAR	vs	  	TYLER	 	   	H	 	M	d1/juco	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	8e51bb66-583f-44d0-9074-084a1d8a46a2	7b4c744d-82dc-4ce1-96bc-4b0611de25bf
+2022-02-11	17:30	  	PEAY 	vs	  	CUMBD	 	   	H	 	M	d1/naia	414149ac-7c42-48da-8d79-fa6647e50c45	65841adf-6685-4c4b-a742-390ee525df57	327e7b3b-4b02-40d5-9c79-b28db46d67ae
+2022-02-12	20:00	 7	UVA  	at	 2	BAY  	 	   	A	 	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	c98c90ae-39d9-4a59-a427-6f7414841709	29d4775f-51d9-4978-85b0-f4001ea32f7c
+2022-02-12	18:00	  	CHAR 	at	 4	TENN 	 	   	A	 	M	d1     	e4edd8f3-3396-4b0e-ad73-271bae2a061e	4458bc13-c379-4847-b5cc-c752cdeb97bf	deb6e053-f37e-4952-9757-f488bd45369e
+2022-02-12	 0:00	20	MSST 	at	 5	TCU  	 	   	A	 	M	d1     	815cd16b-2fd1-48ae-8a26-348a4631fbe3	96f36c2b-99a2-4795-9e32-84a32742fdee	a2a19a0f-e051-4810-b143-0021277dd9fe
+2022-02-12	21:00	  	CAL  	at	16	STAN 	 	   	A	 	M	d1     	821d45ba-9b76-4bc5-8f40-68dfaee763a5	28e9c099-0f9e-4c8e-b8a6-374479b1c04e	577f29a7-c2b1-455f-8c70-ee9b3ac62678
+2022-02-12	21:00	23	ILL  	at	  	ND   	 	   	A	 	M	d1     	a9d92d42-3f88-4848-9408-52d767937662	804abb9d-ce89-4455-b47c-5b8b88d8443b	38818ea8-07b1-45a0-bbb6-a67521484d42
+2022-02-12	 0:00	  	UAB  	at	24	OKLA 	 	   	A	 	M	d1     	8bfea102-b1bc-437d-b717-6f5cee3d66b3	1c9c888b-631c-4c23-a1b3-c035f56249b4	8f98f38d-5d63-4910-a560-1bf48f2b1a63
+2022-02-12	 0:30	  	DEN  	at	  	AFA  	 	   	A	 	M	d1     	ea541053-cc64-4334-9bad-d032bac0a507	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	a3150c2e-6fe7-4cac-b61c-b3ae5c2a15af
+2022-02-12	11:00	  	ORU  	at	  	OKST 	 	   	A	 	M	d1     	45f83d63-5aa0-4b8c-88ac-69216f826c05	ce99ed51-d0dc-468b-810c-e084f0b8edcd	9170c105-e50f-4494-9cbb-7ff236eee421
+2022-02-12	15:00	  	ALCN 	at	  	LAMAR	 	   	A	 	M	d1     	43c0e313-f7be-467d-b0d1-4bf808849c4c	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	bc38f9ea-c5da-467f-8f01-f36be4fd61e7
+2022-02-12	15:00	  	BRY  	at	  	NAVY 	 	   	A	 	M	d1     	791e25d1-b248-4d38-89ac-421004a9dc26	05616340-eaab-41a5-9dc7-137f06712c1a	6e303002-3382-4185-8772-4075512dc530
+2022-02-12	16:00	  	GONZ 	at	  	UTAH 	 	   	A	 	M	d1     	3c323468-362c-4b72-b754-fd7d9e0dc220	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	b1f30e7e-4620-4113-b4df-19d5d99fa6d7
+2022-02-12	17:00	  	BU   	at	  	BROWN	 	   	A	 	M	d1     	eac0f132-159c-4ee5-ae24-b2754e56a83d	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	c6a5b65a-163c-4730-98ab-789f4b4a2ccc
+2022-02-12	17:00	  	LOU  	at	  	MSU  	 	   	A	 	M	d1     	c9ca8b99-867b-4c0f-a57e-3445ef22d5a6	58f0b75c-c78a-4142-aa5d-4683c18e1164	c1e1b577-75f4-4926-9063-7b181f43a0f1
+2022-02-12	17:00	  	NCCU 	at	  	NCST 	 	   	A	 	M	d1     	5ff79fbd-f23d-48e3-9b9f-0c027ce00929	df9a8e27-9fa3-413b-9028-442efef29ffd	8c6bd27a-fe44-4c3c-82a9-5b502caee138
+2022-02-12	18:00	  	GCU  	vs	  	SCLAR	 	   	N	 	M	d1     	9ee74ce3-1e1a-457d-8fe8-a52b5c63f17a	12da963f-db09-4430-8238-0c5972bd0aae	3f331b97-cd2d-4826-9c4e-de3d141437f2
+2022-02-12	18:00	  	LOYM 	vs	  	SDSU 	 	   	N	 	M	d1     	d5480368-b1c4-4a44-8918-b6f2a954538b	35c09d02-006a-4078-bff0-c2edf554545d	55200c02-2f39-42ce-ab56-87f72c52a1db
+2022-02-12	18:00	  	SJU  	at	  	YALE 	 	   	A	 	M	d1     	c7ca88a5-8ac0-4476-9af9-c93d9c2dd777	64305e8d-015d-473a-8b96-6949b90e1fa5	a8c47f33-5813-43cc-9b2c-2ccd4eae974b
+2022-02-12	18:00	  	SEA  	at	  	IDAHO	 	   	A	 	M	d1     	eba51fbd-1cba-4a05-a89b-33fa7a5d1bbe	6323c0ec-c161-4aec-be54-42c46fdc44ee	31a3ea78-21f3-4f91-ac42-820b4c22b0c7
+2022-02-12	19:00	  	UNLV 	at	  	OKST 	 	   	A	 	M	d1     	25354489-c31f-4294-88f6-b7f5a5dccc87	ce99ed51-d0dc-468b-810c-e084f0b8edcd	afb9a370-99a8-4f55-b811-9babff130b4d
+2022-02-12	19:00	  	RICH 	at	  	NAVY 	 	   	A	 	M	d1     	9db9fc0d-3e90-4735-8780-ba55fb808c97	05616340-eaab-41a5-9dc7-137f06712c1a	a9c9c13c-bffa-4520-80c2-2472247b4785
+2022-02-12	20:00	  	ALA&M	at	  	SAM  	 	   	A	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	15a64e5f-aa11-4935-afce-b43f84e45cdc	358fd645-af1e-4758-8224-53bfcfa22c11
+2022-02-12	20:00	  	ALCN 	at	  	LAMAR	 	   	A	 	M	d1     	43c0e313-f7be-467d-b0d1-4bf808849c4c	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	abeb0027-6c91-4487-a4be-a46698ffda4f
+2022-02-12	21:00	  	DREX 	at	  	MONM 	 	   	A	 	M	d1     	5bdb61af-3a9c-475b-8724-82cb40339a51	9e74d368-e8a8-43fa-ade6-fd2c06c09660	3563f772-ab38-476d-a993-675615e3b922
+2022-02-12	21:00	  	PRST 	at	  	WASH 	 	   	A	 	M	d1     	6f7117af-11d9-4594-9116-fde01c7b2198	120192a9-3571-49b1-aec9-b9e7ece54af2	86f4ba7c-2267-4356-b657-6e4f5b19ed41
+2022-02-12	23:00	  	CHIC 	at	  	MSU  	 	   	A	 	M	d1     	8dd5dcd2-a830-4b06-95ce-15b3a4e1e55c	58f0b75c-c78a-4142-aa5d-4683c18e1164	cb844248-289d-459f-ae17-e63094450c98
+2022-02-12	17:00	  	WOF  	vs	  	EMM  	 	   	H	 	M	d1/d2  	67596492-ca8a-4a21-bfaf-6312c57bfd25	bf21aa5e-fb08-4278-8b7c-a389e0e03433	50a90f71-33a2-41e0-a86f-23fb825f49de
+2022-02-12	15:00	  	MTST 	vs	  	WHITM	 	   	H	 	M	d1/d3  	0e9c11b8-b7a0-4456-89cf-fa422075d587	1743a3e9-da9d-46b1-b717-ecbc502e05a9	4ad98ea7-b4b6-44a3-972c-9ee47f9ff596
+2022-02-12	19:30	  	UND  	vs	  	GUST 	 	   	H	 	M	d1/d3  	ad8fc18d-c5f9-442b-b17e-0981a7e5ae4c	de8454c7-a5f8-4492-a49f-e8134c3e32fa	7b2fe4be-6625-4d06-bfdb-1cedfb2da8a8
+2022-02-12	20:00	  	MTST 	vs	  	WHITW	 	   	H	 	M	d1/d3  	0e9c11b8-b7a0-4456-89cf-fa422075d587	ad583a8a-278c-4732-b22d-311a29a16574	12f07fd1-7c31-4681-b1bc-2e434aca3b9b
+2022-02-12	21:00	  	DUQ  	vs	  	CMU  	 	   	H	 	M	d1/d3  	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	8d265662-9c08-4660-a94c-8590d497a660	1b8b2ab2-2bd3-40d0-8058-8bb8a93a179c
+2022-02-12	 1:00	  	CRE  	at	  	KSWES	 	   	A	 	M	d1/naia	8f5d16e2-da67-430e-8211-e7131e57aee6	e9a354d5-5ac0-40de-943f-283a0b99a03e	19defcf1-5b90-412d-9a77-15202206d83e
+2022-02-12	22:00	  	IDAHO	at	  	LCIDA	 	   	A	 	M	d1/naia	6323c0ec-c161-4aec-be54-42c46fdc44ee	d3600078-ca5c-4882-9ba2-0b9d33599c11	fbab9094-afca-43a2-a738-90aac5b82f86
+2022-02-13	18:00	11	UCF  	at	 3	TEX  	 	   	A	 	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	e71bce99-4132-47ae-8006-5372d54ffda9	2bebc781-ef60-4811-9f5f-2829bbe32178
+2022-02-13	18:00	  	CLMB 	at	 4	TENN 	 	   	A	 	M	d1     	06f842c2-f8dd-4ccd-9abb-a4853dd2761f	4458bc13-c379-4847-b5cc-c752cdeb97bf	5ca49c62-2fb6-4a83-ad92-3c5fe6e8db81
+2022-02-13	18:00	 7	UVA  	at	 5	TCU  	 	   	A	 	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	96f36c2b-99a2-4795-9e32-84a32742fdee	9621ca8f-9b6f-4b51-8683-ef88f335b81d
+2022-02-13	19:00	  	DRAKE	at	24	OKLA 	 	   	A	 	M	d1     	f7a61dcf-6c2b-498d-ab59-d18796b65533	1c9c888b-631c-4c23-a1b3-c035f56249b4	26e13048-ec9b-4915-97c9-a56a75fac7b9
+2022-02-13	21:00	  	UCI  	at	25	UCLA 	 	   	A	 	M	d1     	e1b7b68b-58b9-4d19-9761-2e5bc89a816c	697a7501-5c60-4b68-9cdf-10f194e275e9	3ea4185b-0fe0-4fe8-b2eb-f5680cc91fac
+2022-02-13	 0:00	  	SFU  	at	  	NIA  	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	d7e4d000-c496-492b-85a0-a6b015c03760	30648dd3-976c-4f9f-959c-06b51227e4bc
+2022-02-13	15:00	  	A&MCC	at	  	SMU  	 	   	A	 	M	d1     	9dc67f17-e663-49ec-ab20-9d4d1f4de2bc	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	3439e3fb-2889-418d-856e-24673282007d
+2022-02-13	16:00	  	BU   	at	  	YALE 	 	   	A	 	M	d1     	eac0f132-159c-4ee5-ae24-b2754e56a83d	64305e8d-015d-473a-8b96-6949b90e1fa5	86576ab7-1905-4af8-8cf1-ff78d8aae2ad
+2022-02-13	17:00	  	BUFF 	at	  	FGCU 	 	   	A	 	M	d1     	329f8010-4943-4f10-a356-7f8f65459f19	09fa2def-947b-4629-b20b-c7df3f0f5669	557dc1f8-72f4-4089-b7e8-f1251faa80ef
+2022-02-13	17:00	  	NW   	at	  	ND   	 	   	A	 	M	d1     	f0f65ff6-3eab-4489-851d-855a9d36b5a4	804abb9d-ce89-4455-b47c-5b8b88d8443b	f52e0c01-ee5b-406c-8b6f-c3d2ca32a4f5
+2022-02-13	17:00	  	WEBER	at	  	AFA  	 	   	A	 	M	d1     	3d7d14f4-b808-4b04-95b5-0852733f5fd4	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	57d66c91-c311-4687-8096-24bcf16438ce
+2022-02-13	17:00	  	IWORD	at	  	UTSA 	 	   	A	 	M	d1     	5a6a5b42-06f4-4854-8dfa-622e48d22c71	b03a8dee-7b47-4eaf-91f8-87e112633989	dfd58c97-1c14-4f14-873f-107c2fc0a91d
+2022-02-13	17:00	  	WIS  	at	  	PENN 	 	   	A	 	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302	c677d54a-1490-4444-bdb7-7915eac29bff
+2022-02-13	17:00	  	DEL  	at	  	VCU  	 	   	A	 	M	d1     	7b7e3908-63d5-4531-b569-db402118d136	06471a92-4609-433c-bbb9-cd1cc8b44b31	8a8217a5-5f69-4cd7-a76e-fd4b31f17c04
+2022-02-13	18:00	  	PRES 	at	  	DAV  	 	   	A	 	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	89e5371a-c936-4f5b-94b6-55ddcc8009ce	6e2ab88f-24c4-4312-9002-4b3fb944ba78
+2022-02-13	18:00	  	BAMA 	at	  	TULSA	 	   	A	 	M	d1     	9b87115c-def8-48fb-a3d6-25887547fcbb	c45e9ee0-09e1-4acd-8fbc-056f21ba43ee	f75ab9b4-fcb2-4cf0-b076-dc5a3bb5ebec
+2022-02-13	18:00	  	VT   	at	  	VANDY	 	   	A	 	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	592aafc0-8320-4fb0-8161-842be0124a4d	cfc0d185-9426-4478-90f2-daa647a696e1
+2022-02-13	19:00	  	BOISE	at	  	UTAH 	 	   	A	 	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	9cccfb8b-a698-4716-adbf-2e117f3cc1e6
+2022-02-13	19:00	  	SDSU 	at	  	CPOLY	 	   	A	 	M	d1     	35c09d02-006a-4078-bff0-c2edf554545d	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	efa24982-bd4c-4707-91de-9b4724c3c730
+2022-02-13	19:00	  	GCU  	at	  	UNM  	 	   	A	 	M	d1     	9ee74ce3-1e1a-457d-8fe8-a52b5c63f17a	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	b4bb4f91-11b2-4b0a-a5f5-bf02175be9a6
+2022-02-13	20:00	  	UCSB 	at	  	USD  	 	   	A	 	M	d1     	911fc75e-825e-4361-8c2b-eb8d074c3293	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	45828016-cd23-4129-8869-49ff891bdaa0
+2022-02-13	20:00	  	WICH 	at	  	NEB  	 	   	A	 	M	d1     	59cd7fa7-ac23-49f3-aea1-6b0eb434d55e	df63a514-e637-4161-9cc6-351d66e2c018	220642fd-d5b9-4c5d-ae35-864b8272b659
+2022-02-13	21:00	  	NOVA 	at	  	MONM 	 	   	A	 	M	d1     	1d326b18-424c-4af5-b1c7-a3f8ab8adab6	9e74d368-e8a8-43fa-ade6-fd2c06c09660	b82e158b-beab-4f17-96b8-38336ffab485
+2022-02-13	21:00	  	MORG 	at	  	VCU  	 	   	A	 	M	d1     	0fc5fa3c-6215-46de-aff6-da3502d1a301	06471a92-4609-433c-bbb9-cd1cc8b44b31	c034fb3b-a9ed-4943-8731-a2efddcd3c92
+2022-02-13	22:00	  	CHIC 	at	  	ND   	 	   	A	 	M	d1     	8dd5dcd2-a830-4b06-95ce-15b3a4e1e55c	804abb9d-ce89-4455-b47c-5b8b88d8443b	debf927b-b4ba-4fab-8bf4-93768f91d065
+2022-02-13	22:00	  	CIT  	at	  	VANDY	 	   	A	 	M	d1     	bfef7e8c-0da8-42a8-ae69-11d28e53eab5	592aafc0-8320-4fb0-8161-842be0124a4d	28bff6be-8842-44f3-a19a-50418a4ac15e
+2022-02-13	 4:00	  	STET 	at	  	FAU  	 	   	A	 	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	94c921f4-008b-4e88-b2ea-bb61c878e795	a8146aea-9568-48fb-9c8f-6d57f91efd9e
+2022-02-13	 5:00	  	SFU  	at	  	SBU  	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	3ec0edd9-2076-4ef3-93f9-b00dd3138b57	0aa8a143-65d0-4af4-ad13-4f8c5e7e7a2e
+2022-02-13	16:00	  	MONT 	vs	  	WHITW	 	   	H	 	M	d1/d3  	562fbb01-5445-4962-8c24-ba692bfee723	ad583a8a-278c-4732-b22d-311a29a16574	168c3bae-a0a8-4b68-8a15-dbe0881bbb41
+2022-02-14	 0:00	  	NEV  	at	  	UTAH 	 	   	A	 	M	d1     	179fa123-e59a-42cf-bf94-f0ff91bca481	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	f78d9db5-bbd8-4bd5-b33a-b4dde4b4c2a8
+2022-02-15	20:00	  	A&MCC	at	  	UTRGV	 	   	A	 	M	d1     	9dc67f17-e663-49ec-ab20-9d4d1f4de2bc	9bd9be97-8ec4-442e-ba85-81b5182b6e96	39f0a1d4-369c-4492-a41e-b86d746758d0
+2022-02-15	19:30	  	WOF  	vs	  	NGC  	 	   	H	 	M	d1/d2  	67596492-ca8a-4a21-bfaf-6312c57bfd25	711925ae-4b00-49df-92ec-86074c249e0e	35891abb-e614-4da0-9444-31a51b52ce0c
+2022-02-15	20:00	  	CHIC 	vs	  	LEW  	 	   	H	 	M	d1/d2  	8dd5dcd2-a830-4b06-95ce-15b3a4e1e55c	28e954a4-0de0-4794-9274-bfa93d4e0041	b14b3897-b89b-4704-9984-26d560cda7e8
+2022-02-16	 0:00	  	PORT 	vs	 9	USC  	 	   	N	 	M	d1     	85ed0419-2cc6-4a5e-8266-4bc05cd114cd	a9bceb19-dac7-4b1a-8093-356440403f7b	e15d4805-4678-42f7-9d71-641ddf6d8af0
+2022-02-16	20:00	  	RAD  	at	  	JMU  	 	   	A	 	M	d1     	82af3de5-0bb0-4881-bc7b-f20c7c0e232d	de3fdef6-26af-455a-923a-50c877976d03	96af5aee-f349-49f5-871e-47f54ae9bd90
+2022-02-16	22:00	  	ODU  	at	  	W&M  	 	   	A	 	M	d1     	58a905af-7bde-4917-aaee-96c1c08a1e55	04a904aa-24a6-4c97-9ec3-a47c58f6811e	4dfec588-a1e1-4d02-98e9-bf8ce8138e9e
+2022-02-17	19:00	  	WICH 	at	  	DEN  	 	   	A	 	M	d1     	59cd7fa7-ac23-49f3-aea1-6b0eb434d55e	ea541053-cc64-4334-9bad-d032bac0a507	3a856538-43d8-4a2b-8047-ff364e824252
+2022-02-18	17:00	  	NAVY 	at	  	DEL  	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	7b7e3908-63d5-4531-b569-db402118d136	05356af1-5615-48d3-b721-1c9b9729ebbe
+2022-02-18	17:00	  	IWORD	at	  	UTRGV	 	   	A	 	M	d1     	5a6a5b42-06f4-4854-8dfa-622e48d22c71	9bd9be97-8ec4-442e-ba85-81b5182b6e96	6adbdfd6-e107-4966-a24f-a861b719c82e
+2022-02-18	18:00	  	UIC  	at	  	CRE  	 	   	A	 	M	d1     	a02d87f6-90ff-4327-bc08-b4575f51e03d	8f5d16e2-da67-430e-8211-e7131e57aee6	adcb9ed1-d404-46ab-8e19-ca481e676a6f
+2022-02-18	18:00	  	SFU  	at	  	DUQ  	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	d7ae507c-5525-448a-928f-8dbf7caa6fc1
+2022-02-18	18:00	  	NKU  	at	  	EIU  	 	   	A	 	M	d1     	2425ab7d-7429-4b4d-ab72-fd88c53d701c	916e07e3-f959-40be-8c70-de5e85a51eaa	38ca899e-645a-4d0a-8fe7-73e5032c4088
+2022-02-18	20:00	  	BEL  	at	  	VANDY	 	   	A	 	M	d1     	76977c1f-2b03-4274-be66-573c11dccfe4	592aafc0-8320-4fb0-8161-842be0124a4d	2f4bd42b-cc86-44db-a3b9-0acb7fea1b69
+2022-02-18	20:00	  	LAMAR	at	  	USM  	 	   	A	 	M	d1     	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	85417b02-464c-43b2-8300-1345accd9a19	321e6a9b-29cb-4fd8-ab9d-42a6beeabd2e
+2022-02-18	20:00	  	LOYM 	at	  	USD  	 	   	A	C	M	d1     	d5480368-b1c4-4a44-8918-b6f2a954538b	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	217e15f3-33af-4505-948c-1af2573fe656
+2022-02-18	21:00	  	MONM 	at	  	NJIT 	 	   	A	 	M	d1     	9e74d368-e8a8-43fa-ade6-fd2c06c09660	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	0460da05-539d-4d83-9e6b-24f085b3894f
+2022-02-18	22:00	  	BYU  	at	  	UNM  	 	   	A	 	M	d1     	53f1c9be-0b9c-49da-ab3c-832d384f56aa	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	17988aa1-d163-4eb5-8b51-eec27cc13f91
+2022-02-18	22:00	  	AFA  	vs	  	BRY  	 	   	N	 	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	791e25d1-b248-4d38-89ac-421004a9dc26	811301a3-f98d-48e4-a2d4-de68dc99b332
+2022-02-18	18:00	  	NAVY 	vs	  	FMNT 	 	   	H	 	M	d1/d2  	05616340-eaab-41a5-9dc7-137f06712c1a	62c9f048-444b-433a-9f36-6a2c68a1f8ba	e2c8393b-e361-4f03-9b92-2a12af342476
+2022-02-19	 0:00	  	VANDY	vs	  	TNST 	 	   	H	 	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	66bf58e4-a00f-4b55-bb0a-ebafbdc3083c	c8c11cde-ec3a-42ef-b2f0-0e2b2471450d
+2022-02-19	11:30	  	SCLAR	at	  	UCD  	 	   	A	 	M	d1     	12da963f-db09-4430-8238-0c5972bd0aae	d5605ec8-ca90-4ff2-9165-7caeaa90593d	eb54d168-9ef1-4d22-abc3-fac9dcfb071a
+2022-02-19	18:00	  	JOES 	at	  	BUCK 	 	   	A	 	M	d1     	4b0560a2-5de5-4807-9756-55d2e6814828	1f53a886-d9c1-4074-a93e-90383e6ceae0	23b61231-cfe7-426e-ac50-be53e2c31042
+2022-02-19	18:00	  	DRAKE	at	  	USU  	 	   	A	 	M	d1     	f7a61dcf-6c2b-498d-ab59-d18796b65533	ecb50842-dc98-4073-8259-44a1bad6604f	8efd8d19-8598-4bdf-ab56-7ab5c447b8a5
+2022-02-19	18:00	  	GASO 	at	  	STET 	 	   	A	 	M	d1     	3a3fd744-4b2c-43e6-ae80-4c43ccbf8c48	05c8a8b6-b11b-4cba-b77a-28390bead223	514370fa-9ead-4d1e-addb-c6078b10dbc0
+2022-02-19	18:00	  	IDAHO	at	  	GONZ 	 	   	A	 	M	d1     	6323c0ec-c161-4aec-be54-42c46fdc44ee	3c323468-362c-4b72-b754-fd7d9e0dc220	8ae0399e-c234-4112-b3c3-9078aa439eed
+2022-02-19	18:00	  	SCST 	at	  	WOF  	 	   	A	 	M	d1     	8f53692d-38bd-414b-a074-346ba08b3123	67596492-ca8a-4a21-bfaf-6312c57bfd25	0c470cf5-6a9c-4bc7-be95-63f6e0449388
+2022-02-19	18:30	  	JMU  	vs	  	NIU  	 	   	N	 	M	d1     	de3fdef6-26af-455a-923a-50c877976d03	e5b75f8b-62d1-4ed6-b40a-04f4a6459de9	825b1e91-70c5-4ee5-a3b6-3d028f923e6f
+2022-02-19	19:00	  	BYU  	at	  	UNM  	 	   	A	 	M	d1     	53f1c9be-0b9c-49da-ab3c-832d384f56aa	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	c93a34c2-8783-4690-af90-15bae86d39c4
+2022-02-19	22:00	  	CHIC 	at	  	CRE  	 	   	A	 	M	d1     	8dd5dcd2-a830-4b06-95ce-15b3a4e1e55c	8f5d16e2-da67-430e-8211-e7131e57aee6	e9e5a14b-7f59-493f-9706-e7636cae9c52
+2022-02-19	22:00	  	AFA  	vs	  	ARMY 	 	   	N	 	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	7a3fcbba-2ee8-4951-aea9-d76a0d6f9390	c3671c40-7333-444a-a20f-83814e6d58e8
+2022-02-19	17:00	  	COLG 	vs	  	LOC  	 	   	H	 	M	d1/d2  	2c41c78e-f6d3-4b46-a274-21bf9acfaae2	de3f4bcc-f081-4c8f-bc2d-5cf69e8c7d88	84d12fbf-a4b2-4ba2-be95-169c9727f7e8
+2022-02-19	19:00	  	PRES 	at	  	BAC  	 	   	A	 	M	d1/d2  	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	4f4d127c-878b-4a63-b993-06665c241e19	93127107-9bde-4487-a2e6-e9648e34a717
+2022-02-19	19:30	  	IDST 	vs	  	MESA 	 	   	H	 	M	d1/d2  	da33685c-db57-428e-8da8-8ff3c1523306	37e5b5ea-0ef9-490f-aeae-aa510b52d9cb	667fe595-43e1-42b6-b114-7f3b186f9a98
+2022-02-19	20:30	  	DEN  	vs	  	MSUD 	 	   	H	 	M	d1/d2  	ea541053-cc64-4334-9bad-d032bac0a507	66b70714-d038-4741-ae14-ac3ab2ede669	8948bab6-82d9-4c32-a1da-6e30124a0f2b
+2022-02-19	23:00	  	UCD  	vs	  	JES  	 	   	H	 	M	d1/naia	d5605ec8-ca90-4ff2-9165-7caeaa90593d	d09b7e52-ef73-47a2-8dbb-ce2fdbf6c09f	210963dc-a8ea-4935-a5ef-9bb108f27fcd
+2022-02-20	15:00	  	JMU  	at	  	YSU  	 	   	A	 	M	d1     	de3fdef6-26af-455a-923a-50c877976d03	9d17282b-42c2-4414-bfd8-4154c00fbff7	dadc76da-6e7e-496b-8892-40afc5c8b012
+2022-02-20	16:00	  	DRAKE	at	  	UTAH 	 	   	A	 	M	d1     	f7a61dcf-6c2b-498d-ab59-d18796b65533	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	0b210591-4ebb-4891-91ab-f6f3f728574c
+2022-02-20	16:00	  	SMU  	at	  	NEB  	 	   	A	 	M	d1     	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	df63a514-e637-4161-9cc6-351d66e2c018	213988c8-0857-43a5-8854-6c5351e6de1b
+2022-02-20	17:00	  	BING 	at	  	NJIT 	 	   	A	 	M	d1     	eb759aee-7fbe-4884-87c8-93d087bfcf3d	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	7133a46e-ef69-4e1a-b69a-78bae0eeb893
+2022-02-20	17:00	  	ODU  	at	  	LIB  	 	   	A	 	M	d1     	58a905af-7bde-4917-aaee-96c1c08a1e55	8227948e-4130-481f-bbdd-44e9614dd4b9	340a9b5c-356e-4912-b7a7-e61679ba239d
+2022-02-20	17:00	  	MTSU 	at	  	MSU  	 	   	A	 	M	d1     	c33f86fb-c98b-4fbc-83cc-95e2582a1215	58f0b75c-c78a-4142-aa5d-4683c18e1164	e19ec0f7-dd8c-4001-b89a-d4b217ab5df1
+2022-02-20	18:00	  	DRAKE	vs	  	MTST 	 	   	N	 	M	d1     	f7a61dcf-6c2b-498d-ab59-d18796b65533	0e9c11b8-b7a0-4456-89cf-fa422075d587	b862f11e-91b7-4a05-bf63-e159dcffecf1
+2022-02-20	18:00	  	NW   	at	  	VANDY	 	   	A	 	M	d1     	f0f65ff6-3eab-4489-851d-855a9d36b5a4	592aafc0-8320-4fb0-8161-842be0124a4d	f6d27b10-126c-4f02-9f5c-0b34e1c79983
+2022-02-20	18:00	  	NOVA 	at	  	NAVY 	 	   	A	 	M	d1     	1d326b18-424c-4af5-b1c7-a3f8ab8adab6	05616340-eaab-41a5-9dc7-137f06712c1a	304bd195-31d6-4f58-8ecf-96bfbbbb2aa6
+2022-02-20	18:00	  	VCU  	at	  	ARK  	 	   	A	 	M	d1     	06471a92-4609-433c-bbb9-cd1cc8b44b31	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	5fdac953-9ea2-400b-bf2c-37d587cc3531
+2022-02-20	19:00	  	NAU  	at	  	UNM  	 	   	A	 	M	d1     	2208dc75-3067-4e1f-9796-d4bc324ce9ad	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	6572513c-67fa-4f13-b42c-fed08df6033e
+2022-02-20	20:00	  	ORE  	at	  	USD  	 	   	A	 	M	d1     	83b5face-98d6-481c-969f-65c294b836e8	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	86932506-2be8-473f-9d1d-4508f1e4f800
+2022-02-20	21:30	  	SFU  	at	  	YSU  	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	9d17282b-42c2-4414-bfd8-4154c00fbff7	a72e9a5a-110d-4b10-98fa-dc84691b787e
+2022-02-20	22:00	  	BELL 	at	  	MSU  	 	   	A	 	M	d1     	822847fc-9ebf-4a65-8cce-3a9455652188	58f0b75c-c78a-4142-aa5d-4683c18e1164	8cfc8171-bf5b-4d5d-ae41-e1d1aeb04a74
+2022-02-20	22:00	  	VANDY	vs	  	TNST 	 	   	H	 	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	66bf58e4-a00f-4b55-bb0a-ebafbdc3083c	122a9e6c-7297-4669-985e-c9e3e62a61ae
+2022-02-20	 5:00	  	LAMAR	vs	  	UAB  	 	   	N	 	M	d1     	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	8bfea102-b1bc-437d-b717-6f5cee3d66b3	0d7ed450-0842-48ec-8bb5-d18a4fed9af2
+2022-02-20	16:30	  	WEBER	vs	  	MESA 	 	   	H	 	M	d1/d2  	3d7d14f4-b808-4b04-95b5-0852733f5fd4	37e5b5ea-0ef9-490f-aeae-aa510b52d9cb	0e749389-1535-4a6c-b2b0-92596c93ce7a
+2022-02-20	14:00	  	NAVY 	vs	  	FDUF 	 	   	H	 	M	d1/d3  	05616340-eaab-41a5-9dc7-137f06712c1a	59aea9f6-ccd2-4052-8e32-10bee3e8f309	91b31cfd-5d4b-4e29-b02f-f18ab09b90de
+2022-02-20	18:00	  	SEA  	at	  	GFOX 	 	   	A	 	M	d1/d3  	eba51fbd-1cba-4a05-a89b-33fa7a5d1bbe	e0dcd54a-554a-41dd-8e68-b786e67595dd	20514be2-0f7e-4e1b-8ce4-ae6deda926e2
+2022-02-21	 0:00	  	MTST 	at	  	UTAH 	 	   	A	 	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	80fa350d-660c-498e-b1e8-3b49edadb583
+2022-02-21	19:00	  	MSM  	at	  	HOW  	 	   	A	 	M	d1     	bc77be1f-40d8-42ae-beb3-5ac0f29d7716	3a34fd57-ed2c-40a8-932b-00ba5253c843	e7f19c86-5579-4602-a601-5f15a8d2b7a9
+2022-02-21	19:00	  	MTST 	at	  	USU  	 	   	A	 	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	ecb50842-dc98-4073-8259-44a1bad6604f	38a00e23-9335-4ffd-9280-fa518266d981
+2022-02-23	21:00	  	CPOLY	at	  	UNLV 	 	   	A	 	M	d1     	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	25354489-c31f-4294-88f6-b7f5a5dccc87	d5f5fb47-1bc2-4ee7-abb6-9d28dcbee9cd
+2022-02-24	17:00	  	LAMAR	at	  	IWORD	 	   	A	 	M	d1     	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	5a6a5b42-06f4-4854-8dfa-622e48d22c71	835bae32-aeed-4aa2-86d6-2c36e140fcda
+2022-02-24	19:00	  	RAD  	at	  	NCST 	 	   	A	 	M	d1     	82af3de5-0bb0-4881-bc7b-f20c7c0e232d	df9a8e27-9fa3-413b-9028-442efef29ffd	2f7d2be7-367b-4dd2-9246-5f5d7a4293d4
+2022-02-24	23:00	  	NCAT 	at	  	NCST 	 	   	A	 	M	d1     	6f328007-c2ec-4837-b3c3-0bda41806c8e	df9a8e27-9fa3-413b-9028-442efef29ffd	7dc6dddf-3e87-41e1-bf05-9b50f2d252fc
+2022-02-25	23:00	11	UCF  	at	 6	OSU  	 	   	A	 	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	207d4b1b-1e63-4e78-bb86-ddaf39559295	fd6a0521-debe-44ee-bad6-860e565abdca
+2022-02-25	23:00	  	VANDY	at	21	HARV 	 	   	A	 	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	9d7e8d65-7878-47e7-9f33-fcb748be886f	214eb42c-a773-4f64-9b29-23e64b9b184f
+2022-02-25	21:00	25	UCLA 	at	22	PEPP 	 	   	A	 	M	d1     	697a7501-5c60-4b68-9cdf-10f194e275e9	25d26c49-1008-4b55-8440-fc23552b5144	4c583c5b-c8f1-4802-8c0a-61a3106f097d
+2022-02-25	17:00	  	ALA&M	at	  	JVST 	 	   	A	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	3b004ff1-9778-41e0-916c-fd50361b9489	25c57f2f-5bc1-4482-8d90-8f9c9a580083
+2022-02-25	22:00	  	MTST 	at	  	UND  	 	   	A	 	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	ad8fc18d-c5f9-442b-b17e-0981a7e5ae4c	823e69fe-40f9-4a6e-9fd6-7833172f78cd
+2022-02-25	23:00	  	WMU  	at	  	DRAKE	 	   	A	 	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	f7a61dcf-6c2b-498d-ab59-d18796b65533	dc44d177-fde0-4460-99fb-6377c3c0682d
+2022-02-26	21:00	 9	USC  	at	22	PEPP 	 	   	A	 	M	d1     	a9bceb19-dac7-4b1a-8093-356440403f7b	25d26c49-1008-4b55-8440-fc23552b5144	8c1bc817-310a-4c4d-81c2-ce07b9cd19d0
+2022-02-26	 0:00	19	A&M  	at	24	OKLA 	 	   	A	 	M	d1     	702d4d29-6636-4f06-a35c-f22e3953ae0c	1c9c888b-631c-4c23-a1b3-c035f56249b4	f9553c7b-01f1-4ea9-8d3c-ac94e4822d6a
+2022-02-26	 1:00	  	WIS  	at	  	ORE  	 	   	A	 	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	83b5face-98d6-481c-969f-65c294b836e8	4fd174b3-1e34-45fb-8b00-35627330e6a2
+2022-02-26	15:00	  	MORG 	at	  	NAVY 	 	   	A	 	M	d1     	0fc5fa3c-6215-46de-aff6-da3502d1a301	05616340-eaab-41a5-9dc7-137f06712c1a	ca4c0412-52a0-448a-9823-74d86279e2a0
+2022-02-26	16:00	  	FGCU 	at	  	MER  	 	   	A	 	M	d1     	09fa2def-947b-4629-b20b-c7df3f0f5669	83007027-7d20-42e6-a72e-3389c48e74c1	be645af2-7da3-4c66-83b0-3452b21af267
+2022-02-26	17:00	  	LIB  	at	  	MIA  	 	   	A	 	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	f3bfc7c5-86d6-4af3-9377-c84209a35968	4dc763b4-bb98-40d5-a2ab-3870551dbd8b
+2022-02-26	17:00	  	UTRGV	at	  	OKST 	 	   	A	 	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	ce99ed51-d0dc-468b-810c-e084f0b8edcd	12c9ef9c-e58e-4b27-8276-a309c4ce6825
+2022-02-26	17:00	  	WICH 	vs	  	WMU  	 	   	N	 	M	d1     	59cd7fa7-ac23-49f3-aea1-6b0eb434d55e	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	b91d49da-4bea-4284-b89c-d141740bcadf
+2022-02-26	18:00	  	MSU  	at	  	BALL 	 	   	A	 	M	d1     	58f0b75c-c78a-4142-aa5d-4683c18e1164	76487a7a-de11-448c-bed1-006f9b605564	c4330e63-a251-4a83-b93a-bbb1f6958181
+2022-02-26	18:00	  	BROWN	at	  	RICH 	 	   	A	 	M	d1     	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	9db9fc0d-3e90-4735-8780-ba55fb808c97	1e116b54-9ae6-4bc3-a865-352703b70336
+2022-02-26	18:00	  	CoC  	at	  	WOF  	 	   	A	 	M	d1     	5a824920-fdbc-4379-b89a-f39a69f4f2b1	67596492-ca8a-4a21-bfaf-6312c57bfd25	780a5046-5dbe-4820-a80b-2cdcc924582d
+2022-02-26	18:00	  	JMU  	at	  	W&M  	 	   	A	 	M	d1     	de3fdef6-26af-455a-923a-50c877976d03	04a904aa-24a6-4c97-9ec3-a47c58f6811e	829bbb76-8044-4c8a-8f6f-8d3092c37d86
+2022-02-26	18:00	  	FUR  	at	  	ODU  	 	   	A	 	M	d1     	227ef7d0-2d9a-4698-bed1-45933908a82a	58a905af-7bde-4917-aaee-96c1c08a1e55	d62a2ae0-4182-41b1-8a6c-621213691cf5
+2022-02-26	18:00	  	LOY  	at	  	HOW  	 	   	A	 	M	d1     	8852f3b3-fbb2-4d3a-a274-9852282508c7	3a34fd57-ed2c-40a8-932b-00ba5253c843	60aa96eb-6449-46dc-97f9-231d13f95d7a
+2022-02-26	18:00	  	LU   	at	  	HOW  	 	   	A	 	M	d1     	c1d8fe55-db12-4865-8d8b-5a212d7ca16f	3a34fd57-ed2c-40a8-932b-00ba5253c843	911d50da-6e1d-497b-9a4a-df2a8553901a
+2022-02-26	18:00	  	JOES 	at	  	NJIT 	 	   	A	 	M	d1     	4b0560a2-5de5-4807-9756-55d2e6814828	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	16d72fac-0355-4c6f-91f2-b5e9a8c96c5d
+2022-02-26	19:00	  	SFU  	at	  	BUCK 	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	1f53a886-d9c1-4074-a93e-90383e6ceae0	8dee09e4-bcca-4e22-aa73-97fdc849956d
+2022-02-26	19:00	  	GMU  	at	  	NAVY 	 	   	A	 	M	d1     	dc6c3807-278e-4207-8406-e84a46dea6de	05616340-eaab-41a5-9dc7-137f06712c1a	82e4515c-762f-4e60-850b-ad2dbc225292
+2022-02-26	19:00	  	SCLAR	at	  	UNLV 	 	   	A	 	M	d1     	12da963f-db09-4430-8238-0c5972bd0aae	25354489-c31f-4294-88f6-b7f5a5dccc87	a025a371-e7f8-4892-84a0-55a9ef81f943
+2022-02-26	19:00	  	UTA  	at	  	UTSA 	 	   	A	 	M	d1     	d533d822-d9aa-4949-bb5c-776bec1cf749	b03a8dee-7b47-4eaf-91f8-87e112633989	b45d06ec-f72e-42c9-aa32-622ddd881d44
+2022-02-26	21:00	  	NKU  	at	  	DUQ  	 	   	A	 	M	d1     	2425ab7d-7429-4b4d-ab72-fd88c53d701c	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	e6d92898-adae-45ee-b900-a7670f832a74
+2022-02-26	21:00	  	MTST 	vs	  	OMAHA	 	   	N	 	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	cc9a8522-d6da-4077-9673-5ad6d4e08638	b9ba8919-7e1a-46f7-bfad-a107bc12a558
+2022-02-26	21:30	  	ARMY 	at	  	CAL  	 	   	A	 	M	d1     	7a3fcbba-2ee8-4951-aea9-d76a0d6f9390	821d45ba-9b76-4bc5-8f40-68dfaee763a5	b4ddbc69-cea1-4895-b8de-bf4e5592ebde
+2022-02-26	 5:00	  	ETSU 	at	  	UAB  	 	   	A	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	8bfea102-b1bc-437d-b717-6f5cee3d66b3	7fc1b703-9226-480c-ae66-462075830af4
+2022-02-26	 8:00	  	GONZ 	at	  	SDSU 	 	   	A	 	M	d1     	3c323468-362c-4b72-b754-fd7d9e0dc220	35c09d02-006a-4078-bff0-c2edf554545d	1180868c-4871-41ea-8f07-f90790c82090
+2022-02-26	 0:00	  	MONT 	at	  	GFOX 	 	   	A	 	M	d1/d3  	562fbb01-5445-4962-8c24-ba692bfee723	e0dcd54a-554a-41dd-8e68-b786e67595dd	ab21bad5-b901-4318-aa82-3655eba00479
+2022-02-26	23:00	  	IDAHO	vs	  	WHITM	 	   	H	 	M	d1/d3  	6323c0ec-c161-4aec-be54-42c46fdc44ee	1743a3e9-da9d-46b1-b717-ecbc502e05a9	45cfc0b3-e564-4e13-aa8b-c12c5d5e86d4
+2022-02-26	23:00	  	CLEV 	vs	  	LTECH	 	   	H	 	M	d1/naia	c77b519d-0e04-4a9e-bae6-44e8229e52e6	628bee3b-a5ac-4401-9d3a-4c18a4babcd4	6c0ce98a-a3b8-44a0-9dcb-7e9791843c20
+2022-02-27	19:00	 2	BAY  	at	24	OKLA 	 	   	A	 	M	d1     	c98c90ae-39d9-4a59-a427-6f7414841709	1c9c888b-631c-4c23-a1b3-c035f56249b4	56f87811-e1eb-4792-af42-86a0b40bc35e
+2022-02-27	17:00	 6	OSU  	at	  	ND   	 	   	A	 	M	d1     	207d4b1b-1e63-4e78-bb86-ddaf39559295	804abb9d-ce89-4455-b47c-5b8b88d8443b	8c354518-ade1-4199-985c-c839a7a18edc
+2022-02-27	19:00	11	UCF  	at	  	ARK  	 	   	A	 	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	ae00200b-cdae-4be1-a811-e7e9e6d4d7dc
+2022-02-27	19:00	  	SMU  	at	19	A&M  	 	   	A	 	M	d1     	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	702d4d29-6636-4f06-a35c-f22e3953ae0c	5b573b2b-f715-4f0b-93ad-2e5545150d0b
+2022-02-27	18:00	  	NW   	at	21	HARV 	 	   	A	 	M	d1     	f0f65ff6-3eab-4489-851d-855a9d36b5a4	9d7e8d65-7878-47e7-9f33-fcb748be886f	6ffa7d40-f814-4f37-b0e4-140dc7c8de88
+2022-02-27	 0:00	  	MONM 	at	  	TEM  	 	   	A	 	M	d1     	9e74d368-e8a8-43fa-ade6-fd2c06c09660	9206c498-1f17-4a78-ac21-42ca7319faa9	72372b9a-c441-4571-879a-7b5e46e65736
+2022-02-27	 0:00	  	WEBER	at	  	UTAH 	 	   	A	 	M	d1     	3d7d14f4-b808-4b04-95b5-0852733f5fd4	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	667a7c1d-fbb0-4052-8b93-7144692e8b74
+2022-02-27	15:00	  	COR  	vs	  	VANDY	 	   	N	 	M	d1     	479ca8ce-37c4-4f3e-9b97-b59da1625496	592aafc0-8320-4fb0-8161-842be0124a4d	c7d85a62-f142-4c40-b6eb-4e47eed2f21e
+2022-02-27	15:00	  	SFU  	at	  	LEH  	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	2ff66ecb-960e-4991-9b1e-00a2bf43760b	653cbbc3-12cd-4a8e-a658-b143f008a4c7
+2022-02-27	16:00	  	BROWN	at	  	W&M  	 	   	A	 	M	d1     	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	04a904aa-24a6-4c97-9ec3-a47c58f6811e	5616efe1-6793-44cc-a958-f32f68d1f79e
+2022-02-27	16:00	  	FGCU 	at	  	GAST 	 	   	A	 	M	d1     	09fa2def-947b-4629-b20b-c7df3f0f5669	7c56399b-6bf2-4dcd-96dc-6eca8afe09b0	dffe3f2f-9652-4b71-b6fc-023245042cf4
+2022-02-27	16:00	  	SFC  	at	  	NJIT 	 	   	A	 	M	d1     	fdfbfde3-2780-4e58-8be2-f6ba1e84c60e	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	1673c0cd-03d8-4f3e-90b2-25bbb7ed1311
+2022-02-27	16:00	  	VT   	at	  	ODU  	 	   	A	 	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	58a905af-7bde-4917-aaee-96c1c08a1e55	75d05ea4-74f0-4da7-a6c1-4a3015ac4e7e
+2022-02-27	17:00	  	BC   	at	  	NCST 	 	   	A	C	M	d1     	fc92b93f-2d30-4b64-be6b-7cfd8126222d	df9a8e27-9fa3-413b-9028-442efef29ffd	14f52928-a007-49db-90a4-892c4b9dd145
+2022-02-27	17:00	  	PRES 	at	  	CHAT 	 	   	A	 	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	797d7406-7b39-468a-89ae-147b676855b0	f5bed492-9dc5-499f-8e52-2f6db1f80380
+2022-02-27	17:00	  	WIS  	at	  	WASH 	 	   	A	 	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	120192a9-3571-49b1-aec9-b9e7ece54af2	d194cecb-eb16-466d-b183-fea658807a76
+2022-02-27	18:00	  	NAVY 	at	  	DUQ  	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	01ea9d29-b9e6-4c78-838e-8affc21aece0
+2022-02-27	18:00	  	NORF 	at	  	LOY  	 	   	A	 	M	d1     	cd2dad89-8a53-4e6b-8e7f-c69e8c2a77a1	8852f3b3-fbb2-4d3a-a274-9852282508c7	4e79ba3b-7809-4e72-828f-c069ce70d2fc
+2022-02-27	19:00	  	UCI  	at	  	SCLAR	 	   	A	 	M	d1     	e1b7b68b-58b9-4d19-9761-2e5bc89a816c	12da963f-db09-4430-8238-0c5972bd0aae	0698bd8b-3f8c-4c4a-97da-149fbeee5903
+2022-02-27	20:00	  	NAVY 	at	  	FORD 	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	833d05eb-0bc8-4444-99b5-36d23037d74d	3a005ac4-fc1a-4c93-9e67-a7a86f1c68dc
+2022-02-27	20:00	  	GONZ 	at	  	USD  	 	   	A	C	M	d1     	3c323468-362c-4b72-b754-fd7d9e0dc220	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	3b026644-a127-4afa-a7e7-f12d82fd6949
+2022-02-27	21:00	  	ELON 	at	  	NCST 	 	   	A	 	M	d1     	eec765ae-0eac-40f4-a2b6-749afede93fe	df9a8e27-9fa3-413b-9028-442efef29ffd	242e3aa0-c691-4c33-a677-3b13bd95530b
+2022-02-27	 5:00	  	ETSU 	at	  	SAM  	 	   	A	C	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	15a64e5f-aa11-4935-afce-b43f84e45cdc	90f6bfa6-4296-406e-8732-30a05f83d787
+2022-02-27	15:00	  	SBU  	vs	  	MERCY	 	   	H	 	M	d1/d2  	3ec0edd9-2076-4ef3-93f9-b00dd3138b57	360c604f-525f-4fcc-a286-35becd3b511d	32dbb7cd-cc21-4ba5-a62d-b4350523cb59
+2022-02-28	21:30	  	UNLV 	at	  	CAL  	 	   	A	 	M	d1     	25354489-c31f-4294-88f6-b7f5a5dccc87	821d45ba-9b76-4bc5-8f40-68dfaee763a5	eea23a96-8ad7-446e-8ba0-024b3e5efd98
+2022-03-01	19:30	 3	TEX  	at	 8	UGA  	 	   	A	 	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	f81b9e62-3331-41dc-9a41-365b04b4da5f	215b9f34-9d09-40f6-953e-9213366ecad1
+2022-03-01	18:00	  	FUR  	at	 4	TENN 	 	   	A	 	M	d1     	227ef7d0-2d9a-4698-bed1-45933908a82a	4458bc13-c379-4847-b5cc-c752cdeb97bf	a5dbf68b-3e96-451d-b2b9-966eb53962d0
+2022-03-01	21:30	25	UCLA 	at	 9	USC  	 	   	A	 	M	d1     	697a7501-5c60-4b68-9cdf-10f194e275e9	a9bceb19-dac7-4b1a-8093-356440403f7b	f3d56cd0-00aa-4f4b-b80f-07a0d39edcd9
+2022-03-01	20:00	13	SCAR 	at	  	NCST 	 	   	A	 	M	d1     	1a7ceae0-50e2-4311-84a4-ff857da8fb42	df9a8e27-9fa3-413b-9028-442efef29ffd	04c4b8b4-70d8-4838-a612-96ac907f8916
+2022-03-01	18:00	  	SFC  	vs	  	MERCY	 	   	H	 	M	d1/d2  	fdfbfde3-2780-4e58-8be2-f6ba1e84c60e	360c604f-525f-4fcc-a286-35becd3b511d	f2d5f9ac-7e9d-4d55-8030-09a29d20676b
+2022-03-01	19:00	  	SFU  	vs	  	MERCY	 	   	H	 	M	d1/d2  	bd8d7b73-91a3-45a1-9166-f678da686816	360c604f-525f-4fcc-a286-35becd3b511d	e69a2e60-7628-48a8-8e7d-776d90212030
+2022-03-02	19:00	17	MICH 	at	 5	TCU  	 	   	A	 	M	d1     	36d44c05-1bb6-4b49-a2d1-b2f00e27821e	96f36c2b-99a2-4795-9e32-84a32742fdee	7689d614-87ec-4046-8103-fb6c4dc45a51
+2022-03-02	20:00	  	FDU  	at	  	NJIT 	 	   	A	 	M	d1     	b8de056f-ba02-4033-b442-d92dfabda437	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	ca521776-ef14-4b0a-8bb7-61a16939112f
+2022-03-02	20:00	  	A&MCC	at	  	UTSA 	 	   	A	 	M	d1     	9dc67f17-e663-49ec-ab20-9d4d1f4de2bc	b03a8dee-7b47-4eaf-91f8-87e112633989	2125d446-75aa-4fc6-832c-0b55dbdfccc2
+2022-03-03	18:00	  	SMU  	vs	  	UNLV 	 	   	N	 	M	d1     	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	25354489-c31f-4294-88f6-b7f5a5dccc87	0b743858-71be-49db-8cc0-a2c1f7d7788f
+2022-03-04	22:00	13	SCAR 	at	 1	FLA  	 	   	A	C	M	d1     	1a7ceae0-50e2-4311-84a4-ff857da8fb42	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	2ca3ef7d-c846-40c0-a142-ce94ea39dc6d
+2022-03-04	21:00	 4	TENN 	at	20	MSST 	 	   	A	C	M	d1     	4458bc13-c379-4847-b5cc-c752cdeb97bf	815cd16b-2fd1-48ae-8a26-348a4631fbe3	ec07257f-366c-4dac-9585-b13faf4b9517
+2022-03-04	20:00	 7	UVA  	at	  	DUKE 	 	   	A	C	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	4b118544-8956-46b9-b4fb-6bf1ee2998e9	0f8be5f7-6649-4a22-8282-b583c5489d45
+2022-03-04	20:00	 8	UGA  	at	  	VANDY	 	   	A	C	M	d1     	f81b9e62-3331-41dc-9a41-365b04b4da5f	592aafc0-8320-4fb0-8161-842be0124a4d	e140e2d7-8efc-488f-ae2f-9fef5066b229
+2022-03-04	18:00	  	FGCU 	at	11	UCF  	 	   	A	 	M	d1     	09fa2def-947b-4629-b20b-c7df3f0f5669	554755e6-c18c-4936-9cae-3e20507dbbe5	ad018d02-8c99-49e3-b3f5-59097bdd6356
+2022-03-04	23:00	  	BAMA 	at	12	UK   	 	   	A	C	M	d1     	9b87115c-def8-48fb-a3d6-25887547fcbb	6b435f63-1b41-4988-b46b-964b883547c5	625310c8-d6e2-4b3d-8e1e-70f6e456a3c5
+2022-03-04	20:00	  	VT   	at	14	UNC  	 	   	A	C	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	8544d2ac-773a-409d-b22e-6af0ee807c63	0ee33197-5228-4eb4-b287-e4e26c652807
+2022-03-04	16:00	  	MTST 	at	  	BOISE	 	   	A	 	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	60678f32-a44d-4006-96d9-f745d2b5e785	d88bf0aa-198b-4d62-85c7-d6d120936d4e
+2022-03-04	19:00	  	RICH 	at	  	JMU  	 	   	A	 	M	d1     	9db9fc0d-3e90-4735-8780-ba55fb808c97	de3fdef6-26af-455a-923a-50c877976d03	bda019e7-3c97-4c79-9707-c629c6129596
+2022-03-04	19:00	  	LIB  	at	  	CHAR 	 	   	A	 	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	e4edd8f3-3396-4b0e-ad73-271bae2a061e	4c64bd05-d921-4ce5-9fa4-3d2b072988c7
+2022-03-04	19:30	  	WOF  	at	  	ETSU 	 	   	A	C	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	7d084cdf-ec82-4f40-99de-75524f7c1268	ba2495e9-4fc9-4b9e-ac42-fd74b0c48577
+2022-03-04	19:30	  	PRES 	at	  	GWEBB	 	   	A	C	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	6f6164dc-ce2a-4008-9e0d-65f8cf093470	362f2fcf-681a-488d-bdfe-479beca4e2b1
+2022-03-04	21:00	  	GT   	at	  	ND   	 	   	A	C	M	d1     	8f398642-3995-428a-84be-ce55c55bc5fd	804abb9d-ce89-4455-b47c-5b8b88d8443b	1b0f99ba-a2a4-4ee1-a2b4-a6405850a94c
+2022-03-04	23:00	  	OKST 	vs	  	OMAHA	 	   	H	 	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	cc9a8522-d6da-4077-9673-5ad6d4e08638	c1e354e0-7c3f-4635-9c35-a3b1c0c1dfa7
+2022-03-04	 5:00	  	NCST 	at	  	FSU  	 	   	A	C	M	d1     	df9a8e27-9fa3-413b-9028-442efef29ffd	9c25db90-c2f2-438d-b418-1e31df40e351	a35c1763-033e-43b1-a58d-d0b5f77cc8ed
+2022-03-04	19:00	  	BEL  	vs	  	CUMBD	L	0-0	H	 	M	d1/naia	76977c1f-2b03-4274-be66-573c11dccfe4	65841adf-6685-4c4b-a742-390ee525df57	dae26fe9-1c15-484d-8e9c-0bd81b374d8f
+2022-03-05	 0:00	 2	BAY  	at	  	UIC  	 	   	A	 	M	d1     	c98c90ae-39d9-4a59-a427-6f7414841709	a02d87f6-90ff-4327-bc08-b4575f51e03d	371cfe28-63d1-4c26-bb63-c6b2f2805fdb
+2022-03-05	22:00	17	MICH 	at	11	UCF  	 	   	A	 	M	d1     	36d44c05-1bb6-4b49-a2d1-b2f00e27821e	554755e6-c18c-4936-9cae-3e20507dbbe5	36a19b3b-1509-4bf5-befb-a3a075f0e6db
+2022-03-05	 0:00	24	OKLA 	at	15	ARIZ 	 	   	A	 	M	d1     	1c9c888b-631c-4c23-a1b3-c035f56249b4	ab3f5fab-38c0-4eb7-980a-1dc1cce5e928	0c9a3343-e504-4c2a-9b94-34168848eb03
+2022-03-05	 0:00	  	SFU  	at	  	NKU  	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	2425ab7d-7429-4b4d-ab72-fd88c53d701c	93d7363c-2dd4-435a-886d-9922f84c048a
+2022-03-05	15:00	  	MARQ 	at	  	MSU  	 	   	A	 	M	d1     	4d9be433-3ce7-4ac6-9f75-a0000272ee4c	58f0b75c-c78a-4142-aa5d-4683c18e1164	5c74d911-6246-4a19-9311-cb73ccbb5f3b
+2022-03-05	15:30	  	TEM  	at	  	PRIN 	 	   	A	 	M	d1     	9206c498-1f17-4a78-ac21-42ca7319faa9	b39276ed-a8c8-4fa3-98a9-f915107798e7	a421475a-7423-48bb-9da1-9cdb57f3cc8c
+2022-03-05	16:00	  	MTST 	vs	  	PAC  	 	   	N	 	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	0bf79a9f-4f88-450b-baff-46a4cabb32c9	18d57231-c082-4f7e-9931-75f5b2553a97
+2022-03-05	17:00	  	UTSA 	at	  	ABCHR	 	   	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	8a699b87-0ce9-4ba4-802f-20cc4be4b314	fc406e6e-ba55-4e5f-add6-88c5a9e262e1
+2022-03-05	17:00	  	NICH 	at	  	LAMAR	 	   	A	 	M	d1     	40aee1b8-0379-46f0-a5d4-a51a8b7eeae8	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	0c41b315-3c75-4089-a6c8-e05709423a2b
+2022-03-05	17:00	  	NAVY 	at	  	NJIT 	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	2c8e6794-987c-4fc2-887c-00ac432cfddf
+2022-03-05	17:00	  	NAVY 	at	  	NJIT 	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	5da07d17-2e3e-4f8e-a4fb-010371bba983
+2022-03-05	18:00	  	BRY  	at	  	YALE 	 	   	A	 	M	d1     	791e25d1-b248-4d38-89ac-421004a9dc26	64305e8d-015d-473a-8b96-6949b90e1fa5	7073246b-8e5e-4a84-b391-11f99abdd760
+2022-03-05	18:00	  	DREX 	at	  	NAVY 	 	   	A	 	M	d1     	5bdb61af-3a9c-475b-8724-82cb40339a51	05616340-eaab-41a5-9dc7-137f06712c1a	c514b9dd-0040-41a6-beec-af8c32e3f4f6
+2022-03-05	18:00	  	WMU  	at	  	WIS  	 	   	A	 	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	fc9d957f-6ab8-45ed-8406-f4459ff0d001
+2022-03-05	19:00	  	ALA&M	at	  	UAB  	 	   	A	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	8bfea102-b1bc-437d-b717-6f5cee3d66b3	e4abf332-d367-4943-8e5f-6adc4a4dac70
+2022-03-05	19:00	  	ETSU 	at	  	UNCA 	 	   	A	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	8025d0af-4520-4d93-9b9e-238075f9e756	de053e03-85c9-4f86-9f1e-20bad3493779
+2022-03-05	20:00	  	BYU  	at	  	CPOLY	 	   	A	 	M	d1     	53f1c9be-0b9c-49da-ab3c-832d384f56aa	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	58c6947a-71c9-4dd5-8dcb-1aee503b53a4
+2022-03-05	20:30	  	SFU  	at	  	XAV  	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	8038a51b-cc37-457a-a38a-08026081653e	1433c99b-e7e5-4283-aef8-9fd6fcf6bd98
+2022-03-05	21:00	  	BUTL 	at	  	MSU  	 	   	A	 	M	d1     	f45eb031-245d-4b02-836a-293e7ceb3318	58f0b75c-c78a-4142-aa5d-4683c18e1164	13479bcd-9f74-4017-a504-9d830634560f
+2022-03-05	21:00	  	SCLAR	at	  	UCSB 	 	   	A	 	M	d1     	12da963f-db09-4430-8238-0c5972bd0aae	911fc75e-825e-4361-8c2b-eb8d074c3293	350ff8e4-6e67-4f3a-98cf-33c59390f645
+2022-03-05	21:00	  	SMU  	at	  	USD  	 	   	A	 	M	d1     	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	0454d944-6768-4e74-aae5-20b61352e426
+2022-03-05	22:00	  	SJU  	at	  	FGCU 	 	   	A	 	M	d1     	c7ca88a5-8ac0-4476-9af9-c93d9c2dd777	09fa2def-947b-4629-b20b-c7df3f0f5669	2029e35d-f91b-473c-bb80-32de883f035b
+2022-03-05	23:00	  	IDST 	at	  	BOISE	 	   	A	 	M	d1     	da33685c-db57-428e-8da8-8ff3c1523306	60678f32-a44d-4006-96d9-f745d2b5e785	f183e067-ebcb-44c8-a8ce-9b29d017263c
+2022-03-06	18:00	 1	FLA  	at	12	UK   	 	   	A	C	M	d1     	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	6b435f63-1b41-4988-b46b-964b883547c5	9c7abbee-a4fb-4063-b06e-0e0df9cfffde
+2022-03-06	19:00	 4	TENN 	at	18	MISS 	 	   	A	C	M	d1     	4458bc13-c379-4847-b5cc-c752cdeb97bf	50878027-90b4-4884-b6f6-af89c0ca04d9	0a3baab8-6c84-4436-9176-df613717650b
+2022-03-06	19:00	 4	TENN 	at	18	MISS 	 	   	A	C	M	d1     	4458bc13-c379-4847-b5cc-c752cdeb97bf	50878027-90b4-4884-b6f6-af89c0ca04d9	8e057a9d-5fb3-4427-a0e1-67676c4f9505
+2022-03-06	18:00	 7	UVA  	at	14	UNC  	 	   	A	C	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	8544d2ac-773a-409d-b22e-6af0ee807c63	201668e9-67c2-43c4-b730-a2c61ef35a6f
+2022-03-06	18:00	  	LSU  	at	13	SCAR 	 	   	A	C	M	d1     	ee4edb63-ebba-41bc-b47c-3380f94d02a7	1a7ceae0-50e2-4311-84a4-ff857da8fb42	cccc5237-80c1-484b-a8fe-fe725cfa9627
+2022-03-06	20:00	24	OKLA 	at	  	AZST 	 	   	A	 	M	d1     	1c9c888b-631c-4c23-a1b3-c035f56249b4	80cfa0c6-e529-4b50-83cd-14c3845501ae	7d621ac3-df49-491d-9599-c31f04052c1d
+2022-03-06	14:00	  	SFU  	at	  	DAY  	 	   	A	 	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	9e412a6f-09f8-48ea-b983-560e9b99d993	3e29d0d6-c1b1-4570-906c-8e7d8f4e8f30
+2022-03-06	16:00	  	UTSA 	at	  	TTU  	 	   	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	8169af92-629d-4274-964f-efa6320d0b9e	93b59227-1c20-479a-8625-b2b2d0d5403c
+2022-03-06	17:00	  	CLEM 	at	  	ND   	 	   	A	C	M	d1     	24f244b6-deb6-4fab-80fd-7ac5227f4832	804abb9d-ce89-4455-b47c-5b8b88d8443b	ea1b3381-4d57-4de9-98d3-20dd8dd52df0
+2022-03-06	17:00	  	LIB  	at	  	GAST 	 	   	A	 	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	7c56399b-6bf2-4dcd-96dc-6eca8afe09b0	f5f2aa63-9b7a-466f-895d-297f25181217
+2022-03-06	17:00	  	MER  	at	  	PRES 	 	   	A	 	M	d1     	83007027-7d20-42e6-a72e-3389c48e74c1	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	30b3c7d3-837a-498f-9eca-d06e640eeb8d
+2022-03-06	18:00	  	PAC  	at	  	BOISE	 	   	A	 	M	d1     	0bf79a9f-4f88-450b-baff-46a4cabb32c9	60678f32-a44d-4006-96d9-f745d2b5e785	fa694632-089f-4d4b-8cf1-facff2b71cac
+2022-03-06	19:00	  	VT   	at	  	DUKE 	 	   	A	C	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	4b118544-8956-46b9-b4fb-6bf1ee2998e9	16fa80f8-3a4f-4d9c-ae9f-be1aeaef86e9
+2022-03-06	19:00	  	ELON 	at	  	WOF  	 	   	A	 	M	d1     	eec765ae-0eac-40f4-a2b6-749afede93fe	67596492-ca8a-4a21-bfaf-6312c57bfd25	e6365ac7-bb8d-4191-a937-9be88c33494b
+2022-03-06	19:00	  	MTSU 	at	  	OKST 	 	   	A	 	M	d1     	c33f86fb-c98b-4fbc-83cc-95e2582a1215	ce99ed51-d0dc-468b-810c-e084f0b8edcd	a4f2fb88-a3ad-45eb-9c7b-e31922becb7a
+2022-03-06	19:00	  	VANDY	at	  	ARK  	 	   	A	C	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	a5b395d7-8a9f-403b-b5ca-8a777a5f8e97
+2022-03-06	21:00	  	FAU  	vs	  	SCLAR	 	   	N	 	M	d1     	94c921f4-008b-4e88-b2ea-bb61c878e795	12da963f-db09-4430-8238-0c5972bd0aae	7c0ccc95-fe80-4311-b213-5bd99e2930e8
+2022-03-06	21:00	  	DEL  	at	  	MONM 	 	   	A	 	M	d1     	7b7e3908-63d5-4531-b569-db402118d136	9e74d368-e8a8-43fa-ade6-fd2c06c09660	2b34af66-c563-4413-9108-dae599b62c21
+2022-03-06	22:00	  	NJIT 	at	  	MAR  	 	   	A	 	M	d1     	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	1ff57268-96de-446b-bc40-ae0d4c962388	f90748b1-3a9f-44d2-aa59-69f97ddfd86c
+2022-03-06	22:00	  	UIC  	at	  	ND   	 	   	A	 	M	d1     	a02d87f6-90ff-4327-bc08-b4575f51e03d	804abb9d-ce89-4455-b47c-5b8b88d8443b	75d51559-074d-47c2-af35-1e34398d3a61
+2022-03-06	 5:00	  	NCST 	at	  	MIA  	 	   	A	C	M	d1     	df9a8e27-9fa3-413b-9028-442efef29ffd	f3bfc7c5-86d6-4af3-9377-c84209a35968	abbec6ef-10d1-4458-a3e3-ff049f4f8184
+2022-03-06	16:00	  	ARMY 	at	  	LYNN 	 	   	A	 	M	d1/d2  	7a3fcbba-2ee8-4951-aea9-d76a0d6f9390	a54ead09-5f96-4899-9b5c-bdf5d53ce7a7	b22be5a8-63ad-4781-b69d-266581b5b049
+2022-03-06	 0:00	  	NOVA 	vs	  	CMS  	 	   	N	 	M	d1/d3  	1d326b18-424c-4af5-b1c7-a3f8ab8adab6	2c1e0011-48e4-4b73-ba97-0e0f32792d17	3c010a45-152e-434a-bc9d-38c8080eff56
+2022-03-06	21:30	  	PRES 	vs	  	MONTR	 	   	H	 	M	d1/naia	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	b3207187-966f-4cd9-950b-aaa9c29c68e6	695b0ad8-0bfc-4e2e-a8a2-a5bb94c72649
+2022-03-07	20:00	25	UCLA 	at	  	USD  	 	   	A	 	M	d1     	697a7501-5c60-4b68-9cdf-10f194e275e9	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	981992d0-e63b-4157-99e3-c43f8e0d9821
+2022-03-07	17:00	  	CRE  	vs	  	XAV  	 	   	N	C	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	8038a51b-cc37-457a-a38a-08026081653e	f0a8babf-6cd7-43bc-b326-0eca9eaba335
+2022-03-08	17:00	  	BUTL 	vs	  	CRE  	 	   	N	C	M	d1     	f45eb031-245d-4b02-836a-293e7ceb3318	8f5d16e2-da67-430e-8211-e7131e57aee6	887014d7-2b6b-4d50-aead-f6c8be58c2f5
+2022-03-08	19:00	  	USU  	at	  	LOYM 	 	   	A	 	M	d1     	ecb50842-dc98-4073-8259-44a1bad6604f	d5480368-b1c4-4a44-8918-b6f2a954538b	cd59b54c-47bd-4c78-8686-c59714e258ef
+2022-03-08	 5:00	  	HOW  	at	  	GTWN 	 	   	A	 	M	d1     	3a34fd57-ed2c-40a8-932b-00ba5253c843	ce967c2c-2cf7-4456-8e81-c94a82136e06	38fe95db-0dcc-4315-9fdd-57db10a9a31d
+2022-03-08	18:00	  	NCAT 	vs	  	ANDSC	 	   	N	 	M	d1/d2  	6f328007-c2ec-4837-b3c3-0bda41806c8e	6da366ab-cbc2-40de-9ae8-35471fea540c	8614c254-d82b-4364-b514-cb29b7e757df
+2022-03-08	17:00	  	DUQ  	at	  	STHOM	 	   	A	 	M	d1/naia	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	0fb5ae1d-3ecd-4769-bf98-553833fee4ea	b115c2ca-823c-417d-ab16-9acccda9be60
+2022-03-09	17:00	  	CRE  	vs	  	SHU  	 	   	N	 	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	420446c8-df50-4290-a204-29ca7bbde631	877af440-6de4-4f4a-bef8-8a68c0e9bfc2
+2022-03-09	18:00	  	USU  	at	  	UCR  	 	   	A	 	M	d1     	ecb50842-dc98-4073-8259-44a1bad6604f	e398ab66-d246-4ba9-96bd-89a7db4f1181	bad6ac59-c5e0-40ba-94da-3e2669f64879
+2022-03-09	20:00	  	FAU  	at	  	USD  	 	   	A	 	M	d1     	94c921f4-008b-4e88-b2ea-bb61c878e795	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	1ad6f341-bace-4c5d-a6cb-36cbb61db2ba
+2022-03-09	21:00	  	RAD  	at	  	STET 	 	   	A	 	M	d1     	82af3de5-0bb0-4881-bc7b-f20c7c0e232d	05c8a8b6-b11b-4cba-b77a-28390bead223	7d76e7cc-06c3-44dd-9fa3-091b4add0135
+2022-03-09	22:00	  	FUR  	at	  	FGCU 	 	   	A	 	M	d1     	227ef7d0-2d9a-4698-bed1-45933908a82a	09fa2def-947b-4629-b20b-c7df3f0f5669	52866701-12fb-4a98-99c8-4d6701bc0ae9
+2022-03-09	22:30	  	MONM 	at	  	YALE 	 	   	A	 	M	d1     	9e74d368-e8a8-43fa-ade6-fd2c06c09660	64305e8d-015d-473a-8b96-6949b90e1fa5	acf28e08-ed43-4786-9f73-c95b62d09aa9
+2022-03-10	 1:00	 2	BAY  	at	  	AZST 	 	   	A	 	M	d1     	c98c90ae-39d9-4a59-a427-6f7414841709	80cfa0c6-e529-4b50-83cd-14c3845501ae	9b2f93ed-cec0-4212-8fd0-997fe7e9d345
+2022-03-10	 0:00	 3	TEX  	at	19	A&M  	 	   	A	 	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	702d4d29-6636-4f06-a35c-f22e3953ae0c	a205b9cf-3c8d-424f-917c-5a0d3be72ce6
+2022-03-10	21:00	 5	TCU  	at	25	UCLA 	 	   	A	 	M	d1     	96f36c2b-99a2-4795-9e32-84a32742fdee	697a7501-5c60-4b68-9cdf-10f194e275e9	c5bfa300-5db6-41f5-be3e-d4692542d533
+2022-03-10	 5:00	  	NCST 	at	10	WAKE 	 	   	A	C	M	d1     	df9a8e27-9fa3-413b-9028-442efef29ffd	0a89a4fe-5bf5-4e60-8708-989d07766f35	9010c062-b77c-4b4b-b717-9fded83c90e1
+2022-03-10	18:00	  	KENN 	at	  	ODU  	 	   	A	 	M	d1     	2a3e1088-184b-4a4f-b220-da2b4f1de0e6	58a905af-7bde-4917-aaee-96c1c08a1e55	ebc1789f-8d30-44c8-a5a0-04d7acdd3346
+2022-03-10	19:00	  	A&MCC	at	  	LAMAR	 	   	A	 	M	d1     	9dc67f17-e663-49ec-ab20-9d4d1f4de2bc	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	f6256022-4a07-4e5b-a586-cd804ceffb94
+2022-03-10	20:00	  	ALA&M	vs	  	MVSU 	 	   	N	C	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	72156573-7d31-4e36-8a37-e53e890d391c	c262fec8-d379-4ef7-802c-ce6b62ed307b
+2022-03-10	17:00	  	CRE  	vs	  	NCWES	 	   	N	 	M	d1/d3  	8f5d16e2-da67-430e-8211-e7131e57aee6	937d5342-65a5-408d-ae53-e7b492d45ed4	97fb8966-c2bb-472c-a795-4fe169f56b14
+2022-03-10	18:00	  	SHU  	vs	  	CWRU 	 	   	N	 	M	d1/d3  	420446c8-df50-4290-a204-29ca7bbde631	962eecc8-c817-4374-92d5-c043742ef7b3	4acfe0e2-ac74-4c8a-8fa1-8d9c47189d1e
+2022-03-11	20:30	 1	FLA  	at	 8	UGA  	 	   	A	C	M	d1     	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	f81b9e62-3331-41dc-9a41-365b04b4da5f	d70d743b-7b5c-44de-90b8-ad606e85597a
+2022-03-11	22:00	13	SCAR 	at	 4	TENN 	 	   	A	C	M	d1     	1a7ceae0-50e2-4311-84a4-ff857da8fb42	4458bc13-c379-4847-b5cc-c752cdeb97bf	c24fc6d1-03be-4242-ad2f-4f07466eebb0
+2022-03-11	20:00	  	ND   	at	 7	UVA  	 	   	A	C	M	d1     	804abb9d-ce89-4455-b47c-5b8b88d8443b	ea538604-050f-4d44-9f6b-7cfaef251022	5c604ff3-1bef-4fa0-a0ef-a878e4c4266c
+2022-03-11	16:00	  	UNF  	at	11	UCF  	 	   	A	 	M	d1     	b153fad2-fdf8-4697-a1c4-632576465463	554755e6-c18c-4936-9cae-3e20507dbbe5	2bf9a4fa-2527-43ad-856f-ca3734c2a0fa
+2022-03-11	22:00	  	STET 	at	11	UCF  	 	   	A	 	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	554755e6-c18c-4936-9cae-3e20507dbbe5	35e7986e-1eb9-49ad-b1a3-314dabb237f2
+2022-03-11	21:00	  	UTAH 	at	16	STAN 	 	   	A	C	M	d1     	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	28e9c099-0f9e-4c8e-b8a6-374479b1c04e	983f7cd1-4256-4588-aabd-a707ce11d586
+2022-03-11	17:00	  	LAMAR	at	19	A&M  	 	   	A	 	M	d1     	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	702d4d29-6636-4f06-a35c-f22e3953ae0c	7480dd55-4538-47c9-8893-06cde372a348
+2022-03-11	15:00	  	MTST 	at	  	PORT 	 	   	A	 	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	85ed0419-2cc6-4a5e-8266-4bc05cd114cd	eefd4c38-3f78-422d-bec8-54f63e706816
+2022-03-11	19:00	  	BALL 	at	  	WMU  	 	   	A	C	M	d1     	76487a7a-de11-448c-bed1-006f9b605564	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	ef53864d-6dd8-4e80-9a06-7906bc338eec
+2022-03-11	19:00	  	LOU  	at	  	VT   	 	   	A	C	M	d1     	c9ca8b99-867b-4c0f-a57e-3445ef22d5a6	326c560b-3bb3-4be7-ba93-35e5c67470fd	3d5a1c59-d470-48cf-9366-7649d6d30b37
+2022-03-11	20:00	  	AFA  	at	  	UCSD 	 	   	A	 	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	0ca38170-ba7c-42c1-b26b-bdbebf9cd4af	cc3f4bbc-5b11-4c6f-8851-6723922eff95
+2022-03-11	22:00	  	UTRGV	at	  	ULLAF	 	   	A	 	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	b17ab4d3-c010-46c9-9e92-6d3c6e043da6	9a3b9dd4-a789-479b-b5d9-438c604cf055
+2022-03-11	23:00	  	OKST 	at	  	SMU  	 	   	A	 	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	1f0b9730-9420-40c1-aed5-45f5f0028a71
+2022-03-11	23:00	  	OKST 	at	  	SMU  	 	   	A	 	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	c45bc7e7-b9dc-4ec0-ae87-fa1ffb5abc7d
+2022-03-11	23:00	  	SCLAR	at	  	CAL  	 	   	A	 	M	d1     	12da963f-db09-4430-8238-0c5972bd0aae	821d45ba-9b76-4bc5-8f40-68dfaee763a5	8138a183-b65c-4417-913d-f6c3b3c54a4b
+2022-03-11	 5:00	  	DEN  	at	  	BOISE	 	   	A	 	M	d1     	ea541053-cc64-4334-9bad-d032bac0a507	60678f32-a44d-4006-96d9-f745d2b5e785	543a5853-6a8a-46a8-a11b-2b6e66f18328
+2022-03-11	 5:00	  	LIP  	at	  	ETSU 	 	   	A	 	M	d1     	a2baf051-4021-4f55-af9c-b2f4adae0076	7d084cdf-ec82-4f40-99de-75524f7c1268	bba4972b-930f-41bd-8271-c7ebca1188ac
+2022-03-11	17:00	  	DUQ  	at	  	PBAU 	 	   	A	 	M	d1/d2  	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	aa1ce668-c14e-41ab-966d-dfc79708f4e6	d3b6e131-e1e8-4a34-9d54-1355dfd5a33f
+2022-03-12	21:00	 2	BAY  	at	15	ARIZ 	 	   	A	 	M	d1     	c98c90ae-39d9-4a59-a427-6f7414841709	ab3f5fab-38c0-4eb7-980a-1dc1cce5e928	ec1b7dfa-2518-47f1-877c-3edfb156979f
+2022-03-12	18:00	 6	OSU  	at	 3	TEX  	 	   	A	 	M	d1     	207d4b1b-1e63-4e78-bb86-ddaf39559295	e71bce99-4132-47ae-8006-5372d54ffda9	45b8db94-fff4-4702-9dab-ae9b7ae619cc
+2022-03-12	 0:00	18	MISS 	at	  	BAMA 	 	   	A	C	M	d1     	50878027-90b4-4884-b6f6-af89c0ca04d9	9b87115c-def8-48fb-a3d6-25887547fcbb	de8d61fa-4c2f-4847-b02b-af4db7aca94d
+2022-03-12	 0:00	  	VANDY	at	19	A&M  	 	   	A	C	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	702d4d29-6636-4f06-a35c-f22e3953ae0c	870bcda5-26c9-4363-8b70-4348cc38bea5
+2022-03-12	 0:00	  	DAY  	at	  	NKU  	 	   	A	 	M	d1     	9e412a6f-09f8-48ea-b983-560e9b99d993	2425ab7d-7429-4b4d-ab72-fd88c53d701c	ef22488b-4fba-4d1d-a142-4ac8fd0791ab
+2022-03-12	15:00	  	ALA&M	vs	  	PVA&M	 	   	N	C	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	0f2d3577-681d-46e4-994f-3637fbb28aa5	2a342746-4557-4733-82da-9a3a67d64093
+2022-03-12	15:00	  	TEM  	at	  	NAVY 	 	   	A	 	M	d1     	9206c498-1f17-4a78-ac21-42ca7319faa9	05616340-eaab-41a5-9dc7-137f06712c1a	4ba91f95-68e3-4d5c-83d8-44e8946dcef2
+2022-03-12	16:00	  	MTST 	at	  	PRST 	 	   	A	C	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	6f7117af-11d9-4594-9116-fde01c7b2198	cf4d5d36-2abd-419c-b51f-b11c1432014a
+2022-03-12	17:00	  	VCU  	at	  	CHAT 	 	   	A	 	M	d1     	06471a92-4609-433c-bbb9-cd1cc8b44b31	797d7406-7b39-468a-89ae-147b676855b0	134f0ce6-cf79-4b7e-ba80-d46c701b931b
+2022-03-12	18:00	  	DEL  	at	  	YALE 	 	   	A	 	M	d1     	7b7e3908-63d5-4531-b569-db402118d136	64305e8d-015d-473a-8b96-6949b90e1fa5	1a79e32b-d10a-4d3f-b236-62174e442b18
+2022-03-12	19:00	  	BU   	vs	  	UNM  	 	   	N	 	M	d1     	eac0f132-159c-4ee5-ae24-b2754e56a83d	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	3d93ad79-e2dd-4b54-a93c-f8de706574c5
+2022-03-12	19:00	  	NAVY 	at	  	W&M  	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	04a904aa-24a6-4c97-9ec3-a47c58f6811e	1894f7b1-7605-4bee-8e32-2a3334826d36
+2022-03-12	19:00	  	PRES 	at	  	HAMP 	 	   	A	C	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	59e59f69-d1d0-4921-ac48-614d7b00b910	4d12b559-4fd2-4e24-93a6-24128f79efb8
+2022-03-12	19:00	  	CHAR 	at	  	UTSA 	 	   	A	 	M	d1     	e4edd8f3-3396-4b0e-ad73-271bae2a061e	b03a8dee-7b47-4eaf-91f8-87e112633989	e0ba4219-3e0f-42bf-89e1-a380644c51c0
+2022-03-12	20:00	  	USU  	at	  	CPOLY	 	   	A	 	M	d1     	ecb50842-dc98-4073-8259-44a1bad6604f	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	e8081ba6-6c2a-42c4-8f20-d25d290f1c3f
+2022-03-12	20:00	  	NICH 	vs	  	UTRGV	 	   	N	 	M	d1     	40aee1b8-0379-46f0-a5d4-a51a8b7eeae8	9bd9be97-8ec4-442e-ba85-81b5182b6e96	9094d343-4188-400e-944f-25e2d3cbed8e
+2022-03-12	22:00	  	MEM  	at	  	FGCU 	 	   	A	 	M	d1     	2c645dc8-b625-479e-8cb3-cdcd76cf90ca	09fa2def-947b-4629-b20b-c7df3f0f5669	e29a6fef-b944-4454-bd11-4cd4f3e7a8d3
+2022-03-12	 6:00	  	NEB  	at	  	COR  	 	   	A	 	M	d1     	df63a514-e637-4161-9cc6-351d66e2c018	479ca8ce-37c4-4f3e-9b97-b59da1625496	8cd2c2a7-bdeb-4048-928e-25b1554cab13
+2022-03-12	 8:00	  	PENN 	at	  	SDSU 	 	   	A	 	M	d1     	9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302	35c09d02-006a-4078-bff0-c2edf554545d	06fe7715-1345-436b-b548-a32e1ff525e4
+2022-03-12	19:00	  	JMU  	at	  	QUC  	 	   	A	 	M	d1/d2  	de3fdef6-26af-455a-923a-50c877976d03	0cdd94a1-39fe-44ae-a9bc-cdb1a87d6f32	afdc4d72-4989-4f84-a73b-b01d07ed1a6b
+2022-03-12	20:00	  	NKU  	vs	  	WUSTL	 	   	H	 	M	d1/d3  	2425ab7d-7429-4b4d-ab72-fd88c53d701c	fa5d4fca-f538-4c67-9718-4d91756e45b2	efa8dac1-ef45-4921-9914-3f5723950a32
+2022-03-13	17:00	 1	FLA  	at	 4	TENN 	 	   	A	C	M	d1     	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	4458bc13-c379-4847-b5cc-c752cdeb97bf	3688c57e-3cee-4868-a989-4a4aa8496a84
+2022-03-13	17:00	  	LOU  	at	 7	UVA  	 	   	A	C	M	d1     	c9ca8b99-867b-4c0f-a57e-3445ef22d5a6	ea538604-050f-4d44-9f6b-7cfaef251022	46b3b272-7ca9-4274-8ac5-f5593bb7903f
+2022-03-13	18:00	24	OKLA 	at	  	TULSA	 	   	A	 	M	d1     	1c9c888b-631c-4c23-a1b3-c035f56249b4	c45e9ee0-09e1-4acd-8fbc-056f21ba43ee	c72c3af7-446f-4d7c-b558-838ffcc1855b
+2022-03-13	14:00	  	ALA&M	vs	  	ALCN 	 	   	N	C	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	43c0e313-f7be-467d-b0d1-4bf808849c4c	a3c2f4d1-9d4a-4c3a-95dc-259bdc714de4
+2022-03-13	14:00	  	NAVY 	at	  	ODU  	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	58a905af-7bde-4917-aaee-96c1c08a1e55	b961cf42-0197-4dc8-9e2d-858cf45deea3
+2022-03-13	15:00	  	UTA  	at	  	LAMAR	 	   	A	 	M	d1     	d533d822-d9aa-4949-bb5c-776bec1cf749	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	71e788d1-6697-4f4c-9648-61a74e97e9f8
+2022-03-13	16:00	  	TEM  	at	  	W&M  	 	   	A	 	M	d1     	9206c498-1f17-4a78-ac21-42ca7319faa9	04a904aa-24a6-4c97-9ec3-a47c58f6811e	601561d0-7ccc-4efa-9973-a793c0d0af17
+2022-03-13	16:00	  	AFA  	at	  	SDSU 	 	   	A	C	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	35c09d02-006a-4078-bff0-c2edf554545d	b8bcc4a8-9fcc-4e88-9cea-28f4a807abd9
+2022-03-13	16:00	  	ND   	at	  	VT   	 	   	A	C	M	d1     	804abb9d-ce89-4455-b47c-5b8b88d8443b	326c560b-3bb3-4be7-ba93-35e5c67470fd	b671549c-aaf2-4121-a088-ac2409cc800b
+2022-03-13	17:00	  	GWEBB	at	  	ETSU 	 	   	A	 	M	d1     	6f6164dc-ce2a-4008-9e0d-65f8cf093470	7d084cdf-ec82-4f40-99de-75524f7c1268	7b6d687c-ed27-4ec8-a61f-c0abbad86755
+2022-03-13	17:00	  	SMU  	at	  	UTSA 	 	   	A	 	M	d1     	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	b03a8dee-7b47-4eaf-91f8-87e112633989	2c217845-2ffd-460f-8a0e-de568e06391c
+2022-03-13	17:00	  	STET 	vs	  	OMAHA	 	   	H	 	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	cc9a8522-d6da-4077-9673-5ad6d4e08638	71a9efdf-3f2b-46c6-85bd-d8a247d1a77a
+2022-03-13	18:00	  	BAMA 	at	  	AUB  	 	   	A	C	M	d1     	9b87115c-def8-48fb-a3d6-25887547fcbb	dc80d974-5c75-47d8-a3a3-6361ea0c1c7c	3c642c96-952f-4eb7-ad52-cc10d6ba689e
+2022-03-13	18:00	  	LOYM 	at	  	BOISE	 	   	A	 	M	d1     	d5480368-b1c4-4a44-8918-b6f2a954538b	60678f32-a44d-4006-96d9-f745d2b5e785	f0f650d7-950e-4f57-a75f-46fcb4b484bd
+2022-03-13	18:00	  	PRES 	at	  	NCAT 	 	   	A	C	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	6f328007-c2ec-4837-b3c3-0bda41806c8e	664fe3cd-63ed-41a3-8c0a-b15dc17ae365
+2022-03-13	18:00	  	TOL  	at	  	WMU  	 	   	A	C	M	d1     	43f36f5b-2163-450e-878e-9971da0dbf52	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	cdc6e6de-b8c0-4efd-8665-7f617bbf84a5
+2022-03-13	20:30	  	UTAH 	at	  	CAL  	 	   	A	C	M	d1     	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	821d45ba-9b76-4bc5-8f40-68dfaee763a5	9efe56e9-c68e-4b28-9062-92cf54ccfef1
+2022-03-13	21:00	  	MTST 	at	  	ORE  	 	   	A	 	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	83b5face-98d6-481c-969f-65c294b836e8	09efe259-cc4e-4d92-8b61-d75192ad9a68
+2022-03-13	 5:00	  	WOF  	at	  	MER  	 	   	A	C	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	83007027-7d20-42e6-a72e-3389c48e74c1	c02d017a-466b-4646-a31b-7040931ae494
+2022-03-13	16:00	  	LOY  	vs	  	CHC  	 	   	H	 	M	d1/d2  	8852f3b3-fbb2-4d3a-a274-9852282508c7	2dcd5609-978e-4584-9df1-9d6641e0ebe3	d64d101d-6b5b-4236-949d-6bf06d5c0a4c
+2022-03-13	17:00	  	NAVY 	vs	  	UDC  	 	   	H	 	M	d1/d2  	05616340-eaab-41a5-9dc7-137f06712c1a	bfbc2ac2-1680-481c-8f22-de95de060d94	f621fc28-8cb5-4715-bd5d-6838eaaf9f17
+2022-03-14	18:00	  	CIT  	vs	  	JMU  	 	   	N	 	M	d1     	bfef7e8c-0da8-42a8-ae69-11d28e53eab5	de3fdef6-26af-455a-923a-50c877976d03	bb183f1b-3c15-40a7-98e0-aecce691d80a
+2022-03-15	16:00	21	HARV 	vs	  	WIS  	 	   	N	 	M	d1     	9d7e8d65-7878-47e7-9f33-fcb748be886f	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	e931bf70-409c-440e-9f05-b3abdf94f1b9
+2022-03-15	17:00	  	NJIT 	at	  	UTRGV	 	   	A	 	M	d1     	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	9bd9be97-8ec4-442e-ba85-81b5182b6e96	8cc38138-16db-45e8-bb36-b0a13dc3571e
+2022-03-15	19:00	  	JMU  	at	  	DAV  	 	   	A	 	M	d1     	de3fdef6-26af-455a-923a-50c877976d03	89e5371a-c936-4f5b-94b6-55ddcc8009ce	2ef3fe9c-d306-494e-9f0e-bf8240b2ff49
+2022-03-15	18:00	  	BUCK 	at	  	LYNN 	 	   	A	 	M	d1/d2  	1f53a886-d9c1-4074-a93e-90383e6ceae0	a54ead09-5f96-4899-9b5c-bdf5d53ce7a7	00e00154-58f1-4e0d-9bf4-0b0e155d6115
+2022-03-16	21:00	23	ILL  	at	 1	FLA  	 	   	A	 	M	d1     	a9d92d42-3f88-4848-9408-52d767937662	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	cc306bd7-2f39-45c6-bfa8-a184c041ecfa
+2022-03-16	 0:00	 3	TEX  	at	 9	USC  	 	   	A	 	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	a9bceb19-dac7-4b1a-8093-356440403f7b	6289d080-3cf0-4f7e-92a1-a8e0b228f7cd
+2022-03-16	22:00	  	NEB  	at	11	UCF  	 	   	A	 	M	d1     	df63a514-e637-4161-9cc6-351d66e2c018	554755e6-c18c-4936-9cae-3e20507dbbe5	1fc2a4c1-f893-472b-bb15-ac4ee692dcb8
+2022-03-16	16:00	  	NJIT 	at	  	A&MCC	 	   	A	C	M	d1     	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	9dc67f17-e663-49ec-ab20-9d4d1f4de2bc	d82da4fa-ad8b-4f86-8a94-1cf5d85ae748
+2022-03-16	17:00	  	RICE 	at	  	ODU  	 	   	A	 	M	d1     	31894235-e994-4660-a773-50d353f245b0	58a905af-7bde-4917-aaee-96c1c08a1e55	69d5049f-3ef1-421d-86d8-2127dc0613b0
+2022-03-16	18:00	  	YALE 	at	  	SCLAR	 	   	A	 	M	d1     	64305e8d-015d-473a-8b96-6949b90e1fa5	12da963f-db09-4430-8238-0c5972bd0aae	628d7bc2-622a-4e2a-a675-cd2b461d3531
+2022-03-16	18:30	  	FAIR 	at	  	WOF  	 	   	A	 	M	d1     	0a9b327d-9b24-43f0-a8cb-35c533702d53	67596492-ca8a-4a21-bfaf-6312c57bfd25	22c635a4-0586-4d3d-80e4-c5534fa552be
+2022-03-16	 5:00	  	ETSU 	at	  	UNCW 	 	   	A	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	ec283ff7-abfb-4d78-afd2-75d104bd8415	82102361-ba54-46e1-96bc-46ed21f48ec4
+2022-03-16	16:00	  	DUQ  	vs	  	ASH  	 	   	H	 	M	d1/d2  	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	14326cfd-ae10-4a52-a1ec-59e7ddbf6cc4	45d78567-ef5e-4800-bb99-cf2bdcf332d9
+2022-03-17	16:00	21	HARV 	at	22	PEPP 	 	   	A	 	M	d1     	9d7e8d65-7878-47e7-9f33-fcb748be886f	25d26c49-1008-4b55-8440-fc23552b5144	fabcefcf-3cbe-44e1-a2ca-9c783e590a67
+2022-03-17	 0:00	  	PUR  	at	  	CAL  	 	   	A	 	M	d1     	a543fdbb-635e-49f3-9db7-131479ee826e	821d45ba-9b76-4bc5-8f40-68dfaee763a5	dfa46e37-434f-42c0-9d02-262cd61e4074
+2022-03-17	16:00	  	HOW  	vs	  	NCCU 	 	   	N	C	M	d1     	3a34fd57-ed2c-40a8-932b-00ba5253c843	5ff79fbd-f23d-48e3-9b9f-0c027ce00929	a6d01cd5-215f-43b4-a505-a59c3a642e91
+2022-03-17	17:00	  	UTSA 	at	  	FAU  	 	   	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	94c921f4-008b-4e88-b2ea-bb61c878e795	50a78917-6198-4ea7-bfa8-dc5c2970332a
+2022-03-17	18:00	  	JMU  	at	  	CoC  	 	   	A	 	M	d1     	de3fdef6-26af-455a-923a-50c877976d03	5a824920-fdbc-4379-b89a-f39a69f4f2b1	95460f7f-d88f-417a-9483-a41600d0fbac
+2022-03-17	18:00	  	DEL  	at	  	TEM  	 	   	A	 	M	d1     	7b7e3908-63d5-4531-b569-db402118d136	9206c498-1f17-4a78-ac21-42ca7319faa9	577712f3-1fe6-42a7-88e4-cd7926c176c2
+2022-03-17	21:00	  	WIS  	at	  	USD  	 	   	A	 	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	5eb49712-9024-401b-b255-78a73059036a
+2022-03-18	21:00	18	MISS 	at	 1	FLA  	 	   	A	C	M	d1     	50878027-90b4-4884-b6f6-af89c0ca04d9	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	6421b17e-afb4-4daa-b11b-335b8c9c91dd
+2022-03-18	21:00	 3	TEX  	at	22	PEPP 	 	   	A	 	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	25d26c49-1008-4b55-8440-fc23552b5144	3d7e8f82-6a30-4c3a-9dbd-5769193c47fb
+2022-03-18	19:00	 7	UVA  	at	  	GT   	 	   	A	C	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	8f398642-3995-428a-84be-ce55c55bc5fd	ff5d2aed-87aa-4e63-98ba-e7672f859f6c
+2022-03-18	21:00	23	ILL  	at	11	UCF  	 	   	A	 	M	d1     	a9d92d42-3f88-4848-9408-52d767937662	554755e6-c18c-4936-9cae-3e20507dbbe5	aa742b17-c467-4634-8fd3-886766ef3574
+2022-03-18	20:00	20	MSST 	at	13	SCAR 	 	   	A	C	M	d1     	815cd16b-2fd1-48ae-8a26-348a4631fbe3	1a7ceae0-50e2-4311-84a4-ff857da8fb42	0829648c-9d92-4c5f-8f1d-8e4772323c5c
+2022-03-18	22:00	15	ARIZ 	at	25	UCLA 	 	   	A	C	M	d1     	ab3f5fab-38c0-4eb7-980a-1dc1cce5e928	697a7501-5c60-4b68-9cdf-10f194e275e9	383cd69f-201b-4d56-a3db-8c8655de8f3a
+2022-03-18	14:00	  	LAMAR	vs	  	SEA  	 	   	N	C	M	d1     	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	eba51fbd-1cba-4a05-a89b-33fa7a5d1bbe	4c657dde-b23b-450b-9578-14f961a2c9b5
+2022-03-18	16:00	  	CLEV 	vs	  	UTSA 	 	   	N	 	M	d1     	c77b519d-0e04-4a9e-bae6-44e8229e52e6	b03a8dee-7b47-4eaf-91f8-87e112633989	4c30df8b-99e1-4872-86fb-4828a1ee6f4e
+2022-03-18	16:00	  	HOW  	vs	  	NORF 	 	   	N	C	M	d1     	3a34fd57-ed2c-40a8-932b-00ba5253c843	cd2dad89-8a53-4e6b-8e7f-c69e8c2a77a1	1d47b05f-3091-48d3-8ebd-44782a793d67
+2022-03-18	16:00	  	MTST 	at	  	IDST 	 	   	A	C	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	da33685c-db57-428e-8da8-8ff3c1523306	351fdac2-d56e-4423-b7ac-96ef1d32037c
+2022-03-18	16:00	  	XAV  	at	  	MSU  	 	   	A	 	M	d1     	8038a51b-cc37-457a-a38a-08026081653e	58f0b75c-c78a-4142-aa5d-4683c18e1164	b859c98c-d780-4651-a20f-bb8244dc2650
+2022-03-18	17:00	  	VT   	at	  	CLEM 	 	   	A	C	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	24f244b6-deb6-4fab-80fd-7ac5227f4832	b9dd23f6-ef22-46a9-9a67-6ac9f19d47a5
+2022-03-18	17:00	  	NJIT 	at	  	IWORD	 	   	A	C	M	d1     	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	5a6a5b42-06f4-4854-8dfa-622e48d22c71	4264dd5f-6811-4a5f-8f93-3dd9e681ab1a
+2022-03-18	17:00	  	WMU  	at	  	BUFF 	 	   	A	C	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	329f8010-4943-4f10-a356-7f8f65459f19	034a8682-7333-47bf-a7ad-f3f7cb0f3021
+2022-03-18	18:00	  	JMU  	at	  	CAMP 	 	   	A	 	M	d1     	de3fdef6-26af-455a-923a-50c877976d03	815e2c01-7a93-46c1-a48e-822e6738739b	650c8035-c0d8-4735-9f05-66a337b52c05
+2022-03-18	18:00	  	PRES 	at	  	CCAR 	 	   	A	 	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	78dfd3d6-b65e-4e47-ba15-11e8419181ee	7dd3fabf-f0dd-4a72-b9e7-dd620b76c31f
+2022-03-18	18:00	  	LSU  	at	  	VANDY	 	   	A	C	M	d1     	ee4edb63-ebba-41bc-b47c-3380f94d02a7	592aafc0-8320-4fb0-8161-842be0124a4d	d2010f25-68af-406c-8c6f-ceae3c2611ae
+2022-03-18	19:00	  	MTSU 	at	  	SMU  	 	   	A	 	M	d1     	c33f86fb-c98b-4fbc-83cc-95e2582a1215	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	0e9d43c4-7f8c-4c9b-be24-fd6f05a3ab34
+2022-03-18	19:00	  	CHAT 	at	  	WOF  	 	   	A	C	M	d1     	797d7406-7b39-468a-89ae-147b676855b0	67596492-ca8a-4a21-bfaf-6312c57bfd25	e5979c8a-3659-4dcf-8532-c1dc3988dea3
+2022-03-18	20:00	  	FSU  	at	  	ND   	 	   	A	C	M	d1     	9c25db90-c2f2-438d-b418-1e31df40e351	804abb9d-ce89-4455-b47c-5b8b88d8443b	8c3be685-4a05-471d-bded-488ec80889e9
+2022-03-18	21:00	  	BELL 	at	  	FGCU 	 	   	A	C	M	d1     	822847fc-9ebf-4a65-8cce-3a9455652188	09fa2def-947b-4629-b20b-c7df3f0f5669	8f3e7b7e-d738-44d5-99b5-3ab0001cc028
+2022-03-18	21:00	  	UTRGV	at	  	NMSU 	 	   	A	C	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	0586d52b-52a3-43bc-9fd2-40311f2d1e24	abf8a112-4861-4c51-acfb-cd15e88cd9a5
+2022-03-18	21:00	  	UTAH 	at	  	USD  	 	   	A	 	M	d1     	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	1ce0d942-6f45-40e5-bfe9-d0d56715e018
+2022-03-18	21:30	  	ALA&M	at	  	VANDY	 	   	A	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	592aafc0-8320-4fb0-8161-842be0124a4d	e32bd528-1b02-4df0-8658-44626da03f9b
+2022-03-18	22:00	  	LIB  	at	  	KENN 	 	   	A	C	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	2a3e1088-184b-4a4f-b220-da2b4f1de0e6	4046077a-cc5b-42ad-be55-f5a2496aa55f
+2022-03-18	22:00	  	NIA  	at	  	MSU  	 	   	A	 	M	d1     	d7e4d000-c496-492b-85a0-a6b015c03760	58f0b75c-c78a-4142-aa5d-4683c18e1164	da48a914-0f74-4b03-b3bb-45bc2a8bac23
+2022-03-18	 7:00	  	BOISE	vs	  	EWU  	 	   	N	 	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	2d6889e5-5499-4be4-9739-e40a15a9d8de	0af87a11-6d34-4489-800b-3cc94abb57f0
+2022-03-19	18:00	  	USF  	at	 5	TCU  	 	   	A	 	M	d1     	193a4fb2-4a26-4724-ad0b-188cb862c8b4	96f36c2b-99a2-4795-9e32-84a32742fdee	7f1f14e3-f414-49f2-9774-ebac811604da
+2022-03-19	 0:00	  	AZST 	at	 9	USC  	 	   	A	C	M	d1     	80cfa0c6-e529-4b50-83cd-14c3845501ae	a9bceb19-dac7-4b1a-8093-356440403f7b	a352d967-f194-43d1-bb95-b81272f6ae48
+2022-03-19	21:00	21	HARV 	vs	  	UTAH 	 	   	N	 	M	d1     	9d7e8d65-7878-47e7-9f33-fcb748be886f	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	55a17709-dd80-46cd-9cf7-d7cb8aba1cc7
+2022-03-19	13:00	  	HOW  	vs	  	SCST 	 	   	N	C	M	d1     	3a34fd57-ed2c-40a8-932b-00ba5253c843	8f53692d-38bd-414b-a074-346ba08b3123	7b5bf873-173d-4efa-ac57-dd472841de47
+2022-03-19	14:00	  	GCU  	vs	  	LAMAR	 	   	N	C	M	d1     	9ee74ce3-1e1a-457d-8fe8-a52b5c63f17a	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	ab229aba-6839-4f5c-996f-d71b384d2d6e
+2022-03-19	15:00	  	CHIC 	vs	  	UTRGV	 	   	N	C	M	d1     	8dd5dcd2-a830-4b06-95ce-15b3a4e1e55c	9bd9be97-8ec4-442e-ba85-81b5182b6e96	549b1a72-d48a-4143-a83b-80181b5406a0
+2022-03-19	17:00	  	IUPUI	at	  	NKU  	 	   	A	C	M	d1     	5f6673ec-6d78-47f9-bfcc-04b3434ba826	2425ab7d-7429-4b4d-ab72-fd88c53d701c	3bd4f370-0a16-4aea-8a76-74c0dd0e4903
+2022-03-19	17:00	  	LEH  	at	  	LOY  	 	   	A	C	M	d1     	2ff66ecb-960e-4991-9b1e-00a2bf43760b	8852f3b3-fbb2-4d3a-a274-9852282508c7	a8e944ba-3c1f-49cb-854e-bd20fa941356
+2022-03-19	17:00	  	PENN 	at	  	ODU  	 	   	A	 	M	d1     	9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302	58a905af-7bde-4917-aaee-96c1c08a1e55	e7aa0a8a-5b9e-4c3f-917a-054f7711c83d
+2022-03-19	18:00	  	ARMY 	at	  	BUCK 	 	   	A	C	M	d1     	7a3fcbba-2ee8-4951-aea9-d76a0d6f9390	1f53a886-d9c1-4074-a93e-90383e6ceae0	0c54fd80-8a72-4bb4-a7e8-b3abef88d25a
+2022-03-19	18:00	  	YALE 	at	  	CPOLY	 	   	A	 	M	d1     	64305e8d-015d-473a-8b96-6949b90e1fa5	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	83fb2954-ddcc-432b-8476-b0a2cbb74a97
+2022-03-19	18:00	  	MEM  	vs	  	OKST 	 	   	N	 	M	d1     	2c645dc8-b625-479e-8cb3-cdcd76cf90ca	ce99ed51-d0dc-468b-810c-e084f0b8edcd	40d599a3-4f4c-43b4-b19d-6049b3570298
+2022-03-19	18:00	  	HAW  	at	  	SDSU 	 	   	A	 	M	d1     	f397dbcc-9ec5-4643-9bfe-401d9659496c	35c09d02-006a-4078-bff0-c2edf554545d	ed8e531e-3a9b-4f03-8185-f2d327bf6cd9
+2022-03-19	20:00	  	SFU  	at	  	LIPST	 	   	A	C	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	6534e529-f354-403f-84c5-0a8db650e16e	9d0e3f59-d3f0-44ae-a54b-5a06bea865cb
+2022-03-19	22:00	  	WMU  	at	  	BING 	 	   	A	C	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	eb759aee-7fbe-4884-87c8-93d087bfcf3d	1a2682c2-8084-4534-88df-ecb7e4803899
+2022-03-19	22:00	  	CRE  	at	  	OMAHA	 	   	A	 	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	cc9a8522-d6da-4077-9673-5ad6d4e08638	005e32bb-34eb-4187-8403-e4b7f68e62e4
+2022-03-20	17:00	20	MSST 	at	 1	FLA  	 	   	A	C	M	d1     	815cd16b-2fd1-48ae-8a26-348a4631fbe3	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	246f8a13-9fcb-4790-b77f-60579a919c5e
+2022-03-20	17:00	 8	UGA  	at	 4	TENN 	 	   	A	C	M	d1     	f81b9e62-3331-41dc-9a41-365b04b4da5f	4458bc13-c379-4847-b5cc-c752cdeb97bf	4e1a8a44-bdf0-4476-a9a6-34eecf3a363b
+2022-03-20	16:00	 7	UVA  	at	  	CLEM 	 	   	A	C	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	24f244b6-deb6-4fab-80fd-7ac5227f4832	8a4c557e-d9d2-4575-9f7a-3182576f60f3
+2022-03-20	20:00	15	ARIZ 	at	 9	USC  	 	   	A	C	M	d1     	ab3f5fab-38c0-4eb7-980a-1dc1cce5e928	a9bceb19-dac7-4b1a-8093-356440403f7b	a4207fc7-96f3-4025-838e-044bfb7a0ac2
+2022-03-20	16:00	  	FAU  	at	11	UCF  	 	   	A	 	M	d1     	94c921f4-008b-4e88-b2ea-bb61c878e795	554755e6-c18c-4936-9cae-3e20507dbbe5	344d801f-81d2-4a12-97c1-35da52ad60c3
+2022-03-20	16:00	18	MISS 	at	13	SCAR 	 	   	A	C	M	d1     	50878027-90b4-4884-b6f6-af89c0ca04d9	1a7ceae0-50e2-4311-84a4-ff857da8fb42	d7e6719c-09ef-4832-9b81-78576cc17314
+2022-03-20	19:00	  	AZST 	at	25	UCLA 	 	   	A	C	M	d1     	80cfa0c6-e529-4b50-83cd-14c3845501ae	697a7501-5c60-4b68-9cdf-10f194e275e9	046a1768-656d-4deb-ba5b-d948d521ce86
+2022-03-20	15:00	  	WMU  	at	  	COR  	 	   	A	 	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	479ca8ce-37c4-4f3e-9b97-b59da1625496	ccf2d374-74c3-446d-be9f-7d41617b6159
+2022-03-20	15:00	  	FORD 	at	  	TEM  	 	   	A	 	M	d1     	833d05eb-0bc8-4444-99b5-36d23037d74d	9206c498-1f17-4a78-ac21-42ca7319faa9	bfcc0e01-b2aa-4428-b2df-536236c66f18
+2022-03-20	15:00	  	UAB  	at	  	ODU  	 	   	A	 	M	d1     	8bfea102-b1bc-437d-b717-6f5cee3d66b3	58a905af-7bde-4917-aaee-96c1c08a1e55	4870da5e-8130-46ba-a8b6-0dd5c7ebad5a
+2022-03-20	16:00	  	LIB  	at	  	FGCU 	 	   	A	C	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	09fa2def-947b-4629-b20b-c7df3f0f5669	e62ba1db-f90d-4446-bdfe-a13b38a158fd
+2022-03-20	16:00	  	VT   	at	  	GT   	 	   	A	C	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	8f398642-3995-428a-84be-ce55c55bc5fd	f4032ca5-2e3d-42c5-b8f8-866acfc29986
+2022-03-20	16:00	  	UIC  	at	  	NKU  	 	   	A	C	M	d1     	a02d87f6-90ff-4327-bc08-b4575f51e03d	2425ab7d-7429-4b4d-ab72-fd88c53d701c	eead23a5-a7d6-4841-9a0e-251d30e9b389
+2022-03-20	16:00	  	MIA  	at	  	ND   	 	   	A	C	M	d1     	f3bfc7c5-86d6-4af3-9377-c84209a35968	804abb9d-ce89-4455-b47c-5b8b88d8443b	585c4014-f1a1-46b5-9667-4add86eb8d03
+2022-03-20	16:00	  	PORT 	at	  	USU  	 	   	A	 	M	d1     	85ed0419-2cc6-4a5e-8266-4bc05cd114cd	ecb50842-dc98-4073-8259-44a1bad6604f	8ff75391-6a85-4416-a826-0c4c273bb9cc
+2022-03-20	17:00	  	AUB  	at	  	VANDY	 	   	A	C	M	d1     	dc80d974-5c75-47d8-a3a3-6361ea0c1c7c	592aafc0-8320-4fb0-8161-842be0124a4d	766730b2-1382-41fe-809a-574eaf850a96
+2022-03-20	17:00	  	CHAR 	at	  	ETSU 	 	   	A	 	M	d1     	e4edd8f3-3396-4b0e-ad73-271bae2a061e	7d084cdf-ec82-4f40-99de-75524f7c1268	3fb8e287-db5e-4959-81de-d8e56fb8bc99
+2022-03-20	17:00	  	USF  	at	  	SMU  	 	   	A	C	M	d1     	193a4fb2-4a26-4724-ad0b-188cb862c8b4	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	a5689071-803f-41df-8ae9-1a5756ea2e7e
+2022-03-20	18:00	  	DAV  	at	  	WOF  	 	   	A	 	M	d1     	89e5371a-c936-4f5b-94b6-55ddcc8009ce	67596492-ca8a-4a21-bfaf-6312c57bfd25	7c1a6e96-7035-4366-b9ca-3c6a46614c48
+2022-03-20	18:00	  	LSU  	at	  	BAMA 	 	   	A	C	M	d1     	ee4edb63-ebba-41bc-b47c-3380f94d02a7	9b87115c-def8-48fb-a3d6-25887547fcbb	df646164-98e7-448d-9549-b8242e912213
+2022-03-20	18:00	  	OKST 	at	  	TULN 	 	   	A	 	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	f02eef55-0142-475c-a01e-4d4f94735285	90d0d634-f963-488f-bd25-db5fb80c7825
+2022-03-20	19:00	  	ALA&M	at	  	BEL  	 	   	A	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	76977c1f-2b03-4274-be66-573c11dccfe4	8e747c51-18dc-4eed-b81f-b0d9cf3c2511
+2022-03-20	19:00	  	UNF  	at	  	STET 	 	   	A	C	M	d1     	b153fad2-fdf8-4697-a1c4-632576465463	05c8a8b6-b11b-4cba-b77a-28390bead223	2672c28b-b304-4d38-929e-c62478415165
+2022-03-20	20:00	  	SFU  	at	  	MSM  	 	   	A	C	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	bc77be1f-40d8-42ae-beb3-5ac0f29d7716	0e481032-3db2-454b-858e-abca71c4854a
+2022-03-20	20:00	  	YALE 	at	  	UCSB 	 	   	A	 	M	d1     	64305e8d-015d-473a-8b96-6949b90e1fa5	911fc75e-825e-4361-8c2b-eb8d074c3293	4d96a7fd-e077-498f-bd3f-015e979df18c
+2022-03-20	21:00	  	EIU  	at	  	ND   	 	   	A	 	M	d1     	916e07e3-f959-40be-8c70-de5e85a51eaa	804abb9d-ce89-4455-b47c-5b8b88d8443b	f7543071-d928-4277-b0af-56d8a9bba82c
+2022-03-20	 7:00	  	BOISE	at	  	GONZ 	 	   	A	 	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	3c323468-362c-4b72-b754-fd7d9e0dc220	bf7225c3-392f-4428-9e5a-dbc30709a311
+2022-03-21	23:00	 5	TCU  	at	  	SMU  	 	   	A	 	M	d1     	96f36c2b-99a2-4795-9e32-84a32742fdee	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	8687e23d-765d-41cb-8988-e90cbbc9e4e4
+2022-03-21	18:00	  	HAW  	at	  	UCSD 	 	   	A	C	M	d1     	f397dbcc-9ec5-4643-9bfe-401d9659496c	0ca38170-ba7c-42c1-b26b-bdbebf9cd4af	51837697-f78b-4227-9ec1-7b721d4ea43e
+2022-03-23	19:00	  	COPP 	at	  	LOY  	 	   	A	 	M	d1     	bbad712f-8d4a-482a-818b-e775f739993d	8852f3b3-fbb2-4d3a-a274-9852282508c7	c4a4f241-236c-431a-bed2-4a2f7b3008e0
+2022-03-24	17:00	  	DREX 	at	  	JMU  	 	   	A	 	M	d1     	5bdb61af-3a9c-475b-8724-82cb40339a51	de3fdef6-26af-455a-923a-50c877976d03	a8ed9e39-f6e5-456c-8297-3e9d8c70de68
+2022-03-24	18:00	  	CPOLY	at	  	HAW  	 	   	A	C	M	d1     	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	f397dbcc-9ec5-4643-9bfe-401d9659496c	a3641fd7-17e1-48aa-9bc6-c7a7c70881af
+2022-03-24	19:00	  	MORG 	at	  	LOY  	 	   	A	 	M	d1     	0fc5fa3c-6215-46de-aff6-da3502d1a301	8852f3b3-fbb2-4d3a-a274-9852282508c7	5a903477-b206-4c0e-89f2-e66ba6a1f5fa
+2022-03-24	19:00	  	UNCA 	at	  	PRES 	 	   	A	C	M	d1     	8025d0af-4520-4d93-9b9e-238075f9e756	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	9bbcf9a2-1f07-487d-b61b-4159ca213e44
+2022-03-25	21:00	 1	FLA  	at	  	ARK  	 	   	A	C	M	d1     	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	62ee467a-bf87-4dbb-90b5-561e1d5eb0af
+2022-03-25	23:00	 2	BAY  	at	 5	TCU  	 	   	A	 	M	d1     	c98c90ae-39d9-4a59-a427-6f7414841709	96f36c2b-99a2-4795-9e32-84a32742fdee	16297967-4d97-4e23-84d0-81f5ea04767e
+2022-03-25	18:00	 4	TENN 	at	19	A&M  	 	   	A	C	M	d1     	4458bc13-c379-4847-b5cc-c752cdeb97bf	702d4d29-6636-4f06-a35c-f22e3953ae0c	38050325-cbf2-4454-b470-a112d010d126
+2022-03-25	19:00	  	NCST 	at	 7	UVA  	 	   	A	C	M	d1     	df9a8e27-9fa3-413b-9028-442efef29ffd	ea538604-050f-4d44-9f6b-7cfaef251022	93759901-d95f-4768-8167-27942e864981
+2022-03-25	22:00	16	STAN 	at	 9	USC  	 	   	A	C	M	d1     	28e9c099-0f9e-4c8e-b8a6-374479b1c04e	a9bceb19-dac7-4b1a-8093-356440403f7b	f0681ba4-9241-4f97-b639-8de36356a5cc
+2022-03-25	19:00	10	WAKE 	at	  	VT   	 	   	A	C	M	d1     	0a89a4fe-5bf5-4e60-8708-989d07766f35	326c560b-3bb3-4be7-ba93-35e5c67470fd	b924f01e-c445-42e0-9737-82c929fd9b2f
+2022-03-25	21:00	  	SMU  	at	11	UCF  	 	   	A	C	M	d1     	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	554755e6-c18c-4936-9cae-3e20507dbbe5	8643878e-bd5c-45b0-8542-ccb159836b11
+2022-03-25	22:00	12	UK   	at	  	VANDY	 	   	A	C	M	d1     	6b435f63-1b41-4988-b46b-964b883547c5	592aafc0-8320-4fb0-8161-842be0124a4d	5913e3c9-4846-464c-b04e-32f730e24bbe
+2022-03-25	21:00	  	NEB  	at	17	MICH 	 	   	A	 	M	d1     	df63a514-e637-4161-9cc6-351d66e2c018	36d44c05-1bb6-4b49-a2d1-b2f00e27821e	f70da54c-db77-44e7-9c76-83e5fe4c953f
+2022-03-25	20:00	  	AUB  	at	18	MISS 	 	   	A	C	M	d1     	dc80d974-5c75-47d8-a3a3-6361ea0c1c7c	50878027-90b4-4884-b6f6-af89c0ca04d9	c7ea278e-12d8-41d5-a3b8-35cd756c86b6
+2022-03-25	20:00	  	BAMA 	at	20	MSST 	 	   	A	C	M	d1     	9b87115c-def8-48fb-a3d6-25887547fcbb	815cd16b-2fd1-48ae-8a26-348a4631fbe3	94e6f10d-d997-4bb1-8d9b-7ae18a5040bd
+2022-03-25	20:00	  	CAL  	at	25	UCLA 	 	   	A	C	M	d1     	821d45ba-9b76-4bc5-8f40-68dfaee763a5	697a7501-5c60-4b68-9cdf-10f194e275e9	75daff9c-8133-49c9-8f36-fd530855ef77
+2022-03-25	16:00	  	UTRGV	at	  	LAMAR	 	   	A	C	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	ffb2ca66-235a-40fc-9a6f-5313ce2b1502
+2022-03-25	16:00	  	LOY  	at	  	ARMY 	 	   	A	C	M	d1     	8852f3b3-fbb2-4d3a-a274-9852282508c7	7a3fcbba-2ee8-4951-aea9-d76a0d6f9390	910f416b-b0d7-487c-bdd8-5e294144e149
+2022-03-25	17:00	  	FAU  	at	  	ODU  	 	   	A	 	M	d1     	94c921f4-008b-4e88-b2ea-bb61c878e795	58a905af-7bde-4917-aaee-96c1c08a1e55	3ae65711-65fb-4bb6-93c1-5c2bd1d65f5d
+2022-03-25	17:30	  	VCU  	at	  	USF  	 	   	A	 	M	d1     	06471a92-4609-433c-bbb9-cd1cc8b44b31	193a4fb2-4a26-4724-ad0b-188cb862c8b4	f68242a4-7d76-4d67-9366-e6525d8ccb3f
+2022-03-25	18:00	  	UNM  	at	  	RICE 	 	   	A	 	M	d1     	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	31894235-e994-4660-a773-50d353f245b0	a0a050fd-2294-4e14-a1c8-07c29df2359c
+2022-03-25	18:00	  	UCD  	at	  	HAW  	 	   	A	C	M	d1     	d5605ec8-ca90-4ff2-9165-7caeaa90593d	f397dbcc-9ec5-4643-9bfe-401d9659496c	cea919fa-20a7-4bc9-b9db-44ea2c146269
+2022-03-25	19:00	  	FGCU 	at	  	STET 	 	   	A	C	M	d1     	09fa2def-947b-4629-b20b-c7df3f0f5669	05c8a8b6-b11b-4cba-b77a-28390bead223	f5fac21b-c712-4a7a-bb7d-0e108b9bc126
+2022-03-25	19:00	  	JVST 	at	  	LIB  	 	   	A	C	M	d1     	3b004ff1-9778-41e0-916c-fd50361b9489	8227948e-4130-481f-bbdd-44e9614dd4b9	071dadd6-33dc-44d2-8c6f-06c3b8958310
+2022-03-25	19:00	  	WIS  	at	  	MSU  	 	   	A	C	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	58f0b75c-c78a-4142-aa5d-4683c18e1164	febf6c89-a501-42a5-97b9-533ac6d21c47
+2022-03-25	19:00	  	UNCG 	at	  	WOF  	 	   	A	C	M	d1     	67ec62a5-5279-4d6b-97cb-62899104c8c5	67596492-ca8a-4a21-bfaf-6312c57bfd25	26d17cc7-91ea-4a94-93b4-6be938d21cfa
+2022-03-25	19:00	  	PORT 	at	  	USD  	 	   	A	C	M	d1     	85ed0419-2cc6-4a5e-8266-4bc05cd114cd	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	e14b8a89-f33a-44d4-ae90-14f51563831d
+2022-03-25	20:00	  	ND   	at	  	DUKE 	 	   	A	C	M	d1     	804abb9d-ce89-4455-b47c-5b8b88d8443b	4b118544-8956-46b9-b4fb-6bf1ee2998e9	536ebdb6-2529-47e0-b95c-a963de75c586
+2022-03-25	20:00	  	ORE  	at	  	UTAH 	 	   	A	C	M	d1     	83b5face-98d6-481c-969f-65c294b836e8	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	74a2ff57-1fb0-4e61-8f16-9ba009453329
+2022-03-25	23:00	  	SBU  	at	  	DUQ  	 	   	A	C	M	d1     	3ec0edd9-2076-4ef3-93f9-b00dd3138b57	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	e64a7a17-f3ba-4520-935b-fb5a0a7f0e1d
+2022-03-26	20:00	  	CAL  	at	 9	USC  	 	   	A	C	M	d1     	821d45ba-9b76-4bc5-8f40-68dfaee763a5	a9bceb19-dac7-4b1a-8093-356440403f7b	eb159c21-db4e-4712-a20b-2378116c3939
+2022-03-26	20:00	16	STAN 	at	25	UCLA 	 	   	A	C	M	d1     	28e9c099-0f9e-4c8e-b8a6-374479b1c04e	697a7501-5c60-4b68-9cdf-10f194e275e9	880dce5b-c549-423e-8abb-af0c84c8c90f
+2022-03-26	16:00	  	LAF  	vs	  	LOY  	 	   	N	C	M	d1     	5038ae5d-e4bd-4486-b8e6-f270d1359e13	8852f3b3-fbb2-4d3a-a274-9852282508c7	0ce01ca6-96f1-462f-ae21-4fdc8fb6318c
+2022-03-26	17:00	  	FAU  	at	  	LIB  	 	   	A	 	M	d1     	94c921f4-008b-4e88-b2ea-bb61c878e795	8227948e-4130-481f-bbdd-44e9614dd4b9	05020ea2-b848-46a1-b253-0abe48487f4a
+2022-03-26	17:00	  	TEM  	at	  	ODU  	 	   	A	 	M	d1     	9206c498-1f17-4a78-ac21-42ca7319faa9	58a905af-7bde-4917-aaee-96c1c08a1e55	4bfbf07a-50f5-47d9-8015-1eca6b57e883
+2022-03-26	18:00	  	ABCHR	vs	  	UTRGV	 	   	N	C	M	d1     	8a699b87-0ce9-4ba4-802f-20cc4be4b314	9bd9be97-8ec4-442e-ba85-81b5182b6e96	3a18d966-60a1-4ed6-bc6d-8b0bc97c6063
+2022-03-26	18:00	  	ETSU 	vs	  	UNM  	 	   	N	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	2e6b5d09-1a1d-4bd5-a57f-b9cac9fc8a98
+2022-03-26	18:00	  	FAIR 	at	  	MONM 	 	   	A	C	M	d1     	0a9b327d-9b24-43f0-a8cb-35c533702d53	9e74d368-e8a8-43fa-ade6-fd2c06c09660	f182b522-2ec6-4b48-bc50-d76bd977d9b6
+2022-03-26	18:00	  	NIU  	at	  	WMU  	 	   	A	C	M	d1     	e5b75f8b-62d1-4ed6-b40a-04f4a6459de9	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	c5024758-6173-4b1b-8cfb-a0c5b4bc4b0f
+2022-03-26	18:00	  	UND  	at	  	AFA  	 	   	A	 	M	d1     	ad8fc18d-c5f9-442b-b17e-0981a7e5ae4c	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	d42a9ef2-7428-4b43-b139-d60b557cddf1
+2022-03-26	20:00	  	PAC  	at	  	SCLAR	 	   	A	C	M	d1     	0bf79a9f-4f88-450b-baff-46a4cabb32c9	12da963f-db09-4430-8238-0c5972bd0aae	2c5e2277-9ff0-42d7-b1ab-06cef15a53b5
+2022-03-26	 5:00	  	USU  	at	  	BYU  	 	   	A	 	M	d1     	ecb50842-dc98-4073-8259-44a1bad6604f	53f1c9be-0b9c-49da-ab3c-832d384f56aa	0b781075-9d1c-4a58-ad63-456d629efc22
+2022-03-26	 5:00	  	HOW  	at	  	HAMP 	 	   	A	 	M	d1     	3a34fd57-ed2c-40a8-932b-00ba5253c843	59e59f69-d1d0-4921-ac48-614d7b00b910	6ae49d81-cd5c-4e64-9fdf-6e5e72348428
+2022-03-26	 7:00	  	ALST 	at	  	ALA&M	 	   	A	C	M	d1     	86fc0dba-01fc-4b98-aef5-c8b8df086669	e45d5a86-9c6e-4888-8668-eb662aeac421	220cddf0-642b-4e30-a698-7cb35f1ad3b1
+2022-03-26	 8:00	  	PORT 	at	  	SDSU 	 	   	A	 	M	d1     	85ed0419-2cc6-4a5e-8266-4bc05cd114cd	35c09d02-006a-4078-bff0-c2edf554545d	8238c0a6-87c9-4b20-83eb-8d6514b52f74
+2022-03-27	17:00	24	OKLA 	at	 3	TEX  	 	   	A	 	M	d1     	1c9c888b-631c-4c23-a1b3-c035f56249b4	e71bce99-4132-47ae-8006-5372d54ffda9	1660852e-9b3f-4578-9540-c67c1efe116e
+2022-03-27	18:00	 4	TENN 	at	  	LSU  	 	   	A	C	M	d1     	4458bc13-c379-4847-b5cc-c752cdeb97bf	ee4edb63-ebba-41bc-b47c-3380f94d02a7	5b494112-68a6-4721-82b5-04bd86e31676
+2022-03-27	17:00	10	WAKE 	at	 7	UVA  	 	   	A	C	M	d1     	0a89a4fe-5bf5-4e60-8708-989d07766f35	ea538604-050f-4d44-9f6b-7cfaef251022	490c7ce5-b1eb-4831-8905-e55b51834349
+2022-03-27	18:00	12	UK   	at	18	MISS 	 	   	A	C	M	d1     	6b435f63-1b41-4988-b46b-964b883547c5	50878027-90b4-4884-b6f6-af89c0ca04d9	52bb9c09-9e05-4606-b86b-f0a9238fa360
+2022-03-27	20:00	  	ND   	at	14	UNC  	 	   	A	C	M	d1     	804abb9d-ce89-4455-b47c-5b8b88d8443b	8544d2ac-773a-409d-b22e-6af0ee807c63	d7f7091d-87b1-42d5-8052-9e81509bc82c
+2022-03-27	16:00	  	WIS  	at	17	MICH 	 	   	A	C	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	36d44c05-1bb6-4b49-a2d1-b2f00e27821e	87d62898-86c5-4def-8970-dbf8c0079240
+2022-03-27	23:00	  	UTSA 	at	19	A&M  	 	   	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	702d4d29-6636-4f06-a35c-f22e3953ae0c	2bb539de-1718-48fd-a188-f5e5c0251943
+2022-03-27	13:00	  	BU   	at	  	NAVY 	 	   	A	C	M	d1     	eac0f132-159c-4ee5-ae24-b2754e56a83d	05616340-eaab-41a5-9dc7-137f06712c1a	de551791-4b20-4efb-8a1d-9b1f184df651
+2022-03-27	16:00	  	ABCHR	at	  	LAMAR	 	   	A	C	M	d1     	8a699b87-0ce9-4ba4-802f-20cc4be4b314	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	a1a27819-4f60-4e79-b5e3-c9bcbf3867cd
+2022-03-27	16:00	  	HC   	vs	  	LOY  	 	   	N	C	M	d1     	d5c611d8-396c-463d-add1-7e0239e69610	8852f3b3-fbb2-4d3a-a274-9852282508c7	0fa987e1-e77c-4259-a8f7-3f4af32617a3
+2022-03-27	16:00	  	NCST 	at	  	VT   	 	   	A	C	M	d1     	df9a8e27-9fa3-413b-9028-442efef29ffd	326c560b-3bb3-4be7-ba93-35e5c67470fd	d19d95eb-f4a4-4872-970d-ea16d4a41809
+2022-03-27	17:00	  	DAY  	at	  	DUQ  	 	   	A	C	M	d1     	9e412a6f-09f8-48ea-b983-560e9b99d993	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	568b5644-2644-4d63-a92d-fa672a84c4ae
+2022-03-27	17:00	  	NAVY 	at	  	JMU  	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	de3fdef6-26af-455a-923a-50c877976d03	2da88b41-77f4-41ad-b071-af87cfb4e79b
+2022-03-27	17:00	  	NEB  	at	  	MSU  	 	   	A	C	M	d1     	df63a514-e637-4161-9cc6-351d66e2c018	58f0b75c-c78a-4142-aa5d-4683c18e1164	398530ec-b22f-44e1-a85a-7473a8a743f1
+2022-03-27	17:00	  	TEM  	at	  	NORF 	 	   	A	 	M	d1     	9206c498-1f17-4a78-ac21-42ca7319faa9	cd2dad89-8a53-4e6b-8e7f-c69e8c2a77a1	3f40e479-1683-4e42-acba-3db9038ec3e0
+2022-03-27	17:00	  	RAD  	at	  	PRES 	 	   	A	C	M	d1     	82af3de5-0bb0-4881-bc7b-f20c7c0e232d	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	82fd4076-fd52-4d48-be01-d871bf5473b3
+2022-03-27	17:00	  	BAMA 	at	  	VANDY	 	   	A	C	M	d1     	9b87115c-def8-48fb-a3d6-25887547fcbb	592aafc0-8320-4fb0-8161-842be0124a4d	469b3c69-7dc8-424f-b67e-05c5a6f45d56
+2022-03-27	18:00	  	BUCK 	at	  	HOW  	 	   	A	 	M	d1     	1f53a886-d9c1-4074-a93e-90383e6ceae0	3a34fd57-ed2c-40a8-932b-00ba5253c843	523ca01b-e2ae-4276-9bb8-15d9baa097bb
+2022-03-27	18:00	  	KENN 	at	  	STET 	 	   	A	C	M	d1     	2a3e1088-184b-4a4f-b220-da2b4f1de0e6	05c8a8b6-b11b-4cba-b77a-28390bead223	e01d21ec-7e3e-4dc0-9209-5662aeb7d245
+2022-03-27	18:00	  	UCSB 	at	  	HAW  	 	   	A	C	M	d1     	911fc75e-825e-4361-8c2b-eb8d074c3293	f397dbcc-9ec5-4643-9bfe-401d9659496c	1ed7993c-bd8e-4d78-b55f-d997f7b10918
+2022-03-27	19:00	  	FGCU 	at	  	UNF  	 	   	A	C	M	d1     	09fa2def-947b-4629-b20b-c7df3f0f5669	b153fad2-fdf8-4697-a1c4-632576465463	4ee0ba83-1f0d-4f3d-bf8f-1ae8351bd5a8
+2022-03-27	19:00	  	LIP  	at	  	LIB  	 	   	A	C	M	d1     	a2baf051-4021-4f55-af9c-b2f4adae0076	8227948e-4130-481f-bbdd-44e9614dd4b9	664f2997-bb7c-4362-b215-7431cc8c2c59
+2022-03-27	19:00	  	WEBER	at	  	MTST 	 	   	A	C	M	d1     	3d7d14f4-b808-4b04-95b5-0852733f5fd4	0e9c11b8-b7a0-4456-89cf-fa422075d587	1d217760-443b-4ebd-a1e8-854b3eedb4de
+2022-03-27	20:00	  	WASH 	at	  	UTAH 	 	   	A	C	M	d1     	120192a9-3571-49b1-aec9-b9e7ece54af2	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	85c5683e-6d7a-4a22-973e-4709eec123f8
+2022-03-27	 5:00	  	ETSU 	at	  	RICE 	 	   	A	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	31894235-e994-4660-a773-50d353f245b0	1f8e8771-8fd6-40c0-9a31-53b6ac6e6a2f
+2022-03-27	17:00	  	NJIT 	vs	  	QUE  	 	   	H	 	M	d1/d2  	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	c5e460bb-0c0f-4852-849b-109171ce65da	d3c0bbc8-d13d-4acc-adae-201fbc5c0738
+2022-03-28	18:00	  	UNA  	at	  	ALA&M	 	   	A	 	M	d1     	92c30d24-0fa2-4fc1-9133-4b92a703c5ed	e45d5a86-9c6e-4888-8668-eb662aeac421	a350821d-6eb4-4314-890f-d4193a9a4c72
+2022-03-29	16:00	  	BROWN	at	  	SACST	 	   	A	 	M	d1     	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	44f14f0d-5ba1-4743-8372-2d709304738b	54f39a79-0f6f-4f62-b4ec-9e8962ff656d
+2022-03-30	15:00	  	BROWN	at	  	SF   	 	   	A	 	M	d1     	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	99671a37-b72b-4c34-8b56-3b8c0ec3f701	b7f29723-55bc-47c3-b387-73919edd130e
+2022-03-30	16:00	  	RIDER	at	  	MONM 	 	   	A	C	M	d1     	04af8b21-64e9-45fe-8b13-9b33af61d998	9e74d368-e8a8-43fa-ade6-fd2c06c09660	3de89c64-23c7-4c74-8569-2eefec4b148d
+2022-03-30	18:00	  	MORG 	at	  	TEM  	 	   	A	 	M	d1     	0fc5fa3c-6215-46de-aff6-da3502d1a301	9206c498-1f17-4a78-ac21-42ca7319faa9	666f0551-ad00-4c54-8f6c-ef28691b65ef
+2022-03-31	18:00	  	ORU  	at	  	AFA  	 	   	A	 	M	d1     	45f83d63-5aa0-4b8c-88ac-69216f826c05	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	2ed6f017-5980-4e7c-802c-b49e0c9b01f9
+2022-03-31	19:00	  	HOF  	at	  	LOY  	 	   	A	 	M	d1     	c773c087-0eea-41bf-b6c0-cde71bd7fded	8852f3b3-fbb2-4d3a-a274-9852282508c7	27aac097-05e1-4ecf-90dc-df78b62948ed
+2022-04-01	21:00	  	LSU  	at	 1	FLA  	 	   	A	C	M	d1     	ee4edb63-ebba-41bc-b47c-3380f94d02a7	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	8424088d-80bb-46b4-8c2c-fdfedd85d4b7
+2022-04-01	23:00	 2	BAY  	at	 3	TEX  	 	   	A	C	M	d1     	c98c90ae-39d9-4a59-a427-6f7414841709	e71bce99-4132-47ae-8006-5372d54ffda9	686a612f-4be2-453c-9fda-c6a5c36b207f
+2022-04-01	21:00	  	ARK  	at	 4	TENN 	 	   	A	C	M	d1     	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	4458bc13-c379-4847-b5cc-c752cdeb97bf	b500bd45-943e-4864-ab66-3fc59a20c1a4
+2022-04-01	23:00	  	TTU  	at	 5	TCU  	 	   	A	C	M	d1     	8169af92-629d-4274-964f-efa6320d0b9e	96f36c2b-99a2-4795-9e32-84a32742fdee	7e493b1f-fa3f-4388-b548-45b4053187ab
+2022-04-01	20:00	 8	UGA  	at	18	MISS 	 	   	A	C	M	d1     	f81b9e62-3331-41dc-9a41-365b04b4da5f	50878027-90b4-4884-b6f6-af89c0ca04d9	adf4d269-683f-49d7-b272-c8c4333303c5
+2022-04-01	20:30	 9	USC  	at	  	ORE  	 	   	A	C	M	d1     	a9bceb19-dac7-4b1a-8093-356440403f7b	83b5face-98d6-481c-969f-65c294b836e8	7896739c-9eb3-4c5c-9329-968e5ca7b9d7
+2022-04-01	20:00	10	WAKE 	at	  	ND   	 	   	A	C	M	d1     	0a89a4fe-5bf5-4e60-8708-989d07766f35	804abb9d-ce89-4455-b47c-5b8b88d8443b	6479d9b4-f20d-4cd4-aba4-7d9cc7ac6b93
+2022-04-01	20:00	  	VANDY	at	13	SCAR 	 	   	A	C	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	1a7ceae0-50e2-4311-84a4-ff857da8fb42	dc01c4bb-53a2-4bb2-ba35-ba2fdefb297d
+2022-04-01	23:00	19	A&M  	at	  	BAMA 	 	   	A	C	M	d1     	702d4d29-6636-4f06-a35c-f22e3953ae0c	9b87115c-def8-48fb-a3d6-25887547fcbb	ae360da5-a9ed-4ce3-bef4-1a2c2bc84517
+2022-04-01	23:00	  	OKST 	at	24	OKLA 	 	   	A	C	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	1c9c888b-631c-4c23-a1b3-c035f56249b4	fd72819c-f09b-4a36-95b3-342e765a0446
+2022-04-01	22:00	25	UCLA 	at	  	WASH 	 	   	A	C	M	d1     	697a7501-5c60-4b68-9cdf-10f194e275e9	120192a9-3571-49b1-aec9-b9e7ece54af2	b2862c2c-8941-469a-8692-9b98b82aef73
+2022-04-01	15:00	  	LIB  	at	  	UNA  	 	   	A	C	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	92c30d24-0fa2-4fc1-9133-4b92a703c5ed	5b7e33d8-2023-4191-830d-5c04767c1ccf
+2022-04-01	17:00	  	UTSA 	at	  	ODU  	 	   	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	58a905af-7bde-4917-aaee-96c1c08a1e55	6d1ab409-a8e0-4527-b143-c79ddfa0d4a3
+2022-04-01	17:00	  	TEM  	at	  	SMU  	 	   	A	C	M	d1     	9206c498-1f17-4a78-ac21-42ca7319faa9	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	99d62b07-a909-4f00-a743-a17cdc70f6db
+2022-04-01	17:00	  	CHAR 	at	  	VCU  	 	   	A	 	M	d1     	e4edd8f3-3396-4b0e-ad73-271bae2a061e	06471a92-4609-433c-bbb9-cd1cc8b44b31	2a587801-1a6a-4a15-909f-b6e158c6bc9c
+2022-04-01	17:00	  	UNLV 	at	  	USU  	 	   	A	C	M	d1     	25354489-c31f-4294-88f6-b7f5a5dccc87	ecb50842-dc98-4073-8259-44a1bad6604f	094f3a5d-87fd-4a87-ba58-005fd64dec00
+2022-04-01	17:00	  	BUFF 	at	  	WMU  	 	   	A	C	M	d1     	329f8010-4943-4f10-a356-7f8f65459f19	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	b569c674-9396-4bc9-a5b0-66f180132eb7
+2022-04-01	18:00	  	COPP 	at	  	HOW  	 	   	A	C	M	d1     	bbad712f-8d4a-482a-818b-e775f739993d	3a34fd57-ed2c-40a8-932b-00ba5253c843	7fef4901-7d24-43f1-abbe-8561ec53065e
+2022-04-01	18:00	  	CRE  	at	  	MARQ 	 	   	A	C	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	4d9be433-3ce7-4ac6-9f75-a0000272ee4c	b6ce87be-4c19-4173-a82a-bb42d8c8b2dd
+2022-04-01	18:00	  	UNCG 	at	  	ETSU 	 	   	A	C	M	d1     	67ec62a5-5279-4d6b-97cb-62899104c8c5	7d084cdf-ec82-4f40-99de-75524f7c1268	a536381c-81ff-40d5-acab-f7506afe8871
+2022-04-01	18:00	  	STET 	at	  	LIP  	 	   	A	C	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	a2baf051-4021-4f55-af9c-b2f4adae0076	cefc14bf-e0c4-4f0d-b16e-d0e7f4929f03
+2022-04-01	18:00	  	NAU  	at	  	MTST 	 	   	A	C	M	d1     	2208dc75-3067-4e1f-9796-d4bc324ce9ad	0e9c11b8-b7a0-4456-89cf-fa422075d587	1cd184e7-5203-41ad-b190-90e8b7eed11d
+2022-04-01	18:00	  	SCLAR	at	  	PORT 	 	   	A	C	M	d1     	12da963f-db09-4430-8238-0c5972bd0aae	85ed0419-2cc6-4a5e-8266-4bc05cd114cd	bff27ba9-fc4c-4928-a608-e0febfef4229
+2022-04-01	20:00	  	COLG 	at	  	BUCK 	 	   	A	C	M	d1     	2c41c78e-f6d3-4b46-a274-21bf9acfaae2	1f53a886-d9c1-4074-a93e-90383e6ceae0	6f4ce340-b167-4185-af67-8f3e4895783b
+2022-04-01	22:00	  	MSU  	at	  	NW   	 	   	A	C	M	d1     	58f0b75c-c78a-4142-aa5d-4683c18e1164	f0f65ff6-3eab-4489-851d-855a9d36b5a4	3f19a2f7-c795-48aa-9633-e4a4e956ad7f
+2022-04-01	 5:00	  	NCST 	at	  	LOU  	 	   	A	C	M	d1     	df9a8e27-9fa3-413b-9028-442efef29ffd	c9ca8b99-867b-4c0f-a57e-3445ef22d5a6	b5212c14-030c-4eec-97ef-8f14ec159dff
+2022-04-01	 5:00	  	SFU  	at	  	SFC  	 	   	A	C	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	fdfbfde3-2780-4e58-8be2-f6ba1e84c60e	c7e62de4-2742-449f-87eb-4ea38a6abb83
+2022-04-01	 7:00	  	NEV  	at	  	BOISE	 	   	A	C	M	d1     	179fa123-e59a-42cf-bf94-f0ff91bca481	60678f32-a44d-4006-96d9-f745d2b5e785	ad2e0b2e-996d-40a3-92f8-53df6a76125e
+2022-04-02	19:00	  	CAL  	at	15	ARIZ 	 	   	A	C	M	d1     	821d45ba-9b76-4bc5-8f40-68dfaee763a5	ab3f5fab-38c0-4eb7-980a-1dc1cce5e928	10f67bc2-ec92-47ee-8e95-dd74e6a4f51e
+2022-04-02	18:00	  	DART 	at	21	HARV 	 	   	A	C	M	d1     	0c562e0e-6590-4d08-ab0d-8dd91b82dd1e	9d7e8d65-7878-47e7-9f33-fcb748be886f	ee0f3476-0c00-45d4-b251-4701aa61f2b9
+2022-04-02	 1:00	  	CAL  	at	  	AZST 	 	   	A	C	M	d1     	821d45ba-9b76-4bc5-8f40-68dfaee763a5	80cfa0c6-e529-4b50-83cd-14c3845501ae	ad6e682f-3519-44ce-84dc-699fd5320404
+2022-04-02	14:00	  	NAVY 	at	  	LEH  	 	   	A	C	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	2ff66ecb-960e-4991-9b1e-00a2bf43760b	c4d3b94d-85a1-4ce7-99f8-435f3799238f
+2022-04-02	16:00	  	LOY  	at	  	NOVA 	 	   	A	 	M	d1     	8852f3b3-fbb2-4d3a-a274-9852282508c7	1d326b18-424c-4af5-b1c7-a3f8ab8adab6	acbad938-246e-455e-b3cf-e9d607c06071
+2022-04-02	16:00	  	NAVY 	at	  	VCU  	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	06471a92-4609-433c-bbb9-cd1cc8b44b31	9381a75b-7201-4643-80bc-80a9f0aeb4a7
+2022-04-02	16:00	  	WIS  	at	  	NEB  	 	   	A	C	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	df63a514-e637-4161-9cc6-351d66e2c018	8758797a-63e2-401b-acb2-c7d7845d3641
+2022-04-02	17:00	  	LU   	at	  	PRES 	 	   	A	C	M	d1     	c1d8fe55-db12-4865-8d8b-5a212d7ca16f	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	578788bf-f5fe-4607-9554-cb8c02b4ae39
+2022-04-02	17:00	  	WICH 	at	  	SMU  	 	   	A	C	M	d1     	59cd7fa7-ac23-49f3-aea1-6b0eb434d55e	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	02fd0e4c-2a98-4085-883b-e416837e59d2
+2022-04-02	17:00	  	MEM  	vs	  	TEM  	 	   	N	C	M	d1     	2c645dc8-b625-479e-8cb3-cdcd76cf90ca	9206c498-1f17-4a78-ac21-42ca7319faa9	f7fe5129-7eac-4ec3-a494-ad3473bd3484
+2022-04-02	18:00	  	JKST 	at	  	ALA&M	 	   	A	C	M	d1     	8e3a9e19-e217-4002-93af-c6c8cf816444	e45d5a86-9c6e-4888-8668-eb662aeac421	046f732b-7e41-465d-abb6-3e512aed84ff
+2022-04-02	18:00	  	UTSA 	at	  	W&M  	 	   	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	04a904aa-24a6-4c97-9ec3-a47c58f6811e	df5b2585-f4bc-4eb9-8fdb-932d60e2b47b
+2022-04-02	18:00	  	MORG 	at	  	HOW  	 	   	A	C	M	d1     	0fc5fa3c-6215-46de-aff6-da3502d1a301	3a34fd57-ed2c-40a8-932b-00ba5253c843	7587a402-bc6a-4ea2-b7a5-35b006b6ffb9
+2022-04-02	18:00	  	AFA  	at	  	UNM  	 	   	A	C	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	8d99adf7-0a28-4c34-a2b7-a6465c306f8f
+2022-04-02	19:00	  	BYU  	at	  	USD  	 	   	A	C	M	d1     	53f1c9be-0b9c-49da-ab3c-832d384f56aa	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	44f0711b-6600-4f6a-ab4c-6393aab53d47
+2022-04-02	21:15	  	CRE  	at	  	DEP  	 	   	A	C	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	c24bc9e5-ebb9-4b64-9075-76f3e7e3780c	562649b1-8368-4b9b-83b5-0a91395ad3e1
+2022-04-02	 5:00	  	SFU  	at	  	WAG  	 	   	A	C	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	f991f38e-e02f-404f-846f-5987baf42957	6bcdce96-f593-4302-b843-11ecba920236
+2022-04-02	20:00	  	DUQ  	vs	  	MERCY	 	   	H	 	M	d1/d2  	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	360c604f-525f-4fcc-a286-35becd3b511d	9b376bd0-acdf-453b-8f1f-44cf9c20b7b2
+2022-04-03	17:00	  	VANDY	at	 1	FLA  	 	   	A	C	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	ea1bf67f-9e1a-4786-b9b1-813a0561258e
+2022-04-03	18:00	 5	TCU  	at	 2	BAY  	 	   	A	C	M	d1     	96f36c2b-99a2-4795-9e32-84a32742fdee	c98c90ae-39d9-4a59-a427-6f7414841709	33e39e00-c4db-4e6d-8c27-07ad92dd8d69
+2022-04-03	17:00	  	TTU  	at	 3	TEX  	 	   	A	C	M	d1     	8169af92-629d-4274-964f-efa6320d0b9e	e71bce99-4132-47ae-8006-5372d54ffda9	4245a6c0-41b3-403b-a571-572faeafb298
+2022-04-03	19:00	 9	USC  	at	  	WASH 	 	   	A	C	M	d1     	a9bceb19-dac7-4b1a-8093-356440403f7b	120192a9-3571-49b1-aec9-b9e7ece54af2	7126ba36-84b7-45f8-9a8f-42cbc5b30c66
+2022-04-03	18:00	11	UCF  	at	  	TULN 	 	   	A	C	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	f02eef55-0142-475c-a01e-4d4f94735285	c5c0e2c2-d9c4-408b-8003-a4bbd7fc1061
+2022-04-03	16:00	12	UK   	at	13	SCAR 	 	   	A	C	M	d1     	6b435f63-1b41-4988-b46b-964b883547c5	1a7ceae0-50e2-4311-84a4-ff857da8fb42	6376c92e-2247-45f3-9289-0f1eda2892d5
+2022-04-03	20:00	16	STAN 	at	  	AZST 	 	   	A	C	M	d1     	28e9c099-0f9e-4c8e-b8a6-374479b1c04e	80cfa0c6-e529-4b50-83cd-14c3845501ae	c541d18c-d179-486d-9199-30000674f654
+2022-04-03	16:00	  	MSU  	at	23	ILL  	 	   	A	C	M	d1     	58f0b75c-c78a-4142-aa5d-4683c18e1164	a9d92d42-3f88-4848-9408-52d767937662	a16f2c78-2d17-46cf-bfb7-3f10a25aa369
+2022-04-03	19:00	25	UCLA 	at	  	ORE  	 	   	A	C	M	d1     	697a7501-5c60-4b68-9cdf-10f194e275e9	83b5face-98d6-481c-969f-65c294b836e8	bc28514d-475a-48ef-bf5c-3e647ae80e8d
+2022-04-03	14:00	  	BU   	at	  	BUCK 	 	   	A	C	M	d1     	eac0f132-159c-4ee5-ae24-b2754e56a83d	1f53a886-d9c1-4074-a93e-90383e6ceae0	fd758f08-b127-453e-a2d0-bd82009cc22f
+2022-04-03	15:00	  	BING 	at	  	WMU  	 	   	A	C	M	d1     	eb759aee-7fbe-4884-87c8-93d087bfcf3d	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	37dd373e-b448-4575-a6cc-b11011feb451
+2022-04-03	15:00	  	CHAR 	at	  	ODU  	 	   	A	 	M	d1     	e4edd8f3-3396-4b0e-ad73-271bae2a061e	58a905af-7bde-4917-aaee-96c1c08a1e55	119cdd90-6d25-45ee-9995-87a08cdb5c01
+2022-04-03	16:00	  	KENN 	at	  	FGCU 	 	   	A	C	M	d1     	2a3e1088-184b-4a4f-b220-da2b4f1de0e6	09fa2def-947b-4629-b20b-c7df3f0f5669	5102aee0-74c3-4aa3-8cba-4b11429e51e2
+2022-04-03	16:00	  	NCST 	at	  	ND   	 	   	A	C	M	d1     	df9a8e27-9fa3-413b-9028-442efef29ffd	804abb9d-ce89-4455-b47c-5b8b88d8443b	13062b05-2a2d-4d38-88bf-c01e029c9378
+2022-04-03	16:00	  	UTSA 	at	  	VCU  	 	   	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	06471a92-4609-433c-bbb9-cd1cc8b44b31	18430e6f-d50d-42bd-afd0-befa7d995edc
+2022-04-03	17:00	  	YALE 	at	  	BROWN	 	   	A	C	M	d1     	64305e8d-015d-473a-8b96-6949b90e1fa5	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	f2d59b92-70d2-4a5b-838e-ac65d2d0cc73
+2022-04-03	17:00	  	CHAT 	at	  	ETSU 	 	   	A	C	M	d1     	797d7406-7b39-468a-89ae-147b676855b0	7d084cdf-ec82-4f40-99de-75524f7c1268	fe4f1b09-3c30-4ccc-9392-950a6404189a
+2022-04-03	17:00	  	STET 	at	  	JVST 	 	   	A	C	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	3b004ff1-9778-41e0-916c-fd50361b9489	b136feee-8884-4414-bb72-0b8528e845be
+2022-04-03	17:00	  	NJIT 	at	  	SJU  	 	   	A	 	M	d1     	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	c7ca88a5-8ac0-4476-9af9-c93d9c2dd777	eeee9fdc-1214-457a-bb9c-24c5446c4d27
+2022-04-03	17:00	  	WOF  	at	  	SAM  	 	   	A	C	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	15a64e5f-aa11-4935-afce-b43f84e45cdc	48086a84-b8da-4ffc-975f-68189f552f51
+2022-04-03	17:00	  	NEV  	at	  	USU  	 	   	A	C	M	d1     	179fa123-e59a-42cf-bf94-f0ff91bca481	ecb50842-dc98-4073-8259-44a1bad6604f	e9bb9afc-c61f-4081-9d25-eb961c432b07
+2022-04-03	18:00	  	UNLV 	at	  	BOISE	 	   	A	C	M	d1     	25354489-c31f-4294-88f6-b7f5a5dccc87	60678f32-a44d-4006-96d9-f745d2b5e785	ec60e82f-5ce2-4a24-8ce4-42a575495a96
+2022-04-03	18:00	  	GAST 	at	  	PRES 	 	   	A	 	M	d1     	7c56399b-6bf2-4dcd-96dc-6eca8afe09b0	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	e79da0fc-acdb-4db4-8a3e-36ea7503910a
+2022-04-03	18:00	  	SCLAR	at	  	GONZ 	 	   	A	C	M	d1     	12da963f-db09-4430-8238-0c5972bd0aae	3c323468-362c-4b72-b754-fd7d9e0dc220	274cc1dc-1564-4f14-8bb9-10746ba44ce9
+2022-04-03	18:00	  	TULSA	at	  	OKST 	 	   	A	 	M	d1     	c45e9ee0-09e1-4acd-8fbc-056f21ba43ee	ce99ed51-d0dc-468b-810c-e084f0b8edcd	7ca32775-9631-4994-a3af-9d5048fe6c62
+2022-04-03	18:00	  	ARK  	at	  	BAMA 	 	   	A	C	M	d1     	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	9b87115c-def8-48fb-a3d6-25887547fcbb	4390185d-1f71-41cf-a958-21ef58a83d3a
+2022-04-03	19:00	  	ALA&M	at	  	AUB  	 	   	A	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	dc80d974-5c75-47d8-a3a3-6361ea0c1c7c	4b409023-3d30-4833-8e28-de075ceb1369
+2022-04-03	20:00	  	CPOLY	at	  	UCI  	 	   	A	C	M	d1     	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	e1b7b68b-58b9-4d19-9761-2e5bc89a816c	b8988a3b-77c4-4db1-8d55-60633e92f59e
+2022-04-03	20:00	  	SFU  	at	  	SHU  	 	   	A	C	M	d1     	bd8d7b73-91a3-45a1-9166-f678da686816	420446c8-df50-4290-a204-29ca7bbde631	29e29788-1b47-4582-b6aa-5ad55e1ea126
+2022-04-04	15:00	  	MEM  	at	  	SMU  	 	   	A	C	M	d1     	2c645dc8-b625-479e-8cb3-cdcd76cf90ca	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	a558d0d9-9166-475f-96f8-55ba2ee52f5b
+2022-04-04	18:00	  	CPOLY	at	  	UCR  	 	   	A	C	M	d1     	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	e398ab66-d246-4ba9-96bd-89a7db4f1181	52d504b1-0593-4b11-9c92-002f22b21f77
+2022-04-05	18:30	  	ELON 	at	  	JMU  	 	   	A	 	M	d1     	eec765ae-0eac-40f4-a2b6-749afede93fe	de3fdef6-26af-455a-923a-50c877976d03	06ae6e14-fd1b-4af5-ac5b-174ab85f9881
+2022-04-06	19:30	  	MSM  	at	  	LOY  	 	   	A	 	M	d1     	bc77be1f-40d8-42ae-beb3-5ac0f29d7716	8852f3b3-fbb2-4d3a-a274-9852282508c7	1e154b70-cdee-46ec-8807-2187f497bcaa
+2022-04-06	20:00	  	LOU  	at	  	ND   	 	   	A	C	M	d1     	c9ca8b99-867b-4c0f-a57e-3445ef22d5a6	804abb9d-ce89-4455-b47c-5b8b88d8443b	9bf94228-aa7e-4343-90ce-e10a7b2c6c5e
+2022-04-07	19:00	  	SHU  	at	  	NJIT 	 	   	A	 	M	d1     	420446c8-df50-4290-a204-29ca7bbde631	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	b6131acf-46c5-4fec-9c21-b30ebd0691cf
+2022-04-07	 5:00	  	ETSU 	at	  	CIT  	 	   	A	C	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	bfef7e8c-0da8-42a8-ae69-11d28e53eab5	44a52a24-0ff8-4d59-a762-1b851496e232
+2022-04-07	19:00	  	LOY  	vs	  	STEV 	 	   	H	 	M	d1/d3  	8852f3b3-fbb2-4d3a-a274-9852282508c7	fbeb70a8-0b86-4637-b88c-b1984116dba1	43eb79f7-e121-402a-b286-1cd014abc19b
+2022-04-08	23:00	 1	FLA  	at	  	BAMA 	 	   	A	C	M	d1     	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	9b87115c-def8-48fb-a3d6-25887547fcbb	5c8eb494-b257-4842-8952-3e2cec6f60aa
+2022-04-08	23:00	  	OKST 	at	 2	BAY  	 	   	A	C	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	c98c90ae-39d9-4a59-a427-6f7414841709	f6bc048f-dec5-4391-84b2-54c4e30d4dc2
+2022-04-08	17:00	 4	TENN 	at	12	UK   	 	   	A	C	M	d1     	4458bc13-c379-4847-b5cc-c752cdeb97bf	6b435f63-1b41-4988-b46b-964b883547c5	12c05724-c35c-4472-a822-de2671985611
+2022-04-08	19:00	 7	UVA  	at	  	FSU  	 	   	A	C	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	9c25db90-c2f2-438d-b418-1e31df40e351	b4f6a34e-23c9-414b-9b3d-f4901112e330
+2022-04-08	22:00	11	UCF  	at	  	TULSA	 	   	A	C	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	c45e9ee0-09e1-4acd-8fbc-056f21ba43ee	04562a60-2b1f-44f9-90d3-b1cfd54bd60e
+2022-04-08	21:00	  	UTAH 	at	15	ARIZ 	 	   	A	C	M	d1     	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	ab3f5fab-38c0-4eb7-980a-1dc1cce5e928	45be529d-87cd-41ef-b6e2-1e34c2ffc102
+2022-04-08	22:00	23	ILL  	at	  	NEB  	 	   	A	C	M	d1     	a9d92d42-3f88-4848-9408-52d767937662	df63a514-e637-4161-9cc6-351d66e2c018	dd98a884-5df9-4f35-aea3-8ac2d6c80f70
+2022-04-08	23:00	24	OKLA 	at	  	TTU  	 	   	A	C	M	d1     	1c9c888b-631c-4c23-a1b3-c035f56249b4	8169af92-629d-4274-964f-efa6320d0b9e	a0bd2b68-1215-4a10-b565-a0a9fcb60ea6
+2022-04-08	15:00	  	SEA  	vs	  	UTRGV	 	   	N	C	M	d1     	eba51fbd-1cba-4a05-a89b-33fa7a5d1bbe	9bd9be97-8ec4-442e-ba85-81b5182b6e96	114fef85-830f-4374-91d5-532da6e71e41
+2022-04-08	17:30	  	DUQ  	at	  	JOES 	 	   	A	C	M	d1     	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	4b0560a2-5de5-4807-9756-55d2e6814828	2e7fa5fb-d9cf-41f8-a858-ec35690d582d
+2022-04-08	18:00	  	WMU  	at	  	BALL 	 	   	A	C	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	76487a7a-de11-448c-bed1-006f9b605564	de6e1b01-1144-4c86-b0e2-28488ec6ccc7
+2022-04-08	18:00	  	DREX 	at	  	TEM  	 	   	A	 	M	d1     	5bdb61af-3a9c-475b-8724-82cb40339a51	9206c498-1f17-4a78-ac21-42ca7319faa9	a6794a0b-72ac-405c-a321-22218253c676
+2022-04-08	18:00	  	SDSU 	at	  	UNLV 	 	   	A	C	M	d1     	35c09d02-006a-4078-bff0-c2edf554545d	25354489-c31f-4294-88f6-b7f5a5dccc87	c6e4308e-c055-4b3d-b15b-5e27e07381b3
+2022-04-08	18:00	  	HAW  	at	  	UCR  	 	   	A	C	M	d1     	f397dbcc-9ec5-4643-9bfe-401d9659496c	e398ab66-d246-4ba9-96bd-89a7db4f1181	a01cf1ff-bac5-4812-9ae4-5ac75a66d44a
+2022-04-08	18:00	  	UNM  	at	  	NEV  	 	   	A	C	M	d1     	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	179fa123-e59a-42cf-bf94-f0ff91bca481	a619ee28-56b0-4b45-87ae-504a510b99c1
+2022-04-08	19:00	  	LIB  	at	  	BELL 	 	   	A	C	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	822847fc-9ebf-4a65-8cce-3a9455652188	f3673f01-1a23-48d2-b826-b67cca540776
+2022-04-08	19:00	  	IND  	at	  	MSU  	 	   	A	C	M	d1     	21baaa68-c3b5-4eab-b424-ea430fe572e3	58f0b75c-c78a-4142-aa5d-4683c18e1164	a0712daf-2ca3-43ea-8e90-c432baed89ab
+2022-04-08	19:00	  	VT   	at	  	MIA  	 	   	A	C	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	f3bfc7c5-86d6-4af3-9377-c84209a35968	6e15ea82-9dd4-4bc9-9c98-161b53f2d3c8
+2022-04-08	20:00	  	BOISE	at	  	AFA  	 	   	A	C	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	f9a5a78a-3058-444f-b99e-31370aaceecb
+2022-04-08	20:00	  	ND   	at	  	BC   	 	   	A	C	M	d1     	804abb9d-ce89-4455-b47c-5b8b88d8443b	fc92b93f-2d30-4b64-be6b-7cfd8126222d	be34cd13-424c-45e9-bc75-db814a4e3879
+2022-04-08	20:00	  	NW   	at	  	WIS  	 	   	A	C	M	d1     	f0f65ff6-3eab-4489-851d-855a9d36b5a4	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	b26aa8b4-7e4a-4d55-bd98-04445477abda
+2022-04-08	20:30	  	ORE  	at	  	CAL  	 	   	A	C	M	d1     	83b5face-98d6-481c-969f-65c294b836e8	821d45ba-9b76-4bc5-8f40-68dfaee763a5	52a6cf32-6d52-438e-ad02-862c88c14a2b
+2022-04-08	21:00	  	LIP  	at	  	FGCU 	 	   	A	C	M	d1     	a2baf051-4021-4f55-af9c-b2f4adae0076	09fa2def-947b-4629-b20b-c7df3f0f5669	6aa334b7-913e-404b-80ff-206b97b8f5da
+2022-04-08	21:30	  	ALA&M	at	  	MTSU 	 	   	A	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	c33f86fb-c98b-4fbc-83cc-95e2582a1215	a020416e-6f2a-4b3b-9daa-382846a4be72
+2022-04-08	22:00	  	GT   	at	  	NCST 	 	   	A	C	M	d1     	8f398642-3995-428a-84be-ce55c55bc5fd	df9a8e27-9fa3-413b-9028-442efef29ffd	ca3dd981-9cc1-465f-a992-6fa2eac5775d
+2022-04-08	 6:00	  	CHIC 	vs	  	LAMAR	 	   	N	C	M	d1     	8dd5dcd2-a830-4b06-95ce-15b3a4e1e55c	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	b333285f-b7d0-4613-b8eb-c17bd693956b
+2022-04-08	 6:32	  	VCU  	at	  	ELON 	 	   	A	 	M	d1     	06471a92-4609-433c-bbb9-cd1cc8b44b31	eec765ae-0eac-40f4-a2b6-749afede93fe	96833a24-5d41-46c5-9ca8-66ba23eeae10
+2022-04-08	18:00	  	CRE  	vs	  	MIDLN	 	   	H	 	M	d1/naia	8f5d16e2-da67-430e-8211-e7131e57aee6	0a2622aa-6cab-4c7f-9574-aec123ba961c	80b4d85c-f7e0-4a61-a8cc-e9d9739e0177
+2022-04-09	 2:00	 3	TEX  	at	 5	TCU  	 	   	A	C	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	96f36c2b-99a2-4795-9e32-84a32742fdee	18fb1659-6e9c-41b7-8426-96bc977c00d9
+2022-04-09	22:00	 9	USC  	at	25	UCLA 	 	   	A	C	M	d1     	a9bceb19-dac7-4b1a-8093-356440403f7b	697a7501-5c60-4b68-9cdf-10f194e275e9	28cb05dc-fbd8-4755-930d-e03c883f8119
+2022-04-09	18:00	21	HARV 	at	  	CLMB 	 	   	A	C	M	d1     	9d7e8d65-7878-47e7-9f33-fcb748be886f	06f842c2-f8dd-4ccd-9abb-a4853dd2761f	a2908afd-1009-47b6-857d-a0102140c2ee
+2022-04-09	14:00	  	HOW  	at	  	NAVY 	 	   	A	 	M	d1     	3a34fd57-ed2c-40a8-932b-00ba5253c843	05616340-eaab-41a5-9dc7-137f06712c1a	3942b194-cbc3-49aa-94e1-fd9b68bf72ea
+2022-04-09	15:00	  	GCU  	vs	  	UTRGV	 	   	N	C	M	d1     	9ee74ce3-1e1a-457d-8fe8-a52b5c63f17a	9bd9be97-8ec4-442e-ba85-81b5182b6e96	1c6c819e-62ee-49f3-9e5a-97f863040d14
+2022-04-09	16:00	  	JMU  	at	  	DEL  	 	   	A	 	M	d1     	de3fdef6-26af-455a-923a-50c877976d03	7b7e3908-63d5-4531-b569-db402118d136	de26ab22-acdf-47eb-89d3-fd0b39913e24
+2022-04-09	16:00	  	RICE 	at	  	UTSA 	 	   	A	 	M	d1     	31894235-e994-4660-a773-50d353f245b0	b03a8dee-7b47-4eaf-91f8-87e112633989	d855121e-6883-4c86-b2b7-c83814176730
+2022-04-09	17:00	  	BROWN	at	  	PRIN 	 	   	A	C	M	d1     	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	b39276ed-a8c8-4fa3-98a9-f915107798e7	910a44b2-7d69-4cbf-a91c-522754aeeb6b
+2022-04-09	17:00	  	PRES 	at	  	CAMP 	 	   	A	C	M	d1     	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	815e2c01-7a93-46c1-a48e-822e6738739b	118360db-7dcc-41e5-b280-85c8c63ce3c4
+2022-04-09	17:00	  	YALE 	at	  	PRIN 	 	   	A	C	M	d1     	64305e8d-015d-473a-8b96-6949b90e1fa5	b39276ed-a8c8-4fa3-98a9-f915107798e7	afcb72b9-ab6d-4913-8696-7e54fb0b5536
+2022-04-09	18:00	  	BYU  	at	  	SCLAR	 	   	A	C	M	d1     	53f1c9be-0b9c-49da-ab3c-832d384f56aa	12da963f-db09-4430-8238-0c5972bd0aae	323e237a-245f-4977-a05b-f55d962698a9
+2022-04-09	18:00	  	BUCK 	at	  	NAVY 	 	   	A	C	M	d1     	1f53a886-d9c1-4074-a93e-90383e6ceae0	05616340-eaab-41a5-9dc7-137f06712c1a	794c0984-edc1-4a0d-a8be-c5332390738a
+2022-04-09	18:00	  	HOF  	at	  	TEM  	 	   	A	 	M	d1     	c773c087-0eea-41bf-b6c0-cde71bd7fded	9206c498-1f17-4a78-ac21-42ca7319faa9	a8780c85-f93d-4657-920f-4f56f7c2b882
+2022-04-09	19:00	  	UCD  	at	  	CPOLY	 	   	A	C	M	d1     	d5605ec8-ca90-4ff2-9165-7caeaa90593d	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	22fa34dd-98b1-4fca-90fa-021a807a2453
+2022-04-09	19:00	  	CRE  	at	  	DRAKE	 	   	A	 	M	d1     	8f5d16e2-da67-430e-8211-e7131e57aee6	f7a61dcf-6c2b-498d-ab59-d18796b65533	ba7e3a78-c9d0-4d8e-93d3-946416cc8a70
+2022-04-09	19:00	  	WASH 	at	  	CAL  	 	   	A	C	M	d1     	120192a9-3571-49b1-aec9-b9e7ece54af2	821d45ba-9b76-4bc5-8f40-68dfaee763a5	5bf9e433-fc2c-42b5-af74-9767d810a20a
+2022-04-09	20:00	  	SF   	at	  	USD  	 	   	A	C	M	d1     	99671a37-b72b-4c34-8b56-3b8c0ec3f701	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	92893f9c-4ad3-4f76-944e-ebb6430b2105
+2022-04-09	 5:00	  	MER  	at	  	ETSU 	 	   	A	C	M	d1     	83007027-7d20-42e6-a72e-3389c48e74c1	7d084cdf-ec82-4f40-99de-75524f7c1268	7189e7c4-1bce-4c88-858c-1378f3730262
+2022-04-09	 6:00	  	LAMAR	vs	  	NMSU 	 	   	N	C	M	d1     	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	0586d52b-52a3-43bc-9fd2-40311f2d1e24	1383e3c7-271c-439c-9c67-b0925203bf88
+2022-04-09	17:00	  	DUQ  	at	  	MILL 	 	   	A	 	M	d1/d2  	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	ee3fc13e-7b5f-4954-a246-96b2286c0a3d	e0518ac8-fbc0-4576-860a-9415ac538507
+2022-04-10	17:00	 1	FLA  	at	  	AUB  	 	   	A	C	M	d1     	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	dc80d974-5c75-47d8-a3a3-6361ea0c1c7c	3b97dd31-8334-42ba-a352-5c972126069f
+2022-04-10	18:00	24	OKLA 	at	 2	BAY  	 	   	A	C	M	d1     	1c9c888b-631c-4c23-a1b3-c035f56249b4	c98c90ae-39d9-4a59-a427-6f7414841709	09ade5dd-ed64-457b-8ea1-df361550fe43
+2022-04-10	17:00	 4	TENN 	at	  	VANDY	 	   	A	C	M	d1     	4458bc13-c379-4847-b5cc-c752cdeb97bf	592aafc0-8320-4fb0-8161-842be0124a4d	e60126ac-ff05-41df-b3b7-5ac24d0015bc
+2022-04-10	17:00	 7	UVA  	at	  	MIA  	 	   	A	C	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	f3bfc7c5-86d6-4af3-9377-c84209a35968	d333bcfa-4b17-4afb-aa6c-0810ba7ad62d
+2022-04-10	17:00	11	UCF  	at	  	MEM  	 	   	A	C	M	d1     	554755e6-c18c-4936-9cae-3e20507dbbe5	2c645dc8-b625-479e-8cb3-cdcd76cf90ca	b69d4371-3bd2-4fa1-b7ff-11fb16fe2c35
+2022-04-10	18:00	13	SCAR 	at	  	BAMA 	 	   	A	C	M	d1     	1a7ceae0-50e2-4311-84a4-ff857da8fb42	9b87115c-def8-48fb-a3d6-25887547fcbb	82eea79c-5959-4d84-abe4-688245334863
+2022-04-10	22:00	  	UTRGV	at	19	A&M  	 	   	A	 	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	702d4d29-6636-4f06-a35c-f22e3953ae0c	0a3bc8dd-c82a-4b12-9e7e-c5b3d2f171f2
+2022-04-10	17:00	21	HARV 	at	  	COR  	 	   	A	C	M	d1     	9d7e8d65-7878-47e7-9f33-fcb748be886f	479ca8ce-37c4-4f3e-9b97-b59da1625496	da406f6e-8240-4221-9e8b-20a1ac9d68da
+2022-04-10	17:00	23	ILL  	at	  	WIS  	 	   	A	C	M	d1     	a9d92d42-3f88-4848-9408-52d767937662	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	33918ac6-0ab6-4ca7-aaa8-89f96455d8f9
+2022-04-10	14:00	  	MTST 	at	  	IDAHO	 	   	A	C	M	d1     	0e9c11b8-b7a0-4456-89cf-fa422075d587	6323c0ec-c161-4aec-be54-42c46fdc44ee	fe433b8c-f840-488a-8e41-c165fc2f2e3d
+2022-04-10	15:00	  	BUCK 	at	  	LOY  	 	   	A	C	M	d1     	1f53a886-d9c1-4074-a93e-90383e6ceae0	8852f3b3-fbb2-4d3a-a274-9852282508c7	25a74ef7-9a8b-4346-8b85-fea73d0bf116
+2022-04-10	15:00	  	GMU  	at	  	TEM  	 	   	A	 	M	d1     	dc6c3807-278e-4207-8406-e84a46dea6de	9206c498-1f17-4a78-ac21-42ca7319faa9	84557afd-9505-4116-9399-94ec9401ae10
+2022-04-10	15:00	  	SIEN 	at	  	MONM 	 	   	A	C	M	d1     	3d1fc2b5-5baa-4ac5-ba43-e8ec11f5873a	9e74d368-e8a8-43fa-ade6-fd2c06c09660	8693bc3b-207f-4f09-8edb-32987bb9ce2f
+2022-04-10	16:00	  	ALA&M	vs	  	TNST 	 	   	H	 	M	d1     	e45d5a86-9c6e-4888-8668-eb662aeac421	66bf58e4-a00f-4b55-bb0a-ebafbdc3083c	94dd9e9c-8e7f-4b7c-8569-37ef6560e7a9
+2022-04-10	16:00	  	CLEM 	at	  	NCST 	 	   	A	C	M	d1     	24f244b6-deb6-4fab-80fd-7ac5227f4832	df9a8e27-9fa3-413b-9028-442efef29ffd	194799b2-a5ca-447c-a058-f2a8b3bceaf5
+2022-04-10	16:00	  	JVST 	at	  	FGCU 	 	   	A	C	M	d1     	3b004ff1-9778-41e0-916c-fd50361b9489	09fa2def-947b-4629-b20b-c7df3f0f5669	63802289-a746-4837-a03e-86a021c394db
+2022-04-10	16:00	  	NAVY 	at	  	HC   	 	   	A	C	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	d5c611d8-396c-463d-add1-7e0239e69610	f3ea8d72-d4b9-4c1d-8bfb-db2ae1449c54
+2022-04-10	16:00	  	NAVY 	at	  	LAF  	 	   	A	C	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	5038ae5d-e4bd-4486-b8e6-f270d1359e13	ecff0a6f-7205-4339-a00f-d02b517faf93
+2022-04-10	16:00	  	PUR  	at	  	MSU  	 	   	A	C	M	d1     	a543fdbb-635e-49f3-9db7-131479ee826e	58f0b75c-c78a-4142-aa5d-4683c18e1164	04db959d-0345-42c5-91fb-47851fadf190
+2022-04-10	16:00	  	NJIT 	at	  	DEL  	 	   	A	 	M	d1     	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	7b7e3908-63d5-4531-b569-db402118d136	3f9047ec-69f7-48c7-990d-9f1fb270bbef
+2022-04-10	17:00	  	BROWN	at	  	PENN 	 	   	A	C	M	d1     	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302	2f558b47-32aa-4f60-994f-6588f949adb9
+2022-04-10	17:00	  	CIT  	at	  	WOF  	 	   	A	C	M	d1     	bfef7e8c-0da8-42a8-ae69-11d28e53eab5	67596492-ca8a-4a21-bfaf-6312c57bfd25	f04dad9e-2e43-43e7-a8d5-caeaa855eed2
+2022-04-10	17:00	  	VT   	at	  	FSU  	 	   	A	C	M	d1     	326c560b-3bb3-4be7-ba93-35e5c67470fd	9c25db90-c2f2-438d-b418-1e31df40e351	b15f4a31-642f-4dbb-9188-9d97d7385552
+2022-04-10	17:00	  	LIB  	at	  	VCU  	 	   	A	 	M	d1     	8227948e-4130-481f-bbdd-44e9614dd4b9	06471a92-4609-433c-bbb9-cd1cc8b44b31	8c871041-f530-4ebb-9626-64821e1e2fbc
+2022-04-10	17:00	  	NW   	at	  	NEB  	 	   	A	C	M	d1     	f0f65ff6-3eab-4489-851d-855a9d36b5a4	df63a514-e637-4161-9cc6-351d66e2c018	563eb463-cb81-49ee-baa6-9437508be4e5
+2022-04-10	17:00	  	UNCG 	at	  	PRES 	 	   	A	 	M	d1     	67ec62a5-5279-4d6b-97cb-62899104c8c5	b50dcdbd-a074-4cc5-868f-8608ecd2a56d	94d555af-f2b7-4115-b431-b1df90158668
+2022-04-10	17:00	  	SMU  	at	  	TULN 	 	   	A	C	M	d1     	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	f02eef55-0142-475c-a01e-4d4f94735285	fce31fe5-35d9-4369-a148-c8a92d3d8acd
+2022-04-10	17:00	  	YALE 	at	  	PENN 	 	   	A	C	M	d1     	64305e8d-015d-473a-8b96-6949b90e1fa5	9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302	e911578b-d689-4e20-be3f-74c3096e9332
+2022-04-10	18:00	  	BOISE	at	  	UNM  	 	   	A	C	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	c25c428c-b757-4056-93f2-6acb8aa3acfd
+2022-04-10	18:00	  	OKST 	at	  	TTU  	 	   	A	C	M	d1     	ce99ed51-d0dc-468b-810c-e084f0b8edcd	8169af92-629d-4274-964f-efa6320d0b9e	19326a93-c0ae-424a-bcde-2f3ffe9e83ba
+2022-04-10	18:00	  	UNA  	at	  	STET 	 	   	A	C	M	d1     	92c30d24-0fa2-4fc1-9133-4b92a703c5ed	05c8a8b6-b11b-4cba-b77a-28390bead223	a155b4a3-8bb4-40f9-81a9-134f3ec07f8e
+2022-04-10	18:00	  	UNLV 	at	  	AFA  	 	   	A	C	M	d1     	25354489-c31f-4294-88f6-b7f5a5dccc87	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	7a9d7b6d-b4e3-46e3-be6b-9fe44cc8ea67
+2022-04-10	18:00	  	WMU  	at	  	TOL  	 	   	A	C	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	43f36f5b-2163-450e-878e-9971da0dbf52	34c7d559-1928-448d-a0f3-c6cc41f05b0a
+2022-04-10	19:00	  	UCSD 	at	  	CPOLY	 	   	A	C	M	d1     	0ca38170-ba7c-42c1-b26b-bdbebf9cd4af	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	16daa451-eb73-49ff-aa30-446b2064d1f0
+2022-04-10	20:00	  	UTAH 	at	  	AZST 	 	   	A	C	M	d1     	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	80cfa0c6-e529-4b50-83cd-14c3845501ae	a317b6fc-5d05-4e08-86c2-4b1cc65cc475
+2022-04-10	20:00	  	USD  	at	  	SCLAR	 	   	A	C	M	d1     	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	12da963f-db09-4430-8238-0c5972bd0aae	73aca053-cc87-420f-8292-9c28992f8bc8
+2022-04-10	 8:00	  	USU  	at	  	SDSU 	 	   	A	C	M	d1     	ecb50842-dc98-4073-8259-44a1bad6604f	35c09d02-006a-4078-bff0-c2edf554545d	0db835a0-3c44-499a-8b35-1245e30fb19f
+2022-04-12	 5:00	  	ETSU 	at	  	FUR  	 	   	A	C	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	227ef7d0-2d9a-4698-bed1-45933908a82a	724b8025-c269-447e-b901-f22cd0a610e5
+2022-04-13	19:00	 7	UVA  	at	  	VT   	 	   	A	C	M	d1     	ea538604-050f-4d44-9f6b-7cfaef251022	326c560b-3bb3-4be7-ba93-35e5c67470fd	61b76939-2bc9-4635-ac56-bd813b03126b
+2022-04-13	18:00	  	CPOLY	vs	  	SCLAR	 	   	N	 	M	d1     	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	12da963f-db09-4430-8238-0c5972bd0aae	67953033-ad1a-4809-947e-85f994ba6301
+2022-04-14	23:00	 3	TEX  	at	24	OKLA 	 	   	A	C	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	1c9c888b-631c-4c23-a1b3-c035f56249b4	553b5fd0-b194-4511-8e33-2a9be145035e
+2022-04-14	22:00	 5	TCU  	at	  	OKST 	 	   	A	C	M	d1     	96f36c2b-99a2-4795-9e32-84a32742fdee	ce99ed51-d0dc-468b-810c-e084f0b8edcd	69905406-c13b-40a4-b81a-683b7a94785b
+2022-04-14	 0:00	  	USD  	at	 9	USC  	 	   	A	 	M	d1     	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	a9bceb19-dac7-4b1a-8093-356440403f7b	e7deda54-54b8-4526-9bf8-8996abd86a81
+2022-04-14	20:00	  	CPOLY	at	16	STAN 	 	   	A	 	M	d1     	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	28e9c099-0f9e-4c8e-b8a6-374479b1c04e	ea4d269e-ac94-4234-930f-808197e1b454
+2022-04-14	18:00	  	STET 	at	  	BELL 	 	   	A	C	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	822847fc-9ebf-4a65-8cce-3a9455652188	35bb99e9-c506-477a-9c39-fc8d4712a633
+2022-04-14	18:00	  	SACST	at	  	MTST 	 	   	A	C	M	d1     	44f14f0d-5ba1-4743-8372-2d709304738b	0e9c11b8-b7a0-4456-89cf-fa422075d587	e090c286-409a-4350-b434-f37477784807
+2022-04-14	19:00	  	UNF  	at	  	LIB  	 	   	A	C	M	d1     	b153fad2-fdf8-4697-a1c4-632576465463	8227948e-4130-481f-bbdd-44e9614dd4b9	18f6e2d6-fda0-4d4c-a678-5591b2bf7aed
+2022-04-15	21:00	  	BAMA 	at	 4	TENN 	 	   	A	C	M	d1     	9b87115c-def8-48fb-a3d6-25887547fcbb	4458bc13-c379-4847-b5cc-c752cdeb97bf	0149b79e-0827-4786-b7a7-dd73f055a0be
+2022-04-15	21:00	 9	USC  	at	  	UTAH 	 	   	A	C	M	d1     	a9bceb19-dac7-4b1a-8093-356440403f7b	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	b8a8d8b9-7390-409a-95a2-f0e2d5da11de
+2022-04-15	20:00	19	A&M  	at	13	SCAR 	 	   	A	C	M	d1     	702d4d29-6636-4f06-a35c-f22e3953ae0c	1a7ceae0-50e2-4311-84a4-ff857da8fb42	03424ed3-86f5-4f32-8b8a-c5b291ce7ba9
+2022-04-15	18:00	  	ARK  	at	18	MISS 	 	   	A	C	M	d1     	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6	50878027-90b4-4884-b6f6-af89c0ca04d9	b110f6bb-2814-4e28-9334-2c5d2ee28e6a
+2022-04-15	20:00	  	VANDY	at	20	MSST 	 	   	A	C	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	815cd16b-2fd1-48ae-8a26-348a4631fbe3	bbfbfdb5-c96b-42e1-a85b-3299a6fd71d7
+2022-04-15	16:00	  	UTSA 	at	  	LAMAR	 	   	A	 	M	d1     	b03a8dee-7b47-4eaf-91f8-87e112633989	7f9b3f3b-a188-4da5-a63e-25cbf7117c8d	686177dd-ebd1-42da-85b1-f4bbf2126d7f
+2022-04-15	16:00	  	MSU  	at	  	PSU  	 	   	A	C	M	d1     	58f0b75c-c78a-4142-aa5d-4683c18e1164	fb7dbb61-bb92-4e5c-9acd-e7415ef014d1	ba82df24-5cb4-452a-904c-38f22ad755f4
+2022-04-15	17:00	  	NJIT 	at	  	HOF  	 	   	A	 	M	d1     	fd17cb3a-a863-4c98-aa4e-a6142d98dda2	c773c087-0eea-41bf-b6c0-cde71bd7fded	3285828b-2268-449f-a966-df552fa140f1
+2022-04-15	17:00	  	ODU  	at	  	VCU  	 	   	A	 	M	d1     	58a905af-7bde-4917-aaee-96c1c08a1e55	06471a92-4609-433c-bbb9-cd1cc8b44b31	d7f2e443-42c7-48d8-a581-d5ce7a3848f7
+2022-04-15	19:00	  	BC   	at	  	VT   	 	   	A	C	M	d1     	fc92b93f-2d30-4b64-be6b-7cfd8126222d	326c560b-3bb3-4be7-ba93-35e5c67470fd	aa7cf265-0fbf-41bc-b59f-3953895ab227
+2022-04-15	19:00	  	WOF  	at	  	FUR  	 	   	A	C	M	d1     	67596492-ca8a-4a21-bfaf-6312c57bfd25	227ef7d0-2d9a-4698-bed1-45933908a82a	d6a90f4b-ba54-4ce4-87f5-f3a2248733c3
+2022-04-15	19:00	  	WIS  	at	  	IND  	 	   	A	C	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	21baaa68-c3b5-4eab-b424-ea430fe572e3	05201f53-2838-4255-a8f1-7f3d4153a448
+2022-04-15	22:00	  	DUKE 	at	  	NCST 	 	   	A	C	M	d1     	4b118544-8956-46b9-b4fb-6bf1ee2998e9	df9a8e27-9fa3-413b-9028-442efef29ffd	55b21469-54c5-46af-a80a-4cd0877c0619
+2022-04-15	22:00	  	JMU  	vs	  	MORG 	 	   	N	 	M	d1     	de3fdef6-26af-455a-923a-50c877976d03	0fc5fa3c-6215-46de-aff6-da3502d1a301	3b0408f8-78f0-4fde-b93e-3c98dc7a9b57
+2022-04-15	16:00	  	DUQ  	at	  	CMU  	 	   	A	 	M	d1/d3  	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	8d265662-9c08-4660-a94c-8590d497a660	15065138-4fd9-4cfb-bc0c-ed82dcbf0aa2
+2022-04-15	21:00	  	CRE  	vs	  	DOANE	 	   	H	 	M	d1/naia	8f5d16e2-da67-430e-8211-e7131e57aee6	1da6ccc2-2bdc-4748-86f6-cd85311be0ee	743294b4-d09a-4325-a06f-03c53172066f
+2022-04-16	22:00	 2	BAY  	at	  	TTU  	 	   	A	C	M	d1     	c98c90ae-39d9-4a59-a427-6f7414841709	8169af92-629d-4274-964f-efa6320d0b9e	e86728fd-7b36-4e57-a379-6a605df2b180
+2022-04-16	18:00	 3	TEX  	at	  	OKST 	 	   	A	C	M	d1     	e71bce99-4132-47ae-8006-5372d54ffda9	ce99ed51-d0dc-468b-810c-e084f0b8edcd	35f8c62c-7794-4b58-bd66-fbf728943c0c
+2022-04-16	22:00	 5	TCU  	at	24	OKLA 	 	   	A	C	M	d1     	96f36c2b-99a2-4795-9e32-84a32742fdee	1c9c888b-631c-4c23-a1b3-c035f56249b4	33132183-3bfe-42c2-9dff-98113b8630b3
+2022-04-16	17:00	  	PRIN 	at	21	HARV 	 	   	A	C	M	d1     	b39276ed-a8c8-4fa3-98a9-f915107798e7	9d7e8d65-7878-47e7-9f33-fcb748be886f	f88cfa07-57f7-4590-843e-2cf93ec629cf
+2022-04-16	14:00	  	FGCU 	at	  	UNA  	 	   	A	C	M	d1     	09fa2def-947b-4629-b20b-c7df3f0f5669	92c30d24-0fa2-4fc1-9133-4b92a703c5ed	88d9d733-b915-423a-af9f-8a767f8500af
+2022-04-16	16:00	  	NAVY 	at	  	COLG 	 	   	A	C	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	2c41c78e-f6d3-4b46-a274-21bf9acfaae2	7941f2e2-853b-483e-98f5-cc2b96ba6a7a
+2022-04-16	16:00	  	RICE 	at	  	SMU  	 	   	A	 	M	d1     	31894235-e994-4660-a773-50d353f245b0	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	f2423cc7-e406-42aa-8f60-83626d3d8c99
+2022-04-16	17:00	  	BOISE	at	  	USU  	 	   	A	C	M	d1     	60678f32-a44d-4006-96d9-f745d2b5e785	ecb50842-dc98-4073-8259-44a1bad6604f	213eae10-f1a4-4f8f-9621-9bd561cc5d12
+2022-04-16	17:00	  	CLMB 	at	  	BROWN	 	   	A	C	M	d1     	06f842c2-f8dd-4ccd-9abb-a4853dd2761f	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	64f42a22-2541-435b-9cd8-52d37a8e178a
+2022-04-16	17:00	  	W&M  	at	  	ODU  	 	   	A	 	M	d1     	04a904aa-24a6-4c97-9ec3-a47c58f6811e	58a905af-7bde-4917-aaee-96c1c08a1e55	13f35b37-180f-4c85-b0fc-1428d6d1927d
+2022-04-16	17:00	  	ETSU 	at	  	VCU  	 	   	A	 	M	d1     	7d084cdf-ec82-4f40-99de-75524f7c1268	06471a92-4609-433c-bbb9-cd1cc8b44b31	33d76ae1-f949-4f9d-ad05-bcf67a6e50af
+2022-04-16	17:00	  	UTRGV	at	  	PVA&M	 	   	A	 	M	d1     	9bd9be97-8ec4-442e-ba85-81b5182b6e96	0f2d3577-681d-46e4-994f-3637fbb28aa5	3599849f-bb42-4040-9607-72ef060894f9
+2022-04-16	17:00	  	NEB  	at	  	PUR  	 	   	A	C	M	d1     	df63a514-e637-4161-9cc6-351d66e2c018	a543fdbb-635e-49f3-9db7-131479ee826e	30e9bfa9-6b5a-4845-87e0-87f4e8ef32a4
+2022-04-16	18:00	  	COR  	at	  	YALE 	 	   	A	C	M	d1     	479ca8ce-37c4-4f3e-9b97-b59da1625496	64305e8d-015d-473a-8b96-6949b90e1fa5	793c599b-be3f-4f04-baef-e928b4d39764
+2022-04-16	18:00	  	NAVY 	at	  	NORF 	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	cd2dad89-8a53-4e6b-8e7f-c69e8c2a77a1	2fc07578-1132-4c46-9771-50d1e94a404f
+2022-04-16	19:00	  	STET 	at	  	LIB  	 	   	A	C	M	d1     	05c8a8b6-b11b-4cba-b77a-28390bead223	8227948e-4130-481f-bbdd-44e9614dd4b9	47650277-eb52-49f7-9f99-4182fed5ea26
+2022-04-16	19:00	  	WMU  	at	  	NIU  	 	   	A	C	M	d1     	a9c27cee-81a3-4a9c-8696-9e4749b77d6f	e5b75f8b-62d1-4ed6-b40a-04f4a6459de9	ca6cbd5f-d04c-4e24-b57f-738640aecc06
+2022-04-16	19:00	  	AFA  	at	  	UNLV 	 	   	A	C	M	d1     	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	25354489-c31f-4294-88f6-b7f5a5dccc87	0601e650-6b40-47c7-8842-0f5b38ff93f9
+2022-04-16	 8:00	  	UNM  	at	  	SDSU 	 	   	A	C	M	d1     	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	35c09d02-006a-4078-bff0-c2edf554545d	76be6b22-a9b3-442c-9026-291c9574eef4
+2022-04-16	21:00	  	SMU  	vs	  	TXDAL	 	   	H	 	M	d1/d3  	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	a0a55d0f-a3d1-4cd2-ace8-8ed2d03afff3	de0616fa-c29c-4c45-bb37-7f17b9478172
+2022-04-17	21:00	19	A&M  	at	 1	FLA  	 	   	A	C	M	d1     	702d4d29-6636-4f06-a35c-f22e3953ae0c	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7	b3a60c69-6bd5-4884-b729-4007d4e8ab63
+2022-04-17	17:00	  	AUB  	at	 4	TENN 	 	   	A	C	M	d1     	dc80d974-5c75-47d8-a3a3-6361ea0c1c7c	4458bc13-c379-4847-b5cc-c752cdeb97bf	1a1c0d79-04b5-4d65-b406-f40f4fec528e
+2022-04-17	16:00	  	MSU  	at	 6	OSU  	 	   	A	C	M	d1     	58f0b75c-c78a-4142-aa5d-4683c18e1164	207d4b1b-1e63-4e78-bb86-ddaf39559295	e2781ae7-8e8e-4db9-95ed-a0338b0d3e6e
+2022-04-17	17:00	  	BC   	at	 7	UVA  	 	   	A	C	M	d1     	fc92b93f-2d30-4b64-be6b-7cfd8126222d	ea538604-050f-4d44-9f6b-7cfaef251022	8f36cae4-09bf-4174-a548-b7c7e8eb7964
+2022-04-17	18:00	  	BAMA 	at	 8	UGA  	 	   	A	C	M	d1     	9b87115c-def8-48fb-a3d6-25887547fcbb	f81b9e62-3331-41dc-9a41-365b04b4da5f	5ce0fe24-ad7e-4fb2-ba6b-fc233e3556d1
+2022-04-17	22:00	10	WAKE 	vs	  	NCWES	 	   	H	 	M	d1/d3  	0a89a4fe-5bf5-4e60-8708-989d07766f35	937d5342-65a5-408d-ae53-e7b492d45ed4	783bdb4e-90d3-4f0c-8d6b-411a4ff5adbf
+2022-04-17	16:00	14	UNC  	at	  	NCST 	 	   	A	C	M	d1     	8544d2ac-773a-409d-b22e-6af0ee807c63	df9a8e27-9fa3-413b-9028-442efef29ffd	167fdac2-1f3f-48f5-8f48-29a406fa22c9
+2022-04-17	20:30	16	STAN 	at	  	CAL  	 	   	A	C	M	d1     	28e9c099-0f9e-4c8e-b8a6-374479b1c04e	821d45ba-9b76-4bc5-8f40-68dfaee763a5	11f3033d-8713-48a8-b41e-15e1e5c1303d
+2022-04-17	18:00	  	VANDY	at	18	MISS 	 	   	A	C	M	d1     	592aafc0-8320-4fb0-8161-842be0124a4d	50878027-90b4-4884-b6f6-af89c0ca04d9	a1e81027-d6d4-49f6-9cc3-880ef3f6f556
+2022-04-17	17:00	  	PENN 	at	21	HARV 	 	   	A	C	M	d1     	9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302	9d7e8d65-7878-47e7-9f33-fcb748be886f	a29bd356-0285-41d2-896d-e0f4aa12b7a8
+2022-04-17	19:00	22	PEPP 	at	  	USD  	 	   	A	C	M	d1     	25d26c49-1008-4b55-8440-fc23552b5144	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	8c857db7-df03-4451-8306-43ba24e93352
+2022-04-17	21:00	25	UCLA 	at	  	UTAH 	 	   	A	C	M	d1     	697a7501-5c60-4b68-9cdf-10f194e275e9	a41f5f5b-7957-43f1-ab9f-9f751ba0760c	267a4668-5c94-438e-9c4b-bd01e51ebe8a
+2022-04-17	16:00	  	WIS  	at	  	PUR  	 	   	A	C	M	d1     	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	a543fdbb-635e-49f3-9db7-131479ee826e	2295f700-2014-4723-9f94-cf1931f6c3cd
+2022-04-17	17:00	  	COR  	at	  	BROWN	 	   	A	C	M	d1     	479ca8ce-37c4-4f3e-9b97-b59da1625496	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	cacb084f-fb23-4fb3-9a19-925e4ff31e77
+2022-04-17	17:00	  	NEB  	at	  	IND  	 	   	A	C	M	d1     	df63a514-e637-4161-9cc6-351d66e2c018	21baaa68-c3b5-4eab-b424-ea430fe572e3	99393e2d-1d72-4e07-8cec-47275df4a4d7
+2022-04-17	18:00	  	CLMB 	at	  	YALE 	 	   	A	C	M	d1     	06f842c2-f8dd-4ccd-9abb-a4853dd2761f	64305e8d-015d-473a-8b96-6949b90e1fa5	f07b5f5f-e1f6-4f33-8e4f-7fc1a7a76ad1
+2022-04-17	20:00	  	JMU  	at	  	PSU  	 	   	A	 	M	d1     	de3fdef6-26af-455a-923a-50c877976d03	fb7dbb61-bb92-4e5c-9acd-e7415ef014d1	f49e655c-26b1-4d0d-b98f-ac8ceed07d4e
+2022-04-18	18:00	  	LOY  	at	  	RIDER	 	   	A	 	M	d1     	8852f3b3-fbb2-4d3a-a274-9852282508c7	04af8b21-64e9-45fe-8b13-9b33af61d998	3be62dee-ee15-4045-9d32-29d311888277
+2022-04-18	23:00	  	SMU  	at	  	TULSA	 	   	A	C	M	d1     	3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25	c45e9ee0-09e1-4acd-8fbc-056f21ba43ee	ffb44242-cea5-4bc5-af94-adccca799faf
+2022-04-20	19:00	  	LOY  	at	  	NAVY 	 	   	A	C	M	d1     	8852f3b3-fbb2-4d3a-a274-9852282508c7	05616340-eaab-41a5-9dc7-137f06712c1a	5e912f8e-17d2-4100-8dd6-562979d5fccb
+2022-04-20	19:00	  	NAVY 	at	  	MSM  	 	   	A	 	M	d1     	05616340-eaab-41a5-9dc7-137f06712c1a	bc77be1f-40d8-42ae-beb3-5ac0f29d7716	13f30952-4123-4f91-8196-bf9c68cc2015
+2022-04-21	16:00	  	SDSU 	at	  	BOISE	 	   	A	C	M	d1     	35c09d02-006a-4078-bff0-c2edf554545d	60678f32-a44d-4006-96d9-f745d2b5e785	02db4d86-36fb-4718-92d8-ad4966a3b44d
+2022-04-21	20:00	  	USU  	at	  	AFA  	 	   	A	C	M	d1     	ecb50842-dc98-4073-8259-44a1bad6604f	76d4432d-c5b8-4e8e-a0d2-acedaa1338c8	8e0ccf86-13b7-4d6a-aa95-f638dcbc4da3
+2022-04-22	20:00	 6	OSU  	at	  	WIS  	 	   	A	C	M	d1     	207d4b1b-1e63-4e78-bb86-ddaf39559295	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	5cb2ca89-f5dd-4e5a-b1ef-3cd2ebdba5bb
+2022-04-22	18:00	21	HARV 	at	  	BROWN	 	   	A	C	M	d1     	9d7e8d65-7878-47e7-9f33-fcb748be886f	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	8a78b327-3420-41a6-8730-c37cecbad15c
+2022-04-22	19:00	  	VCU  	at	  	W&M  	 	   	A	 	M	d1     	06471a92-4609-433c-bbb9-cd1cc8b44b31	04a904aa-24a6-4c97-9ec3-a47c58f6811e	c303289c-426a-43a1-9f0d-6e5ba14a7ea2
+2022-04-22	19:00	  	DART 	at	  	YALE 	 	   	A	C	M	d1     	0c562e0e-6590-4d08-ab0d-8dd91b82dd1e	64305e8d-015d-473a-8b96-6949b90e1fa5	d167c59e-58c0-4fe1-9f1d-df0a05d27f8c
+2022-04-22	22:00	  	PSU  	at	  	NEB  	 	   	A	C	M	d1     	fb7dbb61-bb92-4e5c-9acd-e7415ef014d1	df63a514-e637-4161-9cc6-351d66e2c018	bd273b6d-206d-4599-b12b-176c218c6ae0
+2022-04-23	16:00	  	MSU  	at	17	MICH 	 	   	A	C	M	d1     	58f0b75c-c78a-4142-aa5d-4683c18e1164	36d44c05-1bb6-4b49-a2d1-b2f00e27821e	e86dac33-2c7e-4b20-80c4-0e5c2e3726ee
+2022-04-23	16:00	  	DUQ  	vs	  	FORD 	 	   	N	C	M	d1     	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	833d05eb-0bc8-4444-99b5-36d23037d74d	4dd71bb5-493b-4a43-ac6d-dc2be7cc7ae6
+2022-04-23	17:00	  	ARMY 	at	  	NAVY 	 	   	A	C	M	d1     	7a3fcbba-2ee8-4951-aea9-d76a0d6f9390	05616340-eaab-41a5-9dc7-137f06712c1a	3c66a0bc-0fac-4354-990f-89d1b3c5574a
+2022-04-23	17:30	  	UCSB 	at	  	CPOLY	 	   	A	C	M	d1     	911fc75e-825e-4361-8c2b-eb8d074c3293	a3edbd1f-7a70-4cdd-94ce-cbceba5a05af	8286bf79-1fa2-475f-9e4f-c458fdc132eb
+2022-04-23	18:00	  	LEH  	at	  	BUCK 	 	   	A	C	M	d1     	2ff66ecb-960e-4991-9b1e-00a2bf43760b	1f53a886-d9c1-4074-a93e-90383e6ceae0	580458f1-66a7-486e-a806-e046cef95590
+2022-04-23	18:00	  	MONT 	at	  	MTST 	 	   	A	C	M	d1     	562fbb01-5445-4962-8c24-ba692bfee723	0e9c11b8-b7a0-4456-89cf-fa422075d587	24b9057f-4f5e-44a0-bda4-fe0515b6c92d
+2022-04-23	20:00	  	USD  	at	  	PAC  	 	   	A	C	M	d1     	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	0bf79a9f-4f88-450b-baff-46a4cabb32c9	64719d65-852e-4de6-b026-8ce57d8bbe0d
+2022-04-23	 7:00	  	USU  	at	  	UNM  	 	   	A	C	M	d1     	ecb50842-dc98-4073-8259-44a1bad6604f	f7f0b4b7-bb10-4891-9c80-08fd46e75ee9	f91960c7-0c27-4f43-ac79-8340505152d8
+2022-04-23	 8:00	  	SDSU 	at	  	NEV  	 	   	A	C	M	d1     	35c09d02-006a-4078-bff0-c2edf554545d	179fa123-e59a-42cf-bf94-f0ff91bca481	6b326501-6092-4428-9e34-d31916298e59
+2022-04-24	17:00	 6	OSU  	at	  	NEB  	 	   	A	C	M	d1     	207d4b1b-1e63-4e78-bb86-ddaf39559295	df63a514-e637-4161-9cc6-351d66e2c018	89fdbaf2-cccb-4408-a029-cba12cc689b5
+2022-04-24	18:00	  	YALE 	at	21	HARV 	 	   	A	C	M	d1     	64305e8d-015d-473a-8b96-6949b90e1fa5	9d7e8d65-7878-47e7-9f33-fcb748be886f	92904929-804f-41bc-8982-7cd9ab775cf3
+2022-04-24	15:00	  	DUQ  	at	  	GMU  	 	   	A	C	M	d1     	917e7cf5-6f73-4bd8-ad40-fd85ac05e66d	dc6c3807-278e-4207-8406-e84a46dea6de	29338d61-2b19-4e04-ac72-ed786365b9ef
+2022-04-24	17:00	  	BROWN	at	  	DART 	 	   	A	C	M	d1     	85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd	0c562e0e-6590-4d08-ab0d-8dd91b82dd1e	c40541d1-c434-4a3a-8ec6-3edd87d05dd2
+2022-04-24	17:00	  	PSU  	at	  	WIS  	 	   	A	C	M	d1     	fb7dbb61-bb92-4e5c-9acd-e7415ef014d1	86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca	195d6ee9-545e-4643-a6b9-00a0420bc99e
+2022-04-24	18:00	  	SCLAR	at	  	LOYM 	 	   	A	C	M	d1     	12da963f-db09-4430-8238-0c5972bd0aae	d5480368-b1c4-4a44-8918-b6f2a954538b	c086f3d0-ca0a-40b0-93d6-5fe3d5b8daed
+2022-04-24	18:00	  	HAW  	at	  	UCI  	 	   	A	C	M	d1     	f397dbcc-9ec5-4643-9bfe-401d9659496c	e1b7b68b-58b9-4d19-9761-2e5bc89a816c	50b1c10f-48b7-48cb-ad85-a91f93d0cbee
+2022-04-24	19:00	  	USD  	at	  	SMCC 	 	   	A	C	M	d1     	9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124	ccbb6602-fa03-42ac-a3f5-1d62f7967c27	29c34817-c5a0-457f-8002-76b7afd6d568
+2022-04-24	15:00	  	LOY  	vs	  	HRTCC	 	   	H	 	M	d1/juco	8852f3b3-fbb2-4d3a-a274-9852282508c7	a45c800a-2d5d-460a-8ce3-7988cedc8eb9	a62c0474-cd0a-4e62-a404-201a284e8ab5
+2022-04-30	22:00	  	UCSD 	at	  	CMS  	 	   	A	 	M	d1/d3  	0ca38170-ba7c-42c1-b26b-bdbebf9cd4af	2c1e0011-48e4-4b73-ba97-0e0f32792d17	1e5e568a-0f9b-4f28-9368-18302e9bb586
