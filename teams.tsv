@@ -1,10 +1,11 @@
 ---
 teams: 685
+version: 2
 ---
 division	conference	gender	code	name	city	state	slamId	ncaaId	utrId	r2Id	itaId
 ??? 	???      	M	     	Saint Thomas University                   	                	  		     	    		33d4c4f8-4d5b-4a64-8588-89ef4698cca3
-d1  	A-10     	M	  DAV	Davidson College                          	        Davidson	NC		173  	1081		89e5371a-c936-4f5b-94b6-55ddcc8009ce
 d1  	A-10     	W	  DAV	Davidson College                          	        Davidson	NC		173  	1082		285c51f2-c66f-41c0-ae54-c44057c8de1a
+d1  	A-10     	M	  DAV	Davidson College                          	        Davidson	NC		173  	1081		89e5371a-c936-4f5b-94b6-55ddcc8009ce
 d1  	A-10     	W	  DUQ	Duquesne University                       	      Pittsburgh	PA		194  	1091		654c0aab-ee2a-4667-83fe-f11b4e18964a
 d1  	A-10     	M	  DUQ	Duquesne University                       	      Pittsburgh	PA		194  	1090		917e7cf5-6f73-4bd8-ad40-fd85ac05e66d
 d1  	A-10     	M	 FORD	Fordham University                        	           Bronx	NY		236  	1286		833d05eb-0bc8-4444-99b5-36d23037d74d
@@ -429,16 +430,16 @@ d1  	SEC      	M	 SCAR	University Of South Carolina              	        Columb
 d1  	SEC      	M	VANDY	Vanderbilt University                     	       Nashville	TN		736  	979 		592aafc0-8320-4fb0-8161-842be0124a4d
 d1  	SEC      	W	VANDY	Vanderbilt University                     	       Nashville	TN		736  	980 		38fa7bcf-aebc-4bcb-b253-b33a5ab8f7a7
 d1  	SoCon    	M	  CIT	Citadel Military College                  	      Charleston	SC		141  	1096		bfef7e8c-0da8-42a8-ae69-11d28e53eab5
-d1  	SoCon    	M	 ETSU	East Tennessee State Univ.                	    Johnson City	TN		198  	945 		7d084cdf-ec82-4f40-99de-75524f7c1268
 d1  	SoCon    	W	 ETSU	East Tennessee State Univ.                	    Johnson City	TN		198  	946 		c498251e-610f-4e62-a84a-139a595e141b
+d1  	SoCon    	M	 ETSU	East Tennessee State Univ.                	    Johnson City	TN		198  	945 		7d084cdf-ec82-4f40-99de-75524f7c1268
 d1  	SoCon    	W	  FUR	Furman University                         	      Greenville	SC		244  	1203		7d7c3660-53d9-4fbd-bede-2d4ae380e624
 d1  	SoCon    	M	  FUR	Furman University                         	      Greenville	SC		244  	1202		227ef7d0-2d9a-4698-bed1-45933908a82a
 d1  	SoCon    	M	  MER	Mercer University                         	           Macon	GA		406  	1232		83007027-7d20-42e6-a72e-3389c48e74c1
 d1  	SoCon    	W	  MER	Mercer University                         	           Macon	GA		406  	1233		45b4a6d4-1e01-491e-94a0-e0b4d6d6d885
 d1  	SoCon    	M	  SAM	Samford University                        	      Birmingham	AL		625  	1222		15a64e5f-aa11-4935-afce-b43f84e45cdc
 d1  	SoCon    	W	  SAM	Samford University                        	      Birmingham	AL		625  	1223		f40aea03-e4eb-48b1-a818-25eb64d69cfc
-d1  	SoCon    	M	 UNCG	UNC Greensboro                            	      Greensboro	NC		459  	989 		67ec62a5-5279-4d6b-97cb-62899104c8c5
 d1  	SoCon    	W	 UNCG	UNC Greensboro                            	      Greensboro	NC		459  	990 		03ea4bf9-4630-4dc5-9e97-e2b5a9230a25
+d1  	SoCon    	M	 UNCG	UNC Greensboro                            	      Greensboro	NC		459  	989 		67ec62a5-5279-4d6b-97cb-62899104c8c5
 d1  	SoCon    	M	 CHAT	Univ. Of Tennessee, Chattanooga           	     Chattanooga	TN		693  	1069		797d7406-7b39-468a-89ae-147b676855b0
 d1  	SoCon    	W	 CHAT	Univ. Of Tennessee, Chattanooga           	     Chattanooga	TN		693  	1070		b6a0a9da-9aa2-40fc-9605-abad58afda70
 d1  	SoCon    	W	  WCU	Western Carolina University               	       Cullowhee	NC		769  	1758		871521e6-2488-465c-b9eb-1b5797b31088
@@ -500,7 +501,6 @@ d1  	SWAC     	W	 GRAM	Grambling State University                	       Grambli
 d1  	SWAC     	M	 JKST	Jackson State University                  	         Jackson	MS		314  	1441		8e3a9e19-e217-4002-93af-c6c8cf816444
 d1  	SWAC     	W	 JKST	Jackson State University                  	         Jackson	MS		314  	1442		688b0ee9-1b58-4986-966b-f4e6bf720ef8
 d1  	SWAC     	M	 MVSU	Mississippi Valley State University       	       Itta Bena	MS		432  	3059		72156573-7d31-4e36-8a37-e53e890d391c
-d1  	SWAC     	W	 MVSU	Mississippi Valley State University       	       Itta Bena	MS		432  	3060		969686eb-0b95-4c59-99a6-4fecf74bee0c
 d1  	SWAC     	M	PVA&M	Prairie View A&M Univ.                    	    Prairie View	TX		553  	1027		0f2d3577-681d-46e4-994f-3637fbb28aa5
 d1  	SWAC     	W	PVA&M	Prairie View A&M Univ.                    	    Prairie View	TX		553  	1028		5bb833de-c045-4cc2-af75-6007dc7a936d
 d1  	SWAC     	W	  SOU	Southern University, Baton Rouge          	     Baton Rouge	LA		665  	1717		92d88f63-d48d-4386-bd23-d5f416184576
@@ -545,6 +545,7 @@ d1  	WCC      	W	  PAC	University Of The Pacific                 	        Stockt
 d2  	CACC     	M	  CHC	Chestnut Hill College                     	    Philadelphia	PA		21323	1580		2dcd5609-978e-4584-9df1-9d6641e0ebe3
 d2  	CC       	M	  BAC	Belmont Abbey College                     	         Belmont	NC		2683 	1896		4f4d127c-878b-4a63-b993-06665c241e19
 d2  	CC       	M	  EMM	Emmanuel College                          	Franklin Springs	GA		30193	2890		bf21aa5e-fb08-4278-8b7c-a389e0e03433
+d2  	CC       	W	 LMRC	Lees-McRae College                        	      Banner Elk	NC		13302	1480		b9512c7f-5336-4e20-b1cb-d13c2d1c6827
 d2  	CC       	M	  NGC	North Greenville University               	      Tigerville	SC		9223 	2491		711925ae-4b00-49df-92ec-86074c249e0e
 d2  	ECC      	W	DAEMN	Daemen College                            	         Amherst	NY		30174	2765		4de92024-7fc3-4290-bfbb-6dc5c348fedb
 d2  	ECC      	M	DAEMN	Daemen College                            	         Amherst	NY		30174	2764		08db4a9f-1d70-4475-bb00-ea2fe99bdb20
@@ -556,6 +557,7 @@ d2  	GAC      	W	  SAU	Southern Arkansas University              	        Magnol
 d2  	GLIAC    	M	 FERR	Ferris State University                   	      Big Rapids	MI		224  	1590		8bb86959-1ce8-4c94-a7db-0f9250c276b8
 d2  	GLIAC    	M	 GVSU	Grand Valley State Univ.                  	       Allendale	MI		262  	1776		e816ada9-351c-494b-84cd-3c2aadbaae3d
 d2  	GLIAC    	W	 GVSU	Grand Valley State Univ.                  	       Allendale	MI		262  	1777		f93ef716-b0a2-4845-80b1-414b29ba74f7
+d2  	GLIAC    	W	  PNW	Purdue University Northwest               	         Hammond	IN		30222	3045		0778dbf5-519c-45eb-be14-425698046834
 d2  	GLIAC    	W	  WSU	Wayne State University                    	         Detroit	MI		757  	2486		3e11882f-3014-4db1-9661-79139264d659
 d2  	GLIAC    	M	  WSU	Wayne State University                    	         Detroit	MI		757  	2485		4f6afebb-1b43-4ac3-908f-cbe94fa4551d
 d2  	GLVC     	M	  LEW	Lewis University                          	      Romeoville	IL		354  	1568		28e954a4-0de0-4794-9274-bfa93d4e0041
@@ -611,8 +613,6 @@ d2  	SSC      	W	  ROL	Rollins College                           	     Winter Pa
 d3  	ASC      	W	CNCTX	Concordia University, Texas               	          Austin	TX		24400	2972		a586b075-7e45-4382-be9f-bd56934cd02a
 d3  	ASC      	W	 UMHB	Univ. Of Mary Hardin-Baylor               	          Belton	TX		1203 	1982		d3dca46b-06d4-4fd1-ac7f-cce6f1e66f45
 d3  	ASC      	M	TXDAL	Univ. Of Texas, Dallas                    	      Richardson	TX		23121	1616		a0a55d0f-a3d1-4cd2-ace8-8ed2d03afff3
-d3  	C2C      	W	 CNEW	Christopher Newport Univ.                 	    Newport News	VA		139  	1413		e7970da3-2c04-4a93-9d7e-e291bd4ea857
-d3  	C2C      	W	 MWSH	Univ. Of Mary Washington                  	  Fredericksburg	VA		390  	1645		7d52d87d-4d84-46c7-b800-4066819f083a
 d3  	C2C      	M	 UCSC	University Of California, Santa Cruz      	      Santa Cruz	CA		113  	1427		91b81904-b804-432b-aa46-be061862ac7e
 d3  	CCC      	W	ENDCT	Endicott College                          	         Beverly	MA		8981 	2315		d310909c-99cc-4d4b-ae9d-15830bb1fd40
 d3  	Ind.     	W	RTNEW	Rutgers Univ./Newark                      	          Newark	NJ		     	2343		ff716a03-ea9d-4900-9639-4278fcf36ec1
@@ -661,6 +661,7 @@ naia	CCAC     	W	HCRIN	Holy Cross College/Notre Dame             	      Notre Da
 naia	CCAC     	W	 ROOS	Roosevelt University                      	         Chicago	IL		     	1797		d191e4ef-5cef-485c-840a-c21950c56223
 naia	CCAC     	W	USFIL	Univ. Of Saint Francis, IL                	          Joliet	IL		     	2606		59d4b2c8-04b8-4fd5-9502-ee69af1c6296
 naia	CCAC     	W	USFIL	Univ. Of Saint Francis, IL                	          Joliet	IL		     	2605		c954c09f-dc94-4290-a81f-b623c0f2626a
+naia	CL       	W	 MARU	Marian University                         	    Indianapolis	IN		     	2568		86c03096-8441-4f49-a2d0-fbd5e80c459d
 naia	Golden St	W	AZCHR	Arizona Christian University              	         Phoenix	AZ		     	2776		cbd3d40f-a0e0-4258-9042-d484d0b4af10
 naia	Golden St	M	AZCHR	Arizona Christian University              	         Phoenix	AZ		     	2775		f3644cc2-7369-47e6-95e0-3bd2aad9fced
 naia	Golden St	W	HOINT	Hope International University             	       Fullerton	CA		     	1924		e488ade1-6d3d-46a0-ae18-5aac6fc57d9b
