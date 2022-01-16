@@ -1,7 +1,7 @@
 ---
 division: d1
 gender: M
-matches: 1117
+matches: 1120
 version: 2
 ---
 dateET	timeET	rank	team	at	oppRank	opponent	outcome	score	location	conference	gender	division	teamId	opponentId	dualId	date
@@ -32,42 +32,43 @@ dateET	timeET	rank	team	at	oppRank	opponent	outcome	score	location	conference	ge
 2022-01-12	 7:00pm	  	UTRGV	at	 5	TCU  	L	1-6	A	 	M	d1     				2022-01-13T00:00:00.000Z
 2022-01-12	 2:00pm	  	OMAHA	at	  	ARK  	 	   	A	 	M	d1     				2022-01-12T19:00:00.000Z
 2022-01-12	 7:00pm	  	SEA  	at	  	WASH 	 	   	A	 	M	d1     				2022-01-13T00:00:00.000Z
-2022-01-13	11:00am	  	PVA&M	at	  	SMU  	 	   	A	 	M	d1     				2022-01-13T16:00:00.000Z
-2022-01-13	 3:00pm	  	PVA&M	at	  	SMU  	 	   	A	 	M	d1     				2022-01-13T20:00:00.000Z
+2022-01-13	11:00am	  	PVA&M	at	  	SMU  	L	0-7	A	 	M	d1     				2022-01-13T16:00:00.000Z
+2022-01-13	 3:00pm	  	PVA&M	at	  	SMU  	L	0-7	A	 	M	d1     				2022-01-13T20:00:00.000Z
 2022-01-13	 4:30pm	  	UTRGV	at	  	TTU  	L	0-7	A	 	M	d1     				2022-01-13T21:30:00.000Z
 2022-01-14	 7:00pm	 1	FLA  	at	 5	TCU  	 	   	A	 	M	d1     				2022-01-15T00:00:00.000Z
 2022-01-14	 1:00pm	  	UTSA 	at	 3	TEX  	L	1-6	A	 	M	d1     				2022-01-14T18:00:00.000Z
-2022-01-14	10:00am	  	BRY  	vs	  	LAMAR	 	   	N	 	M	d1     				2022-01-14T15:00:00.000Z
-2022-01-14	 2:00pm	  	LAMAR	at	  	OKST 	 	   	A	 	M	d1     				2022-01-14T19:00:00.000Z
+2022-01-14	10:00am	  	BRY  	vs	  	LAMAR	L	1-6	N	 	M	d1     				2022-01-14T15:00:00.000Z
+2022-01-14	 2:00pm	  	LAMAR	at	  	OKST 	L	1-6	A	 	M	d1     				2022-01-14T19:00:00.000Z
 2022-01-14	 3:00pm	  	KENN 	at	  	WOF  	W	6-1	A	 	M	d1     				2022-01-14T20:00:00.000Z
 2022-01-14	 4:00pm	  	VT   	at	  	MSU  	L	2-2	A	 	M	d1     				2022-01-14T21:00:00.000Z
 2022-01-14	 4:00pm	  	AFA  	at	  	MTST 	L	2-5	A	 	M	d1     				2022-01-14T21:00:00.000Z
 2022-01-14	 5:00pm	  	GCU  	at	  	AZST 	L	0-6	A	 	M	d1     				2022-01-14T22:00:00.000Z
 2022-01-14	 5:00pm	  	BING 	at	  	FGCU 	 	   	A	 	M	d1     				2022-01-14T22:00:00.000Z
+2022-01-14	 5:00pm	  	BRY  	at	  	OKST 	L	0-7	A	 	M	d1     				2022-01-14T22:00:00.000Z
 2022-01-14	 6:00pm	  	BOISE	vs	  	PRST 	 	   	N	 	M	d1     				2022-01-14T23:00:00.000Z
-2022-01-14	 6:00pm	  	BRY  	at	  	OKST 	 	   	A	 	M	d1     				2022-01-14T23:00:00.000Z
-2022-01-14	 8:00pm	  	EIU  	at	  	MSU  	 	   	A	 	M	d1     				2022-01-15T01:00:00.000Z
+2022-01-14	 8:00pm	  	EIU  	at	  	MSU  	L	0-7	A	 	M	d1     				2022-01-15T01:00:00.000Z
 2022-01-15	 1:00pm	  	ULLAF	at	 2	BAY  	 	   	A	 	M	d1     				2022-01-15T18:00:00.000Z
 2022-01-15	 7:00pm	  	ABCHR	at	 2	BAY  	 	   	A	 	M	d1     				2022-01-16T00:00:00.000Z
 2022-01-15	 2:00pm	  	IWORD	at	24	OKLA 	 	   	A	 	M	d1     				2022-01-15T19:00:00.000Z
 2022-01-15	 6:00pm	  	BRY  	at	24	OKLA 	 	   	A	 	M	d1     				2022-01-15T23:00:00.000Z
-2022-01-15	10:00am	  	BUTL 	at	  	WMU  	 	   	A	 	M	d1     				2022-01-15T15:00:00.000Z
+2022-01-15	10:00am	  	BUTL 	at	  	WMU  	L	1-6	A	 	M	d1     				2022-01-15T15:00:00.000Z
+2022-01-15	11:00am	  	BING 	vs	  	TROY 	L	0-7	N	 	M	d1     				2022-01-15T16:00:00.000Z
 2022-01-15	11:00am	  	UND  	at	  	NEB  	 	   	A	 	M	d1     				2022-01-15T16:00:00.000Z
-2022-01-15	12:00pm	  	IDST 	at	  	UTAH 	 	   	A	 	M	d1     				2022-01-15T17:00:00.000Z
 2022-01-15	 2:00pm	  	BOISE	at	  	ORE  	 	   	A	 	M	d1     				2022-01-15T19:00:00.000Z
-2022-01-15	 2:00pm	  	AFA  	vs	  	EWU  	 	   	N	 	M	d1     				2022-01-15T19:00:00.000Z
-2022-01-15	 2:00pm	  	MER  	at	  	BAMA 	 	   	A	 	M	d1     				2022-01-15T19:00:00.000Z
-2022-01-15	 2:00pm	  	PUR  	at	  	SMU  	 	   	A	 	M	d1     				2022-01-15T19:00:00.000Z
+2022-01-15	 2:00pm	  	AFA  	vs	  	EWU  	W	6-1	N	 	M	d1     				2022-01-15T19:00:00.000Z
+2022-01-15	 2:00pm	  	IDST 	at	  	UTAH 	 	   	A	 	M	d1     				2022-01-15T19:00:00.000Z
+2022-01-15	 2:00pm	  	MER  	at	  	BAMA 	L	1-6	A	 	M	d1     				2022-01-15T19:00:00.000Z
+2022-01-15	 2:00pm	  	PUR  	at	  	SMU  	L	3-4	A	 	M	d1     				2022-01-15T19:00:00.000Z
 2022-01-15	 2:30pm	  	KENN 	at	  	PRES 	 	   	A	 	M	d1     				2022-01-15T19:30:00.000Z
 2022-01-15	 5:00pm	  	TROY 	at	  	FGCU 	 	   	A	 	M	d1     				2022-01-15T22:00:00.000Z
 2022-01-15	 5:00pm	  	OMAHA	at	  	NEB  	 	   	A	 	M	d1     				2022-01-15T22:00:00.000Z
 2022-01-15	 5:00pm	  	UCSB 	at	  	WASH 	 	   	A	 	M	d1     				2022-01-15T22:00:00.000Z
-2022-01-15	 6:00pm	  	IDST 	at	  	UTAH 	 	   	A	 	M	d1     				2022-01-15T23:00:00.000Z
-2022-01-15	 7:00pm	  	SAM  	at	  	BAMA 	 	   	A	 	M	d1     				2022-01-16T00:00:00.000Z
+2022-01-15	 7:00pm	  	SAM  	at	  	BAMA 	L	0-1	A	 	M	d1     				2022-01-16T00:00:00.000Z
+2022-01-15	 8:00pm	  	IDST 	at	  	UTAH 	 	   	A	 	M	d1     				2022-01-16T01:00:00.000Z
 2022-01-15	 8:00pm	  	CAL  	at	  	TULSA	 	   	A	 	M	d1     				2022-01-16T01:00:00.000Z
 2022-01-15	 8:00pm	  	WEBER	at	  	ORE  	 	   	A	 	M	d1     				2022-01-16T01:00:00.000Z
-2022-01-15	 3:00pm	  	FERR 	at	  	WMU  	 	   	A	 	M	d2/d1  				2022-01-15T20:00:00.000Z
-2022-01-15	 3:30pm	  	NKU  	at	  	TMORE	 	   	A	 	M	d1/naia				2022-01-15T20:30:00.000Z
+2022-01-15	 3:00pm	  	FERR 	at	  	WMU  	L	1-6	A	 	M	d2/d1  				2022-01-15T20:00:00.000Z
+2022-01-15	 3:30pm	  	NKU  	at	  	TMORE	W	7-0	A	 	M	d1/naia				2022-01-15T20:30:00.000Z
 2022-01-16	 1:00pm	 1	FLA  	at	 3	TEX  	 	   	A	 	M	d1     				2022-01-16T18:00:00.000Z
 2022-01-16	 1:00pm	 4	TENN 	at	 5	TCU  	 	   	A	 	M	d1     				2022-01-16T18:00:00.000Z
 2022-01-16	 1:00pm	  	VCU  	at	 7	UVA  	 	   	A	 	M	d1     				2022-01-16T18:00:00.000Z
@@ -182,6 +183,7 @@ dateET	timeET	rank	team	at	oppRank	opponent	outcome	score	location	conference	ge
 2022-01-28	 2:00pm	  	ND   	vs	  	SMU  	 	   	N	 	M	d1     				2022-01-28T19:00:00.000Z
 2022-01-28	 3:00pm	  	HAW  	at	  	UNLV 	 	   	A	 	M	d1     				2022-01-28T20:00:00.000Z
 2022-01-28	 4:00pm	  	BUFF 	at	  	YALE 	 	   	A	 	M	d1     				2022-01-28T21:00:00.000Z
+2022-01-28	 4:00pm	  	UCSB 	at	  	LOYM 	 	   	A	 	M	d1     				2022-01-28T21:00:00.000Z
 2022-01-28	 7:00pm	  	HAW  	vs	  	UCR  	 	   	N	 	M	d1     				2022-01-29T00:00:00.000Z
 2022-01-28	 8:00pm	  	USU  	at	  	WASH 	 	   	A	 	M	d1     				2022-01-29T01:00:00.000Z
 2022-01-28	11:00am	  	MSUD 	at	  	AFA  	 	   	A	 	M	d2/d1  				2022-01-28T16:00:00.000Z
@@ -442,6 +444,7 @@ dateET	timeET	rank	team	at	oppRank	opponent	outcome	score	location	conference	ge
 2022-02-19	 1:00pm	  	DRAKE	at	  	USU  	 	   	A	 	M	d1     				2022-02-19T18:00:00.000Z
 2022-02-19	 1:30pm	  	JMU  	vs	  	NIU  	 	   	N	 	M	d1     				2022-02-19T18:30:00.000Z
 2022-02-19	 2:00pm	  	BYU  	at	  	UNM  	 	   	A	 	M	d1     				2022-02-19T19:00:00.000Z
+2022-02-19	 3:00pm	  	ORE  	vs	  	LOYM 	 	   	N	 	M	d1     				2022-02-19T20:00:00.000Z
 2022-02-19	 5:00pm	  	CHIC 	at	  	CRE  	 	   	A	 	M	d1     				2022-02-19T22:00:00.000Z
 2022-02-19	 5:00pm	  	AFA  	vs	  	ARMY 	 	   	N	 	M	d1     				2022-02-19T22:00:00.000Z
 2022-02-19	12:00pm	  	LOC  	at	  	COLG 	 	   	A	 	M	d2/d1  				2022-02-19T17:00:00.000Z
