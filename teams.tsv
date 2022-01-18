@@ -1,5 +1,5 @@
 ---
-teams: 685
+teams: 684
 version: 2
 ---
 division	conference	gender	code	name	city	state	slamId	ncaaId	utrId	r2Id	itaId
@@ -62,8 +62,8 @@ d1  	American 	W	 ECAR	East Carolina          	      Greenville	NC		196  	1078		
 d1  	American 	W	  HOU	Houston                	         Houston	TX		288  	1720		8761f9a4-1727-4a10-89c3-69e4c625f52b
 d1  	American 	M	  MEM	Memphis                	         Memphis	TN		404  	1238		2c645dc8-b625-479e-8cb3-cdcd76cf90ca
 d1  	American 	W	  MEM	Memphis                	         Memphis	TN		404  	1239		73905425-3667-404f-8bdf-ff5bfcdd338e
-d1  	American 	M	  SMU	SMU                    	          Dallas	TX		663  	1035		3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25
 d1  	American 	W	  SMU	SMU                    	          Dallas	TX		663  	1036		f5f9323e-d50e-4fde-89a3-9ed947b21c93
+d1  	American 	M	  SMU	SMU                    	          Dallas	TX		663  	1035		3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25
 d1  	American 	W	  USF	South Florida          	           Tampa	FL		651  	1182		c19fa2ba-e94f-4a8d-91b5-0c094b9ab74c
 d1  	American 	M	  USF	South Florida          	           Tampa	FL		651  	1181		193a4fb2-4a26-4724-ad0b-188cb862c8b4
 d1  	American 	W	  TEM	Temple                 	    Philadelphia	PA		690  	1279		164d470a-0af3-49bb-a132-11220dd2812d
@@ -392,8 +392,8 @@ d1  	Patriot  	M	 BUCK	Bucknell               	       Lewisburg	PA		83   	1494		
 d1  	Patriot  	W	 BUCK	Bucknell               	       Lewisburg	PA		83   	1495		1ccb0af6-0cc2-468d-a86f-7891022fd7aa
 d1  	Patriot  	M	 COLG	Colgate                	        Hamilton	NY		153  	1410		2c41c78e-f6d3-4b46-a274-21bf9acfaae2
 d1  	Patriot  	W	 COLG	Colgate                	        Hamilton	NY		153  	1411		66f19e1e-a1f0-4fab-aa55-f22bbc52d7e3
-d1  	Patriot  	M	   HC	Holy Cross (MA)        	       Worcester	MA		285  	3035		d5c611d8-396c-463d-add1-7e0239e69610
 d1  	Patriot  	W	   HC	Holy Cross (MA)        	       Worcester	MA		285  	3036		65fc6eef-671e-4f7b-ac33-a45631b521b7
+d1  	Patriot  	M	   HC	Holy Cross (MA)        	       Worcester	MA		285  	3035		d5c611d8-396c-463d-add1-7e0239e69610
 d1  	Patriot  	M	  LAF	Lafayette              	          Easton	PA		342  	1272		5038ae5d-e4bd-4486-b8e6-f270d1359e13
 d1  	Patriot  	W	  LAF	Lafayette              	          Easton	PA		342  	1273		642c7553-08fb-4989-ba64-1e4f3fd3decb
 d1  	Patriot  	M	  LEH	Lehigh                 	       Bethlehem	PA		352  	1210		2ff66ecb-960e-4991-9b1e-00a2bf43760b
@@ -412,8 +412,8 @@ d1  	SEC      	M	  FLA	Florida                	     Gainesville	FL		235  	937 		
 d1  	SEC      	W	  FLA	Florida                	     Gainesville	FL		235  	938 		569e9df5-c8fa-4be7-a721-b0f2aa719fb5
 d1  	SEC      	W	  UGA	Georgia                	          Athens	GA		257  	916 		17c187d3-5257-444d-bfa9-f6e7e5216de5
 d1  	SEC      	M	  UGA	Georgia                	          Athens	GA		257  	915 		f81b9e62-3331-41dc-9a41-365b04b4da5f
-d1  	SEC      	W	   UK	Kentucky               	       Lexington	KY		334  	928 		2360c85e-a457-4d04-a247-95ec3c228f3a
 d1  	SEC      	M	   UK	Kentucky               	       Lexington	KY		334  	927 		6b435f63-1b41-4988-b46b-964b883547c5
+d1  	SEC      	W	   UK	Kentucky               	       Lexington	KY		334  	928 		2360c85e-a457-4d04-a247-95ec3c228f3a
 d1  	SEC      	M	  LSU	LSU                    	     Baton Rouge	LA		365  	2944		ee4edb63-ebba-41bc-b47c-3380f94d02a7
 d1  	SEC      	W	  LSU	LSU                    	     Baton Rouge	LA		365  	2945		f3141f46-4b84-476d-856f-5cbca2e05ddd
 d1  	SEC      	W	 MSST	Mississippi State      	      Starkville	MS		430  	1269		f191bc11-69d4-43a8-bde3-6504436ec00a
@@ -567,7 +567,6 @@ d2  	GLVC     	M	  LEW	Lewis U                	      Romeoville	IL		354  	1568		
 d2  	GLVC     	W	  LEW	Lewis U                	      Romeoville	IL		354  	1569		0d598fd9-d90a-457b-b0f9-e182556a0988
 d2  	GLVC     	W	  MCK	McKendree              	         Lebanon	IL		30138	2512		b5db7371-4c32-4c74-bb54-dab7524b2bb0
 d2  	GLVC     	W	   QU	Quincy                 	          Quincy	IL		561  	1887		41d8929f-2ef6-4104-818e-d7cf41754035
-d2  	GSC      	M	  LEE	Lee (TN)               	       Cleveland	TN		30013	2839		0ecfab2b-eec0-46d9-8460-7db0be15a657
 d2  	GSC      	W	 W AL	West Alabama           	      Livingston	AL		358  	1379		72433a27-05ec-4b3b-b1ab-5a89df6d81ca
 d2  	GSC      	W	  WGA	West Georgia           	      Carrollton	GA		766  	2098		4479c4f2-a4c4-4d8c-b3b3-aeecd087306e
 d2  	Ind.     	W	 MESA	Colorado Mesa          	  Grand Junction	CO		11416	2646		7df8013f-5b4e-4b9f-a8ae-5c14a4343115
@@ -579,11 +578,11 @@ d2  	LSC      	W	A&MKN	Texas A&M-Kingsville   	      Kingsville	TX		696  	3070		
 d2  	LSC      	W	TXTYL	Texas Tyler            	           Tyler	TX		30028	1615		65b3c12d-ffbc-48f6-b05f-73e9912fc3be
 d2  	LSC      	W	 UTPB	UTPB                   	          Odessa	TX		30088	3058		2045f812-6ebe-4907-a51e-a34aaddd66b7
 d2  	LSC      	M	 WNMU	WNM                    	     Silver City	NM		1445 	1055		682e2d41-39f2-4e9b-957a-f6c0b3f85e8f
+d2  	LSC      	W	 WNMU	WNM                    	     Silver City	NM		1445 	1056		13d180a9-64c9-42da-9e91-de236b482af5
 d2  	MEC      	M	 FMNT	Fairmont State         	        Fairmont	WV		1076 	2113		62c9f048-444b-433a-9f36-6a2c68a1f8ba
 d2  	MidAm    	W	  UNK	Nebraska - Kearney     	         Kearney	NE		1156 	1452		faa192e4-2165-48af-a1ca-773275c3d63a
 d2  	MidAm    	W	 NESU	Northeastern State (OK)	       Tahlequah	OK		12810	2083		d8effe23-2c2d-458d-a4d5-761aa2800f2a
 d2  	NE-10    	M	 ADEL	Adelphi                	     Garden City	NY		3    	1857		f7f728b3-927f-4c55-ba6d-04c5c39e8640
-d2  	NE-10    	M	  FPC	Franklin Pierce        	          Rindge	NH		241  	2058		bb0a86b5-f7ec-49a8-8c21-aa64df285ccd
 d2  	NE-10    	M	 SNHU	SNHU                   	      Manchester	NH		468  	1560		13a21cd6-aea2-4912-9ec3-e3bc4329a0dd
 d2  	NSIC     	W	MNKTO	Minnesota State        	         Mankato	MN		383  	1783		2d7e47b4-8529-4605-ba72-d1cba2848882
 d2  	PacWest  	W	  ART	Academy of Art         	   San Francisco	CA		30123	2979		29670564-4a13-45b2-b49e-9383e14544e9
@@ -594,7 +593,6 @@ d2  	PacWest  	M	  HNU	Holy Names             	         Oakland	CA		30175	2766		
 d2  	PacWest  	M	 MSUD	Metropolitan State     	          Denver	CO		413  	1612		66b70714-d038-4741-ae14-ac3ab2ede669
 d2  	PacWest  	W	 MSUD	Metropolitan State     	          Denver	CO		413  	1613		2846a626-f57b-4a40-a25a-8b92b311874c
 d2  	PBC      	M	 FLAG	Flagler                	   St. Augustine	FL		30092	2476		30904ad0-a8a2-4d2a-8989-4cba0c06547a
-d2  	PBC      	W	  LAN	Lander                 	       Greenwood	SC		1167 	1124		084aa921-5bbd-4679-9a11-a173bcd2e5c5
 d2  	PBC      	M	YOUNG	Young Harris (GA)      	    Young Harris	GA		30154	1467		0ca6cc60-011b-4c8b-a28f-c7a6582a2374
 d2  	PBC      	W	YOUNG	Young Harris (GA)      	    Young Harris	GA		30154	1468		480d34e2-54f3-49fb-9fa2-c39e70a64e4a
 d2  	PSAC     	M	  BUP	Bloomsburg             	      Bloomsburg	PA		65   	1510		4cd7f448-c50c-48bf-a74c-f722eec9ee81
@@ -625,7 +623,6 @@ d3  	MIAC     	M	 GUST	Gustavus Adolphus      	       St. Peter	MN		266  	1218		
 d3  	Midwest  	W	GRINN	Grinnell               	        Grinnell	IA		264  	2034		b6f759f4-978b-4a4e-929c-89904cc1a93f
 d3  	NCAC     	W	 WITT	Wittenberg             	     Springfield	OH		806  	1490		f4d03778-30ed-48f2-b000-a3ad89771756
 d3  	NESCAC   	W	TRICT	Trinity (CT)           	        Hartford	CT		713  	2699		2f306551-24b6-46b3-9c1e-e93951bd4c9c
-d3  	NEWMAC   	M	 BABS	Babson                 	     Babson Park	MA		45   	1955		138a8a79-1e71-4007-8985-a717ba29c4a9
 d3  	NEWMAC   	W	 BABS	Babson                 	     Babson Park	MA		45   	1956		561020ce-b911-4d69-a12b-bc9e074a676c
 d3  	NEWMAC   	W	MTHOL	Mount Holyoke          	    South Hadley	MA		449  	2129		f25a827b-3f3d-4753-a24f-4315af137c02
 d3  	NJAC     	M	 NJCU	NJCU                   	     Jersey City	NJ		319  	7795		cee000ce-6925-4bdf-a8a2-d6822af415a8
@@ -645,6 +642,7 @@ d3  	USA South	W	NCWES	NC Wesleyan            	     Rocky Mount	NC		491  	2230		
 d3  	WIAC     	W	WIWHI	UW Whitewater          	      Whitewater	WI		805  	1114		14cc9ce1-b197-47ce-8cba-e253aef52955
 juco	Big 8-N  	M	  ARC	American River         	      Sacramento	CA		     	2799		24fd9f4c-50e7-4848-be24-5f3e93b604fd
 juco	R02      	W	WTHRF	Weatherford            	     Weatherford	TX		     	    		a5b19cb5-b5e8-45c4-b83f-2995c4b5c2ba
+juco	R06      	W	 SCCC	Seward County (KS)     	         Liberal	KS		     	1986		e95c0cce-7801-4095-8366-adc69d3fcacf
 juco	R14      	M	TYLER	Tyler JC (TX)          	           Tyler	TX		     	1406		8e51bb66-583f-44d0-9074-084a1d8a46a2
 juco	R14      	W	TYLER	Tyler JC (TX)          	           Tyler	TX		     	1407		75534a1a-cf40-497f-86ea-91b6ff9dd01e
 juco	R17      	M	 ABRA	Abraham Baldwin        	          Tifton	GA		     	1518		f8b981e2-248e-48d6-aba1-0467c42150b8
@@ -680,6 +678,7 @@ naia	MSC      	M	TMORE	Thomas More            	 Crestview Hills	KY		     	2177		
 naia	MSC      	W	TMORE	Thomas More            	 Crestview Hills	KY		     	2178		f4af8360-2308-4efb-b146-f03fa64967fe
 naia	Other    	M	LCIDA	Lewis-Clark (ID)       	        Lewiston	ID		     	2461		d3600078-ca5c-4882-9ba2-0b9d33599c11
 naia	RRAC     	W	LSUAL	LSU Alexandria         	      Alexandria	LA		     	2892		9c69adf3-8fb2-4c33-8cd3-4f9266c50cdf
+naia	RRAC     	W	   SW	Southwest (NM)         	           Hobbs	NM		     	2778		5f0e4678-8d63-4fb3-b464-ab9c91d6748b
 naia	SSAC     	W	LOYNO	Loyola - New Orleans   	     New Orleans	LA		     	2697		9d0382f1-6556-4094-a5bd-f692e302e540
 naia	TSC      	M	KEISR	Keiser                 	 West Palm Beach	FL		     	2984		bdc9f9f9-c735-467f-b710-e4a9420b292f
 naia	TSC      	W	KEISR	Keiser                 	 West Palm Beach	FL		     	2985		08e8f460-ad27-4f3c-bdc0-c5767a73c0e3
