@@ -2,13 +2,13 @@
 season: d1
 gender: men
 description: schedule/scoreboard from team websites
-updated: 2022-01-20
-past: 118 (9%)
-today: 11 (1%)
-future: 1250 (90%)
-completed: 99 (77%)
-unreported: 30 (23%)
-total: 1384
+updated: 2022-01-21
+past: 127 (9%)
+today: 28 (2%)
+future: 1241 (89%)
+completed: 110 (71%)
+unreported: 45 (29%)
+total: 1400
 ---
 source	id	dateET	timeET	gender	rank	team	at	oppRank	opponent	outcome	score	neutral	conference	division	dateGMT	teamId	opponentId	dualId
 ITA	32625	2021-09-10	 3:30pm	M	  	FPC  	at	  	HC   	W	5-2	 	 	d2/d1  	2021-09-10T19:30Z			97f173d6-3277-4d06-a68e-4ab4523dd9ef
@@ -45,8 +45,8 @@ ITA	43975	2022-01-14	 7:00pm	M	 1	FLA  	at	 5	TCU  	L	3-4	 	 	d1     	2022-01-15
 ITA	17417	2022-01-14	 1:00pm	M	  	UTSA 	at	 3	TEX  	L	1-6	 	 	d1     	2022-01-14T18:00Z			0f62ac79-0fc1-4d9a-a770-8f337e2a1697
 ITA	90113	2022-01-14	10:00am	M	  	BRY  	vs	  	LAMAR	L	1-6	N	 	d1     	2022-01-14T15:00Z			ff232b85-9bee-4fb0-9a91-065cf0d475c1
 ITA	26617	2022-01-14	 2:00pm	M	  	LAMAR	at	  	OKST 	L	1-6	 	 	d1     	2022-01-14T19:00Z			59452867-aba7-471e-974b-7bdd70e1bf0c
-ITA	28988	2022-01-14	 3:00pm	M	  	KENN 	at	  	WOF  	W	6-1	 	 	d1     	2022-01-14T20:00Z			a20e7736-67a2-4d74-b24f-54d6dd62ac3f
 ITA	60492	2022-01-14	 3:00pm	M	  	UNF  	at	  	FSU  	L	1-6	 	 	d1     	2022-01-14T20:00Z			9112c7a8-3cfb-4972-937a-692827b7ca43
+ITA	28988	2022-01-14	 3:00pm	M	  	KENN 	at	  	WOF  	W	6-1	 	 	d1     	2022-01-14T20:00Z			a20e7736-67a2-4d74-b24f-54d6dd62ac3f
 ITA	76549	2022-01-14	 4:00pm	M	  	CHIC 	at	  	NW   	L	0-4	 	 	d1     	2022-01-14T21:00Z			aecde445-2606-4753-b0e2-c15c1a29e38a
 ITA	59950	2022-01-14	 4:00pm	M	  	VT   	at	  	MSU  	L	3-4	 	 	d1     	2022-01-14T21:00Z			015326a2-3e29-4206-82b9-e089deac374e
 ITA	30925	2022-01-14	 4:00pm	M	  	AFA  	at	  	MTST 	L	2-5	 	 	d1     	2022-01-14T21:00Z			98d1d61f-9a2e-44aa-8449-ff0bbfd64b99
@@ -56,6 +56,7 @@ ITA	51228	2022-01-14	 5:00pm	M	  	BRY  	at	  	OKST 	L	0-7	 	 	d1     	2022-01-14
 ITA	58805	2022-01-14	 6:00pm	M	  	BOISE	vs	  	PRST 	W	7-0	N	 	d1     	2022-01-14T23:00Z			e2a1a720-2854-4618-93f6-aca3488318e5
 ITA	17740	2022-01-14	 8:00pm	M	  	CHIC 	at	  	NW   	L	0-4	 	 	d1     	2022-01-15T01:00Z			837f6495-f5f6-4801-bcb9-66fed75b8db9
 ITA	25414	2022-01-14	 8:00pm	M	  	EIU  	at	  	MSU  	L	0-7	 	 	d1     	2022-01-15T01:00Z			9594ee5c-a039-4239-bbbc-92a0e076aa0e
+ITA	16577	2022-01-15	10:00am	M	  	CCAR 	at	10	WAKE 	L	0-7	 	 	d1     	2022-01-15T15:00Z			64a2ab30-8548-40bd-958b-be7b6e978ca6
 ITA	89337	2022-01-15	 2:00pm	M	  	ELON 	at	10	WAKE 	L	0-7	 	 	d1     	2022-01-15T19:00Z			11158e17-eb55-4622-bf59-2f454e923f23
 ITA	30492	2022-01-15	 9:30am	M	  	DAY  	at	12	UK   	L	0-5	 	 	d1     	2022-01-15T14:30Z			142fd982-1d4e-4a85-9a30-1fd50ac5f596
 ITA	61313	2022-01-15	 1:00pm	M	  	DAY  	at	12	UK   	L	0-4	 	 	d1     	2022-01-15T18:00Z			282adda5-b7c3-4100-918b-ad720f54786b
@@ -64,18 +65,17 @@ ITA	38761	2022-01-15	 6:00pm	M	  	BRY  	at	24	OKLA 	L	0-7	 	 	d1     	2022-01-15
 ITA	14071	2022-01-15	10:00am	M	  	BUTL 	at	  	WMU  	L	1-6	 	 	d1     	2022-01-15T15:00Z			93387325-5f26-4998-a303-dc601fdbad4d
 ITA	58806	2022-01-15	10:00am	M	  	DEP  	at	  	ARMY 	W	6-1	 	 	d1     	2022-01-15T15:00Z			48ba7042-1a17-4aef-ad7f-b14e2055fb62
 ITA	18112	2022-01-15	11:00am	M	  	BING 	vs	  	TROY 	L	0-7	N	 	d1     	2022-01-15T16:00Z			923bbf90-df29-4ab8-aed8-9eb5122613d9
-ITA	48825	2022-01-15	11:00am	M	  	UND  	at	  	NEB  	 	   	 	 	d1     	2022-01-15T16:00Z			082751dd-3a21-4d4b-a83a-2bdd72eee938
 ITA	91074	2022-01-15	12:00pm	M	  	FUR  	at	  	CLEM 	L	1-6	 	 	d1     	2022-01-15T17:00Z			91a3c6aa-1f3a-4ae8-86ab-0692de50533a
 ITA	55991	2022-01-15	 2:00pm	M	  	BOISE	at	  	ORE  	L	0-7	 	 	d1     	2022-01-15T19:00Z			3664db5c-eaca-476f-832f-8065bbf64906
 ITA	80685	2022-01-15	 2:00pm	M	  	AFA  	vs	  	EWU  	W	6-1	N	 	d1     	2022-01-15T19:00Z			00ffcaa5-54bb-4b82-9662-c36c01c3e8a1
 ITA	72661	2022-01-15	 2:00pm	M	  	IDST 	at	  	UTAH 	L	0-7	 	 	d1     	2022-01-15T19:00Z			723a57cf-a62f-40be-8358-2a50017fba8d
 ITA	55020	2022-01-15	 2:00pm	M	  	MER  	at	  	BAMA 	L	1-6	 	 	d1     	2022-01-15T19:00Z			fcec5a26-2d08-4f34-9df6-7a088f77c482
 ITA	21543	2022-01-15	 2:00pm	M	  	PUR  	at	  	SMU  	L	3-4	 	 	d1     	2022-01-15T19:00Z			178b0d28-9d1a-42f6-b909-990388ba5b8e
-ITA	65878	2022-01-15	 2:30pm	M	  	UNA  	at	  	AUB  	L	1-5	 	 	d1     	2022-01-15T19:30Z			99918366-ca36-473e-9696-c23b3ec9043f
+ITA	65878	2022-01-15	 2:30pm	M	  	UNA  	at	  	AUB  	L	1-6	 	 	d1     	2022-01-15T19:30Z			99918366-ca36-473e-9696-c23b3ec9043f
 ITA	33641	2022-01-15	 2:30pm	M	  	KENN 	at	  	PRES 	L	2-5	 	 	d1     	2022-01-15T19:30Z			38755f66-607f-408c-bc12-40a943b01876
+ITA	79089	2022-01-15	 3:00pm	M	  	CRE  	at	  	NEB  	L	0-7	 	 	d1     	2022-01-15T20:00Z			d67985ef-a0b5-4817-9285-f7b630a86d26
 ITA	65677	2022-01-15	 5:00pm	M	  	TROY 	at	  	FGCU 	L	3-4	 	 	d1     	2022-01-15T22:00Z			448431b6-fcb1-4fef-b42e-9b296a08bd64
-ITA	78543	2022-01-15	 5:00pm	M	  	OMAHA	at	  	NEB  	 	   	 	 	d1     	2022-01-15T22:00Z			2aea53a3-e747-4557-a1f7-b00d9bce9fb1
-ITA	88537	2022-01-15	 5:30pm	M	  	UNA  	at	  	AUB  	L	0-5	 	 	d1     	2022-01-15T22:30Z			c5a70312-1b65-4f41-a792-78552af732fc
+ITA	88537	2022-01-15	 5:30pm	M	  	UNA  	at	  	AUB  	L	0-7	 	 	d1     	2022-01-15T22:30Z			c5a70312-1b65-4f41-a792-78552af732fc
 ITA	30223	2022-01-15	 7:00pm	M	  	SAM  	at	  	BAMA 	L	2-5	 	 	d1     	2022-01-16T00:00Z			5ecc9724-cbe0-4a66-a3de-1d5a06dc85d2
 ITA	60420	2022-01-15	 7:30pm	M	  	DEP  	vs	  	ILST 	W	4-3	N	 	d1     	2022-01-16T00:30Z			4ab3e496-d5ff-4465-89f6-e2564d2ceb1b
 ITA	40767	2022-01-15	 8:00pm	M	  	IDST 	at	  	UTAH 	L	1-6	 	 	d1     	2022-01-16T01:00Z			1373de29-c2f6-455e-b9f0-aedfc060a1d1
@@ -87,39 +87,37 @@ ITA	10473	2022-01-16	 1:00pm	M	 1	FLA  	at	 3	TEX  	W	4-3	 	 	d1     	2022-01-16
 ITA	37849	2022-01-16	 1:00pm	M	 4	TENN 	at	 5	TCU  	W	4-3	 	 	d1     	2022-01-16T18:00Z			9c4c0e73-c199-48ec-b6df-4ef64e7447e2
 ITA	38952	2022-01-16	 4:00pm	M	  	GCU  	at	15	ARIZ 	L	0-7	 	 	d1     	2022-01-16T21:00Z			6eb9dcd6-1500-4e5c-8484-6626ebb13c64
 ITA	55328	2022-01-16	 4:00pm	M	  	VT   	at	17	MICH 	L	2-5	 	 	d1     	2022-01-16T21:00Z			92e28621-b96b-468f-8719-da7c59e72e49
-ITA	25737	2022-01-16	 2:00pm	M	20	FSU  	at	  	MSST 	 	   	 	 	d1     	2022-01-16T19:00Z			15ba493f-7d3b-42bd-ac1c-4a72c14c7440
+ITA	25737	2022-01-16	 2:00pm	M	  	FSU  	at	20	MSST 	 	   	 	 	d1     	2022-01-16T19:00Z			15ba493f-7d3b-42bd-ac1c-4a72c14c7440
 ITA	76617	2022-01-16	10:00am	M	  	UND  	at	  	CRE  	 	   	 	 	d1     	2022-01-16T15:00Z			4ee2962f-4628-4efe-9df6-51566e1efcf6
 ITA	76337	2022-01-16	10:00am	M	  	DEP  	vs	  	FAU  	L	3-4	N	 	d1     	2022-01-16T15:00Z			ae5980a6-ef15-4f83-9cd6-12fea344f30a
 ITA	78352	2022-01-16	11:00am	M	  	SLU  	at	  	ND   	L	0-7	 	 	d1     	2022-01-16T16:00Z			86540e6b-0b9c-44fe-a2bb-28216d4ea849
 ITA	94923	2022-01-16	 1:00pm	M	  	PSU  	at	  	ODU  	L	2-5	 	 	d1     	2022-01-16T18:00Z			67fdf2f8-4bd9-4c88-acc4-f1242f0e57eb
 ITA	13146	2022-01-16	 2:00pm	M	  	DEN  	at	  	RICE 	W	4-3	 	 	d1     	2022-01-16T19:00Z			a86af36a-cae2-48c7-84c9-7b2029aa5644
+ITA	 3819	2022-01-16	 2:00pm	M	  	AFA  	at	  	MONT 	L	3-4	 	 	d1     	2022-01-16T19:00Z			9201db8a-dc0a-4ce6-a876-b49bebb6425e
 ITA	82344	2022-01-16	 2:00pm	M	  	ULLAF	at	  	UTSA 	L	1-6	 	 	d1     	2022-01-16T19:00Z			a4eb85ee-815c-45e5-b839-4d45823a19d0
-ITA	 3819	2022-01-16	 2:00pm	M	  	AFA  	at	  	MONT 	 	   	 	 	d1     	2022-01-16T19:00Z			9201db8a-dc0a-4ce6-a876-b49bebb6425e
 ITA	49898	2022-01-16	 3:30pm	M	  	SLU  	at	  	ND   	L	0-5	 	 	d1     	2022-01-16T20:30Z			0ec8b91a-1eca-4284-aed8-8095eb2bef2e
 ITA	55071	2022-01-17	 1:00pm	M	 8	UGA  	at	11	UCF  	W	6-1	 	 	d1     	2022-01-17T18:00Z			cd9d46c0-eb23-465d-b9d7-8b89c7d33f62
 ITA	82342	2022-01-17	 1:00pm	M	  	PUR  	at	24	OKLA 	L	1-6	 	 	d1     	2022-01-17T18:00Z			1e20c724-05a8-4bdd-b108-c62991fd3db8
 ITA	30064	2022-01-17	 9:00am	M	  	TROY 	at	  	MIA  	L	1-6	 	 	d1     	2022-01-17T14:00Z			1bb6a87e-6e0c-45ac-948c-80875fd4240a
-ITA	18610	2022-01-17	11:00am	M	  	NW   	at	  	NCST 	 	   	 	 	d1     	2022-01-17T16:00Z			50163e32-67a8-4425-8c80-187d738d3c6c
 ITA	 8171	2022-01-17	 2:00pm	M	  	BOISE	at	  	WASH 	L	2-5	 	 	d1     	2022-01-17T19:00Z			59ce3ad0-2aa4-4f58-b5ad-6d2dc5eccf05
 ITA	78614	2022-01-17	 2:00pm	M	  	JKST 	at	  	MEM  	L	0-7	 	 	d1     	2022-01-17T19:00Z			89b33324-a98f-4610-bcd6-3ae86eae18d7
 ITA	19152	2022-01-17	 2:00pm	M	  	USM  	at	  	MTSU 	L	0-7	 	C	d1     	2022-01-17T19:00Z			375a7bdd-b146-4d48-9a23-cf49c2478306
 ITA	22185	2022-01-17	 2:00pm	M	  	OKST 	at	  	ARK  	L	2-5	 	 	d1     	2022-01-17T19:00Z			8bba619e-3ec7-4d17-a42d-bb9faaf04614
 ITA	94910	2022-01-17	 3:00pm	M	  	BING 	at	  	MIA  	L	0-7	 	 	d1     	2022-01-17T20:00Z			ae4c45c3-b590-4301-a297-1882271e9aa2
 ITA	28490	2022-01-17	 3:00pm	M	  	PRST 	at	  	ORE  	 	   	 	 	d1     	2022-01-17T20:00Z			dbd54ee4-1e7f-4a89-a3db-c28ee31c4e0c
-ITA	15442	2022-01-17	 4:00pm	M	  	PRES 	at	  	NCST 	 	   	 	 	d1     	2022-01-17T21:00Z			91f470ff-39e5-4503-bd22-ca097c8194ea
 ITA	29501	2022-01-17	 4:00pm	M	  	CAL  	at	  	TULN 	L	3-4	 	 	d1     	2022-01-17T21:00Z			9f78ad24-a80d-495b-b63d-02709711546f
 ITA	 5662	2022-01-17	 5:30pm	M	  	TNST 	at	  	MTSU 	 	   	 	 	d1     	2022-01-17T22:30Z			22c455a2-45a7-44cd-9955-8ffc68ab2369
 ITA	98567	2022-01-17	 8:00pm	M	  	PRST 	at	  	ORE  	 	   	 	 	d1     	2022-01-18T01:00Z			e5b210d6-626c-4fe2-90a6-525007c257ea
 ITA	92087	2022-01-17	12:00pm	M	  	W AL 	at	  	SALA 	L	0-7	 	 	d2/d1  	2022-01-17T17:00Z			5afdf978-4a86-4fd9-b201-ed7af2669eed
 ITA	85570	2022-01-17	 3:30pm	M	  	W AL 	at	  	SALA 	L	0-7	 	 	d2/d1  	2022-01-17T20:30Z			1882091c-17f0-4c61-b479-786ebb8af73e
-ITA	44905	2022-01-18	 5:00pm	M	  	BC   	at	21	HARV 	 	   	 	 	d1     	2022-01-18T22:00Z			fd2bbb24-49be-4590-b065-2e6980b3d18b
+ITA	44905	2022-01-18	 5:00pm	M	  	BC   	at	21	HARV 	L	0-7	 	 	d1     	2022-01-18T22:00Z			fd2bbb24-49be-4590-b065-2e6980b3d18b
 ITA	78621	2022-01-18	12:00pm	M	  	DAY  	at	  	LOU  	L	1-6	 	 	d1     	2022-01-18T17:00Z			f8e8f61b-203d-4891-a294-9668202c0327
 ITA	19399	2022-01-18	 5:00pm	M	  	BELL 	at	  	LOU  	 	   	 	 	d1     	2022-01-18T22:00Z			0c6fa95a-4e60-453d-85a7-640b67773a8e
 ITA	75176	2022-01-19	 5:30pm	M	 2	BAY  	vs	  	CRE  	W	7-0	N	 	d1     	2022-01-19T22:30Z			2c133371-923e-4574-bf9d-6d359177e1a4
 ITA	54294	2022-01-19	10:00am	M	  	TOL  	at	 6	OSU  	L	0-7	 	 	d1     	2022-01-19T15:00Z			28ea24ef-088b-4ef8-ad3e-a08cd35d8f3b
 ITA	36300	2022-01-19	 5:00pm	M	  	XAV  	at	 6	OSU  	L	1-6	 	 	d1     	2022-01-19T22:00Z			6cdf43cb-f11d-4322-9333-fbcc680cde5c
-ITA	59715	2022-01-19	 3:00pm	M	  	DAV  	at	10	WAKE 	 	   	 	 	d1     	2022-01-19T20:00Z			946b704e-639a-4307-b3a3-d8da82a3a981
-ITA	48343	2022-01-19	 6:00pm	M	  	GWEBB	at	10	WAKE 	 	   	 	 	d1     	2022-01-19T23:00Z			4c3d323c-f4f8-4ca5-8f5e-9af8104dfef3
+ITA	59715	2022-01-19	 3:00pm	M	  	DAV  	at	10	WAKE 	L	0-7	 	 	d1     	2022-01-19T20:00Z			946b704e-639a-4307-b3a3-d8da82a3a981
+ITA	48343	2022-01-19	 6:00pm	M	  	GWEBB	at	10	WAKE 	L	0-7	 	 	d1     	2022-01-19T23:00Z			4c3d323c-f4f8-4ca5-8f5e-9af8104dfef3
 ITA	90199	2022-01-19	11:00am	M	18	TNST 	at	  	MISS 	 	   	 	 	d1     	2022-01-19T16:00Z			6f4c0063-3eca-4386-896e-405d1efe6d3e
 ITA	86972	2022-01-19	 2:30pm	M	18	TNST 	at	  	MISS 	 	   	 	 	d1     	2022-01-19T19:30Z			16959d45-c59c-4b1c-a0e0-cc1175dd904d
 ITA	92169	2022-01-19	 3:00pm	M	19	A&M  	at	  	AZST 	W	5-2	 	 	d1     	2022-01-19T20:00Z			d7d81b92-bcba-41f4-93b5-58fa7f5243c4
@@ -129,36 +127,35 @@ ITA	72456	2022-01-19	 5:00pm	M	  	WMU  	at	  	ND   	 	   	 	 	d1     	2022-01-19
 ITA	 5026	2022-01-19	 7:00pm	M	  	SEA  	at	  	WASH 	L	0-7	 	 	d1     	2022-01-20T00:00Z			077773b3-94bc-46b5-a3e5-208b2a34ee43
 ITA	89105	2022-01-19	11:00am	M	  	TROY 	at	  	AUBM 	W	5-0	 	 	d1/d2  	2022-01-19T16:00Z			4889be64-1652-411b-8bb8-981fd20a20d2
 ITA	58244	2022-01-19	 3:00pm	M	  	TROY 	at	  	AUBM 	W	6-1	 	 	d1/d2  	2022-01-19T20:00Z			8a7b67a4-f669-4a73-81ae-3d8dd65475a0
-ITA	79668	2022-01-20	 6:00pm	M	 2	BAY  	at	  	NEB  	 	   	 	 	d1     	2022-01-20T23:00Z			61399516-cc2b-4c89-92a3-84f1d6544977
-ITA	87675	2022-01-20	12:00pm	M	  	LIB  	at	 7	UVA  	 	   	 	 	d1     	2022-01-20T17:00Z			17f17b49-bed5-49b4-a6cf-f917c6066629
+ITA	79668	2022-01-20	 6:00pm	M	 2	BAY  	at	  	NEB  	W	6-1	 	 	d1     	2022-01-20T23:00Z			61399516-cc2b-4c89-92a3-84f1d6544977
+ITA	87675	2022-01-20	12:00pm	M	  	LIB  	at	 7	UVA  	L	0-7	 	 	d1     	2022-01-20T17:00Z			17f17b49-bed5-49b4-a6cf-f917c6066629
 ITA	31852	2022-01-20	 5:00pm	M	  	RICH 	at	 7	UVA  	 	   	 	 	d1     	2022-01-20T22:00Z			8c2b5f12-5570-4a65-8536-f23b6203bc1b
 ITA	 4986	2022-01-20	 3:00pm	M	  	GASO 	at	10	WAKE 	 	   	 	 	d1     	2022-01-20T20:00Z			6f2a732f-9a9a-474f-93c2-68f2eac8e522
 ITA	82147	2022-01-20	 6:30pm	M	  	CHAR 	at	10	WAKE 	 	   	 	 	d1     	2022-01-20T23:30Z			d7b4128e-7ab6-4b94-935f-0fedea3cd003
-ITA	76140	2022-01-20	12:00pm	M	  	PRIN 	at	  	NCST 	 	   	 	 	d1     	2022-01-20T17:00Z			e5c32304-8c75-42a3-9462-b086c6569cd1
 ITA	79149	2022-01-20	 1:00pm	M	  	ALCN 	at	  	TULN 	L	0-7	 	 	d1     	2022-01-20T18:00Z			9f680db7-6eab-479a-b798-2d03f4725ecc
+ITA	68717	2022-01-20	 2:00pm	M	  	PRIN 	at	  	NCST 	L	1-6	 	 	d1     	2022-01-20T19:00Z			4fada3a3-3446-4dcc-a530-500a1dbf187e
 ITA	94791	2022-01-20	 4:00pm	M	  	ALCN 	at	  	TULN 	 	   	 	 	d1     	2022-01-20T21:00Z			84b80a05-74c2-445e-aac7-4cbd768eaf5b
-ITA	42681	2022-01-20	 5:00pm	M	  	QUIN 	at	  	BROWN	 	   	 	 	d1     	2022-01-20T22:00Z			308db4dc-f53a-4e6e-9306-554d851ff918
-ITA	64389	2022-01-20	 5:00pm	M	  	CAMP 	at	  	NCST 	 	   	 	 	d1     	2022-01-20T22:00Z			c677a360-c56b-4579-9095-25cdd15abc7c
+ITA	36241	2022-01-20	 5:00pm	M	  	QUIN 	at	  	BROWN	L	0-7	 	 	d1     	2022-01-20T22:00Z			aa8b7a0c-4a51-435b-9e9e-b7937f3a48f3
+ITA	64389	2022-01-20	 5:00pm	M	  	CAMP 	at	  	NCST 	L	0-7	 	 	d1     	2022-01-20T22:00Z			c677a360-c56b-4579-9095-25cdd15abc7c
 ITA	13947	2022-01-20	 2:00pm	M	  	JVST 	at	  	LEE  	 	   	 	 	d1/d2  	2022-01-20T19:00Z			42200d32-9644-47b7-9071-8f6e9d9aa025
 ITA	73361	2022-01-21	 4:00pm	M	 5	TEX  	at	14	ARIZ 	 	   	 	 	d1     	2022-01-21T21:00Z			3f7f4625-00c6-4c5e-8da3-b9ae9d37168c
 ITA	    3	2022-01-21	 1:00pm	M	  	UCD  	at	 9	USC  	 	   	 	 	d1     	2022-01-21T18:00Z			271060ac-2183-484a-b455-64af60fcd99b
 ITA	58403	2022-01-21	 5:00pm	M	 9	CMS  	at	  	USC  	 	   	 	 	d3/d1  	2022-01-21T22:00Z			23d93813-34bc-411a-bf73-c5230c7739b1
-ITA	75754	2022-01-21	 4:00pm	M	11	LOU  	at	  	UK   	 	   	 	 	d1     	2022-01-21T21:00Z			44729281-8809-4d42-8629-85d71406e511
+ITA	75754	2022-01-21	 4:00pm	M	  	LOU  	at	11	UK   	 	   	 	 	d1     	2022-01-21T21:00Z			44729281-8809-4d42-8629-85d71406e511
 ITA	83680	2022-01-21	 9:00am	M	  	PRES 	at	12	SCAR 	 	   	 	 	d1     	2022-01-21T14:00Z			96268f94-ae31-4bd6-8b86-fa6c46f40cc8
 ITA	55494	2022-01-21	 4:00pm	M	  	CIT  	at	12	SCAR 	 	   	 	 	d1     	2022-01-21T21:00Z			d459c359-155e-4e40-a598-3af5765ea68c
 ITA	39447	2022-01-21	 6:00pm	M	  	WMU  	at	17	MICH 	 	   	 	 	d1     	2022-01-21T23:00Z			0a74e29d-29c0-4da9-b3ea-7c543e2506a7
-ITA	41415	2022-01-21	 7:00pm	M	  	OKST 	at	18	MISS 	 	   	 	 	d1     	2022-01-22T00:00Z			321c8263-9582-44a4-915a-79369aa54dc8
 ITA	90670	2022-01-21	 4:00pm	M	20	HARV 	at	  	VT   	 	   	 	 	d1     	2022-01-21T21:00Z			e67072ae-14e9-408b-ba10-4bb1d3f2b35d
 ITA	17630	2022-01-21	10:00am	M	  	TEM  	at	  	VCU  	 	   	 	 	d1     	2022-01-21T15:00Z			d0b04577-60a1-4c64-8617-d31840cf5d59
-ITA	14776	2022-01-21	11:00am	M	  	JVST 	at	  	CHAT 	 	   	 	 	d1     	2022-01-21T16:00Z			39981bb6-ac8e-4f8c-b6e3-ee3749946c23
 ITA	 5211	2022-01-21	11:00am	M	  	SALA 	at	  	FSU  	 	   	 	 	d1     	2022-01-21T16:00Z			7667eb97-a23b-435c-ac56-8e898e352b9b
+ITA	14776	2022-01-21	11:00am	M	  	JVST 	at	  	CHAT 	 	   	 	 	d1     	2022-01-21T16:00Z			39981bb6-ac8e-4f8c-b6e3-ee3749946c23
 ITA	24007	2022-01-21	12:00pm	M	  	CIT  	vs	  	PRES 	 	   	N	 	d1     	2022-01-21T17:00Z			761477fe-f978-48ef-a969-3832d555900f
-ITA	23133	2022-01-21	12:00pm	M	  	WOF  	at	  	CLEM 	 	   	 	 	d1     	2022-01-21T17:00Z			c24e93ad-0599-48ad-af3a-89f7bcebca8a
 ITA	30204	2022-01-21	 1:00pm	M	  	UNA  	at	  	MTSU 	 	   	 	 	d1     	2022-01-21T18:00Z			f9664837-19ac-46f5-b8bf-14e708f1d734
 ITA	90313	2022-01-21	 2:00pm	M	  	OMAHA	at	  	ARK  	 	   	 	 	d1     	2022-01-21T19:00Z			dfc0e717-dcf3-4478-ae17-b21abe1a3a26
 ITA	23440	2022-01-21	 3:00pm	M	  	CHIC 	at	  	MARQ 	 	   	 	 	d1     	2022-01-21T20:00Z			cd042c7e-9e30-4968-882c-b15014e76842
 ITA	31337	2022-01-21	 3:00pm	M	  	FGCU 	at	  	MIA  	 	   	 	 	d1     	2022-01-21T20:00Z			907da034-29c3-46af-b303-18357a1226b1
 ITA	51494	2022-01-21	 3:30pm	M	  	SF   	at	  	CPOLY	 	   	 	 	d1     	2022-01-21T20:30Z			32cab006-4f18-4cf5-8785-717876a7886f
+ITA	67144	2022-01-21	 4:00pm	M	  	WOF  	at	  	CLEM 	 	   	 	 	d1     	2022-01-21T21:00Z			92a626ab-092b-416b-ba2a-e7161bb088c0
 ITA	75746	2022-01-21	 5:00pm	M	  	BUCK 	at	  	JMU  	 	   	 	 	d1     	2022-01-21T22:00Z			77d78418-00c8-4e56-b8e3-26fc975e3678
 ITA	67364	2022-01-21	 5:00pm	M	  	DRAKE	at	  	COR  	 	   	 	 	d1     	2022-01-21T22:00Z			3ab9010b-b087-42d0-8e92-d646dd4cf594
 ITA	23979	2022-01-21	 5:00pm	M	  	GAST 	at	  	GT   	 	   	 	 	d1     	2022-01-21T22:00Z			ab27a24f-eabf-4310-98b3-4cdb1c8121fc
@@ -172,24 +169,24 @@ ITA	91713	2022-01-21	 8:00pm	M	  	UTAH 	at	  	DEN  	 	   	 	 	d1     	2022-01-22
 ITA	85765	2022-01-22	12:00pm	M	 6	OSU  	at	23	ILL  	 	   	 	 	d1     	2022-01-22T17:00Z			ab03aa5c-21da-477a-8c7c-8d6b646d1826
 ITA	35440	2022-01-22	11:00am	M	  	NKU  	vs	11	UK   	 	   	N	 	d1     	2022-01-22T16:00Z			67fae619-5b40-4db6-af9c-af4962b3da72
 ITA	89926	2022-01-22	 3:00pm	M	  	NKU  	vs	11	UK   	 	   	N	 	d1     	2022-01-22T20:00Z			3f4f30f6-b0ed-4c3d-8f49-d353f9143c01
-ITA	51149	2022-01-22	 4:00pm	M	18	BAMA 	at	  	MISS 	 	   	 	 	d1     	2022-01-22T21:00Z			e487abc2-8727-4f4c-8597-11b117fa81ae
+ITA	51149	2022-01-22	 4:00pm	M	  	BAMA 	at	18	MISS 	 	   	 	 	d1     	2022-01-22T21:00Z			e487abc2-8727-4f4c-8597-11b117fa81ae
 ITA	62552	2022-01-22	 1:00pm	M	  	ABCHR	at	24	OKLA 	 	   	 	 	d1     	2022-01-22T18:00Z			a8fa43b7-d2bf-472c-be0c-58a3de418f49
+ITA	49876	2022-01-22	10:00am	M	  	BING 	at	  	DART 	 	   	 	 	d1     	2022-01-22T15:00Z			ebe22956-800b-430a-8afc-92b6f6f5da92
 ITA	69004	2022-01-22	10:00am	M	  	DREX 	at	  	BROWN	 	   	 	 	d1     	2022-01-22T15:00Z			268b8f55-b567-4098-8687-be60689d0e6e
 ITA	12063	2022-01-22	10:00am	M	  	CLEV 	at	  	MSU  	 	   	 	 	d1     	2022-01-22T15:00Z			c3af7f37-6013-487f-8c95-d5f50a655b7a
 ITA	45881	2022-01-22	10:00am	M	  	MTST 	at	  	GONZ 	 	   	 	 	d1     	2022-01-22T15:00Z			347d37ca-00fe-4aa6-82fe-f184f8c57845
 ITA	92197	2022-01-22	10:00am	M	  	SAM  	vs	  	STET 	 	   	N	 	d1     	2022-01-22T15:00Z			8146b742-9bfa-4e78-a397-0d76cf610954
 ITA	22775	2022-01-22	11:00am	M	  	TOL  	at	  	IND  	 	   	 	 	d1     	2022-01-22T16:00Z			85338eb9-b24b-4d2a-a2c0-8e240d2dd433
 ITA	36633	2022-01-22	11:00am	M	  	LAMAR	at	  	RICE 	 	   	 	 	d1     	2022-01-22T16:00Z			fd686b52-e7f2-439a-abf5-32b3abf878b5
-ITA	17351	2022-01-22	 1:00pm	M	  	W&M  	at	  	LIB  	 	   	 	 	d1     	2022-01-22T18:00Z			f3ac94aa-5db4-4ab6-9dc6-d802ea0616f6
 ITA	72944	2022-01-22	 1:00pm	M	  	FGCU 	at	  	FAU  	 	   	 	 	d1     	2022-01-22T18:00Z			3f09557a-418b-46a8-9610-ff13af93f8ef
 ITA	 4284	2022-01-22	 1:00pm	M	  	PUR  	at	  	TULSA	 	   	 	 	d1     	2022-01-22T18:00Z			f716b4bd-8e94-4eb4-a701-6f5a21de4581
 ITA	92796	2022-01-22	 1:00pm	M	  	UNF  	at	  	MIA  	 	   	 	 	d1     	2022-01-22T18:00Z			f28384e5-f92d-4bc3-9f05-f5e0fe096718
 ITA	58262	2022-01-22	 1:30pm	M	  	SLU  	at	  	WICH 	 	   	 	 	d1     	2022-01-22T18:30Z			7a586a76-7011-4c86-9fca-4e31fe283005
 ITA	10510	2022-01-22	 2:00pm	M	  	CRE  	vs	  	GCU  	 	   	N	 	d1     	2022-01-22T19:00Z			86f12d68-07ba-4855-b9cf-983835386f3e
 ITA	49776	2022-01-22	 2:00pm	M	  	WASH 	at	  	EWU  	 	   	 	 	d1     	2022-01-22T19:00Z			65dc0407-119d-4ed2-b3c2-d5abf7e2919d
+ITA	 9603	2022-01-22	 2:00pm	M	  	STET 	at	  	FSU  	 	   	 	 	d1     	2022-01-22T19:00Z			36a4a310-10ea-48cd-86bf-9c1c37d38bb7
 ITA	30637	2022-01-22	 2:00pm	M	  	SFU  	at	  	NAVY 	 	   	 	 	d1     	2022-01-22T19:00Z			38db44ca-5871-40fa-b900-3e174a5187d3
 ITA	52577	2022-01-22	 2:00pm	M	  	TTU  	at	  	SMU  	 	   	 	 	d1     	2022-01-22T19:00Z			10fe4c84-d922-45ff-b87d-f9905b29f1bf
-ITA	 9603	2022-01-22	 2:00pm	M	  	STET 	at	  	FSU  	 	   	 	 	d1     	2022-01-22T19:00Z			36a4a310-10ea-48cd-86bf-9c1c37d38bb7
 ITA	14359	2022-01-22	 3:00pm	M	  	BELL 	at	  	IND  	 	   	 	 	d1     	2022-01-22T20:00Z			b23b1f15-441a-4f8d-a62b-11112cc3e062
 ITA	29670	2022-01-22	 3:00pm	M	  	SHU  	at	  	BROWN	 	   	 	 	d1     	2022-01-22T20:00Z			bcf53607-08db-488e-b7d9-311f59b15c8c
 ITA	15713	2022-01-22	 3:00pm	M	  	DEP  	vs	  	UND  	 	   	N	 	d1     	2022-01-22T20:00Z			d856cb2a-13bf-4a1e-bc39-b253e21d9fa0
@@ -206,8 +203,6 @@ ITA	86824	2022-01-22	 7:00pm	M	  	OKST 	at	  	BAMA 	 	   	 	 	d1     	2022-01-23
 ITA	14314	2022-01-22	 5:00pm	M	  	HNU  	at	  	SCLAR	 	   	 	 	d2/d1  	2022-01-22T22:00Z			7f241321-6c0a-4024-9567-e0c7b92c2293
 ITA	65599	2022-01-22	 1:00pm	M	  	UCSC 	at	  	SCLAR	 	   	 	 	d3/d1  	2022-01-22T18:00Z			34a9adcf-6f11-4fd7-a20d-7e88b8823edf
 ITA	48719	2022-01-22	 4:00pm	M	  	MTST 	at	  	WHITW	 	   	 	 	d1/d3  	2022-01-22T21:00Z			f1cf6103-8f23-4b50-a315-3ebb6da398a1
-ITA	24857	2022-01-23	12:00pm	M	 1	WAKE 	at	10	TENN 	 	   	 	 	d1     	2022-01-23T17:00Z			8187c153-a9fd-407a-81d1-bbb46b13920b
-ITA	72007	2022-01-23	 4:00pm	M	  	TNTC 	at	 1	TENN 	 	   	 	 	d1     	2022-01-23T21:00Z			c46a8693-9a37-44ac-8d0e-1627bf286e83
 ITA	 2128	2022-01-23	12:30pm	M	14	UCF  	at	 3	FLA  	 	   	 	 	d1     	2022-01-23T17:30Z			7ec1827e-9d19-43fc-9dac-3f94f0905424
 ITA	67892	2022-01-23	 3:00pm	M	 5	TEX  	at	  	AZST 	 	   	 	 	d1     	2022-01-23T20:00Z			b4e83061-032e-44fe-909f-e3fbcc3214db
 ITA	56878	2022-01-23	 1:00pm	M	20	HARV 	at	 7	UVA  	 	   	 	 	d1     	2022-01-23T18:00Z			5ae233e7-ceee-4083-b7bc-21600f02af4b
@@ -220,6 +215,7 @@ ITA	48566	2022-01-23	 1:00am	M	  	NEB  	at	24	OKLA 	 	   	 	 	d1     	2022-01-23
 ITA	69262	2022-01-23	 2:00pm	M	  	OMAHA	at	24	OKLA 	 	   	 	 	d1     	2022-01-23T19:00Z			aafcfe19-9cd8-417f-a8e6-079c84979c6e
 ITA	74595	2022-01-23	12:00am	M	  	MTST 	at	  	EWU  	 	   	 	C	d1     	2022-01-23T05:00Z			1b9e0ec5-3371-46d3-a3a8-624f89674346
 ITA	 9627	2022-01-23	 2:00am	M	  	ABCHR	vs	  	BOISE	 	   	N	 	d1     	2022-01-23T07:00Z			23a72fa2-fc69-433c-870f-b78da6404e9e
+ITA	56117	2022-01-23	 9:00am	M	  	BING 	vs	  	BRY  	 	   	N	 	d1     	2022-01-23T14:00Z			cd2365a6-c805-452d-b103-87d2859c4932
 ITA	38656	2022-01-23	 9:00am	M	  	CHAT 	at	  	VT   	 	   	 	 	d1     	2022-01-23T14:00Z			59903fe0-a420-462d-a622-9cb291e05386
 ITA	83176	2022-01-23	11:00am	M	  	CIT  	at	  	GT   	 	   	 	 	d1     	2022-01-23T16:00Z			ccfff13b-1d89-4944-a232-3517f380a210
 ITA	  632	2022-01-23	11:00am	M	  	WOF  	at	  	GAST 	 	   	 	 	d1     	2022-01-23T16:00Z			135bd69e-5c07-4f0f-9af3-77d90493dad1
@@ -239,6 +235,7 @@ ITA	80702	2022-01-23	 7:00pm	M	  	SFU  	at	  	MORG 	 	   	 	 	d1     	2022-01-24
 ITA	49756	2022-01-23	 1:00pm	M	  	UIS  	at	  	NIU  	 	   	 	 	d2/d1  	2022-01-23T18:00Z			11ecfc2c-cd1b-4bbf-a948-3fd8b2a0807e
 ITA	86267	2022-01-23	 6:00pm	M	  	UIS  	at	  	NIU  	 	   	 	 	d2/d1  	2022-01-23T23:00Z			a3b8d613-191a-48cb-aff7-d47fcb1b094f
 ITA	 4126	2022-01-24	 5:00pm	M	  	BOISE	at	 2	BAY  	 	   	 	 	d1     	2022-01-24T22:00Z			3e38e2e3-9688-48c7-b6a3-4b7f6175d8e6
+ITA	39895	2022-01-25	 1:00pm	M	10	WAKE 	at	 1	TENN 	 	   	 	 	d1     	2022-01-25T18:00Z			64dc7748-6c4a-4b1d-99d5-37e3faa840ee
 ITA	71045	2022-01-25	 4:00pm	M	  	SMCC 	at	25	UCLA 	 	   	 	 	d1     	2022-01-25T21:00Z			158550b0-12ce-4ee0-b657-898e6bab5200
 ITA	75654	2022-01-25	12:00pm	M	  	UNO  	at	  	LAMAR	 	   	 	 	d1     	2022-01-25T17:00Z			b5e53bd8-dedf-4d6b-bae5-38dc077989fb
 ITA	16338	2022-01-25	 7:00pm	M	  	SEA  	at	  	WASH 	 	   	 	 	d1     	2022-01-26T00:00Z			45a40cca-c14c-470d-8a53-3fee1aab5c26
@@ -261,7 +258,9 @@ ITA	41644	2022-01-28	 4:00pm	M	  	BUFF 	at	  	YALE 	 	   	 	 	d1     	2022-01-28
 ITA	28860	2022-01-28	 6:00pm	M	  	NIU  	at	  	DRAKE	 	   	 	 	d1     	2022-01-28T23:00Z			9f91166f-08e6-4955-881b-d6fcfd659914
 ITA	38848	2022-01-28	 7:00pm	M	  	HAW  	vs	  	UCR  	 	   	N	 	d1     	2022-01-29T00:00Z			f2b370d4-c32d-42dd-9ccf-2af278166e94
 ITA	13969	2022-01-28	 8:00pm	M	  	USU  	at	  	WASH 	 	   	 	 	d1     	2022-01-29T01:00Z			b9a35cd1-6f10-4f8d-ba8c-2be244c32283
+ITA	66153	2022-01-28	11:00am	M	  	MSUD 	at	  	AFA  	 	   	 	 	d2/d1  	2022-01-28T16:00Z			8b1ab0e5-2ee7-4485-9ae1-55368b27df92
 ITA	53793	2022-01-28	 2:00pm	M	  	PRES 	at	  	EMM  	 	   	 	 	d1/d2  	2022-01-28T19:00Z			99e7c1c8-7bce-4d91-93d4-91109b52eb10
+ITA	73753	2022-01-28	 6:00pm	M	  	MSUD 	at	  	AFA  	 	   	 	 	d2/d1  	2022-01-28T23:00Z			bea7ee2a-9c6e-41e4-81ca-37b50e0039be
 ITA	48785	2022-01-28	 3:00pm	M	  	FNU  	at	  	STET 	 	   	 	 	naia/d1	2022-01-28T20:00Z			d3d71375-49dc-4bc7-892a-c1265eb81a70
 ITA	17467	2022-01-29	 1:00am	M	  	PORT 	at	 3	TCU  	 	   	 	 	d1     	2022-01-29T06:00Z			49427b25-288a-4dba-8c1e-c0aa734b462b
 ITA	17873	2022-01-29	 2:00pm	M	  	PRIN 	at	 3	FLA  	 	   	 	 	d1     	2022-01-29T19:00Z			015f1914-89e7-43f1-912d-4c981768013a
@@ -277,7 +276,6 @@ ITA	67085	2022-01-29	 9:00am	M	  	GT   	vs	  	MTSU 	 	   	N	 	d1     	2022-01-29
 ITA	64710	2022-01-29	10:00am	M	  	TOL  	at	  	MSU  	 	   	 	 	d1     	2022-01-29T15:00Z			f0618851-c70d-4d2f-9e44-151443ee3237
 ITA	61797	2022-01-29	10:00am	M	  	SFC  	at	  	NAVY 	 	   	 	 	d1     	2022-01-29T15:00Z			fd9a2d35-ae82-48be-acd7-ec8d4d39b735
 ITA	76827	2022-01-29	11:00am	M	  	ALA&M	at	  	MER  	 	   	 	 	d1     	2022-01-29T16:00Z			b0187c56-8c05-4ba8-9268-69dbd194cc00
-ITA	46038	2022-01-29	11:00am	M	  	CRE  	at	  	NEB  	 	   	 	 	d1     	2022-01-29T16:00Z			d68f0e0e-df2f-473c-853e-bef2aa078004
 ITA	90346	2022-01-29	11:00am	M	  	LU   	at	  	SFU  	 	   	 	 	d1     	2022-01-29T16:00Z			517a942f-6dd6-4df4-9340-d09527d7f322
 ITA	 1975	2022-01-29	11:00am	M	  	UTRGV	at	  	RICE 	 	   	 	 	d1     	2022-01-29T16:00Z			79aaafcc-7163-453a-8f69-2ca79d9d9ce9
 ITA	63882	2022-01-29	11:00am	M	  	TEM  	at	  	YALE 	 	   	 	 	d1     	2022-01-29T16:00Z			6e5ceb00-815e-477b-aa8a-821149623ed7
@@ -301,12 +299,12 @@ ITA	 8975	2022-01-29	 2:30pm	M	  	YOUNG	at	  	MER  	 	   	 	 	d2/d1  	2022-01-29
 ITA	21720	2022-01-29	 5:30pm	M	  	ARC  	at	  	UCD  	 	   	 	 	juco/d1	2022-01-29T22:30Z			94de2410-00ba-49e1-be56-9fbfd4a2479a
 ITA	23792	2022-01-29	12:00pm	M	  	AZCHR	at	  	NAU  	 	   	 	 	naia/d1	2022-01-29T17:00Z			3ae6a446-b32d-46fd-acf7-bb31b39716ff
 ITA	34886	2022-01-29	 4:00pm	M	  	AZCHR	at	  	NAU  	 	   	 	 	naia/d1	2022-01-29T21:00Z			623f7d33-aed1-45f8-a918-ded38d3467fc
-ITA	52167	2022-01-30	10:00am	M	14	LOU  	at	  	UCF  	 	   	 	 	d1     	2022-01-30T15:00Z			a56324c9-20a7-4251-a247-0237f0514598
+ITA	52167	2022-01-30	10:00am	M	  	LOU  	at	14	UCF  	 	   	 	 	d1     	2022-01-30T15:00Z			a56324c9-20a7-4251-a247-0237f0514598
 ITA	 7130	2022-01-30	12:00am	M	16	STAN 	vs	  	TULN 	 	   	N	 	d1     	2022-01-30T05:00Z			f2575c6a-177d-414e-9c0a-88ab2a17fbef
 ITA	45001	2022-01-30	12:00am	M	  	MTSU 	vs	  	MTSU 	 	   	N	 	d1     	2022-01-30T05:00Z			199d22e9-156b-4d6d-94b5-885e16921421
 ITA	73626	2022-01-30	10:00am	M	  	FORD 	at	  	BROWN	 	   	 	 	d1     	2022-01-30T15:00Z			21fc3f3c-c447-49ad-a082-79aafa2e3a20
 ITA	89304	2022-01-30	10:00am	M	  	IND  	vs	  	VANDY	 	   	N	 	d1     	2022-01-30T15:00Z			5381d83d-4c82-46c2-9b01-783dca0c7bee
-ITA	46096	2022-01-30	10:00am	M	  	LIPST	at	  	NJIT 	 	   	 	 	d1     	2022-01-30T15:00Z			df8b3441-1c43-454f-aff9-4b909f92e600
+ITA	46096	2022-01-30	10:00am	M	  	LIU  	at	  	NJIT 	 	   	 	 	d1     	2022-01-30T15:00Z			df8b3441-1c43-454f-aff9-4b909f92e600
 ITA	92528	2022-01-30	10:00am	M	  	USF  	vs	  	VT   	 	   	N	 	d1     	2022-01-30T15:00Z			d1b10203-09d6-4678-9c4d-dcb4f5869f0f
 ITA	21132	2022-01-30	11:00am	M	  	PRES 	at	  	CHAR 	 	   	 	 	d1     	2022-01-30T16:00Z			93661167-18ce-466c-a796-33a863e021aa
 ITA	 4460	2022-01-30	 1:00pm	M	  	WIS  	at	  	AUB  	 	   	 	 	d1     	2022-01-30T18:00Z			b751489e-318b-491d-8b06-8cc9835fee39
@@ -337,6 +335,7 @@ ITA	51276	2022-02-04	 7:00pm	M	 5	TEX  	at	 2	BAY  	 	   	 	 	d1     	2022-02-05
 ITA	66128	2022-02-04	 3:00pm	M	 7	UVA  	at	11	UK   	 	   	 	 	d1     	2022-02-04T20:00Z			47cf2dcc-2ca6-4ee3-acce-954d44f492e5
 ITA	35559	2022-02-04	 5:30pm	M	 7	UGA  	at	  	NCST 	 	   	 	 	d1     	2022-02-04T22:30Z			9a9db470-022c-4b37-a4a1-61b61f1c8296
 ITA	25487	2022-02-04	 5:00pm	M	14	UCF  	at	10	WAKE 	 	   	 	 	d1     	2022-02-04T22:00Z			959b8d9e-5198-4d5b-bc68-a514c959f74e
+ITA	89382	2022-02-04	 6:00pm	M	10	NCWES	at	  	WAKE 	 	   	 	 	d3/d1  	2022-02-04T23:00Z			a261ede7-d142-4fd0-a593-35c00c3c276c
 ITA	91063	2022-02-04	 5:00pm	M	  	CLEM 	at	12	SCAR 	 	   	 	 	d1     	2022-02-04T22:00Z			5bc14c2a-ac8f-4dda-8f98-85534723442a
 ITA	36721	2022-02-04	 5:00pm	M	  	USD  	at	14	ARIZ 	 	   	 	 	d1     	2022-02-04T22:00Z			59e8098f-bc06-4b24-b6cb-5012fdc568eb
 ITA	23063	2022-02-04	 6:00pm	M	22	PEPP 	at	  	OKST 	 	   	 	 	d1     	2022-02-04T23:00Z			71c7d86f-18e1-4d9d-a606-f88289514ddc
@@ -398,6 +397,7 @@ ITA	64807	2022-02-05	 7:00pm	M	  	UAB  	at	  	BAMA 	 	   	 	 	d1     	2022-02-06
 ITA	89341	2022-02-05	 8:00pm	M	  	IDAHO	vs	  	OMAHA	 	   	N	 	d1     	2022-02-06T01:00Z			b78c80b4-04b0-4a75-b270-0f6c3f72da72
 ITA	40687	2022-02-05	 7:30pm	M	  	QUE  	at	  	MONM 	 	   	 	 	d2/d1  	2022-02-06T00:30Z			08262d98-0956-437f-bb17-81415c379c35
 ITA	 9763	2022-02-05	10:00am	M	  	SFU  	at	  	CMU  	 	   	 	 	d1/d3  	2022-02-05T15:00Z			748b7eb2-8fb6-47e5-ae15-ddb0132a673b
+ITA	71667	2022-02-05	 4:00pm	M	  	FDUF 	at	  	BING 	 	   	 	 	d3/d1  	2022-02-05T21:00Z			745ae540-1d83-48d4-8163-2f41316c0e90
 ITA	56996	2022-02-06	 1:00pm	M	  	IDST 	at	 2	BAY  	 	   	 	 	d1     	2022-02-06T18:00Z			284402f1-c0cc-4b3b-be8b-f777d838d2c1
 ITA	 9370	2022-02-06	 6:00pm	M	  	IWORD	at	 2	BAY  	 	   	 	 	d1     	2022-02-06T23:00Z			454fcd47-71cb-4226-8c8b-ac1939d9735c
 ITA	72714	2022-02-06	 1:00pm	M	18	MISS 	at	 3	TCU  	 	   	 	 	d1     	2022-02-06T18:00Z			0ac3a9e7-78a8-4975-9eb8-fcc394807ed8
@@ -436,7 +436,7 @@ ITA	 1725	2022-02-06	 6:00pm	M	  	UND  	at	  	BOISE	 	   	 	 	d1     	2022-02-06
 ITA	53042	2022-02-09	 2:00pm	M	  	WOF  	at	13	UNC  	 	   	 	 	d1     	2022-02-09T19:00Z			dada4b6c-5853-4cb5-a42d-bac45d74cc12
 ITA	53553	2022-02-09	 3:00pm	M	  	PRES 	at	  	FUR  	 	   	 	 	d1     	2022-02-09T20:00Z			016aead9-de31-4efe-9c7b-9067e4cfce7a
 ITA	23777	2022-02-09	 4:00pm	M	  	BC   	at	  	BROWN	 	   	 	 	d1     	2022-02-09T21:00Z			14b7b1de-8523-49d2-9aad-83e50b2b33bd
-ITA	65610	2022-02-10	 5:00pm	M	12	WAKE 	at	10	SCAR 	 	   	 	 	d1     	2022-02-10T22:00Z			21770c9d-5c2f-48e1-b641-92a98e6f4c3f
+ITA	65610	2022-02-10	 5:00pm	M	10	WAKE 	at	12	SCAR 	 	   	 	 	d1     	2022-02-10T22:00Z			21770c9d-5c2f-48e1-b641-92a98e6f4c3f
 ITA	72403	2022-02-11	 3:00pm	M	  	TULSA	at	 2	BAY  	 	   	 	 	d1     	2022-02-11T20:00Z			d3615705-9689-4327-8401-18ddf9ca2146
 ITA	64370	2022-02-11	 7:00pm	M	21	MSST 	at	 3	TCU  	 	   	 	 	d1     	2022-02-12T00:00Z			a2a19a0f-e051-4810-b143-0021277dd9fe
 ITA	39519	2022-02-11	 6:00pm	M	  	RICE 	at	 5	TEX  	 	   	 	 	d1     	2022-02-11T23:00Z			ea5864d9-07d5-46a0-8a4c-70915db69ae5
@@ -500,7 +500,7 @@ ITA	22990	2022-02-12	 5:00pm	M	  	IDAHO	at	  	LCIDA	 	   	 	 	d1/naia	2022-02-12
 ITA	25017	2022-02-13	 1:00pm	M	  	CLMB 	at	 1	TENN 	 	   	 	 	d1     	2022-02-13T18:00Z			5ca49c62-2fb6-4a83-ad92-3c5fe6e8db81
 ITA	25977	2022-02-13	 1:00pm	M	 7	UVA  	at	 3	TCU  	 	   	 	 	d1     	2022-02-13T18:00Z			9621ca8f-9b6f-4b51-8683-ef88f335b81d
 ITA	36832	2022-02-13	 1:00pm	M	14	UCF  	at	 5	TEX  	 	   	 	 	d1     	2022-02-13T18:00Z			2bebc781-ef60-4811-9f5f-2829bbe32178
-ITA	56914	2022-02-13	12:00pm	M	 6	WAKE 	at	10	OSU  	 	   	 	 	d1     	2022-02-13T17:00Z			b63b4d2a-501d-4627-90b2-444bc2638c70
+ITA	56914	2022-02-13	12:00pm	M	10	WAKE 	at	 6	OSU  	 	   	 	 	d1     	2022-02-13T17:00Z			b63b4d2a-501d-4627-90b2-444bc2638c70
 ITA	52079	2022-02-13	12:00pm	M	11	UK   	at	  	DUKE 	 	   	 	 	d1     	2022-02-13T17:00Z			db0ef55c-bd21-4d7b-b197-16bb7377197b
 ITA	26302	2022-02-13	 2:00pm	M	  	DRAKE	at	24	OKLA 	 	   	 	 	d1     	2022-02-13T19:00Z			26e13048-ec9b-4915-97c9-a56a75fac7b9
 ITA	77695	2022-02-13	 4:00pm	M	  	UCI  	at	25	UCLA 	 	   	 	 	d1     	2022-02-13T21:00Z			3ea4185b-0fe0-4fe8-b2eb-f5680cc91fac
@@ -511,10 +511,10 @@ ITA	10203	2022-02-13	12:00pm	M	  	UNF  	at	  	CLEM 	 	   	 	 	d1     	2022-02-13
 ITA	 1099	2022-02-13	12:00pm	M	  	BUFF 	at	  	FGCU 	 	   	 	 	d1     	2022-02-13T17:00Z			557dc1f8-72f4-4089-b7e8-f1251faa80ef
 ITA	78410	2022-02-13	12:00pm	M	  	GAST 	at	  	FUR  	 	   	 	 	d1     	2022-02-13T17:00Z			f476666b-a329-46c7-9b71-047510a5d2bb
 ITA	24725	2022-02-13	12:00pm	M	  	NW   	at	  	ND   	 	   	 	 	d1     	2022-02-13T17:00Z			f52e0c01-ee5b-406c-8b6f-c3d2ca32a4f5
+ITA	65928	2022-02-13	12:00pm	M	  	WEBER	at	  	AFA  	 	   	 	 	d1     	2022-02-13T17:00Z			57d66c91-c311-4687-8096-24bcf16438ce
 ITA	75967	2022-02-13	12:00pm	M	  	IWORD	at	  	UTSA 	 	   	 	 	d1     	2022-02-13T17:00Z			dfd58c97-1c14-4f14-873f-107c2fc0a91d
 ITA	13254	2022-02-13	12:00pm	M	  	WIS  	at	  	PENN 	 	   	 	 	d1     	2022-02-13T17:00Z			c677d54a-1490-4444-bdb7-7915eac29bff
 ITA	30283	2022-02-13	12:00pm	M	  	DEL  	at	  	VCU  	 	   	 	 	d1     	2022-02-13T17:00Z			8a8217a5-5f69-4cd7-a76e-fd4b31f17c04
-ITA	65928	2022-02-13	12:00pm	M	  	WEBER	at	  	AFA  	 	   	 	 	d1     	2022-02-13T17:00Z			57d66c91-c311-4687-8096-24bcf16438ce
 ITA	98840	2022-02-13	 1:00pm	M	  	TULN 	at	  	AUB  	 	   	 	 	d1     	2022-02-13T18:00Z			5da19230-adaa-443a-afd0-56ce66a301d7
 ITA	18066	2022-02-13	 1:00pm	M	  	PRES 	at	  	DAV  	 	   	 	 	d1     	2022-02-13T18:00Z			6e2ab88f-24c4-4312-9002-4b3fb944ba78
 ITA	27041	2022-02-13	 1:00pm	M	  	MTSU 	at	  	IND  	 	   	 	 	d1     	2022-02-13T18:00Z			887b99bd-88dc-418f-8bf6-4638fa151a9e
@@ -523,11 +523,13 @@ ITA	81388	2022-02-13	 1:00pm	M	  	VT   	at	  	VANDY	 	   	 	 	d1     	2022-02-13
 ITA	53106	2022-02-13	 2:00pm	M	  	BOISE	at	  	UTAH 	 	   	 	 	d1     	2022-02-13T19:00Z			9cccfb8b-a698-4716-adbf-2e117f3cc1e6
 ITA	 3968	2022-02-13	 2:00pm	M	  	SDSU 	at	  	CPOLY	 	   	 	 	d1     	2022-02-13T19:00Z			efa24982-bd4c-4707-91de-9b4724c3c730
 ITA	50730	2022-02-13	 2:00pm	M	  	GCU  	at	  	UNM  	 	   	 	 	d1     	2022-02-13T19:00Z			b4bb4f91-11b2-4b0a-a5f5-bf02175be9a6
+ITA	46381	2022-02-13	 2:30pm	M	  	BING 	vs	  	GTWN 	 	   	N	 	d1     	2022-02-13T19:30Z			483f59dc-b89d-4d88-bf48-54bd92d6abfe
 ITA	44985	2022-02-13	 3:00pm	M	  	CHAT 	at	  	SALA 	 	   	 	 	d1     	2022-02-13T20:00Z			737ed4f4-5ebc-4078-8b11-200bcfe395ff
 ITA	99130	2022-02-13	 3:00pm	M	  	UCSB 	at	  	USD  	 	   	 	 	d1     	2022-02-13T20:00Z			45828016-cd23-4129-8869-49ff891bdaa0
 ITA	19061	2022-02-13	 3:00pm	M	  	WICH 	at	  	NEB  	 	   	 	 	d1     	2022-02-13T20:00Z			220642fd-d5b9-4c5d-ae35-864b8272b659
 ITA	33623	2022-02-13	 4:00pm	M	  	NOVA 	at	  	MONM 	 	   	 	 	d1     	2022-02-13T21:00Z			b82e158b-beab-4f17-96b8-38336ffab485
 ITA	17659	2022-02-13	 4:00pm	M	  	MORG 	at	  	VCU  	 	   	 	 	d1     	2022-02-13T21:00Z			c034fb3b-a9ed-4943-8731-a2efddcd3c92
+ITA	29649	2022-02-13	 5:00pm	M	  	BING 	at	  	ARMY 	 	   	 	 	d1     	2022-02-13T22:00Z			160304d2-fe31-4aae-8bb6-00a803482665
 ITA	32995	2022-02-13	 5:00pm	M	  	CHIC 	at	  	ND   	 	   	 	 	d1     	2022-02-13T22:00Z			debf927b-b4ba-4fab-8bf4-93768f91d065
 ITA	77888	2022-02-13	 5:00pm	M	  	CIT  	at	  	VANDY	 	   	 	 	d1     	2022-02-13T22:00Z			28bff6be-8842-44f3-a19a-50418a4ac15e
 ITA	 9959	2022-02-13	 6:00pm	M	  	ALST 	at	  	AUB  	 	   	 	 	d1     	2022-02-13T23:00Z			b880e67f-76c6-4ee4-be6c-cb62c4264342
@@ -572,6 +574,7 @@ ITA	56968	2022-02-19	 1:00pm	M	  	SCST 	at	  	WOF  	 	   	 	 	d1     	2022-02-19
 ITA	40353	2022-02-19	 1:30pm	M	  	JMU  	vs	  	NIU  	 	   	N	 	d1     	2022-02-19T18:30Z			825b1e91-70c5-4ee5-a3b6-3d028f923e6f
 ITA	61618	2022-02-19	 2:00pm	M	  	BYU  	at	  	UNM  	 	   	 	 	d1     	2022-02-19T19:00Z			c93a34c2-8783-4690-af90-15bae86d39c4
 ITA	72774	2022-02-19	 2:00pm	M	  	RICE 	at	  	TULN 	 	   	 	 	d1     	2022-02-19T19:00Z			56e1ca67-fe42-48d3-945e-3d7c85790ed6
+ITA	39521	2022-02-19	 3:00pm	M	  	BING 	at	  	LIU  	 	   	 	 	d1     	2022-02-19T20:00Z			d570a65c-428b-41ea-b98a-59acc1a91d68
 ITA	69053	2022-02-19	 3:00pm	M	  	LOYM 	vs	  	ORE  	 	   	N	 	d1     	2022-02-19T20:00Z			8d94a18f-5fa7-4360-95e7-d52dcbfe242c
 ITA	39018	2022-02-19	 5:00pm	M	  	CHIC 	at	  	CRE  	 	   	 	 	d1     	2022-02-19T22:00Z			e9e5a14b-7f59-493f-9706-e7636cae9c52
 ITA	77203	2022-02-19	 5:00pm	M	  	CCAR 	at	  	CLEM 	 	   	 	 	d1     	2022-02-19T22:00Z			a0599142-6f6e-4b51-bc78-d20878a4cbb4
@@ -704,7 +707,7 @@ ITA	42141	2022-03-04	 7:00pm	M	 2	BAY  	at	  	UIC  	 	   	 	 	d1     	2022-03-05
 ITA	83521	2022-03-04	 5:00pm	M	12	SCAR 	at	 3	FLA  	 	   	 	C	d1     	2022-03-04T22:00Z			2ca3ef7d-c846-40c0-a142-ce94ea39dc6d
 ITA	36549	2022-03-04	 3:00pm	M	 7	UVA  	at	  	DUKE 	 	   	 	C	d1     	2022-03-04T20:00Z			0f8be5f7-6649-4a22-8282-b583c5489d45
 ITA	46024	2022-03-04	 3:00pm	M	 7	UGA  	at	  	VANDY	 	   	 	C	d1     	2022-03-04T20:00Z			e140e2d7-8efc-488f-ae2f-9fef5066b229
-ITA	 2426	2022-03-04	 3:00pm	M	  	WAKE 	at	10	MIA  	 	   	 	C	d1     	2022-03-04T20:00Z			fc5dbab2-97b1-411d-8ad3-6b7861a4a22f
+ITA	 2426	2022-03-04	 3:00pm	M	10	WAKE 	at	  	MIA  	 	   	 	C	d1     	2022-03-04T20:00Z			fc5dbab2-97b1-411d-8ad3-6b7861a4a22f
 ITA	 9932	2022-03-04	 5:00pm	M	  	BAMA 	at	11	UK   	 	   	 	C	d1     	2022-03-04T22:00Z			a84f4ad0-695b-428a-904b-0a262e864592
 ITA	60059	2022-03-04	 3:00pm	M	  	VT   	at	13	UNC  	 	   	 	C	d1     	2022-03-04T20:00Z			0ee33197-5228-4eb4-b287-e4e26c652807
 ITA	35344	2022-03-04	 1:00pm	M	  	FGCU 	at	14	UCF  	 	   	 	 	d1     	2022-03-04T18:00Z			ad018d02-8c99-49e3-b3f5-59097bdd6356
@@ -776,6 +779,7 @@ ITA	90400	2022-03-08	12:00pm	M	  	BUTL 	vs	  	CRE  	 	   	N	C	d1     	2022-03-08
 ITA	51930	2022-03-08	 2:00pm	M	  	USU  	at	  	LOYM 	 	   	 	 	d1     	2022-03-08T19:00Z			cd59b54c-47bd-4c78-8686-c59714e258ef
 ITA	83099	2022-03-08	 3:00pm	M	  	NCCU 	at	  	JKST 	 	   	 	 	d1     	2022-03-08T20:00Z			1c8e34a9-f5df-4909-89cf-252bbd840685
 ITA	96099	2022-03-08	 1:00pm	M	  	ANDSC	vs	  	NCAT 	 	   	N	 	d2/d1  	2022-03-08T18:00Z			8614c254-d82b-4364-b514-cb29b7e757df
+ITA	70131	2022-03-08	 2:00pm	M	  	FSMTH	at	  	ORU  	 	   	 	 	d2/d1  	2022-03-08T19:00Z			31cb94a2-1547-4bc8-a19b-e45119213f84
 ITA	43704	2022-03-08	12:00pm	M	  	DUQ  	at	  	STHOM	 	   	 	 	d1/naia	2022-03-08T17:00Z			b115c2ca-823c-417d-ab16-9acccda9be60
 ITA	39377	2022-03-09	 8:00pm	M	 2	BAY  	at	  	AZST 	 	   	 	 	d1     	2022-03-10T01:00Z			9b2f93ed-cec0-4212-8fd0-997fe7e9d345
 ITA	88579	2022-03-09	 7:00pm	M	 5	TEX  	at	19	A&M  	 	   	 	 	d1     	2022-03-10T00:00Z			a205b9cf-3c8d-424f-917c-5a0d3be72ce6
@@ -796,7 +800,7 @@ ITA	66931	2022-03-10	12:00pm	M	  	CRE  	vs	  	NCWES	 	   	N	 	d1/d3  	2022-03-10
 ITA	54882	2022-03-10	 1:00pm	M	  	CWRU 	vs	  	SHU  	 	   	N	 	d3/d1  	2022-03-10T18:00Z			4acfe0e2-ac74-4c8a-8fa1-8d9c47189d1e
 ITA	41493	2022-03-11	 5:00pm	M	12	SCAR 	at	 1	TENN 	 	   	 	C	d1     	2022-03-11T22:00Z			c24fc6d1-03be-4242-ad2f-4f07466eebb0
 ITA	 3237	2022-03-11	 3:30pm	M	 3	FLA  	at	 7	UGA  	 	   	 	C	d1     	2022-03-11T20:30Z			d70d743b-7b5c-44de-90b8-ad606e85597a
-ITA	32145	2022-03-11	 3:00pm	M	 7	ND   	at	  	UVA  	 	   	 	C	d1     	2022-03-11T20:00Z			5c604ff3-1bef-4fa0-a0ef-a878e4c4266c
+ITA	32145	2022-03-11	 3:00pm	M	  	ND   	at	 7	UVA  	 	   	 	C	d1     	2022-03-11T20:00Z			5c604ff3-1bef-4fa0-a0ef-a878e4c4266c
 ITA	21513	2022-03-11	 5:00pm	M	13	UNC  	at	  	MIA  	 	   	 	C	d1     	2022-03-11T22:00Z			29bc512b-0101-4975-a9f4-452516a8b507
 ITA	93446	2022-03-11	11:00am	M	  	UNF  	at	14	UCF  	 	   	 	 	d1     	2022-03-11T16:00Z			2bf9a4fa-2527-43ad-856f-ca3734c2a0fa
 ITA	12077	2022-03-11	 5:00pm	M	  	STET 	at	14	UCF  	 	   	 	 	d1     	2022-03-11T22:00Z			35e7986e-1eb9-49ad-b1a3-314dabb237f2
@@ -812,8 +816,8 @@ ITA	11575	2022-03-11	10:00am	M	  	MTST 	at	  	PORT 	 	   	 	 	d1     	2022-03-11
 ITA	28058	2022-03-11	 2:00pm	M	  	BALL 	at	  	WMU  	 	   	 	C	d1     	2022-03-11T19:00Z			ef53864d-6dd8-4e80-9a06-7906bc338eec
 ITA	 1693	2022-03-11	 2:00pm	M	  	TOL  	at	  	NIU  	 	   	 	C	d1     	2022-03-11T19:00Z			d6cb3c22-f246-4c47-9995-c38e4d240bc6
 ITA	49454	2022-03-11	 2:00pm	M	  	LOU  	at	  	VT   	 	   	 	C	d1     	2022-03-11T19:00Z			3d5a1c59-d470-48cf-9366-7649d6d30b37
-ITA	11142	2022-03-11	 3:00pm	M	  	USM  	at	  	SALA 	 	   	 	 	d1     	2022-03-11T20:00Z			c43f50c4-105d-40c7-bcdf-6b6faf6f16d9
 ITA	95874	2022-03-11	 3:00pm	M	  	AFA  	at	  	UCSD 	 	   	 	 	d1     	2022-03-11T20:00Z			cc3f4bbc-5b11-4c6f-8851-6723922eff95
+ITA	11142	2022-03-11	 3:00pm	M	  	USM  	at	  	SALA 	 	   	 	 	d1     	2022-03-11T20:00Z			c43f50c4-105d-40c7-bcdf-6b6faf6f16d9
 ITA	31908	2022-03-11	 5:00pm	M	  	UTRGV	at	  	ULLAF	 	   	 	 	d1     	2022-03-11T22:00Z			9a3b9dd4-a789-479b-b5d9-438c604cf055
 ITA	25265	2022-03-11	 6:00pm	M	  	OKST 	at	  	SMU  	 	   	 	 	d1     	2022-03-11T23:00Z			c45bc7e7-b9dc-4ec0-ae87-fa1ffb5abc7d
 ITA	63742	2022-03-11	 6:00pm	M	  	SCLAR	at	  	CAL  	 	   	 	 	d1     	2022-03-11T23:00Z			8138a183-b65c-4417-913d-f6c3b3c54a4b
@@ -831,6 +835,7 @@ ITA	62924	2022-03-12	12:00pm	M	  	EWU  	at	  	PORT 	 	   	 	 	d1     	2022-03-12
 ITA	80970	2022-03-12	12:00pm	M	  	VCU  	at	  	CHAT 	 	   	 	 	d1     	2022-03-12T17:00Z			134f0ce6-cf79-4b7e-ba80-d46c701b931b
 ITA	12981	2022-03-12	 1:00pm	M	  	DEN  	vs	  	LOYM 	 	   	N	 	d1     	2022-03-12T18:00Z			1cea909a-d4a8-488d-a258-946d10455e2b
 ITA	60084	2022-03-12	 1:00pm	M	  	DEL  	at	  	YALE 	 	   	 	 	d1     	2022-03-12T18:00Z			1a79e32b-d10a-4d3f-b236-62174e442b18
+ITA	26070	2022-03-12	 2:00pm	M	  	BING 	at	  	BUFF 	 	   	 	C	d1     	2022-03-12T19:00Z			4c74872f-ffe7-47b6-8ead-d0c638bc7400
 ITA	93090	2022-03-12	 2:00pm	M	  	BU   	vs	  	UNM  	 	   	N	 	d1     	2022-03-12T19:00Z			3d93ad79-e2dd-4b54-a93c-f8de706574c5
 ITA	81317	2022-03-12	 2:00pm	M	  	NAVY 	at	  	W&M  	 	   	 	 	d1     	2022-03-12T19:00Z			1894f7b1-7605-4bee-8e32-2a3334826d36
 ITA	48150	2022-03-12	 2:00pm	M	  	PRES 	at	  	HAMP 	 	   	 	C	d1     	2022-03-12T19:00Z			4d12b559-4fd2-4e24-93a6-24128f79efb8
@@ -842,7 +847,7 @@ ITA	70960	2022-03-12	 5:00pm	M	  	MEM  	at	  	FGCU 	 	   	 	 	d1     	2022-03-12
 ITA	43371	2022-03-12	 2:00pm	M	  	JMU  	at	  	QUC  	 	   	 	 	d1/d2  	2022-03-12T19:00Z			afdc4d72-4989-4f84-a73b-b01d07ed1a6b
 ITA	46652	2022-03-12	 3:00pm	M	  	WUSTL	at	  	NKU  	 	   	 	 	d3/d1  	2022-03-12T20:00Z			efa8dac1-ef45-4921-9914-3f5723950a32
 ITA	73629	2022-03-13	 1:00pm	M	 3	FLA  	at	 1	TENN 	 	   	 	C	d1     	2022-03-13T17:00Z			3688c57e-3cee-4868-a989-4a4aa8496a84
-ITA	73915	2022-03-13	 1:00pm	M	 7	LOU  	at	  	UVA  	 	   	 	C	d1     	2022-03-13T17:00Z			46b3b272-7ca9-4274-8ac5-f5593bb7903f
+ITA	73915	2022-03-13	 1:00pm	M	  	LOU  	at	 7	UVA  	 	   	 	C	d1     	2022-03-13T17:00Z			46b3b272-7ca9-4274-8ac5-f5593bb7903f
 ITA	11384	2022-03-13	 2:00pm	M	11	UK   	at	  	ARK  	 	   	 	C	d1     	2022-03-13T18:00Z			a822ccb7-058e-4fb3-9ee7-3e0ad387eaea
 ITA	 5484	2022-03-13	 2:00pm	M	21	MSST 	at	19	A&M  	 	   	 	C	d1     	2022-03-13T18:00Z			eb60c4c3-95c4-4670-a038-c0f827759977
 ITA	 4488	2022-03-13	 2:00pm	M	24	OKLA 	at	  	TULSA	 	   	 	 	d1     	2022-03-13T18:00Z			c72c3af7-446f-4d7c-b558-838ffcc1855b
@@ -866,6 +871,7 @@ ITA	94631	2022-03-13	 2:00pm	M	  	PORT 	at	  	ORE  	 	   	 	 	d1     	2022-03-13
 ITA	28290	2022-03-13	 2:00pm	M	  	TOL  	at	  	WMU  	 	   	 	C	d1     	2022-03-13T18:00Z			cdc6e6de-b8c0-4efd-8665-7f617bbf84a5
 ITA	51046	2022-03-13	 3:00pm	M	  	BELL 	at	  	MTSU 	 	   	 	 	d1     	2022-03-13T19:00Z			d4526b53-7170-4fe6-b820-da9d5e357c67
 ITA	70854	2022-03-13	 4:30pm	M	  	UTAH 	at	  	CAL  	 	   	 	C	d1     	2022-03-13T20:30Z			9efe56e9-c68e-4b28-9062-92cf54ccfef1
+ITA	30902	2022-03-13	 5:00pm	M	  	BING 	at	  	COR  	 	   	 	 	d1     	2022-03-13T21:00Z			490fa89b-5b7d-4267-b606-14cf51600899
 ITA	90467	2022-03-13	 5:00pm	M	  	MTST 	at	  	ORE  	 	   	 	 	d1     	2022-03-13T21:00Z			09efe259-cc4e-4d92-8b61-d75192ad9a68
 ITA	81832	2022-03-13	12:00pm	M	  	CHC  	at	  	LOY  	 	   	 	 	d2/d1  	2022-03-13T16:00Z			d64d101d-6b5b-4236-949d-6bf06d5c0a4c
 ITA	77221	2022-03-13	 1:00pm	M	  	UDC  	at	  	NAVY 	 	   	 	 	d2/d1  	2022-03-13T17:00Z			f621fc28-8cb5-4715-bd5d-6838eaaf9f17
@@ -909,17 +915,19 @@ ITA	 7526	2022-03-18	 1:00pm	M	  	VT   	at	  	CLEM 	 	   	 	C	d1     	2022-03-18
 ITA	62082	2022-03-18	 1:00pm	M	  	NJIT 	at	  	IWORD	 	   	 	C	d1     	2022-03-18T17:00Z			4264dd5f-6811-4a5f-8f93-3dd9e681ab1a
 ITA	15703	2022-03-18	 1:00pm	M	  	WMU  	at	  	BUFF 	 	   	 	C	d1     	2022-03-18T17:00Z			034a8682-7333-47bf-a7ad-f3f7cb0f3021
 ITA	34371	2022-03-18	 2:00pm	M	  	JMU  	at	  	CAMP 	 	   	 	 	d1     	2022-03-18T18:00Z			650c8035-c0d8-4735-9f05-66a337b52c05
-ITA	71475	2022-03-18	 2:00pm	M	  	LSU  	at	  	VANDY	 	   	 	C	d1     	2022-03-18T18:00Z			d2010f25-68af-406c-8c6f-ceae3c2611ae
 ITA	21054	2022-03-18	 2:00pm	M	  	PRES 	at	  	CCAR 	 	   	 	 	d1     	2022-03-18T18:00Z			7dd3fabf-f0dd-4a72-b9e7-dd620b76c31f
+ITA	71475	2022-03-18	 2:00pm	M	  	LSU  	at	  	VANDY	 	   	 	C	d1     	2022-03-18T18:00Z			d2010f25-68af-406c-8c6f-ceae3c2611ae
 ITA	36055	2022-03-18	 2:00pm	M	  	MEM  	at	  	TULN 	 	   	 	C	d1     	2022-03-18T18:00Z			59056379-2928-4626-9bd0-8e18e04f7de2
 ITA	22896	2022-03-18	 3:00pm	M	  	MTSU 	at	  	SMU  	 	   	 	 	d1     	2022-03-18T19:00Z			0e9d43c4-7f8c-4c9b-be24-fd6f05a3ab34
 ITA	95287	2022-03-18	 3:00pm	M	  	CHAT 	at	  	WOF  	 	   	 	C	d1     	2022-03-18T19:00Z			e5979c8a-3659-4dcf-8532-c1dc3988dea3
+ITA	21550	2022-03-18	 4:00pm	M	  	FSU  	at	  	ND   	 	   	 	C	d1     	2022-03-18T20:00Z			8c3be685-4a05-471d-bded-488ec80889e9
 ITA	64928	2022-03-18	 5:00pm	M	  	BELL 	at	  	FGCU 	 	   	 	C	d1     	2022-03-18T21:00Z			8f3e7b7e-d738-44d5-99b5-3ab0001cc028
 ITA	 3966	2022-03-18	 5:00pm	M	  	UTRGV	at	  	NMSU 	 	   	 	C	d1     	2022-03-18T21:00Z			abf8a112-4861-4c51-acfb-cd15e88cd9a5
 ITA	30119	2022-03-18	 5:00pm	M	  	UTAH 	at	  	USD  	 	   	 	 	d1     	2022-03-18T21:00Z			1ce0d942-6f45-40e5-bfe9-d0d56715e018
 ITA	58832	2022-03-18	 5:30pm	M	  	ALA&M	at	  	VANDY	 	   	 	 	d1     	2022-03-18T21:30Z			e32bd528-1b02-4df0-8658-44626da03f9b
 ITA	68725	2022-03-18	 6:00pm	M	  	LIB  	at	  	KENN 	 	   	 	C	d1     	2022-03-18T22:00Z			4046077a-cc5b-42ad-be55-f5a2496aa55f
 ITA	11047	2022-03-18	 6:00pm	M	  	NIA  	at	  	MSU  	 	   	 	 	d1     	2022-03-18T22:00Z			da48a914-0f74-4b03-b3bb-45bc2a8bac23
+ITA	35357	2022-03-18	 7:00pm	M	  	NIU  	at	  	BING 	 	   	 	C	d1     	2022-03-18T23:00Z			e086a018-76c2-4d5c-8c46-8e1509747efb
 ITA	48248	2022-03-19	 2:00pm	M	  	USF  	at	 3	TCU  	 	   	 	 	d1     	2022-03-19T18:00Z			7f1f14e3-f414-49f2-9774-ebac811604da
 ITA	74039	2022-03-19	 5:00pm	M	20	HARV 	vs	  	UTAH 	 	   	N	 	d1     	2022-03-19T21:00Z			55a17709-dd80-46cd-9cf7-d7cb8aba1cc7
 ITA	46495	2022-03-19	 9:00am	M	  	HOW  	vs	  	SCST 	 	   	N	C	d1     	2022-03-19T13:00Z			7b5bf873-173d-4efa-ac57-dd472841de47
@@ -937,7 +945,7 @@ ITA	86159	2022-03-19	 2:00pm	M	  	YALE 	at	  	CPOLY	 	   	 	 	d1     	2022-03-19
 ITA	42824	2022-03-19	 2:00pm	M	  	MEM  	vs	  	OKST 	 	   	N	 	d1     	2022-03-19T18:00Z			40d599a3-4f4c-43b4-b19d-6049b3570298
 ITA	82284	2022-03-19	 2:00pm	M	  	HAW  	at	  	SDSU 	 	   	 	 	d1     	2022-03-19T18:00Z			ed8e531e-3a9b-4f03-8185-f2d327bf6cd9
 ITA	29982	2022-03-19	 3:00pm	M	  	PORT 	at	  	BYU  	 	   	 	C	d1     	2022-03-19T19:00Z			ddb2e615-a309-4028-9f29-74ee2cfce24b
-ITA	83894	2022-03-19	 4:00pm	M	  	SFU  	at	  	LIPST	 	   	 	C	d1     	2022-03-19T20:00Z			9d0e3f59-d3f0-44ae-a54b-5a06bea865cb
+ITA	83894	2022-03-19	 4:00pm	M	  	SFU  	at	  	LIU  	 	   	 	C	d1     	2022-03-19T20:00Z			9d0e3f59-d3f0-44ae-a54b-5a06bea865cb
 ITA	50616	2022-03-19	 6:00pm	M	  	WMU  	at	  	BING 	 	   	 	C	d1     	2022-03-19T22:00Z			1a2682c2-8084-4534-88df-ecb7e4803899
 ITA	28282	2022-03-19	 6:00pm	M	  	CRE  	at	  	OMAHA	 	   	 	 	d1     	2022-03-19T22:00Z			005e32bb-34eb-4187-8403-e4b7f68e62e4
 ITA	64756	2022-03-20	 1:00pm	M	 7	UGA  	at	 1	TENN 	 	   	 	C	d1     	2022-03-20T17:00Z			4e1a8a44-bdf0-4476-a9a6-34eecf3a363b
@@ -985,20 +993,21 @@ ITA	20278	2022-03-25	 5:00pm	M	 3	FLA  	at	  	ARK  	 	   	 	C	d1     	2022-03-25
 ITA	18772	2022-03-25	 6:00pm	M	23	ILL  	at	 6	OSU  	 	   	 	C	d1     	2022-03-25T22:00Z			6b2673fb-bc7e-4366-b92b-03fd47fb9224
 ITA	70387	2022-03-25	 3:00pm	M	  	NCST 	at	 7	UVA  	 	   	 	C	d1     	2022-03-25T19:00Z			93759901-d95f-4768-8167-27942e864981
 ITA	66844	2022-03-25	 6:00pm	M	16	STAN 	at	 9	USC  	 	   	 	C	d1     	2022-03-25T22:00Z			f0681ba4-9241-4f97-b639-8de36356a5cc
-ITA	33474	2022-03-25	 3:00pm	M	  	WAKE 	at	10	VT   	 	   	 	C	d1     	2022-03-25T19:00Z			b924f01e-c445-42e0-9737-82c929fd9b2f
+ITA	33474	2022-03-25	 3:00pm	M	10	WAKE 	at	  	VT   	 	   	 	C	d1     	2022-03-25T19:00Z			b924f01e-c445-42e0-9737-82c929fd9b2f
 ITA	40833	2022-03-25	 6:00pm	M	11	UK   	at	  	VANDY	 	   	 	C	d1     	2022-03-25T22:00Z			5913e3c9-4846-464c-b04e-32f730e24bbe
 ITA	45913	2022-03-25	 5:00pm	M	  	SMU  	at	14	UCF  	 	   	 	C	d1     	2022-03-25T21:00Z			8643878e-bd5c-45b0-8542-ccb159836b11
 ITA	50235	2022-03-25	 5:00pm	M	  	NEB  	at	17	MICH 	 	   	 	 	d1     	2022-03-25T21:00Z			f70da54c-db77-44e7-9c76-83e5fe4c953f
 ITA	72621	2022-03-25	 4:00pm	M	  	AUB  	at	18	MISS 	 	   	 	C	d1     	2022-03-25T20:00Z			c7ea278e-12d8-41d5-a3b8-35cd756c86b6
 ITA	98984	2022-03-25	 4:00pm	M	  	BAMA 	at	21	MSST 	 	   	 	C	d1     	2022-03-25T20:00Z			94e6f10d-d997-4bb1-8d9b-7ae18a5040bd
 ITA	  443	2022-03-25	 4:00pm	M	  	CAL  	at	25	UCLA 	 	   	 	C	d1     	2022-03-25T20:00Z			75daff9c-8133-49c9-8f36-fd530855ef77
+ITA	51133	2022-03-25	12:00pm	M	  	CCAR 	at	  	SALA 	 	   	 	C	d1     	2022-03-25T16:00Z			86a7216f-1a57-4d22-af8c-7d3feab3ec29
 ITA	12806	2022-03-25	12:00pm	M	  	UTRGV	at	  	LAMAR	 	   	 	C	d1     	2022-03-25T16:00Z			ffb2ca66-235a-40fc-9a6f-5313ce2b1502
 ITA	12373	2022-03-25	12:00pm	M	  	LOY  	at	  	ARMY 	 	   	 	C	d1     	2022-03-25T16:00Z			910f416b-b0d7-487c-bdd8-5e294144e149
-ITA	51133	2022-03-25	12:00pm	M	  	CCAR 	at	  	SALA 	 	   	 	C	d1     	2022-03-25T16:00Z			86a7216f-1a57-4d22-af8c-7d3feab3ec29
 ITA	 9981	2022-03-25	 1:00pm	M	  	FAU  	at	  	ODU  	 	   	 	 	d1     	2022-03-25T17:00Z			3ae65711-65fb-4bb6-93c1-5c2bd1d65f5d
 ITA	 5735	2022-03-25	 1:00pm	M	  	GAST 	at	  	UTA  	 	   	 	C	d1     	2022-03-25T17:00Z			86c55127-8aa9-4ec5-99e0-0f710af9ea34
 ITA	47195	2022-03-25	 1:00pm	M	  	TULSA	at	  	TULN 	 	   	 	C	d1     	2022-03-25T17:00Z			52dbe299-d5a4-4b05-8e8f-cd7ba1a3e556
 ITA	88544	2022-03-25	 1:30pm	M	  	VCU  	at	  	USF  	 	   	 	 	d1     	2022-03-25T17:30Z			f68242a4-7d76-4d67-9366-e6525d8ccb3f
+ITA	46781	2022-03-25	 2:00pm	M	  	BING 	at	  	BALL 	 	   	 	C	d1     	2022-03-25T18:00Z			4f92f6a6-5806-4a7a-b435-71aa8202dc04
 ITA	51492	2022-03-25	 2:00pm	M	  	GONZ 	at	  	BYU  	 	   	 	C	d1     	2022-03-25T18:00Z			3268258d-05c2-4fc7-9304-c6879c480b06
 ITA	21284	2022-03-25	 2:00pm	M	  	UNM  	at	  	RICE 	 	   	 	 	d1     	2022-03-25T18:00Z			a0a050fd-2294-4e14-a1c8-07c29df2359c
 ITA	40377	2022-03-25	 2:00pm	M	  	UCD  	at	  	HAW  	 	   	 	C	d1     	2022-03-25T18:00Z			cea919fa-20a7-4bc9-b9db-44ea2c146269
@@ -1038,9 +1047,9 @@ ITA	63228	2022-03-27	 2:00pm	M	 1	TENN 	at	  	LSU  	 	   	 	C	d1     	2022-03-27
 ITA	19711	2022-03-27	 2:00pm	M	 3	TCU  	at	  	TULN 	 	   	 	 	d1     	2022-03-27T18:00Z			fce0a4b8-3da6-41c6-a974-997ef926ef2e
 ITA	 8578	2022-03-27	 1:00pm	M	24	OKLA 	at	 5	TEX  	 	   	 	 	d1     	2022-03-27T17:00Z			1660852e-9b3f-4578-9540-c67c1efe116e
 ITA	98189	2022-03-27	12:00pm	M	  	NW   	at	 6	OSU  	 	   	 	C	d1     	2022-03-27T16:00Z			f23b6a5c-755e-4167-a3bb-cfddcc865ac7
-ITA	39364	2022-03-27	 1:00pm	M	 7	WAKE 	at	10	UVA  	 	   	 	C	d1     	2022-03-27T17:00Z			490c7ce5-b1eb-4831-8905-e55b51834349
+ITA	39364	2022-03-27	 1:00pm	M	10	WAKE 	at	 7	UVA  	 	   	 	C	d1     	2022-03-27T17:00Z			490c7ce5-b1eb-4831-8905-e55b51834349
 ITA	75966	2022-03-27	 2:00pm	M	11	UK   	at	18	MISS 	 	   	 	C	d1     	2022-03-27T18:00Z			52bb9c09-9e05-4606-b86b-f0a9238fa360
-ITA	21381	2022-03-27	 4:00pm	M	13	ND   	at	  	UNC  	 	   	 	C	d1     	2022-03-27T20:00Z			d7f7091d-87b1-42d5-8052-9e81509bc82c
+ITA	21381	2022-03-27	 4:00pm	M	  	ND   	at	13	UNC  	 	   	 	C	d1     	2022-03-27T20:00Z			d7f7091d-87b1-42d5-8052-9e81509bc82c
 ITA	36970	2022-03-27	12:00pm	M	  	WIS  	at	17	MICH 	 	   	 	C	d1     	2022-03-27T16:00Z			87d62898-86c5-4def-8970-dbf8c0079240
 ITA	86597	2022-03-27	 7:00pm	M	  	UTSA 	at	19	A&M  	 	   	 	 	d1     	2022-03-27T23:00Z			2bb539de-1718-48fd-a188-f5e5c0251943
 ITA	56544	2022-03-27	 1:00am	M	  	ETSU 	at	  	RICE 	 	   	 	 	d1     	2022-03-27T05:00Z			1f8e8771-8fd6-40c0-9a31-53b6ac6e6a2f
@@ -1078,9 +1087,10 @@ ITA	47874	2022-03-31	 3:00pm	M	  	HOF  	at	  	LOY  	 	   	 	 	d1     	2022-03-31
 ITA	56470	2022-04-01	 5:00pm	M	  	ARK  	at	 1	TENN 	 	   	 	C	d1     	2022-04-01T21:00Z			b500bd45-943e-4864-ab66-3fc59a20c1a4
 ITA	64952	2022-04-01	 7:00pm	M	 2	BAY  	at	 5	TEX  	 	   	 	C	d1     	2022-04-01T23:00Z			686a612f-4be2-453c-9fda-c6a5c36b207f
 ITA	37551	2022-04-01	 5:00pm	M	  	LSU  	at	 3	FLA  	 	   	 	C	d1     	2022-04-01T21:00Z			8424088d-80bb-46b4-8c2c-fdfedd85d4b7
-ITA	30823	2022-04-01	 7:00pm	M	  	TTU  	at	 3	TCU  	 	   	 	C	d1     	2022-04-01T23:00Z			7e493b1f-fa3f-4388-b548-45b4053187ab
+ITA	30823	2022-04-01	 7:00pm	M	 3	TTU  	at	  	TCU  	 	   	 	C	d1     	2022-04-01T23:00Z			7e493b1f-fa3f-4388-b548-45b4053187ab
 ITA	43147	2022-04-01	 4:00pm	M	 7	UGA  	at	18	MISS 	 	   	 	C	d1     	2022-04-01T20:00Z			adf4d269-683f-49d7-b272-c8c4333303c5
 ITA	81787	2022-04-01	 4:30pm	M	 9	USC  	at	  	ORE  	 	   	 	C	d1     	2022-04-01T20:30Z			7896739c-9eb3-4c5c-9329-968e5ca7b9d7
+ITA	87205	2022-04-01	 4:00pm	M	10	WAKE 	at	  	ND   	 	   	 	C	d1     	2022-04-01T20:00Z			6479d9b4-f20d-4cd4-aba4-7d9cc7ac6b93
 ITA	88771	2022-04-01	 4:00pm	M	  	VANDY	at	12	SCAR 	 	   	 	C	d1     	2022-04-01T20:00Z			dc01c4bb-53a2-4bb2-ba35-ba2fdefb297d
 ITA	45327	2022-04-01	 7:00pm	M	19	A&M  	at	  	BAMA 	 	   	 	C	d1     	2022-04-01T23:00Z			ae360da5-a9ed-4ce3-bef4-1a2c2bc84517
 ITA	99275	2022-04-01	 2:00pm	M	21	MSST 	at	  	AUB  	 	   	 	C	d1     	2022-04-01T18:00Z			bfa723e0-7a01-4d0c-805c-f73ef547d89c
@@ -1104,6 +1114,7 @@ ITA	 3641	2022-04-01	 2:00pm	M	  	STET 	at	  	LIP  	 	   	 	C	d1     	2022-04-01
 ITA	10810	2022-04-01	 2:00pm	M	  	NAU  	at	  	MTST 	 	   	 	C	d1     	2022-04-01T18:00Z			1cd184e7-5203-41ad-b190-90e8b7eed11d
 ITA	67671	2022-04-01	 2:00pm	M	  	SCLAR	at	  	PORT 	 	   	 	C	d1     	2022-04-01T18:00Z			bff27ba9-fc4c-4928-a608-e0febfef4229
 ITA	78903	2022-04-01	 2:00pm	M	  	USF  	at	  	TULN 	 	   	 	C	d1     	2022-04-01T18:00Z			bc6d262d-84f8-4915-8f52-358026e57faf
+ITA	81896	2022-04-01	 3:00pm	M	  	BING 	at	  	NIU  	 	   	 	C	d1     	2022-04-01T19:00Z			ff7e7965-9749-4161-aa16-5c7aacc7e220
 ITA	76547	2022-04-01	 4:00pm	M	  	COLG 	at	  	BUCK 	 	   	 	C	d1     	2022-04-01T20:00Z			6f4ce340-b167-4185-af67-8f3e4895783b
 ITA	44247	2022-04-01	 5:00pm	M	  	BELL 	at	  	PUR  	 	   	 	 	d1     	2022-04-01T21:00Z			e73a3455-1d59-45fd-a6bf-32e6767d737f
 ITA	10235	2022-04-01	 5:00pm	M	  	LOYM 	at	  	SMCC 	 	   	 	C	d1     	2022-04-01T21:00Z			3ecb68aa-0594-4177-b349-602997a1cafd
@@ -1134,9 +1145,10 @@ ITA	10331	2022-04-02	 6:00pm	M	  	DRAKE	at	  	OMAHA	 	   	 	C	d1     	2022-04-02
 ITA	74558	2022-04-02	 4:00pm	M	  	MERCY	at	  	DUQ  	 	   	 	 	d2/d1  	2022-04-02T20:00Z			9b376bd0-acdf-453b-8f1f-44cf9c20b7b2
 ITA	71628	2022-04-03	 2:00pm	M	 3	TCU  	at	 2	BAY  	 	   	 	C	d1     	2022-04-03T18:00Z			33e39e00-c4db-4e6d-8c27-07ad92dd8d69
 ITA	53822	2022-04-03	 1:00pm	M	  	VANDY	at	 3	FLA  	 	   	 	C	d1     	2022-04-03T17:00Z			ea1bf67f-9e1a-4786-b9b1-813a0561258e
-ITA	18878	2022-04-03	 1:00pm	M	  	TTU  	at	 5	TEX  	 	   	 	C	d1     	2022-04-03T17:00Z			4245a6c0-41b3-403b-a571-572faeafb298
+ITA	18878	2022-04-03	 1:00pm	M	 5	TTU  	at	  	TEX  	 	   	 	C	d1     	2022-04-03T17:00Z			4245a6c0-41b3-403b-a571-572faeafb298
 ITA	54349	2022-04-03	11:00pm	M	 6	OSU  	at	  	PUR  	 	   	 	C	d1     	2022-04-04T03:00Z			8591cd2a-f75e-49f5-ab71-4c68fe3288ef
 ITA	71777	2022-04-03	 3:00pm	M	 9	USC  	at	  	WASH 	 	   	 	C	d1     	2022-04-03T19:00Z			7126ba36-84b7-45f8-9a8f-42cbc5b30c66
+ITA	 3558	2022-04-03	 1:00am	M	10	WAKE 	at	  	LOU  	 	   	 	C	d1     	2022-04-03T05:00Z			1fbb812e-f34f-434b-8d7f-897611f5d64e
 ITA	 4339	2022-04-03	12:00pm	M	11	UK   	at	12	SCAR 	 	   	 	C	d1     	2022-04-03T16:00Z			6376c92e-2247-45f3-9289-0f1eda2892d5
 ITA	18819	2022-04-03	 2:00pm	M	14	UCF  	at	  	TULN 	 	   	 	C	d1     	2022-04-03T18:00Z			c5c0e2c2-d9c4-408b-8003-a4bbd7fc1061
 ITA	18943	2022-04-03	 4:00pm	M	16	STAN 	at	  	AZST 	 	   	 	C	d1     	2022-04-03T20:00Z			c541d18c-d179-486d-9199-30000674f654
@@ -1171,6 +1183,7 @@ ITA	11956	2022-04-05	 2:30pm	M	  	ELON 	at	  	JMU  	 	   	 	 	d1     	2022-04-05
 ITA	52802	2022-04-06	 2:00pm	M	  	GAST 	at	  	GASO 	 	   	 	C	d1     	2022-04-06T18:00Z			d35075ed-cc98-47d8-95b0-5092bc0a2995
 ITA	11918	2022-04-06	 3:00pm	M	  	SALA 	at	  	TROY 	 	   	 	C	d1     	2022-04-06T19:00Z			56cde1ff-75e1-451f-b478-e5bee6cf8ed7
 ITA	 1982	2022-04-06	 3:30pm	M	  	MSM  	at	  	LOY  	 	   	 	 	d1     	2022-04-06T19:30Z			1e154b70-cdee-46ec-8807-2187f497bcaa
+ITA	70093	2022-04-06	 4:00pm	M	  	LOU  	at	  	ND   	 	   	 	C	d1     	2022-04-06T20:00Z			9bf94228-aa7e-4343-90ce-e10a7b2c6c5e
 ITA	40775	2022-04-07	 1:00am	M	  	ETSU 	at	  	CIT  	 	   	 	C	d1     	2022-04-07T05:00Z			44a52a24-0ff8-4d59-a762-1b851496e232
 ITA	58427	2022-04-07	 3:00pm	M	  	SHU  	at	  	NJIT 	 	   	 	 	d1     	2022-04-07T19:00Z			b6131acf-46c5-4fec-9c21-b30ebd0691cf
 ITA	94694	2022-04-07	 3:00pm	M	  	STEV 	at	  	LOY  	 	   	 	 	d3/d1  	2022-04-07T19:00Z			43eb79f7-e121-402a-b286-1cd014abc19b
@@ -1236,6 +1249,7 @@ ITA	43298	2022-04-09	 3:00pm	M	  	FAU  	at	  	SALA 	 	   	 	 	d1     	2022-04-09
 ITA	47474	2022-04-09	 3:00pm	M	  	GONZ 	at	  	LOYM 	 	   	 	C	d1     	2022-04-09T19:00Z			6772df5b-fc1f-4e1e-a436-4cbb4889ba90
 ITA	29860	2022-04-09	 3:00pm	M	  	WASH 	at	  	CAL  	 	   	 	C	d1     	2022-04-09T19:00Z			5bf9e433-fc2c-42b5-af74-9767d810a20a
 ITA	12294	2022-04-09	 4:00pm	M	  	SF   	at	  	USD  	 	   	 	C	d1     	2022-04-09T20:00Z			92893f9c-4ad3-4f76-944e-ebb6430b2105
+ITA	65820	2022-04-09	 5:00pm	M	  	BUFF 	at	  	BING 	 	   	 	C	d1     	2022-04-09T21:00Z			572884cd-9b97-4a96-9244-bef705b7ee43
 ITA	15664	2022-04-09	 1:00pm	M	  	DUQ  	at	  	MILL 	 	   	 	 	d1/d2  	2022-04-09T17:00Z			e0518ac8-fbc0-4576-860a-9415ac538507
 ITA	84051	2022-04-09	 1:00pm	M	  	XULA 	at	  	JKST 	 	   	 	 	naia/d1	2022-04-09T17:00Z			7a9ca2eb-c4ea-4dd7-a996-d5f7426f7139
 ITA	 1788	2022-04-10	 1:00pm	M	 1	TENN 	at	  	VANDY	 	   	 	C	d1     	2022-04-10T17:00Z			e60126ac-ff05-41df-b3b7-5ac24d0015bc
@@ -1263,12 +1277,12 @@ ITA	74619	2022-04-10	12:00pm	M	  	PUR  	at	  	MSU  	 	   	 	C	d1     	2022-04-10
 ITA	11111	2022-04-10	12:00pm	M	  	NJIT 	at	  	DEL  	 	   	 	 	d1     	2022-04-10T16:00Z			3f9047ec-69f7-48c7-990d-9f1fb270bbef
 ITA	31661	2022-04-10	 1:00pm	M	  	BROWN	at	  	PENN 	 	   	 	C	d1     	2022-04-10T17:00Z			2f558b47-32aa-4f60-994f-6588f949adb9
 ITA	57249	2022-04-10	 1:00pm	M	  	CIT  	at	  	WOF  	 	   	 	C	d1     	2022-04-10T17:00Z			f04dad9e-2e43-43e7-a8d5-caeaa855eed2
+ITA	33359	2022-04-10	 1:00pm	M	  	VT   	at	  	FSU  	 	   	 	C	d1     	2022-04-10T17:00Z			b15f4a31-642f-4dbb-9188-9d97d7385552
 ITA	34879	2022-04-10	 1:00pm	M	  	LIB  	at	  	VCU  	 	   	 	 	d1     	2022-04-10T17:00Z			8c871041-f530-4ebb-9626-64821e1e2fbc
 ITA	37534	2022-04-10	 1:00pm	M	  	NW   	at	  	NEB  	 	   	 	C	d1     	2022-04-10T17:00Z			563eb463-cb81-49ee-baa6-9437508be4e5
 ITA	19539	2022-04-10	 1:00pm	M	  	UNCG 	at	  	PRES 	 	   	 	 	d1     	2022-04-10T17:00Z			94d555af-f2b7-4115-b431-b1df90158668
 ITA	83393	2022-04-10	 1:00pm	M	  	SMU  	at	  	TULN 	 	   	 	C	d1     	2022-04-10T17:00Z			fce31fe5-35d9-4369-a148-c8a92d3d8acd
 ITA	71972	2022-04-10	 1:00pm	M	  	YALE 	at	  	PENN 	 	   	 	C	d1     	2022-04-10T17:00Z			e911578b-d689-4e20-be3f-74c3096e9332
-ITA	33359	2022-04-10	 1:00pm	M	  	VT   	at	  	FSU  	 	   	 	C	d1     	2022-04-10T17:00Z			b15f4a31-642f-4dbb-9188-9d97d7385552
 ITA	17995	2022-04-10	 2:00pm	M	  	BOISE	at	  	UNM  	 	   	 	C	d1     	2022-04-10T18:00Z			c25c428c-b757-4056-93f2-6acb8aa3acfd
 ITA	16528	2022-04-10	 2:00pm	M	  	OKST 	at	  	TTU  	 	   	 	C	d1     	2022-04-10T18:00Z			19326a93-c0ae-424a-bcde-2f3ffe9e83ba
 ITA	11397	2022-04-10	 2:00pm	M	  	UNA  	at	  	STET 	 	   	 	C	d1     	2022-04-10T18:00Z			a155b4a3-8bb4-40f9-81a9-134f3ec07f8e
@@ -1293,11 +1307,13 @@ ITA	60057	2022-04-14	 3:00pm	M	  	UNF  	at	  	LIB  	 	   	 	C	d1     	2022-04-14
 ITA	78136	2022-04-15	 5:00pm	M	  	BAMA 	at	 1	TENN 	 	   	 	C	d1     	2022-04-15T21:00Z			0149b79e-0827-4786-b7a7-dd73f055a0be
 ITA	17867	2022-04-15	 5:00pm	M	  	AUB  	at	 7	UGA  	 	   	 	C	d1     	2022-04-15T21:00Z			4343d946-330c-44dd-b687-c008e4b59e81
 ITA	 3486	2022-04-15	 5:00pm	M	 9	USC  	at	  	UTAH 	 	   	 	C	d1     	2022-04-15T21:00Z			b8a8d8b9-7390-409a-95a2-f0e2d5da11de
+ITA	62575	2022-04-15	 6:00pm	M	10	PFEIF	at	  	WAKE 	 	   	 	 	d3/d1  	2022-04-15T22:00Z			bccf8330-d9c4-49b6-8df9-bafca40fa418
 ITA	94495	2022-04-15	 6:00pm	M	11	UK   	at	  	LSU  	 	   	 	C	d1     	2022-04-15T22:00Z			f5fb1d5f-ac8b-418c-9a18-67a2f1bc8e82
 ITA	75825	2022-04-15	 4:00pm	M	19	A&M  	at	12	SCAR 	 	   	 	C	d1     	2022-04-15T20:00Z			03424ed3-86f5-4f32-8b8a-c5b291ce7ba9
 ITA	33495	2022-04-15	 2:00pm	M	  	ARK  	at	18	MISS 	 	   	 	C	d1     	2022-04-15T18:00Z			b110f6bb-2814-4e28-9334-2c5d2ee28e6a
 ITA	14000	2022-04-15	 4:00pm	M	  	VANDY	at	21	MSST 	 	   	 	C	d1     	2022-04-15T20:00Z			bbfbfdb5-c96b-42e1-a85b-3299a6fd71d7
 ITA	53896	2022-04-15	 2:00pm	M	22	PEPP 	at	  	BYU  	 	   	 	C	d1     	2022-04-15T18:00Z			672abf07-f802-4598-b196-3b03dc99ddea
+ITA	82297	2022-04-15	11:00am	M	  	BALL 	at	  	BING 	 	   	 	C	d1     	2022-04-15T15:00Z			d407702e-a0b1-492b-a106-7f73ebc8d727
 ITA	64282	2022-04-15	12:00pm	M	  	UTSA 	at	  	LAMAR	 	   	 	 	d1     	2022-04-15T16:00Z			686177dd-ebd1-42da-85b1-f4bbf2126d7f
 ITA	19368	2022-04-15	12:00pm	M	  	MSU  	at	  	PSU  	 	   	 	C	d1     	2022-04-15T16:00Z			ba82df24-5cb4-452a-904c-38f22ad755f4
 ITA	44928	2022-04-15	 1:00pm	M	  	NJIT 	at	  	HOF  	 	   	 	 	d1     	2022-04-15T17:00Z			3285828b-2268-449f-a966-df552fa140f1
@@ -1343,6 +1359,7 @@ ITA	12208	2022-04-17	12:00pm	M	  	MSU  	at	 6	OSU  	 	   	 	C	d1     	2022-04-17
 ITA	56300	2022-04-17	 1:00pm	M	  	BC   	at	 7	UVA  	 	   	 	C	d1     	2022-04-17T17:00Z			8f36cae4-09bf-4174-a548-b7c7e8eb7964
 ITA	86336	2022-04-17	 2:00pm	M	  	BAMA 	at	 7	UGA  	 	   	 	C	d1     	2022-04-17T18:00Z			5ce0fe24-ad7e-4fb2-ba6b-fc233e3556d1
 ITA	 5463	2022-04-17	 2:00pm	M	  	DUKE 	at	10	WAKE 	 	   	 	C	d1     	2022-04-17T18:00Z			565196d5-e128-41a1-91da-9c1dc49b4269
+ITA	21253	2022-04-17	 6:00pm	M	10	NCWES	at	  	WAKE 	 	   	 	 	d3/d1  	2022-04-17T22:00Z			783bdb4e-90d3-4f0c-8d6b-411a4ff5adbf
 ITA	15200	2022-04-17	 2:00pm	M	11	UK   	at	21	MSST 	 	   	 	C	d1     	2022-04-17T18:00Z			1d19f45f-624a-467b-866e-6e08b1134407
 ITA	17558	2022-04-17	12:00pm	M	13	UNC  	at	  	NCST 	 	   	 	C	d1     	2022-04-17T16:00Z			167fdac2-1f3f-48f5-8f48-29a406fa22c9
 ITA	51569	2022-04-17	 4:30pm	M	16	STAN 	at	  	CAL  	 	   	 	C	d1     	2022-04-17T20:30Z			11f3033d-8713-48a8-b41e-15e1e5c1303d

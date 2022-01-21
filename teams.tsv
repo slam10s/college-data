@@ -1,5 +1,5 @@
 ---
-teams: 862
+teams: 863
 ---
 division	conference	gender	code	name	city	state	slamId	ncaaId	utrId	r2Id	itaRoot	itaId
 d1  	A-10      	M	  DAV	Davidson               	        Davidson	NC		  173	1081		DavidsonCollegeM                       	89e5371a-c936-4f5b-94b6-55ddcc8009ce
@@ -59,7 +59,7 @@ d1  	American  	M	  SMU	SMU                    	          Dallas	TX		  663	1035	
 d1  	American  	M	  USF	South Florida          	           Tampa	FL		  651	1181		UnivOfSouthFloridaM                    	193a4fb2-4a26-4724-ad0b-188cb862c8b4
 d1  	American  	M	  TEM	Temple                 	    Philadelphia	PA		  690	1278		TempleUniversityM                      	9206c498-1f17-4a78-ac21-42ca7319faa9
 d1  	American  	M	 TULN	Tulane                 	     New Orleans	LA		  718	1183		TulaneUniversityM                      	f02eef55-0142-475c-a01e-4d4f94735285
-d1  	American  	M	TULSA	Tulsa                  	           Tulsa	OK		  719	1011		UniversityOfTulsaM                     	c45e9ee0-09e1-4acd-8fbc-056f21ba43ee
+d1  	American  	M	TULSA	Tulsa                  	           Tulsa	OK		  719	1011		UniversityofTulsaM                     	c45e9ee0-09e1-4acd-8fbc-056f21ba43ee
 d1  	American  	M	 WICH	Wichita State          	         Wichita	KS		  782	1007		WichitaStateUniversityM                	59cd7fa7-ac23-49f3-aea1-6b0eb434d55e
 d1  	American  	W	  UCF	Central Florida        	         Orlando	FL		  128	1180		UniversityOfCentralFloridaW            	c468ccb0-0eb0-471c-91ff-df81fc79a7bd
 d1  	American  	W	  CIN	Cincinnati             	      Cincinnati	OH		  140	1705		UniversityOfCincinnatiW                	3ece9146-8b44-4176-a783-a9bcef286b93
@@ -297,9 +297,9 @@ d1  	MAC       	W	MIAOH	Miami (OH)             	          Oxford	OH		  414	2463	
 d1  	MAC       	W	  NIU	Northern Illinois      	          DeKalb	IL		  503	1237		NorthernIllinoisUnivW                  	cdab065a-302d-4a01-a46f-5345609f3da9
 d1  	MAC       	W	  TOL	Toledo                 	          Toledo	OH		  709	1046		UniversityOfToledoW                    	fcd69b73-3301-4fb6-8849-9301c12659b4
 d1  	MAC       	W	  WMU	Western Michigan       	       Kalamazoo	MI		  774	 964		WesternMichiganUniversityW             	f130f733-cc1e-447d-942f-79a294911a84
-d1  	MEAC      	M	BCOOK	Bethune Cookman        	   Daytona Beach	FL		     	1331		                                       	955f637a-2a3f-4c09-acc7-6cb90b903ff0
+d1  	MEAC      	M	BCOOK	Bethune Cookman        	   Daytona Beach	FL		     	1331		BethuneCookmanUniversityM              	955f637a-2a3f-4c09-acc7-6cb90b903ff0
 d1  	MEAC      	M	 COPP	Coppin State           	       Baltimore	MD		  165	2998		CoppinStateUniversityM                 	bbad712f-8d4a-482a-818b-e775f739993d
-d1  	MEAC      	M	FLA&M	Florida A&M            	     Tallahassee	FL		     	1335		                                       	939c3bf1-ae66-4755-bc24-66c65dc591bd
+d1  	MEAC      	M	FLA&M	Florida A&M            	     Tallahassee	FL		     	1335		FloridaAMUniversityM                   	939c3bf1-ae66-4755-bc24-66c65dc591bd
 d1  	MEAC      	M	  HOW	Howard                 	      Washington	DC		  290	1208		HowardUniversityM                      	3a34fd57-ed2c-40a8-932b-00ba5253c843
 d1  	MEAC      	M	 MORG	Morgan State           	       Baltimore	MD		  446	1264		MorganStateUniversityM                 	0fc5fa3c-6215-46de-aff6-da3502d1a301
 d1  	MEAC      	M	 NCCU	NCCU                   	          Durham	NC		  489	1165		NorthCarolinaCentralUM                 	5ff79fbd-f23d-48e3-9b9f-0c027ce00929
@@ -339,8 +339,7 @@ d1  	MW        	W	  USU	Utah State             	           Logan	UT		  731	1322	
 d1  	MW        	W	  WYO	Wyoming                	         Laramie	WY		  811	1682		UniversityOfWyomingW                   	5151ce8f-fafc-4744-8aa6-2c3148fdb5c6
 d1  	NEC       	M	  BRY	Bryant                 	      Smithfield	RI		   81	1431		BryantUniversityM                      	791e25d1-b248-4d38-89ac-421004a9dc26
 d1  	NEC       	M	  FDU	Fairleigh Dickinson    	         Teaneck	NJ		  222	1177		FairleighDickinsonUnivM                	b8de056f-ba02-4033-b442-d92dfabda437
-d1  	NEC       	M	LIPST	LIU Post               	      Brookville	NY		  361	    		LongIslandUniversityM                  	6534e529-f354-403f-84c5-0a8db650e16e
-d1  	NEC       	M	  LIU	Long Island            	        Brooklyn	NY		     	2821		                                       	
+d1  	NEC       	M	  LIU	Long Island            	        Brooklyn	NY		  361	2821		LongIslandUniversityM                  	6534e529-f354-403f-84c5-0a8db650e16e
 d1  	NEC       	M	 MRMK	Merrimack              	   North Andover	MA		  410	1849		MerrimackCollegeM                      	86b666d8-31e4-42f5-b976-9a02bebb9c15
 d1  	NEC       	M	  MSM	Mount St. Mary's (MD)  	      Emmitsburg	MD		  450	1485		MountStMarysUnivM                      	bc77be1f-40d8-42ae-beb3-5ac0f29d7716
 d1  	NEC       	M	  SHU	Sacred Heart           	       Fairfield	CT		  590	1254		SacredHeartUniversityM                 	420446c8-df50-4290-a204-29ca7bbde631
@@ -349,8 +348,7 @@ d1  	NEC       	M	  SFU	St. Francis (PA)       	         Loretto	PA		  600	2464	
 d1  	NEC       	M	  WAG	Wagner                 	   Staten Island	NY		  748	1500		WagnerCollegeM                         	f991f38e-e02f-404f-846f-5987baf42957
 d1  	NEC       	W	  BRY	Bryant                 	      Smithfield	RI		   81	1432		BryantUniversityW                      	45c0bcca-3f99-46fa-ac55-180d7f516f87
 d1  	NEC       	W	  FDU	Fairleigh Dickinson    	         Teaneck	NJ		  222	1178		FairleighDickinsonUnivW                	fad385bc-3a0f-4576-a772-3d5e5fe33054
-d1  	NEC       	W	LIPST	LIU Post               	      Brookville	NY		  361	    		LongIslandUniversityW                  	8a27d956-d05e-4729-8802-a8ec99db0161
-d1  	NEC       	W	  LIU	Long Island            	        Brooklyn	NY		     	2822		                                       	
+d1  	NEC       	W	  LIU	Long Island            	        Brooklyn	NY		  361	2822		LongIslandUniversityW                  	8a27d956-d05e-4729-8802-a8ec99db0161
 d1  	NEC       	W	 MRMK	Merrimack              	   North Andover	MA		  410	1850		MerrimackCollegeW                      	39751c9f-2689-44d0-a812-787b1ca93afa
 d1  	NEC       	W	  MSM	Mount St. Mary's (MD)  	      Emmitsburg	MD		  450	1486		MountStMarysUnivW                      	030bc799-2799-4a67-a1e0-69f347d1f639
 d1  	NEC       	W	  SHU	Sacred Heart           	       Fairfield	CT		  590	1255		SacredHeartUniversityW                 	0a49430a-f4ed-469b-97c0-fe80a0695370
@@ -411,7 +409,7 @@ d1  	Patriot   	W	 NAVY	Navy                   	       Annapolis	MD		  726	 962	
 d1  	SEC       	M	 BAMA	Alabama                	      Tuscaloosa	AL		    8	 983		UniversityOfAlabamaM                   	9b87115c-def8-48fb-a3d6-25887547fcbb
 d1  	SEC       	M	  ARK	Arkansas               	    Fayetteville	AR		   31	1200		UnivOfArkansasFayettevilleM            	4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6
 d1  	SEC       	M	  AUB	Auburn                 	          Auburn	AL		   37	 943		AuburnUniversityM                      	dc80d974-5c75-47d8-a3a3-6361ea0c1c7c
-d1  	SEC       	M	  FLA	Florida                	     Gainesville	FL		  235	 937		UniversityOfFloridaM                   	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7
+d1  	SEC       	M	  FLA	Florida                	     Gainesville	FL		  235	 937		UniversityofFloridaM                   	dfa05ccb-b8a4-46c7-8921-3d60c8f170d7
 d1  	SEC       	M	  UGA	Georgia                	          Athens	GA		  257	 915		UniversityOfGeorgiaM                   	f81b9e62-3331-41dc-9a41-365b04b4da5f
 d1  	SEC       	M	   UK	Kentucky               	       Lexington	KY		  334	 927		UniversityOfKentuckyM                  	6b435f63-1b41-4988-b46b-964b883547c5
 d1  	SEC       	M	  LSU	LSU                    	     Baton Rouge	LA		  365	2944		LouisianaStateUniversityM              	ee4edb63-ebba-41bc-b47c-3380f94d02a7
@@ -552,49 +550,49 @@ d1  	WCC       	W	   SF	San Francisco          	   San Francisco	CA		  629	1297	
 d1  	WCC       	W	SCLAR	Santa Clara            	     Santa Clara	CA		  631	1385		SantaClaraUniversityW                  	50de4966-ac46-4752-a28e-5c3cfb904da2
 d1  	WCC       	W	 SMCC	St. Mary's (CA)        	          Moraga	CA		  610	1295		SaintMarysCollegeCAW                   	b5057614-b99b-46bf-beab-319610b5e53e
 d2  	CACC      	M	  CHC	Chestnut Hill          	    Philadelphia	PA		21323	1580		ChestnutHillCollegeM                   	2dcd5609-978e-4584-9df1-9d6641e0ebe3
-d2  	CACC      	M	 JEFF	Jefferson              	    Philadelphia	PA		  543	1718		                                       	000ad733-498c-4e18-b529-9c1c7011abda
-d2  	CACC      	W	  CHC	Chestnut Hill          	    Philadelphia	PA		21323	1581		                                       	aeecc6ba-adec-4787-a807-c201715e21bd
+d2  	CACC      	M	 JEFF	Jefferson              	    Philadelphia	PA		  543	1718		ThomasJeffersonUniversityM             	000ad733-498c-4e18-b529-9c1c7011abda
+d2  	CACC      	W	  CHC	Chestnut Hill          	    Philadelphia	PA		21323	1581		ChestnutHillCollegeW                   	aeecc6ba-adec-4787-a807-c201715e21bd
 d2  	CACC      	W	  GBC	Goldey-Beacom          	      Wilmington	DE		 8366	1786		GoldeyBeacomCollegeW                   	b30f59c1-5c47-4515-b885-4cc91f4539f1
-d2  	CACC      	W	  USP	Sciences (Philadelphia)	    Philadelphia	PA		28594	2755		                                       	afaa9e5a-9a2f-4fa3-beab-f014a3d23e7a
-d2  	CC        	M	 BART	Barton                 	          Wilson	NC		15646	2487		                                       	f464083e-b6aa-464e-b4ed-9aced5fc6aff
+d2  	CACC      	W	  USP	Sciences (Philadelphia)	    Philadelphia	PA		28594	2755		UnivOfSciencesW                        	afaa9e5a-9a2f-4fa3-beab-f014a3d23e7a
+d2  	CC        	M	 BART	Barton                 	          Wilson	NC		15646	2487		BartonCollegeM                         	f464083e-b6aa-464e-b4ed-9aced5fc6aff
 d2  	CC        	M	  BAC	Belmont Abbey          	         Belmont	NC		 2683	1896		BelmontAbbeyCollegeM                   	4f4d127c-878b-4a63-b993-06665c241e19
 d2  	CC        	M	  EMM	Emmanuel (GA)          	Franklin Springs	GA		30193	2890		EmmanuelCollegeM                       	bf21aa5e-fb08-4278-8b7c-a389e0e03433
-d2  	CC        	M	 LMRC	Lees-McRae             	      Banner Elk	NC		13302	1479		                                       	0bed4517-abf3-46b2-a65f-8a3cf2cdc0ca
+d2  	CC        	M	 LMRC	Lees-McRae             	      Banner Elk	NC		13302	1479		LeesMcRaeCollegeM                      	0bed4517-abf3-46b2-a65f-8a3cf2cdc0ca
 d2  	CC        	M	  NGC	North Greenville       	      Tigerville	SC		 9223	2491		NorthGreenvilleUniversityM             	711925ae-4b00-49df-92ec-86074c249e0e
-d2  	CC        	W	 BART	Barton                 	          Wilson	NC		15646	2488		                                       	64729c4f-7492-4d94-801a-c6ae3183c04e
-d2  	CC        	W	  BAC	Belmont Abbey          	         Belmont	NC		 2683	1897		                                       	c36b46bb-6352-4b9b-b314-6c2f6e84ef10
-d2  	CC        	W	  EMM	Emmanuel (GA)          	Franklin Springs	GA		30193	2891		                                       	d60c7da6-74dd-4760-ab1f-26765c6db67b
+d2  	CC        	W	 BART	Barton                 	          Wilson	NC		15646	2488		BartonCollegeW                         	64729c4f-7492-4d94-801a-c6ae3183c04e
+d2  	CC        	W	  BAC	Belmont Abbey          	         Belmont	NC		 2683	1897		BelmontAbbeyCollegeW                   	c36b46bb-6352-4b9b-b314-6c2f6e84ef10
+d2  	CC        	W	  EMM	Emmanuel (GA)          	Franklin Springs	GA		30193	2891		EmmanuelCollegeW                       	d60c7da6-74dd-4760-ab1f-26765c6db67b
 d2  	CC        	W	 LMRC	Lees-McRae             	      Banner Elk	NC		13302	1480		LeesMcRaeCollegeW                      	b9512c7f-5336-4e20-b1cb-d13c2d1c6827
-d2  	CC        	W	  NGC	North Greenville       	      Tigerville	SC		 9223	2492		                                       	0dfa9ac5-e230-4c89-a1bf-7b0c9a9317d1
-d2  	CIAA      	W	  VSU	Virginia State         	      Petersburg	VA		  743	1552		                                       	3fad1a39-e662-42c1-a11a-6275ae6501b6
+d2  	CC        	W	  NGC	North Greenville       	      Tigerville	SC		 9223	2492		NorthGreenvilleUniversityW             	0dfa9ac5-e230-4c89-a1bf-7b0c9a9317d1
+d2  	CIAA      	W	  VSU	Virginia State         	      Petersburg	VA		  743	1552		VirginiaStateUniversityW               	3fad1a39-e662-42c1-a11a-6275ae6501b6
 d2  	ECC       	M	DAEMN	Daemen                 	         Amherst	NY		30174	2764		DaemenCollegeM                         	08db4a9f-1d70-4475-bb00-ea2fe99bdb20
 d2  	ECC       	M	  UDC	District of Columbia   	      Washington	DC		  186	1327		UnivOfDistrictOfColumbiaM              	bfbc2ac2-1680-481c-8f22-de95de060d94
 d2  	ECC       	M	  QUE	Queens (NY)            	        Flushing	NY		  560	2481		QueensCollegeNYM                       	c5e460bb-0c0f-4852-849b-109171ce65da
 d2  	ECC       	W	DAEMN	Daemen                 	         Amherst	NY		30174	2765		DaemenCollegeW                         	4de92024-7fc3-4290-bfbb-6dc5c348fedb
-d2  	ECC       	W	  UDC	District of Columbia   	      Washington	DC		  186	1328		                                       	86be186e-98e5-48e7-b0f7-c3891386ae56
+d2  	ECC       	W	  UDC	District of Columbia   	      Washington	DC		  186	1328		UnivOfDistrictOfColumbiaW              	86be186e-98e5-48e7-b0f7-c3891386ae56
 d2  	G-MAC     	M	  ASH	Ashland                	         Ashland	OH		   35	3277		AshlandUniversityM                     	14326cfd-ae10-4a52-a1ec-59e7ddbf6cc4
-d2  	G-MAC     	M	 FIND	Findlay                	         Findlay	OH		 1079	1880		                                       	e446718a-9620-4c03-acb9-69dcb13a0c2e
-d2  	G-MAC     	M	   TU	Tiffin                 	          Tiffin	OH		 1403	1817		                                       	6bc97433-07ca-4e89-b298-4bc4a203efc6
+d2  	G-MAC     	M	 FIND	Findlay                	         Findlay	OH		 1079	1880		UniversityOfFindlayM                   	e446718a-9620-4c03-acb9-69dcb13a0c2e
+d2  	G-MAC     	M	   TU	Tiffin                 	          Tiffin	OH		 1403	1817		TiffinUniversityM                      	6bc97433-07ca-4e89-b298-4bc4a203efc6
 d2  	G-MAC     	M	  WAL	Walsh                  	    North Canton	OH		30141	2538		WalshUniversityM                       	85c0b59f-cc61-46b8-9ef9-e77353a2e775
-d2  	G-MAC     	W	  ASH	Ashland                	         Ashland	OH		   35	2106		                                       	19583676-5a99-4c79-8627-1e73e7ee0a55
+d2  	G-MAC     	W	  ASH	Ashland                	         Ashland	OH		   35	2106		AshlandUniversityW                     	19583676-5a99-4c79-8627-1e73e7ee0a55
 d2  	G-MAC     	W	 FIND	Findlay                	         Findlay	OH		 1079	1881		UniversityOfFindlayW                   	8c7800cf-8367-4d48-852d-b4e10e603ea9
-d2  	GAC       	W	  HAR	Harding                	          Searcy	AR		 1116	1544		                                       	0cab5482-2582-4d83-9f6e-f9f1b3146312
-d2  	GAC       	W	SEOSU	Southeastern (OK)      	          Durant	OK		 1371	1844		                                       	2a7cecad-116a-4996-8702-45c876eb0619
+d2  	GAC       	W	  HAR	Harding                	          Searcy	AR		 1116	1544		HardingUniversityW                     	0cab5482-2582-4d83-9f6e-f9f1b3146312
+d2  	GAC       	W	SEOSU	Southeastern (OK)      	          Durant	OK		 1371	1844		SoutheasternOklahomaStateUnivW         	2a7cecad-116a-4996-8702-45c876eb0619
 d2  	GAC       	W	  SAU	Southern Arkansas      	        Magnolia	AR		 1376	3305		SouthernArkansasUniversityW            	b228a421-e3e6-4033-8b8f-26004dcea11b
 d2  	GLIAC     	M	 FERR	Ferris State           	      Big Rapids	MI		  224	1590		FerrisStateUniversityM                 	8bb86959-1ce8-4c94-a7db-0f9250c276b8
 d2  	GLIAC     	M	 GVSU	Grand Valley State     	       Allendale	MI		  262	1776		GrandValleyStateUnivM                  	e816ada9-351c-494b-84cd-3c2aadbaae3d
 d2  	GLIAC     	M	  WSU	Wayne State            	         Detroit	MI		  757	2485		WayneStateUniversityM                  	4f6afebb-1b43-4ac3-908f-cbe94fa4551d
-d2  	GLIAC     	W	 FERR	Ferris State           	      Big Rapids	MI		  224	1591		                                       	94d42553-55b0-4689-a84e-956c382e82a8
+d2  	GLIAC     	W	 FERR	Ferris State           	      Big Rapids	MI		  224	1591		FerrisStateUniversityW                 	94d42553-55b0-4689-a84e-956c382e82a8
 d2  	GLIAC     	W	 GVSU	Grand Valley State     	       Allendale	MI		  262	1777		GrandValleyStateUnivW                  	f93ef716-b0a2-4845-80b1-414b29ba74f7
-d2  	GLIAC     	W	 LSSU	Lake Superior St.      	Sault Ste. Marie	MI		  345	1619		                                       	92574cdd-e21d-4399-9b22-828d1a11a979
+d2  	GLIAC     	W	 LSSU	Lake Superior St.      	Sault Ste. Marie	MI		  345	1619		LakeSuperiorStateUnivW                 	92574cdd-e21d-4399-9b22-828d1a11a979
 d2  	GLIAC     	W	  PNW	Purdue Northwest       	         Hammond	IN		30222	3045		PurdueUniversityNorthwestW             	0778dbf5-519c-45eb-be14-425698046834
 d2  	GLIAC     	W	  WSU	Wayne State            	         Detroit	MI		  757	2486		WayneStateUniversityW                  	3e11882f-3014-4db1-9661-79139264d659
 d2  	GLVC      	M	  UIS	Illinois Springfield   	     Springfield	IL		30050	1882		UnivOfIllinoisSpringfieldM             	883736a6-dfae-49c5-a65a-64a39eb46799
 d2  	GLVC      	M	  LEW	Lewis U                	      Romeoville	IL		  354	1568		LewisUniversityM                       	28e954a4-0de0-4794-9274-bfa93d4e0041
-d2  	GLVC      	M	 LIND	Lindenwood             	     St. Charles	MO		30136	2493		                                       	7948903f-6aa8-49e9-9208-bdd5a6ee5082
-d2  	GLVC      	M	  MCK	McKendree              	         Lebanon	IL		30138	2511		                                       	27aa0748-a053-4e34-8198-d506ab14abe6
-d2  	GLVC      	M	   QU	Quincy                 	          Quincy	IL		  561	1886		                                       	5b8c8d52-e7d7-4e70-9cac-ee96db2cd7df
-d2  	GLVC      	M	  USI	Southern Indiana       	      Evansville	IN		  661	1459		                                       	66061e97-25ec-4f46-9d4f-b217752ac766
+d2  	GLVC      	M	 LIND	Lindenwood             	     St. Charles	MO		30136	2493		LindenwoodUnivMOM                      	7948903f-6aa8-49e9-9208-bdd5a6ee5082
+d2  	GLVC      	M	  MCK	McKendree              	         Lebanon	IL		30138	2511		McKendreeUniversityM                   	27aa0748-a053-4e34-8198-d506ab14abe6
+d2  	GLVC      	M	   QU	Quincy                 	          Quincy	IL		  561	1886		QuincyUniversityM                      	5b8c8d52-e7d7-4e70-9cac-ee96db2cd7df
+d2  	GLVC      	M	  USI	Southern Indiana       	      Evansville	IN		  661	1459		UnivOfSouthernIndianaM                 	66061e97-25ec-4f46-9d4f-b217752ac766
 d2  	GLVC      	W	  UIS	Illinois Springfield   	     Springfield	IL		30050	1883		UnivOfIllinoisSpringfieldW             	b7c2e49b-9a81-454e-8ba2-2656787e0acc
 d2  	GLVC      	W	 INDI	Indianapolis           	    Indianapolis	IN		  309	3287		UnivOfIndianapolisW                    	0c09754a-79f3-45c6-9525-350a9900c9b3
 d2  	GLVC      	W	  LEW	Lewis U                	      Romeoville	IL		  354	1569		LewisUniversityW                       	0d598fd9-d90a-457b-b0f9-e182556a0988
@@ -605,198 +603,198 @@ d2  	GSC       	M	 AUBM	Auburn Montgomery      	      Montgomery	AL		30093	1558	
 d2  	GSC       	M	  LEE	Lee (TN)               	       Cleveland	TN		30013	2839		LeeUniversityM                         	0ecfab2b-eec0-46d9-8460-7db0be15a657
 d2  	GSC       	M	   MC	Mississippi College    	         Clinton	MS		  429	1794		MississippiCollegeM                    	a1e1e36c-4e75-4ff2-b470-73b11084b7f1
 d2  	GSC       	M	 W AL	West Alabama           	      Livingston	AL		  358	1378		UniversityOfWestAlabamaM               	4fe3a0ee-1cf7-4844-bf8b-92b897188f8d
-d2  	GSC       	W	  LEE	Lee (TN)               	       Cleveland	TN		30013	2840		                                       	c3eddd8a-d1f0-4fcd-a94d-fa54f65bb274
+d2  	GSC       	W	  LEE	Lee (TN)               	       Cleveland	TN		30013	2840		LeeUniversityW                         	c3eddd8a-d1f0-4fcd-a94d-fa54f65bb274
 d2  	GSC       	W	   MC	Mississippi College    	         Clinton	MS		  429	1795		MississippiCollegeW                    	2a498a47-afce-41a8-9519-8786e69641fa
 d2  	GSC       	W	 W AL	West Alabama           	      Livingston	AL		  358	1379		UniversityOfWestAlabamaW               	72433a27-05ec-4b3b-b1ab-5a89df6d81ca
 d2  	GSC       	W	  WGA	West Georgia           	      Carrollton	GA		  766	2098		UnivOfWestGeorgiaW                     	4479c4f2-a4c4-4d8c-b3b3-aeecd087306e
-d2  	Ind.      	M	  BLU	Bluefield State        	       Bluefield	WV		  985	1437		                                       	75f0dafb-f677-43ef-9b50-ce26e618716f
+d2  	Ind.      	M	  BLU	Bluefield State        	       Bluefield	WV		  985	1437		BluefieldStateCollegeM                 	75f0dafb-f677-43ef-9b50-ce26e618716f
 d2  	Ind.      	M	 MESA	Colorado Mesa          	  Grand Junction	CO		11416	2645		ColoradoMesaUniversityM                	37e5b5ea-0ef9-490f-aeae-aa510b52d9cb
-d2  	Ind.      	M	 JCSU	Johnson C. Smith       	       Charlotte	NC		  323	1477		                                       	c6a64d9c-795a-489b-8711-6e66b37191b0
-d2  	Ind.      	M	 SHAW	Shaw                   	         Raleigh	NC		  636	1582		                                       	1a8b8360-0ac8-40c7-a21e-d105683dbf40
-d2  	Ind.      	M	  VSU	Virginia State         	      Petersburg	VA		  743	1551		                                       	590cba28-989a-4291-b667-30b0d3038b8f
-d2  	Ind.      	W	  BLU	Bluefield State        	       Bluefield	WV		  985	1438		                                       	65b37b6e-0d41-4469-a90b-05ceea59458b
+d2  	Ind.      	M	 JCSU	Johnson C. Smith       	       Charlotte	NC		  323	1477		JohnsonCSmithUniversityM               	c6a64d9c-795a-489b-8711-6e66b37191b0
+d2  	Ind.      	M	 SHAW	Shaw                   	         Raleigh	NC		  636	1582		ShawUniversityM                        	1a8b8360-0ac8-40c7-a21e-d105683dbf40
+d2  	Ind.      	M	  VSU	Virginia State         	      Petersburg	VA		  743	1551		VirginiaStateUniversityM               	590cba28-989a-4291-b667-30b0d3038b8f
+d2  	Ind.      	W	  BLU	Bluefield State        	       Bluefield	WV		  985	1438		BluefieldStateCollegeW                 	65b37b6e-0d41-4469-a90b-05ceea59458b
 d2  	Ind.      	W	 MESA	Colorado Mesa          	  Grand Junction	CO		11416	2646		ColoradoMesaUniversityW                	7df8013f-5b4e-4b9f-a8ae-5c14a4343115
 d2  	Ind.      	W	 CSUP	CSU-Pueblo             	          Pueblo	CO		 2720	1462		ColoradoStateUPuebloW                  	61851260-50de-4cc8-be9f-5488463a4438
-d2  	LSC       	M	FSMTH	Arkansas Ft. Smith     	      Fort Smith	AR		30105	1463		                                       	53d3180b-2600-4f62-ba0c-3bd57bb6af7a
-d2  	LSC       	M	  CAM	Cameron                	          Lawton	OK		  996	1469		                                       	c364e62a-85ea-471e-9ef3-3b61c4b67558
-d2  	LSC       	M	 DBAP	Dallas Baptist         	          Dallas	TX		 1045	2969		                                       	c8896a55-4604-4dd8-9d66-6962c4220b32
+d2  	LSC       	M	FSMTH	Arkansas Ft. Smith     	      Fort Smith	AR		30105	1463		UniversityOfArkansasFortSmithM         	53d3180b-2600-4f62-ba0c-3bd57bb6af7a
+d2  	LSC       	M	  CAM	Cameron                	          Lawton	OK		  996	1469		CameronUniversityM                     	c364e62a-85ea-471e-9ef3-3b61c4b67558
+d2  	LSC       	M	 DBAP	Dallas Baptist         	          Dallas	TX		 1045	2969		DallasBaptistUniversityM               	c8896a55-4604-4dd8-9d66-6962c4220b32
 d2  	LSC       	M	 SMTX	St. Mary's (TX)        	     San Antonio	TX		 1346	2528		SaintMarysUniversityTXM                	b20fe68f-ea90-4a00-8e29-fa360d480e12
-d2  	LSC       	M	TXTYL	Texas Tyler            	           Tyler	TX		30028	1614		                                       	3dd228ea-1be4-4bac-b86e-f9f1ee7216a2
-d2  	LSC       	M	 UTPB	UTPB                   	          Odessa	TX		30088	3057		                                       	76170ec1-e506-4e6c-b996-c80dcb634e37
+d2  	LSC       	M	TXTYL	Texas Tyler            	           Tyler	TX		30028	1614		UniversityOfTexasTylerM                	3dd228ea-1be4-4bac-b86e-f9f1ee7216a2
+d2  	LSC       	M	 UTPB	UTPB                   	          Odessa	TX		30088	3057		UnivOfTexasPermianBasinM               	76170ec1-e506-4e6c-b996-c80dcb634e37
 d2  	LSC       	M	 WNMU	WNM                    	     Silver City	NM		 1445	1055		WesternNewMexicoUniversityM            	682e2d41-39f2-4e9b-957a-f6c0b3f85e8f
-d2  	LSC       	W	  ANG	Angelo State           	      San Angelo	TX		   25	3075		                                       	81975d3e-9b70-47cd-9aee-a5c44b014175
-d2  	LSC       	W	FSMTH	Arkansas Ft. Smith     	      Fort Smith	AR		30105	1464		                                       	d685196a-bd6b-4dab-be86-04828fadaaff
-d2  	LSC       	W	  CAM	Cameron                	          Lawton	OK		  996	1470		                                       	2d69a0c4-9134-4566-9de1-703eab6d1aeb
-d2  	LSC       	W	 DBAP	Dallas Baptist         	          Dallas	TX		 1045	2970		                                       	aabfdc91-a589-4960-a237-d1c3f396bb7d
+d2  	LSC       	W	  ANG	Angelo State           	      San Angelo	TX		   25	3075		AngeloStateUniversityW                 	81975d3e-9b70-47cd-9aee-a5c44b014175
+d2  	LSC       	W	FSMTH	Arkansas Ft. Smith     	      Fort Smith	AR		30105	1464		UniversityOfArkansasFortSmithW         	d685196a-bd6b-4dab-be86-04828fadaaff
+d2  	LSC       	W	  CAM	Cameron                	          Lawton	OK		  996	1470		CameronUniversityW                     	2d69a0c4-9134-4566-9de1-703eab6d1aeb
+d2  	LSC       	W	 DBAP	Dallas Baptist         	          Dallas	TX		 1045	2970		DallasBaptistUniversityW               	aabfdc91-a589-4960-a237-d1c3f396bb7d
 d2  	LSC       	W	 SMTX	St. Mary's (TX)        	     San Antonio	TX		 1346	2529		SaintMarysUniversityTXW                	a85dfa89-656e-4994-b9f0-079c553dfd57
 d2  	LSC       	W	A&MKN	Texas A&M-Kingsville   	      Kingsville	TX		  696	3070		TexasAMUniversityKingsvilleW           	d53f5cfc-83ee-4b8c-9eb0-ac862df8d4a8
 d2  	LSC       	W	TXTYL	Texas Tyler            	           Tyler	TX		30028	1615		UniversityOfTexasTylerW                	65b3c12d-ffbc-48f6-b05f-73e9912fc3be
 d2  	LSC       	W	 UTPB	UTPB                   	          Odessa	TX		30088	3058		UnivOfTexasPermianBasinW               	2045f812-6ebe-4907-a51e-a34aaddd66b7
 d2  	LSC       	W	 WNMU	WNM                    	     Silver City	NM		 1445	1056		WesternNewMexicoUniversityW            	13d180a9-64c9-42da-9e91-de236b482af5
-d2  	MEC       	M	   UC	Charleston             	      Charleston	WV		 1013	2609		                                       	4e9025b5-2a47-4d37-83dd-9eba44a8d822
+d2  	MEC       	M	   UC	Charleston             	      Charleston	WV		 1013	2609		UniversityOfCharlestonM                	4e9025b5-2a47-4d37-83dd-9eba44a8d822
 d2  	MEC       	M	 FMNT	Fairmont State         	        Fairmont	WV		 1076	2113		FairmontStateUniversityM               	62c9f048-444b-433a-9f36-6a2c68a1f8ba
-d2  	MEC       	M	  WLU	West Liberty           	    West Liberty	WV		 1438	2756		                                       	d7f36390-b008-4af5-8362-f52bf7825cf4
-d2  	MEC       	W	   UC	Charleston             	      Charleston	WV		 1013	2610		                                       	1040990c-53dd-4182-bd95-fa7df44c727e
-d2  	MEC       	W	 WVSU	West Virginia State    	       Institute	WV		 1439	1532		                                       	635e9ad2-f549-4937-81f3-5891c0713a13
-d2  	MidAm     	M	AUGSD	Augustana (SD)         	     Sioux Falls	SD		   41	2980		                                       	42f5d444-4436-4b8f-b33a-9533b479f559
+d2  	MEC       	M	  WLU	West Liberty           	    West Liberty	WV		 1438	2756		WestLibertyUniversityM                 	d7f36390-b008-4af5-8362-f52bf7825cf4
+d2  	MEC       	W	   UC	Charleston             	      Charleston	WV		 1013	2610		UniversityOfCharlestonW                	1040990c-53dd-4182-bd95-fa7df44c727e
+d2  	MEC       	W	 WVSU	West Virginia State    	       Institute	WV		 1439	1532		WestVirginiaStateUW                    	635e9ad2-f549-4937-81f3-5891c0713a13
+d2  	MidAm     	M	AUGSD	Augustana (SD)         	     Sioux Falls	SD		   41	2980		AugustanaUniversitySDM                 	42f5d444-4436-4b8f-b33a-9533b479f559
 d2  	MidAm     	M	 NWMO	Northwest Missouri     	       Maryville	MO		  507	1578		NorthwestMissouriStUM                  	b7de02d6-ef20-4d22-88b7-2acb436f77f8
-d2  	MidAm     	M	SEOSU	Southeastern (OK)      	          Durant	OK		 1371	1843		                                       	beb30462-d19b-4283-864b-b45e454c1f91
-d2  	MidAm     	M	  SAU	Southern Arkansas      	        Magnolia	AR		 1376	3304		                                       	0b38faae-b89d-4fad-b20f-b66d2fdbb80f
-d2  	MidAm     	M	  WUT	Washburn-Topeka        	          Topeka	KS		 2814	1610		                                       	ff9ebcf8-882e-4fff-9d76-1e5677b1002c
+d2  	MidAm     	M	SEOSU	Southeastern (OK)      	          Durant	OK		 1371	1843		SoutheasternOklahomaStateUnivM         	beb30462-d19b-4283-864b-b45e454c1f91
+d2  	MidAm     	M	  SAU	Southern Arkansas      	        Magnolia	AR		 1376	3304		SouthernArkansasUniversityM            	0b38faae-b89d-4fad-b20f-b66d2fdbb80f
+d2  	MidAm     	M	  WUT	Washburn-Topeka        	          Topeka	KS		 2814	1610		WashburnUniversityM                    	ff9ebcf8-882e-4fff-9d76-1e5677b1002c
 d2  	MidAm     	W	  UNK	Nebraska - Kearney     	         Kearney	NE		 1156	1452		UnivOfNebraskaKearneyW                 	faa192e4-2165-48af-a1ca-773275c3d63a
 d2  	MidAm     	W	 NEWM	Newman                 	         Wichita	KS		30054	1652		NewmanUniversityW                      	9c65ca89-76cf-4c6e-877d-daed30c58095
 d2  	MidAm     	W	 NESU	Northeastern State (OK)	       Tahlequah	OK		12810	2083		NortheasternStateUW                    	d8effe23-2c2d-458d-a4d5-761aa2800f2a
 d2  	NE-10     	M	 ADEL	Adelphi                	     Garden City	NY		    3	1857		AdelphiUniversityM                     	f7f728b3-927f-4c55-ba6d-04c5c39e8640
-d2  	NE-10     	M	   AC	Assumption             	       Worcester	MA		   36	1492		                                       	6cff3338-9c53-458f-9412-f5587649c776
+d2  	NE-10     	M	   AC	Assumption             	       Worcester	MA		   36	1492		AssumptionCollegeM                     	6cff3338-9c53-458f-9412-f5587649c776
 d2  	NE-10     	M	  FPC	Franklin Pierce        	          Rindge	NH		  241	2058		FranklinPierceUniversityM              	bb0a86b5-f7ec-49a8-8c21-aa64df285ccd
-d2  	NE-10     	M	  LMC	Le Moyne               	        Syracuse	NY		  349	1907		                                       	cb309567-efaf-47bd-8e31-9ba62b9e3a42
+d2  	NE-10     	M	  LMC	Le Moyne               	        Syracuse	NY		  349	1907		LeMoyneOwenCollegeM                    	cb309567-efaf-47bd-8e31-9ba62b9e3a42
 d2  	NE-10     	M	 SNHU	SNHU                   	      Manchester	NH		  468	1560		SouthernNewHampshireUnivM              	13a21cd6-aea2-4912-9ec3-e3bc4329a0dd
-d2  	NE-10     	M	SMCVT	St. Michael's          	      Colchester	VT		  613	1915		                                       	42fa876a-d92e-40f2-83c5-106b30612081
-d2  	NE-10     	W	   AC	Assumption             	       Worcester	MA		   36	1493		                                       	e9ebcc74-1cc8-446b-89c9-938258ebb538
-d2  	NE-10     	W	  LMC	Le Moyne               	        Syracuse	NY		  349	1908		                                       	35102333-246f-4ffe-9a14-087bef50645c
-d2  	NE-10     	W	   NH	New Haven              	      West Haven	CT		  470	2124		                                       	d55c797b-5134-4537-98f8-3b2d11f2e7c2
-d2  	NSIC      	W	AUGSD	Augustana (SD)         	     Sioux Falls	SD		   41	2981		                                       	215ef1ac-786c-4a9a-abf6-791b1d739356
+d2  	NE-10     	M	SMCVT	St. Michael's          	      Colchester	VT		  613	1915		SaintMichaelsCollegeM                  	42fa876a-d92e-40f2-83c5-106b30612081
+d2  	NE-10     	W	   AC	Assumption             	       Worcester	MA		   36	1493		AssumptionCollegeW                     	e9ebcc74-1cc8-446b-89c9-938258ebb538
+d2  	NE-10     	W	  LMC	Le Moyne               	        Syracuse	NY		  349	1908		LeMoyneOwenCollegeW                    	35102333-246f-4ffe-9a14-087bef50645c
+d2  	NE-10     	W	   NH	New Haven              	      West Haven	CT		  470	2124		UnivOfNewHavenW                        	d55c797b-5134-4537-98f8-3b2d11f2e7c2
+d2  	NSIC      	W	AUGSD	Augustana (SD)         	     Sioux Falls	SD		   41	2981		AugustanaUniversitySDW                 	215ef1ac-786c-4a9a-abf6-791b1d739356
 d2  	NSIC      	W	MNKTO	Minnesota State        	         Mankato	MN		  383	1783		MinnesotaStateUMankatoW                	2d7e47b4-8529-4605-ba72-d1cba2848882
-d2  	NSIC      	W	 MSUM	MSUM                   	        Moorhead	MN		 1240	2782		                                       	491ff21d-3d9c-4643-ad28-47bab8a5f666
+d2  	NSIC      	W	 MSUM	MSUM                   	        Moorhead	MN		 1240	2782		MinnesotaStateUMoorheadW               	491ff21d-3d9c-4643-ad28-47bab8a5f666
 d2  	PacWest   	M	  CUI	Concordia (CA)         	          Irvine	CA		30199	2520		ConcordiaUnivIrvineM                   	ab9c8875-e0bd-4906-8325-906398715f76
-d2  	PacWest   	M	  HPU	Hawaii Pacific         	        Honolulu	HI		 2696	1535		                                       	7d575ced-e5f1-414d-be20-2b9d1f361ead
+d2  	PacWest   	M	  HPU	Hawaii Pacific         	        Honolulu	HI		 2696	1535		HawaiiPacificUniversityM               	7d575ced-e5f1-414d-be20-2b9d1f361ead
 d2  	PacWest   	M	  HNU	Holy Names             	         Oakland	CA		30175	2766		HolyNamesUniversityM                   	15009607-42bc-4ed9-a2a5-621b43ec313d
 d2  	PacWest   	M	 MSUD	Metropolitan State     	          Denver	CO		  413	1612		MetropolitanStUnivDenverM              	66b70714-d038-4741-ae14-ac3ab2ede669
 d2  	PacWest   	W	  ART	Academy of Art         	   San Francisco	CA		30123	2979		AcademyOfArtUniversityW                	29670564-4a13-45b2-b49e-9383e14544e9
 d2  	PacWest   	W	  APU	Azusa Pacific          	           Azusa	CA		30146	1387		AzusaPacificUniversityW                	9cde9a3d-0f22-4a90-86b5-177754ecacac
 d2  	PacWest   	W	CSULA	Cal State LA           	     Los Angeles	CA		  100	1747		CaliforniaStateUniversityLAW           	cb58d8a6-2561-4177-885a-1d7299e77be2
 d2  	PacWest   	W	 CHAM	Chaminade              	        Honolulu	HI		  133	1782		ChaminadeUniversityW                   	2d76cb1e-1174-4b5d-864b-204a48a4ee43
-d2  	PacWest   	W	  FPU	Fresno Pacific         	          Fresno	CA		30147	3085		                                       	44d0d60f-262c-4d29-b3e9-dbcb00ea993b
+d2  	PacWest   	W	  FPU	Fresno Pacific         	          Fresno	CA		30147	3085		FresnoPacificUniversityW               	44d0d60f-262c-4d29-b3e9-dbcb00ea993b
 d2  	PacWest   	W	  HPU	Hawaii Pacific         	        Honolulu	HI		 2696	1536		HawaiiPacificUniversityW               	1b307b89-bfde-4e76-b036-63144753c51e
-d2  	PacWest   	W	  HNU	Holy Names             	         Oakland	CA		30175	2767		                                       	6b6346f1-44e1-463b-8dba-58e7d2253bfe
+d2  	PacWest   	W	  HNU	Holy Names             	         Oakland	CA		30175	2767		HolyNamesUniversityW                   	6b6346f1-44e1-463b-8dba-58e7d2253bfe
 d2  	PacWest   	W	 MSUD	Metropolitan State     	          Denver	CO		  413	1613		MetropolitanStUnivDenverW              	2846a626-f57b-4a40-a25a-8b92b311874c
 d2  	PacWest   	W	  PLN	Point Loma (CA)        	       San Diego	CA		30149	2510		PointLomaNazareneUnivW                 	821c3e3c-d171-4d67-bd58-3a013a9284e9
-d2  	PBC       	M	AGSTA	Augusta                	         Augusta	GA		   39	2990		                                       	de4371c7-6d43-49dd-ac5e-77d4120f2501
-d2  	PBC       	M	  COL	Columbus State         	        Columbus	GA		  159	1660		                                       	c7966fd0-5a7f-4b14-9c40-79240042a549
+d2  	PBC       	M	AGSTA	Augusta                	         Augusta	GA		   39	2990		AugustaUniversityM                     	de4371c7-6d43-49dd-ac5e-77d4120f2501
+d2  	PBC       	M	  COL	Columbus State         	        Columbus	GA		  159	1660		ColumbusStateUnivM                     	c7966fd0-5a7f-4b14-9c40-79240042a549
 d2  	PBC       	M	 FLAG	Flagler                	   St. Augustine	FL		30092	2476		FlaglerCollegeM                        	30904ad0-a8a2-4d2a-8989-4cba0c06547a
-d2  	PBC       	M	 GCSU	Georgia College        	   Milledgeville	GA		 1096	2593		                                       	9d65f794-71eb-4546-aecd-6d3a0d771da8
+d2  	PBC       	M	 GCSU	Georgia College        	   Milledgeville	GA		 1096	2593		GeorgiaCollegeStateUM                  	9d65f794-71eb-4546-aecd-6d3a0d771da8
 d2  	PBC       	M	YOUNG	Young Harris (GA)      	    Young Harris	GA		30154	1467		YoungHarrisCollegeM                    	0ca6cc60-011b-4c8b-a28f-c7a6582a2374
-d2  	PBC       	W	  COL	Columbus State         	        Columbus	GA		  159	1661		                                       	5c1c0a78-1ee4-442f-9f72-82a2e854ebf6
-d2  	PBC       	W	 FLAG	Flagler                	   St. Augustine	FL		30092	2477		                                       	d91b65cd-cfc9-4148-b6b3-41cb4999936a
-d2  	PBC       	W	 GCSU	Georgia College        	   Milledgeville	GA		 1096	2594		                                       	b82ab537-7dcb-4751-a016-a03ee5a5040b
+d2  	PBC       	W	  COL	Columbus State         	        Columbus	GA		  159	1661		ColumbusStateUnivW                     	5c1c0a78-1ee4-442f-9f72-82a2e854ebf6
+d2  	PBC       	W	 FLAG	Flagler                	   St. Augustine	FL		30092	2477		FlaglerCollegeW                        	d91b65cd-cfc9-4148-b6b3-41cb4999936a
+d2  	PBC       	W	 GCSU	Georgia College        	   Milledgeville	GA		 1096	2594		GeorgiaCollegeStateUW                  	b82ab537-7dcb-4751-a016-a03ee5a5040b
 d2  	PBC       	W	  LAN	Lander                 	       Greenwood	SC		 1167	1124		LanderUniversityW                      	084aa921-5bbd-4679-9a11-a173bcd2e5c5
 d2  	PBC       	W	YOUNG	Young Harris (GA)      	    Young Harris	GA		30154	1468		YoungHarrisCollegeW                    	480d34e2-54f3-49fb-9fa2-c39e70a64e4a
 d2  	PSAC      	M	  BUP	Bloomsburg             	      Bloomsburg	PA		   65	1510		BloomsburgUniversityM                  	4cd7f448-c50c-48bf-a74c-f722eec9ee81
 d2  	PSAC      	M	MERCY	Mercyhurst             	            Erie	PA		  408	2789		MercyhurstUniversityM                  	360c604f-525f-4fcc-a286-35becd3b511d
 d2  	PSAC      	M	 MILL	Millersville           	    Millersville	PA		  423	1839		MillersvilleUniversityM                	ee3fc13e-7b5f-4954-a246-96b2286c0a3d
-d2  	PSAC      	W	  IUP	Indiana (PA)           	         Indiana	PA		  307	1763		                                       	d5e5b1ee-73e0-44f0-b12b-1412d45c3c48
+d2  	PSAC      	W	  IUP	Indiana (PA)           	         Indiana	PA		  307	1763		IndianaUOfPennsylvaniaW                	d5e5b1ee-73e0-44f0-b12b-1412d45c3c48
 d2  	PSAC      	W	MERCY	Mercyhurst             	            Erie	PA		  408	2790		MercyhurstUniversityW                  	00fd655e-bfac-45a7-b99d-3522ae078f6e
 d2  	PSAC      	W	 MILL	Millersville           	    Millersville	PA		  423	1840		MillersvilleUniversityW                	4350941d-b1c3-4d6c-879d-6777a2728cf6
 d2  	PSAC      	W	  SRU	Slippery Rock          	   Slippery Rock	PA		  643	2086		SlipperyRockUniversityW                	c0a0f94a-46a7-4a21-b8ae-fd6468466a00
-d2  	RSC       	M	   OC	Oakland City           	    Oakland City	IN		     	2160		                                       	3632123e-a725-4593-ab22-fbeeb6b51c98
+d2  	RSC       	M	   OC	Oakland City           	    Oakland City	IN		     	2160		OaklandCityUniversityM                 	3632123e-a725-4593-ab22-fbeeb6b51c98
 d2  	SAC       	M	ANDSC	Anderson (SC)          	        Anderson	SC		13028	1195		AndersonUniversityM                    	6da366ab-cbc2-40de-9ae8-35471fea540c
-d2  	SAC       	M	  LRC	Lenoir-Rhyne           	         Hickory	NC		 1170	1730		                                       	8beb4512-77cb-45dd-bb23-85a08945cbb9
-d2  	SAC       	M	  LMU	Lincoln Memorial       	       Harrogate	TN		 1176	1847		                                       	e639a6bc-604b-478a-a183-7bed485ac5ec
+d2  	SAC       	M	  LRC	Lenoir-Rhyne           	         Hickory	NC		 1170	1730		LenoirRhyneUniversityM                 	8beb4512-77cb-45dd-bb23-85a08945cbb9
+d2  	SAC       	M	  LMU	Lincoln Memorial       	       Harrogate	TN		 1176	1847		LincolnMemorialUniversityM             	e639a6bc-604b-478a-a183-7bed485ac5ec
 d2  	SAC       	M	  QUC	Queens (NC)            	       Charlotte	NC		11504	2090		QueensUnivOfCharlotteM                 	0cdd94a1-39fe-44ae-a9bc-cdb1a87d6f32
-d2  	SAC       	M	 TUSC	Tusculum               	     Greeneville	TN		12830	1890		                                       	1f50eafb-d8c7-4c44-a032-7a69e2bc96e5
-d2  	SAC       	M	 WING	Wingate                	         Wingate	NC		 1462	1835		                                       	2cb71bd6-2307-4b6a-8ccc-add50c3760d2
-d2  	SAC       	W	ANDSC	Anderson (SC)          	        Anderson	SC		13028	1196		                                       	5dc18176-aa14-4021-bfc6-cd31c0827a39
-d2  	SAC       	W	  CNC	Carson-Newman          	  Jefferson City	TN		 1000	3007		                                       	cd764750-4cff-4d35-9ae0-14f2bb6a3282
-d2  	SAC       	W	  LRC	Lenoir-Rhyne           	         Hickory	NC		 1170	1731		                                       	82d7d500-0e6d-4ce3-b9c7-a6ccfe95e089
-d2  	SAC       	W	 LIME	Limestone              	         Gaffney	SC		 1174	1556		                                       	67026d1b-05ce-4d12-b15b-3b11ab44c825
-d2  	SAC       	W	 TUSC	Tusculum               	     Greeneville	TN		12830	1891		                                       	93cf377e-e9f0-46d7-bb37-2f47f031dc45
+d2  	SAC       	M	 TUSC	Tusculum               	     Greeneville	TN		12830	1890		TusculumUniversityM                    	1f50eafb-d8c7-4c44-a032-7a69e2bc96e5
+d2  	SAC       	M	 WING	Wingate                	         Wingate	NC		 1462	1835		WingateUniversityM                     	2cb71bd6-2307-4b6a-8ccc-add50c3760d2
+d2  	SAC       	W	ANDSC	Anderson (SC)          	        Anderson	SC		13028	1196		AndersonUniversityW                    	5dc18176-aa14-4021-bfc6-cd31c0827a39
+d2  	SAC       	W	  CNC	Carson-Newman          	  Jefferson City	TN		 1000	3007		CarsonNewmanUniversityW                	cd764750-4cff-4d35-9ae0-14f2bb6a3282
+d2  	SAC       	W	  LRC	Lenoir-Rhyne           	         Hickory	NC		 1170	1731		LenoirRhyneUniversityW                 	82d7d500-0e6d-4ce3-b9c7-a6ccfe95e089
+d2  	SAC       	W	 LIME	Limestone              	         Gaffney	SC		 1174	1556		LimestoneUniversityW                   	67026d1b-05ce-4d12-b15b-3b11ab44c825
+d2  	SAC       	W	 TUSC	Tusculum               	     Greeneville	TN		12830	1891		TusculumUniversityW                    	93cf377e-e9f0-46d7-bb37-2f47f031dc45
 d2  	SIAC      	M	  LOC	LeMoyne-Owen           	         Memphis	TN		  350	    		LeMoyneCollegeM                        	de3f4bcc-f081-4c8f-bc2d-5cf69e8c7d88
-d2  	SIAC      	M	 SPHC	Spring Hill            	          Mobile	AL		30191	2747		                                       	a9eaa84a-3622-4a89-ada4-45f009c5dc3b
-d2  	SIAC      	W	CLKGA	Clark (GA)             	         Atlanta	GA		  144	2080		                                       	a0fada0a-74b4-4413-b0e8-373e3452e988
-d2  	SIAC      	W	 SPHC	Spring Hill            	          Mobile	AL		30191	2748		                                       	cac1d8d6-57dc-4df8-b214-5e299bcfeb84
+d2  	SIAC      	M	 SPHC	Spring Hill            	          Mobile	AL		30191	2747		SpringHillCollegeM                     	a9eaa84a-3622-4a89-ada4-45f009c5dc3b
+d2  	SIAC      	W	CLKGA	Clark (GA)             	         Atlanta	GA		  144	2080		ClarkAtlantaUniversityW                	a0fada0a-74b4-4413-b0e8-373e3452e988
+d2  	SIAC      	W	 SPHC	Spring Hill            	          Mobile	AL		30191	2748		SpringHillCollegeW                     	cac1d8d6-57dc-4df8-b214-5e299bcfeb84
 d2  	SSC       	M	 LYNN	Lynn                   	      Boca Raton	FL		20794	1598		LynnUniversityM                        	a54ead09-5f96-4899-9b5c-bdf5d53ce7a7
 d2  	SSC       	M	 PBAU	Palm Beach Atlantic    	 West Palm Beach	FL		30045	2497		PalmBeachAtlanticUnivM                 	aa1ce668-c14e-41ab-966d-dfc79708f4e6
 d2  	SSC       	W	  FSC	Florida Southern       	        Lakeland	FL		  233	1361		FloridaSouthernCollegeW                	f545d29e-37c0-4006-bb3e-31a4625d3bcd
 d2  	SSC       	W	 PBAU	Palm Beach Atlantic    	 West Palm Beach	FL		30045	2498		PalmBeachAtlanticUnivW                 	e04450ec-d9b4-4cda-bbfe-c7080354b52b
 d2  	SSC       	W	  ROL	Rollins                	     Winter Park	FL		  584	1330		RollinsCollegeW                        	e6ec4ccb-ed7a-4a96-8541-a1af9216e335
-d3  	ASC       	M	LETOU	LeTourneau             	        Longview	TX		 8490	1765		                                       	783f1ecf-a7d5-473f-802b-6269a5f949f7
+d3  	ASC       	M	LETOU	LeTourneau             	        Longview	TX		 8490	1765		LetourneauUniversityM                  	783f1ecf-a7d5-473f-802b-6269a5f949f7
 d3  	ASC       	M	TXDAL	Texas Dallas           	      Richardson	TX		23121	1616		UnivOfTexasDallasM                     	a0a55d0f-a3d1-4cd2-ace8-8ed2d03afff3
 d3  	ASC       	W	CNCTX	Concordia (TX)         	          Austin	TX		24400	2972		ConcordiaUniversityTexasW              	a586b075-7e45-4382-be9f-bd56934cd02a
-d3  	ASC       	W	HSIMM	Hardin-Simmons         	         Abilene	TX		  271	1587		                                       	c71ea5e4-e3e3-450f-ade6-b317e513251e
-d3  	ASC       	W	LETOU	LeTourneau             	        Longview	TX		 8490	1766		                                       	a8076a93-bb12-4dea-a39f-0210222e45cd
+d3  	ASC       	W	HSIMM	Hardin-Simmons         	         Abilene	TX		  271	1587		HardinSimmonsUniversityW               	c71ea5e4-e3e3-450f-ade6-b317e513251e
+d3  	ASC       	W	LETOU	LeTourneau             	        Longview	TX		 8490	1766		LetourneauUniversityW                  	a8076a93-bb12-4dea-a39f-0210222e45cd
 d3  	ASC       	W	 UMHB	Mary Hardin-Baylor     	          Belton	TX		 1203	1982		UnivOfMaryHardinBaylorW                	d3dca46b-06d4-4fd1-ac7f-cce6f1e66f45
-d3  	C2C       	M	 CNEW	Christopher Newport    	    Newport News	VA		  139	1412		                                       	0cb3af58-7501-48e7-b363-2f160118a122
+d3  	C2C       	M	 CNEW	Christopher Newport    	    Newport News	VA		  139	1412		ChristopherNewportUnivM                	0cb3af58-7501-48e7-b363-2f160118a122
 d3  	C2C       	M	 UCSC	UC Santa Cruz          	      Santa Cruz	CA		  113	1427		UniversityOfCaliforniaSantaCruzM       	91b81904-b804-432b-aa46-be061862ac7e
 d3  	C2C       	W	 CNEW	Christopher Newport    	    Newport News	VA		  139	1413		ChristopherNewportUnivW                	e7970da3-2c04-4a93-9d7e-e291bd4ea857
 d3  	C2C       	W	 MWSH	Mary Washington        	  Fredericksburg	VA		  390	1645		UnivOfMaryWashingtonW                  	7d52d87d-4d84-46c7-b800-4066819f083a
 d3  	CCC       	W	ENDCT	Endicott               	         Beverly	MA		 8981	2315		EndicottCollegeW                       	d310909c-99cc-4d4b-ae9d-15830bb1fd40
-d3  	Centennial	M	  HOP	Johns Hopkins          	       Baltimore	MD		  322	1496		                                       	0aa4e40a-642b-4d4d-8f90-038c517e0142
-d3  	Centennial	W	  HOP	Johns Hopkins          	       Baltimore	MD		  322	1497		                                       	7b6b1054-0278-4b3a-aa32-a7b239ac8bbd
-d3  	HCAC      	M	ANDIN	Anderson (IN)          	        Anderson	IN		  939	2643		                                       	d4b3bd23-2903-46e2-8f6b-c6d53b96aa2e
-d3  	HCAC      	M	ROSHL	Rose-Hulman            	     Terre Haute	IN		  585	1977		                                       	5a389d00-b933-4118-8eb4-67acdc6fa79c
-d3  	HCAC      	W	ANDIN	Anderson (IN)          	        Anderson	IN		  939	2644		                                       	f47009a4-96a7-40c2-8fab-9b21a02a8139
+d3  	Centennial	M	  HOP	Johns Hopkins          	       Baltimore	MD		  322	1496		JohnsHopkinsUniversityM                	0aa4e40a-642b-4d4d-8f90-038c517e0142
+d3  	Centennial	W	  HOP	Johns Hopkins          	       Baltimore	MD		  322	1497		JohnsHopkinsUniversityW                	7b6b1054-0278-4b3a-aa32-a7b239ac8bbd
+d3  	HCAC      	M	ANDIN	Anderson (IN)          	        Anderson	IN		  939	2643		AndersonUniversityINM                  	d4b3bd23-2903-46e2-8f6b-c6d53b96aa2e
+d3  	HCAC      	M	ROSHL	Rose-Hulman            	     Terre Haute	IN		  585	1977		RoseHulmanInstOfTechM                  	5a389d00-b933-4118-8eb4-67acdc6fa79c
+d3  	HCAC      	W	ANDIN	Anderson (IN)          	        Anderson	IN		  939	2644		AndersonUniversityINW                  	f47009a4-96a7-40c2-8fab-9b21a02a8139
 d3  	Ind.      	W	RTNEW	Rutgers - Newark       	          Newark	NJ		     	2343		RutgersUnivNewarkW                     	ff716a03-ea9d-4900-9639-4278fcf36ec1
-d3  	Landmark  	M	 DREW	Drew                   	         Madison	NJ		  190	2025		                                       	1b5e5656-22f1-4f8a-8cf4-2c4b9f3ff663
-d3  	Landmark  	W	 DREW	Drew                   	         Madison	NJ		  190	2026		                                       	7016e0ef-33fa-438a-a544-533bfdb48ed5
-d3  	Liberty   	M	HOBWS	Hobart & William Smith 	          Geneva	NY		  282	2963		                                       	00a234ac-e4c3-41de-9de8-bc86c71b1e8f
-d3  	Liberty   	W	VASSR	Vassar                 	    Poughkeepsie	NY		  737	1528		                                       	a9370b2f-5966-4481-af2d-56231c4495c2
+d3  	Landmark  	M	 DREW	Drew                   	         Madison	NJ		  190	2025		DrewUniversityM                        	1b5e5656-22f1-4f8a-8cf4-2c4b9f3ff663
+d3  	Landmark  	W	 DREW	Drew                   	         Madison	NJ		  190	2026		DrewUniversityW                        	7016e0ef-33fa-438a-a544-533bfdb48ed5
+d3  	Liberty   	M	HOBWS	Hobart & William Smith 	          Geneva	NY		  282	2963		HobartCollegeM                         	00a234ac-e4c3-41de-9de8-bc86c71b1e8f
+d3  	Liberty   	W	VASSR	Vassar                 	    Poughkeepsie	NY		  737	1528		VassarCollegeW                         	a9370b2f-5966-4481-af2d-56231c4495c2
 d3  	MAC Cwlth 	M	 STEV	Stevenson              	    Owings Mills	MD		21852	2199		StevensonUniversityM                   	fbeb70a8-0b86-4637-b88c-b1984116dba1
 d3  	MAC Free  	M	 FDUF	FDU Florham            	         Madison	NJ		  221	2428		FairleighDickinsonFlorhamM             	59aea9f6-ccd2-4052-8e32-10bee3e8f309
-d3  	MAC Free  	M	WILKE	Wilkes                 	    Wilkes-Barre	PA		  784	1983		                                       	e8d167bb-980c-42b3-93a9-cf5412005096
-d3  	MAC Free  	W	WILKE	Wilkes                 	    Wilkes-Barre	PA		  784	1984		                                       	7d0bcd1b-36fb-40be-a1aa-e8d66060b1ea
-d3  	MIAA      	W	 KALZ	Kalamazoo              	       Kalamazoo	MI		  326	1625		                                       	b01ba5a9-9bc2-4c22-8b47-b0043561a558
-d3  	MIAA      	W	SMARY	St. Mary's (IN)        	      Notre Dame	IN		 8688	2597		                                       	f1f0c964-2d47-4907-b933-7787fce52f2b
+d3  	MAC Free  	M	WILKE	Wilkes                 	    Wilkes-Barre	PA		  784	1983		WilkesUniversityM                      	e8d167bb-980c-42b3-93a9-cf5412005096
+d3  	MAC Free  	W	WILKE	Wilkes                 	    Wilkes-Barre	PA		  784	1984		WilkesUniversityW                      	7d0bcd1b-36fb-40be-a1aa-e8d66060b1ea
+d3  	MIAA      	W	 KALZ	Kalamazoo              	       Kalamazoo	MI		  326	1625		KalamazooCollegeW                      	b01ba5a9-9bc2-4c22-8b47-b0043561a558
+d3  	MIAA      	W	SMARY	St. Mary's (IN)        	      Notre Dame	IN		 8688	2597		SaintMarysCollegeINW                   	f1f0c964-2d47-4907-b933-7787fce52f2b
 d3  	MIAC      	M	 GUST	Gustavus Adolphus      	       St. Peter	MN		  266	1218		GustavusAdolphusCollegeM               	de8454c7-a5f8-4492-a49f-e8134c3e32fa
 d3  	MIAC      	W	SJUMN	St. John's (MN)        	    Collegeville	MN		     	    		                                       	
 d3  	Midwest   	W	GRINN	Grinnell               	        Grinnell	IA		  264	2034		GrinnellCollegeW                       	b6f759f4-978b-4a4e-929c-89904cc1a93f
-d3  	NCAC      	W	 DEPW	DePauw                 	     Greencastle	IN		  177	1869		                                       	19eacce9-aabb-4810-9a8e-711726d15ed1
+d3  	NCAC      	W	 DEPW	DePauw                 	     Greencastle	IN		  177	1869		DePauwUniversityW                      	19eacce9-aabb-4810-9a8e-711726d15ed1
 d3  	NCAC      	W	 WITT	Wittenberg             	     Springfield	OH		  806	1490		WittenbergUniversityW                  	f4d03778-30ed-48f2-b000-a3ad89771756
-d3  	NESCAC    	W	CTCOL	Connecticut College    	      New London	CT		  163	1110		                                       	d572bfbe-e2b8-44a8-a0dc-d10485148609
+d3  	NESCAC    	W	CTCOL	Connecticut College    	      New London	CT		  163	1110		ConnecticutCollegeW                    	d572bfbe-e2b8-44a8-a0dc-d10485148609
 d3  	NESCAC    	W	TRICT	Trinity (CT)           	        Hartford	CT		  713	2699		TrinityCollegeW                        	2f306551-24b6-46b3-9c1e-e93951bd4c9c
 d3  	NEWMAC    	M	 BABS	Babson                 	     Babson Park	MA		   45	1955		BabsonCollegeM                         	138a8a79-1e71-4007-8985-a717ba29c4a9
-d3  	NEWMAC    	M	 USCG	Coast Guard            	      New London	CT		  722	1653		                                       	3099b27a-954a-4c16-8bc7-d7789a63361c
+d3  	NEWMAC    	M	 USCG	Coast Guard            	      New London	CT		  722	1653		USCoastGuardAcademyM                   	3099b27a-954a-4c16-8bc7-d7789a63361c
 d3  	NEWMAC    	W	 BABS	Babson                 	     Babson Park	MA		   45	1956		BabsonCollegeW                         	561020ce-b911-4d69-a12b-bc9e074a676c
 d3  	NEWMAC    	W	MTHOL	Mount Holyoke          	    South Hadley	MA		  449	2129		MountHolyokeCollegeW                   	f25a827b-3f3d-4753-a24f-4315af137c02
 d3  	NJAC      	M	 NJCU	NJCU                   	     Jersey City	NJ		  319	7795		NewJerseyCityUniversityM               	cee000ce-6925-4bdf-a8a2-d6822af415a8
-d3  	NJAC      	M	 TCNJ	TCNJ                   	           Ewing	NJ		  712	2241		                                       	ee025f73-0ce4-498d-b456-fc5524b8e1ab
-d3  	NJAC      	W	 NJCU	NJCU                   	     Jersey City	NJ		  319	7796		                                       	c9452fdf-cb3a-46d6-89d6-4e10ce039d24
-d3  	NJAC      	W	 TCNJ	TCNJ                   	           Ewing	NJ		  712	2242		                                       	daf82db4-841b-47d9-abf1-3313ed0a622b
+d3  	NJAC      	M	 TCNJ	TCNJ                   	           Ewing	NJ		  712	2241		TheCollegeOfNewJerseyM                 	ee025f73-0ce4-498d-b456-fc5524b8e1ab
+d3  	NJAC      	W	 NJCU	NJCU                   	     Jersey City	NJ		  319	7796		NewJerseyCityUniversityW               	c9452fdf-cb3a-46d6-89d6-4e10ce039d24
+d3  	NJAC      	W	 TCNJ	TCNJ                   	           Ewing	NJ		  712	2242		TheCollegeOfNewJerseyW                 	daf82db4-841b-47d9-abf1-3313ed0a622b
 d3  	NWC       	M	 GFOX	George Fox             	         Newberg	OR		 1094	2231		GeorgeFoxUniversityM                   	e0dcd54a-554a-41dd-8e68-b786e67595dd
-d3  	NWC       	M	LEWIS	Lewis & Clark (OR)     	        Portland	OR		22235	2621		                                       	3f28133a-eeb7-4445-b81b-6ca5f317631d
-d3  	NWC       	M	 LINF	Linfield               	     McMinnville	OR		 1179	1759		                                       	2381d12c-4207-45ec-b883-b1f9817bde02
-d3  	NWC       	M	PACIF	Pacific (OR)           	    Forest Grove	OR		 2751	2559		                                       	11b21a2e-379e-4b50-8a11-cb80402454c3
+d3  	NWC       	M	LEWIS	Lewis & Clark (OR)     	        Portland	OR		22235	2621		LewisClarkCollegeM                     	3f28133a-eeb7-4445-b81b-6ca5f317631d
+d3  	NWC       	M	 LINF	Linfield               	     McMinnville	OR		 1179	1759		LinfieldUniversityM                    	2381d12c-4207-45ec-b883-b1f9817bde02
+d3  	NWC       	M	PACIF	Pacific (OR)           	    Forest Grove	OR		 2751	2559		PacificUniversityM                     	11b21a2e-379e-4b50-8a11-cb80402454c3
 d3  	NWC       	M	WHITM	Whitman                	     Walla Walla	WA		  780	1429		WhitmanCollegeM                        	1743a3e9-da9d-46b1-b717-ecbc502e05a9
 d3  	NWC       	M	WHITW	Whitworth              	         Spokane	WA		 1454	1422		WhitworthUniversityM                   	ad583a8a-278c-4732-b22d-311a29a16574
-d3  	NWC       	W	LEWIS	Lewis & Clark (OR)     	        Portland	OR		22235	2622		                                       	ab9c5268-d565-4368-bd85-7d9fa029ca09
-d3  	NWC       	W	 LINF	Linfield               	     McMinnville	OR		 1179	1760		                                       	2acebe02-99b7-41fc-bf92-ce7e6af48bad
-d3  	NWC       	W	WHITM	Whitman                	     Walla Walla	WA		  780	1430		                                       	abd1afb2-3571-4038-947f-aec41c91d80f
-d3  	NWC       	W	WHITW	Whitworth              	         Spokane	WA		 1454	1423		                                       	78dc711d-a259-4155-b651-651efd9c0bdf
-d3  	OAC       	W	OHION	Ohio Northern          	             Ada	OH		  517	2109		                                       	566bb9bf-a93b-4c7e-822d-6e947448bb95
-d3  	ODAC      	M	HSYDN	Hampden-Sydney         	  Hampden-Sydney	VA		  269	2245		                                       	2ffb4de5-6c5f-4efe-a246-f85296ce1dee
-d3  	ODAC      	M	  W&L	Washington & Lee       	       Lexington	VA		  752	1654		                                       	5f1a5cb3-c0a2-4cb1-901b-dcd43a50312a
-d3  	SAA       	M	 CENT	Centre                 	        Danville	KY		  132	1504		                                       	66bd06c9-45fe-4ab3-9a6a-b1b9c31aa00e
-d3  	SCAC      	M	SWEST	Southwestern (TX)      	      Georgetown	TX		 8746	2617		                                       	cf3070d1-d578-44b5-8fff-96ea94636900
-d3  	SCAC      	M	TRITX	Trinity (TX)           	     San Antonio	TX		  715	2501		                                       	a2c27ff7-9772-450b-8b00-1e1f54df8f3e
+d3  	NWC       	W	LEWIS	Lewis & Clark (OR)     	        Portland	OR		22235	2622		LewisClarkCollegeW                     	ab9c5268-d565-4368-bd85-7d9fa029ca09
+d3  	NWC       	W	 LINF	Linfield               	     McMinnville	OR		 1179	1760		LinfieldUniversityW                    	2acebe02-99b7-41fc-bf92-ce7e6af48bad
+d3  	NWC       	W	WHITM	Whitman                	     Walla Walla	WA		  780	1430		WhitmanCollegeW                        	abd1afb2-3571-4038-947f-aec41c91d80f
+d3  	NWC       	W	WHITW	Whitworth              	         Spokane	WA		 1454	1423		WhitworthUniversityW                   	78dc711d-a259-4155-b651-651efd9c0bdf
+d3  	OAC       	W	OHION	Ohio Northern          	             Ada	OH		  517	2109		OhioNorthernUniversityW                	566bb9bf-a93b-4c7e-822d-6e947448bb95
+d3  	ODAC      	M	HSYDN	Hampden-Sydney         	  Hampden-Sydney	VA		  269	2245		HampdenSydneyCollegeM                  	2ffb4de5-6c5f-4efe-a246-f85296ce1dee
+d3  	ODAC      	M	  W&L	Washington & Lee       	       Lexington	VA		  752	1654		WashingtonLeeUniversityM               	5f1a5cb3-c0a2-4cb1-901b-dcd43a50312a
+d3  	SAA       	M	 CENT	Centre                 	        Danville	KY		  132	1504		CentreCollegeM                         	66bd06c9-45fe-4ab3-9a6a-b1b9c31aa00e
+d3  	SCAC      	M	SWEST	Southwestern (TX)      	      Georgetown	TX		 8746	2617		SouthwesternUniversityM                	cf3070d1-d578-44b5-8fff-96ea94636900
+d3  	SCAC      	M	TRITX	Trinity (TX)           	     San Antonio	TX		  715	2501		TrinityUniversityM                     	a2c27ff7-9772-450b-8b00-1e1f54df8f3e
 d3  	SCAC      	W	 COLC	Colorado College       	Colorado Springs	CO		  154	1554		ColoradoCollegeW                       	e9f3995f-ad5d-4684-81b7-d9b04eb24f89
 d3  	SCAC      	W	 SCHR	Schreiner              	       Kerrville	TX		 1355	2554		SchreinerUniversityW                   	4f6edac2-8119-4918-a143-4103f1af0751
 d3  	SCAC      	W	SWEST	Southwestern (TX)      	      Georgetown	TX		 8746	2618		SouthwesternUniversityW                	0947d631-c21d-4cb4-b72f-bcf6226586fc
-d3  	SCAC      	W	TRITX	Trinity (TX)           	     San Antonio	TX		  715	2502		                                       	fdfabd3f-2ff0-4b6d-906f-845d7991f1a5
+d3  	SCAC      	W	TRITX	Trinity (TX)           	     San Antonio	TX		  715	2502		TrinityUniversityW                     	fdfabd3f-2ff0-4b6d-906f-845d7991f1a5
 d3  	SCIAC     	M	  CMS	CMS                    	       Claremont	CA		  142	1815		ClaremontMuddScrippsCollM              	2c1e0011-48e4-4b73-ba97-0e0f32792d17
 d3  	SCIAC     	W	CALUT	Cal Lutheran           	   Thousand Oaks	CA		  105	2236		CaliforniaLutheranUnivW                	42286d39-692c-420d-8397-18dd86757151
-d3  	SCIAC     	W	  POM	Pomona-Pitzer          	       Claremont	CA		  549	2082		                                       	3ecce16c-7829-4dbf-a900-e0e3e6c8c7b9
-d3  	Skyline   	W	 MSMC	Mt. St. Mary (NY)      	        Newburgh	NY		 1468	2474		                                       	06424952-afbd-4faa-a96f-3722ae8cd754
+d3  	SCIAC     	W	  POM	Pomona-Pitzer          	       Claremont	CA		  549	2082		PomonaPitzerCollegesW                  	3ecce16c-7829-4dbf-a900-e0e3e6c8c7b9
+d3  	Skyline   	W	 MSMC	Mt. St. Mary (NY)      	        Newburgh	NY		 1468	2474		MountStMaryCollegeNYW                  	06424952-afbd-4faa-a96f-3722ae8cd754
 d3  	UAA       	M	  CMU	Carnegie Mellon        	      Pittsburgh	PA		  119	1941		CarnegieMellonUniversityM              	8d265662-9c08-4660-a94c-8590d497a660
 d3  	UAA       	M	 CWRU	CWRU                   	       Cleveland	OH		  122	1139		CaseWesternReserveM                    	962eecc8-c817-4374-92d5-c043742ef7b3
-d3  	UAA       	M	 ROCH	Rochester (NY)         	       Rochester	NY		  581	1487		                                       	60c751b5-d686-4a3d-8fc6-35b502ee8722
+d3  	UAA       	M	 ROCH	Rochester (NY)         	       Rochester	NY		  581	1487		UniversityOfRochesterM                 	60c751b5-d686-4a3d-8fc6-35b502ee8722
 d3  	UAA       	M	WUSTL	Wash U                 	       St. Louis	MO		  755	1737		WashingtonUniversityInSaintLouisM      	fa5d4fca-f538-4c67-9718-4d91756e45b2
 d3  	UAA       	W	  CMU	Carnegie Mellon        	      Pittsburgh	PA		  119	1942		CarnegieMellonUniversityW              	9c409abf-ee9c-41b1-92cf-96231c0e8e53
-d3  	UAA       	W	 ROCH	Rochester (NY)         	       Rochester	NY		  581	1488		                                       	46056c02-1a1b-4d58-b7ee-f777e6c1234f
+d3  	UAA       	W	 ROCH	Rochester (NY)         	       Rochester	NY		  581	1488		UniversityOfRochesterW                 	46056c02-1a1b-4d58-b7ee-f777e6c1234f
 d3  	USA South 	M	NCWES	NC Wesleyan            	     Rocky Mount	NC		  491	2229		NorthCarolinaWesleyanCollM             	937d5342-65a5-408d-ae53-e7b492d45ed4
 d3  	USA South 	M	PFEIF	Pfeiffer               	     Misenheimer	NC		  542	    		PfeifferUniversityM                    	8b12df48-0c6b-470f-9754-103b9f4b2b39
-d3  	USA South 	M	SOUVA	Southern Virginia      	     Buena Vista	VA		30164	1919		                                       	3e251ad0-bb8a-454c-858c-0b9078381da4
+d3  	USA South 	M	SOUVA	Southern Virginia      	     Buena Vista	VA		30164	1919		SouthernVirginiaUnivM                  	3e251ad0-bb8a-454c-858c-0b9078381da4
 d3  	USA South 	W	NCWES	NC Wesleyan            	     Rocky Mount	NC		  491	2230		NorthCarolinaWesleyanCollW             	49eb7ae3-8c40-48ad-8198-58a183aeefea
-d3  	USA South 	W	PFEIF	Pfeiffer               	     Misenheimer	NC		  542	    		                                       	201e0cd4-bf6a-42e9-a473-89c48eddd060
-d3  	USA South 	W	SOUVA	Southern Virginia      	     Buena Vista	VA		30164	1920		                                       	8c202360-5ae1-41b7-bd08-838ceda140b6
+d3  	USA South 	W	PFEIF	Pfeiffer               	     Misenheimer	NC		  542	    		PfeifferUniversityW                    	201e0cd4-bf6a-42e9-a473-89c48eddd060
+d3  	USA South 	W	SOUVA	Southern Virginia      	     Buena Vista	VA		30164	1920		SouthernVirginiaUnivW                  	8c202360-5ae1-41b7-bd08-838ceda140b6
 d3  	WIAC      	W	WIWHI	UW Whitewater          	      Whitewater	WI		  805	1114		UnivOfWisconsinWhitewaterW             	14cc9ce1-b197-47ce-8cba-e253aef52955
-juco	ACCC      	M	 WSCC	Wallace State          	      Hanceville	AL		     	3047		                                       	bb958279-decf-4f69-a01f-063ac47b6db0
-juco	ACCC      	W	 WSCC	Wallace State          	      Hanceville	AL		     	3048		                                       	84194ed9-bceb-44f3-86d6-96eb08f2d614
+juco	ACCC      	M	 WSCC	Wallace State          	      Hanceville	AL		     	3047		WallaceStateCommunityCollegeM          	bb958279-decf-4f69-a01f-063ac47b6db0
+juco	ACCC      	W	 WSCC	Wallace State          	      Hanceville	AL		     	3048		WallaceStateCommunityCollegeW          	84194ed9-bceb-44f3-86d6-96eb08f2d614
 juco	Big 8-N   	M	  ARC	American River         	      Sacramento	CA		     	2799		AmericanRiverCollegeM                  	24fd9f4c-50e7-4848-be24-5f3e93b604fd
-juco	Ind.      	W	  MUW	MS Univ For Women      	        Columbus	MS		  431	    		                                       	a073ce36-c8b9-4305-a8df-254486cf7b26
-juco	PCAC      	M	 SDCC	San Diego City         	       San Diego	CA		     	2629		                                       	b5cc4e1d-5e03-4ee7-80f5-41ed44c63c29
-juco	R01       	M	MSACC	Mesa (AZ)              	            Mesa	AZ		     	2146		                                       	82de408e-cdf8-4552-a7bf-975ebc1bba3b
+juco	Ind.      	W	  MUW	MS Univ For Women      	        Columbus	MS		  431	    		MississippiUniversityforWomenW         	a073ce36-c8b9-4305-a8df-254486cf7b26
+juco	PCAC      	M	 SDCC	San Diego City         	       San Diego	CA		     	2629		SanDiegoCityCollegeM                   	b5cc4e1d-5e03-4ee7-80f5-41ed44c63c29
+juco	R01       	M	MSACC	Mesa (AZ)              	            Mesa	AZ		     	2146		MesaCommunityCollegeM                  	82de408e-cdf8-4552-a7bf-975ebc1bba3b
 juco	R02       	W	WTHRF	Weatherford            	     Weatherford	TX		     	    		WeatherfordCollegeW                    	a5b19cb5-b5e8-45c4-b83f-2995c4b5c2ba
-juco	R04       	M	 EFSC	Eastern Florida        	           Cocoa	FL		     	2815		                                       	fee0806c-6dd4-44a4-b155-109e7f64d5d3
-juco	R04       	M	  PSC	Prairie State          	 Chicago Heights	IL		     	2450		                                       	64dda881-9dcc-4988-af64-a26172a0c645
+juco	R04       	M	 EFSC	Eastern Florida        	           Cocoa	FL		     	2815		EasternFloridaStateCollegeM            	fee0806c-6dd4-44a4-b155-109e7f64d5d3
+juco	R04       	M	  PSC	Prairie State          	 Chicago Heights	IL		     	2450		PrairieStateCollegeM                   	64dda881-9dcc-4988-af64-a26172a0c645
 juco	R06       	M	 COWL	Cowley County (KS)     	   Arkansas City	KS		     	3028		CowleyCountyCCM                        	15a88f6b-efdc-423f-b8b3-f4340a78d994
 juco	R06       	W	 SCCC	Seward County (KS)     	         Liberal	KS		     	1986		SewardCountyCCW                        	e95c0cce-7801-4095-8366-adc69d3fcacf
 juco	R14       	M	TYLER	Tyler JC (TX)          	           Tyler	TX		     	1406		TylerJrCollegeM                        	8e51bb66-583f-44d0-9074-084a1d8a46a2
@@ -804,30 +802,32 @@ juco	R14       	W	TYLER	Tyler JC (TX)          	           Tyler	TX		     	1407	
 juco	R17       	M	 ABRA	Abraham Baldwin        	          Tifton	GA		     	1518		AbrahamBaldwinCollegeM                 	f8b981e2-248e-48d6-aba1-0467c42150b8
 juco	R17       	W	 ABRA	Abraham Baldwin        	          Tifton	GA		     	1519		AbrahamBaldwinCollegeW                 	642bd104-8f7a-4465-a29e-29721c31e8f3
 juco	R20       	M	HRTCC	Harford (MD)           	         Bel Air	MD		     	1959		HarfordCommCollegeM                    	a45c800a-2d5d-460a-8ce3-7988cedc8eb9
-juco	R20       	W	HRTCC	Harford (MD)           	         Bel Air	MD		     	1960		                                       	aca41d70-f01a-49cb-851f-d60a51d10d6a
-naia	          	M	  USK	St. Katherine          	      San Marcos	CA		     	    		                                       	5140ccee-cf87-48a0-a256-c45adb6ea845
+juco	R20       	W	HRTCC	Harford (MD)           	         Bel Air	MD		     	1960		HarfordCommCollegeW                    	aca41d70-f01a-49cb-851f-d60a51d10d6a
+JUCO	Region_2  	 	 UNCA	UNC Asheville          	       Asheville	NC		     	    		QATestSchoolM                          	845adace-8d9c-4cb5-b04a-225f8f79c7a1
+naia	          	M	  USK	St. Katherine          	      San Marcos	CA		     	    		UniversityOfSaintKatherineM            	5140ccee-cf87-48a0-a256-c45adb6ea845
 naia	AII       	M	  FNU	Florida National       	         Hialeah	FL		     	9455		FloridaNationalUniversityM             	f95f10b0-8ed2-44ff-a642-ef1d30019c18
 naia	AII       	W	  FNU	Florida National       	         Hialeah	FL		     	9456		FloridaNationalUniversityW             	1e88cd7a-bdba-47e7-b56c-ee3c7cbed6ef
 naia	AII       	W	STAMB	St. Ambrose            	       Davenport	IA		     	2715		SaintAmbroseUniversityW                	66f1a322-52a6-4a9c-b1a6-7010bd01393d
 naia	AMC       	W	WWOOD	William Woods          	          Fulton	MO		     	3005		WilliamWoodsUniversityW                	22a31cdd-eae3-43b8-8630-d82c7f64ef87
 naia	AppAC     	M	MONTR	Montreat               	        Montreat	NC		     	3064		MontreatCollegeM                       	b3207187-966f-4cd9-950b-aaa9c29c68e6
-naia	AppAC     	W	MONTR	Montreat               	        Montreat	NC		     	3065		                                       	c1156007-ab78-43a6-9160-d37b8113bb46
-naia	AppAC     	W	TNWES	Tennessee Wesleyan     	          Athens	TN		     	1507		                                       	7a48b983-1f21-4236-83d9-945071a0b1de
-naia	CCAC      	M	 CSTR	Cardinal Stritch       	       Milwaukee	WI		     	2819		                                       	2ea9428f-70c8-42a5-b933-7946e86331f6
-naia	CCAC      	M	OLIVT	Olivet Nazarene        	     Bourbonnais	IL		     	2637		                                       	93e1554a-531d-4fd6-b946-636a496435c9
-naia	CCAC      	M	USFIL	St. Francis (IL)       	          Joliet	IL		     	2605		                                       	c954c09f-dc94-4290-a81f-b623c0f2626a
+naia	AppAC     	M	POINT	Point                  	      West Point	GA		     	2811		                                       	a15da644-8d44-4085-8881-39e16e00e88c
+naia	AppAC     	W	MONTR	Montreat               	        Montreat	NC		     	3065		MontreatCollegeW                       	c1156007-ab78-43a6-9160-d37b8113bb46
+naia	AppAC     	W	TNWES	Tennessee Wesleyan     	          Athens	TN		     	1507		TennesseeWesleyanUniversityW           	7a48b983-1f21-4236-83d9-945071a0b1de
+naia	CCAC      	M	 CSTR	Cardinal Stritch       	       Milwaukee	WI		     	2819		CardinalStritchUniversityM             	2ea9428f-70c8-42a5-b933-7946e86331f6
+naia	CCAC      	M	OLIVT	Olivet Nazarene        	     Bourbonnais	IL		     	2637		OlivetNazareneUniversityM              	93e1554a-531d-4fd6-b946-636a496435c9
+naia	CCAC      	M	USFIL	St. Francis (IL)       	          Joliet	IL		     	2605		UnivOfSaintFrancisILM                  	c954c09f-dc94-4290-a81f-b623c0f2626a
 naia	CCAC      	W	 CSTR	Cardinal Stritch       	       Milwaukee	WI		     	2820		CardinalStritchUniversityW             	626b73e1-c0f4-4d00-9073-b6c2816d57b6
 naia	CCAC      	W	HCRIN	Holy Cross (IN)        	      Notre Dame	IN		     	3077		HolyCrossCollegeNotreDameW             	68df1898-cf02-471b-a93d-e92a5e9ee5ab
 naia	CCAC      	W	 ROOS	Roosevelt              	         Chicago	IL		     	1797		RooseveltUniversityW                   	d191e4ef-5cef-485c-840a-c21950c56223
-naia	CCAC      	W	USFIL	St. Francis (IL)       	          Joliet	IL		     	2605		UnivOfSaintFrancisILW                  	c954c09f-dc94-4290-a81f-b623c0f2626a
+naia	CCAC      	W	USFIL	St. Francis (IL)       	          Joliet	IL		     	2606		UnivOfSaintFrancisILW                  	59d4b2c8-04b8-4fd5-9502-ee69af1c6296
 naia	CL        	W	 MARU	Marian (IN)            	    Indianapolis	IN		     	2568		MarianUniversityW                      	86c03096-8441-4f49-a2d0-fbd5e80c459d
 naia	GCAC      	M	  DIL	Dillard                	     New Orleans	LA		     	    		DillardUniversityM                     	277f2c9f-84de-4df6-98fc-cc553293b64a
 naia	GCAC      	M	 XULA	Xavier (LA)            	     New Orleans	LA		     	1185		XavierUniversityLAM                    	8d1468e2-e69c-4308-ac16-af1140b01ef8
-naia	GCAC      	W	  DIL	Dillard                	     New Orleans	LA		     	    		                                       	75d4c51a-1482-488d-9515-45cc82620d75
+naia	GCAC      	W	  DIL	Dillard                	     New Orleans	LA		     	    		DillardUniversityW                     	75d4c51a-1482-488d-9515-45cc82620d75
 naia	GCAC      	W	 XULA	Xavier (LA)            	     New Orleans	LA		     	1186		XavierUniversityLAW                    	6882a088-a7dd-44e0-87ce-741f3d9fa3b5
 naia	Golden St 	M	AZCHR	Arizona Christian      	         Phoenix	AZ		     	2775		ArizonaChristianUniversityM            	f3644cc2-7369-47e6-95e0-3bd2aad9fced
 naia	Golden St 	M	  JES	Jessup                 	         Rocklin	CA		     	    		WilliamJessupUniversityM               	d09b7e52-ef73-47a2-8dbb-ce2fdbf6c09f
-naia	Golden St 	M	SDCHR	San Diego Christian    	          Santee	CA		     	2888		                                       	2a8efa24-b289-4109-bdb3-8afb3a7adabc
+naia	Golden St 	M	SDCHR	San Diego Christian    	          Santee	CA		     	2888		SanDiegoChristianCollegeM              	2a8efa24-b289-4109-bdb3-8afb3a7adabc
 naia	Golden St 	W	AZCHR	Arizona Christian      	         Phoenix	AZ		     	2776		ArizonaChristianUniversityW            	cbd3d40f-a0e0-4258-9042-d484d0b4af10
 naia	Golden St 	W	HOINT	Hope International     	       Fullerton	CA		     	1924		HopeInternationalUniversityW           	e488ade1-6d3d-46a0-ae18-5aac6fc57d9b
 naia	Golden St 	W	 OUAZ	OUAZ                   	        Surprise	AZ		     	3087		OttawaUniversityAZW                    	70876c3f-e66a-4069-95e2-9bbd087fb734
@@ -838,26 +838,27 @@ naia	GPAC      	W	DOANE	Doane                  	           Crete	NE		     	2709	
 naia	GPAC      	W	MIDLN	Midland (NE)           	         Fremont	NE		     	3024		MidlandUniversityW                     	00004748-0db3-4f48-8c04-de5b1a149cce
 naia	GPAC      	W	MORNG	Morningside            	      Sioux City	IA		     	1741		MorningsideCollegeW                    	fc8c7e32-dfaf-40e7-a566-57fd40380f6d
 naia	KCAC      	M	KSWES	Kansas Wesleyan        	          Salina	KS		     	1894		KansasWesleyanUniversityM              	e9a354d5-5ac0-40de-943f-283a0b99a03e
-naia	KCAC      	M	SWSTR	Southwestern (KS)      	        Winfield	KS		     	2673		                                       	8bdb704e-5fc8-42c8-9c4d-181d55870bcc
-naia	MSC       	M	CAMPB	Campbellsville         	  Campbellsville	KY		     	2524		                                       	543facd7-00e6-4369-a90a-2e58e0d4c316
+naia	KCAC      	M	SWSTR	Southwestern (KS)      	        Winfield	KS		     	2673		SouthwesternCollegeM                   	8bdb704e-5fc8-42c8-9c4d-181d55870bcc
+naia	KCAC      	W	SWSTR	Southwestern (KS)      	        Winfield	KS		     	2674		                                       	df59c691-6419-4159-9a20-4881eacfe22b
+naia	MSC       	M	CAMPB	Campbellsville         	  Campbellsville	KY		     	2524		CampbellsvilleUniversityM              	543facd7-00e6-4369-a90a-2e58e0d4c316
 naia	MSC       	M	CUMBD	Cumberland (TN)        	         Lebanon	TN		     	2639		CumberlandUniversityM                  	65841adf-6685-4c4b-a742-390ee525df57
 naia	MSC       	M	TMORE	Thomas More            	 Crestview Hills	KY		     	2177		ThomasMoreUniversityM                  	90e4defa-f84b-48c2-8280-6280f7de7bca
 naia	MSC       	W	CUMBD	Cumberland (TN)        	         Lebanon	TN		     	2640		CumberlandUniversityW                  	df97abda-f542-4e3d-b91f-a6a3beef6cf7
 naia	MSC       	W	TMORE	Thomas More            	 Crestview Hills	KY		     	2178		ThomasMoreUniversityW                  	f4af8360-2308-4efb-b146-f03fa64967fe
 naia	Other     	M	LCIDA	Lewis-Clark (ID)       	        Lewiston	ID		     	2461		LewisClarkStCollM                      	d3600078-ca5c-4882-9ba2-0b9d33599c11
-naia	Other     	W	 IDHO	Idaho (Caldwell)       	        Caldwell	ID		     	1557		                                       	5912d906-991e-4a95-9a9b-392305472ca1
-naia	RRAC      	M	 LADY	OLLU (TX)              	     San Antonio	TX		     	1664		                                       	ec6c1581-54f2-4ec9-8768-639d764ffb15
+naia	Other     	W	 IDHO	Idaho (Caldwell)       	        Caldwell	ID		     	1557		TheCollegeOfIdahoW                     	5912d906-991e-4a95-9a9b-392305472ca1
+naia	RRAC      	M	 LADY	OLLU (TX)              	     San Antonio	TX		     	1664		OurLadyoftheLakeUniversityM            	ec6c1581-54f2-4ec9-8768-639d764ffb15
 naia	RRAC      	W	LSUAL	LSU Alexandria         	      Alexandria	LA		     	2892		LouisianaStateUniversityAlexandriaW    	9c69adf3-8fb2-4c33-8cd3-4f9266c50cdf
 naia	RRAC      	W	 LADY	OLLU (TX)              	     San Antonio	TX		     	1665		                                       	
 naia	RRAC      	W	   SW	Southwest (NM)         	           Hobbs	NM		     	2778		UniversityOfTheSouthwestW              	5f0e4678-8d63-4fb3-b464-ab9c91d6748b
-naia	RSC       	M	 IUSE	Indiana Southeast      	      New Albany	IN		     	2045		                                       	917c8f32-4938-40d6-8269-e69edaea2d5e
+naia	RSC       	M	 IUSE	Indiana Southeast      	      New Albany	IN		     	2045		IndianaUSoutheastM                     	917c8f32-4938-40d6-8269-e69edaea2d5e
 naia	SSAC      	M	LOYNO	Loyola - New Orleans   	     New Orleans	LA		     	2696		LoyolaUniversityOfNewOrleansM          	136aba3c-8232-4a44-830d-944852087f47
-naia	SSAC      	W	COLUM	Columbia (SC)          	        Columbia	SC		     	2555		                                       	ba2c82c0-a5e3-451d-a3d3-5e3d637eef2e
+naia	SSAC      	W	COLUM	Columbia (SC)          	        Columbia	SC		     	2555		ColumbiaCollegeW                       	ba2c82c0-a5e3-451d-a3d3-5e3d637eef2e
 naia	SSAC      	W	LOYNO	Loyola - New Orleans   	     New Orleans	LA		     	2697		LoyolaUniversityOfNewOrleansW          	9d0382f1-6556-4094-a5bd-f692e302e540
 naia	TSC       	M	KEISR	Keiser                 	 West Palm Beach	FL		     	2984		KeiserUniversityM                      	bdc9f9f9-c735-467f-b710-e4a9420b292f
 naia	TSC       	M	 SCAD	SCAD (GA)              	        Savannah	GA		     	2130		SavannahCollArtDesignM                 	d03a3343-f58b-4363-bd6a-21e732e1a719
 naia	TSC       	M	STHOM	St. Thomas (FL)        	           Miami	FL		     	2499		StThomasUniversityM                    	0fb5ae1d-3ecd-4769-bf98-553833fee4ea
-naia	TSC       	W	AVEMA	Ave Maria              	       Ave Maria	FL		     	2040		                                       	29e29406-1026-4416-90ae-db8ca834d49c
+naia	TSC       	W	AVEMA	Ave Maria              	       Ave Maria	FL		     	2040		AveMariaUniversityW                    	29e29406-1026-4416-90ae-db8ca834d49c
 naia	TSC       	W	KEISR	Keiser                 	 West Palm Beach	FL		     	2985		KeiserUniversityW                      	08e8f460-ad27-4f3c-bdc0-c5767a73c0e3
 naia	TSC       	W	 SCAD	SCAD (GA)              	        Savannah	GA		     	2131		SavannahCollArtDesignW                 	36e71fca-448a-4991-8604-1dfd363d719a
 naia	TSC       	W	STHOM	St. Thomas (FL)        	           Miami	FL		     	2500		StThomasUniversityW                    	17d7ec80-0913-455d-b99e-51e258eeec25
