@@ -5,13 +5,13 @@ gender: women
 description: schedule/scoreboard from conference websites
 updated: 2022-01-20
 past: 95 (4%)
-today: 8 (0%)
+today: 7 (0%)
 future: 2183 (90%)
-completed: 81 (79%)
+completed: 82 (80%)
 postponed: 4 (4%)
 cancelled: 3 (3%)
-unreported: 15 (15%)
-total: 2424
+unreported: 13 (13%)
+total: 2423
 ---
 source	id	dateET	timeET	gender	rank	team	at	oppRank	opponent	outcome	score	neutral	conference	division	domain	dateGMT	tournament	timeZone	timeDisplay	location	facility	tv	radio	links
   MAAC	 72368	2021-09-17	10:30am	W	  	NIA  	at	  	BUFF 	L	0-7	 	 	d1     		2021-09-17T14:30Z		ET 	10:30 A.M.    	Buffalo, NY                                     				[Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgkA2dyMudS5StQjxUggv15DSytbkAePwvqa83wFR37NhJsRqR6GLkJjW1RtT9ecC8C4tKFIT%2bfi8fg71Xtg8bnAhNBVYq72tapAyjUMvwzzlw%3d%3d&path=wten)
@@ -114,9 +114,8 @@ Sthlnd	 41148	2022-01-19	 3:00pm	W	  	PVA&M	at	  	A&MCC	L	0-7	 	 	d1     		2022-
    ACC	 76190	2022-01-20	 1:00pm	W	24	MIA  	at	  	FGCU 	 	   	 	 	d1     		2022-01-20T18:00Z		   	1:00 P.M.     	Fort Myers, FL                                  				
    Ivy	 55064	2022-01-20	All Day	W	  	HARV 	at	  	ILL  	 	   	 	 	d1     		                 		ET 	All Day       	Urbana-Champaign, IL                            				
   SWAC	 37904	2022-01-20	 1:00pm	W	  	ALCN 	at	  	TULN 	 	   	 	 	d1     		2022-01-20T18:00Z		CT 	12:00 P.M.    	New Orleans, LA                                 				
- Amrcn	 36160	2022-01-20	 2:00pm	W	  	ALCN 	at	  	TULN 	 	   	 	 	d1     		2022-01-20T19:00Z		   	1:00 P.M.     	New Orleans, LA                                 				
+ Amrcn	 36160	2022-01-20	 2:00pm	W	  	ALCN 	at	  	TULN 	L	0-7	 	 	d1     		2022-01-20T19:00Z		   	1:00 P.M.     	New Orleans, LA                                 				
   SWAC	 37929	2022-01-20	 4:30pm	W	  	TULN 	at	  	ALCN 	 	   	 	 	d1     		2022-01-20T21:30Z		CT 	3:30 P.M.     	New Orleans, LA                                 				
- Amrcn	 36161	2022-01-20	 5:00pm	W	  	ALCN 	at	  	TULN 	 	   	 	 	d1     		2022-01-20T22:00Z		   	4:00 P.M.     	New Orleans, LA                                 				
    ACC	 76088	2022-01-21	 6:00pm	W	10	OSU  	at	 6	DUKE 	 	   	 	 	d1     		2022-01-21T23:00Z		ET 	6:00 P.M.     	Durham, N.C.                                    				
    ACC	 76187	2022-01-21	 3:00pm	W	  	RICH 	at	 7	UVA  	 	   	 	 	d1     		2022-01-21T20:00Z		   	3:00 P.M.     	Charlottesville, VA                             				
   Bg12	155099	2022-01-21	 6:00pm	W	  	SCAR 	at	18	OKLA 	 	   	 	 	d1     		2022-01-21T23:00Z		CT 	5:00 P.M.     	Norman, OK                                      				
@@ -663,7 +662,7 @@ Sthlnd	 41179	2022-02-11	 2:00pm	W	  	SELU 	at	  	SALA 	 	   	 	 	d1     		2022-
  Amrcn	 36047	2022-02-12	 1:00pm	W	11	UCF  	at	 7	UVA  	 	   	 	 	d1     		2022-02-12T18:00Z		   	12:00 P.M.    	Charlottesville, VA                             				
   Bg12	155042	2022-02-12	    TBA	W	13	A&M  	at	19	BAY  	 	   	 	 	d1     		                 		CT 	TBA           	Waco, TX                                        				
   Bg12	155105	2022-02-12	 1:00pm	W	  	AZST 	at	18	OKLA 	 	   	 	 	d1     		2022-02-12T18:00Z		CT 	12:00 P.M.    	Norman, OK                                      				
-  SWAC	 37928	2022-02-12	    TBA	W	  	ALCN 	at	  	LAMAR	 	   	 	 	d1     		                 		CT 	TBA           	Beaumont, TX                                    				
+  SWAC	 37909	2022-02-12	    TBA	W	  	ALCN 	at	  	LAMAR	 	   	 	 	d1     		                 		CT 	TBA           	Beaumont, TX                                    				
    ACC	 76130	2022-02-12	    TBA	W	  	CHAR 	at	  	VT   	 	   	 	 	d1     		                 		ET 	TBA           	Blacksburg, VA                                  				[Live Stats](/sports/2019/1/24/womens-tennis-live-stats.aspx)
   Ptrt	116621	2022-02-12	    TBA	W	  	COLG 	at	  	PROV 	 	   	 	 	d1     		                 		ET 	TBA           	Providence, RI                                  				
  C-USA	 66601	2022-02-12	    TBA	W	  	FAU  	at	  	KSU  	 	   	 	 	d1     		                 		ET 	TBA           	Manhattan, KS                                   				
@@ -2108,7 +2107,7 @@ Sthlnd	 41277	2022-04-09	 1:00pm	W	  	SELU 	at	  	UNO  	 	   	 	C	d1     		2022-
   Hrzn	 38846	2022-04-09	 3:00pm	W	  	UIC  	at	  	MILW 	 	   	 	C	d1     		2022-04-09T19:00Z		CT 	2:00 P.M.     	Milwaukee, WI                                   				
     MW	 68789	2022-04-09	 4:00pm	W	  	BOISE	at	  	UNM  	 	   	 	C	d1     		2022-04-09T20:00Z		MT 	2 p.m. MT     	Logan, UT                                       				
     MW	 68791	2022-04-09	 4:00pm	W	  	CSU  	at	  	UNLV 	 	   	 	C	d1     		2022-04-09T20:00Z		PT 	1 p.m. PT     	Las Vegas, NV                                   				
-  Bg12	155194	2022-04-10	 1:00pm	W	  	KSU  	at	 1	TEX  	 	   	 	C	d1     		2022-04-10T17:00Z		CT 	12:00 P.M.    	Austin, TX                                      				
+  Bg12	156078	2022-04-10	 1:00pm	W	  	KSU  	at	 1	TEX  	 	   	 	C	d1     		2022-04-10T17:00Z		CT 	12:00 P.M.    	Austin, TX                                      				
    ACC	 76022	2022-04-10	 1:00pm	W	12	GT   	at	 3	UNC  	 	   	 	C	d1     		2022-04-10T17:00Z		ET 	1:00 P.M.     	Chapel Hill                                     				[Live Stats](http://www.statbroadcast.com/events/statmonitr.php?gid=unc)
    ACC	 76096	2022-04-10	12:00pm	W	  	CLEM 	at	 6	DUKE 	 	   	 	C	d1     		2022-04-10T16:00Z		ET 	12:00 P.M.    	Durham, N.C.                                    				
    ACC	 75980	2022-04-10	 1:00pm	W	 8	NCST 	at	 7	UVA  	 	   	 	C	d1     		2022-04-10T17:00Z		   	1:00 P.M.     	Charlottesville, VA                             				
@@ -2210,8 +2209,8 @@ Sthlnd	 41278	2022-04-13	 3:30pm	W	  	USM  	at	  	UNO  	 	   	 	 	d1     		2022-
  SnBlt	 37381	2022-04-15	 3:00pm	W	  	TULN 	at	  	SALA 	 	   	 	 	d1     		2022-04-15T19:00Z		CT 	2:00 PM       	Mobile, AL                                      				
   Hrzn	 39281	2022-04-15	 3:00pm	W	  	UIC  	at	  	YSU  	 	   	 	C	d1     		2022-04-15T19:00Z		   	3:00 P.M.     	Youngstown, OH                                  				
     MW	 68811	2022-04-15	 4:00pm	W	  	BOISE	at	  	CSU  	 	   	 	C	d1     		2022-04-15T20:00Z		MT 	2 p.m. MT     	Laramie, WY                                     				
-  Hrzn	 39272	2022-04-15	 4:00pm	W	  	MILW 	at	  	CLEV 	 	   	 	C	d1     		2022-04-15T20:00Z		   	4:00 P.M.     	Cleveland, OH                                   				
  Amrcn	 36182	2022-04-15	 4:00pm	W	  	TULN 	at	  	SALA 	 	   	 	 	d1     		2022-04-15T20:00Z		   	3:00 P.M.     	Mobile, AL                                      				
+  Hrzn	 39272	2022-04-15	 5:00pm	W	  	MILW 	at	  	CLEV 	 	   	 	C	d1     		2022-04-15T21:00Z		   	5:00 P.M.     	Cleveland, OH                                   				
   Bg12	155058	2022-04-16	 3:00pm	W	 1	TEX  	at	19	BAY  	 	   	 	C	d1     		2022-04-16T19:00Z		CT 	2:00 P.M.     	Waco, TX                                        				
   Bg12	155152	2022-04-16	 4:00pm	W	 2	PEPP 	at	  	OKST 	 	   	 	 	d1     		2022-04-16T20:00Z		CT 	3:00 P.M.     	Stillwater, OK                                  				
  Amrcn	 36064	2022-04-16	 3:00pm	W	11	UCF  	at	  	USF  	 	   	 	 	d1     		2022-04-16T19:00Z		   	2:00 P.M.     	Tampa, FL                                       				
@@ -2246,8 +2245,8 @@ Sthlnd	 41278	2022-04-13	 3:30pm	W	  	USM  	at	  	UNO  	 	   	 	 	d1     		2022-
   Hrzn	 39282	2022-04-16	 2:00pm	W	  	UIC  	at	  	CLEV 	 	   	 	C	d1     		2022-04-16T18:00Z		   	2:00 P.M.     	Cleveland, OH                                   				
  C-USA	 66701	2022-04-16	 3:00pm	W	  	GRAM 	at	  	LT   	 	   	 	 	d1     		2022-04-16T19:00Z		CT 	2:00 P.M.     	Ruston, LA                                      				
  C-USA	 66757	2022-04-16	 3:00pm	W	  	JMU  	at	  	ODU  	 	   	 	 	d1     		2022-04-16T19:00Z		ET 	3:00 P.M.     	Norfolk, VA                                     				
-  Hrzn	 39276	2022-04-16	 3:00pm	W	  	MILW 	at	  	YSU  	 	   	 	C	d1     		2022-04-16T19:00Z		   	3:00 P.M.     	Youngstown, OH                                  				
   MAAC	 74855	2022-04-16	 3:00pm	W	  	MONM 	at	  	NIA  	 	   	 	C	d1     		2022-04-16T19:00Z		ET 	3:00 P.M.     	                                                				
+  Hrzn	 39276	2022-04-16	 4:00pm	W	  	MILW 	at	  	YSU  	 	   	 	C	d1     		2022-04-16T20:00Z		   	4:00 P.M.     	Youngstown, OH                                  				
  C-USA	 66775	2022-04-16	 4:00pm	W	  	RICE 	at	  	SMU  	 	   	 	 	d1     		2022-04-16T20:00Z		CT 	3:00 P.M.     	Dallas, TX                                      				
  C-USA	 66629	2022-04-16	 4:00pm	W	  	WVSU 	at	  	MRSH 	 	   	 	 	d2/d1  		2022-04-16T20:00Z		ET 	4:00 P.M.     	Huntington, WV                                  				
  BgSky	 48628	2022-04-16	 5:00pm	W	  	PRST 	at	  	NAU  	 	   	 	C	d1     		2022-04-16T21:00Z		MST	2:00 p.m. MST 	Flagstaff, AZ                                   				
