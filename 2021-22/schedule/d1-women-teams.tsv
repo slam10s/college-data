@@ -5,18 +5,18 @@ gender: women
 description: composite schedule/scoreboard
 updated: 2022-01-21
 past: 143 (4%)
-today: 45 (1%)
-future: 3204 (94%)
-completed: 120 (64%)
+today: 43 (1%)
+future: 3203 (95%)
+completed: 131 (70%)
 postponed: 10 (5%)
-cancelled: 10 (5%)
-unreported: 48 (26%)
+cancelled: 9 (5%)
+unreported: 36 (19%)
 sources:
-  Teams: 3071
-  ITA: 196
-  Conferences: 125
+  Teams: 3060
+  ITA: 199
+  Conferences: 130
 itaIds: 1658
-total: 3392
+total: 3389
 ---
 source	id	dateET	timeET	gender	rank	team	at	oppRank	opponent	outcome	score	neutral	conference	division	dateGMT	itaId	tournament	location	facility	links
  MIZZ	 23627	2021-09-11	       	W	  	MIZZ 	at	  	UTM  	W	7-0	 	 	d1     	                 	0f007a71-708f-438b-b61f-06c19fd2af51		Martin, TN		[Recap](/news/2021/9/11/Tennis_Match_1.aspx) [Box Score (PDF)](https://utm_ftp.sidearmsports.com/custompages/stats/WTennis/21-22/G1-MIZ.pdf)
@@ -140,7 +140,7 @@ DRAKE	 12393	2022-01-16	 5:00pm	W	  	DRAKE	at	  	IOWA 	L	1-6	 	 	d1     	2022-01
  MINN	 19437	2022-01-17	 8:00am	W	  	FAU  	vs	  	MINN 	L	2-5	N	 	d1     	2022-01-17T13:00Z	01fe0ebc-695c-4f07-b436-7e80e23b8c89	Florida Gulf Coast Hidden Dual	Fort Myers, FL		[Box Score](/sports/womens-tennis/stats/2021-22/florida-atlantic/boxscore/19437) [Recap](/news/2022/1/17/tennis-gophers-finish-unbeaten-in-florida.aspx)
  GAST	  8209	2022-01-17	 8:00am	W	  	GAST 	vs	  	MTSU 	L	1-4	N	 	d1     	2022-01-17T13:00Z	9741810a-a8b8-4ec8-963c-b15a3cb701ec		Fort Myers, FL		[Box Score](/sports/womens-tennis/stats/2021-22/middle-tennessee/boxscore/8209) [Recap](/news/2022/1/17/womens-tennis-womens-tennis-falls-to-middle-tennessee-4-1.aspx)
   FUR	  7713	2022-01-17	11:00am	W	  	JMU  	at	  	FUR  	P	   	 	 	d1     	2022-01-17T16:00Z	                                    		GREENVILLE		
-MCN T	 11407	2022-01-17	11:00am	W	  	MCN T	vs	  	TARL 	L	0-7	N	 	d1     	2022-01-17T16:00Z	                                    		College Station, TX		[Box Score](/sports/womens-tennis/stats/2022/tarleton-state/boxscore/11407) [Recap](/news/2022/1/17/womens-tennis-wten-cowgirls-fall-to-tarleton-state.aspx)
+MCN T	 11407	2022-01-17	11:00am	W	  	MCN T	vs	  	TARL 	L	0-7	N	 	d1     	2022-01-17T16:00Z	da3eab92-6e2b-4a7f-8ad2-d46206d3cc29		College Station, TX		[Box Score](/sports/womens-tennis/stats/2022/tarleton-state/boxscore/11407) [Recap](/news/2022/1/17/womens-tennis-wten-cowgirls-fall-to-tarleton-state.aspx)
  BELL	  6790	2022-01-17	 1:00pm	W	  	WKU  	at	  	BELL 	W	5-2	 	 	d1     	2022-01-17T18:00Z	bb0865f2-18be-4101-836e-c77eaaabba07		Louisville, KY	Eddie Weber Tennis Complex	[Box Score](/sports/womens-tennis/stats/2021-22/western-kentucky-university/boxscore/6790) [Recap](/news/2022/1/17/womens-tennis-devillez-tikhonko-take-singles-wins-but-knights-fall-to-western-kentucky-in-opener.aspx)
  AZST	 29294	2022-01-17	 2:00pm	W	  	NAU  	at	  	AZST 	L	0-7	 	 	d1     	2022-01-17T19:00Z	446cc264-a560-45ef-8bdf-edc1b6f522d3		Tempe, AZ		[Box Score](/sports/womens-tennis/stats/2021-22/northern-arizona/boxscore/29294) [Recap](/news/2022/1/17/womens-tennis-sun-devils-sweep-lumberjacks-in-season-opener.aspx) [Results](/documents/2022/1/17/wasunau.pdf)
   ILL	 23617	2022-01-17	 3:00pm	W	  	BYU  	vs	  	ILL  	L	2-5	N	 	d1     	2022-01-17T20:00Z	29ca643b-5959-417d-9d77-ad38cb010cf8	Bella the Ball Collegiate Invitational	Las Vegas, NV		[Recap](/news/2022/1/17/womens-tennis-illini-bounce-back-with-5-2-win-over-byu.aspx) [Box Score (PDF)](/documents/2022/1/17/ILL_BYU.pdf)
@@ -164,36 +164,34 @@ PVA&M	  6390	2022-01-19	 4:00pm	W	  	PVA&M	  	  	A&MCC	L	0-7	 	 	d1     	2022-01
   ILL	 23618	2022-01-20	 6:00pm	W	  	HARV 	at	  	ILL  	L	0-7	 	 	d1     	2022-01-20T23:00Z	9350c24c-54e6-46e8-8bff-7015afdfce89		Urbana, IL	[Atkins Tennis Center](/facilities/?id=17)	[Recap](/news/2022/1/20/womens-tennis-illini-sweep-harvard-7-0-in-home-opener.aspx) [Box Score (PDF)](/documents/2022/1/20/Harvard_012022.pdf)
  LOYM	 14554	2022-01-21	       	W	  	LOYM 	at	 5	UCLA 	P	   	 	 	d1     	                 	                                    		Los Angeles, CA		
  DUKE	 20367	2022-01-21	 6:00pm	W	10	OSU  	at	 6	DUKE 	 	   	 	 	d1     	2022-01-21T23:00Z	ea39eb27-1491-4c55-8a0c-230ce6edb401		Durham, NC		[Preview](/news/2022/1/20/womens-tennis-blue-devils-host-ohio-state-princeton-during-home-opening-weekend.aspx) [Live Stats](http://sidearmstats.com/duke/wten/) [Program](https://goduke.com/publications/duke-ohio-state-princeton-wten)
- RICH	  8984	2022-01-21	 3:00pm	W	  	RICH 	at	 7	UVA  	 	   	 	 	d1     	2022-01-21T20:00Z	3ec45029-8648-4342-8ee7-0ab0deecae4d		Charlottesville, VA		[Watch](https://virginiasports.com/womens-live-tennis-video/) [Live Stats](http://stats.statbroadcast.com/broadcast/?id=381663) [History](/sports/womens-tennis/opponent-history/university-of-virginia/127)
+  ITA	 26003	2022-01-21	 3:00pm	W	  	RICH 	at	 7	UVA  	L	0-7	 	 	d1     	2022-01-21T20:00Z	3ec45029-8648-4342-8ee7-0ab0deecae4d				
   CAL	 33172	2022-01-21	 4:30pm	W	 9	CAL  	at	  	UCSB 	 	   	 	 	d1     	2022-01-21T21:30Z	eb8f69fd-ad33-4b7c-9744-1f5602960416		Santa Barbara, CA		[Preview](/news/2022/1/18/womens-tennis-no-9-cal-starts-dual-match-season-in-socal.aspx)
  SCAR	 16699	2022-01-21	 6:00pm	W	  	SCAR 	at	18	OKLA 	 	   	 	 	d1     	2022-01-21T23:00Z	ae75cc92-e906-4648-bb3f-1389ac9ef65a		Norman, OK		[Watch](https://web.playsight.com/live/the-university-of-oklahoma/106) [Live Stats](http://stats.statbroadcast.com/statmonitr/?id=382939) [Preview](/news/2022/1/20/womens-tennis-south-carolina-prepped-for-weekend-in-oklahoma.aspx) [History](/sports/womens-tennis/opponent-history/university-of-oklahoma/133)
  TENN	 22466	2022-01-21	12:00pm	W	22	TENN 	at	  	CHAR 	 	   	 	 	d1     	2022-01-21T17:00Z	68405576-53e4-47ca-9795-092edeaf4a90		Charlotte, NC		[Preview](/news/2022/1/20/womens-tennis-womens-tennis-central-22-tennessee-at-charlotte.aspx)
  BUTL	 12439	2022-01-21	 4:00pm	W	24	MIA  	at	  	BUTL 	 	   	 	 	d1     	2022-01-21T21:00Z	                                    		Indianapolis, IN		[History](/sports/womens-tennis/opponent-history/miami-university-oh-/165)
  JVST	  6500	2022-01-21	    TBA	W	  	JVST 	at	  	CHAT 	 	   	 	 	d1     	                 	                                    		Chattanooga, TN		[Preview](/news/2022/1/20/mens-tennis-jsu-tennis-faces-chattanooga-friday.aspx)
-  CIN	  7979	2022-01-21	11:00am	W	  	CIN  	at	  	LOU  	 	   	 	 	d1     	2022-01-21T16:00Z	f29f33ac-2219-41a9-a408-fa9acb03efbb		Louisville, KY		[Preview](/news/2022/1/20/womens-tennis-bearcats-set-for-trip-to-louisville.aspx) [History](/sports/womens-tennis/opponent-history/university-of-louisville/31)
+BgSky	 48578	2022-01-21	    TBA	W	  	MTST 	at	  	IWORD	L	3-4	 	 	d1     	                 	                                    		San Antonio, TX		[Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgkIHE1IKaA3WBUqC93kXXY4AMBU%2fhLLBzhdQBQaS2QuiqEhTfC8sLJ5InEOFATX6oEnTsgqNyfTJE2vSWz4a%2bms&path=wten)
 DRAKE	 12394	2022-01-21	11:00am	W	  	DRAKE	at	  	MINN 	 	   	 	 	d1     	2022-01-21T16:00Z	                                    		Minneapolis, MN		[History](/sports/womens-tennis/opponent-history/university-of-minnesota/59)
- STET	 14068	2022-01-21	11:00am	W	  	MER  	at	  	STET 	 	   	 	 	d1     	2022-01-21T16:00Z	770687d7-4a1c-43f7-b5dc-bb0d35adca1b		DeLand, FL	[Mandy Stoll Tennis Center](/facilities/?id=4)	[Live Stats](http://sidearmstats.com/stetson/tennis/xlive.htm) [Preview](/news/2022/1/20/womens-tennis-hatters-set-for-spring-2022-home-opener.aspx) [Live Stream Court 1](https://www.facebook.com/StetsonWTENNISctOne) [Live Stream Court 2](https://www.facebook.com/StetsonWTENNISctTwo) [Live Stream Court 3](https://www.facebook.com/StetsonWTENNISctThree) [History](/sports/womens-tennis/opponent-history/mercer-university/120)
+  ITA	 84673	2022-01-21	11:00am	W	  	MER  	at	  	STET 	L	1-6	 	 	d1     	2022-01-21T16:00Z	770687d7-4a1c-43f7-b5dc-bb0d35adca1b				
 MIAOH	 16841	2022-01-21	11:00am	W	  	MIAOH	at	  	INDI 	 	   	 	 	d1/d2  	2022-01-21T16:00Z	a9125e8b-c622-403b-a78c-ea801942c12d		Indianapolis, IN		[History](/sports/womens-tennis/opponent-history/university-of-indianapolis/397)
 IUPUI	 15224	2022-01-21	11:30am	W	  	BELL 	at	  	IUPUI	 	   	 	 	d1     	2022-01-21T16:30Z	39e5a34e-6f99-4a4e-8d80-cf1d73f7d6f7		Indianapolis, IN	[West Indy Racquet Club](/facilities/?id=5)	[Preview](/news/2022/1/20/womens-tennis-womens-tennis-hosts-bellarmine-friday.aspx) [History](/sports/womens-tennis/opponent-history/bellarmine-university/136)
+ Hrzn	 38809	2022-01-21	11:30am	W	  	COLO 	at	  	IUPUI	L	2-5	 	 	d1     	2022-01-21T16:30Z	                                    		Indianapolis, IN		[Box Score](/boxscore.aspx?id=FbRduNu%2bdhyjW32HlAV%2bTeQA%2bHpHM8%2bbRQZ%2fIKNpt6TKn4%2bcaqX114xrEhHzh8NpnstzlWYa3e%2f0zF2eiaLCSUVHAZeDPTxuRJjctcBfwVc%3d&path=wten)
  MTSU	  8765	2022-01-21	11:30am	W	  	MTSU 	at	  	VANDY	 	   	 	 	d1     	2022-01-21T16:30Z	b18247b9-1658-41a8-b9f3-d4d29ce9a6ea		Nashville, TN	[Currey Tennis Center](https://vucommodores.com/currey-tennis-center-hours/)	[Preview](/news/2022/1/20/womens-tennis-blue-raiders-return-to-take-on-regional-rivals-vanderbilt-and-belmont.aspx) [History](/sports/womens-tennis/opponent-history/vanderbilt-university/76)
+Amrcn	 36779	2022-01-21	12:00pm	W	  	CIN  	at	  	LOU  	L	2-5	 	 	d1     	2022-01-21T17:00Z	                                    		Louisville, KY		
   ITA	 67796	2022-01-21	12:00pm	W	  	PVA&M	at	  	SHSU 	 	   	 	 	d1     	2022-01-21T17:00Z	56d4ef28-ae6a-4baa-96af-3dc8329d8cfb				
- WAST	 14976	2022-01-21	 1:00pm	W	  	BYU  	at	  	WAST 	 	   	 	 	d1     	2022-01-21T18:00Z	                                    		Pullman, WA		[Watch](http://pac-12.com/live/washington-state-university) [Live Stats](https://www.statbroadcast.com/events/statmonitr.php?gid=wast) [Preview](/news/2022/1/20/tennis-cougars-open-its-dual-match-season-hosting-byu-friday.aspx) [History](/sports/womens-tennis/opponent-history/brigham-young-university/56)
+  ITA	  4780	2022-01-21	 1:00pm	W	  	BYU  	at	  	WAST 	L	1-6	 	 	d1     	2022-01-21T18:00Z	3d09b228-6c00-48fb-b2b5-36e6ddd8259b				
  KENN	  9551	2022-01-21	 1:00pm	W	  	KENN 	at	  	UNCG 	P	   	 	 	d1     	2022-01-21T18:00Z	                                    		Greensboro, NC		
   ITA	 34290	2022-01-21	 1:00pm	W	  	LAN  	at	  	PRES 	 	   	 	 	d2/d1  	2022-01-21T18:00Z	11e5c845-8d82-4996-85c7-874a3651fe0c				
- UTEP	 10599	2022-01-21	 1:00pm	W	  	UTEP 	at	  	TTU  	 	   	 	 	d1     	2022-01-21T18:00Z	                                    		Lubbock, TX		[Preview](/news/2022/1/20/womens-tennis-utep-tennis-opens-spring-season-at-texas-tech-friday-vs-wnmu-sunday.aspx) [History](/sports/womens-tennis/opponent-history/texas-tech-university/121)
- COLO	 15751	2022-01-21	 1:30pm	W	  	COLO 	at	  	IUPUI	C	   	 	 	d1     	2022-01-21T18:30Z	                                    		Indianapolis, IN		
-  CSU	 16326	2022-01-21	 2:00pm	W	  	CSU  	vs	  	NMSU 	 	   	N	 	d1     	2022-01-21T19:00Z	                                    		Phoenix, AZ		[Preview](/news/2022/1/19/womens-tennis-rams-kickoff-dual-season-with-pair-in-arizona.aspx)
+   MW	 68633	2022-01-21	 2:00pm	W	  	CSU  	vs	  	NMSU 	W	6-1	N	 	d1     	2022-01-21T19:00Z	                                    		Phoenix, AZ		[Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgkjJ9oro%2b9E4X8NB28LVoC%2bgAlgU76oR1UhMCXE%2f%2fagZwF3hYCd4YvDjNsRe%2f%2fUsoh3qCHYXpsHePSTu3ImlzKr&path=wten)
  ILST	 18085	2022-01-21	 2:00pm	W	  	ILST 	at	  	UND  	 	   	 	 	d1     	2022-01-21T19:00Z	045c67cf-0b1b-49b9-9236-378729b7588d		Urbandale, IA		[Preview](/news/2022/1/20/womens-tennis-redbirds-set-to-open-spring-in-iowa-with-pair-of-matches.aspx)
-TULSA	 14493	2022-01-21	 2:00pm	W	  	KAN  	at	  	TULSA	 	   	 	 	d1     	2022-01-21T19:00Z	7194e139-0c7d-47aa-b0eb-729cd6e15928		Tulsa, OK		[Preview](/news/2022/1/19/womens-tennis-tulsa-womens-tennis-to-host-kansas-friday.aspx) [History](/sports/womens-tennis/opponent-history/university-of-kansas/73)
+  ITA	 18100	2022-01-21	 2:00pm	W	  	KAN  	at	  	TULSA	L	2-5	 	 	d1     	2022-01-21T19:00Z	7194e139-0c7d-47aa-b0eb-729cd6e15928				
  MISS	 12596	2022-01-21	 2:00pm	W	  	MEM  	at	  	MISS 	P	   	 	 	d1     	2022-01-21T19:00Z	                                    		Oxford, MS		
-IWORD	  5714	2022-01-21	 2:00pm	W	  	MTST 	at	  	IWORD	 	   	 	 	d1     	2022-01-21T19:00Z	                                    		San Antonio, TX	Mabry Tennis Center	[History](/sports/womens-tennis/opponent-history/montana-state-university/283)
+C-USA	 66850	2022-01-21	 2:00pm	W	  	UTEP 	at	  	TTU  	L	5-0	 	 	d1     	2022-01-21T19:00Z	                                    		Lubbock, TX		
  BRAD	 21006	2022-01-21	 2:30pm	W	  	BRAD 	at	  	DEP  	 	   	 	 	d1     	2022-01-21T19:30Z	d5e0b9eb-7acb-4845-a0af-2f828f1a9399		Chicago, IL	[XS Tennis Village](https://www.xstennis.org/tennis-at-xs#xs-tennis-village)	[Live Stats](https://bradleybraves.com/sports/2021/2/1/bradley-tennis-live-scoring.aspx)
 OMAHA	 17500	2022-01-21	 2:30pm	W	  	MNKTO	at	  	OMAHA	 	   	 	 	d2/d1  	2022-01-21T19:30Z	2040de15-e03b-4a47-ae57-22ca621557dd		Omaha, NE	[MIRACLE HILL TENNIS CENTER](/facilities/?id=7)	
  MARQ	  9009	2022-01-21	 3:00pm	W	  	CHIC 	at	  	MARQ 	 	   	 	 	d1     	2022-01-21T20:00Z	ce68174a-de0a-45e2-a294-0609440a36bf		Milwaukee, WI	[Helfaer Tennis & Recreation Center](/facilities/?id=5)	[Live Stats](https://sidearmstats.com/marquette/wten/) [History](/sports/womens-tennis/opponent-history/chicago-state-university/31)
-  ITA	  1804	2022-01-21	 3:00pm	W	  	LAMAR	at	  	RICE 	 	   	 	 	d1     	2022-01-21T20:00Z	71da4a92-4c11-43a8-a97c-66f319329229				
-  TEM	 10901	2022-01-21	 3:00pm	W	  	TEM  	at	  	VCU  	 	   	 	 	d1     	2022-01-21T20:00Z	6b0fcd62-42ec-4900-94d5-be32750a0aac		Richmond, VA		[Preview](/news/2022/1/19/womens-tennis-womens-tennis-set-to-open-season-at-vcu.aspx)
- FRES	 16953	2022-01-21	 3:30pm	W	  	FRES 	at	  	UCSD 	 	   	 	 	d1     	2022-01-21T20:30Z	                                    		La Jolla, CA		[Preview](/news/2022/1/20/womens-tennis-preview.aspx)
-Amrcn	 36067	2022-01-21	 4:00pm	W	  	ECAR 	at	  	VCU  	 	   	 	 	d1     	2022-01-21T21:00Z	                                    		Richmond, VA		
+  ITA	 11904	2022-01-21	 3:00pm	W	  	TEM  	at	  	VCU  	L	2-5	 	 	d1     	2022-01-21T20:00Z	6b0fcd62-42ec-4900-94d5-be32750a0aac				
+   MW	 68634	2022-01-21	 3:30pm	W	  	FRES 	at	  	UCSD 	W	7-0	 	 	d1     	2022-01-21T20:30Z	                                    		La Jolla, CA		
 MIAOH	 16842	2022-01-21	 4:00pm	W	  	MIAOH	at	  	BUTL 	 	   	 	 	d1     	2022-01-21T21:00Z	19862a94-b709-4ad2-87c6-4a2b0c06abaf		Indianapolis, IN		[History](/sports/womens-tennis/opponent-history/butler-university/19)
  MTSU	  8766	2022-01-21	 4:00pm	W	  	MTSU 	at	  	BEL  	 	   	 	 	d1     	2022-01-21T21:00Z	fc571244-31f5-46ad-add8-8cf8f1967a35		Nashville, TN	[Hadley Park Tennis Center](https://www.nashville.gov/departments/parks/community-centers-and-recreation/regional-recreation-centers/hadley/tennis)	[Preview](/news/2022/1/20/womens-tennis-blue-raiders-return-to-take-on-regional-rivals-vanderbilt-and-belmont.aspx) [History](/sports/womens-tennis/opponent-history/belmont-university/20)
   ITA	 84127	2022-01-21	 4:00pm	W	  	PVA&M	at	  	SHSU 	 	   	 	 	d1     	2022-01-21T21:00Z	95b75e57-6625-4887-b885-317d8da7c11e				
@@ -229,7 +227,6 @@ TX ST	  8158	2022-01-22	 5:30pm	W	  	TX ST	at	13	A&M  	 	   	 	 	d1     	2022-01
  PEAY	 10613	2022-01-22	10:00am	W	  	PEAY 	at	  	UCA  	 	   	 	 	d1     	2022-01-22T15:00Z	                                    		North Little Rock, AR		[History](/sports/womens-tennis/opponent-history/university-of-central-arkansas/65)
 BROWN	 11407	2022-01-22	11:00am	W	  	BROWN	at	  	SYR  	 	   	 	 	d1     	2022-01-22T16:00Z	                                    		Syracuse, NY		[Watch](https://www.espn.com/watch/player?id=e8db5c06-7155-43b3-ae85-0f29b4460dfe)
  MINN	 19395	2022-01-22	11:00am	W	  	DRAKE	at	  	MINN 	 	   	 	 	d1     	2022-01-22T16:00Z	024ae56a-e2e5-44c7-806f-b15a75fe4ed9			[Baseline Tennis Center](http://www.baselinetc.com/)	[Watch](https://gophersports.com/sports/2018/5/21/sports-w-tennis-spec-rel-live-video-html.aspx) [Live Scoring](http://www.sidearmstats.com/minnesota/wten/) [Preview](/news/2022/1/20/tennis-gophers-take-on-drake-and-marquette-in-home-opening-weekend.aspx)
-Amrcn	 36068	2022-01-22	11:00am	W	  	ECAR 	at	  	TEM  	 	   	 	 	d1     	2022-01-22T16:00Z	                                    		Richmond, VA		
   MSU	 16184	2022-01-22	11:00am	W	  	MSU  	at	  	ND   	 	   	 	 	d1     	2022-01-22T16:00Z	6a9fa33d-6d25-4340-8213-8b35b3a0ef99		South Bend, IN		[Watch](http://und.com/tennisstream) [Live Stats](http://statb.us/b/382676) [Preview](/news/2022/1/21/womens-tennis-womens-tennis-opens-spring-slate-at-notre-dame.aspx)
  NAVY	 21889	2022-01-22	11:00am	W	  	SBU  	at	  	NAVY 	 	   	 	 	d1     	2022-01-22T16:00Z	                                    		Annapolis, MD		[Live Results](https://ioncourt.com/ties/61e3b1aff95845bb76e02204) [Preview](/news/2022/1/21/womens-tennis-mids-to-open-dual-season-saturday-against-saint-francis-and-st-bonaventure.aspx) [History](/sports/womens-tennis/opponent-history/st-bonaventure-university/280)
  SDAK	  7739	2022-01-22	11:00am	W	  	SDAK 	at	  	KSU  	 	   	 	 	d1     	2022-01-22T16:00Z	735e5990-d3d8-4f7d-bb04-aee849048d5b		Manhattan, KS		[Live Results](https://sidearmstats.com/kstate/wten/xlive.htm)
@@ -349,7 +346,7 @@ C-USA	 67690	2022-01-23	 3:00pm	W	  	BELL 	at	  	WKU  	 	   	 	 	d1     	2022-01
   FAU	 19705	2022-01-25	11:00am	W	  	FAU  	at	24	MIA  	 	   	 	 	d1     	2022-01-25T16:00Z	7d1ee866-650d-45f5-841a-b818a5781e6c		Coral Gables, FL		[History](/sports/womens-tennis/opponent-history/university-of-miami/123)
  SWAC	 38011	2022-01-25	All Day	W	  	PVA&M	at	  	A&MCC	 	   	 	 	d1     	                 	                                    		Corpus Christi, TX		
 BROWN	 11408	2022-01-25	12:00pm	W	  	BROWN	at	  	BC   	 	   	 	 	d1     	2022-01-25T17:00Z	f1d4bf18-de3f-4844-a011-a0d913720787		Chestnut Hill, MA		
-LAMAR	 21329	2022-01-25	 3:00pm	W	  	LAMAR	at	  	RICE 	 	   	 	 	d1     	2022-01-25T20:00Z	                                    		Houston, TX		[History](/sports/womens-tennis/opponent-history/rice-university/26)
+LAMAR	 21329	2022-01-25	 3:00pm	W	  	LAMAR	at	  	RICE 	 	   	 	 	d1     	2022-01-25T20:00Z	87e071cc-7e18-402c-a3c5-cb9438cde021		Houston, TX		[History](/sports/womens-tennis/opponent-history/rice-university/26)
   CRE	 14644	2022-01-25	 6:00pm	W	  	CRE  	at	  	NEB  	 	   	 	 	d1     	2022-01-25T23:00Z	3fb6dd2e-f5f7-45fb-aaf2-ad4166f46be3		Lincoln, NE		[History](/sports/womens-tennis/opponent-history/university-of-nebraska/33)
  LOYM	 14152	2022-01-26	 4:30pm	W	  	LOYM 	at	 5	UCLA 	 	   	 	 	d1     	2022-01-26T21:30Z	                                    		Los Angeles, CA		[History](/sports/womens-tennis/opponent-history/ucla/7)
  FGCU	 10876	2022-01-26	10:00am	W	  	AVEMA	at	  	FGCU 	 	   	 	 	naia/d1	2022-01-26T15:00Z	                                    		Fort Myers, FL	[FGCU Tennis Complex](/facilities/?id=6)	[History](/sports/womens-tennis/opponent-history/ave-maria-university/6)
@@ -1046,7 +1043,7 @@ LAMAR	 21338	2022-02-16	 3:30pm	W	  	LAMAR	at	  	ULLAF	 	   	 	 	d1     	2022-02
  GRAM	  5634	2022-02-17	    TBA	W	  	GRAM 	vs	  	MVSU 	 	   	N	 	d1     	                 	                                    		Jackson, MS		[History](/sports/womens-tennis/opponent-history/mississippi-valley-state/19)
  RICH	  8991	2022-02-17	 2:00pm	W	  	RICH 	at	  	VCU  	 	   	 	C	d1     	2022-02-17T19:00Z	46d6cbf7-252d-4b43-a1e2-70b958497a2e		Richmond, VA		[History](/sports/womens-tennis/opponent-history/virginia-commonwealth-university/178)
  TROY	  9090	2022-02-17	 2:00pm	W	  	TROY 	at	  	UNA  	 	   	 	 	d1     	2022-02-17T19:00Z	                                    		Florence, AL		[History](/sports/womens-tennis/opponent-history/university-of-north-alabama/277)
-  ITA	   308	2022-02-17	 2:00pm	W	  	USFIL	at	  	W ILL	 	   	 	 	naia/d1	2022-02-17T19:00Z	923fbd7c-a34b-4c2e-89df-41ce83622fb3				
+ Smmt	 58223	2022-02-17	 2:00pm	W	  	USFIL	vs	  	W ILL	 	   	N	 	naia/d1	2022-02-17T19:00Z	                                    		Galesburg, IL		
  ALST	  9447	2022-02-17	 2:00pm	W	  	W AL 	at	  	ALST 	 	   	 	 	d2/d1  	2022-02-17T19:00Z	                                    		Montgomery, AL		[History](/sports/womens-tennis/opponent-history/university-of-west-alabama/48)
   AFA	 14512	2022-02-17	 3:00pm	W	  	AFA  	vs	  	ROL  	 	   	N	 	d1/d2  	2022-02-17T20:00Z	54d664f4-6d73-4a85-a08a-00f2322c5d9c		Orlando, FL	USTA Center	
   SOU	  5423	2022-02-17	 3:00pm	W	  	BCOOK	vs	  	SOU  	 	   	N	C	d1     	2022-02-17T20:00Z	                                    	SWAC TENNIS ROUNDUP	Jackson, MS		[History](/sports/womens-tennis/opponent-history/bethune-cookman-university/24)
