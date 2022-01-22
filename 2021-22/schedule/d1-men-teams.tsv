@@ -4,20 +4,20 @@ division: d1
 gender: men
 description: composite schedule/scoreboard
 updated: 2022-01-21
-past: 179 (7%)
+past: 178 (7%)
 today: 46 (2%)
-future: 2406 (91%)
-completed: 134 (60%)
-postponed: 30 (13%)
+future: 2409 (91%)
+completed: 147 (66%)
+postponed: 29 (13%)
 cancelled: 17 (8%)
 rescheduled: 1 (0%)
-unreported: 43 (19%)
+unreported: 30 (13%)
 sources:
-  Teams: 2329
-  Conferences: 155
-  ITA: 147
-itaIds: 1332
-total: 2631
+  Teams: 2314
+  Conferences: 160
+  ITA: 159
+itaIds: 1343
+total: 2633
 ---
 source	id	dateET	timeET	gender	rank	team	at	oppRank	opponent	outcome	score	neutral	conference	division	dateGMT	itaId	tournament	location	facility	links
     HC	  9527	2021-09-10	 3:30pm	M	  	FPC  	at	  	HC   	W	5-2	 	 	d2/d1  	2021-09-10T19:30Z	97f173d6-3277-4d06-a68e-4ab4523dd9ef		Worcester, MA	[Sinnott Family Tennis Facility](/facilities/?id=13)	[Recap](/news/2021/9/10/mens-tennis-crusaders-fall-to-franklin-pierce.aspx) [Final Results](/documents/2021/9/10/HCMT01.pdf)
@@ -116,7 +116,6 @@ source	id	dateET	timeET	gender	rank	team	at	oppRank	opponent	outcome	score	neutr
   SDSU	 14211	2022-01-15	 5:00pm	M	  	SDCHR	at	  	SDSU 	P	   	 	 	naia/d1	2022-01-15T22:00Z	                                    		Aztec Tennis Center		
   FGCU	 10688	2022-01-15	 5:00pm	M	  	TROY 	at	  	FGCU 	L	3-4	 	 	d1     	2022-01-15T22:00Z	448431b6-fcb1-4fef-b42e-9b296a08bd64		Fort Myers, FL	[FGCU Tennis Complex](/facilities/?id=6)	[Box Score](/sports/mens-tennis/stats/2021-22/troy/boxscore/10688) [Recap](/news/2022/1/15/mens-tennis-takes-down-troy-in-thrilling-match.aspx)
   WASH	 20335	2022-01-15	 5:00pm	M	  	UCSB 	at	  	WASH 	P	   	 	 	d1     	2022-01-15T22:00Z	                                    		Seattle, WA		
-   WOF	  8674	2022-01-15	 5:00pm	M	  	WOF  	at	  	CLEM 	P	   	 	 	d1     	2022-01-15T22:00Z	                                    		Clemson, SC		
    UNA	  3586	2022-01-15	 5:30pm	M	  	UNA  	at	  	AUB  	L	0-7	 	 	d1     	2022-01-15T22:30Z	c5a70312-1b65-4f41-a792-78552af732fc		Auburn, AL		[Box Score](/sports/mens-tennis/stats/2021-22/auburn/boxscore/3586) [Recap](/news/2022/1/15/mens-tennis-mens-tennis-falls-at-auburn.aspx)
   ILST	 18122	2022-01-15	 6:00pm	M	  	DEP  	vs	  	ILST 	W	4-3	N	 	d1     	2022-01-15T23:00Z	4ab3e496-d5ff-4465-89f6-e2564d2ceb1b		West Point, NY		[Recap](/news/2022/1/15/mens-tennis-first-two-matches-in-the-books-on-day-1-at-arthur-ashe-invite.aspx)
  TULSA	 14512	2022-01-15	 7:00pm	M	  	CAL  	at	  	TULSA	W	4-3	 	 	d1     	2022-01-16T00:00Z	004a69c9-8044-436a-86dc-965f50773987		Tulsa, OK		[Recap](/news/2022/1/15/mens-tennis-tulsa-drops-spring-opener-to-cal.aspx) [TU-Cal Box Score](/documents/2022/1/20/TU_Cal_Box_Score.pdf)
@@ -199,45 +198,45 @@ source	id	dateET	timeET	gender	rank	team	at	oppRank	opponent	outcome	score	neutr
   TULN	 19579	2022-01-20	 4:00pm	M	  	ALCN 	at	  	TULN 	C	   	 	 	d1     	2022-01-20T21:00Z	                                    	Alcorn State Doubleheader	NEW ORLEANS	[City Park Tennis Center](/facilities/?id=1)	
    ITA	 36241	2022-01-20	 5:00pm	M	  	QUIN 	at	  	BROWN	L	0-7	 	 	d1     	2022-01-20T22:00Z	aa8b7a0c-4a51-435b-9e9e-b7937f3a48f3				
   NCST	 22078	2022-01-20	 6:00pm	M	  	CAMP 	at	  	NCST 	L	0-7	 	 	d1     	2022-01-20T23:00Z	c677a360-c56b-4579-9095-25cdd15abc7c		Raleigh, NC	[J.W. Isenhour Tennis Center](/facilities/?id=27)	[Recap](/news/2022/1/20/mens-tennis-defeats-princeton-and-campbell-in-season-opening-matches.aspx) [Box Score (PDF)](/documents/2022/1/20/ST2.pdf)
-  ARIZ	 26064	2022-01-21	 3:30pm	M	 5	TEX  	at	14	ARIZ 	 	   	 	 	d1     	2022-01-21T20:30Z	3f7f4625-00c6-4c5e-8da3-b9ae9d37168c		Tucson, AZ		[Preview](/news/2022/1/19/mens-tennis-arizona-hosts-second-home-match.aspx) [History](/sports/mens-tennis/opponent-history/university-of-texas/144)
+   ITA	 73361	2022-01-21	 4:00pm	M	 5	TEX  	at	14	ARIZ 	L	0-3	 	 	d1     	2022-01-21T21:00Z	3f7f4625-00c6-4c5e-8da3-b9ae9d37168c				
    USC	 30052	2022-01-21	 1:00pm	M	  	UCD  	at	 9	USC  	 	   	 	 	d1     	2022-01-21T18:00Z	271060ac-2183-484a-b455-64af60fcd99b		Los Angeles, CA	[David X. Marks Tennis Stadium](/facilities/?id=9)	[LIVE SCORES & VIDEO](https://usctrojans.com/sports/2020/2/19/usc-trojans-m-tennis-live-scoreboard-video-david-marks-stadium.aspx) [Preview](/news/2022/1/20/no-9-usc-mens-tennis-opens-dual-match-play-at-marks-stadium.aspx)
    USC	 30051	2022-01-21	 5:00pm	M	  	CMS  	at	 9	USC  	 	   	 	 	d3/d1  	2022-01-21T22:00Z	23d93813-34bc-411a-bf73-c5230c7739b1		Los Angeles, CA	[David X. Marks Tennis Stadium](/facilities/?id=9)	[LIVE SCORES & VIDEO](https://usctrojans.com/sports/2020/2/19/usc-trojans-m-tennis-live-scoreboard-video-david-marks-stadium.aspx) [Preview](/news/2022/1/20/no-9-usc-mens-tennis-opens-dual-match-play-at-marks-stadium.aspx)
-   LOU	 23463	2022-01-21	 4:00pm	M	  	LOU  	  	11	UK   	 	   	 	 	d1     	2022-01-21T21:00Z	44729281-8809-4d42-8629-85d71406e511		Lexington, KY		[Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm) [Preview](/news/2022/1/20/mens-tennis-louisville-hits-the-road-to-face-kentucky-northwestern.aspx) [History](/sports/mens-tennis/opponent-history/university-of-kentucky/3)
-  SCAR	 16651	2022-01-21	 8:30am	M	  	PRES 	at	12	SCAR 	L	1-6	 	 	d1     	2022-01-21T13:30Z	                                    		Columbia, SC	[Carolina Tennis Center](http://facilities.gamecocksonline.com/carolina-tennis-center-new.html)	
-  SCAR	 16750	2022-01-21	 1:00pm	M	  	PRES 	at	12	SCAR 	 	   	 	 	d1     	2022-01-21T18:00Z	96268f94-ae31-4bd6-8b86-fa6c46f40cc8		Columbia, SC	[Carolina Tennis Center](http://facilities.gamecocksonline.com/carolina-tennis-center-new.html)	[History](/sports/mens-tennis/opponent-history/presbyterian-college/138)
+   ACC	 76299	2022-01-21	 4:00pm	M	  	LOU  	at	11	UK   	L	0-4	 	 	d1     	2022-01-21T21:00Z	                                    		Lexington, KY		[Video](https://web.track.tennis/events/watch?key=664.AJXIIy9vFjU#/) [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm) [Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRglyeEDOa%2bLoBi97ID9TjD7PUoagTwHPv0sPG4w5xz4I73KQLFKzOih3O0m0dW7Qxw4m7Bv%2b6DG%2fJ7NW8A1mWUt8&path=mten)
+   ITA	 51167	2022-01-21	 8:30am	M	  	PRES 	at	12	SCAR 	L	1-6	 	 	d1     	2022-01-21T13:30Z	a3b83c9d-44a4-45a8-a07f-a25ee595ab29				
+   ITA	 70031	2022-01-21	 1:00pm	M	  	PRES 	at	12	SCAR 	L	0-7	 	 	d1     	2022-01-21T18:00Z	dd90bf9c-ac43-4594-bb7f-213284b7ee6e				
   SCAR	 16652	2022-01-21	 2:30pm	M	  	CIT  	at	12	SCAR 	C	   	 	 	d1     	2022-01-21T19:30Z	                                    		Columbia, SC	[Carolina Tennis Center](http://facilities.gamecocksonline.com/carolina-tennis-center-new.html)	
   PEPP	 11608	2022-01-21	 5:00pm	M	22	PEPP 	at	16	STAN 	 	   	 	 	d1     	2022-01-21T22:00Z	                                    		Palo Alto, CA		[Watch](http://streamingtennis.com/Cardinal/?DB_OEM_ID=30600) [Preview](/news/2022/1/19/-22-mens-tennis-opens-2022-campaign-with-two-ranked-foes.aspx)
    WMU	 13772	2022-01-21	 6:00pm	M	  	WMU  	at	17	MICH 	 	   	 	 	d1     	2022-01-21T23:00Z	0a74e29d-29c0-4da9-b3ea-7c543e2506a7		Ann Arbor, MI		[Live Scoring](http://www.sidearmstats.com/umichigan/tennis/live-scoring-dual-m-20220121.html) [Preview](/news/2022/1/19/mens-tennis-travels-to-michigan-on-friday.aspx)
   OKST	 13539	2022-01-21	 7:00pm	M	  	OKST 	at	18	MISS 	P	   	 	 	d1     	2022-01-22T00:00Z	                                    		Oxford, MS		
   GTWN	 19082	2022-01-21	 3:00pm	M	  	GTWN 	vs	20	HARV 	 	   	N	 	d1     	2022-01-21T20:00Z	                                    		Blacksburg, VA		[Watch](https://web.track.tennis/events/watch?key=666.WVO5EpD32QE)
     VT	 24530	2022-01-21	 4:00pm	M	20	HARV 	at	  	VT   	C	   	 	 	d1     	2022-01-21T21:00Z	                                    		Blacksburg, VA	[Burrows-Burleson Tennis Center](/facilities/?id=7)	
-  JVST	  6474	2022-01-21	    TBA	M	  	JVST 	at	  	CHAT 	 	   	 	 	d1     	                 	39981bb6-ac8e-4f8c-b6e3-ee3749946c23		Chattanooga, TN		[Preview](/news/2022/1/20/mens-tennis-jsu-tennis-faces-chattanooga-friday.aspx)
-   TEM	 10902	2022-01-21	10:00am	M	  	TEM  	at	  	VCU  	 	   	 	 	d1     	2022-01-21T15:00Z	d0b04577-60a1-4c64-8617-d31840cf5d59		Richmond, VA		[Preview](/news/2022/1/19/mens-tennis-mens-tennis-travels-to-vcu-for-season-opener.aspx)
-  SALA	  9558	2022-01-21	11:00am	M	  	SALA 	at	  	FSU  	 	   	 	 	d1     	2022-01-21T16:00Z	7667eb97-a23b-435c-ac56-8e898e352b9b		Tallahassee, FL		[Watch](http://stats.statbroadcast.com/statmonitr/?id=383447) [Preview](/news/2022/1/20/mens-tennis-jaguar-mens-tennis-travels-to-florida-state-for-busy-weekend.aspx) [History](/sports/mens-tennis/opponent-history/florida-state-university/33)
+   ITA	 17630	2022-01-21	10:00am	M	  	TEM  	at	  	VCU  	L	2-5	 	 	d1     	2022-01-21T15:00Z	d0b04577-60a1-4c64-8617-d31840cf5d59				
+   ITA	 14776	2022-01-21	11:00am	M	  	JVST 	at	  	CHAT 	W	4-3	 	 	d1     	2022-01-21T16:00Z	39981bb6-ac8e-4f8c-b6e3-ee3749946c23				
    CIT	  9308	2022-01-21	11:30am	M	  	CIT  	vs	  	PRES 	P	   	N	 	d1     	2022-01-21T16:30Z	                                    		Columbia, SC		
+   ACC	 76497	2022-01-21	12:00pm	M	  	SALA 	at	  	FSU  	L	0-4	 	 	d1     	2022-01-21T17:00Z	                                    		Tallahassee, FL		
+   ACC	 75571	2022-01-21	 1:00pm	M	  	FGCU 	at	  	MIA  	L	1-6	 	 	d1     	2022-01-21T18:00Z	                                    		Coral Gables, FL		
   KENN	  9546	2022-01-21	 1:00pm	M	  	KENN 	at	  	UNCG 	P	   	 	 	d1     	2022-01-21T18:00Z	                                    		Greensboro, NC		
  BgSky	 48456	2022-01-21	 1:00pm	M	  	SACST	at	  	UCR  	 	   	 	 	d1     	2022-01-21T18:00Z	                                    		Riverside, CA		
-  MTSU	  8736	2022-01-21	 1:00pm	M	  	UNA  	at	  	MTSU 	 	   	 	 	d1     	2022-01-21T18:00Z	f9664837-19ac-46f5-b8bf-14e708f1d734			[Adams Tennis Complex](https://goblueraiders.com/sports/2015/8/13/MTEN_0813152132.aspx)	[Preview](/news/2022/1/20/mens-tennis-middle-tennessee-continues-play-at-home.aspx) [PlaySight](https://web.playsight.com/livestreaming/bf57caf587f249b6ab1957eaf731bb9c) [Watch](https://conferenceusa.com/watch/default.aspx?Live=15503&path=middle_tennessee) [Live Stats](http://www.sidearmstats.com/mt/mten/) [History](/sports/mens-tennis/opponent-history/university-of-north-alabama/132)
+ C-USA	 66342	2022-01-21	 1:00pm	M	  	UNA  	at	  	MTSU 	L	0-7	 	 	d1     	2022-01-21T18:00Z	                                    		Murfreesboro, TN		[Video](/showcase/?Live=15514) [Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgnwBUEh6ssRnoMr%2bVi%2fWiEZxXbWyzX6A5XLlSm3X4Nc0M6G1pTMCyRuu46ZMDR4o%2bXQXgI3Y0b8E5cB1jAm8jFMmb1NXImx9ZRU5YgoX2%2fgxA%3d%3d&path=mten)
    EIU	  8449	2022-01-21	 2:00pm	M	  	EIU  	at	  	BALL 	 	   	 	 	d1     	2022-01-21T19:00Z	                                    		Muncie, IN		[Preview](/news/2022/1/20/mens-tennis-travels-to-ball-state-on-friday.aspx)
-  UNCG	  7694	2022-01-21	 2:00pm	M	  	NCCU 	at	  	UNCG 	 	   	 	 	d1     	2022-01-21T19:00Z	                                    		Greensboro, NC		[Preview](/news/2022/1/20/mens-tennis-uncg-ready-to-open-2022-season-against-kennesaw-state-and-nccu.aspx) [History](/sports/mens-tennis/opponent-history/north-carolina-central/181)
  OMAHA	 17641	2022-01-21	 2:00pm	M	  	OMAHA	at	  	ARK  	 	   	 	 	d1     	2022-01-21T19:00Z	dfc0e717-dcf3-4478-ae17-b21abe1a3a26		Fayetteville, AR		
   GONZ	  8271	2022-01-21	 2:00pm	M	  	SEA  	at	  	GONZ 	 	   	 	 	d1     	2022-01-21T19:00Z	                                    		Spokane, WA	[Stevens Center](/facilities/?id=3)	[Watch](https://gozags.com/sports/2019/1/15/live-tennis-video-and-stats.aspx) [Preview](/news/2022/1/20/mens-tennis-from-the-court-to-the-classroom-zags-tennis-is-at-the-top-of-their-game.aspx) [History](/sports/mens-tennis/opponent-history/seattle-university/116)
   UNCW	  8949	2022-01-21	 2:30pm	M	  	UNCW 	at	  	DUKE 	C	   	 	 	d1     	2022-01-21T19:30Z	                                    		Durham, NC		
-  FGCU	 10689	2022-01-21	 3:00pm	M	  	FGCU 	at	  	MIA  	 	   	 	 	d1     	2022-01-21T20:00Z	907da034-29c3-46af-b303-18357a1226b1		Coral Gables, FL		[Live Stats](http://stats.statbroadcast.com/statmonitr/?id=382909) [Preview](/news/2022/1/20/mens-tennis-hits-the-road-to-battle-miami-fau.aspx) [History](/sports/mens-tennis/opponent-history/university-of-miami/7)
   SALA	  9559	2022-01-21	 3:00pm	M	  	SALA 	at	  	STET 	 	   	 	 	d1     	2022-01-21T20:00Z	d5fb4454-145c-4ec8-aaae-cdf7c1958d38		Tallahassee, FL		[Preview](/news/2022/1/20/mens-tennis-jaguar-mens-tennis-travels-to-florida-state-for-busy-weekend.aspx) [History](/sports/mens-tennis/opponent-history/stetson-university/31)
     SF	  7121	2022-01-21	 3:30pm	M	  	SF   	at	  	CPOLY	 	   	 	 	d1     	2022-01-21T20:30Z	32cab006-4f18-4cf5-8785-717876a7886f		San Luis Obispo, CA		[History](/sports/mens-tennis/opponent-history/cal-poly/9)
   ELON	  7525	2022-01-21	 4:00pm	M	  	ELON 	at	  	CLEM 	C	   	 	 	d1     	2022-01-21T21:00Z	                                    		Clemson, SC		
-   WOF	  8835	2022-01-21	 4:00pm	M	  	WOF  	at	  	CLEM 	 	   	 	 	d1     	2022-01-21T21:00Z	92a626ab-092b-416b-ba2a-e7161bb088c0		Clemson, SC		[Watch](https://clemsontigers.com/clemson-mens-tennis/) [Live Stats](http://stats.statbroadcast.com/statmonitr/?id=382385)
+   SCn	106643	2022-01-21	 4:00pm	M	  	SAM  	at	  	FSU  	L	0-4	 	 	d1     	2022-01-21T21:00Z	                                    		Tallahassee, FL		
    COR	 50789	2022-01-21	 4:30pm	M	  	FORD 	at	  	COR  	 	   	 	 	d1     	2022-01-21T21:30Z	                                    		Ithaca, NY	[Reis Tennis Center](/facilities/?id=15)	[Preview](/news/2022/1/18/mens-tennis-opens-dual-season-against-drake-fordham.aspx)
   BUCK	 17681	2022-01-21	 5:00pm	M	  	BUCK 	at	  	JMU  	 	   	 	 	d1     	2022-01-21T22:00Z	77d78418-00c8-4e56-b8e3-26fc975e3678		Harrisonburg, VA		[Live Stats](http://statb.us/b/381549) [Preview](/news/2022/1/20/mens-tennis-makes-spring-debut-with-duals-at-james-madison-no-13-north-carolina.aspx)
    ITA	 67364	2022-01-21	 5:00pm	M	  	DRAKE	at	  	COR  	 	   	 	 	d1     	2022-01-21T22:00Z	3ab9010b-b087-42d0-8e92-d646dd4cf594				
-  GAST	  8061	2022-01-21	 5:00pm	M	  	GAST 	at	  	GT   	 	   	 	 	d1     	2022-01-21T22:00Z	ab27a24f-eabf-4310-98b3-4cdb1c8121fc		Atlanta, GA		[Live Stats](http://stats.statbroadcast.com/statmonitr/?id=383499) [Preview](/news/2022/1/20/mens-tennis-mens-tennis-to-open-season-against-georgia-tech-wofford.aspx) [History](/sports/mens-tennis/opponent-history/georgia-tech/14)
+   ACC	 75572	2022-01-21	 5:00pm	M	  	GAST 	at	  	GT   	L	3-4	 	 	d1     	2022-01-21T22:00Z	                                    		Atlanta, GA		
  OMAHA	 17642	2022-01-21	 5:00pm	M	  	OMAHA	at	  	ARK  	 	   	 	 	d1     	2022-01-21T22:00Z	                                    		Fayetteville, AR		
-   SAM	 12146	2022-01-21	 5:00pm	M	  	SAM  	at	  	FSU  	 	   	 	 	d1     	2022-01-21T22:00Z	                                    	[Florida State Invitational](www.seminoles.com)	Tallahassee, FL		[History](/sports/mens-tennis/opponent-history/florida-state-university/55)
    USD	 12313	2022-01-21	 5:00pm	M	  	UCI  	at	  	USD  	 	   	 	 	d1     	2022-01-21T22:00Z	00dcb7a3-333d-442b-82aa-5b7b9e108589		San Diego, CA		[Watch](https://web.track.tennis/events/watch?key=612.T_geksMeGi8) [History](/sports/mens-tennis/opponent-history/uc-irvine/129)
-  MTSU	  8737	2022-01-21	 6:00pm	M	  	BUTL 	at	  	MTSU 	 	   	 	 	d1     	2022-01-21T23:00Z	52ba32ad-1643-4ee1-a890-9a5e658a0676			[Adams Tennis Complex](https://goblueraiders.com/sports/2015/8/13/MTEN_0813152132.aspx)	[Preview](/news/2022/1/20/mens-tennis-middle-tennessee-continues-play-at-home.aspx) [PlaySight](https://web.playsight.com/livestreaming/bf57caf587f249b6ab1957eaf731bb9c) [Watch](https://conferenceusa.com/watch/default.aspx?Live=15503&path=middle_tennessee) [Live Stats](http://www.sidearmstats.com/mt/mten/) [History](/sports/mens-tennis/opponent-history/butler-university/199)
+   ACC	 75573	2022-01-21	 5:00pm	M	  	WOF  	at	  	CLEM 	L	0-7	 	 	d1     	2022-01-21T22:00Z	                                    		Clemson, SC		
+ C-USA	 66353	2022-01-21	 6:00pm	M	  	BUTL 	at	  	MTSU 	L	0-7	 	 	d1     	2022-01-21T23:00Z	                                    		Murfreesboro, TN		[Video](/showcase/?Live=15515) [Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgnwBUEh6ssRnoMr%2bVi%2fWiEZxXbWyzX6A5XLlSm3X4Nc0M6G1pTMCyRuu46ZMDR4o%2bUJ4nzQkTO0F%2bf4gooQtjYE7W%2bVvjgYeysc8%2fAHUlRH8A%3d%3d&path=mten)
    AFA	 14379	2022-01-21	 6:00pm	M	  	CRE  	at	  	AFA  	 	   	 	 	d1     	2022-01-21T23:00Z	856ab29e-aa05-4bc3-a2d9-89f16556173d		USAFA		[Watch](http://streamingtennis.com/USAFA/) [Live Stats](http://www.statbroadcast.com/events/statmonitr.php?gid=afa)
    MEM	 17879	2022-01-21	 6:00pm	M	  	MEM  	at	  	NW   	 	   	 	 	d1     	2022-01-21T23:00Z	                                    		Evanston, IL		
+  MEAC	 61937	2022-01-21	 6:00pm	M	  	NCCU 	at	  	UNCG 	L	0-7	 	 	d1     	2022-01-21T23:00Z	                                    		Greensboro, NC		[Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgnBVjBKxcgjlZqY6UsrREKaoy4%2bGNgzRcxPEQBGh%2bszIfjMMWDYlGF6ylZUci9cwJoBm084LKmaXwKVNdI0nr40cNqJfLslESOPKamDOMgEtQ%3d%3d&path=mten)
    LOY	 15315	2022-01-21	 6:00pm	M	  	SBU  	at	  	LOY  	 	   	 	 	d1     	2022-01-21T23:00Z	d457e5de-9a3e-4fe6-9247-ec91c6a77c19		Baltimore, MD	Coppermine Racquet & Fitness Club	
    UCD	 21003	2022-01-21	 6:00pm	M	  	UCD  	at	  	BIOLA	 	   	 	 	d1/d2  	2022-01-21T23:00Z	                                    		La Mirada, CA		[Watch Live](http://live.biola.edu/tennis/) [Live Results](https://biola_ftp.sidearmsports.com/custompages/mten/LIVE/xlive.htm) [Preview](/news/2022/1/17/davis-docket-this-week-in-uc-davis-athletics-jan-17-23.aspx)
    UND	 12326	2022-01-21	 6:30pm	M	  	UND  	at	  	WIS  	 	   	 	 	d1     	2022-01-21T23:30Z	e2b3c6ff-998e-48c0-8e03-6ab8b0b7f66e		Madison, WI		[Watch](https://uwbadgers.com/sports/2016/11/1/tennis-video-streams.aspx?id=1239) [Live Stats](http://sidearmstats.com/wisconsin/mten/)
@@ -486,7 +485,7 @@ Sthlnd	 41428	2022-01-28	 3:00pm	M	  	UNO  	at	  	ALCN 	 	   	 	 	d1     	2022-0
   TULN	 18405	2022-01-30	       	M	16	STAN 	vs	  	TULN 	 	   	N	 	d1     	                 	f2575c6a-177d-414e-9c0a-88ab2a17fbef	[ITA Kickoff](itatennis.com)	Orlando, FL		[History](/sports/mens-tennis/opponent-history/stanford-university/210)
  A&MCC	  6764	2022-01-30	 6:00pm	M	  	A&MCC	at	19	A&M  	 	   	 	 	d1     	2022-01-30T23:00Z	                                    		College Station, TX		[History](/sports/mens-tennis/opponent-history/texas-am-university/35)
    ACC	 76294	2022-01-30	    TBD	M	  	CLEM 	at	  	MIA  	 	   	 	C	d1     	                 	                                    		Waco, TX		
-   ACC	 75790	2022-01-30	    TBA	M	  	CLEM 	vs	  	MIA  	 	   	N	 	d1     	                 	                                    		Waco, TX		
+   ACC	 75579	2022-01-30	    TBA	M	  	CLEM 	vs	  	MIA  	 	   	N	 	d1     	                 	                                    		Waco, TX		
    ACC	 76290	2022-01-30	    TBA	M	  	MIA  	at	  	CLEM 	 	   	 	C	d1     	                 	                                    		Waco, TX		
   NICH	  9236	2022-01-30	       	M	  	PVA&M	at	  	NICH 	 	   	 	 	d1     	                 	                                    		Thibodaux, LA	[Colonel Tennis Complex](http://geauxcolonels.com/facilities/?id=9)	[History](/sports/mens-tennis/opponent-history/prairie-view-am-university/5)
    SJU	 13321	2022-01-30	    TBA	M	  	SJU  	at	  	MAR  	 	   	 	 	d1     	                 	                                    		Poughkeepsie, NY		[History](/sports/mens-tennis/opponent-history/marist-college/71)
@@ -704,7 +703,6 @@ Sthlnd	 41432	2022-01-30	 3:00pm	M	  	LOYNO	at	  	UNO  	 	   	 	 	naia/d1	2022-0
   MONT	  5086	2022-02-06	12:00pm	M	  	MONT 	vs	  	SEA  	 	   	N	 	d1     	2022-02-06T17:00Z	                                    		Boise, ID		
  BOISE	 18767	2022-02-06	12:00pm	M	  	SEA  	at	  	BOISE	 	   	 	 	d1     	2022-02-06T17:00Z	29f7730f-e0f9-4ab5-9f05-46514c50635f		Boise, ID	Boas Indoor Tennis Center	
   GAST	  8065	2022-02-06	12:00pm	M	  	STET 	at	  	GAST 	 	   	 	 	d1     	2022-02-06T17:00Z	fe4746d4-8be5-43eb-b6e2-81069e264c72		Atlanta, GA		[History](/sports/mens-tennis/opponent-history/stetson-university/23)
-   SCn	106290	2022-02-06	 1:00pm	M	  	BEL  	at	  	CHAT 	 	   	 	 	d1     	2022-02-06T18:00Z	                                    		Chattanooga, TN		
    NIU	 15566	2022-02-06	 1:00pm	M	  	CSTR 	at	  	NIU  	 	   	 	 	naia/d1	2022-02-06T18:00Z	                                    		DeKalb, IL	Chick Evans Field House	[History](/sports/mens-tennis/opponent-history/cardinal-stritch-university/62)
    TOL	 21384	2022-02-06	 1:00pm	M	  	DAY  	at	  	TOL  	 	   	 	 	d1     	2022-02-06T18:00Z	3e75af92-50d2-40b8-9fe1-32326a66d132		Toledo, OH	[Shadow Valley Tennis Club](http://www.shadowvalleyclub.com/)	
    WIS	 14039	2022-02-06	 1:00pm	M	  	DRAKE	at	  	WIS  	 	   	 	 	d1     	2022-02-06T18:00Z	0a5bd246-6ce0-4361-8fbc-cd8e31f523be		Madison, WI	Nielsen Tennis Stadium	[Watch](https://uwbadgers.com/sports/2016/11/1/tennis-video-streams.aspx?id=1239) [Live Scoring](http://sidearmstats.com/wisconsin/mten/)
@@ -716,6 +714,7 @@ Sthlnd	 41432	2022-01-30	 3:00pm	M	  	LOYNO	at	  	UNO  	 	   	 	 	naia/d1	2022-0
   UNCG	  7651	2022-02-06	 1:00pm	M	  	UNCA 	vs	  	UNCG 	 	   	N	 	d1     	2022-02-06T18:00Z	                                    		Piedmont Indoor		[History](/sports/mens-tennis/opponent-history/unc-asheville/117)
   BUCK	 17416	2022-02-06	 1:30pm	M	  	BUCK 	at	  	DREX 	 	   	 	 	d1     	2022-02-06T18:30Z	                                    		Philadelphia, PA		
    UCI	 10904	2022-02-06	 1:30pm	M	  	SF   	at	  	UCI  	 	   	 	 	d1     	2022-02-06T18:30Z	                                    		Irvine, CA	[Anteater Tennis Stadium](/facilities/?id=12)	
+   ITA	 51661	2022-02-06	 2:00pm	M	  	BEL  	at	  	CHAT 	 	   	 	 	d1     	2022-02-06T19:00Z	1aefd6c4-7432-4e22-853e-a375da51e159				
   MTSU	  8742	2022-02-06	 2:00pm	M	  	ND   	at	  	MTSU 	 	   	 	 	d1     	2022-02-06T19:00Z	6e0eaf0a-428e-44e6-9db5-41a593912acd			[Adams Tennis Complex](https://goblueraiders.com/sports/2015/8/13/MTEN_0813152132.aspx)	[History](/sports/mens-tennis/opponent-history/university-of-notre-dame/102)
   BELL	  6778	2022-02-06	 3:00pm	M	  	CAMPB	at	  	BELL 	 	   	 	 	naia/d1	2022-02-06T20:00Z	                                    		Louisville, KY	Eddie Weber Tennis Complex	
  LAMAR	 21181	2022-02-06	 3:00pm	M	  	PVA&M	at	  	LAMAR	 	   	 	 	d1     	2022-02-06T20:00Z	d94c37c5-b0c5-4220-aa55-d488d15efb54		Beaumont, TX	[Thompson Family Tennis Center](/facilities/?id=6)	[History](/sports/mens-tennis/opponent-history/prairie-view-am-university/28)
@@ -837,7 +836,7 @@ Sthlnd	 41432	2022-01-30	 3:00pm	M	  	LOYNO	at	  	UNO  	 	   	 	 	naia/d1	2022-0
    EIU	  8456	2022-02-12	 2:30pm	M	  	EIU  	at	  	IUPUI	 	   	 	 	d1     	2022-02-12T19:30Z	                                    		Indianapolis, IN		
    UND	 12332	2022-02-12	 2:30pm	M	  	GUST 	at	  	UND  	 	   	 	 	d3/d1  	2022-02-12T19:30Z	7b2fe4be-6625-4d06-bfdb-1cedfb2da8a8			[Choice Health & Fitness](/facilities/?id=9)	
  LAMAR	 21184	2022-02-12	 3:00pm	M	  	ALCN 	at	  	LAMAR	 	   	 	 	d1     	2022-02-12T20:00Z	abeb0027-6c91-4487-a4be-a46698ffda4f		Beaumont, TX	[Thompson Family Tennis Center](/facilities/?id=6)	[History](/sports/mens-tennis/opponent-history/alcorn-state-university/15)
-   USM	  9444	2022-02-12	 3:00pm	M	  	CHAT 	at	  	USM  	 	   	 	 	d1     	2022-02-12T20:00Z	                                    		Southern Miss Tennis Complex		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/100)
+   USM	  9444	2022-02-12	 3:00pm	M	  	CHAT 	at	  	USM  	 	   	 	 	d1     	2022-02-12T20:00Z	1a843ccf-f2b8-44f5-a27e-dbcbf4186a92		Southern Miss Tennis Complex		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/100)
    TTU	 18612	2022-02-12	 3:30pm	M	  	NMSU 	at	  	TTU  	 	   	 	 	d1     	2022-02-12T20:30Z	                                    		Lubbock, TX	[McLeod Tennis Center](/facilities/?id=10)	[Stats](http://stats.statbroadcast.com/statmonitr/?id=382433) [History](/sports/mens-tennis/opponent-history/new-mexico-state-university/331)
   UNCA	  5985	2022-02-12	 3:30pm	M	  	UNF  	at	  	UNCA 	 	   	 	 	d1     	2022-02-12T20:30Z	59314932-ce54-49e1-bec1-deeb57ff6592		Asheville, NC	[The Asheville Racquet Club Downtown](/facilities/?id=1)	[History](/sports/mens-tennis/opponent-history/university-of-north-florida/42)
    MAR	 13125	2022-02-12	 4:00pm	M	  	BUCK 	at	  	MAR  	 	   	 	 	d1     	2022-02-12T21:00Z	                                    		Poughkeepsie, NY		[History](/sports/mens-tennis/opponent-history/bucknell-university/10)
@@ -940,6 +939,7 @@ Sthlnd	 41432	2022-01-30	 3:00pm	M	  	LOYNO	at	  	UNO  	 	   	 	 	naia/d1	2022-0
     LU	  7979	2022-02-17	    TBA	M	  	HSYDN	at	  	LU   	 	   	 	 	d3/d1  	                 	                                    		Farmville, VA		[History](/sports/mens-tennis/opponent-history/hampden-sydney-college/32)
   NCAT	  4122	2022-02-17	 2:00pm	M	  	NCAT 	at	  	QUC  	 	   	 	 	d1/d2  	2022-02-17T19:00Z	                                    		Charlotte, NC		[History](/sports/mens-tennis/opponent-history/queens-university-of-charlotte/263)
   NCCU	  7110	2022-02-17	 2:00pm	M	  	NCCU 	at	  	CAMP 	 	   	 	 	d1     	2022-02-17T19:00Z	                                    		Buies Creek, NC	[Nisbet Tennis Center](https://gocamels.com/facilities/nisbet-tennis-center/14)	[History](/sports/mens-tennis/opponent-history/campbell-university/14)
+   ITA	   308	2022-02-17	 2:00pm	M	  	USFIL	at	  	W ILL	 	   	 	 	naia/d1	2022-02-17T19:00Z	923fbd7c-a34b-4c2e-89df-41ce83622fb3				
   SWAC	 37317	2022-02-17	 2:00pm	M	  	W AL 	at	  	ALST 	 	   	 	 	d2/d1  	2022-02-17T19:00Z	                                    		Montgomery, AL		
    DEN	 12241	2022-02-17	 2:00pm	M	  	WICH 	at	  	DEN  	 	   	 	 	d1     	2022-02-17T19:00Z	3a856538-43d8-4a2b-8047-ff364e824252		Denver, CO		[History](/sports/mens-tennis/opponent-history/wichita-state-university/369)
   SALA	  9565	2022-02-17	 3:00pm	M	  	NICH 	at	  	SALA 	 	   	 	 	d1     	2022-02-17T20:00Z	ae4dc839-5bfb-440e-9028-5e2dc30b7e00		Mobile, AL	[Bruce David Lubel Memorial Tennis Courts](/facilities/?id=6)	[History](/sports/mens-tennis/opponent-history/nicholls/6)
@@ -970,7 +970,7 @@ Sthlnd	 41432	2022-01-30	 3:00pm	M	  	LOYNO	at	  	UNO  	 	   	 	 	naia/d1	2022-0
    EIU	  8457	2022-02-18	 2:00pm	M	  	EIU  	vs	  	NKU  	 	   	N	 	d1     	2022-02-18T19:00Z	                                    		Terre Haute, IN		
   PEAY	 10573	2022-02-18	 2:00pm	M	  	USI  	at	  	PEAY 	 	   	 	 	d2/d1  	2022-02-18T19:00Z	                                    		Evansville, IN		[History](/sports/mens-tennis/opponent-history/university-of-southern-indiana/54)
    ITA	 21048	2022-02-18	 3:00pm	M	  	BEL  	at	  	VANDY	 	   	 	 	d1     	2022-02-18T20:00Z	2f4bd42b-cc86-44db-a3b9-0acb7fea1b69				
-  KENN	  9554	2022-02-18	 3:00pm	M	  	CHAT 	at	  	KENN 	 	   	 	 	d1     	2022-02-18T20:00Z	                                    		Kennesaw, GA	[Betty Siegel Courts](/facilities/?id=13)	[LIVE STATS](https://ksuowls.com/sports/2019/1/16/mens-live-stats.aspx) [History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/36)
+  KENN	  9554	2022-02-18	 3:00pm	M	  	CHAT 	at	  	KENN 	 	   	 	 	d1     	2022-02-18T20:00Z	a9873e65-4eec-4398-86c3-696d2c792bb5		Kennesaw, GA	[Betty Siegel Courts](/facilities/?id=13)	[LIVE STATS](https://ksuowls.com/sports/2019/1/16/mens-live-stats.aspx) [History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/36)
   LOYM	 14132	2022-02-18	 3:00pm	M	  	LOYM 	at	  	USD  	 	   	 	C	d1     	2022-02-18T20:00Z	217e15f3-33af-4505-948c-1af2573fe656		San Diego, CA		[History](/sports/mens-tennis/opponent-history/university-of-san-diego/21)
    NIU	 15570	2022-02-18	 3:00pm	M	  	NIU  	at	  	YSU  	 	   	 	 	d1     	2022-02-18T20:00Z	                                    		Youngstown, OH		[History](/sports/mens-tennis/opponent-history/youngstown-state-university/324)
    UTA	 17146	2022-02-18	 3:00pm	M	  	ORU  	at	  	UTA  	 	   	 	 	d1     	2022-02-18T20:00Z	                                    		Arlington, TX	UTA Tennis Center	[History](/sports/mens-tennis/opponent-history/oral-roberts-university/144)
@@ -986,7 +986,7 @@ Sthlnd	 41432	2022-01-30	 3:00pm	M	  	LOYNO	at	  	UNO  	 	   	 	 	naia/d1	2022-0
  OMAHA	 17483	2022-02-18	 6:00pm	M	  	CHIC 	at	  	OMAHA	 	   	 	 	d1     	2022-02-18T23:00Z	                                    		Omaha, NE	[MIRACLE HILL TENNIS CENTER](/facilities/?id=7)	
    ITA	 76357	2022-02-18	 7:00pm	M	  	TNST 	at	  	VANDY	 	   	 	 	d1     	2022-02-19T00:00Z	c8c11cde-ec3a-42ef-b2f0-0e2b2471450d				
   UCSD	  8854	2022-02-18	 9:00pm	M	  	UCSD 	at	  	NAU  	 	   	 	 	d1     	2022-02-19T02:00Z	                                    		Flagstaff, AZ		
-  ARIZ	 26068	2022-02-19	 4:00pm	M	  	UNLV 	at	14	ARIZ 	 	   	 	 	d1     	2022-02-19T21:00Z	                                    		Tucson, AZ		[History](/sports/mens-tennis/opponent-history/unlv/40)
+  ARIZ	 26068	2022-02-19	 4:00pm	M	  	UNLV 	at	14	ARIZ 	 	   	 	 	d1     	2022-02-19T21:00Z	146d9757-9d97-4605-953c-41896678492e		Tucson, AZ		[History](/sports/mens-tennis/opponent-history/unlv/40)
   SWAC	 37393	2022-02-19	    TBA	M	  	ALST 	vs	  	PVA&M	 	   	N	C	d1     	                 	                                    		Jackson, MS		
     BU	 23302	2022-02-19	       	M	  	BU   	at	  	BRY  	 	   	 	 	d1     	                 	                                    		Smithfield, RI		
   BUFF	  5295	2022-02-19	    TBA	M	  	BUFF 	at	  	SBU  	 	   	 	 	d1     	                 	                                    		Olean, NY		
@@ -1037,7 +1037,7 @@ Sthlnd	 41432	2022-01-30	 3:00pm	M	  	LOYNO	at	  	UNO  	 	   	 	 	naia/d1	2022-0
   SWAC	 37395	2022-02-20	    TBA	M	  	ALCN 	vs	  	PVA&M	 	   	N	C	d1     	                 	                                    		Jackson, MS		
   BALL	  9836	2022-02-20	    TBA	M	  	BALL 	at	  	IUPUI	 	   	 	 	d1     	                 	                                    		Indianapolis, IN		
   MAAC	 72563	2022-02-20	    TBA	M	  	DREW 	vs	  	RIDER	 	   	N	 	d3/d1  	                 	                                    		Madison, NJ		
-   LIP	 11092	2022-02-20	       	M	  	LIP  	at	  	CHAT 	 	   	 	 	d1     	                 	                                    		Chattanooga, TN		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/389)
+   LIP	 11092	2022-02-20	       	M	  	LIP  	at	  	CHAT 	 	   	 	 	d1     	                 	9539d17a-6129-4065-a9b7-4b74173d7d1d		Chattanooga, TN		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/389)
     LU	  7980	2022-02-20	    TBA	M	  	LU   	at	  	UNCA 	 	   	 	C	d1     	                 	                                    		Asheville, NC		[History](/sports/mens-tennis/opponent-history/unc-asheville/68)
  PVA&M	  6240	2022-02-20	    TBA	M	  	MVSU 	vs	  	PVA&M	 	   	N	 	d1     	                 	                                    	SWAC Round Up I	Jackson, MS		[History](/sports/mens-tennis/opponent-history/mississippi-valley-state/8)
   NOVA	 14279	2022-02-20	    TBA	M	  	NOVA 	at	  	NAVY 	 	   	 	 	d1     	                 	304bd195-31d6-4f58-8ecf-96bfbbbb2aa6		Annapolis, MD		
@@ -1113,9 +1113,9 @@ Sthlnd	 41472	2022-02-24	 4:00pm	M	  	A&MCC	at	  	TRITX	 	   	 	 	d1/d3  	2022-0
    TEM	 10878	2022-02-25	       	M	  	SIEN 	at	  	TEM  	 	   	 	 	d1     	                 	                                    		Philadelphia, PA		
    ITA	 45895	2022-02-25	 3:00am	M	  	BYU  	vs	  	NEV  	 	   	N	 	d1     	2022-02-25T08:00Z	97f735a5-6fa1-4ff5-8f28-c4ec9c87de62				
    FAU	 19826	2022-02-25	10:00am	M	  	FAU  	at	  	MIA  	 	   	 	 	d1     	2022-02-25T15:00Z	c40bd0c5-fcbf-4481-88be-1d2c8f663283		Coral Gables, FL		
- BgSky	 48361	2022-02-25	12:00pm	M	  	MSACC	at	  	NAU  	 	   	 	 	juco/d1	2022-02-25T17:00Z	                                    		Flagstaff, AZ		
+   ITA	 52676	2022-02-25	12:00pm	M	  	MSACC	at	  	NAU  	 	   	 	 	juco/d1	2022-02-25T17:00Z	7dbc7291-9365-45eb-9bbf-3e4a5cbb39a9				
   CCAR	 21438	2022-02-25	 1:00pm	M	  	CCAR 	at	  	CAMP 	 	   	 	 	d1     	2022-02-25T18:00Z	                                    	2022 Spring Schedule	Buies Creek, NC		[History](/sports/mens-tennis/opponent-history/campbell-university/56)
-   CIT	  9319	2022-02-25	 1:00pm	M	  	CIT  	at	  	CHAT 	 	   	 	C	d1     	2022-02-25T18:00Z	                                    		Chattanooga, TN		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/116)
+   CIT	  9319	2022-02-25	 1:00pm	M	  	CIT  	at	  	CHAT 	 	   	 	C	d1     	2022-02-25T18:00Z	39b03408-b7ed-47c7-a876-5a448c81ab44		Chattanooga, TN		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/116)
   UNCW	  8957	2022-02-25	 1:00pm	M	  	UNCW 	at	  	UNF  	 	   	 	 	d1     	2022-02-25T18:00Z	                                    		Jacksonville, FL		
  WEBER	  7478	2022-02-25	 1:30pm	M	  	EWU  	at	  	WEBER	 	   	 	C	d1     	2022-02-25T18:30Z	                                    		Ogden, UT		
   UNCG	  7629	2022-02-25	 2:00pm	M	  	GWEBB	at	  	UNCG 	 	   	 	 	d1     	2022-02-25T19:00Z	                                    		Greensboro, NC		[History](/sports/mens-tennis/opponent-history/gardner-webb/59)
@@ -1161,6 +1161,7 @@ Sthlnd	 41438	2022-02-25	 3:00pm	M	  	UNO  	at	  	SCST 	 	   	 	 	d1     	2022-0
    IND	 25527	2022-02-26	12:00pm	M	  	IND  	at	  	LOU  	 	   	 	 	d1     	2022-02-26T17:00Z	                                    		Louisville, KY		[History](/sports/mens-tennis/opponent-history/university-of-louisville/17)
   JOES	  8235	2022-02-26	12:00pm	M	  	JOES 	at	  	NJIT 	 	   	 	 	d1     	2022-02-26T17:00Z	16d72fac-0355-4c6f-91f2-b5e9a8c96c5d		Newark, NJ		[History](/sports/mens-tennis/opponent-history/new-jersey-institute-of-technology/281)
    ITA	 45196	2022-02-26	12:00pm	M	  	LIB  	at	  	MIA  	 	   	 	 	d1     	2022-02-26T17:00Z	4dc763b4-bb98-40d5-a2ab-3870551dbd8b				
+   ITA	 73833	2022-02-26	12:00pm	M	  	MSACC	vs	  	NMSU 	 	   	N	 	juco/d1	2022-02-26T17:00Z	e7b3b985-b48c-4473-9674-7ebc8d2fd693				
   PENN	 18231	2022-02-26	12:00pm	M	  	PSU  	at	  	PENN 	 	   	 	 	d1     	2022-02-26T17:00Z	                                    		Hecht Tennis Center		
   DART	 20012	2022-02-26	12:00pm	M	  	SJU  	at	  	DART 	 	   	 	 	d1     	2022-02-26T17:00Z	                                    		Hanover, NH	[Boss Tennis Center](/facilities/?id=17)	[Live Video](https://portal.stretchinternet.com/dartmouth/) [History](/sports/mens-tennis/opponent-history/st-johns-university/208)
   ARMY	 13326	2022-02-26	12:00pm	M	  	USCG 	at	  	ARMY 	 	   	 	 	d3/d1  	2022-02-26T17:00Z	                                    		West Point, NY	[Lichtenberg Tennis Center](http://goarmywestpoint.com/sports/2015/3/6/GEN_2014010129.aspx?id=29)	[History](/sports/mens-tennis/opponent-history/united-states-coast-guard-academy/11)
@@ -1314,7 +1315,7 @@ Sthlnd	 41438	2022-02-25	 3:00pm	M	  	UNO  	at	  	SCST 	 	   	 	 	d1     	2022-0
   UNCG	  7632	2022-03-04	 2:00pm	M	  	UNCG 	at	  	TNTC 	 	   	 	 	d1     	2022-03-04T19:00Z	                                    		Radford, VA		[History](/sports/mens-tennis/opponent-history/tennessee-tech/106)
   PRES	 12214	2022-03-04	 2:30pm	M	  	PRES 	at	  	GWEBB	 	   	 	C	d1     	2022-03-04T19:30Z	362f2fcf-681a-488d-bdfe-479beca4e2b1		Boiling Springs, NC		[History](/sports/mens-tennis/opponent-history/gardner-webb-university/376)
    WOF	  8683	2022-03-04	 2:30pm	M	  	WOF  	at	  	ETSU 	 	   	 	C	d1     	2022-03-04T19:30Z	ba2495e9-4fc9-4b9e-ac42-fd74b0c48577		Johnson City, TN		
-   UAB	 20279	2022-03-04	 3:00pm	M	  	CHAT 	at	  	UAB  	 	   	 	 	d1     	2022-03-04T20:00Z	                                    		Birmingham, AL	Lakeshore Tennis Courts	[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/119)
+   UAB	 20279	2022-03-04	 3:00pm	M	  	CHAT 	at	  	UAB  	 	   	 	 	d1     	2022-03-04T20:00Z	c7291c49-01ca-4597-804b-aa1acb00665b		Birmingham, AL	Lakeshore Tennis Courts	[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/119)
   NCCU	  7112	2022-03-04	 3:00pm	M	  	HAMP 	at	  	NCCU 	 	   	 	 	d1     	2022-03-04T20:00Z	                                    		Durham, NC	[Dr. James W. Younge Tennis Courts](/facilities/?id=4)	[History](/sports/mens-tennis/opponent-history/hampton-university/12)
   JKST	  2830	2022-03-04	 3:00pm	M	  	JKST 	at	  	ALCN 	 	   	 	C	d1     	2022-03-04T20:00Z	18ed715e-814d-4eb9-a976-039a1ee6ee53		Lorman, MS		
   GAST	  8075	2022-03-04	 4:00pm	M	  	ALST 	at	  	GAST 	 	   	 	 	d1     	2022-03-04T21:00Z	fbd2c958-e545-4e82-b13b-1eb640ef5861		Atlanta, GA		[History](/sports/mens-tennis/opponent-history/alabama-state-university/41)
@@ -1388,13 +1389,13 @@ Sthlnd	 41438	2022-02-25	 3:00pm	M	  	UNO  	at	  	SCST 	 	   	 	 	d1     	2022-0
    CoC	 10782	2022-03-06	10:00am	M	  	CAMP 	at	  	CoC  	 	   	 	 	d1     	2022-03-06T15:00Z	                                    			[CofC Tennis Center at Patriots Point](https://cofcsports.com/sports/2006/12/8/717706.aspx)	
    LOU	 23473	2022-03-06	10:00am	M	  	LOU  	  	  	GT   	 	   	 	C	d1     	2022-03-06T15:00Z	                                    		LOUISVILLE, KY	[Bass-Rudd Tennis Center](/facilities/?id=2)	[Live Stats](http://sidearmstats.com/louisville/mten/xlive.htm) [History](/sports/mens-tennis/opponent-history/georgia-tech/18)
    TTU	 18617	2022-03-06	11:00am	M	  	UTSA 	at	  	TTU  	 	   	 	 	d1     	2022-03-06T16:00Z	93b59227-1c20-479a-8625-b2b2d0d5403c		Lubbock, TX	[McLeod Tennis Center](/facilities/?id=10)	[Stats](http://stats.statbroadcast.com/statmonitr/?id=382437) [History](/sports/mens-tennis/opponent-history/utsa/345)
-   SCn	106299	2022-03-06	12:00pm	M	  	CHAT 	at	  	TROY 	 	   	 	 	d1     	2022-03-06T17:00Z	                                    		Troy, AL		
    ITA	 29217	2022-03-06	12:00pm	M	  	CLEM 	at	  	ND   	 	   	 	C	d1     	2022-03-06T17:00Z	ea1b3381-4d57-4de9-98d3-20dd8dd52df0				
    EWU	  4999	2022-03-06	12:00pm	M	  	EWU  	at	  	NAU  	 	   	 	C	d1     	2022-03-06T17:00Z	                                    	2022 Spring Schedule	Flagstaff, AZ		[History](/sports/mens-tennis/opponent-history/northern-arizona-university/13)
   GAST	  8076	2022-03-06	12:00pm	M	  	LIB  	at	  	GAST 	 	   	 	 	d1     	2022-03-06T17:00Z	f5f2aa63-9b7a-466f-895d-297f25181217		Atlanta, GA		[History](/sports/mens-tennis/opponent-history/liberty-university/330)
  RIDER	 10381	2022-03-06	12:00pm	M	  	MRMK 	at	  	RIDER	 	   	 	 	d1     	2022-03-06T17:00Z	                                    		Lawrenceville, NJ		[History](/sports/mens-tennis/opponent-history/merrimack-college/344)
    USM	  9450	2022-03-06	12:00pm	M	  	USM  	at	  	ALST 	 	   	 	 	d1     	2022-03-06T17:00Z	                                    		Montgomery, AL		[History](/sports/mens-tennis/opponent-history/alabama-state-university/67)
  A&MCC	  6774	2022-03-06	 1:00pm	M	  	A&MCC	at	  	RICE 	 	   	 	 	d1     	2022-03-06T18:00Z	                                    		Houston, TX		[History](/sports/mens-tennis/opponent-history/rice-university/26)
+   ITA	 31953	2022-03-06	 1:00pm	M	  	CHAT 	at	  	TROY 	 	   	 	 	d1     	2022-03-06T18:00Z	97fddc52-af6c-4a71-8f13-8e8980490768				
   MORG	  5663	2022-03-06	 1:00pm	M	  	HRTCC	at	  	MORG 	 	   	 	 	juco/d1	2022-03-06T18:00Z	                                    				[History](/sports/mens-tennis/opponent-history/harford-community-college/247)
  BOISE	 18781	2022-03-06	 1:00pm	M	  	PAC  	at	  	BOISE	 	   	 	 	d1     	2022-03-06T18:00Z	fa694632-089f-4d4b-8cf1-facff2b71cac		Boise, ID	Appleton Tennis Center	
    WOF	  8684	2022-03-06	 2:00pm	M	  	ELON 	at	  	WOF  	 	   	 	 	d1     	2022-03-06T19:00Z	e6365ac7-bb8d-4191-a937-9be88c33494b		Spartanburg, SC	[Reeves Tennis Center](/facilities/?id=5)	
@@ -1857,7 +1858,7 @@ Sthlnd	 41431	2022-03-21	 3:30pm	M	  	XULA 	at	  	UNO  	 	   	 	 	naia/d1	2022-0
   LOYM	 14127	2022-03-24	 4:00pm	M	  	DART 	at	  	LOYM 	 	   	 	 	d1     	2022-03-24T20:00Z	a1a32277-7037-48c1-b03c-203c1f457209		LMU TENNIS CENTER		[Live Stats](http://stats.statbroadcast.com/statmonitr/?id=383162) [History](/sports/mens-tennis/opponent-history/dartmouth-college/76)
  TULSA	 14480	2022-03-24	 4:00pm	M	  	TULSA	at	  	LSU  	 	   	 	 	d1     	2022-03-24T20:00Z	                                    		Baton Rouge, LA		[History](/sports/mens-tennis/opponent-history/louisiana-state-university/172)
   SMCC	 10402	2022-03-24	 5:00pm	M	  	IDST 	at	  	SMCC 	 	   	 	 	d1     	2022-03-24T21:00Z	                                    		Moraga, CA		[History](/sports/mens-tennis/opponent-history/idaho-state-university/83)
-   DEN	 12248	2022-03-24	 6:00pm	M	  	DEN  	at	  	UNLV 	 	   	 	 	d1     	2022-03-24T22:00Z	                                    		Las Vegas, NV		[History](/sports/mens-tennis/opponent-history/unlv/272)
+   DEN	 12248	2022-03-24	 6:00pm	M	  	DEN  	at	  	UNLV 	 	   	 	 	d1     	2022-03-24T22:00Z	31dc8150-c95f-49a4-99a7-32291b6aaa52		Las Vegas, NV		[History](/sports/mens-tennis/opponent-history/unlv/272)
   TENN	 19445	2022-03-25	    TBA	M	 1	TENN 	at	19	A&M  	 	   	 	C	d1     	                 	38050325-cbf2-4454-b470-a112d010d126		College Station, TX		
    TCU	 17458	2022-03-25	    TBA	M	 2	BAY  	at	 3	TCU  	 	   	 	 	d1     	                 	16297967-4d97-4e23-84d0-81f5ea04767e		Fort Worth, TX		[History](/sports/mens-tennis/opponent-history/baylor-university/9)
    FLA	 24664	2022-03-25	 5:00pm	M	 3	FLA  	at	  	ARK  	 	   	 	C	d1     	2022-03-25T21:00Z	62ee467a-bf87-4dbb-90b5-561e1d5eb0af		Fayetteville, AR		
@@ -2004,7 +2005,7 @@ Sthlnd	 41431	2022-03-21	 3:30pm	M	  	XULA 	at	  	UNO  	 	   	 	 	naia/d1	2022-0
   UNCW	  8964	2022-03-27	12:00pm	M	  	UNCW 	at	  	CHAR 	 	   	 	 	d1     	2022-03-27T16:00Z	                                    		Charlotte, NC		
    UND	 12343	2022-03-27	12:00pm	M	  	UND  	at	  	DEN  	 	   	 	C	d1     	2022-03-27T16:00Z	                                    		Denver, CO		
   BAMA	 13310	2022-03-27	 1:00pm	M	  	BAMA 	at	  	VANDY	 	   	 	C	d1     	2022-03-27T17:00Z	469b3c69-7dc8-424f-b67e-05c5a6f45d56		Nashville, TN		
-   MER	  9526	2022-03-27	 1:00pm	M	  	CHAT 	at	  	MER  	 	   	 	C	d1     	2022-03-27T17:00Z	                                    		Macon, GA	[LeRoy Peddy Tennis Center](/facilities/?id=8)	
+   MER	  9526	2022-03-27	 1:00pm	M	  	CHAT 	at	  	MER  	 	   	 	C	d1     	2022-03-27T17:00Z	3216ea30-a5a0-42c5-ae8e-7f86b30cec01		Macon, GA	[LeRoy Peddy Tennis Center](/facilities/?id=8)	
    DUQ	 16445	2022-03-27	 1:00pm	M	  	DAY  	at	  	DUQ  	 	   	 	C	d1     	2022-03-27T17:00Z	568b5644-2644-4d63-a92d-fa672a84c4ae		Pittsburgh, PA	[Alpha Tennis And Fitness of Pittsburgh](http://alphatennis.net/)	[History](/sports/mens-tennis/opponent-history/university-of-dayton/31)
   RICE	 25290	2022-03-27	 1:00pm	M	  	ETSU 	at	  	RICE 	 	   	 	 	d1     	2022-03-27T17:00Z	1f8e8771-8fd6-40c0-9a31-53b6ac6e6a2f	[Ralph O'Connor Rice Invitational](https://riceowls.co/62ndOConnor)	Houston, TX	[George R. Brown Tennis Center](/facilities/?id=7)	[History](/sports/mens-tennis/opponent-history/east-tennessee-state-university/1678)
   UNCG	  7638	2022-03-27	 1:00pm	M	  	FUR  	at	  	UNCG 	 	   	 	 	d1     	2022-03-27T17:00Z	                                    		Greensboro, NC		[History](/sports/mens-tennis/opponent-history/furman/2)
@@ -2043,11 +2044,11 @@ Sthlnd	 41431	2022-03-21	 3:30pm	M	  	XULA 	at	  	UNO  	 	   	 	 	naia/d1	2022-0
   ELON	  7539	2022-03-30	 3:00pm	M	  	DAV  	at	  	ELON 	 	   	 	 	d1     	2022-03-30T19:00Z	                                    		Elon, NC	[Jimmy Powell Tennis Center](/facilities/?id=19)	
    ITA	  6961	2022-03-30	 3:00pm	M	  	FSU  	at	  	MIA  	 	   	 	C	d1     	2022-03-30T19:00Z	9b4b1cb9-e67a-4549-8155-cafc89aac21e				
   UCSD	  8867	2022-03-30	 6:00pm	M	  	UCI  	at	  	UCSD 	 	   	 	C	d1     	2022-03-30T22:00Z	                                    		La Jolla, CA	[Northview Tennis Courts](/facilities/?id=7)	
-   OVC	 32823	2022-03-31	    TBA	M	  	CHAT 	at	  	TNTC 	 	   	 	 	d1     	                 	                                    		Cookeville, TN		
    DEL	 29426	2022-03-31	    TBA	M	  	DEL  	at	  	CIT  	 	   	 	 	d1     	                 	                                    		Charleston, SC		[History](/sports/mens-tennis/opponent-history/the-citadel/122)
    UND	 12344	2022-03-31	    TBA	M	  	UND  	at	  	IUPUI	 	   	 	 	d1     	                 	                                    		Indianapolis, IN		
   UCSD	  8866	2022-03-31	 1:00pm	M	  	BYU  	at	  	UCSD 	 	   	 	 	d1     	2022-03-31T17:00Z	fd2ee639-50bc-4156-8275-c6a5aa5089e3		La Jolla, CA	[Northview Tennis Courts](/facilities/?id=7)	
    AFA	 14396	2022-03-31	 2:00pm	M	  	ORU  	at	  	AFA  	 	   	 	 	d1     	2022-03-31T18:00Z	2ed6f017-5980-4e7c-802c-b49e0c9b01f9		USAFA		
+   ITA	 37143	2022-03-31	 3:00pm	M	  	CHAT 	at	  	TNTC 	 	   	 	 	d1     	2022-03-31T19:00Z	1a0cb6a6-a758-4258-a48b-28c580409c40				
    LOY	 15318	2022-03-31	 3:00pm	M	  	HOF  	at	  	LOY  	 	   	 	 	d1     	2022-03-31T19:00Z	27aac097-05e1-4ecf-90dc-df78b62948ed		Baltimore, MD	[McClure Tennis Center at Ridley Athletic Complex](/facilities/?id=5)	
   NICH	  9247	2022-03-31	 3:00pm	M	  	NICH 	at	  	IWORD	 	   	 	C	d1     	2022-03-31T19:00Z	                                    		San Antonio, TX		[History](/sports/mens-tennis/opponent-history/university-of-the-incarnate-word/62)
    SAM	 12161	2022-03-31	 3:00pm	M	  	UAB  	at	  	SAM  	 	   	 	 	d1     	2022-03-31T19:00Z	                                    		Birmingham, AL		[History](/sports/mens-tennis/opponent-history/university-of-alabama-at-birmingham/186)
@@ -2335,6 +2336,7 @@ Sthlnd	 41458	2022-04-01	 3:00pm	M	  	NICH 	at	  	TRITX	 	   	 	 	d1/d3  	2022-0
  RIDER	 10384	2022-04-09	11:00am	M	  	RIDER	at	  	NIA  	 	   	 	C	d1     	2022-04-09T15:00Z	                                    		Niagara Falls, NY		[History](/sports/mens-tennis/opponent-history/niagara-university/47)
    NKU	  5960	2022-04-09	11:00am	M	  	YSU  	at	  	NKU  	 	   	 	C	d1     	2022-04-09T15:00Z	                                    		Highland Heights, KY	Joyce Yeager Tennis Complex	[History](/sports/mens-tennis/opponent-history/youngstown-state-university/175)
  SnBlt	 36120	2022-04-09	12:00pm	M	  	CCAR 	at	  	GASO 	 	   	 	C	d1     	2022-04-09T16:00Z	                                    		Statesboro, GA		[Live Stats](https://jerseymakers.com/GaSouthern/tennis/)
+   ITA	 15535	2022-04-09	12:00pm	M	  	CMS  	at	  	UCR  	 	   	 	 	d3/d1  	2022-04-09T16:00Z	f5d13c9a-4b4b-410d-99bd-e34e3649aabc				
    JMU	 18660	2022-04-09	12:00pm	M	  	JMU  	at	  	DEL  	 	   	 	C	d1     	2022-04-09T16:00Z	de26ab22-acdf-47eb-89d3-fd0b39913e24		Newark, DE		[History](/sports/mens-tennis/opponent-history/delaware/35)
   PENN	 18240	2022-04-09	 1:00pm	M	  	BROWN	at	  	PENN 	 	   	 	 	d1     	2022-04-09T17:00Z	                                    		Hamlin Tennis Center		
    Ivy	 54671	2022-04-09	 1:00pm	M	  	DART 	at	  	COR  	 	   	 	C	d1     	2022-04-09T17:00Z	                                    		Ithaca, NY		
@@ -2428,7 +2430,7 @@ Sthlnd	 41409	2022-04-12	 2:00pm	M	  	A&MCC	at	  	IWORD	 	   	 	C	d1     	2022-0
  RIDER	 10385	2022-04-12	 2:30pm	M	  	RIDER	at	  	NOVA 	 	   	 	 	d1     	2022-04-12T18:30Z	                                    		Villanova, PA		[History](/sports/mens-tennis/opponent-history/villanova-university/36)
    FUR	  7693	2022-04-12	 3:00pm	M	  	ETSU 	at	  	FUR  	 	   	 	C	d1     	2022-04-12T19:00Z	724b8025-c269-447e-b901-f22cd0a610e5		GREENVILLE		[Live Stats](http://stats.statbroadcast.com/statmonitr/?id=382100) [History](/sports/mens-tennis/opponent-history/east-tennessee-state-university/74)
   MORG	  5673	2022-04-12	 3:00pm	M	  	MORG 	at	  	DEL  	 	   	 	 	d1     	2022-04-12T19:00Z	                                    		Newark, DE		[History](/sports/mens-tennis/opponent-history/university-of-delaware/65)
-  PEAY	 10574	2022-04-12	 3:00pm	M	  	PEAY 	at	  	CHAT 	 	   	 	 	d1     	2022-04-12T19:00Z	                                    		Chattanooga		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/12)
+  PEAY	 10574	2022-04-12	 3:00pm	M	  	PEAY 	at	  	CHAT 	 	   	 	 	d1     	2022-04-12T19:00Z	5a6c4360-fdae-4683-90f7-1fcce97e919c		Chattanooga		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/12)
     VT	 24549	2022-04-13	 3:00pm	M	 7	UVA  	at	  	VT   	 	   	 	C	d1     	2022-04-13T19:00Z	61b76939-2bc9-4635-ac56-bd813b03126b		Blacksburg, VA	[Burrows-Burleson Tennis Center](/facilities/?id=7)	[Live Stats](/sports/2019/1/16/mens-tennis-live-stats.aspx)
    USD	 12333	2022-04-13	 8:00pm	M	  	USD  	at	 9	USC  	 	   	 	 	d1     	2022-04-14T00:00Z	e7deda54-54b8-4526-9bf8-8996abd86a81		Los Angeles, CA		[History](/sports/mens-tennis/opponent-history/university-of-southern-california/124)
   NICH	  9251	2022-04-13	       	M	  	NICH 	at	  	JKST 	 	   	 	 	d1     	                 	99c39632-f27f-4e25-a01e-385d8947b5d2		Jackson, MS		[History](/sports/mens-tennis/opponent-history/jackson-state-university/8)
@@ -2526,7 +2528,7 @@ Sthlnd	 41409	2022-04-12	 2:00pm	M	  	A&MCC	at	  	IWORD	 	   	 	C	d1     	2022-0
   FGCU	 10559	2022-04-16	10:00am	M	  	FGCU 	at	  	UNA  	 	   	 	C	d1     	2022-04-16T14:00Z	88d9d733-b915-423a-af9f-8a767f8500af		Florence, AL		[History](/sports/mens-tennis/opponent-history/university-of-north-alabama/309)
  IUPUI	 15342	2022-04-16	10:00am	M	  	IUPUI	at	  	CLEV 	 	   	 	C	d1     	2022-04-16T14:00Z	                                    		Cleveland, OH		[History](/sports/mens-tennis/opponent-history/cleveland-state-university/25)
    GMU	 11725	2022-04-16	10:00am	M	  	SBU  	at	  	GMU  	 	   	 	C	d1     	2022-04-16T14:00Z	                                    		Fairfax, Va. [Tennis Courts](	facilities/?id=7)	[History](/sports/mens-tennis/opponent-history/st-bonaventure-university/115)
-  UNCG	  7643	2022-04-16	11:00am	M	  	UNCG 	at	  	CHAT 	 	   	 	 	d1     	2022-04-16T15:00Z	                                    		Chattanooga, TN		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/1)
+  UNCG	  7643	2022-04-16	11:00am	M	  	UNCG 	at	  	CHAT 	 	   	 	 	d1     	2022-04-16T15:00Z	7397e85d-6a59-4cb6-98e3-ca8fb118d536		Chattanooga, TN		[History](/sports/mens-tennis/opponent-history/university-of-tennessee-at-chattanooga/1)
    LAF	 11535	2022-04-16	12:00pm	M	  	BUCK 	at	  	LAF  	 	   	 	C	d1     	2022-04-16T16:00Z	                                    				
    FUR	  7699	2022-04-16	12:00pm	M	  	CIT  	at	  	FUR  	 	   	 	C	d1     	2022-04-16T16:00Z	                                    		GREENVILLE		[Live Stats](http://stats.statbroadcast.com/statmonitr/?id=382102) [History](/sports/mens-tennis/opponent-history/the-citadel/52)
    ACC	 75773	2022-04-16	12:00pm	M	  	FSU  	at	  	GT   	 	   	 	C	d1     	2022-04-16T16:00Z	                                    		Atlanta, GA		

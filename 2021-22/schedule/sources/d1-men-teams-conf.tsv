@@ -5,13 +5,13 @@ gender: men
 description: schedule/scoreboard from conference websites
 updated: 2022-01-21
 past: 140 (7%)
-today: 31 (2%)
+today: 34 (2%)
 future: 1648 (85%)
-completed: 107 (63%)
-postponed: 15 (9%)
+completed: 125 (72%)
+postponed: 14 (8%)
 cancelled: 10 (6%)
-unreported: 39 (23%)
-total: 1948
+unreported: 25 (14%)
+total: 1949
 ---
 source	id	dateET	timeET	gender	rank	team	at	oppRank	opponent	outcome	score	neutral	conference	division	domain	dateGMT	tournament	timeZone	timeDisplay	location	facility	tv	radio	links
   MAAC	 72258	2021-09-12	 2:30pm	M	  	WAL  	at	  	NIA  	L	2-4	 	 	d2/d1  		2021-09-12T18:30Z		ET 	2:30 P.M.     	Niagara University, NY                          				[Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgkA2dyMudS5StQjxUggv15DSytbkAePwvqa83wFR37NhGIJXUfmG5ynE9FsHN7tJrMeQm84tr%2bIW3p%2fdJUiumSGBiZUGYz5hXPysb3GUWzcvQ%3d%3d&path=mten)
@@ -81,7 +81,6 @@ Sthlnd	 41392	2022-01-15	 2:00pm	M	  	IWORD	at	24	OKLA 	L	0-7	 	 	d1     		2022-
  Amrcn	 35878	2022-01-15	 3:00pm	M	  	PUR  	at	  	SMU  	L	3-4	 	 	d1     		2022-01-15T20:00Z		   	2:00 P.M.     	Dallas, TX                                      				[Live Stats](https://smumustangs.com/sports/2017/1/12/sports-mten-live-scoring.aspx)
  SnBlt	 36065	2022-01-15	 5:00pm	M	  	TROY 	at	  	FGCU 	L	3-4	 	 	d1     		2022-01-15T22:00Z		CT 	4:00 PM       	Fort Myers, FL                                  				
   Hrzn	 38777	2022-01-15	 5:00pm	M	  	UIC  	at	  	WMU  	C	   	 	 	d1     		2022-01-15T22:00Z		CT 	4:00 P.M.     	Kalamazoo, MI                                   				
-   SCn	106209	2022-01-15	 5:00pm	M	  	WOF  	at	  	CLEM 	P	   	 	 	d1     		2022-01-15T22:00Z		   	5:00 P.M.     	Clemson, SC                                     				
  BgSky	 48432	2022-01-15	 6:00pm	M	  	IDST 	at	  	UTAH 	L	1-6	 	 	d1     		2022-01-15T23:00Z		MT 	4:00 p.m. MT  	Salt Lake City, UT                              				[Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRglwTI7wf6k4lWfZqZWqCW5xpH3yiK0ZrEe2cOdCp3ZXXDUJR0qT9LQPN2CUUq2eEmSgMzzRlRvLlbbktd8TDnaU&path=mten)
    SCn	106642	2022-01-15	 7:00pm	M	  	SAM  	at	  	BAMA 	L	2-5	 	 	d1     		2022-01-16T00:00Z		   	7:00 P.M.     	Tuscaloosa, AL                                  				[Track.Tennis](https://web.track.tennis/events/watch?key=560.OO1X-KHZtgo#/)
  BgSky	 48425	2022-01-15	 7:00pm	M	  	WEBER	at	  	ORE  	L	1-6	 	 	d1     		2022-01-16T00:00Z		MT 	5:00 p.m. MT  	Eugene, OR                                      				
@@ -151,45 +150,47 @@ Sthlnd	 41474	2022-01-19	 3:00pm	M	  	PVA&M	at	  	A&MCC	L	0-7	 	 	d1     		2022-
  BgSky	 48455	2022-01-20	 1:00pm	M	  	SACST	at	  	UCSD 	 	   	 	 	d1     		2022-01-20T18:00Z		   	11:00 a.m.    	La Jolla, CA                                    				
    ACC	 76317	2022-01-20	 2:00pm	M	  	PRIN 	at	  	NCST 	L	1-6	 	 	d1     		2022-01-20T19:00Z		ET 	2:00 P.M.     	Raleigh, NC                                     				[Video](https://web.track.tennis/events/watch?key=629.c2EAW2g8A28) [Live Stats](http://sidearmstats.com/ncsu/mten/xlive.htm)
  SnBlt	 36069	2022-01-20	 2:00pm	M	  	TROY 	at	  	AUBM 	 	   	 	 	d1/d2  		2022-01-20T19:00Z		CT 	1:00 PM       	Montgomery, AL                                  				
-  MAAC	 74466	2022-01-20	 5:00pm	M	  	QUIN 	at	  	BROWN	 	   	 	 	d1     		2022-01-20T22:00Z		ET 	5:00 P.M.     	Providence, RI / Varsity Tennis Courts          				
+   Ivy	 54617	2022-01-20	 5:00pm	M	  	QUIN 	at	  	BROWN	L	0-7	 	 	d1     		2022-01-20T22:00Z		ET 	5:00 P.M.     	Providence, RI                                  				
+  MAAC	 74466	2022-01-20	 5:00pm	M	  	QUIN 	at	  	BROWN	L	0-7	 	 	d1     		2022-01-20T22:00Z		ET 	5:00 P.M.     	Providence, RI / Varsity Tennis Courts          				
    ACC	 76318	2022-01-20	 6:00pm	M	  	CAMP 	at	  	NCST 	L	0-7	 	 	d1     		2022-01-20T23:00Z		ET 	6:00 P.M.     	Raleigh, NC                                     				[Video](https://web.track.tennis/events/watch?key=630.BASaUDVPfBI) [Live Stats](http://sidearmstats.com/ncsu/mten/xlive.htm)
  BgSth	 94319	2022-01-20	 6:00pm	M	  	CAMP 	at	  	NCST 	L	0-7	 	 	d1     		2022-01-20T23:00Z		ET 	6:00 P.M.     	Raleigh, NC                                     				[Video](https://web.track.tennis/events/watch?key=630.BASaUDVPfBI) [Live Stats](http://sidearmstats.com/ncsu/mten/xlive.htm)
-  Bg12	154968	2022-01-21	 5:00pm	M	 5	TEX  	at	14	ARIZ 	 	   	 	 	d1     		2022-01-21T22:00Z		CT 	4:00 P.M.     	Tucson, AZ                                      				
-   ACC	 76299	2022-01-21	 4:00pm	M	  	LOU  	at	11	UK   	 	   	 	 	d1     		2022-01-21T21:00Z		ET 	4:00 P.M.     	Lexington, KY                                   				[Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm)
- BgSth	 94448	2022-01-21	 9:00am	M	  	PRES 	at	12	SCAR 	L	1-6	 	 	d1     		2022-01-21T14:00Z		ET 	9:00 A.M.     	Columbia, SC                                    				
+  Bg12	154968	2022-01-21	 5:00pm	M	 5	TEX  	at	14	ARIZ 	L	3-4	 	 	d1     		2022-01-21T22:00Z		CT 	4:00 P.M.     	Tucson, AZ                                      				
+   ACC	 76299	2022-01-21	 4:00pm	M	  	LOU  	at	11	UK   	L	0-4	 	 	d1     		2022-01-21T21:00Z		ET 	4:00 P.M.     	Lexington, KY                                   				[Video](https://web.track.tennis/events/watch?key=664.AJXIIy9vFjU#/) [Live Stats](http://www.sidearmstats.com/ukentucky/tennis/xlive.htm) [Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRglyeEDOa%2bLoBi97ID9TjD7PUoagTwHPv0sPG4w5xz4I73KQLFKzOih3O0m0dW7Qxw4m7Bv%2b6DG%2fJ7NW8A1mWUt8&path=mten)
+ BgSth	 94448	2022-01-21	 8:30am	M	  	PRES 	at	12	SCAR 	L	1-6	 	 	d1     		2022-01-21T13:30Z		ET 	8:30 A.M.     	Columbia, SC                                    				[Box Score](/boxscore.aspx?id=ykkDtjynM9ykCGqn5NAJadBsjYk7TAHfSsNqtjKT4Vp74YX0EgS6GAct%2bfWoXoQjlmUpkH1fude7e8LEzPKPq7RqnyQJMtyirCvKt9to0n80PXdBYnd3Ajh0WH41ygdv&path=mten)
+ BgSth	 94449	2022-01-21	 1:00pm	M	  	PRES 	at	12	SCAR 	L	0-7	 	 	d1     		2022-01-21T18:00Z		ET 	1:00 P.M.     	Columbia, SC                                    				[Box Score](/boxscore.aspx?id=ykkDtjynM9ykCGqn5NAJadBsjYk7TAHfSsNqtjKT4Vp74YX0EgS6GAct%2bfWoXoQjlmUpkH1fude7e8LEzPKPq58z6owJ67UinwcirFb8CGscct5BJ5yvwXjNvk87qT6N&path=mten)
    SCn	106465	2022-01-21	 4:00pm	M	  	CIT  	at	12	SCAR 	P	   	 	 	d1     		2022-01-21T21:00Z		   	4:00 P.M.     	Columbia, SC                                    				
   Bg12	154932	2022-01-21	 6:00pm	M	  	OKST 	at	18	MISS 	P	   	 	 	d1     		2022-01-21T23:00Z		CT 	5:00 P.M.     	Oxford, MS                                      				
    ACC	 76280	2022-01-21	 4:00pm	M	20	HARV 	at	  	VT   	C	   	 	 	d1     		2022-01-21T21:00Z		ET 	4:00 P.M.     	Blacksburg, VA                                  				[Live Stats](/sports/2019/1/16/mens-tennis-live-stats.aspx)
    Ivy	 54768	2022-01-21	 4:00pm	M	20	HARV 	at	  	VT   	 	   	 	 	d1     		2022-01-21T21:00Z		ET 	4:00 P.M.     	Blacksburg, VA                                  				
-   SCn	106287	2022-01-21	10:00am	M	  	JVST 	at	  	CHAT 	 	   	 	 	d1     		2022-01-21T15:00Z		   	10:00 A.M.    	Chattanooga, TN                                 				
+   SCn	106287	2022-01-21	10:00am	M	  	JVST 	at	  	CHAT 	W	4-3	 	 	d1     		2022-01-21T15:00Z		   	10:00 A.M.    	Chattanooga, TN                                 				
  SnBlt	 36028	2022-01-21	11:00am	M	  	SALA 	at	  	FSU  	 	   	 	 	d1     		2022-01-21T16:00Z		CT 	10:00 AM      	Tallahassee, FL                                 				
- BgSth	 94449	2022-01-21	12:00pm	M	  	CIT  	vs	  	PRES 	 	   	N	 	d1     		2022-01-21T17:00Z		ET 	12:00 P.M.    	Columbia, SC                                    				
+ Amrcn	 36780	2022-01-21	11:00am	M	  	TEM  	at	  	VCU  	L	2-5	 	 	d1     		2022-01-21T16:00Z		   	10:00 A.M.    	Richmond, VA                                    				
    SCn	106466	2022-01-21	12:00pm	M	  	CIT  	vs	  	PRES 	P	   	N	 	d1     		2022-01-21T17:00Z		   	12:00 P.M.    	Columbia, SC                                    				
-   ACC	 76497	2022-01-21	12:00pm	M	  	SALA 	at	  	FSU  	 	   	 	 	d1     		2022-01-21T17:00Z		   	12:00 P.M.    	Tallahassee, FL                                 				
-   ACC	 75571	2022-01-21	 1:00pm	M	  	FGCU 	at	  	MIA  	 	   	 	 	d1     		2022-01-21T18:00Z		   	1:00 P.M.     	Coral Gables, FL                                				
+   ACC	 76497	2022-01-21	12:00pm	M	  	SALA 	at	  	FSU  	L	0-4	 	 	d1     		2022-01-21T17:00Z		   	12:00 P.M.    	Tallahassee, FL                                 				
+   ACC	 75571	2022-01-21	 1:00pm	M	  	FGCU 	at	  	MIA  	L	1-6	 	 	d1     		2022-01-21T18:00Z		   	1:00 P.M.     	Coral Gables, FL                                				
    SCn	106166	2022-01-21	 1:00pm	M	  	KENN 	at	  	UNCG 	C	   	 	 	d1     		2022-01-21T18:00Z		   	1:00 P.M.     	Greensboro, NC                                  				
  BgSky	 48456	2022-01-21	 1:00pm	M	  	SACST	at	  	UCR  	 	   	 	 	d1     		2022-01-21T18:00Z		   	11:00 a.m.    	Riverside, CA                                   				
- C-USA	 66342	2022-01-21	 1:00pm	M	  	UNA  	at	  	MTSU 	 	   	 	 	d1     		2022-01-21T18:00Z		CT 	12:00 P.M.    	Murfreesboro, TN                                				[Video](/showcase/?Live=15514)
+ C-USA	 66342	2022-01-21	 1:00pm	M	  	UNA  	at	  	MTSU 	L	0-7	 	 	d1     		2022-01-21T18:00Z		CT 	12:00 P.M.    	Murfreesboro, TN                                				[Video](/showcase/?Live=15514) [Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgnwBUEh6ssRnoMr%2bVi%2fWiEZxXbWyzX6A5XLlSm3X4Nc0M6G1pTMCyRuu46ZMDR4o%2bXQXgI3Y0b8E5cB1jAm8jFMmb1NXImx9ZRU5YgoX2%2fgxA%3d%3d&path=mten)
    Ivy	 54676	2022-01-21	 2:00pm	M	  	DRAKE	at	  	COR  	 	   	 	 	d1     		2022-01-21T19:00Z		ET 	2:00 P.M.     	Ithaca, NY                                      				
    OVC	 32612	2022-01-21	 2:00pm	M	  	EIU  	at	  	BALL 	 	   	 	 	d1     		2022-01-21T19:00Z		CT 	1:00 P.M.     	Muncie, IN                                      				
  SnBlt	 36029	2022-01-21	 3:00pm	M	  	SALA 	at	  	STET 	 	   	 	 	d1     		2022-01-21T20:00Z		CT 	2:00 PM       	Tallahassee, FL                                 				
    ACC	 76230	2022-01-21	 3:00pm	M	  	UNCW 	at	  	DUKE 	C	   	 	 	d1     		2022-01-21T20:00Z		ET 	3:00 P.M.     	Durham, NC                                      				
  SnBlt	 35997	2022-01-21	 4:00pm	M	  	GAST 	at	  	GT   	 	   	 	 	d1     		2022-01-21T21:00Z		ET 	4:00 PM       	Atlanta, GA                                     				[Live Stats](http://stats.statbroadcast.com/statmonitr/?id=383499)
-   SCn	106643	2022-01-21	 4:00pm	M	  	SAM  	at	  	FSU  	 	   	 	 	d1     		2022-01-21T21:00Z		   	4:00 P.M.     	Tallahassee, FL                                 				
+   SCn	106643	2022-01-21	 4:00pm	M	  	SAM  	at	  	FSU  	L	0-4	 	 	d1     		2022-01-21T21:00Z		   	4:00 P.M.     	Tallahassee, FL                                 				
   Ptrt	116195	2022-01-21	 5:00pm	M	  	BUCK 	at	  	JMU  	 	   	 	 	d1     		2022-01-21T22:00Z		ET 	5:00 P.M.     	Harrisonburg, VA                                				
-   ACC	 75573	2022-01-21	 5:00pm	M	  	ELON 	at	  	CLEM 	 	   	 	 	d1     		2022-01-21T22:00Z		   	5:00 P.M.     	Clemson, SC                                     				
-   ACC	 75572	2022-01-21	 5:00pm	M	  	GAST 	at	  	GT   	 	   	 	 	d1     		2022-01-21T22:00Z		   	5:00 P.M.     	Atlanta, GA                                     				
-   ACC	 76498	2022-01-21	 5:00pm	M	  	SAM  	at	  	FSU  	 	   	 	 	d1     		2022-01-21T22:00Z		   	5:00 P.M.     	Tallahassee, FL                                 				
- C-USA	 66353	2022-01-21	 6:00pm	M	  	BUTL 	at	  	MTSU 	 	   	 	 	d1     		2022-01-21T23:00Z		CT 	5:00 P.M.     	Murfreesboro, TN                                				[Video](/showcase/?Live=15515)
+   ACC	 75572	2022-01-21	 5:00pm	M	  	GAST 	at	  	GT   	L	3-4	 	 	d1     		2022-01-21T22:00Z		   	5:00 P.M.     	Atlanta, GA                                     				
+   ACC	 76498	2022-01-21	 5:00pm	M	  	SAM  	at	  	FSU  	L	0-4	 	 	d1     		2022-01-21T22:00Z		   	5:00 P.M.     	Tallahassee, FL                                 				
+   ACC	 75573	2022-01-21	 5:00pm	M	  	WOF  	at	  	CLEM 	L	0-7	 	 	d1     		2022-01-21T22:00Z		   	5:00 P.M.     	Clemson, SC                                     				
+   SCn	106209	2022-01-21	 5:00pm	M	  	WOF  	at	  	CLEM 	L	0-7	 	 	d1     		2022-01-21T22:00Z		   	5:00 P.M.     	Clemson, SC                                     				
+ C-USA	 66353	2022-01-21	 6:00pm	M	  	BUTL 	at	  	MTSU 	L	0-7	 	 	d1     		2022-01-21T23:00Z		CT 	5:00 P.M.     	Murfreesboro, TN                                				[Video](/showcase/?Live=15515) [Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgnwBUEh6ssRnoMr%2bVi%2fWiEZxXbWyzX6A5XLlSm3X4Nc0M6G1pTMCyRuu46ZMDR4o%2bUJ4nzQkTO0F%2bf4gooQtjYE7W%2bVvjgYeysc8%2fAHUlRH8A%3d%3d&path=mten)
    Ivy	 54679	2022-01-21	 6:00pm	M	  	FORD 	at	  	COR  	 	   	 	 	d1     		2022-01-21T23:00Z		ET 	6:00 P.M.     	Ithaca, NY                                      				
-   SCn	106167	2022-01-21	 6:00pm	M	  	NCCU 	at	  	UNCG 	 	   	 	 	d1     		2022-01-21T23:00Z		   	6:00 P.M.     	Greensboro, NC                                  				
+  MEAC	 61937	2022-01-21	 6:00pm	M	  	NCCU 	at	  	UNCG 	L	0-7	 	 	d1     		2022-01-21T23:00Z		   	6:00 P.M.     	Greensboro, NC                                  				[Box Score](/boxscore.aspx?id=7Gx48kkB20iPlOppZhxXHy%2f5Zy4VtNXkGzuHdKHXRgnBVjBKxcgjlZqY6UsrREKaoy4%2bGNgzRcxPEQBGh%2bszIfjMMWDYlGF6ylZUci9cwJoBm084LKmaXwKVNdI0nr40cNqJfLslESOPKamDOMgEtQ%3d%3d&path=mten)
+   SCn	106167	2022-01-21	 6:00pm	M	  	NCCU 	at	  	UNCG 	L	0-7	 	 	d1     		2022-01-21T23:00Z		   	6:00 P.M.     	Greensboro, NC                                  				
   Ptrt	116273	2022-01-21	 6:00pm	M	  	SBU  	at	  	LOY  	 	   	 	 	d1     		2022-01-21T23:00Z		ET 	6:00 P.M.     	Baltimore, Md./Coppermine Racquet & Fitness Club				
- Amrcn	 36708	2022-01-21	 7:00pm	M	  	MEM  	at	  	NW   	 	   	 	 	d1     		2022-01-22T00:00Z		   	6:00 P.M.     	Evanston, IL                                    				
+ Amrcn	 36708	2022-01-21	 7:00pm	M	  	MEM  	at	  	NW   	 	   	 	 	d1     		2022-01-22T00:00Z		   	6:00 P.M.     	Evanston, IL                                    				[Video](https://nusports.com/showcase?Live=2448) [Live Stats](http://sidearmstats.com/northwestern/mtennis/xlive.htm)
  Amrcn	 35852	2022-01-22	 2:00pm	M	14	UCF  	at	 3	FLA  	 	   	 	 	d1     		2022-01-22T19:00Z		   	1:00 P.M.     	Gainesville, FL                                 				
   Hrzn	 38757	2022-01-22	All Day	M	11	UK   	at	  	NKU  	 	   	 	 	d1     		                 		ET 	All Day       	Highland Heights, KY                            				
   Bg12	156092	2022-01-22	    TBA	M	  	ABCHR	at	24	OKLA 	 	   	 	 	d1     		                 		CT 	TBA           	Norman, OK                                      				
- Amrcn	 35954	2022-01-22	       	M	  	ORU  	at	  	WICH 	 	   	 	 	d1     		                 		   	              	Wichita, KS                                     				[Live Stats](http://statb.us/c/aac/381122)
- Amrcn	 35953	2022-01-22	       	M	  	SLU  	at	  	WICH 	 	   	 	 	d1     		                 		   	              	Wichita, KS                                     				[Live Stats](http://statb.us/c/aac/381121)
   Bg12	155013	2022-01-22	    TBA	M	  	TTU  	at	  	SMU  	 	   	 	 	d1     		                 		CT 	TBA           	Dallas, TX                                      				
    SCn	106644	2022-01-22	 9:00am	M	  	SAM  	vs	  	STET 	 	   	N	 	d1     		2022-01-22T14:00Z		   	9:00 A.M.     	Tallahassee, FL                                 				
    Ivy	 54694	2022-01-22	10:00am	M	  	BING 	at	  	DART 	 	   	 	 	d1     		2022-01-22T15:00Z		ET 	10:00 A.M.    	Hanover, NH                                     				
@@ -198,13 +199,14 @@ Sthlnd	 41474	2022-01-19	 3:00pm	M	  	PVA&M	at	  	A&MCC	L	0-7	 	 	d1     		2022-
 Sthlnd	 41393	2022-01-22	11:00am	M	  	IWORD	at	  	LSU  	 	   	 	 	d1     		2022-01-22T16:00Z		CT 	10:00 A.M.    	Baton Rouge, LA                                 				
  C-USA	 66401	2022-01-22	11:00am	M	  	LAMAR	at	  	RICE 	 	   	 	 	d1     		2022-01-22T16:00Z		CT 	10:00 A.M.    	Houston, TX                                     				
  C-USA	 66289	2022-01-22	12:00pm	M	  	FGCU 	at	  	FAU  	 	   	 	 	d1     		2022-01-22T17:00Z		ET 	12:00 P.M.    	Boca Raton, FL                                  				
- BgSky	 48311	2022-01-22	12:00pm	M	  	MTST 	at	  	GONZ 	 	   	 	 	d1     		2022-01-22T17:00Z		MT 	10:00 a.m. MT 	Spokane, WA                                     				
+ BgSky	 48311	2022-01-22	12:00pm	M	  	MTST 	at	  	GONZ 	 	   	 	 	d1     		2022-01-22T17:00Z		MT 	10:00 a.m. MT 	Spokane, WA                                     				[Video](https://gozags.com/sports/2019/1/15/live-tennis-video-and-stats.aspx)
  SnBlt	 36070	2022-01-22	12:00pm	M	  	POINT	at	  	TROY 	 	   	 	 	naia/d1		2022-01-22T17:00Z		CT 	11:00 AM      	Troy, AL                                        				
  BgSky	 48383	2022-01-22	 1:00pm	M	  	PRST 	at	  	PORT 	 	   	 	 	d1     		2022-01-22T18:00Z		PT 	10:00 a.m. PT 	Portland, OR                                    				
    SCn	107050	2022-01-22	 1:00pm	M	  	SALA 	vs	  	SAM  	 	   	N	 	d1     		2022-01-22T18:00Z		   	1:00 P.M.     	Tallahassee, FL                                 				
    ACC	 75574	2022-01-22	 1:00pm	M	  	UNF  	at	  	MIA  	 	   	 	 	d1     		2022-01-22T18:00Z		   	1:00 P.M.     	Coral Gables, FL                                				
  Amrcn	 35929	2022-01-22	 2:00pm	M	  	PUR  	at	  	TULSA	 	   	 	 	d1     		2022-01-22T19:00Z		   	1:00 P.M.     	Tulsa, OK                                       				[Video](http://streamingtennis.com/tulsa/) [Live Stats](http://streamingtennis.com/tulsa/)
    ACC	 76499	2022-01-22	 2:00pm	M	  	STET 	at	  	FSU  	 	   	 	 	d1     		2022-01-22T19:00Z		   	2:00 P.M.     	Tallahassee, FL                                 				
+ Amrcn	 35953	2022-01-22	 2:30pm	M	  	SLU  	at	  	WICH 	 	   	 	 	d1     		2022-01-22T19:30Z		   	1:30 P.M.     	Wichita, KS                                     				[Live Stats](http://statb.us/c/aac/381121)
 Sthlnd	 41394	2022-01-22	 3:00pm	M	  	IWORD	at	  	LSU  	 	   	 	 	d1     		2022-01-22T20:00Z		CT 	2:00 P.M.     	Baton Rouge, LA                                 				
  SnBlt	 36030	2022-01-22	 3:00pm	M	  	SALA 	at	  	SAM  	 	   	 	 	d1     		2022-01-22T20:00Z		CT 	2:00 PM       	Tallahassee, FL                                 				
    Ivy	 54619	2022-01-22	 3:00pm	M	  	SHU  	at	  	BROWN	 	   	 	 	d1     		2022-01-22T20:00Z		ET 	3:00 P.M.     	Providence, RI                                  				
@@ -214,7 +216,8 @@ Sthlnd	 41394	2022-01-22	 3:00pm	M	  	IWORD	at	  	LSU  	 	   	 	 	d1     		2022-
  Amrcn	 35880	2022-01-22	 4:00pm	M	  	TTU  	at	  	SMU  	 	   	 	 	d1     		2022-01-22T21:00Z		   	3:00 P.M.     	Dallas, TX                                      				[Live Stats](https://smumustangs.com/sports/2017/1/12/sports-mten-live-scoring.aspx)
    Ivy	 54698	2022-01-22	 5:00pm	M	  	BRY  	at	  	DART 	 	   	 	 	d1     		2022-01-22T22:00Z		ET 	5:00 P.M.     	Hanover, NH                                     				
   Ptrt	116336	2022-01-22	 5:00pm	M	  	SBU  	at	  	NAVY 	 	   	 	 	d1     		2022-01-22T22:00Z		ET 	5:00 P.M.     	Annapolis, Md. (TFTC)                           				
- BgSky	 48312	2022-01-22	 6:00pm	M	  	MTST 	at	  	WHITW	 	   	 	 	d1/d3  		2022-01-22T23:00Z		MT 	4:00 p.m. MT  	Spokane, WA                                     				
+ BgSky	 48312	2022-01-22	 6:00pm	M	  	MTST 	at	  	WHITW	 	   	 	 	d1/d3  		2022-01-22T23:00Z		MT 	4:00 p.m. MT  	Spokane, WA                                     				[Video](www.whitworthpirates.com/watch)
+ Amrcn	 35954	2022-01-22	 6:00pm	M	  	ORU  	at	  	WICH 	 	   	 	 	d1     		2022-01-22T23:00Z		   	5:00 P.M.     	Wichita, KS                                     				[Live Stats](http://statb.us/c/aac/381122)
   MAAC	 74469	2022-01-22	 6:00pm	M	  	SJU  	at	  	QUIN 	 	   	 	 	d1     		2022-01-22T23:00Z		ET 	6:00 P.M.     	North Haven, CT                                 				
    Ivy	 54638	2022-01-22	 6:00pm	M	  	VCU  	at	  	CLMB 	 	   	 	 	d1     		2022-01-22T23:00Z		ET 	6:00 P.M.     	New York, NY                                    				
   Bg12	154926	2022-01-22	 7:00pm	M	  	OKST 	at	  	BAMA 	P	   	 	 	d1     		2022-01-23T00:00Z		CT 	6:00 P.M.     	Tuscaloosa, AL                                  				
@@ -234,18 +237,18 @@ Sthlnd	 41394	2022-01-22	 3:00pm	M	  	IWORD	at	  	LSU  	 	   	 	 	d1     		2022-
   SWAC	 37385	2022-01-23	All Day	M	  	PVA&M	at	  	ULLAF	 	   	 	 	d1     		                 		CT 	All Day       	Lafayette, LA                                   				
  SnBlt	 35998	2022-01-23	All Day	M	  	WOF  	at	  	GAST 	 	   	 	 	d1     		                 		ET 	All Day       	Atlanta, GA                                     				
    ACC	 76281	2022-01-23	 9:00am	M	  	CHAT 	at	  	VT   	P	   	 	 	d1     		2022-01-23T14:00Z		ET 	9:00 A.M.     	Blacksburg, VA                                  				[Live Stats](/sports/2019/1/16/mens-tennis-live-stats.aspx)
-   SCn	106288	2022-01-23	 9:00am	M	  	CHAT 	at	  	VT   	 	   	 	 	d1     		2022-01-23T14:00Z		   	9:00 A.M.     	Blacksburg, VA                                  				
+   SCn	106288	2022-01-23	 9:00am	M	  	CHAT 	at	  	VT   	P	   	 	 	d1     		2022-01-23T14:00Z		   	9:00 A.M.     	Blacksburg, VA                                  				
  C-USA	 66371	2022-01-23	10:00am	M	  	AUB  	at	  	ODU  	 	   	 	 	d1     		2022-01-23T15:00Z		ET 	10:00 A.M.    	Norfolk, VA                                     				[Live Stats](http://sidearmstats.com/olddominion/mten/xlive.htm)
    ACC	 75795	2022-01-23	11:00am	M	  	ELON 	at	  	DUKE 	 	   	 	 	d1     		2022-01-23T16:00Z		ET 	11:00 A.M.    	Durham, NC                                      				
    SCn	106467	2022-01-23	12:00pm	M	  	CIT  	at	  	GT   	 	   	 	 	d1     		2022-01-23T17:00Z		   	12:00 P.M.    	Atlanta, GA                                     				
    SCn	106640	2022-01-23	12:00pm	M	  	ETSU 	at	  	CLEM 	 	   	 	 	d1     		2022-01-23T17:00Z		   	12:00 P.M.    	Clemson, SC                                     				
  SnBlt	 36103	2022-01-23	12:00pm	M	  	GASO 	at	  	FUR  	 	   	 	 	d1     		2022-01-23T17:00Z		ET 	12:00 PM      	Greenville, SC                                  				[Live Stats](http://stats.statbroadcast.com/statmonitr/?id=382090)
-   SCn	106289	2022-01-23	 1:00pm	M	  	CHAT 	vs	  	GTWN 	 	   	N	 	d1     		2022-01-23T18:00Z		   	1:00 P.M.     	Blacksburg, VA                                  				
+   SCn	106289	2022-01-23	 1:00pm	M	  	CHAT 	vs	  	GTWN 	P	   	N	 	d1     		2022-01-23T18:00Z		   	1:00 P.M.     	Blacksburg, VA                                  				
   Hrzn	 39191	2022-01-23	 1:00pm	M	  	CLEV 	at	  	BALL 	 	   	 	 	d1     		2022-01-23T18:00Z		   	1:00 P.M.     	Muncie, IN                                      				
  BgSth	 94348	2022-01-23	 1:00pm	M	  	GWEBB	at	  	DAV  	 	   	 	 	d1     		2022-01-23T18:00Z		ET 	1:00 P.M.     	Davidson, NC                                    				
  BgSky	 48258	2022-01-23	 1:00pm	M	  	IDAHO	vs	  	NEV  	 	   	N	 	d1     		2022-01-23T18:00Z		PT 	10:00 a.m. PT 	Spokane, Wash.                                  				
  BgSky	 48433	2022-01-23	 1:00pm	M	  	IDST 	at	  	USU  	 	   	 	 	d1     		2022-01-23T18:00Z		MT 	11:00 a.m. MT 	Logan, UT                                       				
-   ACC	 76300	2022-01-23	 1:00pm	M	  	LOU  	at	  	NW   	 	   	 	 	d1     		2022-01-23T18:00Z		ET 	1:00 P.M.     	Evanston, IL                                    				[Video](http://sidearmstats.com/northwestern/mtennis/xlive.htm) [Live Stats](http://sidearmstats.com/northwestern/mtennis/xlive.htm)
+   ACC	 76300	2022-01-23	 1:00pm	M	  	LOU  	at	  	NW   	 	   	 	 	d1     		2022-01-23T18:00Z		ET 	1:00 P.M.     	Evanston, IL                                    				[Video](https://nusports.com/watch/?Live=2454&type=Live) [Live Stats](http://sidearmstats.com/northwestern/mtennis/xlive.htm)
   MEAC	 61439	2022-01-23	 1:00pm	M	  	SFU  	at	  	MORG 	 	   	 	 	d1     		2022-01-23T18:00Z		   	1:00 P.M.     	Baltimore, MD                                   				
    SCn	106210	2022-01-23	 1:00pm	M	  	WOF  	at	  	GAST 	 	   	 	 	d1     		2022-01-23T18:00Z		   	1:00 P.M.     	Atlanta, GA                                     				
    SCn	106112	2022-01-23	 2:00pm	M	  	GASO 	at	  	FUR  	 	   	 	 	d1     		2022-01-23T19:00Z		ET 	2:00 P.M.     	Greenville, SC                                  				[Live Stats](http://stats.statbroadcast.com/statmonitr/?id=382090)
@@ -353,7 +356,7 @@ Sthlnd	 41428	2022-01-28	 3:00pm	M	  	UNO  	at	  	ALCN 	 	   	 	 	d1     		2022-
  Amrcn	 35909	2022-01-30	       	M	  	TULN 	at	16	STAN 	 	   	 	 	d1     		                 		   	              	Orlando, FL                                     				
 Sthlnd	 41475	2022-01-30	 6:00pm	M	  	A&MCC	at	19	A&M  	 	   	 	 	d1     		2022-01-30T23:00Z		CT 	5:00 P.M.     	College Station, TX                             				
    ACC	 76294	2022-01-30	    TBD	M	  	CLEM 	at	  	MIA  	 	   	 	C	d1     		                 		   	TBD           	Waco, TX                                        				
-   ACC	 75790	2022-01-30	    TBA	M	  	CLEM 	vs	  	MIA  	 	   	N	 	d1     		                 		   	TBA           	Waco, TX                                        				
+   ACC	 75579	2022-01-30	    TBA	M	  	CLEM 	vs	  	MIA  	 	   	N	 	d1     		                 		   	TBA           	Waco, TX                                        				
    ACC	 76290	2022-01-30	    TBA	M	  	MIA  	at	  	CLEM 	 	   	 	C	d1     		                 		   	TBA           	Waco, TX                                        				
   SWAC	 37387	2022-01-30	    TBA	M	  	PVA&M	at	  	NICH 	 	   	 	 	d1     		                 		CT 	TBA           	Thibodaux, LA                                   				
  BgSth	 94509	2022-01-30	    TBA	M	  	TUSC 	at	  	UNCA 	 	   	 	 	d2/d1  		                 		ET 	TBA           	Asheville, NC                                   				
@@ -1525,7 +1528,7 @@ Sthlnd	 41487	2022-04-01	12:00pm	M	  	UNO  	at	  	A&MCC	 	   	 	C	d1     		2022-
   SWAC	 37328	2022-04-01	 2:00pm	M	  	UAB  	at	  	ALST 	 	   	 	 	d1     		2022-04-01T18:00Z		CT 	1:00 P.M.     	Montgomery, AL                                  				
    SCn	106099	2022-04-01	 2:00pm	M	  	UNCG 	at	  	ETSU 	 	   	 	C	d1     		2022-04-01T18:00Z		   	2:00 P.M.     	Johnson City, TN                                				
  Amrcn	 35925	2022-04-01	 2:00pm	M	  	USF  	at	  	TULN 	 	   	 	 	d1     		2022-04-01T18:00Z		   	1:00 P.M.     	New Orleans, LA                                 				
- Amrcn	 35970	2022-04-01	 3:00pm	M	  	MEM  	vs	  	WICH 	 	   	N	 	d1     		2022-04-01T19:00Z		   	2:00 P.M.     	Dallas, TX                                      				
+ Amrcn	 35971	2022-04-01	 3:00pm	M	  	MEM  	vs	  	WICH 	 	   	N	 	d1     		2022-04-01T19:00Z		   	2:00 P.M.     	Dallas, TX                                      				
 Sthlnd	 41458	2022-04-01	 3:00pm	M	  	NICH 	at	  	TRITX	 	   	 	 	d1/d3  		2022-04-01T19:00Z		CT 	2:00 P.M.     	San Antonio, TX                                 				
    ACC	 75737	2022-04-01	 4:00pm	M	  	GT   	at	  	DUKE 	 	   	 	C	d1     		2022-04-01T20:00Z		ET 	4:00 P.M.     	Durham, NC                                      				
  BgSky	 48330	2022-04-01	 4:00pm	M	  	NAU  	at	  	MTST 	 	   	 	C	d1     		2022-04-01T20:00Z		MT 	2:00 p.m. MT  	Bozeman, MT                                     				
@@ -1561,7 +1564,7 @@ Sthlnd	 41407	2022-04-02	 1:00pm	M	  	UNO  	at	  	IWORD	 	   	 	C	d1     		2022-
   Ptrt	116247	2022-04-02	 2:00pm	M	  	WILKE	at	  	LAF  	 	   	 	 	d3/d1  		2022-04-02T18:00Z		ET 	2:00 P.M.     	                                                				
   Hrzn	 38721	2022-04-02	 2:30pm	M	  	CLEV 	at	  	IUPUI	 	   	 	C	d1     		2022-04-02T18:30Z		ET 	2:30 P.M.     	Indianapolis, IN                                				
   SWAC	 37304	2022-04-02	 3:00pm	M	  	JKST 	at	  	ALA&M	 	   	 	C	d1     		2022-04-02T19:00Z		CT 	2:00 P.M.     	Huntsville, AL                                  				
- Amrcn	 36723	2022-04-02	 3:00pm	M	  	MEM  	vs	  	TEM  	 	   	N	 	d1     		2022-04-02T19:00Z		   	2:00 P.M.     	Dallas, TX                                      				
+ Amrcn	 36721	2022-04-02	 3:00pm	M	  	MEM  	vs	  	TEM  	 	   	N	 	d1     		2022-04-02T19:00Z		   	2:00 P.M.     	Dallas, TX                                      				
    OVC	 32637	2022-04-02	 4:00pm	M	  	PEAY 	at	  	BEL  	 	   	 	C	d1     		2022-04-02T20:00Z		   	3:00 P.M.     	Nashville, TN                                   				
  BgSky	 48295	2022-04-02	 6:00pm	M	  	IDST 	at	  	MONT 	 	   	 	C	d1     		2022-04-02T22:00Z		MT 	4:00 p.m. MT  	Missoula, MT                                    				[Live Stats](http://stats.statbroadcast.com/statmonitr/?id=382365)
   Bg12	154898	2022-04-03	 2:00pm	M	 3	TCU  	at	 2	BAY  	 	   	 	C	d1     		2022-04-03T18:00Z		CT 	1:00 P.M.     	Waco, TX                                        				

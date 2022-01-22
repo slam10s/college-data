@@ -1,0 +1,743 @@
+---
+season: d3
+gender: men
+description: schedule/scoreboard from team websites
+updated: 2022-01-21
+past: 125 (17%)
+today: 1 (0%)
+future: 604 (83%)
+completed: 94 (75%)
+unreported: 32 (25%)
+total: 731
+---
+source	id	dateET	timeET	gender	rank	team	at	oppRank	opponent	outcome	score	neutral	conference	division	dateGMT	teamId	opponentId	dualId
+ITA	 4866	2021-09-04	 1:00pm	M		W&J  	at	  	ALGNY                      	L	0-9	 	 	d3     	2021-09-04T17:00Z			ae79cfd7-b12b-4fd2-b30b-11db4c011d25
+ITA	80983	2021-09-04	 1:00pm	M		SCRAN	at	  	MESS                       	L	3-4	 	 	d3     	2021-09-04T17:00Z			57ec22f0-4707-4abd-9722-031faabf6640
+ITA	71940	2021-09-04	11:00am	M		WITT 	at	  	IUE                        	L	1-6	 	 	d3/naia	2021-09-04T15:00Z			c5d76d79-db38-4384-9e23-fafe44fe831a
+ITA	45709	2021-09-04	 2:00pm	M		JOHN 	at	  	BREV                       	L	1-8	 	 	naia/d3	2021-09-04T18:00Z			9f89c9b3-bc59-4be3-809f-51e6a18be75b
+ITA	41291	2021-09-06	 5:00pm	M		WEBST	at	  	ILLCO                      	 	   	 	 	d3     	2021-09-06T21:00Z			8fd8f40d-799f-4dc3-a1dd-3aa2e9ee83ac
+ITA	  926	2021-09-07	 4:00pm	M		OTTER	at	  	MTVRN                      	W	5-2	 	 	d3/naia	2021-09-07T20:00Z			0733a004-5f0f-449e-90ba-9e9da3ba786b
+ITA	43026	2021-09-07	 7:00pm	M		DEPW 	at	  	IWES                       	L	1-5	 	 	d3/naia	2021-09-07T23:00Z			ceab9067-193d-4751-b4bf-a5b739829740
+ITA	39298	2021-09-08	 4:00pm	M		CED  	at	  	OHWES                      	W	9-0	 	 	d2/d3  	2021-09-08T20:00Z			e6543ae7-9db1-4796-8eb3-935949f2a107
+ITA	53258	2021-09-08	 4:00pm	M		ALGNY	at	  	EDIN                       	L	0-7	 	 	d3/d2  	2021-09-08T20:00Z			28632d1f-098d-41ae-ae2f-72c6b44738b2
+ITA	59537	2021-09-08	 5:00pm	M		CORNR	at	  	CALV                       	 	   	 	 	naia/d3	2021-09-08T21:00Z			e4cbf4e9-4d62-4f48-9cdf-304df0c737d8
+ITA	77917	2021-09-10	 3:30pm	M		WMA  	at	  	NIC                        	L	3-6	 	 	d3     	2021-09-10T19:30Z			4cdf74c6-1dfa-4bb0-9d0a-04f10eca974d
+ITA	45848	2021-09-11	10:00am	M		WEBST	at	  	GVILL                      	 	   	 	 	d3     	2021-09-11T14:00Z			8ab97b0b-1a7b-45a5-bbf6-4737484735cd
+ITA	10146	2021-09-11	12:00pm	M		FRANK	at	  	TRINE                      	L	2-7	 	 	d3     	2021-09-11T16:00Z			25fe93fb-fde9-4e6c-a534-4d77500f8eab
+ITA	23527	2021-09-11	 3:00pm	M		ANDIN	vs	  	WEBST                      	 	   	N	 	d3     	2021-09-11T19:00Z			e7a05870-8081-40c3-87bb-a3c7aec7511e
+ITA	31505	2021-09-11	 5:00pm	M		HAML 	at	  	WARTB                      	L	1-8	 	 	d3     	2021-09-11T21:00Z			2017cfba-2ba7-4db6-8df2-5c1a36885601
+ITA	93534	2021-09-11	 1:30pm	M		HANOV	at	  	IWES                       	L	0-7	 	 	d3/naia	2021-09-11T17:30Z			fc39a493-e197-4b55-9a18-7071b023c604
+ITA	46260	2021-09-11	11:00am	M		GVIEW	at	  	WARTB                      	W	5-4	 	 	naia/d3	2021-09-11T15:00Z			6843384a-5058-4cab-b8f8-9e0f98384ecc
+ITA	56587	2021-09-11	 2:00pm	M		GVIEW	vs	  	HAML                       	W	6-3	N	 	naia/d3	2021-09-11T18:00Z			056bad62-4ad5-48cd-bf54-81c91705af57
+ITA	94280	2021-09-11	 4:30pm	M		JUDIL	at	  	WHEAT                      	W	5-4	 	 	naia/d3	2021-09-11T20:30Z			02ca4bdc-5102-4e0e-bd3a-d1433ea7c530
+ITA	 6061	2021-09-14	 3:30pm	M		DESAL	at	  	LEBAN                      	L	2-7	 	 	d3     	2021-09-14T19:30Z			69402e97-f646-4c79-80c2-5a9e4265385f
+ITA	85557	2021-09-14	 4:00pm	M		LYC  	at	  	SUSQ                       	L	1-8	 	 	d3     	2021-09-14T20:00Z			b1a8125a-3539-4807-8137-6987ba3e61e3
+ITA	85115	2021-09-15	 3:00pm	M		DAEMN	at	  	RIT                        	L	3-6	 	 	d2/d3  	2021-09-15T19:00Z			b1dbcd40-384c-47c1-b8d6-bcecd6c52456
+ITA	59681	2021-09-15	 3:00pm	M		NJCU 	at	  	FDUF                       	W	9-0	 	 	d3     	2021-09-15T19:00Z			cbc4d8dd-8e3a-483c-b9a5-3069e94ca0eb
+ITA	11545	2021-09-15	 3:30pm	M		CAIRN	at	  	ARCAD                      	L	4-5	 	 	d3     	2021-09-15T19:30Z			0efeefcd-794c-4a12-9a2e-cf9d9cc47175
+ITA	55417	2021-09-15	 3:02pm	M		BABS 	at	  	HC                         	W	6-1	 	 	d3/d1  	2021-09-15T19:02Z			1688e9f8-fba9-42b0-b891-645e792ee31d
+ITA	26430	2021-09-15	 6:00pm	M		WITT 	at	  	CED                        	L	0-7	 	 	d3/d2  	2021-09-15T22:00Z			e2e343ff-f5d6-4eb5-884f-cc15b8882faf
+ITA	 3858	2021-09-16	 4:00pm	M		WAL  	at	  	ALGNY                      	W	9-0	 	 	d2/d3  	2021-09-16T20:00Z			9625f2db-2111-42da-b52e-a794f0aa34e7
+ITA	11519	2021-09-16	 4:00pm	M		OHWES	at	  	OTTER                      	L	0-9	 	 	d3     	2021-09-16T20:00Z			d9e7331c-0a26-465a-99c3-130fdd3a9299
+ITA	44656	2021-09-16	 3:00pm	M		BTHIN	at	  	ADRN                       	L	2-7	 	 	naia/d3	2021-09-16T19:00Z			55aad7da-f56d-43ad-a2df-765655cffdd1
+ITA	12910	2021-09-17	 7:00pm	M		COLC 	vs	  	MESA                       	L	0-7	N	 	d3/d2  	2021-09-17T23:00Z			63b26d9e-f008-4bb7-abfc-6a9e5808062b
+ITA	98566	2021-09-17	 3:30pm	M		EMERS	at	  	ENAZ                       	L	3-6	 	 	d3     	2021-09-17T19:30Z			dfaf5804-6202-4569-b7d2-8dec880c724e
+ITA	47080	2021-09-17	 4:30pm	M		CAIRN	at	  	KEAN                       	 	   	 	 	d3     	2021-09-17T20:30Z			0c678e36-dec8-4815-b35e-110a0a1bed1b
+ITA	90796	2021-09-17	 6:00pm	M		FRANK	at	  	USFIN                      	W	4-3	 	 	d3/naia	2021-09-17T22:00Z			502f0ee6-b14a-4d22-a443-7f8201e09a00
+ITA	74744	2021-09-17	 2:00pm	M		SHAWN	at	  	MARC                       	W	7-0	 	 	naia/d3	2021-09-17T18:00Z			caeb4ce9-7c45-409b-a270-0e31159ea9d5
+ITA	 9892	2021-09-18	10:00am	M		WISE 	at	  	EMHEN                      	L	1-6	 	 	d2/d3  	2021-09-18T14:00Z			04825e6d-878e-4711-bd1d-566f3516279b
+ITA	74003	2021-09-18	 3:00pm	M		KWC  	at	  	FRANK                      	 	   	 	 	d2/d3  	2021-09-18T19:00Z			846bf247-d613-4e87-a322-e79a83cee8ac
+ITA	 2180	2021-09-18	10:01am	M		MANC 	at	  	FRANK                      	L	0-9	 	 	d3     	2021-09-18T14:01Z			1f8a84ce-f275-4bcd-895f-3b8e53b7ae24
+ITA	77901	2021-09-18	 1:00pm	M		MTUNI	at	  	WOOST                      	L	0-9	 	 	d3     	2021-09-18T17:00Z			ec108983-8e6a-48be-8ec6-e393f9664c61
+ITA	75088	2021-09-18	 1:00pm	M		PATEC	at	  	SUSQ                       	L	1-8	 	 	d3     	2021-09-18T17:00Z			033f721f-aa5b-42b8-beda-a015cf3ca0f4
+ITA	49708	2021-09-18	 5:00pm	M		WARTB	at	  	BTHLU                      	L	2-7	 	 	d3     	2021-09-18T21:00Z			adfe6b18-98aa-435c-a1b2-a36ce52637d6
+ITA	98163	2021-09-18	 1:00pm	M		OHION	at	  	CED                        	L	2-5	 	 	d3/d2  	2021-09-18T17:00Z			4067b2de-f327-44dc-8e6e-72663b45846c
+ITA	11666	2021-09-18	 1:00pm	M		MBALD	at	  	SHEP                       	L	0-3	 	 	d3/d2  	2021-09-18T17:00Z			9531ae12-0f1b-4c72-b6c6-c2413e2a8729
+ITA	  372	2021-09-18	10:00am	M		DUBQ 	at	  	STAMB                      	 	   	 	 	d3/naia	2021-09-18T14:00Z			37237f70-ec8f-45f6-ba86-78186437610b
+ITA	17220	2021-09-19	10:00am	M		EMERS	at	  	NIC                        	L	3-6	 	 	d3     	2021-09-19T14:00Z			6ad2d3e3-59fb-4a38-b047-dca952801d06
+ITA	76363	2021-09-19	10:00am	M		OHION	at	  	HANOV                      	W	6-3	 	 	d3     	2021-09-19T14:00Z			b13c3bc9-79b1-4ca3-acb9-96ddb9aa192f
+ITA	65019	2021-09-19	 1:00pm	M		REGIS	at	  	CLRK                       	L	2-7	 	 	d3     	2021-09-19T17:00Z			851fe328-5977-49cb-ab9c-d12a13cc5809
+ITA	78342	2021-09-19	 4:00pm	M		OHION	at	  	FRANK                      	W	9-0	 	 	d3     	2021-09-19T20:00Z			c010632d-1a1b-4667-906e-3cc4ffe7f48f
+ITA	22432	2021-09-19	 5:00pm	M		LAKEF	at	  	MSOE                       	W	8-1	 	 	d3     	2021-09-19T21:00Z			86ad5cc0-0cea-42bc-b342-83a488044dab
+ITA	88438	2021-09-19	12:00pm	M		ROAN 	at	  	WISE                       	L	3-4	 	 	d3/d2  	2021-09-19T16:00Z			cf5769dc-f75f-434d-830e-737310b6f15e
+ITA	90583	2021-09-21	 3:00pm	M		SUSQ 	at	  	MISER                      	W	9-0	 	 	d3     	2021-09-21T19:00Z			b92f9afe-fcd7-4c35-b607-ca6ff434b7cb
+ITA	55666	2021-09-22	 4:00pm	M		BARD 	at	  	UNION                      	L	1-8	 	C	d3     	2021-09-22T20:00Z			57aa0f7f-a81b-4ac4-a694-83c45e35ba08
+ITA	46798	2021-09-24	 3:30pm	M		LEBAN	at	  	PSUHA                      	W	6-3	 	 	d3     	2021-09-24T19:30Z			31d9f5a9-94a5-41d6-9ce0-961a73323de9
+ITA	16823	2021-09-24	 4:00pm	M		CAP  	at	  	MTVRN                      	L	3-4	 	 	d3/naia	2021-09-24T20:00Z			b1fc3941-7879-4447-bb86-3fd73690b6c5
+ITA	48335	2021-09-25	11:00am	M		ALB  	at	  	ALMA                       	 	   	 	 	d3     	2021-09-25T15:00Z			82d4f8b6-c59b-455a-b764-7d802c49d74f
+ITA	86953	2021-09-25	11:00am	M		MTUNI	at	  	ALGNY                      	L	1-8	 	 	d3     	2021-09-25T15:00Z			d557a673-8353-40cf-82d9-a9159eeeb688
+ITA	21425	2021-09-25	12:00pm	M		FARM 	at	  	FDUF                       	 	   	 	 	d3     	2021-09-25T16:00Z			c1cbb161-5a83-4c7b-921d-6f98895e78a1
+ITA	16076	2021-09-25	 1:00pm	M		FRANC	at	  	OHION                      	L	0-9	 	 	d3     	2021-09-25T17:00Z			0c247290-59ce-4244-b763-776425cf6b3b
+ITA	44742	2021-09-25	 1:00pm	M		MESS 	at	  	GETT                       	L	0-7	 	 	d3     	2021-09-25T17:00Z			6ef2d37b-3479-4de1-9e3e-7124e45f433b
+ITA	48595	2021-09-25	 1:00pm	M		LEBAN	at	  	SUSQ                       	W	6-3	 	 	d3     	2021-09-25T17:00Z			1f35174b-750c-4649-a96a-8f9da9aaa89f
+ITA	 2251	2021-09-25	 2:00pm	M		GWYN 	at	  	CAIRN                      	L	0-6	 	 	d3     	2021-09-25T18:00Z			fed8ece8-9ad0-41d1-a1a3-45c505edadcf
+ITA	94867	2021-09-25	 2:00pm	M		GWYN 	at	  	CAIRN                      	 	   	 	 	d3     	2021-09-25T18:00Z			9b175330-3d2b-48f3-8cff-e53b53dbe50c
+ITA	85423	2021-09-25	 4:00pm	M		OHWES	at	  	OHION                      	L	1-8	 	 	d3     	2021-09-25T20:00Z			be01d101-db4f-4ab3-9db1-ad89dd736c20
+ITA	79732	2021-09-26	 3:00pm	M		WISE 	at	  	BREV                       	W	7-0	 	 	d2/d3  	2021-09-26T19:00Z			3e15e2a1-a1ac-4158-9ea6-ed4eb5049d71
+ITA	20207	2021-09-26	12:00pm	M		EMHEN	at	  	ROAN                       	W	5-2	 	 	d3     	2021-09-26T16:00Z			d8e57f34-871e-4474-82b7-5bce7a073ed2
+ITA	 4310	2021-09-26	 2:00pm	M		WILLM	at	  	LINF                       	L	1-8	 	 	d3     	2021-09-26T18:00Z			9cf77416-de25-4f41-9a84-8f3a9f0869ca
+ITA	99726	2021-09-26	 4:00pm	M		MSOE 	at	  	CARTH                      	L	0-9	 	 	d3     	2021-09-26T20:00Z			3ec0c3ff-2dd9-4f9b-b9ad-8ef04bbbc65f
+ITA	95354	2021-09-26	12:00pm	M		EMERS	at	  	STON                       	L	2-5	 	 	d3/d2  	2021-09-26T16:00Z			5c1d599b-309c-470f-be04-8da63711dcda
+ITA	89578	2021-09-26	12:00pm	M		USFIL	at	  	CARTH                      	L	0-9	 	 	naia/d3	2021-09-26T16:00Z			5e632db4-d9c2-43bb-8570-0d1845e9886f
+ITA	10331	2021-09-27	 3:00pm	M		CAIRN	at	  	MARYW                      	 	   	 	 	d3     	2021-09-27T19:00Z			59a4925a-56f1-4529-9406-73c1e8213e0f
+ITA	 9013	2021-09-27	 4:00pm	M		REGIS	at	  	RWIL                       	 	   	 	 	d3     	2021-09-27T20:00Z			791cd161-668d-44aa-ad85-f0a8237f15c3
+ITA	11770	2021-09-27	 4:00pm	M		REGIS	at	  	RWIL                       	L	2-7	 	 	d3     	2021-09-27T20:00Z			26adead8-947d-4c78-84ef-ea9da6163e1b
+ITA	17785	2021-09-28	 2:00pm	M		BTHIN	at	  	TRINE                      	L	1-8	 	 	naia/d3	2021-09-28T18:00Z			9810550a-fb26-47c7-b22c-58c617c8e259
+ITA	62221	2021-09-28	 5:00pm	M		DOANE	at	  	NEWES                      	W	9-0	 	 	naia/d3	2021-09-28T21:00Z			94e9e733-cc06-4a5a-bbdd-eb270bc8f518
+ITA	95664	2021-09-29	 3:30pm	M		LEBAN	at	  	SCRAN                      	W	6-3	 	 	d3     	2021-09-29T19:30Z			73ee2e72-7c8e-43aa-89a0-83fa9cce984c
+ITA	41254	2021-09-29	 5:30pm	M		WILUT	at	  	CARRL                      	W	6-3	 	 	d3     	2021-09-29T21:30Z			9560a3c6-5387-4750-ad36-2c0e3ad58bab
+ITA	 1356	2021-09-29	11:00am	M		OBRL 	vs	  	WAL                        	L	0-9	N	 	d3/d2  	2021-09-29T15:00Z			9361df4f-3ac5-45d9-9957-f9027035857a
+ITA	30751	2021-09-29	 4:00pm	M		HOPE 	at	  	Northwood University/MI (M)	L	1-6	 	 	d3/d2  	2021-09-29T20:00Z		bac66025-0b79-4ca3-bc79-9ace95603f9e	a70232be-b08c-4570-8359-dec45dc8127c
+ITA	43407	2021-09-29	 4:30pm	M		VISTA	at	  	ICCC                       	L	0-9	 	 	d3/juco	2021-09-29T20:30Z			f1785103-f57a-45f3-9261-584bd7f8971b
+ITA	26605	2021-09-29	 3:00pm	M		JOHN 	at	  	MARYV                      	W	8-1	 	 	naia/d3	2021-09-29T19:00Z			4645ebb3-458a-454b-9ae7-f4b6fbe92d2e
+ITA	53394	2021-09-29	 3:00pm	M		SHAWN	at	  	WITT                       	L	2-5	 	 	naia/d3	2021-09-29T19:00Z			843dd249-8ec1-4a96-9659-83c7ea688065
+ITA	60466	2021-09-29	 4:00pm	M		JUDIL	at	  	ELMH                       	W	9-0	 	 	naia/d3	2021-09-29T20:00Z			b5e3cd0c-ecb1-4980-a3f5-315be06d7b54
+ITA	58857	2021-09-30	 3:30pm	M		BENT 	at	  	NIC                        	 	   	 	 	d2/d3  	2021-09-30T19:30Z			8b4256d0-9701-4fc1-aeff-1e45e097803b
+ITA	85013	2021-09-30	 4:00pm	M		WAYNE	at	  	FROST                      	 	   	 	 	d3/d2  	2021-09-30T20:00Z			7eb68422-840f-4805-8684-b40d4d578b7e
+ITA	 7376	2021-09-30	 2:00pm	M		MILLG	at	  	EMHEN                      	W	6-1	 	 	naia/d3	2021-09-30T18:00Z			01a53a19-0a78-4a1a-b29b-c0606d76b2f5
+ITA	 7108	2021-10-02	12:00pm	M		WISE 	at	  	MARYV                      	W	7-0	 	 	d2/d3  	2021-10-02T16:00Z			625151eb-9d88-4165-b0d2-72a43630f732
+ITA	10394	2021-10-02	11:00am	M		ANDIN	at	  	ALB                        	 	   	 	 	d3     	2021-10-02T15:00Z			eca2ed75-7bd2-44c0-b1bb-10226539298b
+ITA	64836	2021-10-02	11:00am	M		MESS 	at	  	SWAT                       	L	0-9	 	 	d3     	2021-10-02T15:00Z			e0fa5b7a-5956-41cf-9708-4ebc3aa25dd6
+ITA	98619	2021-10-02	 1:00pm	M		PSUAB	at	  	CAIRN                      	 	   	 	 	d3     	2021-10-02T17:00Z			2a00defc-cc13-4625-b8cf-cde4672cf4fd
+ITA	40343	2021-10-02	10:00am	M		BENT 	vs	  	EMERS                      	 	   	N	 	d2/d3  	2021-10-02T14:00Z			d1ed0c80-172d-4d12-b8c0-dcd6017bd03f
+ITA	64623	2021-10-02	 5:00pm	M		EMERS	at	  	BENT                       	 	   	 	 	d3/d2  	2021-10-02T21:00Z			ebf9253c-892f-4354-b042-17c16d94a465
+ITA	72410	2021-10-05	 4:30pm	M		CED  	at	  	WITT                       	L	4-5	 	 	d2/d3  	2021-10-05T20:30Z			ca4ae93b-d1c3-479f-8333-55ab0cfb79f4
+ITA	26123	2021-10-05	 3:00pm	M		CAIRN	at	  	KICO                       	L	2-7	 	 	d3     	2021-10-05T19:00Z			c0fccb60-5eea-4b99-a1f0-706e7bbe0307
+ITA	80072	2021-10-05	 3:00pm	M		CAIRN	at	  	KICO                       	W	6-3	 	 	d3     	2021-10-05T19:00Z			c6206240-1a57-4f49-b19f-67efd02852af
+ITA	46347	2021-10-05	 3:30pm	M		FDUF 	at	  	IMMAC                      	 	   	 	 	d3     	2021-10-05T19:30Z			c7f85bd2-12f6-4275-bbc4-fe34da5657b2
+ITA	55722	2021-10-05	 5:00pm	M		MIDLN	at	  	NEWES                      	W	7-2	 	 	naia/d3	2021-10-05T21:00Z			d74b140d-6292-41ca-836d-5703bfdcb2eb
+ITA	10830	2021-10-07	 3:30pm	M		SPRG 	at	  	NIC                        	L	0-9	 	 	d3     	2021-10-07T19:30Z			dd0ee99c-0b75-4dc7-bf90-4c610a1bc823
+ITA	45825	2021-10-08	11:00am	M		BETHL	at	  	WIEAU                      	 	   	 	 	d3     	2021-10-08T15:00Z			001c55f5-e79c-4e8f-9d4e-7f46c07ba1dd
+ITA	36869	2021-10-09	10:00am	M		MESS 	at	  	DCK                        	L	2-5	 	 	d3     	2021-10-09T14:00Z			49407cf7-d16a-42d8-baa2-3aef580f622a
+ITA	94881	2021-10-09	12:00pm	M		URSNS	at	  	YRKPA                      	 	   	 	 	d3     	2021-10-09T16:00Z			898228e5-b9d4-4ba2-ac30-e2be9e517312
+ITA	 7847	2021-10-09	 1:00pm	M		ENAZ 	at	  	CLRK                       	W	9-0	 	 	d3     	2021-10-09T17:00Z			a9d2df10-1fcf-4291-ad0c-4dcbcb985a65
+ITA	32700	2021-10-09	 1:00pm	M		PSUHA	at	  	SUSQ                       	L	3-6	 	 	d3     	2021-10-09T17:00Z			d4726825-3348-43ae-b801-cbfc5157cf07
+ITA	26537	2021-10-09	 2:00pm	M		CWRU 	at	  	OBRL                       	W	9-0	 	 	d3     	2021-10-09T18:00Z			25fd37eb-396d-4a3a-8199-8fb3fc7d8578
+ITA	48935	2021-10-09	 6:00pm	M		CAP  	at	  	GENEV                      	W	9-0	 	 	d3     	2021-10-09T22:00Z			b765932f-b009-4a39-b31d-944f79e666d1
+ITA	29067	2021-10-09	10:00am	M		CWRU 	vs	  	FIND                       	W	9-0	N	 	d3/d2  	2021-10-09T14:00Z			8ce5ea95-d35e-4299-bc5d-947440242b58
+ITA	58644	2021-10-09	10:00am	M		FIND 	at	  	OBRL                       	W	5-4	 	 	d2/d3  	2021-10-09T14:00Z			5460b5dd-e78e-42d2-b563-05186721b8ef
+ITA	 4160	2021-10-09	 9:00am	M		BTHIN	at	  	MANC                       	W	7-2	 	 	naia/d3	2021-10-09T13:00Z			277d7c60-c266-46ad-89e7-a59ab5e60753
+ITA	48243	2021-10-09	 4:00pm	M		JUDIL	at	  	MANC                       	W	9-0	 	 	naia/d3	2021-10-09T20:00Z			fa0c0cf8-0e4b-4d0b-a5d7-df3fc0f8dc1f
+ITA	83848	2021-10-10	12:00pm	M		WAL  	at	  	WOOST                      	W	8-1	 	 	d2/d3  	2021-10-10T16:00Z			c994b451-8d7d-4099-9280-02b94493bce8
+ITA	32511	2021-10-10	10:00am	M		MID  	at	  	CAP                        	L	0-9	 	 	d3     	2021-10-10T14:00Z			016ff738-dc8b-4ebf-a76a-7d10ba38b4f3
+ITA	27985	2021-10-10	 5:00pm	M		NJCU 	vs	  	WAG                        	 	   	N	 	d3/d1  	2021-10-10T21:00Z			f483b949-4d9b-4fff-9554-da3a577ba249
+ITA	61134	2021-10-12	 3:30pm	M		ENAZ 	at	  	NIC                        	W	6-3	 	 	d3     	2021-10-12T19:30Z			91054d6e-0fd0-4d87-b327-24869e2464c2
+ITA	56237	2021-10-14	 3:00pm	M		ENAZ 	at	  	BENT                       	 	   	 	 	d3/d2  	2021-10-14T19:00Z			207a416d-803a-43f8-ada4-38392ffed782
+ITA	80759	2021-10-15	 3:00pm	M		BENT 	at	  	ENDCT                      	 	   	 	 	d2/d3  	2021-10-15T19:00Z			3cb36edb-65a6-4e40-b351-b155b9184abe
+ITA	69847	2021-10-15	 6:00pm	M		MUW  	at	  	MARYV                      	 	   	 	 	juco/d3	2021-10-15T22:00Z			c2d9791a-2182-4ef2-bece-a538e7dbfe9e
+ITA	62333	2021-10-16	 2:00pm	M		CAT  	at	  	AVER                       	W	5-4	 	 	d2/d3  	2021-10-16T18:00Z			17b9235e-8505-4cee-bf54-13572b5b1d1b
+ITA	98449	2021-10-16	12:00pm	M		ENDCT	at	  	AC                         	 	   	 	 	d3/d2  	2021-10-16T16:00Z			c6a8f2d5-f768-4264-a837-62e7883dfe51
+ITA	28884	2021-10-16	 5:00pm	M		WITT 	at	  	TMORE                      	L	2-5	 	 	d3/naia	2021-10-16T21:00Z			350458db-50f9-4741-a7de-642e217194af
+ITA	93951	2021-10-17	11:30am	M		YESH 	at	  	ALMAG                      	W	6-3	 	 	d3     	2021-10-17T15:30Z			df1a633e-d996-4d32-ad05-7720db821a49
+ITA	67892	2021-10-20	 3:00pm	M		GORD 	at	  	ENAZ                       	 	   	 	 	d3     	2021-10-20T19:00Z			ef08a41b-7dd1-4190-8f0f-aedd4ab3bc4b
+ITA	51189	2021-10-23	11:00am	M		EMHEN	at	  	KING                       	 	   	 	 	d3/d2  	2021-10-23T15:00Z			a307c3cd-1a08-43db-9ae7-e67a5cc041ad
+ITA	93828	2021-10-24	 1:00pm	M		MBALD	at	  	FERM                       	 	   	 	 	d3     	2021-10-24T17:00Z			5cf18032-2346-464b-aafe-a568631bbfb8
+ITA	14680	2021-10-25	 2:00pm	M		MRYMT	at	  	MBALD                      	 	   	 	 	d3     	2021-10-25T18:00Z			80616daf-d337-4cce-bede-b0f6c85887f9
+ITA	58828	2021-11-18	12:00pm	M		MRYMT	at	  	STEV                       	L	4-5	 	 	d3     	2021-11-18T17:00Z			d6946977-bb3c-4c65-8310-391c3bb6dc20
+ITA	20873	2021-11-23	 4:00pm	M		EMHEN	at	  	JOHN                       	W	7-0	 	 	d3/naia	2021-11-23T21:00Z			b811d068-fd75-45e8-86ee-1b23b0b8e8ac
+ITA	60701	2022-01-14	 5:00pm	M		CENTR	at	  	WARTB                      	 	   	 	C	d3     	2022-01-14T22:00Z			1d7addd4-8dde-483d-99da-8ed70a9dbb8a
+ITA	58403	2022-01-21	 5:00pm	M		CMS  	at	 9	USC                        	 	   	 	 	d3/d1  	2022-01-21T22:00Z			23d93813-34bc-411a-bf73-c5230c7739b1
+ITA	48719	2022-01-22	 4:00pm	M		MTST 	at	  	WHITW                      	 	   	 	 	d1/d3  	2022-01-22T21:00Z			f1cf6103-8f23-4b50-a315-3ebb6da398a1
+ITA	65599	2022-01-22	 1:00pm	M		UCSC 	at	  	SCLAR                      	 	   	 	 	d3/d1  	2022-01-22T18:00Z			34a9adcf-6f11-4fd7-a20d-7e88b8823edf
+ITA	93695	2022-01-28	 5:00pm	M		NWCMN	at	  	STMAR                      	 	   	 	 	d3     	2022-01-28T22:00Z			c386b25c-a0e9-41ba-ab4a-de72fc1e6c3a
+ITA	66913	2022-01-29	 1:30pm	M		MLUTH	at	  	STMAR                      	 	   	 	 	d3     	2022-01-29T18:30Z			2aecf19c-8959-448c-9fa5-f5bba1a19f53
+ITA	66731	2022-01-29	 2:00pm	M		NCENT	at	  	CHICG                      	 	   	 	 	d3     	2022-01-29T19:00Z			e0dac065-667f-4eee-a0ed-eadc65780ced
+ITA	37277	2022-01-29	11:00am	M		GUST 	at	  	SEAST                      	 	   	 	 	d3/naia	2022-01-29T16:00Z			6c295baf-db2b-4dd0-9046-16bbc45b3c7f
+ITA	11612	2022-01-29	11:00am	M		ICCC 	at	  	COE                        	 	   	 	 	juco/d3	2022-01-29T16:00Z			ebaa1043-2dcc-4504-b5f5-82038dff1536
+ITA	78708	2022-01-30	 1:00pm	M		CARLE	at	  	STMAR                      	 	   	 	C	d3     	2022-01-30T18:00Z			6102b918-5b4b-43d9-a516-9e5a8048c81a
+ITA	11193	2022-01-31	 3:00pm	M		GUST 	at	  	LEO                        	 	   	 	 	d3/d2  	2022-01-31T20:00Z			a996ae07-2c4d-4301-a7b6-cee1edbb8508
+ITA	12177	2022-01-31	10:00am	M		GUST 	at	  	EFSC                       	 	   	 	 	d3/juco	2022-01-31T15:00Z			61bf814f-ceb5-48a5-a5a6-2cd374cab321
+ITA	89382	2022-02-04	 6:00pm	M		NCWES	at	10	WAKE                       	 	   	 	 	d3/d1  	2022-02-04T23:00Z			a261ede7-d142-4fd0-a593-35c00c3c276c
+ITA	71334	2022-02-04	 2:00pm	M		RIPON	vs	  	STMAR                      	 	   	N	 	d3     	2022-02-04T19:00Z			38e94a13-0821-430e-be37-22e44aedfcaa
+ITA	  686	2022-02-04	 7:00pm	M		LWRNC	vs	  	STMAR                      	 	   	N	 	d3     	2022-02-05T00:00Z			a1e7858d-cb34-43eb-8aa8-d7cd4c72a181
+ITA	29000	2022-02-04	 7:00pm	M		WHITW	at	  	EWU                        	 	   	 	 	d3/d1  	2022-02-05T00:00Z			286c6e02-87db-47c1-94c2-bf3fa16f1ac6
+ITA	26620	2022-02-04	 2:30pm	M		GSCC 	at	  	HUNTC                      	 	   	 	 	juco/d3	2022-02-04T19:30Z			5eac1d61-28bd-4253-a5a1-25e9a6b5631a
+ITA	 9305	2022-02-04	 2:00pm	M		CWRU 	at	  	NWOH                       	 	   	 	 	d3/naia	2022-02-04T19:00Z			7f952238-d683-4a9b-8e32-e4dc5f63a9a9
+ITA	86891	2022-02-04	11:00am	M		MMI  	at	  	HUNTC                      	 	   	 	 	juco/d3	2022-02-04T16:00Z			df065d37-2830-41c7-b832-d7cbc720f6e2
+ITA	 9763	2022-02-05	10:00am	M		SFU  	at	  	CMU                        	 	   	 	 	d1/d3  	2022-02-05T15:00Z			748b7eb2-8fb6-47e5-ae15-ddb0132a673b
+ITA	89907	2022-02-05	12:00am	M		PIED 	at	  	TRANS                      	 	   	 	 	d3     	2022-02-05T05:00Z			b78a6757-88ba-4c60-a889-b04627291d1b
+ITA	 9831	2022-02-05	10:00am	M		NCENT	vs	  	WIEAU                      	 	   	N	 	d3     	2022-02-05T15:00Z			a491eb47-5c47-4cd3-ad4a-c702f4a38cca
+ITA	61846	2022-02-05	11:00am	M		WARTB	at	  	COE                        	 	   	 	C	d3     	2022-02-05T16:00Z			0e0d16c3-9577-4ea7-af78-a29f5e70546c
+ITA	95380	2022-02-05	 1:00pm	M		LUTHR	vs	  	NCENT                      	 	   	N	 	d3     	2022-02-05T18:00Z			24f9f872-4231-4f14-893c-97fc3a7dd110
+ITA	37148	2022-02-05	 1:00pm	M		WARTB	vs	  	WILAC                      	 	   	N	 	d3     	2022-02-05T18:00Z			cd7acb30-5b05-4d9b-b679-be2afb482c45
+ITA	15589	2022-02-05	 4:30pm	M		WILAC	at	  	COE                        	 	   	 	 	d3     	2022-02-05T21:30Z			97ef8e74-f10e-4f31-aa8a-65127d081c37
+ITA	49429	2022-02-05	 5:00pm	M		LORAS	at	  	CRNLC                      	 	   	 	 	d3     	2022-02-05T22:00Z			6335c3f9-3dc0-4684-a8be-cdc5675c5be9
+ITA	45189	2022-02-05	 6:00pm	M		CENTR	at	  	GRINN                      	 	   	 	 	d3     	2022-02-05T23:00Z			48e56bef-f538-4143-8a40-ce7578cac4c4
+ITA	71667	2022-02-05	 4:00pm	M		FDUF 	at	  	BING                       	 	   	 	 	d3/d1  	2022-02-05T21:00Z			745ae540-1d83-48d4-8163-2f41316c0e90
+ITA	 5215	2022-02-05	 5:00pm	M		SCHR 	at	  	SMTX                       	 	   	 	 	d3/d2  	2022-02-05T22:00Z			c7b7076f-3f10-46d6-a393-563a8917494d
+ITA	65894	2022-02-05	 1:00pm	M		SCHR 	vs	  	TABOR                      	 	   	N	 	d3/naia	2022-02-05T18:00Z			0ba7bf2b-e0b8-4d4f-9e84-e32794ca91de
+ITA	34192	2022-02-05	 5:00pm	M		ARC  	at	  	UCSC                       	 	   	 	 	juco/d3	2022-02-05T22:00Z			12adce69-1fb1-4b2c-a793-d5022056cad0
+ITA	90293	2022-02-05	 9:00am	M		ASBUR	vs	  	ILWES                      	 	   	N	 	naia/d3	2022-02-05T14:00Z			1dac4a41-ec9d-478f-83e8-d7d3609a9c8f
+ITA	63652	2022-02-05	10:00am	M		NWCIA	at	  	CRNLC                      	 	   	 	 	naia/d3	2022-02-05T15:00Z			05d303ff-d511-45be-8de4-28cfba1a2186
+ITA	55855	2022-02-05	10:00am	M		GVIEW	at	  	GRINN                      	 	   	 	 	naia/d3	2022-02-05T15:00Z			fd7f98c6-a37a-4dd9-9b32-964fe21324f7
+ITA	 7445	2022-02-05	 3:00pm	M		ASBUR	vs	  	PIED                       	 	   	N	 	naia/d3	2022-02-05T20:00Z			8bbe2612-e7d8-4934-b7a6-b45fa3b03629
+ITA	19652	2022-02-06	 3:00pm	M		SEOSU	at	  	AUSTN                      	 	   	 	 	d2/d3  	2022-02-06T20:00Z			886444b3-92e0-481b-96d1-fb7ff189d069
+ITA	33431	2022-02-06	12:00am	M		ILWES	vs	  	PIED                       	 	   	N	 	d3     	2022-02-06T05:00Z			0f2eed06-1a58-4737-b48a-2ffa67e89514
+ITA	67463	2022-02-06	10:00am	M		WARTB	at	  	RIPON                      	 	   	 	 	d3     	2022-02-06T15:00Z			da59dc5d-aed0-443d-9124-225981bc9073
+ITA	68542	2022-02-06	 2:00pm	M		LWRNC	vs	  	WARTB                      	 	   	N	 	d3     	2022-02-06T19:00Z			73a3ddca-24ee-46ee-9c2e-5692b111579a
+ITA	63284	2022-02-06	 4:00pm	M		SPKCC	at	  	WHITW                      	 	   	 	 	juco/d3	2022-02-06T21:00Z			6a361a2c-b64f-4b52-8e63-cea31d16a906
+ITA	98177	2022-02-10	 3:30pm	M		SMTX 	at	  	TXLUT                      	 	   	 	 	d2/d3  	2022-02-10T20:30Z			c85f268b-6d4b-4e68-b910-b7a20a0a0af9
+ITA	65516	2022-02-11	 6:00pm	M		WARTB	at	  	MSOE                       	 	   	 	 	d3     	2022-02-11T23:00Z			e27c29c6-861e-44f1-bf5c-04e3a1c56840
+ITA	68742	2022-02-11	 1:00pm	M		GFOX 	at	  	PRST                       	 	   	 	 	d3/d1  	2022-02-11T18:00Z			f674f27b-8e71-4071-b59c-ae613cbd14b2
+ITA	88447	2022-02-11	 3:00pm	M		VENT 	at	  	CALUT                      	 	   	 	 	juco/d3	2022-02-11T20:00Z			49759a0d-cad7-4ebc-be96-22c720e0bc47
+ITA	28896	2022-02-11	 2:00pm	M		JES  	at	  	UCSC                       	 	   	 	 	naia/d3	2022-02-11T19:00Z			4d2e1599-3b70-4fd4-b273-491b9bc36651
+ITA	32060	2022-02-12	10:00am	M		BAC  	at	  	NCWES                      	 	   	 	 	d2/d3  	2022-02-12T15:00Z			d7aad271-ce42-4034-a6f4-51f4ba31d282
+ITA	19989	2022-02-12	11:00am	M		FSMTH	at	  	RHDES                      	 	   	 	 	d2/d3  	2022-02-12T16:00Z			64d58f0a-be0f-45b7-b397-b3ef107e6ff0
+ITA	52759	2022-02-12	 3:00pm	M		BAC  	at	  	NCWES                      	 	   	 	 	d2/d3  	2022-02-12T20:00Z			4c3d43a3-f217-4acb-8d83-219f5fa19d61
+ITA	 2988	2022-02-12	12:00am	M		BHMSO	at	  	PIED                       	 	   	 	 	d3     	2022-02-12T05:00Z			bd848311-3565-4df2-a637-654d4be4ee8e
+ITA	17302	2022-02-12	10:00am	M		NCENT	at	  	COE                        	 	   	 	 	d3     	2022-02-12T15:00Z			749bdfb9-d7cb-46ed-a33a-c1af88707ef4
+ITA	33686	2022-02-12	10:00am	M		ILWES	vs	  	WARTB                      	 	   	N	 	d3     	2022-02-12T15:00Z			e7414cdc-3968-4ec9-8df1-e6eb94b72438
+ITA	 4736	2022-02-12	11:00am	M		WARTB	vs	  	WILUT                      	 	   	N	 	d3     	2022-02-12T16:00Z			ffacc8d1-59b0-420f-b8aa-2c6e0bb10818
+ITA	48808	2022-02-12	12:30pm	M		GUST 	at	  	OLAF                       	 	   	 	C	d3     	2022-02-12T17:30Z			093a1b1b-1aa9-45ea-822e-26a297c0a64f
+ITA	96747	2022-02-12	 1:00pm	M		BTHLU	at	  	GUST                       	 	   	 	 	d3     	2022-02-12T18:00Z			c2de01aa-cf4a-47ba-a307-150a103a31bc
+ITA	82292	2022-02-12	 1:30pm	M		W&L  	at	  	DENIS                      	 	   	 	 	d3     	2022-02-12T18:30Z			2e237837-9724-4e7f-be4a-996bc1c6382c
+ITA	33882	2022-02-12	 2:00pm	M		CENTR	vs	  	NCENT                      	 	   	N	 	d3     	2022-02-12T19:00Z			3efad101-78a3-4e78-9560-ec32fc24f819
+ITA	75228	2022-02-12	 2:00pm	M		GRINN	vs	  	LUTHR                      	 	   	N	 	d3     	2022-02-12T19:00Z			0f4334ed-ba49-4238-86d7-bb19809a3c67
+ITA	99447	2022-02-12	 3:00pm	M		SCHR 	at	  	HOWPN                      	 	   	 	 	d3     	2022-02-12T20:00Z			65dbcd08-1982-49f2-b3f1-af7e8b3652cd
+ITA	80008	2022-02-12	 5:30pm	M		OHWES	at	  	DENIS                      	 	   	 	C	d3     	2022-02-12T22:30Z			01380d33-ed2f-4cc7-8570-1d93665b5aec
+ITA	44226	2022-02-12	 6:00pm	M		CRNLC	at	  	COE                        	 	   	 	 	d3     	2022-02-12T23:00Z			ebcfe323-d603-43a4-a536-a3f967655955
+ITA	19322	2022-02-12	 6:00pm	M		GRINN	vs	  	WHEAT                      	 	   	N	 	d3     	2022-02-12T23:00Z			48113442-5066-4a11-9eba-b238ecd47198
+ITA	18638	2022-02-12	 7:00pm	M		SWEST	at	  	NCWES                      	 	   	 	 	d3     	2022-02-13T00:00Z			2bda0f2d-9b0b-4b6d-9aff-b72b31437ff9
+ITA	77573	2022-02-12	10:00am	M		WHITM	at	  	MTST                       	 	   	 	 	d3/d1  	2022-02-12T15:00Z			4ad98ea7-b4b6-44a3-972c-9ee47f9ff596
+ITA	28559	2022-02-12	 2:30pm	M		GUST 	at	  	UND                        	 	   	 	 	d3/d1  	2022-02-12T19:30Z			7b2fe4be-6625-4d06-bfdb-1cedfb2da8a8
+ITA	47299	2022-02-12	 3:00pm	M		WHITW	at	  	MTST                       	 	   	 	 	d3/d1  	2022-02-12T20:00Z			12f07fd1-7c31-4681-b1bc-2e434aca3b9b
+ITA	48958	2022-02-12	 4:00pm	M		CMU  	at	  	DUQ                        	 	   	 	 	d3/d1  	2022-02-12T21:00Z			1b8b2ab2-2bd3-40d0-8058-8bb8a93a179c
+ITA	77954	2022-02-12	12:00pm	M		UST  	at	  	SMTX                       	 	   	 	 	d3/d2  	2022-02-12T17:00Z			27b496e9-026a-4e84-9109-0771d8eceae1
+ITA	23339	2022-02-12	 3:30pm	M		MGCCC	at	  	HUNTC                      	 	   	 	 	juco/d3	2022-02-12T20:30Z			2df79719-5bf2-4638-8140-1cc7db17f681
+ITA	75953	2022-02-12	 6:00pm	M		CACC 	at	  	HUNTC                      	 	   	 	 	juco/d3	2022-02-12T23:00Z			be5e9b50-2106-46fa-9871-c8a50ee56f83
+ITA	24808	2022-02-12	 1:00pm	M		WCLFF	at	  	CMS                        	 	   	 	 	naia/d3	2022-02-12T18:00Z			84729516-77d8-4264-b88d-9cec4c54031b
+ITA	12653	2022-02-12	 1:00pm	M		STAMB	vs	  	WARTB                      	 	   	N	 	naia/d3	2022-02-12T18:00Z			d0ec088b-fc2a-4a8a-b270-97ecd584038b
+ITA	46277	2022-02-12	 3:00pm	M		JES  	at	  	WHITT                      	 	   	 	 	naia/d3	2022-02-12T20:00Z			2b50f44d-faee-42ac-8239-f473a018b724
+ITA	19674	2022-02-12	 6:00pm	M		HOINT	at	  	CMS                        	 	   	 	 	naia/d3	2022-02-12T23:00Z			19816699-7244-4c08-a8fd-2b580b0d09fb
+ITA	20997	2022-02-13	 9:00am	M		W&L  	at	  	CWRU                       	 	   	 	 	d3     	2022-02-13T14:00Z			6e2e512c-5c9a-4e9c-aa92-fda415ac13d5
+ITA	62551	2022-02-13	10:00am	M		WILUT	at	  	CRNLC                      	 	   	 	 	d3     	2022-02-13T15:00Z			0febdd22-b67c-4b51-ae30-b54f88439ad3
+ITA	89728	2022-02-13	 1:00pm	M		ROSHL	at	  	CWRU                       	 	   	 	 	d3     	2022-02-13T18:00Z			623bcc57-14e4-43f4-9dfc-ba067c12ebf7
+ITA	56973	2022-02-13	 1:00pm	M		DUBQ 	vs	  	WILUT                      	 	   	N	 	d3     	2022-02-13T18:00Z			0fcdc303-6f75-40bb-a184-85a2f303c260
+ITA	95265	2022-02-13	 2:30pm	M		GRINN	at	  	WIWHI                      	 	   	 	 	d3     	2022-02-13T19:30Z			186fcd30-1094-49dc-af05-2db27fc3d096
+ITA	61130	2022-02-13	 2:30pm	M		HAML 	at	  	SUPER                      	 	   	 	 	d3     	2022-02-13T19:30Z			eea0a3a4-a0bd-42c9-a22c-2258c136dc57
+ITA	15775	2022-02-13	 4:00pm	M		DUBQ 	at	  	CRNLC                      	 	   	 	 	d3     	2022-02-13T21:00Z			ee3327d7-cbad-4a3e-b291-796d0c93991f
+ITA	98153	2022-02-13	11:00am	M		WHITW	at	  	MONT                       	 	   	 	 	d3/d1  	2022-02-13T16:00Z			168c3bae-a0a8-4b68-8a15-dbe0881bbb41
+ITA	97379	2022-02-18	12:00pm	M		WNMU 	at	  	HSIMM                      	 	   	 	 	d2/d3  	2022-02-18T17:00Z			b75f6ff0-4d25-45a9-a83a-1505cc858b2d
+ITA	90394	2022-02-18	 3:00pm	M		TUSK 	at	  	HUNTC                      	 	   	 	 	d2/d3  	2022-02-18T20:00Z			33bf0309-c162-4c76-aa86-ef425b9a683a
+ITA	69080	2022-02-18	 4:00pm	M		PLN  	at	  	CMS                        	 	   	 	 	d2/d3  	2022-02-18T21:00Z			a432f385-ddec-419c-8c62-5fa10dd4ca29
+ITA	52847	2022-02-18	 5:00pm	M		WNMU 	at	  	MCMUR                      	 	   	 	 	d2/d3  	2022-02-18T22:00Z			d0032986-8fdf-4793-af5f-0db060e89e8c
+ITA	38642	2022-02-18	 5:00pm	M		GRINN	at	  	GUST                       	 	   	 	 	d3     	2022-02-18T22:00Z			05ba2ef3-57d8-436c-bed2-1414aeab8ee6
+ITA	63298	2022-02-18	 6:00pm	M		CALV 	at	  	RIPON                      	 	   	 	 	d3     	2022-02-18T23:00Z			c87a3efd-202b-41f9-b396-3ac98648fa71
+ITA	57492	2022-02-18	 7:00pm	M		SUPER	at	  	STMAR                      	 	   	 	 	d3     	2022-02-19T00:00Z			bed425be-c5bb-4e61-9a9f-e8b5a966421c
+ITA	52825	2022-02-18	 8:00pm	M		UCSC 	at	  	CMS                        	 	   	 	 	d3     	2022-02-19T01:00Z			050a9ea8-cc43-4cc8-8a52-aac448b999be
+ITA	 1370	2022-02-18	 4:00pm	M		COLC 	at	  	MIDLN                      	 	   	 	 	d3/naia	2022-02-18T21:00Z			c0a689bc-2677-40bc-b15e-7470096d403f
+ITA	 3760	2022-02-19	12:00pm	M		WNMU 	at	  	HOWPN                      	 	   	 	 	d2/d3  	2022-02-19T17:00Z			46c79b93-6e7e-4c07-a5fb-720f2972daec
+ITA	54318	2022-02-19	 4:00pm	M		BART 	at	  	NCWES                      	 	   	 	 	d2/d3  	2022-02-19T21:00Z			4976102d-7f43-4067-89e3-9f8b25773343
+ITA	94127	2022-02-19	 6:00pm	M		AUGSD	at	  	GUST                       	 	   	 	 	d2/d3  	2022-02-19T23:00Z			94001197-e733-48bb-b526-9a364b03d21b
+ITA	80964	2022-02-19	 7:00pm	M		BART 	at	  	NCWES                      	 	   	 	 	d2/d3  	2022-02-20T00:00Z			90e67269-9d5b-4232-b428-c99e1c93b12f
+ITA	23364	2022-02-19	12:00am	M		METH 	at	  	PIED                       	 	   	 	 	d3     	2022-02-19T05:00Z			8a13ee75-3e70-4347-ae75-be8fc36fcd1e
+ITA	44754	2022-02-19	11:00am	M		BETHL	at	  	GUST                       	 	   	 	C	d3     	2022-02-19T16:00Z			b49cb533-209e-455e-9314-97a9a17c4d1d
+ITA	89309	2022-02-19	11:00am	M		COE  	at	  	KALZ                       	 	   	 	 	d3     	2022-02-19T16:00Z			4fa264f6-7b85-4c9e-b7e0-f6b6486c84b0
+ITA	 1289	2022-02-19	11:00am	M		ELMH 	at	  	WARTB                      	 	   	 	 	d3     	2022-02-19T16:00Z			b7e0f61e-729b-4085-831f-10b996075924
+ITA	78653	2022-02-19	11:00am	M		W&L  	at	  	NCWES                      	 	   	 	 	d3     	2022-02-19T16:00Z			9f8fc65c-4696-4d50-a0e5-d162a9a77769
+ITA	55237	2022-02-19	12:00pm	M		SIMP 	at	  	CRNLC                      	 	   	 	 	d3     	2022-02-19T17:00Z			a85e6ccc-9781-401a-933d-8e74b41d10b1
+ITA	57403	2022-02-19	 1:00pm	M		CAP  	vs	  	MANC                       	 	   	N	 	d3     	2022-02-19T18:00Z			1334c965-2b9c-425d-b703-3fd18de1984e
+ITA	11624	2022-02-19	 1:00pm	M		GRINN	at	  	CARLE                      	 	   	 	 	d3     	2022-02-19T18:00Z			4dc26c30-0530-4f18-ae24-952949d9ae30
+ITA	32018	2022-02-19	 1:00pm	M		CWRU 	at	  	DENIS                      	 	   	 	 	d3     	2022-02-19T18:00Z			2e007914-f751-4db7-9ef1-47ccdc3975f9
+ITA	96693	2022-02-19	 1:00pm	M		LORAS	vs	  	SUPER                      	 	   	N	 	d3     	2022-02-19T18:00Z			ba1bd1ba-463e-439e-8f73-7201f717e0d2
+ITA	94156	2022-02-19	 1:45pm	M		ROSHL	at	  	NCENT                      	 	   	 	 	d3     	2022-02-19T18:45Z			e1f2f819-3933-4767-89d6-9148954a3629
+ITA	95950	2022-02-19	 3:00pm	M		AVER 	at	  	CNEW                       	 	   	 	 	d3     	2022-02-19T20:00Z			3990d581-484e-4c0a-b361-9e63a231a023
+ITA	61675	2022-02-19	 3:00pm	M		SCHR 	at	  	CNCTX                      	 	   	 	 	d3     	2022-02-19T20:00Z			b35efe48-4c99-4d72-809e-5f6795220836
+ITA	31078	2022-02-19	 4:00pm	M		WHITM	at	  	WHITW                      	 	   	 	 	d3     	2022-02-19T21:00Z			9b79380d-3ee2-4e32-a243-25e3b8ac36d9
+ITA	50259	2022-02-19	 5:00pm	M		CAP  	at	  	WABSH                      	 	   	 	 	d3     	2022-02-19T22:00Z			fef5e035-71d5-4459-ad63-b09c96144946
+ITA	55387	2022-02-19	 5:30pm	M		CARRL	at	  	WARTB                      	 	   	 	 	d3     	2022-02-19T22:30Z			2e6e32a2-982c-4f38-bbf0-81eaccff3752
+ITA	97952	2022-02-19	 5:30pm	M		LORAS	at	  	STMAR                      	 	   	 	 	d3     	2022-02-19T22:30Z			f0590507-8ee2-45e2-8339-054d46113032
+ITA	67687	2022-02-19	 8:45pm	M		MSOE 	at	  	NCENT                      	 	   	 	 	d3     	2022-02-20T01:45Z			8c62d768-6562-419f-921a-01acad2a025c
+ITA	50870	2022-02-19	 2:00pm	M		HSIMM	at	  	SMTX                       	 	   	 	 	d3/d2  	2022-02-19T19:00Z			cded1753-908f-488e-9ffb-9f4f6f1dbb89
+ITA	28141	2022-02-20	 1:00pm	M		SEA  	at	  	GFOX                       	 	   	 	 	d1/d3  	2022-02-20T18:00Z			20514be2-0f7e-4e1b-8ce4-ae6deda926e2
+ITA	71334	2022-02-20	10:00am	M		LWRNC	at	  	DUBQ                       	 	   	 	 	d3     	2022-02-20T15:00Z			b989e565-f3ee-4a52-8895-f6834f223ce6
+ITA	89033	2022-02-20	 4:00pm	M		WILAC	at	  	DUBQ                       	 	   	 	 	d3     	2022-02-20T21:00Z			d39d5f80-7a80-4404-9203-c9ce95bbe79a
+ITA	61387	2022-02-20	 9:00am	M		FDUF 	at	  	NAVY                       	 	   	 	 	d3/d1  	2022-02-20T14:00Z			91b31cfd-5d4b-4e29-b02f-f18ab09b90de
+ITA	35192	2022-02-20	 1:00pm	M		WHITW	at	  	LCIDA                      	 	   	 	 	d3/naia	2022-02-20T18:00Z			c5a21627-b7af-4dfd-9b86-69ae33a78cc9
+ITA	84455	2022-02-20	 4:00pm	M		WHITW	at	  	LCIDA                      	 	   	 	 	d3/naia	2022-02-20T21:00Z			b6b55a03-a95d-4efe-9b67-264d0160a8fd
+ITA	41832	2022-02-20	 8:30am	M		COLC 	at	  	HAST                       	 	   	 	 	d3/naia	2022-02-20T13:30Z			fb006952-f354-4aa6-b347-8421480c6afc
+ITA	82275	2022-02-20	11:00am	M		USFIN	vs	  	WARTB                      	 	   	N	 	naia/d3	2022-02-20T16:00Z			ef11d987-5d0c-468c-9887-f8ad7793670a
+ITA	 6004	2022-02-22	 2:30pm	M		BERRY	at	  	PIED                       	 	   	 	 	d3     	2022-02-22T19:30Z			8366762f-6082-45de-9b98-71e9ddb18256
+ITA	38902	2022-02-22	 4:00pm	M		BATES	at	  	ROL                        	 	   	 	 	d3/d2  	2022-02-22T21:00Z			63dcd582-5afd-4b77-be5e-cc1ba95e5ec8
+ITA	12253	2022-02-23	 4:00pm	M		ALGNY	at	  	DAEMN                      	 	   	 	 	d3/d2  	2022-02-23T21:00Z			de32c326-66a9-4a91-88b3-cc42c806e13a
+ITA	82076	2022-02-23	 3:00pm	M		BHVN 	at	  	HNDCC                      	 	   	 	 	d3/juco	2022-02-23T20:00Z			59c36ccb-431e-4746-bb93-d6937fa3ad0d
+ITA	80124	2022-02-23	 5:00pm	M		ASBUR	at	  	CENT                       	 	   	 	 	naia/d3	2022-02-23T22:00Z			beb5aeec-7ac2-408a-99c8-edaa02ff0f31
+ITA	62374	2022-02-24	 8:00pm	M		ONEO 	at	  	YESH                       	 	   	 	 	d3     	2022-02-25T01:00Z			2cc985f4-0dc3-407d-8a01-d436823cda54
+ITA	98567	2022-02-25	 7:00pm	M		MONT 	at	  	GFOX                       	 	   	 	 	d1/d3  	2022-02-26T00:00Z			ab21bad5-b901-4318-aa82-3655eba00479
+ITA	92222	2022-02-25	 9:00am	M		CWRU 	at	  	CWRU                       	 	   	 	 	d3     	2022-02-25T14:00Z			0b334bb4-d1a9-40ae-bcff-c5d1c19dd839
+ITA	78427	2022-02-25	10:00am	M		HUNTC	vs	  	OGLE                       	 	   	N	 	d3     	2022-02-25T15:00Z			5abdd437-5a4c-414b-b56b-77a8a91e3239
+ITA	23104	2022-02-25	 5:00pm	M		MCMUR	at	  	SCHR                       	 	   	 	 	d3     	2022-02-25T22:00Z			37762cb4-d8f4-4daa-85ae-eaefab2056a1
+ITA	49536	2022-02-25	 6:00pm	M		MILIK	at	  	CRNLC                      	 	   	 	 	d3     	2022-02-25T23:00Z			8a88f512-86fe-4109-99d6-dbf0da4ec937
+ITA	 7991	2022-02-25	 6:30pm	M		NCENT	at	  	WIWHI                      	 	   	 	 	d3     	2022-02-25T23:30Z			d4e74231-6b56-4f14-b592-6948b619038a
+ITA	74635	2022-02-25	 2:00pm	M		MSUTX	at	  	CCCC                       	 	   	 	 	d3/juco	2022-02-25T19:00Z			1d5def22-5463-446a-afd0-6da6eeafd72a
+ITA	75869	2022-02-25	 2:00pm	M		HUNTC	at	  	POINT                      	 	   	 	 	d3/naia	2022-02-25T19:00Z			3e0daaa0-2df1-4e0e-8ac9-dcb09b84e2ba
+ITA	 2019	2022-02-25	10:00am	M		TEXAR	at	  	OZARK                      	 	   	 	 	naia/d3	2022-02-25T15:00Z			5d5fbbe6-add7-4671-8af3-e36ce1fcb09c
+ITA	58996	2022-02-25	 2:00pm	M		TEXAR	at	  	HNDRX                      	 	   	 	 	naia/d3	2022-02-25T19:00Z			b55a44d8-6436-401a-b49b-994f7a8fbc53
+ITA	74589	2022-02-25	 4:00pm	M		ASBUR	vs	  	BHMSO                      	 	   	N	 	naia/d3	2022-02-25T21:00Z			8d4c76ac-d016-47c4-bdea-0fd55f73c0ef
+ITA	99537	2022-02-26	11:00am	M		SHO  	at	  	HUNTC                      	 	   	 	 	d2/d3  	2022-02-26T16:00Z			c6ddb302-c346-4272-aaee-5b76c31f691a
+ITA	75399	2022-02-26	 9:00am	M		CWRU 	at	  	CWRU                       	 	   	 	 	d3     	2022-02-26T14:00Z			2c79dfac-32f7-46ac-8045-b7dee8bfea9e
+ITA	 2114	2022-02-26	10:00am	M		MILIK	at	  	COE                        	 	   	 	 	d3     	2022-02-26T15:00Z			6a275990-6861-42db-aa39-59f22dfc9543
+ITA	65138	2022-02-26	12:00pm	M		STVNS	at	  	HVFRD                      	 	   	 	 	d3     	2022-02-26T17:00Z			82b3eedf-3088-48fc-84dd-6c57367a0bf1
+ITA	81380	2022-02-26	 1:00pm	M		AVER 	at	  	RAND                       	 	   	 	 	d3     	2022-02-26T18:00Z			2cb53d83-0f38-48be-92f5-1527a2ae3e66
+ITA	72874	2022-02-26	 1:00pm	M		FRANK	vs	  	GVILL                      	 	   	N	 	d3     	2022-02-26T18:00Z			cf400f9a-df5d-4412-81e7-20b1950c502c
+ITA	61048	2022-02-26	 2:00pm	M		CARTH	vs	  	DUBQ                       	 	   	N	 	d3     	2022-02-26T19:00Z			dc4a3f55-ff70-483b-a814-a006ed0a97b8
+ITA	15037	2022-02-26	 2:00pm	M		NYU  	at	  	SWAT                       	 	   	 	 	d3     	2022-02-26T19:00Z			058bdce8-9f3f-4296-8ede-4fd9cc2eb8dc
+ITA	47618	2022-02-26	 3:00pm	M		AUGIL	at	  	GRINN                      	 	   	 	 	d3     	2022-02-26T20:00Z			c47cf031-ff9c-41eb-8f4b-a70adc9c24d7
+ITA	87901	2022-02-26	 4:30pm	M		SJUMN	at	  	STMAR                      	 	   	 	C	d3     	2022-02-26T21:30Z			bf0aab55-52af-4f81-9000-aa2de1863f7c
+ITA	32117	2022-02-26	 5:00pm	M		LORAS	at	  	COE                        	 	   	 	C	d3     	2022-02-26T22:00Z			ba77240d-fccc-42c9-8ebd-9625d4460666
+ITA	52808	2022-02-26	 5:00pm	M		DENIS	vs	  	SEW                        	 	   	N	 	d3     	2022-02-26T22:00Z			fb1e9428-2796-42a9-abc3-75fab7a0ca8a
+ITA	61351	2022-02-26	 5:00pm	M		FRANK	at	  	WABSH                      	 	   	 	 	d3     	2022-02-26T22:00Z			4963e605-1fc7-4937-a915-eb9a2976c88c
+ITA	27703	2022-02-26	 5:00pm	M		DUBQ 	vs	  	WIWHI                      	 	   	N	 	d3     	2022-02-26T22:00Z			d415b7f2-65aa-48ed-b674-ba5de6340ed0
+ITA	79826	2022-02-26	 7:00pm	M		BTHLU	at	  	STMAR                      	 	   	 	 	d3     	2022-02-27T00:00Z			13cce74a-fa5f-4d73-b0b1-146a18d79836
+ITA	 4055	2022-02-26	 6:00pm	M		WHITM	at	  	IDAHO                      	 	   	 	 	d3/d1  	2022-02-26T23:00Z			45cfc0b3-e564-4e13-aa8b-c12c5d5e86d4
+ITA	76021	2022-02-26	 1:00pm	M		STAMB	at	  	CRNLC                      	 	   	 	 	naia/d3	2022-02-26T18:00Z			68a299d0-c176-4c23-b157-d11b95430cd2
+ITA	39909	2022-02-26	 6:00pm	M		ASBUR	at	  	TRANS                      	 	   	 	 	naia/d3	2022-02-26T23:00Z			aa86c11d-1623-4b28-9d9c-9b44ea81e3a8
+ITA	 8653	2022-02-27	12:00am	M		PIED 	vs	  	REGIS                      	 	   	N	 	d3     	2022-02-27T05:00Z			cad767e9-f0b7-4956-9cc9-e24e17049ee7
+ITA	98936	2022-02-27	 9:00am	M		CWRU 	at	  	CWRU                       	 	   	 	 	d3     	2022-02-27T14:00Z			1fc29ce8-e482-41c4-a552-e26634d1537a
+ITA	91100	2022-02-27	11:00am	M		AUGIL	at	  	COE                        	 	   	 	 	d3     	2022-02-27T16:00Z			d1e46d29-8be7-4739-8bf2-bcd1cca5cf90
+ITA	72496	2022-02-27	 1:00pm	M		AVER 	at	  	GUILF                      	 	   	 	 	d3     	2022-02-27T18:00Z			da931587-94d8-4c0e-85b3-664b836bd1d1
+ITA	27470	2022-02-27	 1:00pm	M		STEV 	at	  	MORAV                      	 	   	 	 	d3     	2022-02-27T18:00Z			ac7769d4-0b6d-40de-8b17-973ba50cfb95
+ITA	78875	2022-02-28	12:00am	M		HOUGH	vs	  	PIED                       	 	   	N	 	d3     	2022-02-28T05:00Z			3d5086a4-f4ec-40c7-a8af-583a82dcbe9b
+ITA	79274	2022-02-28	12:00pm	M		CALV 	vs	  	STMAR                      	 	   	N	 	d3     	2022-02-28T17:00Z			b27537b2-3ffb-4f5f-b63e-83d555e6a817
+ITA	52522	2022-02-28	 7:00pm	M		PIED 	vs	  	WARTB                      	 	   	N	 	d3     	2022-03-01T00:00Z			88a255cd-fbd9-45ff-963f-c33eb27267a7
+ITA	58322	2022-02-28	 7:00pm	M		REGIS	vs	  	WARTB                      	 	   	N	 	d3     	2022-03-01T00:00Z			85febd5e-923d-4122-9277-3d7f559681d8
+ITA	77254	2022-03-01	 3:00pm	M		OZARK	at	  	FSMTH                      	 	   	 	 	d3/d2  	2022-03-01T20:00Z			88e78e96-0f77-4d1c-a295-95478be447e5
+ITA	40036	2022-03-01	12:00am	M		ADRN 	vs	  	PIED                       	 	   	N	 	d3     	2022-03-01T05:00Z			15778300-589f-44a8-8283-b813f8d8cd6b
+ITA	 4978	2022-03-01	10:00am	M		HOUGH	vs	  	STMAR                      	 	   	N	 	d3     	2022-03-01T15:00Z			05b7c032-3812-48d5-a9c8-9c7fb0c297d6
+ITA	27904	2022-03-01	12:00pm	M		CALV 	vs	  	WARTB                      	 	   	N	 	d3     	2022-03-01T17:00Z			53dc22d4-2494-447e-afa4-ec6770d9e4ca
+ITA	53760	2022-03-01	 2:00pm	M		PIED 	vs	  	STMAR                      	 	   	N	 	d3     	2022-03-01T19:00Z			55c4387c-1ea3-4450-a9a1-1b3d60f10945
+ITA	63622	2022-03-01	 4:00pm	M		CAP  	at	  	OHWES                      	 	   	 	 	d3     	2022-03-01T21:00Z			2432b5f6-3c73-4735-9a13-fcbc4620e7a8
+ITA	41657	2022-03-02	 4:00pm	M		JES  	at	  	CALUT                      	 	   	 	 	naia/d3	2022-03-02T21:00Z			b71d0156-89d1-4ba2-97df-7d5f4d4da571
+ITA	23935	2022-03-03	10:00am	M		ADRN 	vs	  	WARTB                      	 	   	N	 	d3     	2022-03-03T15:00Z			13f18df8-414e-4b6d-967f-ba4817787aee
+ITA	16554	2022-03-03	 8:00pm	M		MTVRN	vs	  	WARTB                      	 	   	N	 	naia/d3	2022-03-04T01:00Z			ed405408-d1a9-4c59-99c0-7028613639f6
+ITA	17538	2022-03-04	 2:00pm	M		HUNTC	at	  	BHMSO                      	 	   	 	 	d3     	2022-03-04T19:00Z			59eeedbe-605f-4cf1-8bae-21d63df32aeb
+ITA	59620	2022-03-04	 4:00pm	M		HVFRD	at	  	SALIS                      	 	   	 	 	d3     	2022-03-04T21:00Z			85b055f0-621d-49bb-a05c-aa2c576af39d
+ITA	 4874	2022-03-04	 4:00pm	M		WHITW	at	  	WHITM                      	 	   	 	C	d3     	2022-03-04T21:00Z			189e94a7-d5c3-4eb9-8ff4-0adc6cc1da2e
+ITA	50780	2022-03-04	 5:00pm	M		ETXBP	at	  	SCHR                       	 	   	 	 	d3     	2022-03-04T22:00Z			3783cd3e-e6d0-427f-8bbd-7553a0600b4c
+ITA	10659	2022-03-04	 8:30pm	M		IIT  	at	  	NCENT                      	 	   	 	 	d3     	2022-03-05T01:30Z			4738dd8f-c3fe-4992-a49c-4a748eb7641b
+ITA	59647	2022-03-04	 1:00pm	M		AVER 	at	  	SHAW                       	 	   	 	 	d3/d2  	2022-03-04T18:00Z			348fd5e8-1f52-41a3-80a0-1e660ff762ab
+ITA	38578	2022-03-05	11:00am	M		WUT  	at	  	MSUTX                      	 	   	 	 	d2/d3  	2022-03-05T16:00Z			2772f079-0222-4136-b5e4-a84742ff2d77
+ITA	 1684	2022-03-05	 9:00am	M		HOPE 	at	  	DENIS                      	 	   	 	 	d3     	2022-03-05T14:00Z			048d69bc-95ef-450f-b5ca-f778fbed0f6b
+ITA	95762	2022-03-05	10:00am	M		HUNTC	at	  	BHVN                       	 	   	 	 	d3     	2022-03-05T15:00Z			20f3d3f3-bee9-4dfb-99ca-2b62a3857ab1
+ITA	47922	2022-03-05	11:00am	M		GRINN	at	  	COE                        	 	   	 	 	d3     	2022-03-05T16:00Z			addbb928-54d7-4c98-8b7a-1d317233cc77
+ITA	39078	2022-03-05	11:00am	M		WIWHI	at	  	GUST                       	 	   	 	 	d3     	2022-03-05T16:00Z			bfaafb86-0650-4e25-9c24-e449e9faf42b
+ITA	78018	2022-03-05	11:00am	M		STEV 	at	  	WCMD                       	 	   	 	 	d3     	2022-03-05T16:00Z			7b10d2ed-8439-4ca8-b2c3-20cb90a6061e
+ITA	79970	2022-03-05	 1:00pm	M		ALGNY	at	  	HOBWS                      	 	   	 	 	d3     	2022-03-05T18:00Z			ddac9d33-ef96-486d-a316-d40d3da6a9a3
+ITA	52328	2022-03-05	 1:00pm	M		MARYV	at	  	EMHEN                      	 	   	 	 	d3     	2022-03-05T18:00Z			1f646a42-cb9a-4834-86cc-78d431634103
+ITA	84335	2022-03-05	 1:00pm	M		WHITW	at	  	GFOX                       	 	   	 	C	d3     	2022-03-05T18:00Z			e66763a5-55ec-47d2-8c95-0364015acf4e
+ITA	85292	2022-03-05	 1:00pm	M		HUNTC	at	  	MSAPS                      	 	   	 	 	d3     	2022-03-05T18:00Z			6c646eec-b12b-4b37-be15-1140c94e1534
+ITA	25669	2022-03-05	 1:00pm	M		LETOU	at	  	SCHR                       	 	   	 	 	d3     	2022-03-05T18:00Z			52cdda7d-4987-463a-90a3-06121a119db0
+ITA	 4295	2022-03-05	 1:00pm	M		STEV 	vs	  	WILKE                      	 	   	N	 	d3     	2022-03-05T18:00Z			44b1edf3-e7a7-4e39-8fcf-88a594c14ecc
+ITA	80079	2022-03-05	 3:00pm	M		CAP  	at	  	FRANC                      	 	   	 	 	d3     	2022-03-05T20:00Z			20ca1286-82df-48f6-98a1-85a4e125c681
+ITA	36316	2022-03-05	 6:00pm	M		WHITW	at	  	PACIF                      	 	   	 	 	d3     	2022-03-05T23:00Z			8a264324-70d9-4340-a4d1-3f8449a91691
+ITA	33148	2022-03-05	 7:00pm	M		CMS  	vs	  	NOVA                       	 	   	N	 	d3/d1  	2022-03-06T00:00Z			3c010a45-152e-434a-bc9d-38c8080eff56
+ITA	20284	2022-03-05	 9:00am	M		HOBWS	at	  	LOC                        	 	   	 	 	d3/d2  	2022-03-05T14:00Z			89fa3c93-915e-4b58-ad3e-59f3f7a18a6e
+ITA	19434	2022-03-05	 6:30pm	M		BREV 	vs	  	LTECH                      	 	   	N	 	d3/naia	2022-03-05T23:30Z			134f0e94-d424-4dca-acc9-b2f1fab41f0a
+ITA	54550	2022-03-05	 1:00pm	M		CHAB 	at	  	UCSC                       	 	   	 	 	juco/d3	2022-03-05T18:00Z			54c3a0e0-aaf2-4dc0-b96d-8ae82ac031dc
+ITA	80776	2022-03-06	 9:00am	M		ALGNY	at	  	ITHCA                      	 	   	 	 	d3     	2022-03-06T14:00Z			8d2406b4-1860-4c76-a0ec-de7257a542ac
+ITA	82083	2022-03-06	10:30am	M		LAKE 	at	  	RIPON                      	 	   	 	 	d3     	2022-03-06T15:30Z			8e246257-0db4-4b77-b802-13c155eb013e
+ITA	41267	2022-03-06	11:00am	M		FRANK	at	  	MARYV                      	 	   	 	 	d3     	2022-03-06T16:00Z			3b3c6fea-87c5-41d2-97e3-88a69178347b
+ITA	63814	2022-03-06	12:00pm	M		DENIS	at	  	KALZ                       	 	   	 	 	d3     	2022-03-06T17:00Z			740c4973-90e7-41c6-a94f-9ebbebd7cafd
+ITA	64564	2022-03-06	 1:00pm	M		WHITM	at	  	GFOX                       	 	   	 	C	d3     	2022-03-06T18:00Z			af5aa7a0-d538-452d-badd-e791d5063134
+ITA	40053	2022-03-06	 1:00pm	M		PFEIF	at	  	PIED                       	 	   	 	 	d3     	2022-03-06T18:00Z			94a32ea0-9182-4e45-baf7-dc8be36215ba
+ITA	18833	2022-03-06	 2:00pm	M		VAWES	at	  	AVER                       	 	   	 	 	d3     	2022-03-06T19:00Z			66aa7bc7-be50-4090-a0f6-8a9d5341cf08
+ITA	23206	2022-03-06	 2:00pm	M		BARUC	at	  	YESH                       	 	   	 	 	d3     	2022-03-06T19:00Z			632381ad-c98c-497f-a5dc-795498e56244
+ITA	98225	2022-03-06	 2:00pm	M		GFOX 	at	  	PACIF                      	 	   	 	C	d3     	2022-03-06T19:00Z			6a841c17-388d-4b98-ae19-444cdd6b1ce8
+ITA	 4397	2022-03-06	 4:30pm	M		MSOE 	at	  	RIPON                      	 	   	 	 	d3     	2022-03-06T21:30Z			0902afc2-fe19-4d22-95bf-95e7eee1efe5
+ITA	 3436	2022-03-06	 6:00pm	M		COLC 	vs	  	TRITX                      	 	   	N	C	d3     	2022-03-06T23:00Z			84337fb2-e9c2-48e1-8e95-c78d3e3c2a84
+ITA	80648	2022-03-07	12:00am	M		EMERS	vs	  	HVFRD                      	 	   	N	 	d3     	2022-03-07T05:00Z			22f9b0c9-9d51-439b-959d-4d48b4f78f57
+ITA	72456	2022-03-07	12:00am	M		HVFRD	vs	  	WESL                       	 	   	N	 	d3     	2022-03-07T05:00Z			3e947b15-8e88-40fd-b714-6c4035ea5a0d
+ITA	14661	2022-03-08	 4:00pm	M		UTPB 	at	  	SCHR                       	 	   	 	 	d2/d3  	2022-03-08T21:00Z			f63845ba-d2b8-4c4a-874e-59c240cabe91
+ITA	76082	2022-03-08	 9:00am	M		CWRU 	vs	  	WESL                       	 	   	N	 	d3     	2022-03-08T14:00Z			4125d083-4c94-46bb-93e3-9c9ed7b5fbcf
+ITA	81496	2022-03-08	 9:00am	M		JCARR	vs	  	NCWES                      	 	   	N	 	d3     	2022-03-08T14:00Z			ef04a4cb-082f-49f1-8f67-61a390821ad2
+ITA	47922	2022-03-08	 1:00pm	M		CWRU 	vs	  	HSYDN                      	 	   	N	 	d3     	2022-03-08T18:00Z			c482eeb9-be4a-4c31-8597-98925e187e1b
+ITA	79675	2022-03-08	 5:00pm	M		LAKE 	at	  	DUBQ                       	 	   	 	 	d3     	2022-03-08T22:00Z			9d10cab7-dc16-4006-90a3-e61b63c39b2c
+ITA	65445	2022-03-09	12:00am	M		HVFRD	vs	  	WITT                       	 	   	N	 	d3     	2022-03-09T05:00Z			1281e4fc-2b56-4424-bc95-cc25262136a9
+ITA	47307	2022-03-09	 9:00am	M		HVFRD	vs	  	NCWES                      	 	   	N	 	d3     	2022-03-09T14:00Z			c06aa813-4336-4809-8948-e40c5afc1417
+ITA	85317	2022-03-09	 1:00pm	M		CWRU 	vs	  	RPI                        	 	   	N	 	d3     	2022-03-09T18:00Z			d3554c4c-7e5c-4a54-a34b-499f275ed54d
+ITA	66931	2022-03-10	12:00pm	M		CRE  	vs	  	NCWES                      	 	   	N	 	d1/d3  	2022-03-10T17:00Z			97fb8966-c2bb-472c-a795-4fe169f56b14
+ITA	46289	2022-03-10	 3:00pm	M		SULRS	at	  	WNMU                       	 	   	 	 	d3/d2  	2022-03-10T20:00Z			b563eed4-0790-4639-8aca-8c4bc9cdf1c4
+ITA	11778	2022-03-10	 9:00am	M		CMU  	vs	  	CWRU                       	 	   	N	 	d3     	2022-03-10T14:00Z			109f8015-4792-4f4c-9ba4-8bd14f928ebd
+ITA	54882	2022-03-10	 1:00pm	M		CWRU 	vs	  	SHU                        	 	   	N	 	d3/d1  	2022-03-10T18:00Z			4acfe0e2-ac74-4c8a-8fa1-8d9c47189d1e
+ITA	11353	2022-03-10	 2:00pm	M		ENAZ 	at	  	LYNN                       	 	   	 	 	d3/d2  	2022-03-10T19:00Z			e73f4374-9cf2-4117-8129-1f903d948dc8
+ITA	  372	2022-03-10	 4:00pm	M		HOWPN	at	  	TEXAR                      	 	   	 	 	d3/naia	2022-03-10T21:00Z			d17a3b7a-c7c5-4b66-8528-1506b7bc6fd3
+ITA	53642	2022-03-11	 3:00pm	M		NEWM 	at	  	OZARK                      	 	   	 	 	d2/d3  	2022-03-11T20:00Z			c92de967-fac5-4047-8da0-6c675748b2ec
+ITA	 8153	2022-03-11	12:00am	M		HVFRD	vs	  	MANH                       	 	   	N	 	d3     	2022-03-11T05:00Z			e1c022c1-a629-4be1-b81f-333d0372d136
+ITA	13669	2022-03-11	 3:00am	M		NYU  	at	  	MWSH                       	 	   	 	 	d3     	2022-03-11T08:00Z			8cc294fd-9308-4a25-937a-3d8eee2ffc6e
+ITA	19980	2022-03-11	 9:00am	M		CWRU 	vs	  	SWEST                      	 	   	N	 	d3     	2022-03-11T14:00Z			158951bc-f91c-43c7-97e0-b05fc1ca88bd
+ITA	34026	2022-03-11	 1:00pm	M		CWRU 	vs	  	HVFRD                      	 	   	N	 	d3     	2022-03-11T18:00Z			ec435f03-4e55-4df3-9be2-98817dd51f37
+ITA	88041	2022-03-11	 1:00pm	M		UNCA 	at	  	MARYV                      	 	   	 	 	???/d3 	2022-03-11T18:00Z			7eca8c2a-25d2-4aaa-9f8d-857642e4ca07
+ITA	 7971	2022-03-11	12:00pm	M		HUNTC	at	  	MUW                        	 	   	 	 	d3/juco	2022-03-11T17:00Z			3125dfc6-39b6-4ffc-bac1-e371061ae98e
+ITA	42504	2022-03-11	 4:00pm	M		NCWES	vs	  	STHOM                      	 	   	N	 	d3/naia	2022-03-11T21:00Z			c409eedb-137a-4526-9897-42cfd4e366b7
+ITA	   38	2022-03-11	 5:00pm	M		USFIN	at	  	FRANK                      	 	   	 	 	naia/d3	2022-03-11T22:00Z			69930c84-7f5e-4b15-8d63-753f67f5ad66
+ITA	24692	2022-03-12	10:00am	M		BHVN 	at	  	PIED                       	 	   	 	 	d3     	2022-03-12T15:00Z			b2ef7b22-6481-4f12-9a09-2b67de244e44
+ITA	34021	2022-03-12	11:00am	M		OGLE 	at	  	PIED                       	 	   	 	 	d3     	2022-03-12T16:00Z			3c657a9a-81c3-4b43-928d-49ce1c53ef4a
+ITA	71623	2022-03-12	11:00am	M		SCHR 	at	  	TRITX                      	 	   	 	C	d3     	2022-03-12T16:00Z			78fa9cf5-3c87-4004-be5a-7bd010310a63
+ITA	50667	2022-03-12	12:00pm	M		BEREA	at	  	HUNTC                      	 	   	 	C	d3     	2022-03-12T17:00Z			2a12a2bf-5b34-4cc3-a224-285b0ea1ea75
+ITA	14934	2022-03-12	 1:00pm	M		ALGNY	at	  	HOUGH                      	 	   	 	 	d3     	2022-03-12T18:00Z			d1384c4a-fa47-44e2-850e-cb448d8de063
+ITA	 8538	2022-03-12	 1:00pm	M		COLB 	at	  	MIT                        	 	   	 	 	d3     	2022-03-12T18:00Z			bd838a1a-39ac-4cef-91cb-61ce84962fc8
+ITA	19099	2022-03-12	 1:00pm	M		FERM 	at	  	MARYV                      	 	   	 	 	d3     	2022-03-12T18:00Z			e6f155ad-4b80-4936-a97d-f8f0fbd8a444
+ITA	93943	2022-03-12	 1:00pm	M		NYU  	vs	  	TCNJ                       	 	   	N	 	d3     	2022-03-12T18:00Z			56aa02ff-f913-4f0d-b08d-db17429ad821
+ITA	26774	2022-03-12	 1:30pm	M		CMOOR	at	  	GUST                       	 	   	 	C	d3     	2022-03-12T18:30Z			d083d9e7-aa9e-453d-85cd-14179c2fc727
+ITA	 1761	2022-03-12	 1:30pm	M		PUGET	at	  	WHITW                      	 	   	 	C	d3     	2022-03-12T18:30Z			931ac2c3-99ab-4b4c-9492-e8ac8abf32b1
+ITA	57789	2022-03-12	 5:00pm	M		LUTHR	at	  	GUST                       	 	   	 	 	d3     	2022-03-12T22:00Z			5d85b694-1281-471a-a9ae-0b8b00eb2a74
+ITA	20414	2022-03-12	 5:00pm	M		STMAR	at	  	OLAF                       	 	   	 	C	d3     	2022-03-12T22:00Z			a6cc45f5-d010-4f03-9aef-e4e47b785e64
+ITA	46652	2022-03-12	 3:00pm	M		WUSTL	at	  	NKU                        	 	   	 	 	d3/d1  	2022-03-12T20:00Z			efa8dac1-ef45-4921-9914-3f5723950a32
+ITA	 9074	2022-03-12	10:00am	M		FRANK	at	  	KWC                        	 	   	 	 	d3/d2  	2022-03-12T15:00Z			3abeff25-823a-48f6-82d0-7ba7dfebda50
+ITA	45272	2022-03-12	11:00am	M		HOWPN	vs	  	NEWM                       	 	   	N	 	d3/d2  	2022-03-12T16:00Z			c0cb0ed7-2282-4c7b-8bd4-e812f31e7e8c
+ITA	29764	2022-03-12	 2:00pm	M		FRANK	vs	  	KAS                        	 	   	N	 	d3/juco	2022-03-12T19:00Z			4a980500-1ff9-4eaf-9a4d-e2f31f1b7015
+ITA	93733	2022-03-12	11:00am	M		TEXAR	vs	  	UMHB                       	 	   	N	 	naia/d3	2022-03-12T16:00Z			511a3a0a-a885-45fe-a66c-ee4481104c21
+ITA	84197	2022-03-12	 6:00pm	M		TEXAR	at	  	LETOU                      	 	   	 	 	naia/d3	2022-03-12T23:00Z			f78e4cc4-cf5e-45a1-a9ce-39c57cfc1d5d
+ITA	14407	2022-03-13	12:00pm	M		WNMU 	at	  	COLC                       	 	   	 	 	d2/d3  	2022-03-13T16:00Z			45de2fe0-afd1-4b4e-bcc4-d70e3fcdfd1b
+ITA	11101	2022-03-13	12:00pm	M		COLC 	vs	  	WNMU                       	 	   	N	 	d3/d2  	2022-03-13T16:00Z			446543c7-dc60-4f0b-b2f0-fc1f6057f745
+ITA	78038	2022-03-13	10:00am	M		COLB 	at	  	BRAND                      	 	   	 	 	d3     	2022-03-13T14:00Z			53edc50a-696a-4c5a-8a35-1f4b9bada2b6
+ITA	 5905	2022-03-13	11:00am	M		YESH 	at	  	BARD                       	 	   	 	 	d3     	2022-03-13T15:00Z			9854766b-2b69-4cdc-8d63-d410a98459f5
+ITA	65609	2022-03-13	12:00pm	M		COE  	vs	  	SLAW                       	 	   	N	 	d3     	2022-03-13T16:00Z			54e84b7f-543f-44ec-b91d-b358e74fabfe
+ITA	77893	2022-03-13	 1:00pm	M		AVER 	at	  	MWSH                       	 	   	 	 	d3     	2022-03-13T17:00Z			d34754ac-6ff1-4424-8657-d3367f602eda
+ITA	78001	2022-03-13	 1:00pm	M		WILLM	at	  	GFOX                       	 	   	 	C	d3     	2022-03-13T17:00Z			1653f63c-2c58-49c5-8d36-2a3dacb931ad
+ITA	28409	2022-03-13	 2:00pm	M		PACLU	at	  	WHITW                      	 	   	 	C	d3     	2022-03-13T18:00Z			a5630959-4ba9-4ef9-bc68-d73653d2e023
+ITA	76175	2022-03-13	 2:00pm	M		WARTB	at	  	STMAR                      	 	   	 	 	d3     	2022-03-13T18:00Z			13af2d90-361f-413e-aa96-960af91b47e5
+ITA	90800	2022-03-13	 4:00pm	M		BETHL	vs	  	NCENT                      	 	   	N	 	d3     	2022-03-13T20:00Z			9ed97b3d-a0ad-450c-bcd5-7eb5c2dc63b9
+ITA	72818	2022-03-13	11:00am	M		AUSTN	at	  	CCCC                       	 	   	 	 	d3/juco	2022-03-13T15:00Z			b7c65610-de55-4941-84d4-553a12cbe7f7
+ITA	44382	2022-03-14	11:30am	M		BETHL	vs	  	SPRG                       	 	   	N	 	d3     	2022-03-14T15:30Z			bba0776c-056d-4b6e-bedd-e675004df5f7
+ITA	 8687	2022-03-14	12:00pm	M		CARTH	vs	  	COE                        	 	   	N	 	d3     	2022-03-14T16:00Z			86ff8885-5805-45ed-bf1e-e2d8a4b5169a
+ITA	 1583	2022-03-14	 4:00pm	M		CARTH	vs	  	STEV                       	 	   	N	 	d3     	2022-03-14T20:00Z			4ba4ec32-d2b8-488f-91b3-684e4e075db6
+ITA	27736	2022-03-14	 7:00pm	M		NCENT	vs	  	SUPER                      	 	   	N	 	d3     	2022-03-14T23:00Z			304c7f28-3c32-44f0-86ec-4661f87e613c
+ITA	 3311	2022-03-15	11:00am	M		HAML 	vs	  	SPRG                       	 	   	N	 	d3     	2022-03-15T15:00Z			31fd5bdd-71bb-4372-84c6-02317b64d981
+ITA	49247	2022-03-15	12:00pm	M		NJCU 	at	  	BARUC                      	 	   	 	 	d3     	2022-03-15T16:00Z			da37f562-cc72-424a-a7b6-8974e720d0b7
+ITA	99896	2022-03-15	12:00pm	M		COE  	vs	  	KENY                       	 	   	N	 	d3     	2022-03-15T16:00Z			66d68b1c-27cf-42a8-a754-62e46f4ee061
+ITA	44364	2022-03-15	 2:00pm	M		WHITM	at	  	CMS                        	 	   	 	 	d3     	2022-03-15T18:00Z			88e89d99-59a0-43c2-999a-542dac630e64
+ITA	47178	2022-03-15	 8:00pm	M		SEW  	at	  	CMS                        	 	   	 	 	d3     	2022-03-16T00:00Z			7f70591e-4c36-423b-ba2a-e9889abc1ea9
+ITA	61575	2022-03-16	11:30am	M		FRANC	vs	  	SPRG                       	 	   	N	 	d3     	2022-03-16T15:30Z			cdf874b9-49fc-48c4-ba9a-babb0c2d65c4
+ITA	42595	2022-03-16	12:00pm	M		COE  	vs	  	FMARS                      	 	   	N	 	d3     	2022-03-16T16:00Z			b59e87b9-b08b-458c-b867-b3544b7fc8a0
+ITA	68457	2022-03-16	 4:00pm	M		DENIS	at	  	HOBWS                      	 	   	 	 	d3     	2022-03-16T20:00Z			5670998d-24b5-43f5-9d54-e07514e82214
+ITA	29122	2022-03-16	 4:00pm	M		NCENT	vs	  	WILAC                      	 	   	N	 	d3     	2022-03-16T20:00Z			974c74ad-3745-4fc8-bd2f-fa7923f9a3bd
+ITA	76107	2022-03-17	 1:00am	M		SWU  	at	  	PIED                       	 	   	 	 	d2/d3  	2022-03-17T05:00Z			a9092958-bb34-474c-9038-ed3a032154fc
+ITA	 2719	2022-03-17	 9:00am	M		SCHOL	vs	  	SPRG                       	 	   	N	 	d3     	2022-03-17T13:00Z			6db2ab15-e564-47d1-97c9-aa33840b3687
+ITA	53460	2022-03-17	12:00pm	M		COE  	vs	  	CTCOL                      	 	   	N	 	d3     	2022-03-17T16:00Z			8dfb4410-f669-4dad-9d45-74fa5d11b6ec
+ITA	66244	2022-03-18	11:00am	M		COLC 	vs	  	RHDES                      	 	   	N	 	d3     	2022-03-18T15:00Z			26e0669a-6b99-4977-bb67-ea48da6994d6
+ITA	  860	2022-03-18	 1:00pm	M		DENIS	at	  	BRAND                      	 	   	 	 	d3     	2022-03-18T17:00Z			70efc404-d6a9-4c52-b1e4-ce45510c68c8
+ITA	66326	2022-03-18	 2:00pm	M		AVER 	at	  	HSYDN                      	 	   	 	 	d3     	2022-03-18T18:00Z			01439839-f638-4dfc-9a75-55d15de569f6
+ITA	89553	2022-03-18	 2:00pm	M		HUNTC	at	  	BERRY                      	 	   	 	 	d3     	2022-03-18T18:00Z			b4c48c9d-8aad-476e-a0d3-b188e385011d
+ITA	45921	2022-03-18	 4:00pm	M		TRINE	at	  	FRANK                      	 	   	 	 	d3     	2022-03-18T20:00Z			00618739-86a7-4b6e-a4df-ac1354ff6cda
+ITA	44514	2022-03-19	 3:00pm	M		LEW  	at	  	CHICG                      	 	   	 	 	d2/d3  	2022-03-19T19:00Z			1acd8f87-b37c-4a28-8f8b-1e2e09c95f7f
+ITA	74639	2022-03-19	10:00am	M		NEWES	at	  	DUBQ                       	 	   	 	C	d3     	2022-03-19T14:00Z			bb41288d-2ebc-4b3e-b6b5-35a22d1a947d
+ITA	 1543	2022-03-19	11:00am	M		COLC 	vs	  	HOPE                       	 	   	N	 	d3     	2022-03-19T15:00Z			6d818ab8-a35a-4b98-b2bb-5f1d42d13b26
+ITA	15290	2022-03-19	11:00am	M		MNMOR	vs	  	STMAR                      	 	   	N	 	d3     	2022-03-19T15:00Z			9ea41eb5-d677-4bba-92c0-96fbc4452b6f
+ITA	58734	2022-03-19	12:00pm	M		BTHLU	at	  	CRNLC                      	 	   	 	 	d3     	2022-03-19T16:00Z			96f36af3-5eea-4f8c-85d6-ecec07d39bf9
+ITA	 8988	2022-03-19	12:00pm	M		NCWES	at	  	CNEW                       	 	   	 	 	d3     	2022-03-19T16:00Z			b637099b-d77c-42a3-87ce-f4daa0dd229a
+ITA	16725	2022-03-19	12:00pm	M		NWCMN	vs	  	WARTB                      	 	   	N	 	d3     	2022-03-19T16:00Z			18f8e967-44de-4412-a32f-c76c60605b7b
+ITA	87301	2022-03-19	 1:00pm	M		WPEAC	at	  	AVER                       	 	   	 	C	d3     	2022-03-19T17:00Z			75f6973b-211c-4973-b181-2f1d75f2396a
+ITA	63209	2022-03-19	 1:00pm	M		DENIS	at	  	WESL                       	 	   	 	 	d3     	2022-03-19T17:00Z			db8e9d56-9dd2-48a0-9876-4bb2da966543
+ITA	54178	2022-03-19	 2:00pm	M		VISTA	at	  	DUBQ                       	 	   	 	C	d3     	2022-03-19T18:00Z			f5dcb05b-d044-42e8-829d-25c0e7f53fc4
+ITA	78481	2022-03-19	 4:00pm	M		RIPON	vs	  	WARTB                      	 	   	N	 	d3     	2022-03-19T20:00Z			54a9bdf7-d7b1-4518-a69a-c32a4e83f8fe
+ITA	80573	2022-03-19	 8:00pm	M		RIPON	at	  	SJUMN                      	 	   	 	 	d3     	2022-03-20T00:00Z			be05162f-8d4e-45b0-a313-3007d1774d52
+ITA	32208	2022-03-19	 2:30pm	M		MESS 	at	  	HRTCC                      	 	   	 	 	d3/juco	2022-03-19T18:30Z			166afd40-f5de-42ca-9726-547aa2058e4d
+ITA	12708	2022-03-19	 1:00pm	M		LCIDA	at	  	WHITW                      	 	   	 	 	naia/d3	2022-03-19T17:00Z			9d1f194b-41b9-4cf4-a83c-31705fedbf45
+ITA	27520	2022-03-19	 4:00pm	M		LCIDA	at	  	WHITW                      	 	   	 	 	naia/d3	2022-03-19T20:00Z			331dcf76-2cbb-4d5b-8fb0-80a01b8ff8cf
+ITA	65898	2022-03-20	10:00am	M		STMAR	at	  	CMOOR                      	 	   	 	C	d3     	2022-03-20T14:00Z			4f4ec0f7-b964-4474-9267-4cf60ead6a81
+ITA	50234	2022-03-20	 1:00pm	M		GFOX 	at	  	WHITT                      	 	   	 	 	d3     	2022-03-20T17:00Z			6d16c7fc-2833-4ead-93cb-5dad054a1934
+ITA	53782	2022-03-20	12:00pm	M		CAP  	at	  	LOUR                       	 	   	 	 	d3/naia	2022-03-20T16:00Z			f3b09c24-69c1-4d52-9298-087a3eaa1da5
+ITA	 2265	2022-03-21	11:00am	M		COLC 	vs	  	HOBWS                      	 	   	N	 	d3     	2022-03-21T15:00Z			1c5f152d-cad1-430c-b454-f079eb45c5e3
+ITA	90880	2022-03-21	12:00pm	M		GRINN	vs	  	HOPE                       	 	   	N	 	d3     	2022-03-21T16:00Z			d6d8d32f-73d5-4274-b946-612d0614d572
+ITA	62587	2022-03-21	 6:00pm	M		COLB 	at	  	OCC                        	 	   	 	 	d3     	2022-03-21T22:00Z			2da7aef2-39f1-4ba4-a0a2-1daabb895884
+ITA	29096	2022-03-22	11:00am	M		COLC 	vs	  	LUTHR                      	 	   	N	 	d3     	2022-03-22T15:00Z			855fa3f6-91ab-4499-9721-05152483d9c6
+ITA	74331	2022-03-22	12:00pm	M		GRINN	vs	  	HAMIL                      	 	   	N	 	d3     	2022-03-22T16:00Z			2bc75754-83c5-4874-baa8-f199e353c67e
+ITA	13373	2022-03-22	 1:00pm	M		GUST 	at	  	CTECH                      	 	   	 	 	d3     	2022-03-22T17:00Z			76561e53-7bd8-4af0-82c5-08ea3f6a08d9
+ITA	10362	2022-03-22	 3:00pm	M		BARUC	at	  	PURCH                      	 	   	 	 	d3     	2022-03-22T19:00Z			5092a5aa-3eef-4d7c-8c64-52ba49db3fee
+ITA	65714	2022-03-22	 3:00pm	M		MABOS	at	  	NIC                        	 	   	 	 	d3     	2022-03-22T19:00Z			2808f29a-271d-4e4b-bc84-8b3aa63e5db6
+ITA	45792	2022-03-22	 4:00pm	M		COLB 	at	  	CHAP                       	 	   	 	 	d3     	2022-03-22T20:00Z			21127223-af0c-453f-99aa-fc6a764c5c26
+ITA	80754	2022-03-22	 2:00pm	M		GUST 	at	  	SDCHR                      	 	   	 	 	d3/naia	2022-03-22T18:00Z			bab603b2-6c21-4886-ae9c-1781380ad102
+ITA	37219	2022-03-23	 8:00am	M		COLC 	vs	  	TRICT                      	 	   	N	 	d3     	2022-03-23T12:00Z			744479af-1282-4736-ac6c-a917f7176b46
+ITA	81392	2022-03-23	12:00pm	M		BOWD 	vs	  	GFOX                       	 	   	N	 	d3     	2022-03-23T16:00Z			a3564c5a-4683-4cfa-bbb1-be8b81d5b021
+ITA	86148	2022-03-23	12:00pm	M		GRINN	vs	  	HOBWS                      	 	   	N	 	d3     	2022-03-23T16:00Z			0248d154-2bb9-4da9-a217-f584e63b4771
+ITA	77062	2022-03-23	 3:00pm	M		CTCOL	at	  	SPRG                       	 	   	 	 	d3     	2022-03-23T19:00Z			982e24e1-d27a-40c1-ad4b-06371f5f590a
+ITA	 5912	2022-03-23	 3:00pm	M		OZARK	at	  	SCHR                       	 	   	 	 	d3     	2022-03-23T19:00Z			1e3634be-3b9e-43bf-be0c-b2a91ee248e3
+ITA	56744	2022-03-23	 3:30pm	M		PIED 	at	  	LAGRN                      	 	   	 	 	d3     	2022-03-23T19:30Z			8d164a9f-c6e5-4763-b8cc-526fab220613
+ITA	57175	2022-03-23	 5:00pm	M		COLB 	at	  	REDL                       	 	   	 	 	d3     	2022-03-23T21:00Z			81271aa4-5d63-4de1-8ba6-2c52f7719403
+ITA	 4597	2022-03-23	 5:00pm	M		CRNLC	at	  	WARTB                      	 	   	 	 	d3     	2022-03-23T21:00Z			223087c7-544c-4c64-9084-f48f20dd6e39
+ITA	75711	2022-03-23	 7:00pm	M		WCTST	at	  	YESH                       	 	   	 	 	d3     	2022-03-23T23:00Z			f496e58d-9a5e-438c-9857-2d0855fe4e96
+ITA	84734	2022-03-24	12:00pm	M		GFOX 	vs	  	HOP                        	 	   	N	 	d3     	2022-03-24T16:00Z			6c6902dc-1466-40bd-93d0-1867159a1313
+ITA	54837	2022-03-24	 1:00pm	M		BOWD 	vs	  	GUST                       	 	   	N	 	d3     	2022-03-24T17:00Z			11757c47-7d5b-4170-973e-4246bf0a1767
+ITA	 9330	2022-03-24	 3:00pm	M		BARUC	at	  	YORK                       	 	   	 	C	d3     	2022-03-24T19:00Z			600e4441-9102-4bc9-aef6-508bc991b15c
+ITA	68676	2022-03-24	 3:30pm	M		MESS 	at	  	DCK                        	 	   	 	 	d3     	2022-03-24T19:30Z			262afb69-7575-4e42-a01b-de7f0d1d9603
+ITA	67303	2022-03-24	 4:00pm	M		RWIL 	at	  	SPRG                       	 	   	 	 	d3     	2022-03-24T20:00Z			6d8be6e0-8f22-4a8e-a284-9a2801b3c6ef
+ITA	15933	2022-03-24	 3:00pm	M		GUST 	at	  	HOINT                      	 	   	 	 	d3/naia	2022-03-24T19:00Z			2815db70-c653-43eb-8a08-3cb9b5101ea6
+ITA	59773	2022-03-24	 3:30pm	M		GUST 	at	  	WESTM                      	 	   	 	 	d3/naia	2022-03-24T19:30Z			a3a58af9-6d00-4082-bb59-2a0e99cf48d0
+ITA	34565	2022-03-24	 5:00pm	M		TEXAR	at	  	MCMUR                      	 	   	 	 	naia/d3	2022-03-24T21:00Z			89fbd0b2-f61b-4b41-ac1b-2ce6696f172b
+ITA	84134	2022-03-25	 1:00am	M		PIED 	at	  	BEREA                      	 	   	 	C	d3     	2022-03-25T05:00Z			00ac9ba6-ad97-4000-b6f3-5a9bd005290c
+ITA	10731	2022-03-25	10:00am	M		GRINN	vs	  	TRICT                      	 	   	N	 	d3     	2022-03-25T14:00Z			1feb2e4e-1d7b-4e91-82c7-5b071116ecde
+ITA	 8737	2022-03-25	12:00pm	M		COLB 	at	  	CTECH                      	 	   	 	 	d3     	2022-03-25T16:00Z			608d25d6-15aa-4163-a83e-e458567723ad
+ITA	16343	2022-03-25	 3:00pm	M		WWC  	at	  	MARYV                      	 	   	 	 	d3     	2022-03-25T19:00Z			0f8f2b0e-afe4-41fe-87e8-a1abe648ddd6
+ITA	 2899	2022-03-25	 7:00pm	M		GFOX 	at	  	CTECH                      	 	   	 	 	d3     	2022-03-25T23:00Z			c781ff86-02d2-410d-bb67-8654353569db
+ITA	98595	2022-03-25	 8:00pm	M		MIDD 	at	  	CMS                        	 	   	 	 	d3     	2022-03-26T00:00Z			0f549f42-48f0-4b52-b53b-95089d5ac291
+ITA	33568	2022-03-25	12:00pm	M		MSUTX	at	  	WNMU                       	 	   	 	C	d3/d2  	2022-03-25T16:00Z			4ac5c45b-cb88-46cd-8f52-959cf08a15c0
+ITA	85302	2022-03-25	 1:00am	M		PIED 	at	  	MUW                        	 	   	 	 	d3/juco	2022-03-25T05:00Z			66d0a2af-40da-4cff-88cc-8a9c7d2de1c7
+ITA	29634	2022-03-25	 3:00pm	M		TEXAR	at	  	HSIMM                      	 	   	 	 	naia/d3	2022-03-25T19:00Z			a8e105f3-3de8-4205-8fb4-3e98e5d09215
+ITA	82809	2022-03-26	 1:00am	M		WITT 	at	  	CWRU                       	 	   	 	 	d3     	2022-03-26T05:00Z			0959b5ba-5f54-4427-a1b1-5f6c0ff10049
+ITA	87557	2022-03-26	 1:00am	M		PIED 	at	  	SEW                        	 	   	 	 	d3     	2022-03-26T05:00Z			5780b080-be77-4ae3-aeec-3bb6a7007250
+ITA	13432	2022-03-26	10:00am	M		NYU  	at	  	ROCH                       	 	   	 	 	d3     	2022-03-26T14:00Z			b210add3-1ea1-4eda-a8cd-c09d572988bf
+ITA	38517	2022-03-26	10:00am	M		WARTB	at	  	SIMP                       	 	   	 	C	d3     	2022-03-26T14:00Z			dd1241c0-2ccb-4aba-8637-1e93cedd1386
+ITA	38309	2022-03-26	11:00am	M		ENDCT	at	  	NIC                        	 	   	 	C	d3     	2022-03-26T15:00Z			184eebed-5594-4bbc-a077-9817197b91d6
+ITA	83422	2022-03-26	12:00pm	M		COE  	at	  	NEWES                      	 	   	 	C	d3     	2022-03-26T16:00Z			8079309f-31b7-4d62-bed5-8fbbdde9ceb3
+ITA	16757	2022-03-26	12:00pm	M		SCHR 	at	  	UST                        	 	   	 	C	d3     	2022-03-26T16:00Z			1ec19400-7cf2-4d97-8a1e-e4c54867996e
+ITA	89818	2022-03-26	12:00pm	M		DUBQ 	at	  	MNM                        	 	   	 	 	d3     	2022-03-26T16:00Z			e4e5b0ee-d0e1-4ed8-84fd-b907f4c13982
+ITA	61780	2022-03-26	 1:00pm	M		CAP  	at	  	MTUNI                      	 	   	 	C	d3     	2022-03-26T17:00Z			84e48489-ad7a-4bf9-9fa3-d4e7761ec0c0
+ITA	46127	2022-03-26	 1:00pm	M		CMU  	at	  	DENIS                      	 	   	 	 	d3     	2022-03-26T17:00Z			25aae01a-988f-463e-9ee8-106855e63a09
+ITA	95237	2022-03-26	 1:00pm	M		TCNJ 	at	  	HVFRD                      	 	   	 	 	d3     	2022-03-26T17:00Z			20339604-ab8a-42e3-8121-721317025e63
+ITA	47732	2022-03-26	 1:00pm	M		WARTB	at	  	DUBQ                       	 	   	 	 	d3     	2022-03-26T17:00Z			5836d3c2-3253-4d7c-ad92-d97b12330da9
+ITA	49219	2022-03-26	 2:00pm	M		CNCWI	at	  	NCENT                      	 	   	 	 	d3     	2022-03-26T18:00Z			feb92d1d-dec5-4ee7-8786-1d30a7f02e3e
+ITA	34210	2022-03-26	 2:00pm	M		STMAR	at	  	MAC                        	 	   	 	C	d3     	2022-03-26T18:00Z			b8b0faaa-7d76-453b-abb2-7a5bb8894a5f
+ITA	44094	2022-03-26	 2:00pm	M		PIED 	at	  	MARYV                      	 	   	 	C	d3     	2022-03-26T18:00Z			92a5db7b-e96f-4491-8573-078c71672970
+ITA	22190	2022-03-26	 2:00pm	M		PFEIF	at	  	NCWES                      	 	   	 	C	d3     	2022-03-26T18:00Z			2ee85e44-263b-4b37-ac85-404804e3b94c
+ITA	 2943	2022-03-26	 4:00pm	M		WARTB	at	  	MNM                        	 	   	 	 	d3     	2022-03-26T20:00Z			fc48aec8-d468-4219-a8f5-b3e1d39120d9
+ITA	59048	2022-03-26	 5:00pm	M		OHWES	at	  	CWRU                       	 	   	 	 	d3     	2022-03-26T21:00Z			e2cbbfe3-a9a2-421a-aea1-e2bc89e86173
+ITA	63394	2022-03-26	 5:00pm	M		WILL 	at	  	CMS                        	 	   	 	 	d3     	2022-03-26T21:00Z			3edc48c3-cde6-4e60-8d3a-a8bb990d5f79
+ITA	40612	2022-03-26	 5:00pm	M		OHION	at	  	DENIS                      	 	   	 	 	d3     	2022-03-26T21:00Z			860d7679-268a-4b01-b611-d4b89c3fd16a
+ITA	91227	2022-03-26	 9:00pm	M		GFOX 	at	  	CMS                        	 	   	 	 	d3     	2022-03-27T01:00Z			2fee4c7f-b3d8-4ed5-b639-efdf357e53fe
+ITA	80526	2022-03-26	12:00pm	M		BENT 	at	  	SPRG                       	 	   	 	 	d2/d3  	2022-03-26T16:00Z			974a86dc-51b6-40d3-8f06-45cd57595b5c
+ITA	89782	2022-03-26	11:00am	M		CONMI	at	  	FRANK                      	 	   	 	 	naia/d3	2022-03-26T15:00Z			8eb85abb-eefb-43a0-9250-0e9c94c33299
+ITA	91249	2022-03-26	 1:00pm	M		NWCIA	vs	  	WARTB                      	 	   	N	 	naia/d3	2022-03-26T17:00Z			761dacf1-3b39-44d6-a489-fb105d73f4d9
+ITA	47278	2022-03-27	11:00am	M		NYU  	at	  	HOBWS                      	 	   	 	 	d3     	2022-03-27T15:00Z			624091bc-0abe-4b4b-ba3c-a106ee1c3aa3
+ITA	73709	2022-03-27	12:00pm	M		YESH 	at	  	DREW                       	 	   	 	 	d3     	2022-03-27T16:00Z			36d4049d-3f78-4d6f-a89b-9db268228b53
+ITA	15027	2022-03-27	12:00pm	M		SPRG 	at	  	ENDCT                      	 	   	 	 	d3     	2022-03-27T16:00Z			68cbd64c-e01b-4a96-878d-ebcfc6db13c8
+ITA	29769	2022-03-27	 1:00pm	M		BARUC	at	  	MANH                       	 	   	 	 	d3     	2022-03-27T17:00Z			63ae3e6e-faa9-46bb-bb1f-83501c1988fc
+ITA	38609	2022-03-27	 2:00pm	M		BETHL	at	  	STMAR                      	 	   	 	C	d3     	2022-03-27T18:00Z			d401fde7-a615-4e76-a8c2-5f4a6fbc026d
+ITA	68732	2022-03-27	 2:00pm	M		MLUTH	at	  	SUPER                      	 	   	 	C	d3     	2022-03-27T18:00Z			16c3510b-95e3-4436-87fe-295076436ce6
+ITA	85462	2022-03-27	 1:00pm	M		AVER 	at	  	BLUEF                      	 	   	 	 	d3/naia	2022-03-27T17:00Z			5e003933-de5e-45ca-a032-d10b7f442668
+ITA	82741	2022-03-28	 5:00pm	M		WARTB	at	  	LORAS                      	 	   	 	C	d3     	2022-03-28T21:00Z			183b96dc-b87f-4721-867c-bb4dba399158
+ITA	29624	2022-03-29	 6:00pm	M		SMTX 	at	  	SWEST                      	 	   	 	 	d2/d3  	2022-03-29T22:00Z			f37db37b-817e-417a-83f1-8272e51e97e6
+ITA	73231	2022-03-29	 4:00pm	M		CVNT 	at	  	MARYV                      	 	   	 	C	d3     	2022-03-29T20:00Z			41d2556e-b785-4bd9-b816-deafc10759ac
+ITA	62498	2022-03-29	 4:00pm	M		YESH 	at	  	LEHM                       	 	   	 	 	d3     	2022-03-29T20:00Z			409be42f-ac98-4526-9269-1fffb29be6f5
+ITA	94019	2022-03-29	 4:30pm	M		NIC  	at	  	REGIS                      	 	   	 	 	d3     	2022-03-29T20:30Z			443bd0f3-a1d6-4f2f-b17f-cd30be2cf42a
+ITA	15601	2022-03-30	 1:00pm	M		SCHR 	at	  	UMHB                       	 	   	 	 	d3     	2022-03-30T17:00Z			93c8a562-e3b7-4a8f-b13a-204cbbf30b09
+ITA	57752	2022-03-30	 2:00pm	M		NCWES	at	  	WPEAC                      	 	   	 	C	d3     	2022-03-30T18:00Z			7a42d4cf-35aa-4bc2-9e7d-4c0f5479f803
+ITA	49024	2022-03-30	 3:30pm	M		MESS 	at	  	PSUHA                      	 	   	 	 	d3     	2022-03-30T19:30Z			7e17ffdb-62d0-4958-8997-17e65964aeb2
+ITA	81731	2022-03-30	 3:30pm	M		SPRG 	at	  	TRICT                      	 	   	 	 	d3     	2022-03-30T19:30Z			45e5c607-10ea-4539-a7d3-0cbd01cbe308
+ITA	58382	2022-03-30	 6:00pm	M		WHITW	at	  	WHITT                      	 	   	 	 	d3     	2022-03-30T22:00Z			bfe12b56-a930-4702-a8d4-fca94d0c433d
+ITA	 7482	2022-03-30	 6:00pm	M		YESH 	at	  	PURCH                      	 	   	 	C	d3     	2022-03-30T22:00Z			0cdaf08c-89f3-448c-9479-8dbdba538bcc
+ITA	17832	2022-03-31	 3:30am	M		USCG 	at	  	NIC                        	 	   	 	 	d3     	2022-03-31T07:30Z			9c02befc-5ef3-4f7f-8913-eea061f107f5
+ITA	73341	2022-03-31	 2:00pm	M		WHITW	at	  	CALUT                      	 	   	 	 	d3     	2022-03-31T18:00Z			0b2a4bd0-15b4-4d7c-80b4-bdaf6e21565e
+ITA	52790	2022-03-31	 4:30pm	M		BARUC	at	  	FARM                       	 	   	 	 	d3     	2022-03-31T20:30Z			70ea3d90-cfed-4e74-9cb0-b473bfaf79e1
+ITA	30367	2022-03-31	 5:00pm	M		MLUTH	at	  	CRNLC                      	 	   	 	 	d3     	2022-03-31T21:00Z			168887bf-3950-4dad-835c-47191f63e7bc
+ITA	85394	2022-04-01	 6:00pm	M		WNMU 	at	  	LETOU                      	 	   	 	 	d2/d3  	2022-04-01T22:00Z			74935e67-1047-4ec1-97e6-455c7e689b6f
+ITA	85469	2022-04-01	 2:00pm	M		JCARR	at	  	CAP                        	 	   	 	C	d3     	2022-04-01T18:00Z			9067f510-1165-4260-9ea2-b4c798077f17
+ITA	20414	2022-04-01	 3:00pm	M		EMERS	at	  	SPRG                       	 	   	 	C	d3     	2022-04-01T19:00Z			ae9c8ca8-c059-4244-a510-a92384676004
+ITA	59507	2022-04-01	 3:30pm	M		NCENT	at	  	MILIK                      	 	   	 	C	d3     	2022-04-01T19:30Z			469746bc-e255-4861-8589-b84036d2542f
+ITA	64401	2022-04-01	 4:00pm	M		MARYV	at	  	HUNTC                      	 	   	 	C	d3     	2022-04-01T20:00Z			11b8f9ac-1899-435a-9fa3-3960a96a63cb
+ITA	19603	2022-04-01	 6:00pm	M		CTECH	at	  	CMS                        	 	   	 	C	d3     	2022-04-01T22:00Z			e4098205-861e-4264-8b97-24eb853e3b30
+ITA	54217	2022-04-02	 1:00pm	M		MESA 	at	  	COLC                       	 	   	 	 	d2/d3  	2022-04-02T17:00Z			db4b2b44-70d2-4f21-a2ff-be8146f9cbd6
+ITA	27770	2022-04-02	 9:00am	M		CWRU 	vs	  	NCWES                      	 	   	N	 	d3     	2022-04-02T13:00Z			ec6cbae6-5f68-4bee-b57b-34e6bb3518d7
+ITA	28967	2022-04-02	10:00am	M		HAMIL	at	  	COLB                       	 	   	 	C	d3     	2022-04-02T14:00Z			262503f1-b108-4d38-b676-10e0ef39c9ee
+ITA	19620	2022-04-02	10:00am	M		LAKEF	at	  	CRNLC                      	 	   	 	C	d3     	2022-04-02T14:00Z			a48e7e6b-fd37-480c-975d-46bc48e7e5d5
+ITA	 1362	2022-04-02	10:00am	M		NCENT	at	  	ILWES                      	 	   	 	C	d3     	2022-04-02T14:00Z			6d6509c9-7696-40f2-abb9-a28bf40248ed
+ITA	54298	2022-04-02	10:00am	M		RIPON	at	  	MNM                        	 	   	 	C	d3     	2022-04-02T14:00Z			d5b32ca8-93fb-4a8e-8e53-ff8b5a22c352
+ITA	 9006	2022-04-02	11:00am	M		DUBQ 	at	  	NWCMN                      	 	   	 	 	d3     	2022-04-02T15:00Z			7758f5e5-746f-44ad-b579-df069adc5379
+ITA	14717	2022-04-02	12:00pm	M		BARUC	at	  	HTR                        	 	   	 	C	d3     	2022-04-02T16:00Z			271393a7-e285-43f2-95dd-eb50d39fd4eb
+ITA	47620	2022-04-02	12:00pm	M		FRANK	at	  	HANOV                      	 	   	 	C	d3     	2022-04-02T16:00Z			62982e6f-7f5a-482d-92f4-8daf565a8e54
+ITA	23263	2022-04-02	12:00pm	M		GUST 	at	  	STMAR                      	 	   	 	C	d3     	2022-04-02T16:00Z			8494227d-503b-4742-9dde-d12ffcb49c91
+ITA	36520	2022-04-02	12:00pm	M		HOP  	at	  	HVFRD                      	 	   	 	C	d3     	2022-04-02T16:00Z			bfeb2e3b-d410-4dac-9210-26728886f322
+ITA	48935	2022-04-02	12:00pm	M		PIED 	at	  	HUNTC                      	 	   	 	C	d3     	2022-04-02T16:00Z			3cc783aa-14d5-44bb-9105-8fd51721294b
+ITA	88174	2022-04-02	 1:00pm	M		ALBRT	at	  	MESS                       	 	   	 	C	d3     	2022-04-02T17:00Z			f15f7064-a321-404a-98c3-42f9a153caa6
+ITA	32305	2022-04-02	 1:00pm	M		AUSTN	at	  	SCHR                       	 	   	 	C	d3     	2022-04-02T17:00Z			3dbb9b63-2498-4dc8-a066-d25ca09a224d
+ITA	54723	2022-04-02	 1:00pm	M		AVER 	at	  	GBORO                      	 	   	 	C	d3     	2022-04-02T17:00Z			47cc2c3f-3b5c-429c-83bd-d50f057998fa
+ITA	10730	2022-04-02	 1:00pm	M		CMS  	at	  	CALUT                      	 	   	 	C	d3     	2022-04-02T17:00Z			7a7d2317-5804-4e12-99e7-25cac68aec48
+ITA	28131	2022-04-02	 1:00pm	M		CAP  	at	  	OHION                      	 	   	 	C	d3     	2022-04-02T17:00Z			46fdd144-6e9c-4ec1-b967-1cdc30a4cfbf
+ITA	82117	2022-04-02	 1:00pm	M		NIC  	at	  	CURRY                      	 	   	 	C	d3     	2022-04-02T17:00Z			fb03e0c1-df5e-4669-929f-c7c141cc1101
+ITA	77517	2022-04-02	 1:00pm	M		MARYV	at	  	LAGRN                      	 	   	 	C	d3     	2022-04-02T17:00Z			2f4d36c2-39c0-460c-bd80-502b5a171c06
+ITA	53707	2022-04-02	 1:00pm	M		NCENT	vs	  	PRI                        	 	   	N	 	d3     	2022-04-02T17:00Z			92cbedd5-efae-4c6d-bea7-b25a4d2349ea
+ITA	91911	2022-04-02	 2:00pm	M		COE  	vs	  	WIEAU                      	 	   	N	 	d3     	2022-04-02T18:00Z			15e2861f-de81-46b4-b53b-9b9f6c2833bd
+ITA	 5767	2022-04-02	 2:00pm	M		GFOX 	at	  	LEWIS                      	 	   	 	C	d3     	2022-04-02T18:00Z			18c274e7-4289-48d3-9156-8dee416eed68
+ITA	45745	2022-04-02	 2:00pm	M		GUST 	at	  	SJUMN                      	 	   	 	C	d3     	2022-04-02T18:00Z			7fddf382-d784-45bf-b825-447a88d02e0c
+ITA	39372	2022-04-02	 4:00pm	M		LAKEF	at	  	GRINN                      	 	   	 	C	d3     	2022-04-02T20:00Z			a8ede957-9775-4a2c-8c8c-4d385c544a6c
+ITA	70163	2022-04-02	 4:00pm	M		RIPON	at	  	ILLCO                      	 	   	 	C	d3     	2022-04-02T20:00Z			f131da22-311c-4b45-b675-73becd7eb8a7
+ITA	26783	2022-04-02	 5:00pm	M		WHITW	at	  	CTECH                      	 	   	 	 	d3     	2022-04-02T21:00Z			8e285d0b-1dc3-412a-9e2d-6d7c0bd4a22e
+ITA	40564	2022-04-02	 5:00pm	M		NCWES	at	  	KENY                       	 	   	 	 	d3     	2022-04-02T21:00Z			b143ff86-7fb0-43ac-96b4-926f525e92ae
+ITA	42914	2022-04-02	 6:00pm	M		CMS  	at	  	WESTM                      	 	   	 	 	d3/naia	2022-04-02T22:00Z			f1b80e81-6597-4682-852d-21b4dcad5aaa
+ITA	73289	2022-04-03	 1:00pm	M		COLC 	at	  	MSUD                       	 	   	 	 	d3/d2  	2022-04-03T17:00Z			d9eb98b0-296d-4583-addd-d5cdf18deaf5
+ITA	62493	2022-04-03	 2:00pm	M		LOC  	at	  	SKID                       	 	   	 	 	d2/d3  	2022-04-03T18:00Z			ed54eba6-4938-453a-9a85-195658dd26da
+ITA	93336	2022-04-03	10:00am	M		AMH  	at	  	COLB                       	 	   	 	C	d3     	2022-04-03T14:00Z			77843214-bebc-4a52-a7fd-3bfffff321eb
+ITA	84478	2022-04-03	10:00am	M		CWRU 	at	  	KENY                       	 	   	 	 	d3     	2022-04-03T14:00Z			2c1dba54-7d04-4012-9cd5-d8412d02857d
+ITA	88017	2022-04-03	11:00am	M		CMOOR	at	  	SUPER                      	 	   	 	 	d3     	2022-04-03T15:00Z			10292727-5ed8-42df-9738-f58532fe2033
+ITA	27840	2022-04-03	12:00pm	M		NCWES	at	  	DENIS                      	 	   	 	 	d3     	2022-04-03T16:00Z			e9a33638-50fb-4918-bc91-47230b962b0c
+ITA	36308	2022-04-03	 1:00pm	M		ALGNY	at	  	JCARR                      	 	   	 	 	d3     	2022-04-03T17:00Z			86ff2661-6f61-45fb-ae41-ccce65db7017
+ITA	37272	2022-04-03	 1:00pm	M		COE  	at	  	WIWHI                      	 	   	 	 	d3     	2022-04-03T17:00Z			98f9d2f9-19cc-4f76-bf99-4d5e77324b69
+ITA	80665	2022-04-03	 2:00pm	M		LINF 	at	  	GFOX                       	 	   	 	C	d3     	2022-04-03T18:00Z			07f70a70-1be6-4b54-8312-4f83b1b8ef58
+ITA	53712	2022-04-03	 2:30pm	M		JCARR	at	  	DENIS                      	 	   	 	 	d3     	2022-04-03T18:30Z			7304e769-e5fb-4a48-8220-52068d3df631
+ITA	87169	2022-04-03	 3:00pm	M		CRNLC	at	  	GRINN                      	 	   	 	C	d3     	2022-04-03T19:00Z			fc61ead1-fbca-481f-ae1c-1c8fb8252a4a
+ITA	43197	2022-04-05	 1:00pm	M		MBALD	at	  	AVER                       	 	   	 	C	d3     	2022-04-05T17:00Z			8fd690cc-4b48-4d27-bfba-17cf2341f53c
+ITA	74686	2022-04-05	 3:30pm	M		MESS 	at	  	YRKPA                      	 	   	 	C	d3     	2022-04-05T19:30Z			2d184453-7fdf-443b-b408-cc668d28594a
+ITA	65266	2022-04-05	 4:30pm	M		DUBQ 	at	  	WARTB                      	 	   	 	C	d3     	2022-04-05T20:30Z			91a66a91-af3c-4305-903c-ab9a8de77fcc
+ITA	 2590	2022-04-05	 8:00pm	M		FARM 	at	  	YESH                       	 	   	 	C	d3     	2022-04-06T00:00Z			d5c8150c-7cc7-445f-8cc5-5745f4ee6079
+ITA	76932	2022-04-06	 3:00pm	M		HUNTC	at	  	CVNT                       	 	   	 	C	d3     	2022-04-06T19:00Z			bc606b7a-b507-4bb5-bc2f-462637a217bb
+ITA	80865	2022-04-06	 3:00pm	M		NCWES	at	  	METH                       	 	   	 	C	d3     	2022-04-06T19:00Z			7b64e49c-01ad-4182-b80a-fb1e2dc0babe
+ITA	55962	2022-04-06	 3:30pm	M		BREV 	at	  	PIED                       	 	   	 	C	d3     	2022-04-06T19:30Z			20e9054f-e957-451e-88fa-e2607f2d200c
+ITA	45665	2022-04-06	 3:30pm	M		NIC  	at	  	RWIL                       	 	   	 	C	d3     	2022-04-06T19:30Z			0a461b0d-313b-4c8c-aba0-42c3925b0f44
+ITA	72738	2022-04-06	 4:00pm	M		OBRL 	at	  	ALGNY                      	 	   	 	C	d3     	2022-04-06T20:00Z			46579486-9a89-4fc0-8c5a-5388428c6269
+ITA	75886	2022-04-06	 4:00pm	M		HVFRD	at	  	SWAT                       	 	   	 	C	d3     	2022-04-06T20:00Z			cb0d3b9a-b11d-4106-974d-19dc3ffc96eb
+ITA	76473	2022-04-07	 2:00pm	M		SJCBK	at	  	YESH                       	 	   	 	C	d3     	2022-04-07T18:00Z			435ab88a-ee27-4877-ba92-dd68ac26ff5c
+ITA	49293	2022-04-07	 4:30pm	M		WITT 	at	  	DENIS                      	 	   	 	C	d3     	2022-04-07T20:30Z			16e23d58-76ff-41c1-a198-abd0415a67f9
+ITA	89269	2022-04-07	 8:00pm	M		SJC  	at	  	YESH                       	 	   	 	C	d3     	2022-04-08T00:00Z			5f2c6317-8336-4b04-ba2b-684c1832c6bc
+ITA	26876	2022-04-07	 3:00pm	M		BARUC	at	  	UNCA                       	 	   	 	C	d3/??? 	2022-04-07T19:00Z			ec4722a9-2d69-4d2c-85ea-8d1562993810
+ITA	94694	2022-04-07	 3:00pm	M		STEV 	at	  	LOY                        	 	   	 	 	d3/d1  	2022-04-07T19:00Z			43eb79f7-e121-402a-b286-1cd014abc19b
+ITA	 5929	2022-04-08	 2:00pm	M		NCWES	at	  	SOUVA                      	 	   	 	C	d3     	2022-04-08T18:00Z			f1fbf085-0259-492d-a8ab-f38ef7d6af55
+ITA	93320	2022-04-08	 3:00pm	M		LEHM 	at	  	BARUC                      	 	   	 	C	d3     	2022-04-08T19:00Z			28832a61-9141-4abf-bef3-1ce7c6e47574
+ITA	71081	2022-04-08	 4:00pm	M		ELMH 	at	  	NCENT                      	 	   	 	C	d3     	2022-04-08T20:00Z			e6811126-122d-4b92-aabe-befbb28a44a3
+ITA	86165	2022-04-08	 4:00pm	M		MWSH 	at	  	HVFRD                      	 	   	 	 	d3     	2022-04-08T20:00Z			c6d0b493-6fd0-4b8c-8e5f-c754bfe2bfbe
+ITA	  998	2022-04-08	 7:00pm	M		CMS  	at	  	WHITT                      	 	   	 	C	d3     	2022-04-08T23:00Z			ef8957e4-7556-4906-8bd9-e16073823d92
+ITA	34211	2022-04-08	 8:00pm	M		UCSC 	at	  	GFOX                       	 	   	 	 	d3     	2022-04-09T00:00Z			1595c556-db07-4d91-9629-703bbb4ef723
+ITA	71915	2022-04-08	 3:00pm	M		CMS  	at	  	BIOLA                      	 	   	 	 	d3/d2  	2022-04-08T19:00Z			b6f9996b-9df4-4fc0-970b-62e5280759e4
+ITA	75411	2022-04-08	 4:00pm	M		ASBUR	at	  	KENY                       	 	   	 	 	naia/d3	2022-04-08T20:00Z			e6788d67-3d19-44f4-85b8-18fe30e0d15f
+ITA	70459	2022-04-09	10:00am	M		CAP  	at	  	DENIS                      	 	   	 	 	d3     	2022-04-09T14:00Z			fdad7ba2-f174-4880-9485-4efb7f5679f3
+ITA	40601	2022-04-09	10:00am	M		MANC 	at	  	FRANK                      	 	   	 	C	d3     	2022-04-09T14:00Z			9f73bc35-0b0d-4cbc-9417-0c0ac9b5bbb9
+ITA	66399	2022-04-09	10:00am	M		GRINN	at	  	RIPON                      	 	   	 	C	d3     	2022-04-09T14:00Z			27d9ea15-3525-4523-b146-ffbc4d467629
+ITA	29601	2022-04-09	10:00am	M		NCWES	at	  	MBALD                      	 	   	 	C	d3     	2022-04-09T14:00Z			195bb07d-038f-4db1-8056-acdf3392e15f
+ITA	54912	2022-04-09	10:30am	M		CRNLC	at	  	LWRNC                      	 	   	 	C	d3     	2022-04-09T14:30Z			0767fa99-1230-432e-8b63-e02a6d431846
+ITA	10013	2022-04-09	11:00am	M		COE  	at	  	CENTR                      	 	   	 	C	d3     	2022-04-09T15:00Z			154ea09d-46bf-4ba7-b04f-6768ac73bd1d
+ITA	26453	2022-04-09	11:00am	M		DUBQ 	at	  	LUTHR                      	 	   	 	C	d3     	2022-04-09T15:00Z			377e1f96-f90a-4d71-8591-764b255d7174
+ITA	33549	2022-04-09	11:00am	M		NYU  	at	  	STVNS                      	 	   	 	 	d3     	2022-04-09T15:00Z			5402643a-8c34-48fd-b6ba-4593a4a3b8d1
+ITA	 2401	2022-04-09	11:00am	M		SALVE	at	  	NIC                        	 	   	 	C	d3     	2022-04-09T15:00Z			3b0d8092-d1bf-4ef1-bb9d-41e3a3542abd
+ITA	38321	2022-04-09	11:00am	M		COLC 	vs	  	SCHR                       	 	   	N	C	d3     	2022-04-09T15:00Z			ab29cb4e-182c-41e3-9943-e72f653ce6fc
+ITA	 5589	2022-04-09	12:00pm	M		OLAF 	at	  	SUPER                      	 	   	 	 	d3     	2022-04-09T16:00Z			383da557-a5f3-44ec-81a3-cfa3c9bb23f1
+ITA	55849	2022-04-09	 1:00pm	M		WOOST	at	  	ALGNY                      	 	   	 	C	d3     	2022-04-09T17:00Z			11e9af99-7cdc-416e-8206-ffdfe41feb8d
+ITA	68507	2022-04-09	 1:00pm	M		MESS 	at	  	ALVNA                      	 	   	 	C	d3     	2022-04-09T17:00Z			90487f6d-6914-4856-882b-bfb381fed281
+ITA	11297	2022-04-09	 1:00pm	M		PFEIF	at	  	AVER                       	 	   	 	C	d3     	2022-04-09T17:00Z			1c5ef09e-5190-41a6-a094-d51013675aa4
+ITA	12514	2022-04-09	 2:00pm	M		COE  	vs	  	VISTA                      	 	   	N	C	d3     	2022-04-09T18:00Z			0cd42975-556d-4818-a6ee-3ef4c69423ba
+ITA	12437	2022-04-09	 2:00pm	M		CAP  	at	  	OTTER                      	 	   	 	C	d3     	2022-04-09T18:00Z			02784769-7f3f-4b92-abb2-3af0bd73b5af
+ITA	86783	2022-04-09	 2:00pm	M		CTCOL	at	  	COLB                       	 	   	 	C	d3     	2022-04-09T18:00Z			b6d4a5e3-1eeb-45ca-bc3c-834089774fd8
+ITA	23616	2022-04-09	 2:00pm	M		CRNLC	at	  	RIPON                      	 	   	 	C	d3     	2022-04-09T18:00Z			f23b105c-7e9e-4688-8ac6-74dfb999a326
+ITA	43455	2022-04-09	 2:00pm	M		MAC  	at	  	GUST                       	 	   	 	C	d3     	2022-04-09T18:00Z			012db108-89ad-4c9f-b965-32b28ecf2dce
+ITA	29245	2022-04-09	 2:00pm	M		WHITW	at	  	LEWIS                      	 	   	 	C	d3     	2022-04-09T18:00Z			1bfa01f4-d9f8-41f2-a10e-ea3bdf240dac
+ITA	48334	2022-04-09	 2:30pm	M		CVNT 	at	  	PIED                       	 	   	 	C	d3     	2022-04-09T18:30Z			53f10f2a-ba5b-4b2c-bb7f-af2eba4418ca
+ITA	43927	2022-04-09	 2:30pm	M		GRINN	at	  	LWRNC                      	 	   	 	C	d3     	2022-04-09T18:30Z			bf04f382-daa1-43b0-8c82-f900675173b5
+ITA	17220	2022-04-09	 3:00pm	M		MIT  	at	  	SPRG                       	 	   	 	C	d3     	2022-04-09T19:00Z			897771d3-3ef8-4f26-9029-76e01ee3cde6
+ITA	57287	2022-04-09	 3:00pm	M		WARTB	at	  	MLUTH                      	 	   	 	 	d3     	2022-04-09T19:00Z			f14a5be2-456b-4475-93d3-393bbcaa54a9
+ITA	27789	2022-04-09	 3:30pm	M		WABSH	at	  	DENIS                      	 	   	 	C	d3     	2022-04-09T19:30Z			7b9915ff-8bd2-4e65-ac5f-90b8fa4f2667
+ITA	26510	2022-04-09	 4:00pm	M		CARLE	vs	  	DUBQ                       	 	   	N	 	d3     	2022-04-09T20:00Z			822afc04-08c0-4035-aa6b-a3d6a9a0afb9
+ITA	91330	2022-04-09	 5:00pm	M		SCHOL	at	  	GUST                       	 	   	 	C	d3     	2022-04-09T21:00Z			4bbda79b-ca0e-4e0f-aa92-f506209826ec
+ITA	 6746	2022-04-09	 5:00pm	M		GRINN	at	  	WUSTL                      	 	   	 	 	d3     	2022-04-09T21:00Z			e0736db1-454f-40cb-87fd-135b21e9b380
+ITA	44054	2022-04-09	 6:00pm	M		CHAP 	at	  	CMS                        	 	   	 	C	d3     	2022-04-09T22:00Z			8ef2260a-7926-4004-bc7b-7202a39fb169
+ITA	57627	2022-04-09	10:00pm	M		FMARS	at	  	HVFRD                      	 	   	 	C	d3     	2022-04-10T02:00Z			e80c328d-48a8-4339-8ab4-dd1c1def9ba7
+ITA	15535	2022-04-09	12:00pm	M		CMS  	at	  	UCR                        	 	   	 	 	d3/d1  	2022-04-09T16:00Z			f5d13c9a-4b4b-410d-99bd-e34e3649aabc
+ITA	27452	2022-04-09	12:00pm	M		HUNTC	at	  	TUSK                       	 	   	 	 	d3/d2  	2022-04-09T16:00Z			5bf7cf2c-5236-4a71-b03f-0ae61606c2b2
+ITA	37390	2022-04-09	 1:00pm	M		ASBUR	at	  	DENIS                      	 	   	 	 	naia/d3	2022-04-09T17:00Z			a10b964f-d520-4850-8dea-179844b39947
+ITA	15522	2022-04-09	 4:30pm	M		LOUR 	at	  	FRANK                      	 	   	 	 	naia/d3	2022-04-09T20:30Z			07d257c1-82a0-49a5-87ae-26c2f05626c1
+ITA	15109	2022-04-10	12:00pm	M		COLC 	at	  	MESA                       	 	   	 	 	d3/d2  	2022-04-10T16:00Z			1e52f903-2728-4432-97cf-b36ac1aabb67
+ITA	50254	2022-04-10	 9:00am	M		CWRU 	at	  	KALZ                       	 	   	 	 	d3     	2022-04-10T13:00Z			78661690-5501-4285-a68b-f8db4745b2b4
+ITA	49061	2022-04-10	12:00pm	M		AUGIL	at	  	NCENT                      	 	   	 	C	d3     	2022-04-10T16:00Z			b3d7d842-ecd0-447d-9487-0a40dcbc2d52
+ITA	13503	2022-04-10	12:00pm	M		FRANK	at	  	TRANS                      	 	   	 	C	d3     	2022-04-10T16:00Z			835c72f9-256c-4612-8a1b-b08147bf2236
+ITA	91977	2022-04-10	12:00pm	M		VASSR	at	  	NYU                        	 	   	 	 	d3     	2022-04-10T16:00Z			75846c49-2d35-4b8e-bf39-8565247a5b70
+ITA	27333	2022-04-10	12:00pm	M		YESH 	at	  	USMM                       	 	   	 	C	d3     	2022-04-10T16:00Z			10e897a5-f482-4f14-a213-cb2192aeb086
+ITA	31675	2022-04-10	 1:00pm	M		OHWES	at	  	ALGNY                      	 	   	 	C	d3     	2022-04-10T17:00Z			925b7e11-f0ab-42ac-a63d-0037bd2813c7
+ITA	41701	2022-04-10	 1:00pm	M		DENIS	at	  	DEPW                       	 	   	 	C	d3     	2022-04-10T17:00Z			734f2805-6998-4716-b757-d55c8b81d39e
+ITA	46626	2022-04-10	 1:00pm	M		WHITW	at	  	LINF                       	 	   	 	C	d3     	2022-04-10T17:00Z			67608919-2bb9-4dc3-bc7a-fe731aed2d5e
+ITA	98014	2022-04-10	 2:00pm	M		CWRU 	vs	  	WIEAU                      	 	   	N	 	d3     	2022-04-10T18:00Z			b4b32ade-c1c6-4e91-97d0-44b85cf58cd3
+ITA	  820	2022-04-10	 2:00pm	M		TRICT	at	  	COLB                       	 	   	 	C	d3     	2022-04-10T18:00Z			ffa71822-9725-403e-9beb-79eccd25a9c7
+ITA	43673	2022-04-10	11:00am	M		SCHR 	at	  	MSUD                       	 	   	 	 	d3/d2  	2022-04-10T15:00Z			7b29d7da-6b41-4dc7-b80b-9625240079dd
+ITA	30390	2022-04-11	 4:00pm	M		BEHRD	at	  	ALGNY                      	 	   	 	 	d3     	2022-04-11T20:00Z			624c1971-8b6b-4eac-b568-ec44686dc72e
+ITA	75919	2022-04-11	 3:00pm	M		MARYV	at	  	JOHN                       	 	   	 	 	d3/naia	2022-04-11T19:00Z			67138e7e-a5c4-4306-a2c7-158dbb7bdb54
+ITA	48498	2022-04-12	 3:30pm	M		NIC  	at	  	WNE                        	 	   	 	C	d3     	2022-04-12T19:30Z			73f5648e-45ed-4093-8f3c-13dc7a00d849
+ITA	66112	2022-04-12	 4:00pm	M		DENIS	at	  	KENY                       	 	   	 	C	d3     	2022-04-12T20:00Z			d10e8b3c-06ca-431e-b841-302d272ee86d
+ITA	17421	2022-04-12	 6:30pm	M		HVFRD	vs	  	URSNS                      	 	   	N	C	d3     	2022-04-12T22:30Z			5743ad5c-b550-47b9-9174-cf0b2203895f
+ITA	53040	2022-04-12	 3:00pm	M		UNCA 	at	  	BARUC                      	 	   	 	C	???/d3 	2022-04-12T19:00Z			5ebc96ed-ef82-4f2a-959b-f4d75a953c09
+ITA	79363	2022-04-13	 1:00pm	M		LAGRN	at	  	PIED                       	 	   	 	C	d3     	2022-04-13T17:00Z			53fd4f48-eb2c-4d9d-994e-e16d3eb7d475
+ITA	94058	2022-04-13	 2:00pm	M		AVER 	at	  	NCWES                      	 	   	 	C	d3     	2022-04-13T18:00Z			81052696-06f7-4e44-a962-3e89436e2c0c
+ITA	81263	2022-04-13	 3:00pm	M		BEREA	at	  	MARYV                      	 	   	 	C	d3     	2022-04-13T19:00Z			d12212e2-7cc7-40e7-ac29-8bf7cc0ca65c
+ITA	93777	2022-04-13	 3:30pm	M		STEV 	at	  	MESS                       	 	   	 	C	d3     	2022-04-13T19:30Z			7db26eff-9f29-4cee-af91-b0ab13dab119
+ITA	33554	2022-04-13	 4:00pm	M		CLRK 	at	  	SPRG                       	 	   	 	C	d3     	2022-04-13T20:00Z			46450ca7-07b0-4e81-99f2-9bc91b236e52
+ITA	23753	2022-04-13	 5:00pm	M		DUBQ 	at	  	COE                        	 	   	 	C	d3     	2022-04-13T21:00Z			36da1bfd-7c54-4e80-a345-6b772632cdfe
+ITA	15872	2022-04-13	 5:00pm	M		COE  	at	  	SIMP                       	 	   	 	C	d3     	2022-04-13T21:00Z			7512db96-700b-471e-a1d8-da00537cbc0f
+ITA	 2244	2022-04-14	 4:00pm	M		COLB 	at	  	BOWD                       	 	   	 	C	d3     	2022-04-14T20:00Z			d9d05c55-5e34-4a46-891a-8899b5674c63
+ITA	16099	2022-04-14	 6:00pm	M		SCHR 	at	  	SWEST                      	 	   	 	C	d3     	2022-04-14T22:00Z			790194ae-e103-4402-b159-44e3b3814827
+ITA	62575	2022-04-15	 6:00pm	M		PFEIF	at	10	WAKE                       	 	   	 	 	d3/d1  	2022-04-15T22:00Z			bccf8330-d9c4-49b6-8df9-bafca40fa418
+ITA	65639	2022-04-15	12:00pm	M		DUQ  	at	  	CMU                        	 	   	 	 	d1/d3  	2022-04-15T16:00Z			15065138-4fd9-4cfb-bc0c-ed82dcbf0aa2
+ITA	28895	2022-04-15	11:00am	M		CARTH	at	  	NCENT                      	 	   	 	C	d3     	2022-04-15T15:00Z			2f606ba4-c39d-48e9-8fc9-c5d5a8851566
+ITA	92713	2022-04-15	 1:00pm	M		HUNTC	at	  	BREV                       	 	   	 	C	d3     	2022-04-15T17:00Z			c7f38f8d-113b-49a1-ae18-085a93c9dc6f
+ITA	35019	2022-04-15	 4:00pm	M		CMS  	at	  	OCC                        	 	   	 	C	d3     	2022-04-15T20:00Z			0410331b-d49a-4b74-ab74-bba4fa6e89d2
+ITA	61633	2022-04-15	 4:00pm	M		WILLM	at	  	WHITW                      	 	   	 	C	d3     	2022-04-15T20:00Z			34c1c192-43ff-4b6e-810d-bdcf8fcd48ff
+ITA	58515	2022-04-15	 5:00pm	M		DENIS	at	  	WUSTL                      	 	   	 	 	d3     	2022-04-15T21:00Z			d7347069-c7c3-4195-9cb4-70ec5a8c2b7c
+ITA	60125	2022-04-15	 2:00pm	M		MSUTX	at	  	SMTX                       	 	   	 	C	d3/d2  	2022-04-15T18:00Z			aa248aa7-97e6-4f58-823e-0694264fa1ab
+ITA	 1616	2022-04-15	 8:00pm	M		CMS  	at	  	APU                        	 	   	 	 	d3/d2  	2022-04-16T00:00Z			59726fb7-f3e2-4a40-be48-b3b288c7942f
+ITA	68686	2022-04-15	 1:00pm	M		ASBUR	at	  	ROSHL                      	 	   	 	 	naia/d3	2022-04-15T17:00Z			94780600-33a0-4bdd-b493-e78dc18ab280
+ITA	45862	2022-04-16	 5:00pm	M		COLC 	vs	  	MSUD                       	 	   	N	 	d3/d2  	2022-04-16T21:00Z			15950ce1-52ea-4ab2-af7f-8714b173d1fc
+ITA	48829	2022-04-16	10:00am	M		COLB 	at	  	BATES                      	 	   	 	C	d3     	2022-04-16T14:00Z			3cdc45ad-724d-427f-b6f9-bf282912d3c7
+ITA	52250	2022-04-16	10:00am	M		ILLCO	at	  	CRNLC                      	 	   	 	C	d3     	2022-04-16T14:00Z			0604bed2-7669-4fb1-9c0a-f6e04f08c522
+ITA	97850	2022-04-16	10:00am	M		GBORO	at	  	NCWES                      	 	   	 	C	d3     	2022-04-16T14:00Z			6538eed5-c0c6-468a-b545-2a3b21443a03
+ITA	65676	2022-04-16	10:00am	M		MNM  	at	  	GRINN                      	 	   	 	C	d3     	2022-04-16T14:00Z			cece105e-5cb0-4739-abdc-ea225253b128
+ITA	12176	2022-04-16	10:30am	M		WIEAU	at	  	GUST                       	 	   	 	 	d3     	2022-04-16T14:30Z			db65e1f0-aac5-4d5e-adc1-23453d6e4233
+ITA	29638	2022-04-16	11:00am	M		CHICG	vs	  	DENIS                      	 	   	N	 	d3     	2022-04-16T15:00Z			7787847a-df0b-4b7d-9127-79ac2d9fe878
+ITA	43688	2022-04-16	11:00am	M		WENTW	at	  	NIC                        	 	   	 	C	d3     	2022-04-16T15:00Z			46855626-374a-4eea-b5bb-41830b8697b7
+ITA	73268	2022-04-16	12:00pm	M		SPRG 	at	  	WMA                        	 	   	 	C	d3     	2022-04-16T16:00Z			299fc088-2803-4f0f-872b-72a960cd01c7
+ITA	18933	2022-04-16	12:30pm	M		GUST 	at	  	HAML                       	 	   	 	C	d3     	2022-04-16T16:30Z			f0cca62a-d20e-4276-90d4-ea8a5645a53b
+ITA	52392	2022-04-16	 1:00pm	M		KENY 	at	  	ALGNY                      	 	   	 	C	d3     	2022-04-16T17:00Z			f61dc40f-8779-4e87-93e8-b6694b73d36b
+ITA	49303	2022-04-16	 1:00pm	M		CARLE	at	  	COE                        	 	   	 	 	d3     	2022-04-16T17:00Z			6308294c-53fa-491f-8e5f-abcea9b994fd
+ITA	54788	2022-04-16	 1:00pm	M		CWRU 	at	  	CMU                        	 	   	 	C	d3     	2022-04-16T17:00Z			10871e92-8823-44a8-9fed-25c27a2ad1d3
+ITA	76756	2022-04-16	 1:00pm	M		HVFRD	at	  	DCK                        	 	   	 	C	d3     	2022-04-16T17:00Z			b59727e3-b06b-446a-871a-e1e52b20cc84
+ITA	  892	2022-04-16	 2:00pm	M		AVER 	at	  	METH                       	 	   	 	C	d3     	2022-04-16T18:00Z			f080f8fc-ba26-424d-b9b1-927948a93390
+ITA	18103	2022-04-16	 2:00pm	M		PACIF	at	  	WHITW                      	 	   	 	C	d3     	2022-04-16T18:00Z			531b8f11-35f1-4bfd-a6f8-0fef1ffb181d
+ITA	15639	2022-04-16	 3:00pm	M		RIPON	at	  	LAKEF                      	 	   	 	C	d3     	2022-04-16T19:00Z			78daa220-f54d-4fb2-be8f-da7196fd5041
+ITA	34248	2022-04-16	 4:00pm	M		MNM  	at	  	CRNLC                      	 	   	 	C	d3     	2022-04-16T20:00Z			dafd02c9-baa2-4d9b-9cee-319fd167522b
+ITA	29093	2022-04-16	 4:00pm	M		ILLCO	at	  	GRINN                      	 	   	 	C	d3     	2022-04-16T20:00Z			96be18cb-b830-4c99-a6a2-026b2ea65f91
+ITA	51918	2022-04-16	 9:00pm	M		POM  	at	  	CMS                        	 	   	 	C	d3     	2022-04-17T01:00Z			0c5cb655-0007-43c7-98fe-72b0deda0d3c
+ITA	39395	2022-04-16	 5:00pm	M		TXDAL	at	  	SMU                        	 	   	 	 	d3/d1  	2022-04-16T21:00Z			de0616fa-c29c-4c45-bb37-7f17b9478172
+ITA	75761	2022-04-16	 5:00pm	M		RIT  	at	  	LOC                        	 	   	 	 	d3/d2  	2022-04-16T21:00Z			56694d23-7ad9-4458-8557-b3e3e0d2d25d
+ITA	44437	2022-04-16	 4:30pm	M		GRINN	at	  	MIDLN                      	 	   	 	 	d3/naia	2022-04-16T20:30Z			5844eee3-8cd5-4ca8-857a-4663cb749cb4
+ITA	21253	2022-04-17	 6:00pm	M		NCWES	at	10	WAKE                       	 	   	 	 	d3/d1  	2022-04-17T22:00Z			783bdb4e-90d3-4f0c-8d6b-411a4ff5adbf
+ITA	84347	2022-04-17	10:00am	M		WOOST	at	  	DENIS                      	 	   	 	C	d3     	2022-04-17T14:00Z			59fceb09-4e35-45cf-b9fe-4f1189055ba5
+ITA	39864	2022-04-17	 1:00pm	M		LWRNC	at	  	RIPON                      	 	   	 	C	d3     	2022-04-17T17:00Z			d47c2f23-3590-437c-a702-5ab76511cae4
+ITA	74375	2022-04-17	 2:00pm	M		OBRL 	at	  	DENIS                      	 	   	 	C	d3     	2022-04-17T18:00Z			896bffed-9ad6-4930-97ed-f2fe6d4521b9
+ITA	59364	2022-04-18	 5:00pm	M		BARUC	at	  	ONEO                       	 	   	 	 	d3     	2022-04-18T21:00Z			e7a2a26c-3fc2-4ea6-99a4-7889a5b9d5d8
+ITA	47071	2022-04-19	 1:00pm	M		SOUVA	at	  	AVER                       	 	   	 	C	d3     	2022-04-19T17:00Z			a223097d-429f-4fc2-8b37-afb7f8f27c7b
+ITA	18157	2022-04-19	 2:00pm	M		HUNTC	at	  	LAGRN                      	 	   	 	C	d3     	2022-04-19T18:00Z			4fbd53bf-93e1-4a2d-b20e-52bc3cf6d1db
+ITA	27619	2022-04-19	 3:30pm	M		MARYV	at	  	BREV                       	 	   	 	C	d3     	2022-04-19T19:30Z			b7448ba5-ece1-44e9-82d1-7375db60cd2f
+ITA	61905	2022-04-19	 3:30pm	M		MESS 	at	  	HOOD                       	 	   	 	C	d3     	2022-04-19T19:30Z			25b068ee-a4c3-4c90-9571-a09d752c827e
+ITA	87423	2022-04-19	 4:00pm	M		NIC  	at	  	SUFLK                      	 	   	 	C	d3     	2022-04-19T20:00Z			a4b41c7f-86a4-411d-88c9-5484abc3a2c8
+ITA	46691	2022-04-19	 4:30pm	M		LORAS	at	  	DUBQ                       	 	   	 	C	d3     	2022-04-19T20:30Z			c8a53613-18eb-42e1-9d78-1a57d43e5996
+ITA	 4336	2022-04-19	 5:00pm	M		NWCMN	at	  	SUPER                      	 	   	 	C	d3     	2022-04-19T21:00Z			79c57ab5-a7ba-4c6d-aebe-2c2fb0dd72c3
+ITA	76834	2022-04-20	11:00am	M		ANDIN	at	  	CAP                        	 	   	 	 	d3     	2022-04-20T15:00Z			a2a02b61-56c6-497e-8830-25409b98228b
+ITA	80241	2022-04-20	 4:00pm	M		SPRG 	at	  	BABS                       	 	   	 	C	d3     	2022-04-20T20:00Z			8f272e39-0423-431c-9ed6-f44c372537e2
+ITA	57403	2022-04-20	 4:00pm	M		WCMD 	at	  	HVFRD                      	 	   	 	C	d3     	2022-04-20T20:00Z			5d40d0b8-73b9-43e0-91c9-9589d4d1b623
+ITA	16308	2022-04-20	 5:00pm	M		NCENT	at	  	WHEAT                      	 	   	 	C	d3     	2022-04-20T21:00Z			357293f7-f474-4af9-a4b1-df1278dee702
+ITA	31112	2022-04-20	 3:00pm	M		TXDAL	at	  	CCCC                       	 	   	 	 	d3/juco	2022-04-20T19:00Z			0291281e-1d64-411e-becd-98070924cd17
+ITA	71373	2022-04-21	 6:30pm	M		COLC 	at	  	AUSTN                      	 	   	 	C	d3     	2022-04-21T22:30Z			283fc64a-f620-4dfe-97af-bc8a50903553
+ITA	97181	2022-04-22	 3:00pm	M		COLC 	at	  	MCMUR                      	 	   	 	C	d3     	2022-04-22T19:00Z			1ab0bd53-b4b1-4873-936f-42cf6d08ef80
+ITA	41788	2022-04-22	 5:00pm	M		BTHLU	at	  	SUPER                      	 	   	 	C	d3     	2022-04-22T21:00Z			fcce77c2-8e34-472e-802c-54b24a13796e
+ITA	 9233	2022-04-23	 9:00am	M		COLC 	at	  	HSIMM                      	 	   	 	C	d3     	2022-04-23T13:00Z			4e9a8166-fec8-43d5-8165-730bb55cf343
+ITA	12124	2022-04-23	10:00am	M		CENTR	at	  	DUBQ                       	 	   	 	C	d3     	2022-04-23T14:00Z			8ff47ce9-7151-4b61-8012-ca9c92f59054
+ITA	74743	2022-04-23	11:00am	M		GORD 	at	  	NIC                        	 	   	 	C	d3     	2022-04-23T15:00Z			9e347fa5-17d7-46f3-a032-c2a981a66af7
+ITA	55864	2022-04-23	12:00pm	M		CAP  	vs	  	FRANK                      	 	   	N	 	d3     	2022-04-23T16:00Z			82594625-de57-45fc-a709-c3f8defc0ff9
+ITA	 2368	2022-04-23	12:00pm	M		SCHR 	at	  	TXLUT                      	 	   	 	C	d3     	2022-04-23T16:00Z			bb4963c9-1b18-4796-b7b1-8bbd1268a6ff
+ITA	97659	2022-04-23	12:00pm	M		USCG 	at	  	SPRG                       	 	   	 	C	d3     	2022-04-23T16:00Z			ca5e6bcc-cc59-40c4-87b8-ea352837e70c
+ITA	95901	2022-04-23	 1:00pm	M		LEBAN	at	  	MESS                       	 	   	 	C	d3     	2022-04-23T17:00Z			e3a14cfa-d335-4d90-912b-09e2f060c336
+ITA	 1364	2022-04-23	 2:00pm	M		LUTHR	at	  	COE                        	 	   	 	C	d3     	2022-04-23T18:00Z			0c301e1a-8f64-49b4-bece-a61bcfd0e1c4
+ITA	21576	2022-04-23	 2:00pm	M		COLB 	at	  	TUFTS                      	 	   	 	C	d3     	2022-04-23T18:00Z			653ea003-df33-428a-a8f6-3b7236505f75
+ITA	43966	2022-04-23	 2:00pm	M		SCHOL	at	  	STMAR                      	 	   	 	C	d3     	2022-04-23T18:00Z			91200ff3-536c-47eb-8724-25df058f193d
+ITA	 8373	2022-04-23	 2:00pm	M		SIMP 	at	  	DUBQ                       	 	   	 	C	d3     	2022-04-23T18:00Z			0a4d0c14-c543-4d0a-93ac-46d9ceaf4248
+ITA	67488	2022-04-23	 3:00pm	M		EDGE 	at	  	WARTB                      	 	   	 	 	d3     	2022-04-23T19:00Z			fdfeb874-a2d5-4855-9952-6c8d08bd8cfc
+ITA	95313	2022-04-23	 4:00pm	M		CARLE	at	  	GUST                       	 	   	 	C	d3     	2022-04-23T20:00Z			ec58e3db-8d6e-486d-8cc4-01ba2cce0d35
+ITA	72181	2022-04-23	 9:00am	M		CAP  	at	  	OHCHR                      	 	   	 	 	d3/naia	2022-04-23T13:00Z			d3d953f4-5f7e-4769-807b-cbf1a6d8e410
+ITA	10070	2022-04-23	 2:00pm	M		FRANK	at	  	OHCHR                      	 	   	 	 	d3/naia	2022-04-23T18:00Z			4d5a862f-853c-433d-8de6-a83e58b62411
+ITA	57174	2022-04-23	 3:00pm	M		HANOV	at	  	ASBUR                      	 	   	 	 	d3/naia	2022-04-23T19:00Z			fecee7db-4bd0-4d48-bdae-d2b3c814e46a
+ITA	64839	2022-04-23	 1:00pm	M		ICCC 	at	  	GRINN                      	 	   	 	 	juco/d3	2022-04-23T17:00Z			a5f14644-4464-4d96-a6d7-8590fcc496b4
+ITA	  345	2022-04-24	12:00pm	M		USMM 	at	  	BARUC                      	 	   	 	 	d3     	2022-04-24T16:00Z			e9591075-b148-434b-b43d-76c9eb8806be
+ITA	77857	2022-04-24	12:00pm	M		CARRL	at	  	NCENT                      	 	   	 	 	d3     	2022-04-24T16:00Z			f31e295b-453a-4b40-bb1d-99605dece59d
+ITA	47033	2022-04-24	12:00pm	M		ROSHL	at	  	FRANK                      	 	   	 	C	d3     	2022-04-24T16:00Z			708d96c3-9d6c-4fbf-a02a-6a9e410f8ed4
+ITA	21827	2022-04-24	 2:00pm	M		WESL 	at	  	COLB                       	 	   	 	C	d3     	2022-04-24T18:00Z			82b0d7fd-24e3-48dd-91ed-05fd1063b181
+ITA	82594	2022-04-24	 2:00pm	M		STMAR	at	  	HAML                       	 	   	 	C	d3     	2022-04-24T18:00Z			366cc385-a418-4429-88a2-c6eab82ccf1a
+ITA	72990	2022-04-26	 2:00pm	M		NCWES	at	  	MWSH                       	 	   	 	 	d3     	2022-04-26T18:00Z			fc4ea814-1992-4678-838e-cd7dcda6b1e2
+ITA	75761	2022-04-26	 4:00pm	M		HVFRD	at	  	MUHL                       	 	   	 	C	d3     	2022-04-26T20:00Z			3d2067cf-8ef1-49a0-81f6-327c89756148
+ITA	85391	2022-04-26	 5:00pm	M		LUTHR	at	  	WARTB                      	 	   	 	C	d3     	2022-04-26T21:00Z			752519a9-3149-48cc-8b92-f466e6b3caac
+ITA	81510	2022-04-26	 8:00pm	M		YESH 	at	  	SARAH                      	 	   	 	C	d3     	2022-04-27T00:00Z			3f8838ea-d954-497c-b498-8bf94a56fe3c
+ITA	99126	2022-04-27	 3:30pm	M		MARC 	at	  	CAP                        	 	   	 	C	d3     	2022-04-27T19:30Z			54dcff57-9e7c-4ae4-81f7-8f9b30217323
+ITA	12184	2022-04-28	 6:00pm	M		YESH 	at	  	MSMC                       	 	   	 	C	d3     	2022-04-28T22:00Z			76998142-eb28-4e94-acf5-9816f9f7088b
+ITA	19652	2022-04-30	 6:00pm	M		UCSD 	at	  	CMS                        	 	   	 	 	d1/d3  	2022-04-30T22:00Z			1e5e568a-0f9b-4f28-9368-18302e9bb586
+ITA	22084	2022-04-30	10:00am	M		COLB 	at	  	MIDD                       	 	   	 	C	d3     	2022-04-30T14:00Z			06103f6d-4395-4973-9b85-4c9ae4d07209
+ITA	90195	2022-04-30	12:00pm	M		FRANK	at	  	ANDIN                      	 	   	 	C	d3     	2022-04-30T16:00Z			2526ea39-0863-43f8-874d-0196b701bc80
+ITA	46993	2022-04-30	12:00pm	M		HVFRD	at	  	GETT                       	 	   	 	C	d3     	2022-04-30T16:00Z			2b8c46d6-a6a9-455a-bbee-9e26982bb1b6
+ITA	13602	2022-04-30	 1:00pm	M		BWAL 	at	  	CAP                        	 	   	 	C	d3     	2022-04-30T17:00Z			95db3896-7992-4ba4-8811-97e9838e7449
+ITA	49594	2022-04-30	 1:00pm	M		REDL 	at	  	CMS                        	 	   	 	C	d3     	2022-04-30T17:00Z			37e60e69-6ad9-42bf-bb1b-95f56ef157bc
+ITA	48640	2022-04-30	 4:00pm	M		VISTA	at	  	WARTB                      	 	   	 	C	d3     	2022-04-30T20:00Z			c7616e37-c0a2-46d9-a135-1fa4d266c7d1
+ITA	63393	2022-05-01	10:00am	M		COLB 	at	  	WILL                       	 	   	 	C	d3     	2022-05-01T14:00Z			12cf002e-68b7-4729-9998-55e29640662b
+ITA	24635	2022-05-01	12:30pm	M		NEWES	at	  	WARTB                      	 	   	 	C	d3     	2022-05-01T16:30Z			e1063bd6-15b1-419e-a775-2844ff7ac33c
+ITA	12793	2022-05-01	 1:00pm	M		MNMOR	at	  	SUPER                      	 	   	 	C	d3     	2022-05-01T17:00Z			d493863b-cbc4-4bc4-b3e7-acd054ee405b
+ITA	34036	2022-05-01	 2:00pm	M		MANH 	at	  	YESH                       	 	   	 	C	d3     	2022-05-01T18:00Z			c4b07133-eebc-41e3-b0fe-9ca703454d46
